@@ -46,7 +46,7 @@ _Context: Pakistan, Pervez Musharraf, president_
 _Context: NASA, Spitzer Space Telescope_
 
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, Russian President, Ukraine_
+_Context:  Russian President, Dmitry Medvedev, Ukraine_
 
 ### [ A pilot flying from England to Ireland is airlifted to safety after his two-man aircraft crashes into the Irish Sea near Tuskar Rock. ](/news/2009/08/11/a-pilot-flying-from-england-to-ireland-is-airlifted-to-safety-after-his-two-man-aircraft-crashes-into-the-irish-sea-near-tuskar-rock.md)
 A man has been rescued after his light aircraft ditched into the sea off Co Wexford this afternoon.
@@ -55,7 +55,7 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 _Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Swedish_
 
 ### [ A Russian woman is arrested after throwing a teacup at the "Mona Lisa" portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
-_Context: Louvre, Mona Lisa, Paris, the Russian Federation_
+_Context: Louvre, Mona Lisa, Paris, Russia_
 
 ### [ A passenger plane carrying 13 people, including nine Australians, en route to Kokoda, site of a hiking trail and famous World War II battle, is reported missing over Papua New Guinea. ](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.md)
 A passenger plane carrying 13 people, including nine Australians, is missing feared crashed over Papua New Guinea.

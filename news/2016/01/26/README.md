@@ -19,7 +19,7 @@ _Context: Indonesians, Johor, Malaysia_
 The mosquito-borne Zika virus, linked to brain damage in babies, has already been discovered in Australians returning from South America, virologists say.
 
 ### [Romania offers neighboring Moldova a $65 million (60 million euros) loan to help stave off economic collapse and keep the former Soviet Republic on a pro-European course, provided the Moldovan government implements major reforms. Government funds were needed to cover more than $1 billion that "disappeared" from three Moldovan banks in November 2014. In the frigid capital Chisinau, 15,000 people from both the pro-European and pro-Russian sides of the political divide, protested on Sunday against the current government and demanded new elections. Prime Minister Pavel Filip, who took office last week, is the country's sixth PM in a year. ](/news/2016/01/26/romania-offers-neighboring-moldova-a-65-million-60-million-euros-loan-to-help-stave-off-economic-collapse-and-keep-the-former-soviet-repu.md)
-_Context: Chisinau, Europe, Moldova, Moldova-Romania relations, Moldovan Prime Minister, Pavel Filip, Soviet Republic, government, the Russian Federation_
+_Context: Chisinau, Europe, Moldova, Moldova-Romania relations, Moldovan Prime Minister, Pavel Filip, Russia, Soviet Republic, government_
 
 ### [The Prime Minister of Malaysia Najib Razak is cleared of corruption by the Attorney-General of Malaysia Apandi Ali after returning US$607 million worth of donations to his personal account from the Saudi Royal Family. ](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.md)
 _Context: Malaysia, Malaysian Prime Minister, Najib Razak, Saudi Royal Family_

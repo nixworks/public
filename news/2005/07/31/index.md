@@ -13,7 +13,7 @@ _Context: Central Bank of the Netherlands, European Central Bank, France, Raboba
 _Context: Chile, Christian Democrat, Michelle Bachelet_
 
 ### [ Russia's defence minister Sergei Ivanov bars the country's defense ministry from contacting ABC News after the channel broadcast an interview with Chechen rebel Shamil Basayev ](/news/2005/07/31/russia-s-defence-minister-sergei-ivanov-bars-the-country-s-defense-ministry-from-contacting-abc-news-after-the-channel-broadcast-an-intervi.md)
-_Context: ABC, Chechen, Sergei Ivanov, Shamil Basayev, the Russian Federation_
+_Context: ABC, Chechen, Russia, Sergei Ivanov, Shamil Basayev_
 
 ### [ In Cte d'Ivoire, former rebels known as the New Forces refuse to disarm before legislative reforms ](/news/2005/07/31/in-cote-d-ivoire-former-rebels-known-as-the-new-forces-refuse-to-disarm-before-legislative-reforms.md)
 _Context: Cte d'Ivoire, New Forces_

@@ -1,7 +1,7 @@
 ## [2007-10-4](/news/2007/10/4/index.md)
 
 ### [ United States Republican Party Senator Pete Domenici of New Mexico announces that he will retire at the end of his current term due to a degenerative brain disease. ](/news/2007/10/4/united-states-republican-party-senator-pete-domenici-of-new-mexico-announces-that-he-will-retire-at-the-end-of-his-current-term-due-to-a-de.md)
-_Context: New Mexico, Pete Domenici, Republican, United States, United States Senate_
+_Context: New Mexico, Pete Domenici, Republican, U.S., United States Senate_
 
 ### [ The Prime Minister of Canada Stephen Harper chooses Mark Carney to succeed David Dodge as governor of the Bank of Canada. ](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.md)
 _Context: Bank of Canada, David Dodge, Mark Carney, Prime Minister of Canada, Stephen Harper_
@@ -25,7 +25,7 @@ _Context: Bangladesh, Khaleda Zia, Prime Minister, Supreme Court, bail, case, ex
 _Context: Antonov An-26, DR Congo, Kinshasa, cargo plane, crashes into a residential area_
 
 ### [ North Korea and South Korea agree to seek talks with the People's Republic of China and the United States to reach a permanent peace agreement to formally end the Korean War. ](/news/2007/10/4/north-korea-and-south-korea-agree-to-seek-talks-with-the-people-s-republic-of-china-and-the-united-states-to-reach-a-permanent-peace-agreem.md)
-_Context: China, Korean War, North Korea, South Korea, United States_
+_Context: China, Korean War, North Korea, South Korea, U.S._
 
 ### [ Malcolm Turnbull, the Australian Federal Environment Minister, approves the Gunns Tamar Valley Pulp Mill but with an extensive list of conditions. ](/news/2007/10/4/malcolm-turnbull-the-australian-federal-environment-minister-approves-the-gunns-tamar-valley-pulp-mill-but-with-an-extensive-list-of-cond.md)
 _Context: Australia, Gunns, Malcolm Turnbull, Tamar Valley Pulp Mill_
@@ -37,7 +37,7 @@ The last of 3,200 miners trapped deep in a South African mine shaft have come to
 _Context: Fiji, Laisenia Qarase, Suva, coup in 2006_
 
 ### [ Russia celebrates the fiftieth anniversary of the launch of "Sputnik 1", which marked the start of the Space Race. ](/news/2007/10/4/russia-celebrates-the-fiftieth-anniversary-of-the-launch-of-sputnik-1-which-marked-the-start-of-the-space-race.md)
-_Context: Space Race, Sputnik 1, the Russian Federation_
+_Context: Russia, Space Race, Sputnik 1_
 
 ## [Previous Day...](/news/2007/10/3/index.md)
 

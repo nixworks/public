@@ -19,7 +19,7 @@ _Context: Federal Communications Commission, U.S. Appeals Court Judge, net neutr
 As thousands of residents of Chennai and suburbs were rescued from inundated areas on Thursday , several more were confined to their homes, surrounded by sheets of water.
 
 ### [The Obama Administration and the International Rescue Committee ask a federal judge to reject attempts by Texas to block Syrian refugees from resettling in the state. Later, the Texas Attorney General withdraws the state's December 2, 2015 request for a temporary restraining order. ](/news/2015/12/4/the-obama-administration-and-the-international-rescue-committee-ask-a-federal-judge-to-reject-attempts-by-texas-to-block-syrian-refugees-fro.md)
-_Context: International Rescue Committee, Texas, Texas Attorney General, federal judge, previous administration, refugees from Syria, temporary restraining order_
+_Context: International Rescue Committee, Obama, Texas, Texas Attorney General, federal judge, refugees from Syria, temporary restraining order_
 
 ### [The U.S. Supreme Court agrees to hear an appeal case concerning Puerto Rico's restructuring of debt. ](/news/2015/12/4/the-u-s-supreme-court-agrees-to-hear-an-appeal-case-concerning-puerto-rico-s-restructuring-of-debt.md)
 _Context: Puerto Rico, United States Supreme Court_

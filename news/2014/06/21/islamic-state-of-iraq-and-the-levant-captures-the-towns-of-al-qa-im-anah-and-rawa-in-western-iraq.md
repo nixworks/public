@@ -16,7 +16,7 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 2. [The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _Context: 2014 Northern Iraq offensive, ISIL_
 3. [The Islamic State of Iraq and the Levant is renamed The Islamic State, with a caliphate being proclaimed and Abu Bakr al-Baghdadi being named caliph. ](/news/2014/06/29/the-islamic-state-of-iraq-and-the-levant-is-renamed-the-islamic-state-with-a-caliphate-being-proclaimed-and-abu-bakr-al-baghdadi-being-name.md) _Context: 2014 Northern Iraq offensive, ISIL_
 4. [American human rights group Human Rights Watch claims that Islamic State of Iraq and the Levant executed at least 160 captives earlier this month in Tikrit. ](/news/2014/06/27/american-human-rights-group-human-rights-watch-claims-that-islamic-state-of-iraq-and-the-levant-executed-at-least-160-captives-earlier-this.md) _Context: 2014 Northern Iraq offensive, ISIL_
-5. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
+5. [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md) _Context: ISIL_
 
 ### Changes:
 

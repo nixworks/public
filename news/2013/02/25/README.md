@@ -28,13 +28,13 @@ Swedish-style meatballs for sale at Ikea in the Czech Republic are found to cont
 By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables may help prevent hea
 
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
-_Context: C. Everett Koop, U.S. Surgeon General, United States_
+_Context: C. Everett Koop, U.S., U.S. Surgeon General_
 
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, United States_
+_Context: Afghanistan, NATO, U.S._
 
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
-_Context: enacts, school, smoking, smoking ban, subways, the Russian Federation_
+_Context: Russia, enacts, school, smoking, smoking ban, subways_
 
 ### [The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. ](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-former-uk-cabinet-minister-chris-huhne-begins-hearing-evidence.md)
 _Context: British Cabinet, Chris Huhne, UK, Vicky Pryce, jailed_

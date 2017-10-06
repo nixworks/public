@@ -10,7 +10,7 @@ _Context: Taliban, War in Afghanistan (2015-present)_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md)
-_Context: Central Europe, EU, Gazprom, antitrust, eastern Europe, natural gas, the Russian Federation_
+_Context: Central Europe, EU, Gazprom, Russia, antitrust, eastern Europe, natural gas_
 
 ### [Google announces a new wireless network in the United States called Project Fi with a pay as you go data rate. ](/news/2015/04/22/google-announces-a-new-wireless-network-in-the-united-states-called-project-fi-with-a-pay-as-you-go-data-rate.md)
 Google becomes a mobile virtual network operator, selling cellular service that runs on T-Mobile and Sprint infrastructure.

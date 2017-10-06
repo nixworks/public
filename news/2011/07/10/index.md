@@ -19,7 +19,7 @@ _Context: Beloye, Ukraine_
 _Context: India, Kalka Mail, Uttar Pradesh, derailed_
 
 ### [The cruise ship "Bulgaria" sinks in the Volga River near Bolgar, Russia. At least 110 of the 196 on board go down with the ship and drown, while 80 were rescued alive. ](/news/2011/07/10/the-cruise-ship-bulgaria-sinks-in-the-volga-river-near-bolgar-russia-at-least-110-of-the-196-on-board-go-down-with-the-ship-and-drown-w.md)
-_Context: Bolgar, Bulgaria, Volga River, the Russian Federation_
+_Context: Bolgar, Bulgaria, Russia, Volga River_
 
 ### [Twenty prisoners escape from a jail in the town of Tumaco in Colombia's Narino Department with three people recaptured. ](/news/2011/07/10/twenty-prisoners-escape-from-a-jail-in-the-town-of-tumaco-in-colombia-s-naria-o-department-with-three-people-recaptured.md)
 More than a dozen prisoners, some believed to be dangerous, are on the run in southwestern Colombia after breaking out of jail in the city of Tumaco.

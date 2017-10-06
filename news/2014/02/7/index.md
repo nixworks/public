@@ -16,7 +16,7 @@ _Context: Coca-Cola, Green Mountain Coffee Roasters, United States dollars_
 Protesters smash windows and set ablaze section of government building in Sarajevo on third day of demonstrations.
 
 ### [Russia's Foreign Ministry calls new US sanctions against Iran a "direct violation of the Geneva deal" and "unacceptable". ](/news/2014/02/7/russia-s-foreign-ministry-calls-new-us-sanctions-against-iran-a-direct-violation-of-the-geneva-deal-and-unacceptable.md)
-_Context: the Russian Federation_
+_Context: Russia_
 
 ### [Australian Schapelle Corby is granted parole (along with 1,290 others) in Indonesia after serving nine years in a Bali prison for drug smuggling. ](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.md)
 _Context: Australian, Bali, Indonesia, Schapelle Corby_

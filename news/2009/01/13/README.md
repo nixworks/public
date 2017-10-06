@@ -1,13 +1,13 @@
 ## [2009-01-13](/news/2009/01/13/index.md)
 
 ### [ Despite an agreement to resume delivery of natural gas from Russia to Europe, the European Union says that "very limited" amounts were transmitted. ](/news/2009/01/13/despite-an-agreement-to-resume-delivery-of-natural-gas-from-russia-to-europe-the-european-union-says-that-very-limited-amounts-were-tran.md)
-_Context: EU, Europe, Russia-Ukraine gas disputes, natural gas, the Russian Federation_
+_Context: EU, Europe, Russia, Russia-Ukraine gas disputes, natural gas_
 
 ### [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md)
 _Context: Gaza, Hamas, Israel, Israel Defense Forces, fire, militant, urban warfare_
 
 ### [ The United States Senate Foreign Relations Committee begins confirmation hearings for Hillary Clinton's nomination as Secretary of State. ](/news/2009/01/13/the-united-states-senate-foreign-relations-committee-begins-confirmation-hearings-for-hillary-clinton-s-nomination-as-secretary-of-state.md)
-_Context: Foreign Relations Committee, Hillary Clinton, Secretary of State, United States, United States Senate, confirmation hearings, nomination_
+_Context: Foreign Relations Committee, Hillary Clinton, Secretary of State, U.S., United States Senate, confirmation hearings, nomination_
 
 ### [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md)
 _Context: Angela Merkel, Chancellor, EUR, Germany_

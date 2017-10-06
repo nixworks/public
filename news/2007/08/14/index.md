@@ -10,7 +10,7 @@ _Context: China, Shanghai World Financial Center, fire_
 _Context: Italy, Lampedusa, coast guard, illegal immigrant_
 
 ### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)
-_Context: Dagestan, Internet, Tajikistan, far right, the Russian Federation_
+_Context: Dagestan, Internet, Russia, Tajikistan, far right_
 
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
 _Context: Afghanistan, Gardez, Polish, Taliban, War in Afghanistan (2001-present), casualty_
@@ -85,7 +85,7 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 _Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad, President, Shanghai Cooperation Organisation_
 
 ### [ Russian prosecutors launch a terrorism investigation after an improvised bomb derailed an overnight express train near the village of Malaya Vishera in the Novgorod region. ](/news/2007/08/14/russian-prosecutors-launch-a-terrorism-investigation-after-an-improvised-bomb-derailed-an-overnight-express-train-near-the-village-of-malay.md)
-_Context: Malaya Vishera, Novgorod, bomb, prosecutor, terrorism, the Russian Federation_
+_Context: Malaya Vishera, Novgorod, Russia, bomb, prosecutor, terrorism_
 
 ### [ Alan Ferguson, Liberal Party Senator for South Australia, is elected as the President of the Australian Senate. ](/news/2007/08/14/alan-ferguson-liberal-party-senator-for-south-australia-is-elected-as-the-president-of-the-australian-senate.md)
 South Australian Liberal Senator Alan Ferguson has been elected as the new Senate President.

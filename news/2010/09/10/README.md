@@ -10,7 +10,7 @@ Harrowing details of alleged sex abuse by Roman Catholic clergy in Belgium are r
 _Context: Copenhagen, Denmark_
 
 ### [A Russian Ministry of Emergency Situations plane loaded with victims of the 2010 Vladikavkaz bombing lands at Moscow's Ramenskoye Airport as the death toll reaches 17. ](/news/2010/09/10/a-russian-ministry-of-emergency-situations-plane-loaded-with-victims-of-the-2010-vladikavkaz-bombing-lands-at-moscow-s-ramenskoye-airport-as.md)
-_Context: 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Moscow, Ramenskoye Airport, the Russian Federation_
+_Context: 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Moscow, Ramenskoye Airport, Russia_
 
 ### [A British Army soldier from the Duke of Lancaster's Regiment dies of injuries he received in the war in Afghanistan. ](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.md)
 A British soldier has died in hospital from injuries he suffered in Afghanistan, the Ministry of Defence says.

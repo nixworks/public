@@ -25,7 +25,7 @@ President cancels independence day festivities as country braces for more floods
 Torrential rain brings landslides to more areas in China, as relief teams in devastated Zhouqu county battle against the bad weather.
 
 ### [A forest fire grows in size near Russia's main nuclear research centre in Sarov. ](/news/2010/08/13/a-forest-fire-grows-in-size-near-russia-s-main-nuclear-research-centre-in-sarov.md)
-_Context: Sarov, the Russian Federation, the recent wildfires_
+_Context: Russia, Sarov, the recent wildfires_
 
 ### [2 firefighters are killed fighting wildfires in Fornelos de Montes, Pontevedra, in Galicia, Spain. ](/news/2010/08/13/2-firefighters-are-killed-fighting-wildfires-in-fornelos-de-montes-pontevedra-in-galicia-spain.md)
 Forest fires have now reached northern Spain, killing two firefighters.

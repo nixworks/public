@@ -34,7 +34,7 @@ Move allows for hanging of men convicted of killing Bangladesh independence lead
 _Context: Human rights, Kimberley Process, Zimbabwe_
 
 ### [ The Russian Constitutional Court prolongs a ban on the death penalty. The moratorium had been due to expire on January 1. ](/news/2009/11/19/the-russian-constitutional-court-prolongs-a-ban-on-the-death-penalty-the-moratorium-had-been-due-to-expire-on-january-1.md)
-_Context: Constitutional Court, death penalty, the Russian Federation_
+_Context: Constitutional Court, Russia, death penalty_
 
 ### [ Philippine President Gloria Macapagal-Arroyo steps down as head of the ruling Lakas-Kampi-CMD party and endorses her former defense minister Gilberto Teodoro for President. ](/news/2009/11/19/philippine-president-gloria-macapagal-arroyo-steps-down-as-head-of-the-ruling-lakas-kampi-cmd-party-and-endorses-her-former-defense-ministe.md)
 _Context: Gilberto Teodoro, Gloria Macapagal Arroyo, Lakas-Kampi-CMD, Philippine, Philippine President_

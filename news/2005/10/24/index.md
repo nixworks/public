@@ -7,7 +7,7 @@ _Context: 1955, Civil Rights Movement, Detroit, Montgomery, Alabama, Presidentia
 _Context: Africa, African Union, European Commission, Terrafrica partnership, United Nations, World Bank, desertification_
 
 ### [ Escalating a 'minor diplomatic crisis' between Russia and Norway, two Russian fishing trawlers are taken into custody by the Norwegian Coast Guard after allegedly having done illegal reloading of their vessels near Bear Island (Norway). ](/news/2005/10/24/escalating-a-minor-diplomatic-crisis-between-russia-and-norway-two-russian-fishing-trawlers-are-taken-into-custody-by-the-norwegian-coas.md)
-_Context: Bear Island (Norway), Norway, Norwegian Coast Guard, the Russian Federation, trawler_
+_Context: Bear Island (Norway), Norway, Norwegian Coast Guard, Russia, trawler_
 
 ### [ Israeli-Palestinian Conflict: Two Palestinian militants have died following an Israeli raid into the West Bank area of Tulkarm. ](/news/2005/10/24/israeli-palestinian-conflict-two-palestinian-militants-have-died-following-an-israeli-raid-into-the-west-bank-area-of-tulkarm.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, Tulkarm, West Bank_

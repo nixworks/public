@@ -16,7 +16,7 @@ _Context: 100 metres, Tim Montgomery, bank, fraud, money laundering, world recor
 _Context: Iran, Mahmoud Ahmadinejad, President, produce nuclear fuel on an industrial scale_
 
 ### [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md)
-_Context: Doha, Gas Exporting Countries Forum, Iran, Kazakhstan, OPEC, Qatar, cartel, natural gas, the Russian Federation_
+_Context: Doha, Gas Exporting Countries Forum, Iran, Kazakhstan, OPEC, Qatar, Russia, cartel, natural gas_
 
 ### [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a demonstration calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...

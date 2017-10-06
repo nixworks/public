@@ -1,7 +1,7 @@
 ## [2016-04-11](/news/2016/04/11/index.md)
 
 ### [ At least three suicide bombers attack a police station in Stavropol, Russia. ](/news/2016/04/11/at-least-three-suicide-bombers-attack-a-police-station-in-stavropol-russia.md)
-_Context: 2016 Stavropol bombings, Stavropol, the Russian Federation_
+_Context: 2016 Stavropol bombings, Russia, Stavropol_
 
 ### [Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. ](/news/2016/04/11/clashes-and-air-strikes-are-reported-in-yemen-despite-a-fragile-truce-between-the-government-and-houthis-taking-effect-however-the-truce-a.md)
 A truce aimed at ending more than a year of war in Yemen appears to be largely holding, despite reports of fighting in several places.
@@ -13,7 +13,7 @@ At least 12 people are killed by a bomb targeting police recruits on a bus in ea
 At least five people are killed after a suicide bomb attack on a restaurant near a local government building in the Somali capital, Mogadishu.
 
 ### [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md)
-_Context: 2008 financial crisis, Goldman Sachs, United States Department of Justice, housing crisis_
+_Context: 2008 financial crisis, Department of Justice, Goldman Sachs, housing crisis_
 
 ### [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-tem.md)
 Intense spell of hot and dry weather brought on by El Nino hits food and water supplies across parts of SE Asia.

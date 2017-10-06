@@ -37,7 +37,7 @@ _Context: Iran, Sakineh Mohammadi Ashtiani_
 _Context: Hainan, South China_
 
 ### [A second Russian journalist is attacked in Moscow. Motivation is unclear but both had written about trees being felled to make way for motorways. ](/news/2010/11/9/a-second-russian-journalist-is-attacked-in-moscow-motivation-is-unclear-but-both-had-written-about-trees-being-felled-to-make-way-for-motor.md)
-_Context: Moscow, the Russian Federation_
+_Context: Moscow, Russia_
 
 ### [A riot in the Pedrinhas prison in north-eastern Brazil results in eighteen prisoner deaths and a guard being wounded. ](/news/2010/11/9/a-riot-in-the-pedrinhas-prison-in-north-eastern-brazil-results-in-eighteen-prisoner-deaths-and-a-guard-being-wounded.md)
 Eighteen inmates were killed and a prison guard shot and wounded during a prison riot in north-eastern Brazil that ended on Tuesday, officials said.
@@ -61,7 +61,7 @@ _Context: Union Solidarity and Development Party, general elections_
 David Cameron&#039;s visit to China has been overshadowed by human rights concerns after Chinese security forces barred the lawyer of Liu Xiaobo, the Chinese Nobel Peace prize winner, from leaving the country.
 
 ### [Construction of a factory for the first fleet of commercial spaceships begins at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
-_Context: Mojave Air and Space Port, SpaceShipTwo, United States_
+_Context: Mojave Air and Space Port, SpaceShipTwo, U.S._
 
 ## [Previous Day...](/news/2010/11/8/index.md)
 

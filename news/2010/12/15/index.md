@@ -47,7 +47,7 @@ The UN Security Council lifts most international sanctions imposed on Iraq durin
 
 ### [Palestinian firefighters who helped fight the Carmel fire in Israel last week are refused a permit to enter Israel for a ceremony in their honor. Officials said the firemen were denied entry as result of a "technical mishap". ](/news/2010/12/15/palestinian-firefighters-who-helped-fight-the-carmel-fire-in-israel-last-week-are-refused-a-permit-to-enter-israel-for-a-ceremony-in-their-h.md)
 ### [700 people are arrested in Moscow, Russia, in attempt to prevent ethnic clashes over the shooting of a football fan. ](/news/2010/12/15/700-people-are-arrested-in-moscow-russia-in-attempt-to-prevent-ethnic-clashes-over-the-shooting-of-a-football-fan.md)
-_Context: Moscow, the Russian Federation_
+_Context: Moscow, Russia_
 
 ### [The Obama administration launches legal action against BP and its partners to recover the cost of cleaning up the Deepwater Horizon oil spill. ](/news/2010/12/15/the-obama-administration-launches-legal-action-against-bp-and-its-partners-to-recover-the-cost-of-cleaning-up-the-deepwater-horizon-oil-spil.md)
 The Obama administration on Wednesday launched a legal battle against BP Plc and its partners by suing them for the worst offshore oil spill in U.S. history, which could cost the companies billions of dollars.

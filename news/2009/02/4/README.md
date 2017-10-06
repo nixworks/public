@@ -7,7 +7,7 @@ _Context: Izzeldin Abuelaish, an officer_
 The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to raise trillions of dollars needed to cope with a deepening recession and the worst financial crisis since the Great Depression.
 
 ### [ Fitch Ratings downgrades Russia's long-term foreign and local currency ratings to BBB and places its outlook on negative. ](/news/2009/02/4/fitch-ratings-downgrades-russia-s-long-term-foreign-and-local-currency-ratings-to-bbb-and-places-its-outlook-on-negative.md)
-_Context: Fitch Ratings, the Russian Federation_
+_Context: Fitch Ratings, Russia_
 
 ### [ Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. ](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more-than-80-suicide-bombers-is-arrested-in-iraq.md)
 _Context: Iraq, suicide bomber_

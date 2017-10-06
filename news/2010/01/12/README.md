@@ -1,13 +1,13 @@
 ## [2010-01-12](/news/2010/01/12/index.md)
 
 ### [A bomb blast damages the Mozdok - Makhachkala - Kazi Magomed pipeline in Russia's Republic of Dagestan, leaving eleven towns in the republic without gas supply. ](/news/2010/01/12/a-bomb-blast-damages-the-mozdok-a-makhachkala-a-kazi-magomed-pipeline-in-russia-s-republic-of-dagestan-leaving-eleven-towns-in-the-repu.md)
-_Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, the Russian Federation_
+_Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Russia_
 
 ### [China's top search engine Baidu is allegedly attacked by Iranian hackers, sparking a retaliatory attack by Chinese hackers on Iranian sites. ](/news/2010/01/12/china-s-top-search-engine-baidu-is-allegedly-attacked-by-iranian-hackers-sparking-a-retaliatory-attack-by-chinese-hackers-on-iranian-sites.md)
 _Context: Baidu, China, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
 
 ### [Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-raid-in-la-paz-baj.md)
 _Context: La Paz, Baja California Sur, Mexico, Teodoro Garcia Simental_

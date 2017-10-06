@@ -7,7 +7,7 @@ _Context: Luis Armando Pena Soltren, Pan Am Flight 281, aircraft piracy_
 _Context: Alan Garcia, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, President_
 
 ### [ Mayoral, regional and district council elections take place in Moscow and 75 other regions across Russia. ](/news/2009/10/11/mayoral-regional-and-district-council-elections-take-place-in-moscow-and-75-other-regions-across-russia.md)
-_Context: Moscow, the Russian Federation_
+_Context: Moscow, Russia_
 
 ### [ Thousands of people march in protest for gay rights in Washington, D.C.. ](/news/2009/10/11/thousands-of-people-march-in-protest-for-gay-rights-in-washington-d-c.md)
 _Context: District of Columbia, gay rights_

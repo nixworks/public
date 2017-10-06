@@ -8,7 +8,7 @@ _Context: Brandeis University, Jimmy Carter, Palestine: Peace Not Apartheid, Uni
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ India and Russia agree to jointly develop fifth-generation stealth fighter jets. ](/news/2007/01/24/india-and-russia-agree-to-jointly-develop-fifth-generation-stealth-fighter-jets.md)
-_Context: India, fifth-generation stealth fighter jets, the Russian Federation_
+_Context: India, Russia, fifth-generation stealth fighter jets_
 
 ### [ Over 100,000 Turkish citizens, including those of Armenian descent fill the streets of Istanbul to mourn and mark the assassination of Hrant Dink, editor of the dissident newspaper "Agos". ](/news/2007/01/24/over-100-000-turkish-citizens-including-those-of-armenian-descent-fill-the-streets-of-istanbul-to-mourn-and-mark-the-assassination-of-hran.md)
 UNESCO condemned the killing of Hrant Dink editorinchief of bilingual TurkishArmenian weekly Agos and praised the swiftly operated investigation carried out by Turkish authorities.

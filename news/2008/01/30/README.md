@@ -4,7 +4,7 @@
 _Context: Hurricane Katrina, New Orleans, Louisiana, Stanwood Duval, U.S. Army Corps of Engineers, U.S. federal court, class action, judge, levee_
 
 ### [ Russian Finance Minister Alexei Kudrin and state electricity chief Anatoly Chubais call for a less hawkish foreign policy. Analysts claim the two are close to the likely next President of Russia Dmitry Medvedev. ](/news/2008/01/30/russian-finance-minister-alexei-kudrin-and-state-electricity-chief-anatoly-chubais-call-for-a-less-hawkish-foreign-policy-analysts-claim-t.md)
-_Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, Russian President, the Russian Federation_
+_Context:  Russian President, Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, Russia_
 
 ### [ The United States Federal Reserve cuts the federal funds rate by half a point to 3 per cent, the second cut in this key interest rate in eight days as it acts to head off a recession. ](/news/2008/01/30/the-united-states-federal-reserve-cuts-the-federal-funds-rate-by-half-a-point-to-3-per-cent-the-second-cut-in-this-key-interest-rate-in-ei.md)
 In lowering its benchmark rate by a half-point to 3 percent, the Fed said that it was worried mainly about an economic slowdown, not rising inflation. 

@@ -13,7 +13,7 @@ Sixty-nine Kurdish insurgents and two Turkish soldiers have been killed in four 
 A car bomb exploded on Saturday on a busy street in the Somali capital Mogadishu, killing at least three people and wounding at least eight, a police officer said.
 
 ### [Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia-in-the-next-few-days-as-the-countr.md)
-_Context: Ali Akbar Salehi, Iran, Iran nuclear chief, Joint Comprehensive Plan of Action, enriched uranium, the Russian Federation_
+_Context: Ali Akbar Salehi, Iran, Iran nuclear chief, Joint Comprehensive Plan of Action, Russia, enriched uranium_
 
 ### [Germany's refugee crisis coordinator Peter Altmaier says, in an interview with German magazine "Focus", that he and Austrian special minister Josef Ostermayer are working on a proposal for a common European asylum law. He added other countries such as France and The Netherlands would be approached soon. ](/news/2015/12/19/germany-s-refugee-crisis-coordinator-peter-altmaier-says-in-an-interview-with-german-magazine-focus-that-he-and-austrian-special-ministe.md)
 _Context: Austria, European migrant crisis, France, German magazine ''Focus'', Germany's refugee crisis coordinator, Netherlands, Peter Altmaier, special minister Josef Ostermayer_

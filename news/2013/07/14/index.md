@@ -7,7 +7,7 @@ Government troops fired tank shells and artillery in heavy clashes between Syria
 Dozens of people have been killed in a wave of explosions which tore through overwhelmingly Shiite cities south of Baghdad shortly before Muslims broke their Ramadan fasts.
 
 ### [Four policemen are killed in Russia's restless Dagestan region as gunmen open fire on their car. ](/news/2013/07/14/four-policemen-are-killed-in-russia-s-restless-dagestan-region-as-gunmen-open-fire-on-their-car.md)
-_Context: Dagestan, the Russian Federation_
+_Context: Dagestan, Russia_
 
 ### [Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. ](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.md)
 _Context: China, Guangdong, Taiwan, Typhoon Soulik_

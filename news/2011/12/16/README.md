@@ -34,13 +34,13 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Japan, cold shutdown_
 _Context: Hand, foot and mouth disease, Vietnam_
 
 ### [The United States and North Korea are expected to hold diplomatic talks regarding North Korea's nuclear program. The talks are the first meeting after the six-party talks stalled in 2008. ](/news/2011/12/16/the-united-states-and-north-korea-are-expected-to-hold-diplomatic-talks-regarding-north-korea-s-nuclear-program-the-talks-are-the-first-mee.md)
-_Context: North Korea, United States, its nuclear weapons program, six-party talks_
+_Context: North Korea, U.S., its nuclear weapons program, six-party talks_
 
 ### [The International Criminal Court dismisses charges against Callixte Mbarushimana, a Rwandan rebel accused of the torture, rape and murder of Congolese villagers by Hutu militia in 2009. ](/news/2011/12/16/the-international-criminal-court-dismisses-charges-against-callixte-mbarushimana-a-rwandan-rebel-accused-of-the-torture-rape-and-murder-of.md)
 _Context: Callixte Mbarushimana, Democratic Republic of the Congo, Hutu, International Criminal Court, Rwanda_
 
 ### [Russian customs seize radioactive material bound for Iran. ](/news/2011/12/16/russian-customs-seize-radioactive-material-bound-for-iran.md)
-_Context: Iran, radioactive, the Russian Federation_
+_Context: Iran, Russia, radioactive_
 
 ### [Hollywood actor Christian Bale is prevented from visiting Chinese dissident Chen Guangcheng by police. ](/news/2011/12/16/hollywood-actor-christian-bale-is-prevented-from-visiting-chinese-dissident-chen-guangcheng-by-police.md)
 Hollywood actor Christian Bale was roughed up by Chinese security guards as he attempted to visit a blind legal activist whose detention has sparked a domestic and international outcry, CNN reported on Friday.

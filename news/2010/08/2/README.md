@@ -13,7 +13,7 @@ _Context: First Folio, William Shakespeare_
 Cuban President Raul Castro rules out wide-ranging market reforms but says more Cubans will be allowed to be self-employed.
 
 ### [Hundreds of new wildfires erupt in Russia as fire has damaged or destroyed 27 towns and villages. ](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.md)
-_Context: the Russian Federation, the recent wildfires_
+_Context: Russia, the recent wildfires_
 
 ### [A fire at a retirement home in Nigel, Gauteng, South Africa, kills 18 people. ](/news/2010/08/2/a-fire-at-a-retirement-home-in-nigel-gauteng-south-africa-kills-18-people.md)
 _Context: Nigel, Gauteng, South Africa_

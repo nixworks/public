@@ -25,7 +25,7 @@ _Context: East 34th Street Heliport, East River, New York City, helicopter crash
 _Context: Japan, North Korean defectors, South Korea_
 
 ### [Russia and the People's Republic of China veto a United Nations Security Council resolution condemning Syria for a crackdown on political protestors. ](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.md)
-_Context: 2011 Syrian uprising, China, Syria, United Nations Security Council, the Russian Federation_
+_Context: 2011 Syrian uprising, China, Russia, Syria, United Nations Security Council_
 
 ### [The European Court of Justice rules against "the imposition of national borders to sell broadcasting rights on a territory-by-territory basis", as this is in contravention of EU laws on free trade. It would allow members of the public to seek cheaper providers of Premier League football, whilst finding against a landlady who used Greek television to show live football in her public house. ](/news/2011/10/4/the-european-court-of-justice-rules-against-the-imposition-of-national-borders-to-sell-broadcasting-rights-on-a-territory-by-territory-basi.md)
 _Context: EU, English Premier League, European Court of Justice, public house_

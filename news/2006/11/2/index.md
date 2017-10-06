@@ -7,7 +7,7 @@ _Context: Microsoft, Microsoft Windows, Novell, Novell's SUSE Linux, operating s
 _Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Eustatius, Sint Maarten, The Hague, associated state_
 
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
-_Context: National Association of Evangelicals, Ted Haggard, United States_
+_Context: National Association of Evangelicals, Ted Haggard, U.S._
 
 ### [ The journal "Science" publishes ](/news/2006/11/2/the-journal-science-publishes.md)
 _Context: Science_
@@ -19,7 +19,7 @@ _Context: Iran, bombs, military, military exercise, missiles_
 _Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Polish, Spanish, Sri Lanka, United Kingdom_
 
 ### [ Gazprom, Russia's state-controlled natural gas monopoly, intends to double the price it charges Georgia. This follows the 2006 Georgian-Russian espionage controversy in early October. ](/news/2006/11/2/gazprom-russia-s-state-controlled-natural-gas-monopoly-intends-to-double-the-price-it-charges-georgia-this-follows-the-2006-georgian-rus.md)
-_Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgian, natural gas, the Russian Federation_
+_Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgian, Russia, natural gas_
 
 ### [ Don McKinnon, the Commonwealth Secretary-General, conveys the support of the Commonwealth of Nations to the Prime Minister of Fiji Laisenia Qarase. He warned Fijian military commander Frank Bainimarama against staging a coup d'etat. ](/news/2006/11/2/don-mckinnon-the-commonwealth-secretary-general-conveys-the-support-of-the-commonwealth-of-nations-to-the-prime-minister-of-fiji-laisenia.md)
 _Context: Commonwealth of Nations, Don McKinnon, Fiji, Laisenia Qarase, Prime Minister, Secretary-General, Voreqe Bainimarama, coup d'tat_

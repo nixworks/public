@@ -7,7 +7,7 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 _Context: Gulf of Mexico, Mexico, PEMEX_
 
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: ''Dalniy Vostok'', Kamchatka Peninsula, sinks, the Russian Federation_
+_Context: ''Dalniy Vostok'', Kamchatka Peninsula, Russia, sinks_
 
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
 _Context: California, Jerry Brown, worst drought in California history_

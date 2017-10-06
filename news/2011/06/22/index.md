@@ -40,7 +40,7 @@ _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand, Tasmania_
 _Context: China, heavy flood_
 
 ### [The death toll from RusAir Flight 9605 in Petrozavodsk, Russia, rises to 45. ](/news/2011/06/22/the-death-toll-from-rusair-flight-9605-in-petrozavodsk-russia-rises-to-45.md)
-_Context: Petrozavodsk, RusAir Flight 9605, the Russian Federation_
+_Context: Petrozavodsk, RusAir Flight 9605, Russia_
 
 ### [A tornado touches down in the US city of Louisville, Kentucky near the University of Louisville Belknap campus, damaging some buildings at the Churchill Downs horse racing track. ](/news/2011/06/22/a-tornado-touches-down-in-the-us-city-of-louisville-kentucky-near-the-university-of-louisville-belknap-campus-damaging-some-buildings-at-t.md)
 _Context: Churchill Downs, Kentucky, Louisville, Kentucky, University of Louisville, tornado_

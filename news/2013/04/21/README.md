@@ -19,7 +19,7 @@ Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from br
 _Context: China, Jilin province, mining accident_
 
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
-_Context: Mississippi River, Missouri, St. Louis, United States, crest, flooding, midwestern_
+_Context: Mississippi River, Missouri, St. Louis, U.S., crest, flooding, midwestern_
 
 ### [North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/north-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md)
 North Korea has moved two more missile launchers to its east coast, where preparations are apparently under way for a missile test as tensions simmer on the peninsula, reports say.
@@ -28,7 +28,7 @@ North Korea has moved two more missile launchers to its east coast, where prepar
 A court in Brazil has sentenced 23 police officers to 156 years in jail each for their involvement in the notorious Carandiru prison massacre in 1992.
 
 ### [Five people are killed in a shooting incident at an apartment complex in Federal Way, Washington, south of Seattle, United States. ](/news/2013/04/21/five-people-are-killed-in-a-shooting-incident-at-an-apartment-complex-in-federal-way-washington-south-of-seattle-united-states.md)
-_Context: Federal Way, Seattle, United States, Washington_
+_Context: Federal Way, Seattle, U.S., Washington_
 
 ### [Egypt's Justice Minister Ahmed Mekki resigns in protest of perceived attacks on judiciary by the nation's leadership. ](/news/2013/04/21/egypt-s-justice-minister-ahmed-mekki-resigns-in-protest-of-perceived-attacks-on-judiciary-by-the-nation-s-leadership.md)
 Egyptian Justice Minister Ahmed Mekky resigns, following demands from Islamist supporters of President Morsi for the &quot;cleansing&quot; of the judiciary.

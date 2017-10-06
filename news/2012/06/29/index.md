@@ -62,7 +62,7 @@ Faced with mounting political pressure, the South Korean government abruptly del
 President-elect Mohammed Morsi promises crowd of mostly Islamist supporters to work to free spiritual leader jailed in U.S. for plot to blow up NYC landmarks
 
 ### [Uzbekistan quits the Russian-led Collective Security Treaty Organization. ](/news/2012/06/29/uzbekistan-quits-the-russian-led-collective-security-treaty-organization.md)
-_Context: Collective Security Treaty Organization, Uzbekistan, the Russian Federation_
+_Context: Collective Security Treaty Organization, Russia, Uzbekistan_
 
 ### [Over 15000 Japanese protest against nuclear power. ](/news/2012/06/29/over-15000-japanese-protest-against-nuclear-power.md)
 _Context: Japan_

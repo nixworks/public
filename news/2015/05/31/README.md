@@ -19,7 +19,7 @@ _Context: Nepal, suspicions_
 Russia will take part in naval military exercises together with its Asia Pacific allies, according to Russian Deputy Defense Minister Anatoly Antonov.
 
 ### [Russian Su-24 attack aircraft intercept the US destroyer Ross in the Black Sea at the edge of Russian territorial waters. ](/news/2015/05/31/russian-su-24-attack-aircraft-intercept-the-us-destroyer-ross-in-the-black-sea-at-the-edge-of-russian-territorial-waters.md)
-_Context: Black Sea, Su-24, US destroyer Ross, the Russian Federation_
+_Context: Black Sea, Russia, Su-24, US destroyer Ross_
 
 ### [John Kerry, the United States Secretary of State, is taken to hospital in Switzerland with a broken leg following a cycling accident in the nearby French town of Scionzier. Kerry had been in Geneva negotiating with the Iranian Foreign Minister Mohammad Javad Zarif. ](/news/2015/05/31/john-kerry-the-united-states-secretary-of-state-is-taken-to-hospital-in-switzerland-with-a-broken-leg-following-a-cycling-accident-in-the.md)
 US Secretary of State John Kerry is taken to hospital in Switzerland after breaking his leg in a bicycle crash in the French Alps.

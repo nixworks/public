@@ -4,7 +4,7 @@
 _Context: 1940, Pope Benedict XVI, Roger Louis Schutz-Marsauche, Taize Community_
 
 ### [ Russian cosmonaut Sergei K. Krikalev set a record for the most days spent in space, clocking almost 748 days over a 20-year career. [http:--news.yahoo.com-news?tmpl=story&u=-afp-20050816-en_afp-russiausspaceiss_050816194454 (AFP via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC)), [http:--news.yahoo.com-news?tmpl=story&cid=585&ncid=585&e=1&u=-nm-20050816-sc_nm-space_record_dc_2 (Reuters via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC))](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-http.md)
-_Context: Sergei K. Krikalev, astronaut, record for the most days spent in space, the Russian Federation_
+_Context: Russia, Sergei K. Krikalev, astronaut, record for the most days spent in space_
 
 ### [ In Richmond, Virginia, thousands of people stampede at the Richmond International Raceway to obtain one of 1000 $50 iBooks being liquidated by the Henrico County school district. Seventeen people suffer minor injuries, with four requiring hospital treatment. ](/news/2005/08/16/in-richmond-virginia-thousands-of-people-stampede-at-the-richmond-international-raceway-to-obtain-one-of-1000-50-ibooks-being-liquidated.md)
 A rush to purchase $50 used laptops turned into a violent stampede Tuesday, with people getting thrown to the pavement, beaten with a folding chair and nearly driven over. 

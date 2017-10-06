@@ -34,7 +34,7 @@ _Context: Belarus, Minsk_
 Seven suspects sent to prison ahead of trial as allegations rock Turkish league.
 
 ### [Russian government daily "Rossiyskaya Gazeta" publishes a list of individuals and companies allegedly involved in money laundering and financing of terrorism. ](/news/2011/07/6/russian-government-daily-rossiyskaya-gazeta-publishes-a-list-of-individuals-and-companies-allegedly-involved-in-money-laundering-and-finan.md)
-_Context: Rossiyskaya Gazeta, money laundering, terrorism, the Russian Federation_
+_Context: Rossiyskaya Gazeta, Russia, money laundering, terrorism_
 
 ### [The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. ](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitcher-roger-clemens-commences-in-the-u-s-over-allegedly-false-statements-made-to-a-united-stat.md)
 _Context: Roger Clemens, United States Congress, baseball game, performance-enhancing drugs, perjury, pitcher_

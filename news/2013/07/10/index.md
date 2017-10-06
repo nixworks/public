@@ -25,7 +25,7 @@ _Context: 2013 Republican Guard headquarters clashes, Egyptian, Mohammed Badie, 
  Ulaanbaatar /MONTSAME/ The incumbent President of Mongolia Elbegdorj Tsakhia who won the 6th Presidential election took his oath at 11.40 am on Wedne...
 
 ### [Prominent Russian opposition figure Alexei Navalny registers himself to stand in September's vote for Moscow mayor. ](/news/2013/07/10/prominent-russian-opposition-figure-alexei-navalny-registers-himself-to-stand-in-september-s-vote-for-moscow-mayor.md)
-_Context: Alexei Navalny, Mayor of Moscow, Moscow, the Russian Federation, vote_
+_Context: Alexei Navalny, Mayor of Moscow, Moscow, Russia, vote_
 
 ### [The President of Portugal Cavaco Silva calls for a national salvation understanding between the three main parties: the Socialists, and the governing coalition PSD and CDS-PP. In a statement after the President's communication to the country, the Socialists said they will not support such Government and called for early elections. ](/news/2013/07/10/the-president-of-portugal-cavaco-silva-calls-for-a-national-salvation-understanding-between-the-three-main-parties-the-socialists-and-the.md)
 President Anibal Cavaco Silva proposed an urgent cross-party agreement between the ruling coalition and opposition Socialists on Wednesday to ensure Portugal can complete adjustments under a bailout by June 2014 before holding early elections.

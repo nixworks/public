@@ -13,7 +13,7 @@ The withdrawal of News Corporation’s $580 million offer leaves Mortimer B. Zuc
 _Context: 2008 attack on Omdurman and Khartoum, Darfur, Justice and Equality Movement, Khartoum, Sudanese military_
 
 ### [ Russia's air force chief Col.-Gen. Alexander Zelin accuses NATO fighters of launching "air attacks" during escort of Russian bombers. ](/news/2008/05/10/russia-s-air-force-chief-col-gen-alexander-zelin-accuses-nato-fighters-of-launching-air-attacks-during-escort-of-russian-bombers.md)
-_Context: Alexander Zelin, NATO, the Russian Federation_
+_Context: Alexander Zelin, NATO, Russia_
 
 ### [ Muqtada al-Sadr and the Iraqi Government announced a ceasefire in Baghdad's Sadr district. ](/news/2008/05/10/muqtada-al-sadr-and-the-iraqi-government-announced-a-ceasefire-in-baghdad-s-sadr-district.md)
 _Context: Muqtada al-Sadr_

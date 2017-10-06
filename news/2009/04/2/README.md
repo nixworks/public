@@ -4,7 +4,7 @@
 _Context: Aerospace manufacturer, Bombardier Aerospace, Canada, layoff_
 
 ### [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md)
-_Context: Afghanistan, Bagram, Bagram Air Base, John D. Bates, United States, United States federal judge, civil rights, enemy combatant, trial_
+_Context: Afghanistan, Bagram, Bagram Air Base, John D. Bates, U.S., United States federal judge, civil rights, enemy combatant, trial_
 
 ### [ The Group of 20 announces a US$1-trillion agreement to combat the current financial crisis. ](/news/2009/04/2/the-group-of-20-announces-a-us-1-trillion-agreement-to-combat-the-current-financial-crisis.md)
 _Context: $, G-20, announces, current financial crisis_
@@ -16,7 +16,7 @@ _Context: Swiss Re, layoff, reinsurance_
 _Context: 2009, Australian Grand Prix, International Automobile Federation, Lewis Hamilton, McLaren, Mercedes, Vodafone Group Plc, disqualified_
 
 ### [ The U.S. Federal Bureau of Investigation is probing an Internet leak of the upcoming film "X-Men Origins: Wolverine". ](/news/2009/04/2/the-u-s-federal-bureau-of-investigation-is-probing-an-internet-leak-of-the-upcoming-film-x-men-origins-wolverine.md)
-_Context: FBI, Internet, United States, X-Men Origins: Wolverine, leak, upcoming film_
+_Context: FBI, Internet, U.S., X-Men Origins: Wolverine, leak, upcoming film_
 
 ### [ Mexico's Federal Investigations Agency arrests alleged drug trafficker Vicente Carrillo Leyva in Mexico City. ](/news/2009/04/2/mexico-s-federal-investigations-agency-arrests-alleged-drug-trafficker-vicente-carrillo-leyva-in-mexico-city.md)
 _Context: Federal Investigations Agency, Mexico, Mexico City, anti-drug plan_

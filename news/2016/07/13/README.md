@@ -16,7 +16,7 @@ South Sudan: U.S. troops were rushed to evacuate Americans and embassy personnel
 _Context: Carla Hayden, Librarian of Congress, Library of Congress_
 
 ### [A bus crashes on a highway in Dagestan, Russia, killing at least nine people and injuring dozens more. ](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.md)
-_Context: Dagestan, the Russian Federation_
+_Context: Dagestan, Russia_
 
 ### [South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-system-in-seongju-county-in-the-country-s.md)
 _Context: North Korea, North Korea-South Korea relations, Seongju County, South Korea, U.S. Terminal High Altitude Area Defense (THAAD) system launchers_

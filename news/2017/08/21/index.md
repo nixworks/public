@@ -25,7 +25,7 @@ _Context: Sanctions against North Korea, United Nations, chemical weapons_
 _Context: EDSA, Philippine Catholic Church, Philippines, teenager killed, war on drugs_
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
-_Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
+_Context: North America, Solar eclipse of August 21, 2017, U.S., contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
 ## [Previous Day...](/news/2017/08/20/index.md)
 

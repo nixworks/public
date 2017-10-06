@@ -4,7 +4,7 @@
 _Context: Dysnomia, Eris, Solar System, dwarf planet_
 
 ### [ Andrei Kozlov, deputy chairman of Russia's Central Bank, dies hours after being shot. ](/news/2006/09/13/andrei-kozlov-deputy-chairman-of-russia-s-central-bank-dies-hours-after-being-shot.md)
-_Context: Andrei Kozlov, the Russian Federation_
+_Context: Andrei Kozlov, Russia_
 
 ### [ Dawson College in Montreal is the scene of a shooting, with preliminary reports indicating at least two killed (one being the gunman) and 20 injured. ](/news/2006/09/13/dawson-college-in-montreal-is-the-scene-of-a-shooting-with-preliminary-reports-indicating-at-least-two-killed-one-being-the-gunman-and-2.md)
 _Context: Dawson College, Montreal, shooting_

@@ -1,7 +1,7 @@
 ## [2011-01-18](/news/2011/01/18/index.md)
 
 ### [A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md)
-_Context: United States, War in North-West Pakistan, drone attack_
+_Context: U.S., War in North-West Pakistan, drone attack_
 
 ### [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md)
 _Context: Darfur, Sudan People's Armed Forces, conflict_
@@ -46,7 +46,7 @@ South Africa declares a state of national disaster, after the deaths of 41 peopl
 _Context: Sri Lanka_
 
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: Dmitry Medvedev, East Jerusalem, Russian President, West Bank_
+_Context:  Russian President, Dmitry Medvedev, East Jerusalem, West Bank_
 
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
 _Context: Puntland, Somalian_

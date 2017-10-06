@@ -16,7 +16,7 @@ _Context: France, Francoise Barre-Sinoussi, Germany, HIV, Harald zur Hausen, Luc
 Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 for the first time in four years, on fears the global economy was hurtling into recession despite government efforts to contain the fast-spreading financial crisis.
 
 ### [ Trading is suspended on Russia's leading stock exchanges after shares plunged nearly 20 percent amid a backdrop of falling oil prices and fears over the global economy. ](/news/2008/10/6/trading-is-suspended-on-russia-s-leading-stock-exchanges-after-shares-plunged-nearly-20-percent-amid-a-backdrop-of-falling-oil-prices-and-f.md)
-_Context: percent, the Russian Federation_
+_Context: Russia, percent_
 
 ### [ A suicide blast in the Sri Lankan town of Anuradhapura has killed 25 people, including the former army general Janaka Perera. ](/news/2008/10/6/a-suicide-blast-in-the-sri-lankan-town-of-anuradhapura-has-killed-25-people-including-the-former-army-general-janaka-perera.md)
 _Context: Anuradhapura, Janaka Perera, Sri Lanka_
@@ -25,7 +25,7 @@ _Context: Anuradhapura, Janaka Perera, Sri Lanka_
 _Context: Hong Kong, Nancy Kissel_
 
 ### [ U.S. to rely on Russia for manned space flights between 2010 and 2015. ](/news/2008/10/6/u-s-to-rely-on-russia-for-manned-space-flights-between-2010-and-2015.md)
-_Context: the Russian Federation_
+_Context: Russia_
 
 ### [ Human Rights Watch says Somalia is "most ignored tragedy" and the international community has "completely failed Somali civilians" regarding destruction of Mogadishu. ](/news/2008/10/6/human-rights-watch-says-somalia-is-most-ignored-tragedy-and-the-international-community-has-completely-failed-somali-civilians-regardin.md)
 _Context: Human Rights Watch, Mogadishu, Somalian_

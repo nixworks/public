@@ -13,7 +13,7 @@ _Context: Chen Shui-bian, President, Republic of Taiwan, Taiwan, World Trade Org
 _Context: Michael Jackson_
 
 ### [ The United States Department of Justice charges 47 people, including former employees of JP Morgan and UBS, with offenses related to foreign exchange fraud. At the same time investigations into fraud in the US mutual fund industry widen. The U.S. House of Representatives approves a draft bill that explicitly bans some of the troublesome mutual fund practices. Some commentators think these various financial scandals are undermining the US dollar, which falls to an all-time low against the euro.](/news/2003/11/19/the-united-states-department-of-justice-charges-47-people-including-former-employees-of-jp-morgan-and-ubs-with-offenses-related-to-foreig.md)
-_Context: EUR, United States Department of Justice, United States House of Representatives, foreign exchange_
+_Context: Department of Justice, EUR, United States House of Representatives, foreign exchange_
 
 ### [ President Hosni Mubarak of Egypt is taken ill during a live television broadcast; he had taken antibiotics whilst fasting during Ramadan.](/news/2003/11/19/president-hosni-mubarak-of-egypt-is-taken-ill-during-a-live-television-broadcast-he-had-taken-antibiotics-whilst-fasting-during-ramadan.md)
 _Context: Egypt, Hosni Mubarak, Ramadan_

@@ -10,7 +10,7 @@ Second day of violence in Niger as protests continue
 _Context: Boko Haram, Cameroon, Chad, Nigeria_
 
 ### [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
-_Context: Donetsk International Airport, Ukraine, army, the Russian Federation_
+_Context: Donetsk International Airport, Russia, Ukraine, army_
 
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
 _Context: Athens, Belgium, Greek, terrorist_

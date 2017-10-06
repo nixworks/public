@@ -7,7 +7,7 @@ _Context: Indonesia, Siberut Island, Sumatra, earthquake, magnitude_
 _Context: Alan Garcia, Peru, Pisco, President_
 
 ### [ Two Russian Sukhoi Su-27 fighter jets collide during a training flight southeast of Moscow, killing the commander of the Russian Knights demonstration team. ](/news/2009/08/16/two-russian-sukhoi-su-27-fighter-jets-collide-during-a-training-flight-southeast-of-moscow-killing-the-commander-of-the-russian-knights-de.md)
-_Context: Moscow, Russian Knights, Russian SU-27 fighter jet, collide, fighter aircraft, the Russian Federation_
+_Context: Moscow, Russia, Russian Knights, Russian SU-27 fighter jet, collide, fighter aircraft_
 
 ### [ Tropical Storm Claudette becomes the first tropical cyclone to affect the U.S. mainland in 2009. ](/news/2009/08/16/tropical-storm-claudette-becomes-the-first-tropical-cyclone-to-affect-the-u-s-mainland-in-2009.md)
 The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.

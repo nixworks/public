@@ -28,7 +28,7 @@ Rwanda and the Democratic Republic of Congo have agreed to allow a neutral inter
 _Context: Saudi Arabia, the Palestinian Authority_
 
 ### [Saudi Arabia criticises comments by Russia about the human rights situation in the country, calling them "hostile". ](/news/2012/07/15/saudi-arabia-criticises-comments-by-russia-about-the-human-rights-situation-in-the-country-calling-them-hostile.md)
-_Context: the Russian Federation_
+_Context: Russia_
 
 ### [The African Union choose Nkosazana Dlamini-Zuma of South Africa as its leader, making her the first woman to occupy the post, in a hard fought battle with incumbent Jean Ping of Gabon. ](/news/2012/07/15/the-african-union-choose-nkosazana-dlamini-zuma-of-south-africa-as-its-leader-making-her-the-first-woman-to-occupy-the-post-in-a-hard-foug.md)
 The African Union breaks months of deadlock over its choice of leader, electing Nkosazana Dlamini-Zuma as its first woman leader.

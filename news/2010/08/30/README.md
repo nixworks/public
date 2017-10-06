@@ -22,7 +22,7 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 _Context: Cambodia, Pursat Province, rocket launcher_
 
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Darfur, Sudan, the Russian Federation_
+_Context: Darfur, Russia, Sudan_
 
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
 Gunmen have kidnapped a politician in southern Nigeria months ahead of elections, police say, after a prominent supporter of President Goodluck Jonathan was abducted. 

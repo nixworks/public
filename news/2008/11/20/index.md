@@ -16,7 +16,7 @@ _Context: Chrysler, Ford Motor Company, General Motors, United States Congress, 
 At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.
 
 ### [ The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md)
-_Context: Gulf of Aden, Russian Navy, the Russian Federation_
+_Context: Gulf of Aden, Russia, Russian Navy_
 
 ### [ Five Guantnamo Bay detainees who successfully argued "Boumediene v. Bush" before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j-l.md)
 A federal judge ordered the release of five Algerian men held at Guantánamo Bay for nearly seven years.

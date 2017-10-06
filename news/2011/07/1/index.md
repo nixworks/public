@@ -29,7 +29,7 @@ _Context: North Korea, South Korea, Yonhap_
 Poland assumes the six-month rotating presidency of the EU for the first time since it joined the bloc in 2004.
 
 ### [A Moscow court declares books and brochures by Scientology founder L. Ron Hubbard as "extremist", banning them from distribution in Russia. ](/news/2011/07/1/a-moscow-court-declares-books-and-brochures-by-scientology-founder-l-ron-hubbard-as-extremist-banning-them-from-distribution-in-russia.md)
-_Context: L. Ron Hubbard, Moscow, Scientology, the Russian Federation_
+_Context: L. Ron Hubbard, Moscow, Russia, Scientology_
 
 ### [The Australian Federal Police charges six senior executives, all former employees of two companies owned by the Reserve Bank of Australia, Securency and Note Printing Australia, in relation to alleged bribery of officials in Malaysia, Vietnam and Indonesia. ](/news/2011/07/1/the-australian-federal-police-charges-six-senior-executives-all-former-employees-of-two-companies-owned-by-the-reserve-bank-of-australia-s.md)
 EXCLUSIVE: Climax to bribery scandal as Federal Police raid Melbourne homes of former banknote company executives.

@@ -28,7 +28,7 @@ The suspect, a Belgian of Moroccan origin, was arrested in the port city of Moha
 WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people during renewed violent protests Monday demanding an independent Biafran state in southeastern Nigeria and the release of a detained leader. Police deny the allegation&hellip;
 
 ### [The Russian Duma rejects a Communist Party bill banning homosexual expression. ](/news/2016/01/18/the-russian-duma-rejects-a-communist-party-bill-banning-homosexual-expression.md)
-_Context: Communist Party, Duma, homosexuality, the Russian Federation_
+_Context: Communist Party, Duma, Russia, homosexuality_
 
 ### [The British Parliament debates a petition, signed by more than 560,000 people, calling for the Home Secretary to ban, because of 'hate speech,' United States Republican Party presidential candidate Donald Trump from entering the United Kingdom. Almost all of the 50 MPs (member of parliament), of the 650-member legislative body, present criticized Trump -- especially his comments on Muslims -- but few supported an entry ban. ](/news/2016/01/18/the-british-parliament-debates-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ban-because-of-hate-speec.md)
 British MPs debate proposal to ban ‘poisonous, corrosive’ Republican presidential candidate from the country

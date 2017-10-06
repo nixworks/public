@@ -12,7 +12,7 @@ If true, Mokhtar Belmokhtar’s claim would put one of the Sahel’s most harden
 
 ### Related:
 
-1. [An apparent ambush in Niger near the Malian border leaves three United States Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-united-states-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-pa.md) _Context: Niger_
+1. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Niger_
 2. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: suicide bombing_
 3. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md) _Context: suicide bombing_
 4. [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md) _Context: suicide bombing_

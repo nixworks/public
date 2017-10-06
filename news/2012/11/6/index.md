@@ -25,7 +25,7 @@ US President takes key states Pennsylvania and Wisconsin, though race with Mitt 
 As the US election campaign approaches its crescendo, voters in the tiny Pacific nation of Palau have also been casting their ballots to determine their political future.
 
 ### [Russian President Vladimir Putin sacks the defence minister Anatoly Serdyukov amid a corruption scandal. ](/news/2012/11/6/russian-president-vladimir-putin-sacks-the-defence-minister-anatoly-serdyukov-amid-a-corruption-scandal.md)
-_Context: Anatoly Serdyukov, Vladimir Putin, the Russian Federation_
+_Context: Anatoly Serdyukov, Russia, Vladimir Putin_
 
 ### [British Conservative Party MP Nadine Dorries is suspended from the party after her decision to become the first serving politician to appear on a reality television series. The move could take her away from Parliamentary business for up to a month. ](/news/2012/11/6/british-conservative-party-mp-nadine-dorries-is-suspended-from-the-party-after-her-decision-to-become-the-first-serving-politician-to-appear.md)
 _Context: Conservative Party, Nadine Dorries_

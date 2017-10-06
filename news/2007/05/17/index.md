@@ -1,7 +1,7 @@
 ## [2007-05-17](/news/2007/05/17/index.md)
 
 ### [ Jaak Aaviksoo, the Estonian Defence Minister, states that the Russian Government may be behind recent hacking on Estonian government and commercial web sites following the moving of the Bronze Soldier. ](/news/2007/05/17/jaak-aaviksoo-the-estonian-defence-minister-states-that-the-russian-government-may-be-behind-recent-hacking-on-estonian-government-and-co.md)
-_Context: Bronze Soldier, Defence Minister, Estonia, Jaak Aaviksoo, hackers, the Russian Federation, web site_
+_Context: Bronze Soldier, Defence Minister, Estonia, Jaak Aaviksoo, Russia, hackers, web site_
 
 ### [ Paul Wolfowitz announces his resignation effective June 30 as president of the World Bank Group after protracted discussions over alleged ethics violations. ](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.md)
 Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a protracted battle over his stewardship prompted by his involvement in a high-paying promotion for his companion.

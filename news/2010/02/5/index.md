@@ -25,7 +25,7 @@ _Context: Danish special forces, Somali pirates_
 Barack Obama has described Northern Ireland&#39;s power-sharing deal as an important step on the path to greater peace and prosperity.
 
 ### [Five Russian soldiers are killed and six injured in clashes with militants in Chechnya. ](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.md)
-_Context: Chechnya, the Russian Federation_
+_Context: Chechnya, Russia_
 
 ### [Four British politicians will face criminal prosecution over their expense claims in the ongoing expenses scandal. ](/news/2010/02/5/four-british-politicians-will-face-criminal-prosecution-over-their-expense-claims-in-the-ongoing-expenses-scandal.md)
 _Context: MPs expenses, United Kingdom_

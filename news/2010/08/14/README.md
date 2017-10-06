@@ -46,7 +46,7 @@ China holds a national day of mourning on Sunday for victims of mudslides in the
 * Six million still need relief * Anger rising * World Bank may redirect $900 million in aid * 500 stranded fuel tanker drivers
 
 ### [Russia announces that it is slowly bringing the 2010 Russian wildfires under control. ](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.md)
-_Context: the Russian Federation, the recent wildfires_
+_Context: Russia, the recent wildfires_
 
 ### [9 people are wounded after a bridge collapses from the Gungahlin Drive Extension onto the Barton Highway in Canberra, Australian Capital Territory. ](/news/2010/08/14/9-people-are-wounded-after-a-bridge-collapses-from-the-gungahlin-drive-extension-onto-the-barton-highway-in-canberra-australian-capital-ter.md)
 Nine people have been taken to hospital after part of a bridge collapsed in north Canberra.
@@ -70,7 +70,7 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 _Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spanish, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: Louis Berger Group, U.S. Agency for International Development, United States, foreign aid, prosecutor_
+_Context: Louis Berger Group, U.S., U.S. Agency for International Development, foreign aid, prosecutor_
 
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.

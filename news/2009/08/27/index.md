@@ -37,7 +37,7 @@ _Context: India, Supreme Court of India_
 The law details the authority of the paramilitary force that played a key role in putting down the riots in the western Xinjiang region last month.
 
 ### [ Russia deploys an S-400 anti-missile defence system close to its border with North Korea. ](/news/2009/08/27/russia-deploys-an-s-400-anti-missile-defence-system-close-to-its-border-with-north-korea.md)
-_Context: North Korea, S-400, missile defense shield, the Russian Federation_
+_Context: North Korea, Russia, S-400, missile defense shield_
 
 ### [ A suicide bomber hits a Pakistani security checkpoint at the main border crossing for convoys ferrying NATO supplies into Afghanistan, killing at least 18 border guards. ](/news/2009/08/27/a-suicide-bomber-hits-a-pakistani-security-checkpoint-at-the-main-border-crossing-for-convoys-ferrying-nato-supplies-into-afghanistan-kill.md)
 A suicide bomber hit a Pakistani security checkpoint Thursday at the main border crossing for convoys ferrying NATO supplies into Afghanistan, killing at least 18 border guards, police said.

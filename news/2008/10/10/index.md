@@ -29,7 +29,7 @@ _Context: France, Germany, Italy, NATO_
 _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize, UN_
 
 ### [ Former Russian cross country ski champion Alexey Prokurorov dies after he is hit by a car while crossing a road in Vladimir.](/news/2008/10/10/former-russian-cross-country-ski-champion-alexey-prokurorov-dies-after-he-is-hit-by-a-car-while-crossing-a-road-in-vladimir.md)
-_Context: Alexey Prokurorov, Vladimir, the Russian Federation_
+_Context: Alexey Prokurorov, Russia, Vladimir_
 
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
 _Context: Chile, Ernesto "Tito" Beltran, Swedish, appeals court, nanny, opera, tenor_

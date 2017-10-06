@@ -12,11 +12,11 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ### Related:
 
-1. [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md) _Context: Afghanistan, NATO, United States_
-2. [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md) _Context: Afghanistan, NATO, United States_
-3. [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md) _Context: Afghanistan, NATO, United States_
-4. [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md) _Context: Afghanistan, NATO, United States_
-5. [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md) _Context: Afghanistan, NATO, United States_
+1. [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md) _Context: Afghanistan, NATO, U.S._
+2. [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md) _Context: Afghanistan, NATO, U.S._
+3. [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md) _Context: Afghanistan, NATO, U.S._
+4. [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md) _Context: Afghanistan, NATO, U.S._
+5. [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md) _Context: Afghanistan, NATO, U.S._
 
 ### Changes:
 

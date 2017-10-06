@@ -7,7 +7,7 @@ An Arab Israeli stabbed four people near a bus stop in northern Israel on Sunday
 A suicide bomber targeted a foreign forces convoy in downtown Kabul during morning rush hour on Sunday, officials said, but there was no immediate confirmation of any casualties.
 
 ### [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md)
-_Context: Hezbollah, Idlib, Lebanon, Russian military intervention in the Syrian Civil War, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights, the Russian Federation_
+_Context: Hezbollah, Idlib, Lebanon, Russia, Russian military intervention in the Syrian Civil War, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md)
 _Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Region, Nigeria, suicide bombing_

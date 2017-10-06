@@ -1,7 +1,7 @@
 ## [2008-12-8](/news/2008/12/8/index.md)
 
 ### [ Standard & Poor's becomes the first credit rating agency to downgrade Russia since 1999, while data showed that the Central Bank spent US$30 billion in currency market interventions in November 2008. ](/news/2008/12/8/standard-poor-s-becomes-the-first-credit-rating-agency-to-downgrade-russia-since-1999-while-data-showed-that-the-central-bank-spent-us-3.md)
-_Context: $, Credit rating agency, Russian Central Bank, Standard & Poor's, the Russian Federation_
+_Context: $, Credit rating agency, Russia, Russian Central Bank, Standard & Poor's_
 
 ### [ The Moscow City Court rules that former Yukos Oil Company vice president Vasily Aleksanyan, who is suffering from lymphoma, tuberculosis, and AIDS, will be freed on bail of 50 million rubles (US$1.78 million). ](/news/2008/12/8/the-moscow-city-court-rules-that-former-yukos-oil-company-vice-president-vasily-aleksanyan-who-is-suffering-from-lymphoma-tuberculosis-a.md)
 _Context: AIDS, Moscow, Vasily Aleksanyan, Yukos, bail, lymphoma, ruble, tuberculosis_

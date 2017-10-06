@@ -1,7 +1,7 @@
 ## [2006-11-13](/news/2006/11/13/index.md)
 
 ### [ Voters in South Ossetia vote 98-99% in favor of independence from Georgia in a referendum. 78% of the vote has been counted. Neither Russia nor the West recognize the poll's legitimacy. ](/news/2006/11/13/voters-in-south-ossetia-vote-98-99-in-favor-of-independence-from-georgia-in-a-referendum-78-of-the-vote-has-been-counted-neither-russia.md)
-_Context: Georgian, South Ossetia, Westerners, referendum, the Russian Federation_
+_Context: Georgian, Russia, South Ossetia, Westerners, referendum_
 
 ### [ Rwandan President Paul Kagame denies previous reports that quoted him as saying Rwanda would invade the Democratic Republic of Congo to deal with Hutu rebel groups responsible for the Rwandan genocide. ](/news/2006/11/13/rwandan-president-paul-kagame-denies-previous-reports-that-quoted-him-as-saying-rwanda-would-invade-the-democratic-republic-of-congo-to-dea.md)
 _Context: Democratic Republic of Congo, Hutu, Paul Kagame, Rwanda, Rwandan Genocide, Rwandan President_

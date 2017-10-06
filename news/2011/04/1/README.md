@@ -62,7 +62,7 @@ An estimated 32,788 people were killed in traffic accidents in 2010, the fewest 
 _Context: Anglo Irish Bank, Massachusetts_
 
 ### [The International Court of Justice (ICJ) in The Hague dismisses by 10-6 Georgia's accusation that Russia and separatist rebels engaged in ethnic cleansing in Abkhazia and South Ossetia. ](/news/2011/04/1/the-international-court-of-justice-icj-in-the-hague-dismisses-by-10-6-georgia-s-accusation-that-russia-and-separatist-rebels-engaged-in-et.md)
-_Context: Abkhazia, Georgian, International Court of Justice, South Ossetia, The Hague, ethnic cleansing, the Russian Federation_
+_Context: Abkhazia, Georgian, International Court of Justice, Russia, South Ossetia, The Hague, ethnic cleansing_
 
 ### [A female Chinese national exchange student to Sweden studying in Orebro is found murdered in daylight. ](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.md)
 _Context: Chinese, Orebro, exchange student_

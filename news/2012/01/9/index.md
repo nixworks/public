@@ -1,7 +1,7 @@
 ## [2012-01-9](/news/2012/01/9/index.md)
 
 ### [Insurgency in the North Caucasus: Clashes occur between the Russian forces and Islamist militants in the Vedensky District, Chechnya, with reportedly 8 killed and 16 wounded. ](/news/2012/01/9/insurgency-in-the-north-caucasus-clashes-occur-between-the-russian-forces-and-islamist-militants-in-the-vedensky-district-chechnya-with-r.md)
-_Context: Chechnya, Insurgency in the North Caucasus, Vedeno District, the Russian Federation_
+_Context: Chechnya, Insurgency in the North Caucasus, Russia, Vedeno District_
 
 ### [Iranian President Mahmoud Ahmadinejad meets with Venezuelan President Hugo Chvez on the first stop of Ahmadinejad's Latin American tour. ](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.md)
 _Context: Hugo Chvez, Latin America, Mahmoud Ahmadinejad, President, Venezuelan President_

@@ -11,7 +11,7 @@
 2. [ Advisers to the Food and Drug Administration recommend that the agency approve a Sanofi-Aventis SA bird flu vaccine. ](/news/2007/02/27/advisers-to-the-food-and-drug-administration-recommend-that-the-agency-approve-a-sanofi-aventis-sa-bird-flu-vaccine.md) _Context: Food and Drug Administration, vaccine_
 3. [ The Federal Bureau of Investigation and the Food and Drug Administration searches two spinach packaging companies in the Salinas Valley in California for evidence related to a recent outbreak of "E. coli" in the United States and Canada that made 200 people sick. ](/news/2006/10/4/the-federal-bureau-of-investigation-and-the-food-and-drug-administration-searches-two-spinach-packaging-companies-in-the-salinas-valley-in.md) _Context: California, Food and Drug Administration_
 4. [ China begins human trials of a vaccine for AIDS ](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids.md) _Context: AIDS, vaccine_
-5. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
+5. [Governor Jerry Brown signs legislation to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-by-preventing-police-from-inquiring-about-immigration-status-an.md) _Context: California_
 
 ### Changes:
 

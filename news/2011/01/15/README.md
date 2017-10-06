@@ -37,7 +37,7 @@ The town of Echuca, on the Victorian-New South Wales border, is facing unprecede
 A BRITISH undercover police officer who infiltrated protest movements across Europe over seven years made several visits to Ireland&hellip;
 
 ### [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md)
-_Context: China, EU, Iran, nuclear program, the Russian Federation_
+_Context: China, EU, Iran, Russia, nuclear program_
 
 ### [The Southern Sudanese independence referendum, 2011 ends. ](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.md)
 Huge turnout in south Sudan referendum expected to back secession from the north of the country.

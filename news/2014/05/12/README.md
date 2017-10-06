@@ -10,7 +10,7 @@ _Context: Los Zetas, Mexican drug cartel, Mexico, Reynosa_
 _Context: Egypt, Egyptian presidential election, 2014, Free Syrian Army, Giza, Imbaba_
 
 ### [Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/pro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-to-join-russia-after-controversial-ha.md)
-_Context: Donetsk People's Republic, Luhansk People's Republic, sovereignty, the Russian Federation_
+_Context: Donetsk People's Republic, Luhansk People's Republic, Russia, sovereignty_
 
 ### [49 people have been killed and 69 wounded in a series of attacks across Iraq including attack by Iraqi security forces on insurgents in Anbar province. ](/news/2014/05/12/49-people-have-been-killed-and-69-wounded-in-a-series-of-attacks-across-iraq-including-attack-by-iraqi-security-forces-on-insurgents-in-anba.md)
 _Context: Anbar province, Iraqi insurgency (post-U.S. withdrawal), Iraqi security forces_

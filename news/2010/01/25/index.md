@@ -1,7 +1,7 @@
 ## [2010-01-25](/news/2010/01/25/index.md)
 
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, Ticketmaster, United States Department of Justice_
+_Context: Department of Justice, Live Nation, Ticketmaster_
 
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
 _Context: Caracas, Ramn Carrizales, Venezuela_
@@ -34,7 +34,7 @@ _Context: Ali Hassan al-Majid_
 Military reportedly planning to free opposition leader from house arrest.
 
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: Algeria, United States_
+_Context: Algeria, U.S._
 
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
 Aircraft carrying 90 people plunges into Mediterranean Sea.

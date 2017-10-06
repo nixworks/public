@@ -13,16 +13,16 @@ _Context: Atlantic Ocean, Dominican Republic, Haiti, Tropical Storm Gustav_
 Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeble regime even weaker.
 
 ### [ Russia is considering arming its Baltic Fleet with nuclear warheads for the first time since the Cold War. ](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.md)
-_Context: Baltic Fleet, Cold War, the Russian Federation_
+_Context: Baltic Fleet, Cold War, Russia_
 
 ### [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md)
-_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, Secretary of State, United States_
+_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, Secretary of State, U.S._
 
 ### [ Lovemore Moyo is elected Speaker of the House of Assembly of Zimbabwe. He is the first opposition speaker since the country's independence in 1980. ](/news/2008/08/25/lovemore-moyo-is-elected-speaker-of-the-house-of-assembly-of-zimbabwe-he-is-the-first-opposition-speaker-since-the-country-s-independence.md)
 _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_
 
 ### [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md)
-_Context: Abkhazia, Federal Assembly, Federation Council, Georgian, Russian President, South Ossetia, the Russian Federation_
+_Context:  Russian President, Abkhazia, Federal Assembly, Federation Council, Georgian, Russia, South Ossetia_
 
 ## [Previous Day...](/news/2008/08/24/index.md)
 

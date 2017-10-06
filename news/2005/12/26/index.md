@@ -7,7 +7,7 @@ _Context: Boxing Day shooting, Eaton Centre, Foot Locker, Toronto_
 _Context: 2004 Indian Ocean earthquake, Banda Aceh, Indonesia, President of Indonesia, Susilo Bambang Yudhoyono_
 
 ### [ A gas attack occurs at an outlet of the Maksidom chain on Moskovsky Prospect in Saint Petersburg, Russia, and leads to the hospitalization of numerous victims. ](/news/2005/12/26/a-gas-attack-occurs-at-an-outlet-of-the-maksidom-chain-on-moskovsky-prospect-in-saint-petersburg-russia-and-leads-to-the-hospitalization.md)
-_Context: Saint Petersburg, gas attack, the Russian Federation_
+_Context: Russia, Saint Petersburg, gas attack_
 
 ### [ The prime minister of Israel, Ariel Sharon, will undergo a cardiac catheterization to seal a hole in his heart. The surgery is a routine procedure for this congenital defect, according to doctors in Jerusalem. ](/news/2005/12/26/the-prime-minister-of-israel-ariel-sharon-will-undergo-a-cardiac-catheterization-to-seal-a-hole-in-his-heart-the-surgery-is-a-routine-pr.md)
 _Context: Ariel Sharon, Israeli Prime Minister, Jerusalem, cardiac catheterization_

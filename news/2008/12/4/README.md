@@ -1,7 +1,7 @@
 ## [2008-12-4](/news/2008/12/4/index.md)
 
 ### [ Prime Minister Vladimir Putin says Russia may be forced to cut gas supplies to Ukraine if the latter "does not fulfil the agreements" on payment for gas already consumed. ](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.md)
-_Context: Prime Minister of Russia, Ukraine, Vladimir Putin, the Russian Federation_
+_Context: Prime Minister of Russia, Russia, Ukraine, Vladimir Putin_
 
 ### [ President of Uruguay Tabar Vzquez resigns as the leader of the Socialist Party following a row over the vetoing of an abortion decriminalisation bill. ](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.md)
 _Context: President, Socialist Party, Tabar Vzquez, Uruguay, abortion_

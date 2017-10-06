@@ -10,7 +10,7 @@ _Context: Pakistan_
 _Context: South Sudan, Sudan_
 
 ### [Two Russian soldiers and several militants are killed in clashes in Ingushetia in the North Caucasus; several militants are also killed in Dagestan. ](/news/2012/07/21/two-russian-soldiers-and-several-militants-are-killed-in-clashes-in-ingushetia-in-the-north-caucasus-several-militants-are-also-killed-in-d.md)
-_Context: Dagestan, Ingushetia, North Caucasus, the Russian Federation_
+_Context: Dagestan, Ingushetia, North Caucasus, Russia_
 
 ### [Rights campaigners criticise the authoritative "Contemporary Chinese Dictionary" for excluding the definition of colloquial Chinese characters for "gay." ](/news/2012/07/21/rights-campaigners-criticise-the-authoritative-contemporary-chinese-dictionary-for-excluding-the-definition-of-colloquial-chinese-characte.md)
 A newly published edition of a Chinese dictionary is criticised by rights campaigners for excluding a word that means &quot;gay&quot;.

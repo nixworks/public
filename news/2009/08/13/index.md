@@ -7,7 +7,7 @@ Mexican president Felipe Calder&oacute;n on an official visit to Colombia offere
 Ousted Honduran president Manuel Zelaya said he expects the US administration to take more drastic actions against the de facto government of Roberto Micheletti. Zelaya held a three and a half hour meeting on Thursday with Chilean president Michelle Bachelet in Santiago as part of his round of visit...
 
 ### [ Eleven people, including four policemen, are killed in several separate insurgent attacks in Russia's Republic of Dagestan. ](/news/2009/08/13/eleven-people-including-four-policemen-are-killed-in-several-separate-insurgent-attacks-in-russia-s-republic-of-dagestan.md)
-_Context: Republic of Dagestan, the Russian Federation_
+_Context: Republic of Dagestan, Russia_
 
 ### [ At least 23 government soldiers and more than 20 Muslim extremists are killed in a day-long clash in the southern Philippines. ](/news/2009/08/13/at-least-23-government-soldiers-and-more-than-20-muslim-extremists-are-killed-in-a-day-long-clash-in-the-southern-philippines.md)
 _Context: Muslims, Philippines_

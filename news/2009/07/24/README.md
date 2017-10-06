@@ -10,7 +10,7 @@ _Context: Croatia, Split, Zagreb, bullet train, derails_
 _Context: British constituency, Chloe Smith, Conservative Party, Labour, MPs expenses, Norwich North by-election, by-election, seat_
 
 ### [ 20 people are killed in a bus crash near Rostov-on-Don, Russia. ](/news/2009/07/24/20-people-are-killed-in-a-bus-crash-near-rostov-on-don-russia.md)
-_Context: Rostov-on-Don, bus crash, the Russian Federation_
+_Context: Rostov-on-Don, Russia, bus crash_
 
 ### [ The President of Indonesia, Susilo Bambang Yudhoyono, is declared as the winner of the Indonesian presidential election. ](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.md)
 _Context: Indonesia, Indonesian presidential election, President of Indonesia, Susilo Bambang Yudhoyono_

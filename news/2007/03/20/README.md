@@ -37,13 +37,13 @@ _Context: China, France, death penalty, extradited, international agreement_
 _Context: Alan Johnston, BBC, EU, Gaza, High Representative for the Common Foreign and Security Policy, Javier Solana_
 
 ### [ At least 63 people die in a fire in a home for elderly and disabled people in a village in Russia's Krasnodar Krai. ](/news/2007/03/20/at-least-63-people-die-in-a-fire-in-a-home-for-elderly-and-disabled-people-in-a-village-in-russia-s-krasnodar-krai.md)
-_Context: Krasnodar region, fire, nursing home, the Russian Federation_
+_Context: Krasnodar region, Russia, fire, nursing home_
 
 ### [ Taha Yassin Ramadan, former Baathist Vice President of Iraq and the "Ten of Diamonds" in the most-wanted Iraqi playing cards, is hanged in Baghdad for his role in the Dujail killings. ](/news/2007/03/20/taha-yassin-ramadan-former-baathist-vice-president-of-iraq-and-the-ten-of-diamonds-in-the-most-wanted-iraqi-playing-cards-is-hanged-in.md)
 _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice President, most-wanted Iraqi playing cards_
 
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S. federal court, United States, hunger strike_
+_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

@@ -19,10 +19,10 @@ Costa Concordia captain Francesco Schettino is jailed for 16 years for the mansl
 Yemen rebels seized U.S. embassy vehicles in the capital of Sanaa on Wednesday as diplomats fled the country amid deteriorating security conditions.
 
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
-_Context: Central Committee, Communist Party general secretary, Communist Party of China, United States, Xi Jinping_
+_Context: Central Committee, Communist Party general secretary, Communist Party of China, U.S., Xi Jinping_
 
 ### [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
-_Context: Belarus, France, Germany, Minsk, Ukraine, War in Donbass, the Russian Federation_
+_Context: Belarus, France, Germany, Minsk, Russia, Ukraine, War in Donbass_
 
 ### [Police arrest a suspected shooter Craig Stephen Hicks for killing a Muslim family of three in Chapel Hill, North Carolina. Police state that the shooting was motivated by a long-standing neighbor dispute over parking. ](/news/2015/02/11/police-arrest-a-suspected-shooter-craig-stephen-hicks-for-killing-a-muslim-family-of-three-in-chapel-hill-north-carolina-police-state-that.md)
 A family of three young Muslims has been shot dead in their home in a quiet neighbourhood of North Carolina in the US.

@@ -65,7 +65,7 @@ _Context: Austria, Austrian politics, Hans Dichand_
 _Context: Kenya, Mwai Kibaki, Wilfred Machage, president_
 
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: Rwanda, United States_
+_Context: Rwanda, U.S._
 
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)
 Bags are to be put over dozens of surveillance cameras in parts of Birmingham with large Muslim populations, after objections.

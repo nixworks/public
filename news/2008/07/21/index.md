@@ -4,7 +4,7 @@
 _Context: Congress of France, Constitution of France, National Assembly, Senate_
 
 ### [ Russia and China sign a pact demarcating their 4,300-kilometer border, bringing an end to more than 40 years of negotiations. ](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.md)
-_Context: China, demarcating their 4,300-kilometer border, more than 40 years of negotiations, the Russian Federation_
+_Context: China, Russia, demarcating their 4,300-kilometer border, more than 40 years of negotiations_
 
 ### [ Fugitive Radovan Karadzic, indicted for war crimes by the International Criminal Tribunal for the Former Yugoslavia, is arrested in Serbia. ](/news/2008/07/21/fugitive-radovan-karada3-4ia-indicted-for-war-crimes-by-the-international-criminal-tribunal-for-the-former-yugoslavia-is-arrested-in-serbi.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, Serbia, fugitive, war crimes_

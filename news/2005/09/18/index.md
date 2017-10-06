@@ -16,7 +16,7 @@ _Context: Afghan parliamentary election, 2005, Afghanistan, Taliban_
 _Context: CSU, Christian Democratic Union, Free Democrats, German federal election, 2005, Germany, Greens, Left Party, SPD_
 
 ### [ Russia wins the Fed Cup title for second straight year, beating France 3:2 in the final. ](/news/2005/09/18/russia-wins-the-fed-cup-title-for-second-straight-year-beating-france-3-2-in-the-final.md)
-_Context: Fed Cup, France, the Russian Federation_
+_Context: Fed Cup, France, Russia_
 
 ## [Previous Day...](/news/2005/09/17/index.md)
 

@@ -11,11 +11,11 @@
 
 ### Related:
 
-1. [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md) _Context: United States, War in North-West Pakistan_
-2. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: United States, War in North-West Pakistan_
-3. [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md) _Context: United States, drone attack_
-4. [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md) _Context: United States, War in North-West Pakistan_
-5. [An apparent ambush in Niger near the Malian border leaves three United States Green Berets and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-united-states-green-berets-and-five-nigerien-soldiers-dead-during-a-joint-pa.md) _Context: United States_
+1. [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md) _Context: U.S., War in North-West Pakistan_
+2. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: U.S., War in North-West Pakistan_
+3. [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md) _Context: U.S., drone attack_
+4. [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md) _Context: U.S., War in North-West Pakistan_
+5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: U.S._
 
 ### Changes:
 

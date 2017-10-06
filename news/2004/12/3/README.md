@@ -10,7 +10,7 @@ _Context: People's Liberation Army, submarine_
 _Context: 2004 United States election voting controversies, Ohio, United States House Committee on the Judiciary, voting irregularities_
 
 ### [ Yukos loses an appeal to halt the auctioning off of its main production unit. President of Russia Vladimir Putin, while on his three-day visit to India, says Indian firms are welcomed to bid. ](/news/2004/12/3/yukos-loses-an-appeal-to-halt-the-auctioning-off-of-its-main-production-unit-president-of-russia-vladimir-putin-while-on-his-three-day-vi.md)
-_Context: Russian President, Vladimir Putin, Yukos_
+_Context:  Russian President, Vladimir Putin, Yukos_
 
 ### [ Kosovo's parliament elects a former KLA commander, Ramush Haradinaj, who has been questioned twice by UN war crimes investigators. ](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.md)
 _Context: Kosovo, Kosovo Liberation Army, Ramush Haradinaj, war crime_

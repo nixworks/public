@@ -7,7 +7,7 @@ Capping a remarkable fourth quarter, Santonio Holmes made a brilliant catch for 
 American deep-sea explorers say they have discovered the wreck of a legendary British warship that sank in the English Channel 264 years ago.
 
 ### [ Four people are killed in a cafe shooting in Russia's Dagestan Republic. ](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.md)
-_Context: Dagestan, cafe, the Russian Federation_
+_Context: Dagestan, Russia, cafe_
 
 ### [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md)
 _Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spanish, Switzerland, men's singles_
@@ -22,7 +22,7 @@ _Context: Gaza, Israel, Mortar, Negev, Palestinian, fire, militant, rocket_
 _Context: Honshu Island, Japan, Japan Meteorological Agency, Mount Asama_
 
 ### [ Kirill I is officially enthroned as Patriarch of the Russian Orthodox Church. ](/news/2009/02/1/kirill-i-is-officially-enthroned-as-patriarch-of-the-russian-orthodox-church.md)
-_Context: Patriarch, Patriarch Kirill, Russian, the Russian Federation_
+_Context: Patriarch, Patriarch Kirill, Russia, Russian_
 
 ### [ The Sri Lankan Army bombs a hospital in Puthukkudiyiruppu twice, killing at least six Tamil civilians and wounding countless more patients. ](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.md)
 _Context: Puthukkudiyiruppu, Sri Lanka, Sri Lankan Army, Sri Lankan Civil War, Tamil_

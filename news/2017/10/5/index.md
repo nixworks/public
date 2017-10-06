@@ -9,13 +9,13 @@ _Context: British, Japanese, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Lit
 ### [Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. ](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.md)
 The firm says &quot;changed circumstances&quot; led to the decision to abandon the controversial projects.
 
-### [In Nicaragua, flooding from Tropical Storm Nate, kills at least 15 people. In Costa Rica, the storm kills at least seven people with 15 others missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-15-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-15-othe.md)
+### [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md)
 The Latest on Tropical Storm Nate (all times local): 5:30 p.m. Louisiana Gov. John Bel Edwards has declared a state of emergency as his state prepares for a direct hit from Tropical Storm Nate, possibly as a hurricane. The governor said 1,300 National Guard troops are being...
 
 ### [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md)
 _Context:  Russian President, King Salman, Moscow Kremlin, Russia-Saudi Arabia relations, Saudi Arabia, Syrian Civil War, Vladimir Putin_
 
-### [In Brazil, a security guard allegedly set fire to a childcare center killing at least four children and a teacher. ](/news/2017/10/5/in-brazil-a-security-guard-allegedly-set-fire-to-a-childcare-center-killing-at-least-four-children-and-a-teacher.md)
+### [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injuried. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fou.md)
 A security guard sets fire to a childcare centre, killing four children and a teacher.
 
 ### [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was allegedly through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md)

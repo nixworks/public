@@ -25,7 +25,7 @@ _Context: Gulf of Aden, India, Indian Navy, Somali pirates_
 _Context: Maldives, Mohamed Nasheed, President_
 
 ### [ Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6-5-dragged-down-by-commodity-an.md)
-_Context: Moscow Interbank Currency Exchange, the Russian Federation_
+_Context: Moscow Interbank Currency Exchange, Russia_
 
 ## [Previous Day...](/news/2008/11/10/index.md)
 

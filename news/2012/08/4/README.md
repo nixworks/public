@@ -25,7 +25,7 @@ _Context: Abu Bakar Bashir, Burma, Muslims, Myanmar's military, Rohingya people,
 _Context: South Sudan, Sudan_
 
 ### [The defence lawyer for the Russian band Pussy Riot says the accused face long jail terms, and accuses the court of pressuring the defendants and witnesses. ](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.md)
-_Context: Pussy Riot, the Russian Federation_
+_Context: Pussy Riot, Russia_
 
 ### [The Parliament of Afghanistan votes to dismiss the Defence and Interior Ministers over continued cross-border shelling by Pakistan. ](/news/2012/08/4/the-parliament-of-afghanistan-votes-to-dismiss-the-defence-and-interior-ministers-over-continued-cross-border-shelling-by-pakistan.md)
 _Context: Pakistan, Parliament of Afghanistan_

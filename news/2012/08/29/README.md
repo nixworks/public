@@ -1,7 +1,7 @@
 ## [2012-08-29](/news/2012/08/29/index.md)
 
 ### [Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
-_Context: Arab League, United Nations, slaughters, the Russian Federation_
+_Context: Arab League, Russia, United Nations, slaughters_
 
 ### [Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-uniform-in-oruzgan-provinc.md)
 _Context: Afghan Army, Oruzgan, soldiers_
@@ -10,13 +10,13 @@ _Context: Afghan Army, Oruzgan, soldiers_
 Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;s northwest, killing nine soldiers, a military official said Wednesday.
 
 ### [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md)
-_Context: Dagestan, Georgian, North Caucasus, the Russian Federation_
+_Context: Dagestan, Georgian, North Caucasus, Russia_
 
 ### [With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. ](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.md)
 _Context: Egyptian Army, Operation Eagle, Sinai, attack_
 
 ### [Gazprom completes building the second leg of the Nord Stream natural gas pipeline connecting Russia, Germany and neighbouring countries. ](/news/2012/08/29/gazprom-completes-building-the-second-leg-of-the-nord-stream-natural-gas-pipeline-connecting-russia-germany-and-neighbouring-countries.md)
-_Context: Gazprom, Germany, Nord Stream, the Russian Federation_
+_Context: Gazprom, Germany, Nord Stream, Russia_
 
 ### [The UK's Serious Fraud Office launches an investigation into payments between Barclays and Qatar Holding LLC after Barclays sought investment from the latter during the financial crisis in 2008. ](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.md)
 _Context: Barclays, Qatar Holding LLC, Serious Fraud Office, financial crisis in 2008_

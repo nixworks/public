@@ -4,7 +4,7 @@
 _Context: Guatemala City_
 
 ### [ Kremlin dismisses claims of Russian involvement in the poisoning of former KGB spy Alexander Litvinenko as "sheer nonsense". ](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.md)
-_Context: Alexander Litvinenko, KGB, Kremlin, the Russian Federation_
+_Context: Alexander Litvinenko, KGB, Kremlin, Russia_
 
 ### [ An explosion on a train in East India at 1240 GMT kills 5 and injures 25 to 50 others. It occurs near a station in West Bengal, 550 kilometers (345 miles) north of the capital Kolkata. The cause of the explosion is unknown. ](/news/2006/11/20/an-explosion-on-a-train-in-east-india-at-1240-gmt-kills-5-and-injures-25-to-50-others-it-occurs-near-a-station-in-west-bengal-550-kilomet.md)
 _Context: East India, Kolkata, West Bengal, explosion on a train_

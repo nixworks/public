@@ -19,7 +19,7 @@ A clean-up operation has begun in Japan after an eruption at a volcano covered a
 A B-1B bomber with the 28th Bomb Wing crashed near Broadus, Mont. during a routine training mission Aug. 19. 
 
 ### [Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. ](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.md)
-_Context: Japan, peace treaty, the Russian Federation_
+_Context: Japan, Russia, peace treaty_
 
 ### [The British warship Westminster 6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-6-arrives-in-gibraltar-amid-tensions-with-spain.md)
 The European Commission is to send a fact-finding mission to Gibraltar to examine the legitimacy of border controls imposed by Spain in a growing dispute over the British Mediterranean enclave.

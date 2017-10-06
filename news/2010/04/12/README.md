@@ -37,7 +37,7 @@ Security around the Pope is to be stepped up for his visit to Malta after sex ab
 A Dubai court convicted two men Monday of involvement in the 2009 assassination of Chechen military commander Sulim Yamadayev in Dubai, and handed them a life sentence.
 
 ### [Leading Russian federal judge Eduard Chuvashov is shot dead at his apartment building in central Moscow. ](/news/2010/04/12/leading-russian-federal-judge-eduard-chuvashov-is-shot-dead-at-his-apartment-building-in-central-moscow.md)
-_Context: Eduard Chuvashov, Moscow, the Russian Federation_
+_Context: Eduard Chuvashov, Moscow, Russia_
 
 ### [Three former Labour Party MPs&nbsp;- David Chaytor, Elliot Morley and Jim Devine&nbsp;- face criminal charges over their expenses win the right to have their legal fees paid for by the taxpayer. ](/news/2010/04/12/three-former-labour-party-mps-nbsp-a-david-chaytor-elliot-morley-and-jim-devine-nbsp-a-face-criminal-charges-over-their-expenses-win-th.md)
 _Context: David Chaytor, Elliot Morley, Jim Devine, Labour_

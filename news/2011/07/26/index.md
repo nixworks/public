@@ -10,13 +10,13 @@ _Context: Reserve Bank of India, inflation, interest rates_
 _Context: News of the World, Trinity Mirror, phone hacking affair_
 
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)
-_Context: AT&T, Al Franken, Federal Communications Commission, Minnesota, T-Mobile USA, United States Department of Justice_
+_Context: AT&T, Al Franken, Department of Justice, Federal Communications Commission, Minnesota, T-Mobile USA_
 
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)
 A Hercules military transport plane crashes in southern Morocco, killing 78 people, the Moroccan army says.
 
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, North Korea, United States, its nuclear weapons program, six-party talks_
+_Context: Kim Kye Gwan, North Korea, U.S., its nuclear weapons program, six-party talks_
 
 ### [Senegalese rapper and government critic Omar Toure is arrested. ](/news/2011/07/26/senegalese-rapper-and-government-critic-omar-toure-is-arrested.md)
 _Context: Omar Toure, Senegal_

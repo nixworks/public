@@ -19,7 +19,7 @@ Japanese Prime Minister Shinzo Abe announced the decision Thursday but provided 
  Chinese President Xi Jinping arrived in South Korea on Thursday for talks with South Korean President Park Geun-hye, officials said, amid fresh tensions over a series of missile and rocket launches by North Korea.
 
 ### [Russia starts limiting its import of meat from Moldova as a reaction to the European Union Association Agreement signed on 27 June. ](/news/2014/07/3/russia-starts-limiting-its-import-of-meat-from-moldova-as-a-reaction-to-the-european-union-association-agreement-signed-on-27-june.md)
-_Context: Association Agreement, Moldova, the Russian Federation_
+_Context: Association Agreement, Moldova, Russia_
 
 ### [Valeriy Heletey takes office as the third Defense Minister of Ukraine after the 2014 Ukrainian revolution, replacing Mykhailo Koval ](/news/2014/07/3/valeriy-heletey-takes-office-as-the-third-defense-minister-of-ukraine-after-the-2014-ukrainian-revolution-replacing-mykhailo-koval.md)
 The Ukrainian Verkhovna Rada has appointed Valeriy Heletei defense minister of Ukraine based on the president&#39;s recommendation.

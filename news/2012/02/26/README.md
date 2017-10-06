@@ -25,7 +25,7 @@ _Context: Shanxi province_
 Via Rail has confirmed that three of its employees, all in the locomotive section, died in a train derailment in the southern Ontario city of Burlington on Sunday afternoon.
 
 ### [A trial begins in Cairo of 16 Americans and 27 others linked to an Egyptian government crackdown on non-government organizations which has created tension between the United States and Egypt. ](/news/2012/02/26/a-trial-begins-in-cairo-of-16-americans-and-27-others-linked-to-an-egyptian-government-crackdown-on-non-government-organizations-which-has-c.md)
-_Context: American, Cairo, Egypt, Government of Egypt, United States, non-government organizations_
+_Context: American, Cairo, Egypt, Government of Egypt, U.S., non-government organizations_
 
 ### [Two members of the Italian Marines accused of killing two Indian fishermen will be prosecuted under Indian law. ](/news/2012/02/26/two-members-of-the-italian-marines-accused-of-killing-two-indian-fishermen-will-be-prosecuted-under-indian-law.md)
 _Context: India, Indian law, Italian marines_
@@ -37,7 +37,7 @@ _Context: a suburb of Orlando, shooting of Trayvon Martin_
 For web users in countries where the Internet is restricted, there is nothing quite like the joy of seeing a previously blocked website become available. As Chinese Internet users amply showed when they flooded Barack Obama’s page on Google+.
 
 ### [2011-2012 Russian protests: Thousands of Russians form a human chain around the centre of Moscow in protest against Vladimir Putin. ](/news/2012/02/26/2011-2012-russian-protests-thousands-of-russians-form-a-human-chain-around-the-centre-of-moscow-in-protest-against-vladimir-putin.md)
-_Context: 2011-2012 Russian protests, Moscow, Vladimir Putin, the Russian Federation_
+_Context: 2011-2012 Russian protests, Moscow, Russia, Vladimir Putin_
 
 ### [Voters in Senegal go to the polls for the Senegalese presidential election which has been marked by violence. ](/news/2012/02/26/voters-in-senegal-go-to-the-polls-for-the-senegalese-presidential-election-which-has-been-marked-by-violence.md)
 _Context: Senegal, elected_

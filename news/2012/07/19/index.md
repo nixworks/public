@@ -13,7 +13,7 @@ The government should slow the pace of budget cuts next year if growth in the UK
 _Context: Bangladesh, Humayun Ahmed, New York City, colorectal cancer_
 
 ### [China summons a Russian diplomat after the latter country opened fire on a fishing boat and detained the Chinese crew. ](/news/2012/07/19/china-summons-a-russian-diplomat-after-the-latter-country-opened-fire-on-a-fishing-boat-and-detained-the-chinese-crew.md)
-_Context: China, the Russian Federation_
+_Context: China, Russia_
 
 ### [Omar Suleiman, the former police and intelligence chief under ousted Egyptian dictator Hosni Mubarak, dies suddenly during medical tests in the United States. ](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.md)
 _Context: Hosni Mubarak, Omar Suleiman_

@@ -7,7 +7,7 @@ _Context: 2014-15 Australian region cyclone season, Australia, Cape York Peninsu
 _Context: Eglin Air Force Base, Florida Panhandle, U.S. Marine, U.S. soldiers_
 
 ### [A fire and partial collapse of the Admiral shopping complex in the Russian city of Kazan kills at least 17 people with 55 more injured. ](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.md)
-_Context: Kazan, fire and partial collapse, the Russian Federation_
+_Context: Kazan, Russia, fire and partial collapse_
 
 ### [The Government of Germany advises that Chancellor Angela Merkel will not attend a May 9 World War II Victory Day Parade in Moscow but will visit shortly thereafter. ](/news/2015/03/11/the-government-of-germany-advises-that-chancellor-angela-merkel-will-not-attend-a-may-9-world-war-ii-victory-day-parade-in-moscow-but-will-v.md)
 _Context: Angela Merkel, Chancellor, Government of Germany, Moscow, World War II, biggest ever military parade_

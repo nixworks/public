@@ -1,7 +1,7 @@
 ## [2011-12-15](/news/2011/12/15/index.md)
 
 ### [Russia circulates a draft resolution condemning the violence in Syria. ](/news/2011/12/15/russia-circulates-a-draft-resolution-condemning-the-violence-in-syria.md)
-_Context: 2011 Syrian uprising, Syria, United Nations Security Council resolution, the Russian Federation_
+_Context: 2011 Syrian uprising, Russia, Syria, United Nations Security Council resolution_
 
 ### [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md)
 The flag of American forces in Iraq has been lowered in Baghdad bringing nearly nine years of US military operations in Iraq to a formal end.

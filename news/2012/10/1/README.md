@@ -22,7 +22,7 @@ _Context: Hong Kong, a ferry collision_
 _Context: Bahrain, Bahraini uprising (2011-present)_
 
 ### [The appeal hearing in the Russian band Pussy Riot's case is delayed after one member of the group fired their lawyer. ](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.md)
-_Context: Pussy Riot, the Russian Federation_
+_Context: Pussy Riot, Russia_
 
 ### [Chinese authorities close down the firm handling dissident artist Ai Weiwei's affairs, possibly saving him from paying the remainder of a 15 million yuan tax fine. ](/news/2012/10/1/chinese-authorities-close-down-the-firm-handling-dissident-artist-ai-weiwei-s-affairs-possibly-saving-him-from-paying-the-remainder-of-a-15.md)
 _Context: Ai Weiwei, China, yuan_

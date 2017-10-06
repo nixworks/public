@@ -4,7 +4,7 @@
 _Context: Austrian Airlines, Lauda Air, Star Alliance, Tyrolean Airways_
 
 ### [Presidential elections in Russia: Vladimir Putin elected President.](/news/2000/03/26/presidential-elections-in-russia-vladimir-putin-elected-president.md)
-_Context: Vladimir Putin, the Russian Federation_
+_Context: Russia, Vladimir Putin_
 
 ## [Previous Day...](/news/2000/03/25/index.md)
 

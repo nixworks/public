@@ -28,7 +28,7 @@ To the great surprise of pollsters and the regret of the government, the Swiss o
 _Context: IAEA, Iran, Iran and weapons of mass destruction, government, parliament_
 
 ### [ Russian police issue an appeal for witnesses following the Nevsky Express bombing. ](/news/2009/11/29/russian-police-issue-an-appeal-for-witnesses-following-the-nevsky-express-bombing.md)
-_Context: Nevsky Express, Russian police, the Russian Federation, the bomb attack, witness_
+_Context: Nevsky Express, Russia, Russian police, the bomb attack, witness_
 
 ### [ The central bank of the United Arab Emirates announces it will provide extra liquidity to Dubai banks. ](/news/2009/11/29/the-central-bank-of-the-united-arab-emirates-announces-it-will-provide-extra-liquidity-to-dubai-banks.md)
 Central Bank has issued a notice to the UAE banks and branches of foreign banks operating in the UAE making available to them a special additional liquidity facility linked to their current accounts at the Central bank at the rate of 50 basis points above the three months EIBOR 
@@ -55,7 +55,7 @@ Hondurans are voting on Sunday for a new president, hoping to unlock a political
 President Obiang tells Al Jazeera his leadership is unchallenged ahead of election.
 
 ### [ A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. ](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.md)
-_Context: Osama bin Laden, Tora Bora, U.S. soldiers, United States, United States Senate, within grasp_
+_Context: Osama bin Laden, Tora Bora, U.S., U.S. soldiers, United States Senate, within grasp_
 
 ### [ British scientists at the University of East Anglia, who are criticised, say they will publish their figures in full. ](/news/2009/11/29/british-scientists-at-the-university-of-east-anglia-who-are-criticised-say-they-will-publish-their-figures-in-full.md)
 Latest environmental news, features and updates. Pictures, video and more. 

@@ -13,7 +13,7 @@ The vote, a major victory for the White House, also gives legal protection to ph
 _Context: Chile, Ernesto "Tito" Beltran, Swedish, rape_
 
 ### [ Russia and Ukraine resolve a dispute over Ukraine's natural gas debt which saw Gazprom threatening to cut off supplies. ](/news/2008/02/12/russia-and-ukraine-resolve-a-dispute-over-ukraine-s-natural-gas-debt-which-saw-gazprom-threatening-to-cut-off-supplies.md)
-_Context: Gazprom, Ukraine, natural gas, the Russian Federation_
+_Context: Gazprom, Russia, Ukraine, natural gas_
 
 ### [ Members of the Writers Guild of America vote to end the WGA strike that had been in effect for just over three months. ](/news/2008/02/12/members-of-the-writers-guild-of-america-vote-to-end-the-wga-strike-that-had-been-in-effect-for-just-over-three-months.md)
 _Context: WGA strike, Writers Guild of America_

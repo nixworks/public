@@ -31,7 +31,7 @@ Thousands of homes and businesses in Northern Ireland are still without water as
 Five teenagers die at a party in a southern Florida motel room in what officials say is a case of suspected carbon monoxide poisoning.
 
 ### [A Russian Antonov military cargo plane crashes between Tula and Oryol, Russia, killing all 11 on board.](/news/2010/12/28/a-russian-antonov-military-cargo-plane-crashes-between-tula-and-oryol-russia-killing-all-11-on-board.md)
-_Context: Antonov An-22, Oryol, Tula, the Russian Federation_
+_Context: Antonov An-22, Oryol, Russia, Tula_
 
 ### [A fire in a New Orleans warehouse kills eight people and two dogs, most of them homeless artists and musicians.](/news/2010/12/28/a-fire-in-a-new-orleans-warehouse-kills-eight-people-and-two-dogs-most-of-them-homeless-artists-and-musicians.md)
 _Context: New Orleans, homelessness_
@@ -43,7 +43,7 @@ _Context: IC3_
 _Context: Beninese, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
 
 ### [Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. ](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.md)
-_Context: Spanish, the Russian Federation_
+_Context: Russia, Spanish_
 
 ### [A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. ](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.md)
 _Context: China_

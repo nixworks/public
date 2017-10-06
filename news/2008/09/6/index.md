@@ -19,7 +19,7 @@ _Context: 2008 Cairo landslide, Cairo, rockslide_
 _Context: 2008 Summer Paralympic Games, Beijing_
 
 ### [ Tropical Storm Hanna makes landfall in the United States on the border between North Carolina and South Carolina. [http:--www.theage.com.au-world-hanna-hits-us-coast-20080906-4az3.html?page=-1 (AFP via the "Melbourne Age")] Hurricane Ike reaches Category 4 strength as it prepares to hit Turks and Caicos. [http:--ap.google.com-article-ALeqM5g918hbtK02_PM8gtnv_-6UZu8yEAD931FDUG0 (AP via Google News)]date=October 2012](/news/2008/09/6/tropical-storm-hanna-makes-landfall-in-the-united-states-on-the-border-between-north-carolina-and-south-carolina-http-www-theage-com-au.md)
-_Context: 2008 Atlantic hurricane season, Hurricane Ike, North Carolina, South Carolina, Tropical Storm Hanna, Turks and Caicos, United States_
+_Context: 2008 Atlantic hurricane season, Hurricane Ike, North Carolina, South Carolina, Tropical Storm Hanna, Turks and Caicos, U.S._
 
 ### [ The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md)
 Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and a controversial politician with little experience, was elected president of Pakistan.

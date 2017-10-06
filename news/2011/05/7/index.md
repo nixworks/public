@@ -40,10 +40,10 @@ _Context: Bolivia, United Nations_
 _Context: China, Kyrgyzstan, Tajikistan, Xinjiang_
 
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
-_Context: Belarus, the Russian Federation_
+_Context: Belarus, Russia_
 
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
 
 ### [The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87-seats.md)
 Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for

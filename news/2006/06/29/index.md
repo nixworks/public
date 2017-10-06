@@ -34,7 +34,7 @@ _Context: Gaza, Israel, Operation Summer Rains, Palestinian, West Bank_
 (VIDEO) Israel Air Force strikes Interior Ministry building, Fatah offices in Gaza City; earlier, two power stations hit in IDF shelling attack, causing blackout in northern Gaza. Six rockets land south of Ashkelon, two of which narrowly miss strategic site
 
 ### [ Russia asks Israel to avoid harming Palestinian civilians in any offensive in the Gaza Strip and urges militants to free the abducted Israeli soldier. ](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.md)
-_Context: Gaza, Israel, Palestinian, the Russian Federation_
+_Context: Gaza, Israel, Palestinian, Russia_
 
 ### [ The body of Israeli student Eliyahu Asheri is found buried in a field near Ramallah with a head shot. Asheri, 18, was kidnapped and killed on Sunday night by a Palestinian militant group. ](/news/2006/06/29/the-body-of-israeli-student-eliyahu-asheri-is-found-buried-in-a-field-near-ramallah-with-a-head-shot-asheri-18-was-kidnapped-and-killed.md)
 _Context: Eliyahu Asheri, Ramallah_

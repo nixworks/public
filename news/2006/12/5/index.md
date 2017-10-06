@@ -1,7 +1,7 @@
 ## [2006-12-5](/news/2006/12/5/index.md)
 
 ### [ Yury Chaika, the Prosecutor General of Russia, has stated that Russia will not extradite any suspects in the radioactive poisoning death of Alexander Litvinenko. ](/news/2006/12/5/yury-chaika-the-prosecutor-general-of-russia-has-stated-that-russia-will-not-extradite-any-suspects-in-the-radioactive-poisoning-death-of.md)
-_Context: Alexander Litvinenko, Prosecutor General of Russia, Yury Chaika, extradited, murder of Russian spy Alexander Litvinenko, the Russian Federation_
+_Context: Alexander Litvinenko, Prosecutor General of Russia, Russia, Yury Chaika, extradited, murder of Russian spy Alexander Litvinenko_
 
 ### [ The United States Senate Committee on Armed Services unanimously approves the nomination of Robert Gates to be the next United States Secretary of Defense. ](/news/2006/12/5/the-united-states-senate-committee-on-armed-services-unanimously-approves-the-nomination-of-robert-gates-to-be-the-next-united-states-secre.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

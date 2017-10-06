@@ -16,7 +16,7 @@ _Context: Libya, death penalty, life imprisonment_
 A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poisoned at least 20 people, authorities said Tuesday &#8212; an accident that touched nerves still raw more than two decades after the Chernobyl nuclear power plant disaster.
 
 ### [ The Sudanese government says that a recent attempted coup d'etat did not have the support of the United States government, contrary to previous accusations from Nafi Ali Nafi, Sudanese President Omar al-Bashir's assistant. The government has arrested 14 members of the Umma Reform and Renewal Party for plotting the coup. ](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.md)
-_Context: Omar al-Bashir, Sudan, Umma Reform and Renewal Party, United States, coup_
+_Context: Omar al-Bashir, Sudan, U.S., Umma Reform and Renewal Party, coup_
 
 ### [ Five people are killed in a twin bomb blasts in Islamabad near the venue of a rally and meeting to be addressed by Pakistan Chief Justice Iftikhar Muhammad Chaudhry. ](/news/2007/07/17/five-people-are-killed-in-a-twin-bomb-blasts-in-islamabad-near-the-venue-of-a-rally-and-meeting-to-be-addressed-by-pakistan-chief-justice-i.md)
 _Context: Iftikhar Muhammad Chaudhry_
@@ -28,7 +28,7 @@ _Context: Pakistan, Pervez Musharraf_
 All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group have been granted bail.
 
 ### [ Delegates arrive in Beijing for the resumption of six party talks on Wednesday involving North Korea, South Korea, China, Russia, Japan and the United States to discuss the second phase of a deal on North Korean nuclear disarmament. ](/news/2007/07/17/delegates-arrive-in-beijing-for-the-resumption-of-six-party-talks-on-wednesday-involving-north-korea-south-korea-china-russia-japan-and.md)
-_Context: Beijing, China, Japan, North Korea, South Korea, United States, six-party talks, the Russian Federation_
+_Context: Beijing, China, Japan, North Korea, Russia, South Korea, U.S., six-party talks_
 
 ### [ 2007 Chuetsu offshore earthquake: The Government of Japan orders The Tokyo Electric Power Company to keep its Kashiwazaki-Kariwa Nuclear Power Plant closed pending safety checks after the earthquake caused a leak. ](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.md)
 _Context: 2007 Chuetsu offshore earthquake, Japan, Kashiwazaki-Kariwa Nuclear Power Plant, The Tokyo Electric Power Company, earthquake_

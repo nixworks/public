@@ -40,7 +40,7 @@ _Context: Bougainville Island, Joseph Kabui, autonomous government_
 _Context: Australia, Chen Yonglin, China, political asylum, spy_
 
 ### [ In Washington state, United States, the battle over the results of the 2004 gubernatorial election is settled by a county judge, approving the final count in favor of Christine Gregoire.](/news/2005/06/6/in-washington-state-united-states-the-battle-over-the-results-of-the-2004-gubernatorial-election-is-settled-by-a-county-judge-approving.md)
-_Context: 2004 gubernatorial election, Christine Gregoire, United States, Washington_
+_Context: 2004 gubernatorial election, Christine Gregoire, U.S., Washington_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

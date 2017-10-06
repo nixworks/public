@@ -1,7 +1,7 @@
 ## [1999-12-31](/news/1999/12/31/index.md)
 
 ### [ Boris Yeltsin resigns as President of Russia, to be replaced by Vladimir Putin.](/news/1999/12/31/boris-yeltsin-resigns-as-president-of-russia-to-be-replaced-by-vladimir-putin.md)
-_Context: Boris Yeltsin, Russian President, Vladimir Putin_
+_Context:  Russian President, Boris Yeltsin, Vladimir Putin_
 
 ### [ Five hijackers, who had been holding 155 hostages on an Indian Airlines Flight 814 aeroplane, leave the aircraft with two Islamic clerics that they had demanded be freed.](/news/1999/12/31/five-hijackers-who-had-been-holding-155-hostages-on-an-indian-airlines-flight-814-aeroplane-leave-the-aircraft-with-two-islamic-clerics-t.md)
 _Context: Indian Airlines Flight 814, aircraft piracy_

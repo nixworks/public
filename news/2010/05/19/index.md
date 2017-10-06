@@ -31,7 +31,7 @@ _Context: Shanxi province_
 _Context: CNETCC, National Computer Network Emergency Response Center of China_
 
 ### [Yandex, Russia's largest search engine and the eighth-largest in the world, launches an English language search engine. ](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.md)
-_Context: English, Yandex, search engine, the Russian Federation_
+_Context: English, Russia, Yandex, search engine_
 
 ## [Previous Day...](/news/2010/05/18/index.md)
 

@@ -20,5 +20,5 @@
 
 ### Changes:
 
-1. [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md) _2017-10-04 03:31:05 (First version)_
+1. [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md) _2017-10-05 03:30:37 (First version)_
 1. [ Uruguayans vote in a general election. ](/news/2009/10/25/uruguayans-vote-in-a-general-election.md) _(Current version)_

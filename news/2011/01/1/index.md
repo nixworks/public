@@ -10,7 +10,7 @@ _Context: $, Bonaire, Curaao, Netherlands Antillean guilder, Saba, Sint Eustatiu
 _Context: Estonia_
 
 ### [Four people are killed and around 40 injured after a passenger plane explodes in Surgut in eastern Russia. ](/news/2011/01/1/four-people-are-killed-and-around-40-injured-after-a-passenger-plane-explodes-in-surgut-in-eastern-russia.md)
-_Context: Surgut, a passenger plane explodes, the Russian Federation_
+_Context: Russia, Surgut, a passenger plane explodes_
 
 ### [Two people are killed after a hot air balloon crashes onto a bowling green in Midsomer Norton, Somerset, United Kingdom. ](/news/2011/01/1/two-people-are-killed-after-a-hot-air-balloon-crashes-onto-a-bowling-green-in-midsomer-norton-somerset-united-kingdom.md)
 Two men are killed as a hot air balloon crashes on a bowling green in Somerset.

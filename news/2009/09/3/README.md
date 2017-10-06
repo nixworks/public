@@ -31,7 +31,7 @@ Hundreds of Han Chinese demonstrate in Urumqui against syringe attacks, state me
 _Context: Australia_
 
 ### [ The Russian Supreme Court overturns a lower court ruling in the murder of journalist Anna Politkovskaya, ordering several probes into her death to be merged into one. ](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.md)
-_Context: Anna Politkovskaya, Supreme Court, the Russian Federation_
+_Context: Anna Politkovskaya, Russia, Supreme Court_
 
 ### [ 11 people are shot dead and a bomb at a restaurant injures 27 amid unrest in Thailand's Muslim south. ](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.md)
 An army spokesman says 10 people have been killed and at least 25 wounded in two days of attacks in insurgency-plagued southern Thailand.

@@ -1,7 +1,7 @@
 ## [2006-09-6](/news/2006/09/6/index.md)
 
 ### [ The security officers of Georgia arrest nearly 30 members of the opposition political party "Samartlianoba" (Justice) and its satellite organizations on suspicion of plotting a coup against the government. The party, which advocates closer political ties with the Russian Federation, is led by the nation's fugitive security chief Igor Giorgadze who is wanted by Interpol for his alleged involvement in the 1995 attempt on former Georgian President Shevardnadze's life. ](/news/2006/09/6/the-security-officers-of-georgia-arrest-nearly-30-members-of-the-opposition-political-party-samartlianoba-justice-and-its-satellite-org.md)
-_Context: 1995, Georgian, Igor Giorgadze, Interpol, Shevardnadze, the Russian Federation_
+_Context: 1995, Georgian, Igor Giorgadze, Interpol, Russia, Shevardnadze_
 
 ### [ The United States government announces that fourteen suspected terrorists are to be transferred to the Guantanamo Bay detainment camp and admits that these suspects have been held in CIA black sites. These people include Khalid Sheik Mohammed, believed to be the No. 3 al-Qaida leader before he was captured in Pakistan in 2003; Ramzi Binalshibh, an alleged would-be 9-11 hijacker; and Abu Zubaydah, who was believed to be a link between Osama bin Laden and many al-Qaida cells before he was also captured in Pakistan in March 2002. ](/news/2006/09/6/the-united-states-government-announces-that-fourteen-suspected-terrorists-are-to-be-transferred-to-the-guantanamo-bay-detainment-camp-and-a.md)
 _Context: 9/11, Abu Zubaydah, Al Qaida's, CIA, Guantnamo Bay detainment camp, Khalid Sheik Mohammed, Osama bin Laden, Pakistan, Ramzi Binalshibh, black site_

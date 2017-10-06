@@ -13,7 +13,7 @@ _Context: Indonesia, West Papua, earthquakes, magnitude_
 President-elect Barack Obama stumbled in his quest for a smooth transition on Sunday when New Mexico Gov. Bill Richardson withdrew as his nominee for commerce secretary in the face of a legal inquiry.
 
 ### [ United States President-elect Barack Obama nominates Virginia Governor Tim Kaine to be the Democratic National Committee's next chairperson. ](/news/2009/01/4/united-states-president-elect-barack-obama-nominates-virginia-governor-tim-kaine-to-be-the-democratic-national-committee-s-next-chairperson.md)
-_Context: Barack Obama, Democratic National Committee, Governor of Virginia, President-elect, Tim Kaine, United States, Virginia_
+_Context: Barack Obama, Democratic National Committee, Governor of Virginia, President-elect, Tim Kaine, U.S., Virginia_
 
 ## [Previous Day...](/news/2009/01/3/index.md)
 

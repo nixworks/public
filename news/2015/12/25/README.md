@@ -1,7 +1,7 @@
 ## [2015-12-25](/news/2015/12/25/index.md)
 
 ### [Zahran Alloush, founder of Islamist rebel group Jaysh al-Islam (army of Islam), the group's deputy leader, and other officials die in Russian airstrikes on a meeting east of Damascus, according to the Syrian Observatory for Human Rights. Jaysh al-Islam was one of the opposition groups at the December 10th conference that agreed on principles to guide peace talks, which both Bashar al-Assad and Russia rejected. ](/news/2015/12/25/zahran-alloush-founder-of-islamist-rebel-group-jaysh-al-islam-army-of-islam-the-group-s-deputy-leader-and-other-officials-die-in-russia.md)
-_Context: Bashar al-Assad, Damascus, December 10th conference, Jaysh al-Islam, Russian military intervention, Syrian Observatory for Human Rights, Zahran Alloush, radical Islamists, the Russian Federation_
+_Context: Bashar al-Assad, Damascus, December 10th conference, Jaysh al-Islam, Russia, Russian military intervention, Syrian Observatory for Human Rights, Zahran Alloush, radical Islamists_
 
 ### [With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares. In response, the company plans new pricing and attractions. ](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-at-its-san-antonio-texas-facility-and-the-recent-malfunction-of-the-sky-tower-ride-at-its-par.md)
 _Context: Florida, Orlando, San Antonio, Texas, SeaWorld, Sky Tower, Texas, killer whale_

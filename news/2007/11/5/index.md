@@ -10,7 +10,7 @@ _Context: George W. Bush, Netherlands, Pervez Musharraf, Sindh, Sindh High Court
 _Context: Carini, Italy, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_
 
 ### [ A fire at a retirement home in a village near Tula, Russia, kills at least 23 people. ](/news/2007/11/5/a-fire-at-a-retirement-home-in-a-village-near-tula-russia-kills-at-least-23-people.md)
-_Context: Tula, fire, retirement home, the Russian Federation_
+_Context: Russia, Tula, fire, retirement home_
 
 ### [ The Writers Guild of America asks 12,000 of its members to join a Hollywood screenwriters strike over a dispute over residuals. ](/news/2007/11/5/the-writers-guild-of-america-asks-12-000-of-its-members-to-join-a-hollywood-screenwriters-strike-over-a-dispute-over-residuals.md)
 _Context: Hollywood, Screenwriter, Writers Guild of America, residuals_

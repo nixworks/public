@@ -4,7 +4,7 @@
 _Context: Burma, Chinese_
 
 ### [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md)
-_Context: Belgorod, Bryansk, Rostov, Russian President, Vladimir Putin_
+_Context:  Russian President, Belgorod, Bryansk, Rostov, Vladimir Putin_
 
 ### [AstraZeneca rejects the latest, and likely the last, takeover price from Pfizer, close to 70 billion pounds or US$118 billion. ](/news/2014/05/19/astrazeneca-rejects-the-latest-and-likely-the-last-takeover-price-from-pfizer-close-to-70-billion-pounds-or-us-118-billion.md)
 _Context: AstraZeneca, Pfizer_

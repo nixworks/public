@@ -37,7 +37,7 @@ _Context: Chile, Michelle Bachelet, Natalia Compagnon, President_
 The swearing-in of the 290-member assembly comes at a critical time for reformist President Hassan Rouhani, whose coalition now holds 122 seats.
 
 ### [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md)
-_Context: Anders Fogh Rasmussen, Petro Poroshenko, Secretary General of NATO, Ukrainian President, the Russian Federation_
+_Context: Anders Fogh Rasmussen, Petro Poroshenko, Russia, Secretary General of NATO, Ukrainian President_
 
 ### [Anti-government protests erupt across Papua New Guinea against Prime Minister Peter O'Neill, calling on him to resign. Papua New Guinea has been in a state of political turmoil since 2014 when the Prime Minister was accused of fraud and corruption. ](/news/2016/05/28/anti-government-protests-erupt-across-papua-new-guinea-against-prime-minister-peter-o-neill-calling-on-him-to-resign-papua-new-guinea-has.md)
 Protests against Papua New Guinea&#39;s prime minister are spreading around the country.

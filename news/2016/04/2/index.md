@@ -34,7 +34,7 @@ Austria plans to deploy soldiers at the Brenner border with Italy to stem an exp
 Council asks UN secretary general to present options within 15 days for police deployment in violence-wracked country.
 
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Air Force, Europe, Iceland, NATO-Russia relations, Netherlands, the Russian Federation_
+_Context:  F-15C Eagle, Air Force, Europe, Iceland, NATO-Russia relations, Netherlands, Russia_
 
 ### [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md)
 International Monetary Fund Managing Director Christine Lagarde denied on Sunday that IMF staff would push Greece closer to default as a negotiating tactic on a new Greek bailout deal, which she said was &quot;still a good distance away.&quot;

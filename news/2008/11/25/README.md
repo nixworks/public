@@ -10,7 +10,7 @@ _Context: 800 billion "stimulus" package, U.S. Federal Reserve, US$_
 _Context: 38th Chess Olympiad, Armenia, China, Dresden, Germany_
 
 ### [ Three people are killed in a car bombing near the Udelnaya Metro station in Saint Petersburg, Russia. ](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-the-udelnaya-metro-station-in-saint-petersburg-russia.md)
-_Context: Saint Petersburg, Saint Petersburg Metro, car bombing, the Russian Federation_
+_Context: Russia, Saint Petersburg, Saint Petersburg Metro, car bombing_
 
 ### [ BHP Billiton, the world's largest mining company, withdraws a $66 billion bid for the Rio Tinto Group due to the global financial crisis. ](/news/2008/11/25/bhp-billiton-the-world-s-largest-mining-company-withdraws-a-66-billion-bid-for-the-rio-tinto-group-due-to-the-global-financial-crisis.md)
 _Context: BHP Billiton, Rio Tinto, financial crisis_

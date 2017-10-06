@@ -16,7 +16,7 @@ Deutsche Bank (DBKGn.DE) has agreed to a $7.2 billion settlement with the U.S. D
 _Context: Benjamin Netanyahu, Israeli-Palestinian peace process_
 
 ### [Moldovan President Igor Dodon, during his first state visit to Russia, says Moldova could scrap the 2014 Moldova-European Union Association Agreement after the country's next parliamentary election. ](/news/2017/01/17/moldovan-president-igor-dodon-during-his-first-state-visit-to-russia-says-moldova-could-scrap-the-2014-moldovaaeuropean-union-associatio.md)
-_Context: Igor Dodon, Moldova-European Union Association Agreement, Moldova-European Union relations, Moldovan President, parliamentary election, the Russian Federation_
+_Context: Igor Dodon, Moldova-European Union Association Agreement, Moldova-European Union relations, Moldovan President, Russia, parliamentary election_
 
 ### [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md)
 The Wikileaks source will walk free in May, but critics call the decision &quot;a grave mistake&quot;.

@@ -13,7 +13,7 @@ _Context: Caracas, Venezuela, riot in the Yare I prison_
 A suspected car bomb in the south-eastern Turkish city of Gaziantep leaves at least eight people dead, security sources and media say.
 
 ### [Officials say three suspected Islamic militants die while plotting a car bombing in the Republic of Tatarstan, Russia. ](/news/2012/08/20/officials-say-three-suspected-islamic-militants-die-while-plotting-a-car-bombing-in-the-republic-of-tatarstan-russia.md)
-_Context: Republic of Tatarstan, the Russian Federation_
+_Context: Republic of Tatarstan, Russia_
 
 ### [Prince Philip, the Duke of Edinburgh, is discharged from hospital following treatment for a bladder infection. ](/news/2012/08/20/prince-philip-the-duke-of-edinburgh-is-discharged-from-hospital-following-treatment-for-a-bladder-infection.md)
 The Duke of Edinburgh is discharged from hospital in Aberdeen, where he has spent five nights receiving treatment for a bladder infection.

@@ -25,7 +25,7 @@ _Context: IAEA, Iran, Olli Heinonen_
 Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concentration camp, where many Dutch Jews were sent. 
 
 ### ["The New York Times" claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-united-s.md)
-_Context: Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, United States, anti-corruption_
+_Context: Afghanistan, CIA, Karzai administration, Mohammed Zia Salehi, The New York Times, U.S., anti-corruption_
 
 ### [Ahmad Vahidi, Iran's Minister of Defense, offers military assistance to Lebanon following a request from Hezbollah. ](/news/2010/08/26/ahmad-vahidi-iran-s-minister-of-defense-offers-military-assistance-to-lebanon-following-a-request-from-hezbollah.md)
 Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid to Lebanon on Wednesday, after a call for Tehran’s help from the leader of Hizbullah. 
@@ -34,7 +34,7 @@ Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid
 South Korean media quotes officials suspecting Kim Jong-Il has travelled to neighbour.
 
 ### [Russian police arrest activists from Amnesty International and remove volunteers from Greenpeace Russia and the ONE Campaign at a U2 concert in Moscow. ](/news/2010/08/26/russian-police-arrest-activists-from-amnesty-international-and-remove-volunteers-from-greenpeace-russia-and-the-one-campaign-at-a-u2-concert.md)
-_Context: Amnesty International, Greenpeace India's, Moscow, ONE Campaign, U2, the Russian Federation_
+_Context: Amnesty International, Greenpeace India's, Moscow, ONE Campaign, Russia, U2_
 
 ### [An independent counsel finds that the Governor of New York David Paterson gave misleading evidence about intending to pay for free tickets that he obtained to last year's baseball world series and refers the issue to the Albany District Attorney for possible prosecution for perjury. ](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.md)
 _Context: Albany, David Paterson, District Attorney, New York Governor, baseball world series, independent counsel, perjury_

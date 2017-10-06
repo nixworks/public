@@ -4,7 +4,7 @@
 _Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, United Arab Emirates, tallest structure in the world_
 
 ### [ Russian President Vladimir Putin fires the chief of the Russian Navy Vladimir Masorin, and appoints in his place the commander of the Russian Northern Fleet, Vladimir Vysotsky. ](/news/2007/09/12/russian-president-vladimir-putin-fires-the-chief-of-the-russian-navy-vladimir-masorin-and-appoints-in-his-place-the-commander-of-the-russi.md)
-_Context: Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky, the Russian Federation_
+_Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky_
 
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
 _Context: Afghanistan, Ramadan, Taliban_

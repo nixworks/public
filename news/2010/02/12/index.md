@@ -1,7 +1,7 @@
 ## [2010-02-12](/news/2010/02/12/index.md)
 
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Ban Ki-moon, China, DPRK, Japan, South Korea, United States, six-party talks, the Russian Federation_
+_Context: Ban Ki-moon, China, DPRK, Japan, Russia, South Korea, U.S., six-party talks_
 
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
 _Context: Kenya, Mtwapa, homosexuality_
@@ -10,7 +10,7 @@ _Context: Kenya, Mtwapa, homosexuality_
 The United Nations refugee agency says it is preparing for a mass flight of people out of Somalia after rumours suggested pro-government forces might launch a major offensive.
 
 ### [Russian security forces kill at least 20 people in Ingushetia. ](/news/2010/02/12/russian-security-forces-kill-at-least-20-people-in-ingushetia.md)
-_Context: Ingushetia, the Russian Federation_
+_Context: Ingushetia, Russia_
 
 ### [Togo appeal to the Court of Arbitration for Sport over their ban from the next two Africa Cup of Nations in the aftermath of the Togo national football team attack. ](/news/2010/02/12/togo-appeal-to-the-court-of-arbitration-for-sport-over-their-ban-from-the-next-two-africa-cup-of-nations-in-the-aftermath-of-the-togo-nation.md)
 _Context: Africa Cup of Nations, Court of Arbitration for Sport, Togo, Togo national football team attack_
@@ -19,7 +19,7 @@ _Context: Africa Cup of Nations, Court of Arbitration for Sport, Togo, Togo nati
 _Context: Felipe Caldern, Juarez, Mexico, President_
 
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
-_Context: United States, University of Alabama in Huntsville, shooting_
+_Context: U.S., University of Alabama in Huntsville, shooting_
 
 ### [The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md)
 The Winter Olympic Games opening ceremony has been launched in a flurry of ticker-tape in an event dedicated to Georgian luger Nodar Kumaritashvili.

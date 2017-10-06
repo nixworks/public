@@ -28,7 +28,7 @@ The UN Security Council votes in favour of a fourth round of sanctions against I
 Muslim Brotherhood MP Mohamed Beltagy, who was on Gaza-bound flotilla, recounts snatching of Navy soldiers. Egyptian newspapers not pleased with bragging, says it &#39;helps Israel&#39;
 
 ### [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md)
-_Context: French warships, Georgian, Nicolas Sarkozy, Paris, President of France, Prime Minister of Russia, Saakashvili, Vladimir Putin, the Russian Federation_
+_Context: French warships, Georgian, Nicolas Sarkozy, Paris, President of France, Prime Minister of Russia, Russia, Saakashvili, Vladimir Putin_
 
 ### [France closes its military bases in Senegal and removes 900 of its 1,200 troops based there. ](/news/2010/06/9/france-closes-its-military-bases-in-senegal-and-removes-900-of-its-1-200-troops-based-there.md)
 France is closing its military bases in Senegal - 50 years after the independence of its former West Africa colony.

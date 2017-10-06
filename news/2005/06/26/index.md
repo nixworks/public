@@ -4,7 +4,7 @@
 _Context: Richard Whiteley_
 
 ### [ The Kremlin has called for an inquiry into fighting that took place on June 4, 2005, between Chechens and Avars. Russian president Vladimir Putin threatens that if any future incidents take place, "the North Caucasus will burn." ](/news/2005/06/26/the-kremlin-has-called-for-an-inquiry-into-fighting-that-took-place-on-june-4-2005-between-chechens-and-avars-russian-president-vladimir.md)
-_Context: 2005, Avars, Caucasus, Chechen, June 4, Kremlin, Vladimir Putin, the Russian Federation_
+_Context: 2005, Avars, Caucasus, Chechen, June 4, Kremlin, Russia, Vladimir Putin_
 
 ### [ The Israeli Foreign Minister, Silvan Shalom, apologises to New Zealand for the actions of two Israeli citizens, believed to be Mossad agents, who attempted to gain New Zealand passports under false pretences in 2004. The apology allows diplomatic relations between the two countries to return to normal. ](/news/2005/06/26/the-israeli-foreign-minister-silvan-shalom-apologises-to-new-zealand-for-the-actions-of-two-israeli-citizens-believed-to-be-mossad-agent.md)
 Israel has apologised for the spy scandal and has promised it will take steps to ensure no similar incident happens again. - New Zealand Herald

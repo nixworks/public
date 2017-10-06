@@ -1,7 +1,7 @@
 ## [2011-10-11](/news/2011/10/11/index.md)
 
 ### [China follows Russian admonishment of the Syrian government while the opposition Syrian National Council gains support in Egypt and is recognized by Libya. ](/news/2011/10/11/china-follows-russian-admonishment-of-the-syrian-government-while-the-opposition-syrian-national-council-gains-support-in-egypt-and-is-recog.md)
-_Context: China, Egypt, Libya, Syrian, Syrian National Council, the Russian Federation_
+_Context: China, Egypt, Libya, Russia, Syrian, Syrian National Council_
 
 ### [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md)
 _Context: Bashar al-Assad, Belarus, EU, Iran, Libya, National Transitional Council, President, Syria_
@@ -25,7 +25,7 @@ _Context: New Zealand, Tauranga, environmental disaster, oil spill_
 _Context: Gilad Shalit, Hamas, Israel, Israeli Army, life imprisonment_
 
 ### [Yulia Tymoshenko, the former Prime Minister of Ukraine, is jailed for seven years for exceeding her powers by entering a gas deal with Russia. ](/news/2011/10/11/yulia-tymoshenko-the-former-prime-minister-of-ukraine-is-jailed-for-seven-years-for-exceeding-her-powers-by-entering-a-gas-deal-with-russi.md)
-_Context: Prime Minister of Ukraine, Yulia Tymoshenko, the Russian Federation_
+_Context: Prime Minister of Ukraine, Russia, Yulia Tymoshenko_
 
 ### [The bodies of 12 Chinese sailors have been found and one remains missing in Mekong river, where Thailand, Laos and Myanmar meet, after the incident last week in which two Chinese cargo vessels were hijacked by suspected drug smugglers in the Golden Triangle, and later captured by Thai river police.](/news/2011/10/11/the-bodies-of-12-chinese-sailors-have-been-found-and-one-remains-missing-in-mekong-river-where-thailand-laos-and-myanmar-meet-after-the-i.md)
 Passenger and cargo traffic was halted after Thai border police heard gunfire, found two Chinese cargo vessels adrift with drugs and one body — and then 11 floating bodies.

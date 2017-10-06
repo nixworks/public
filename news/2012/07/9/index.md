@@ -28,7 +28,7 @@ _Context: Iowa, PFGBest, Russell Wasendorf_
 _Context: Bank of America, Jose Trevino Morales, Los Zetas, drug cartel_
 
 ### [The United States Department of Justice unseals an indictment charging five people for their alleged involvement in the murder of Border Patrol agent Brian Terry and offers up to $1 million reward for information leading to their arrest. ](/news/2012/07/9/the-united-states-department-of-justice-unseals-an-indictment-charging-five-people-for-their-alleged-involvement-in-the-murder-of-border-pat.md)
-_Context: Brian Terry, U.S. Border Patrol, United States Department of Justice, indicted_
+_Context: Brian Terry, Department of Justice, U.S. Border Patrol, indicted_
 
 ### [Egyptian president Mohammed Mursi's order to reopen parliament is rejected by the highest court, stating that its ruling dissolving the assembly is binding. ](/news/2012/07/9/egyptian-president-mohammed-mursi-s-order-to-reopen-parliament-is-rejected-by-the-highest-court-stating-that-its-ruling-dissolving-the-asse.md)
 _Context: Egypt, Mohammed Mursi_

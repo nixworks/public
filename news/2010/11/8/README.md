@@ -55,13 +55,13 @@ _Context: Obama Administration, Somalian, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, United States_
+_Context: Sudan, U.S._
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_
 
 ### [Unidentified attackers armed with knives kill 12 people in Kushchyovskaya, Krasnodar krai, Russia. ](/news/2010/11/8/unidentified-attackers-armed-with-knives-kill-12-people-in-kushchyovskaya-krasnodar-krai-russia.md)
-_Context: Krasnodar region, Kushchyovskaya, the Russian Federation_
+_Context: Krasnodar region, Kushchyovskaya, Russia_
 
 ### [U.S. militant Lori Berenson is released from prison in Peru after serving more than a decade for collaborating with the Tupac Amaru Revolutionary Movement. ](/news/2010/11/8/u-s-militant-lori-berenson-is-released-from-prison-in-peru-after-serving-more-than-a-decade-for-collaborating-with-the-taopac-amaru-revolut.md)
 _Context: Lori Berenson, Peru, Tupac Amaru Revolutionary Movement, U.S._

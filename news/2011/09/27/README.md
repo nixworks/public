@@ -1,7 +1,7 @@
 ## [2011-09-27](/news/2011/09/27/index.md)
 
 ### [One policeman and seven civilians die as a result of car bombing in the Republic of Dagestan, Russia. ](/news/2011/09/27/one-policeman-and-seven-civilians-die-as-a-result-of-car-bombing-in-the-republic-of-dagestan-russia.md)
-_Context: Republic of Dagestan, the Russian Federation_
+_Context: Republic of Dagestan, Russia_
 
 ### [An explosion destroys the Arab Gas Pipeline in Egypt's Sinai Peninsula supplying natural gas to Jordan and Israel. ](/news/2011/09/27/an-explosion-destroys-the-arab-gas-pipeline-in-egypt-s-sinai-peninsula-supplying-natural-gas-to-jordan-and-israel.md)
 An explosion destroyed anEgyptian pipeline in Sinai that supplies Israel and Jordan withgas on Tuesday, security sources and witnesses said.

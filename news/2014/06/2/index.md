@@ -1,7 +1,7 @@
 ## [2014-06-2](/news/2014/06/2/index.md)
 
 ### [A large skirmish occurs in eastern Ukraine when pro-Russian separatists launch a massive attack on a border control centre near the city of Luhansk; five militants are killed and another eight are wounded, and seven Ukrainian border guards are wounded in the clash. ](/news/2014/06/2/a-large-skirmish-occurs-in-eastern-ukraine-when-pro-russian-separatists-launch-a-massive-attack-on-a-border-control-centre-near-the-city-of.md)
-_Context: 2014 pro-Russian conflict in Ukraine, Eastern Ukraine, Luhansk, border guard, the Russian Federation_
+_Context: 2014 pro-Russian conflict in Ukraine, Eastern Ukraine, Luhansk, Russia, border guard_
 
 ### [Indian police fire water cannons to disperse hundreds of protesters, angry over the gang-rape and hanging of two teenage girls in Uttar Pradesh, demonstrating outside the office of Chief Minister Akhilesh Yadav. ](/news/2014/06/2/indian-police-fire-water-cannons-to-disperse-hundreds-of-protesters-angry-over-the-gang-rape-and-hanging-of-two-teenage-girls-in-uttar-prad.md)
 Indian police fire water cannons to disperse hundreds of protesters in Uttar Pradesh state where two teenage cousins were gang raped and hanged.

@@ -7,7 +7,7 @@ Saudi-led air strikes killed a group of around 20 Houthi fighters outside the so
 _Context: Ramzan Kadyrov_
 
 ### [Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.md)
-_Context: Marinka, War in Donbass, the Russian Federation_
+_Context: Marinka, Russia, War in Donbass_
 
 ### [The search continues for survivors of the "Dong Fang Zhi Xing" which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with-450-passengers-on-board-so-far-18.md)
 “18 confirmed dead, 14 rescued; over 150 divers carrying out search and rescue operations on #YangtzeRiver”

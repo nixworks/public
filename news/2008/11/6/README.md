@@ -4,7 +4,7 @@
 _Context: Glenrothes by-election, Lindsay Roy, Scottish Labour Party, Scottish National Party_
 
 ### [ According to officials, an explosion kills at least 11 people aboard a minibus in the North Caucasus city of Vladikavkaz, Russia. ](/news/2008/11/6/according-to-officials-an-explosion-kills-at-least-11-people-aboard-a-minibus-in-the-north-caucasus-city-of-vladikavkaz-russia.md)
-_Context: North Caucasus, Vladikavkaz, an explosion, the Russian Federation_
+_Context: North Caucasus, Russia, Vladikavkaz, an explosion_
 
 ### [ Jigme Khesar Namgyel Wangchuck is coronated as the fifth King of Bhutan, replacing his father Jigme Singye Wangchuck, who abdicated his power, making him the world's youngest monarch. ](/news/2008/11/6/jigme-khesar-namgyel-wangchuck-is-coronated-as-the-fifth-king-of-bhutan-replacing-his-father-jigme-singye-wangchuck-who-abdicated-his-pow.md)
 _Context: Bhutan, Jigme Khesar Namgyel Wangchuck, Jigme Singye Wangchuck, King_

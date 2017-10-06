@@ -22,7 +22,7 @@ _Context: Madagascar, political crisis, unity_
 Dinosaur footprints found in northwest Nelson have given scientists their first proof the beasts roamed the South Island more than 70 million years ago. - New Zealand Herald
 
 ### [ 11 people are confirmed dead after the crashing of a Russian military plane into the sea in the Tatar Strait, in the far east of Russia, yesterday. ](/news/2009/11/7/11-people-are-confirmed-dead-after-the-crashing-of-a-russian-military-plane-into-the-sea-in-the-tatar-strait-in-the-far-east-of-russia-ye.md)
-_Context: Tatar Strait, the Russian Federation_
+_Context: Russia, Tatar Strait_
 
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
 _Context: 2009 gubernatorial election and runoff, Northern Mariana Islands, go to the polls, legislature, municipal_

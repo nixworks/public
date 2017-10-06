@@ -7,7 +7,7 @@ _Context: Chronox Manek, Ombudsman, Papua New Guinea, assassinated_
 _Context: Constitutional Court of Turkey, Democratic Society Party, Kurd_
 
 ### [ Vasily Khristoforov, the head archivist for Russia's Federal Security Service confirms for the first time that the Soviet Union's KGB cremated Adolf Hitler's body in 1970 and scattered his ashes in the Biederitz River. ](/news/2009/12/11/vasily-khristoforov-the-head-archivist-for-russia-s-federal-security-service-confirms-for-the-first-time-that-the-soviet-union-s-kgb-crema.md)
-_Context: Adolf Hitler, Biederitz River, Federal Security Service, KGB, Soviet, the Russian Federation_
+_Context: Adolf Hitler, Biederitz River, Federal Security Service, KGB, Russia, Soviet_
 
 ### [ Oil company Royal Dutch Shell wins the right to develop Iraq's Majnoon oil field in a joint venture with Petronas after the first such auction since the 2003 invasion. The field is expected to generate $900 million a year. ](/news/2009/12/11/oil-company-royal-dutch-shell-wins-the-right-to-develop-iraq-s-majnoon-oil-field-in-a-joint-venture-with-petronas-after-the-first-such-auct.md)
 _Context: 2003 invasion of Iraq, Iraq, Majnoon, Petronas, Royal Dutch Shell, crude oil_
@@ -28,7 +28,7 @@ _Context: 2011, Egypt, Egyptian presidential election in September, IAEA, Mohame
 _Context: Tawa, Theropod, Triassic, dinosaur_
 
 ### [ North Korea acknowledges "the need to resume" the stalled six-party talks on its nuclear program, after talks with U.S. envoy Stephen Bosworth. ](/news/2009/12/11/north-korea-acknowledges-the-need-to-resume-the-stalled-six-party-talks-on-its-nuclear-program-after-talks-with-u-s-envoy-stephen-boswo.md)
-_Context: North Korea, Stephen Bosworth, United States, its nuclear weapons program, six-party talks_
+_Context: North Korea, Stephen Bosworth, U.S., its nuclear weapons program, six-party talks_
 
 ### [ The Airbus A400M from Airbus Military performs its maiden flight in Seville, Spain. ](/news/2009/12/11/the-airbus-a400m-from-airbus-military-performs-its-maiden-flight-in-seville-spain.md)
 A new European militarytransport plane, the Airbus EAD.PA A400M, took to the skies on Friday in a boost to a 20 billion euro ($29.45 billion)project threatened by soaring costs after a two-year developmentdelay.

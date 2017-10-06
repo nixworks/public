@@ -19,7 +19,7 @@ _Context: Afghanistan, Brian David Anderson, Madrid_
 _Context: Alexander Veshnyakov, Central Election Commission, United Russia, Vladimir Putin_
 
 ### [ Alberto Gonzales, the Attorney General of the United States, acknowledges that mistakes were made in the handling of the firing of eight federal prosecutors. His top aide Kyle Sampson resigns for not advising other senior officials of the Department of Justice about discussions with former White House counsel Harriet Miers regarding the possible firings. ](/news/2007/03/13/alberto-gonzales-the-attorney-general-of-the-united-states-acknowledges-that-mistakes-were-made-in-the-handling-of-the-firing-of-eight-fe.md)
-_Context: Alberto Gonzales, Attorney General, Harriet Miers, Kyle Sampson, United States Department of Justice, White House, firings_
+_Context: Alberto Gonzales, Attorney General, Department of Justice, Harriet Miers, Kyle Sampson, White House, firings_
 
 ### [ At least 50 people die due to heavy snow in Kashmir and thunderstorms in the rest of northern India. ](/news/2007/03/13/at-least-50-people-die-due-to-heavy-snow-in-kashmir-and-thunderstorms-in-the-rest-of-northern-india.md)
 _Context: Kashmir_

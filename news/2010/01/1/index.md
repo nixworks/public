@@ -7,7 +7,7 @@ _Context: Colombia, Colombian Air Force, New Year, Revolutionary Armed Forces of
 _Context: 2010 Lakki Marwat suicide bombing, Lakki Marwat, Pakistan, suicide bomber, volleyball_
 
 ### [ Russians are surprised by a cartoon "gently lampooning" Dmitry Medvedev and Vladimir Putin who are portrayed dancing, singing and playing musical instruments. ](/news/2010/01/1/russians-are-surprised-by-a-cartoon-gently-lampooning-dmitry-medvedev-and-vladimir-putin-who-are-portrayed-dancing-singing-and-playing-m.md)
-_Context: Dmitry Medvedev, Vladimir Putin, the Russian Federation_
+_Context: Dmitry Medvedev, Russia, Vladimir Putin_
 
 ### [ China and the Association of Southeast Asian Nations (ASEAN) launch a Free Trade Area. ](/news/2010/01/1/china-and-the-association-of-southeast-asian-nations-asean-launch-a-free-trade-area.md)
 The new zone, consisting of China and 10 Southeast Asian nations, will remove tariffs on 90 percent of traded goods.
@@ -25,7 +25,7 @@ _Context: Schwann cell, Tasmanian devil, devil facial tumour disease, transmissi
 _Context: Cambodia, Sam Rainsy, Vietnam_
 
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)
-_Context: Korean Peninsula, New Year editorial, North Korea, United States_
+_Context: Korean Peninsula, New Year editorial, North Korea, U.S._
 
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
 _Context: Council of the European Union, EU, Spanish, Swedish, the Council of_

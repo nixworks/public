@@ -10,7 +10,7 @@ _Context: Ahmed Abdallah Mohamed Sambi, Comoros, President_
 _Context: Czech Republic, Czechoslovakia, Slovakia, Velvet Revolution, communism_
 
 ### [ A Russian icebreaker with 100 tourists on board is stranded in ice in the Antarctic. ](/news/2009/11/17/a-russian-icebreaker-with-100-tourists-on-board-is-stranded-in-ice-in-the-antarctic.md)
-_Context: Antarctic, the Russian Federation_
+_Context: Antarctic, Russia_
 
 ### [ Israel approves a further 900 settler homes in a settlement in East Jerusalem. ](/news/2009/11/17/israel-approves-a-further-900-settler-homes-in-a-settlement-in-east-jerusalem.md)
 Israel has risked angering its US allies by approving the construction of 900 more homes in a settlement in East Jerusalem, even as President Nicolas Sarkozy pushed for a peace summit.

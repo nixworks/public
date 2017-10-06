@@ -16,7 +16,7 @@ Almost 45 people were injured when new clashes broke out between stone-throwing 
 Ben S. Bernanke signaled that the Fed was prepared to take several steps if the economy continued to weaken.
 
 ### [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md)
-_Context: Continental Airlines, United Airlines, United States Department of Justice, antitrust_
+_Context: Continental Airlines, Department of Justice, United Airlines, antitrust_
 
 ### [As many as 30 children die of lead poisoning in northern Nigeria. ](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in-northern-nigeria.md)
 As many as 30 children are reportedly dead in northern Nigeria from lead poisoning caused by illegal gold-miners.
@@ -40,7 +40,7 @@ India suspends defence exchanges after China denies visa to Kashmir general, rep
 Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said her employer in Saudi Arabia hammered them into her body.
 
 ### [Muslims protest outside the United States embassy in Jakarta about plans by the Dove World Outreach Center in Gainesville, Florida to burn Korans on the 9th anniversary of the September 11 attacks. ](/news/2010/08/27/muslims-protest-outside-the-united-states-embassy-in-jakarta-about-plans-by-the-dove-world-outreach-center-in-gainesville-florida-to-burn-k.md)
-_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, United States, burn Korans, church_
+_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, U.S., burn Korans, church_
 
 ### [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md)
 _Context: France, Roma, United Nations_

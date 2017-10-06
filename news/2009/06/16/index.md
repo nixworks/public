@@ -7,7 +7,7 @@ Authorities in Iran have banned foreign media from covering &#39;unauthorised&#3
 French President NicolasSarkozy and a dozen heads of state from around Africa gatheredin Gabon on Tuesday to mark the death of President Omar Bongoafter more than four decades in power.
 
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context: Georgian, United Nations Observer Mission, the Russian Federation_
+_Context: Georgian, Russia, United Nations Observer Mission_
 
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
 _Context: Bloomsday, Brian Friel, Ulysses Medal, University College Dublin_

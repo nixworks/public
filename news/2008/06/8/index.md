@@ -28,7 +28,7 @@ At least seven people have been killed in a stabbing frenzy in a crowded part of
 _Context: 2008 French Open, Rafael Nadal, men's singles title_
 
 ### [ A day of mourning is declared in Russia's Kaliningrad Region as the death toll from Thursday's explosion and fire on the MV "Yenisei" reaches eight, with two missing. [http:--news.xinhuanet.com-english-2008-06-08-content_8327575.htm (Xinhua)] (Wikinews)](/news/2008/06/8/a-day-of-mourning-is-declared-in-russia-s-kaliningrad-region-as-the-death-toll-from-thursday-s-explosion-and-fire-on-the-mv-yenisei-reach.md)
-_Context: (Wikinews), Kaliningrad Region, the Russian Federation_
+_Context: (Wikinews), Kaliningrad Region, Russia_
 
 ## [Previous Day...](/news/2008/06/7/index.md)
 

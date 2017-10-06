@@ -28,7 +28,7 @@ _Context: Bush Administration, CIA leak scandal, George W. Bush, Valerie Plame, 
 _Context: Mumbai_
 
 ### [ Russia expels four British diplomats in the ongoing row over the extradition of Andrei Lugovoi for the suspected murder of Russian spy Alexander Litvinenko. ](/news/2007/07/19/russia-expels-four-british-diplomats-in-the-ongoing-row-over-the-extradition-of-andrei-lugovoi-for-the-suspected-murder-of-russian-spy-alex.md)
-_Context: Andrei Lugovoi, United Kingdom, murder of Russian spy Alexander Litvinenko, the Russian Federation_
+_Context: Andrei Lugovoi, Russia, United Kingdom, murder of Russian spy Alexander Litvinenko_
 
 ### [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md)
 _Context: Honiara, Regional Assistance Mission to the Solomon Islands, Solomon Islands_

@@ -43,7 +43,7 @@ _Context: France, Italy, Roma_
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 
 ### [Russian engineers start loading fuel into Iran's first nuclear reactor at Bushehr Nuclear Power Plant. ](/news/2010/08/21/russian-engineers-start-loading-fuel-into-iran-s-first-nuclear-reactor-at-bushehr-nuclear-power-plant.md)
-_Context: Bushehr power plant, Iran, engineers, nuclear reactor, the Russian Federation_
+_Context: Bushehr power plant, Iran, Russia, engineers, nuclear reactor_
 
 ### [Amnesty International urges Saudi Arabia not to sever the spine of a man as punishment; the man has been convicted of paralysing another man. ](/news/2010/08/21/amnesty-international-urges-saudi-arabia-not-to-sever-the-spine-of-a-man-as-punishment-the-man-has-been-convicted-of-paralysing-another-man.md)
 A Saudi judge has asked several hospitals whether they could damage a man&#039;s spinal cord as punishment after he was convicted of paralysing a man with a cleaver.

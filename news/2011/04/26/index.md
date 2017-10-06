@@ -13,7 +13,7 @@ _Context: CBS Evening News, Katie Couric_
 _Context: Andrew Marr, BBC, Private Eye, superinjunction_
 
 ### [The Russian capital Moscow is to allow its first gay pride rally in May. ](/news/2011/04/26/the-russian-capital-moscow-is-to-allow-its-first-gay-pride-rally-in-may.md)
-_Context: Moscow, gay pride, the Russian Federation_
+_Context: Moscow, Russia, gay pride_
 
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)
 A France Telecom worker and father of four commits suicide by setting himself on fire in a work car park near the southern city of Bordeaux, management and unions say.

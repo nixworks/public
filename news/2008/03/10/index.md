@@ -1,7 +1,7 @@
 ## [2008-03-10](/news/2008/03/10/index.md)
 
 ### [ Eight United States Army soldiers are killed in two bombings in Iraq. ](/news/2008/03/10/eight-united-states-army-soldiers-are-killed-in-two-bombings-in-iraq.md)
-_Context: Iraq, U.S. soldiers, United States_
+_Context: Iraq, U.S., U.S. soldiers_
 
 ### [ The Serbian government adopts a policy to dismiss the National Assembly of Serbia and hold elections later in the year. ](/news/2008/03/10/the-serbian-government-adopts-a-policy-to-dismiss-the-national-assembly-of-serbia-and-hold-elections-later-in-the-year.md)
 _Context: Serbia, parliament, parliamentary election_

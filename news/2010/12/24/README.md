@@ -49,7 +49,7 @@ Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x2
 Three countries to hold joint military exercises in April, agree to cooperate on anti-narcotics operations.
 
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
-_Context: France, the Russian Federation_
+_Context: France, Russia_
 
 ### [The United Nations General Assembly unanimously approves opposition candidate Alassane Ouattara as President of Cte d'Ivoire. ](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.md)
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.

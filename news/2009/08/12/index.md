@@ -13,7 +13,7 @@ _Context: Shia, Shia insurgency in Yemen, Yemen_
 _Context: Sudan, Warrap state, renewed violence_
 
 ### [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md)
-_Context: Baltic Sea, the Russian Federation_
+_Context: Baltic Sea, Russia_
 
 ### [ About 700 people missing in southern Taiwan after Typhoon Morakot are located alive. ](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.md)
 About 700 people from the remote mountains of southern Taiwan have been found alive overnight.

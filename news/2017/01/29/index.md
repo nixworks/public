@@ -7,7 +7,7 @@ A U.S. commando died and three others were wounded carrying out a deadly dawn ra
 The advance of government forces comes a week after fruitless negotiations between Damascus and rebels in Astana.
 
 ### [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Khasavyurt, the Russian Federation_
+_Context: Dagestan, Insurgency in the North Caucasus, Khasavyurt, Russia_
 
 ### [A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehen.md)
 Quebec provincial police now say only one of the two men arrested Sunday night following the deadly shooting at a Quebec City mosque is a suspect. Alexandre Bissonnette, 27, has been charged with six counts of first-degree murder and five counts of attempted murder.

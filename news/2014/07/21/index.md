@@ -10,7 +10,7 @@ The U.N. Security Council unanimously adopted a resolution Monday demanding inte
 Ten people were killed, including a mother and three children, in a government air strike on a militant-controlled town north of Baghdad on Monday, hospital sources and witnesses said.
 
 ### [Russian company Severstal sells two steel works in the US to AK Steel and Steel Dynamics for US$2.3 billion. ](/news/2014/07/21/russian-company-severstal-sells-two-steel-works-in-the-us-to-ak-steel-and-steel-dynamics-for-us-2-3-billion.md)
-_Context: AK Steel, Severstal, Steel Dynamics, US$, the Russian Federation_
+_Context: AK Steel, Russia, Severstal, Steel Dynamics, US$_
 
 ### [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md)
 _Context: 2014 Pacific typhoon season, China, Typhoon Rammasun (Glenda), Vietnam_

@@ -7,7 +7,7 @@ _Context: Beijing, China, Communist Party general secretary, Communist Party of 
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Sonia Sotomayor, U.S. President, United States, United States Supreme Court, United States federal judge, confirmed_
+_Context: Barack Obama, Sonia Sotomayor, U.S., U.S. President, United States Supreme Court, United States federal judge, confirmed_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_

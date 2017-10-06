@@ -4,7 +4,7 @@
 _Context: Commonwealth of Nations, heads of government_
 
 ### [ The city of Khabarovsk in Far Eastern Russia declares a state of emergency as the 80 km benzene slick released by an explosion in a Chinese chemical plant on 13 November, which has already caused water supplies for 4 million inhabitants of the Chinese city of Harbin to be suspended, approaches the Amur river which is the main water source for 1.5 million people in Russia. ](/news/2005/11/24/the-city-of-khabarovsk-in-far-eastern-russia-declares-a-state-of-emergency-as-the-80-km-benzene-slick-released-by-an-explosion-in-a-chinese.md)
-_Context: Amur, Chinese, Harbin, Khabarovsk, benzene, the Russian Federation_
+_Context: Amur, Chinese, Harbin, Khabarovsk, Russia, benzene_
 
 ### [ Two people were injured in an accident at the Macy's Thanksgiving Day Parade in New York City when the M&M's balloon was tangled in a light pole and fell near Times Square. [http:--news.yahoo.com-s-ap-20051124-ap_on_re_us-thanksgiving_parade_16 (AP via Yahoo! News)] (Link dead as of 00:46, 15 January 2007 (UTC))](/news/2005/11/24/two-people-were-injured-in-an-accident-at-the-macy-s-thanksgiving-day-parade-in-new-york-city-when-the-m-m-s-balloon-was-tangled-in-a-light.md)
 _Context: M&M's, Macy's Thanksgiving Day Parade, New York City, Times Square_

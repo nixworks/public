@@ -7,7 +7,7 @@ _Context: Leopoldo Fernandez, Pando, gubernatorial elections_
 _Context: two years of helping_
 
 ### [ Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.md)
-_Context: Alexei Kudrin, MICEX, RTS, the Russian Federation_
+_Context: Alexei Kudrin, MICEX, RTS, Russia_
 
 ### [ Subprime mortgage crisis: The United States Federal Reserve agrees to lend the American International Group $85 billion in return for a 79.9% stake. ](/news/2008/09/16/subprime-mortgage-crisis-the-united-states-federal-reserve-agrees-to-lend-the-american-international-group-85-billion-in-return-for-a-79.md)
 Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G. in the central bank’s most radical intervention.
@@ -16,7 +16,7 @@ Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G
 Six men have been found guilty of forming a Melbourne-based terrorist cell.
 
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Iraq, Iraq War, Sodertalje, Swedish, United States_
+_Context: Iraq, Iraq War, Sodertalje, Swedish, U.S._
 
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
 _Context: Doghmush, Fatah, Gaza, Hamas, Hamas-Fatah conflict_

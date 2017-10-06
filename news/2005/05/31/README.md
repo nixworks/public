@@ -16,7 +16,7 @@ _Context: Botswana, Festus Mogae, deportees_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ Russian billionaire and businessman Mikhail Khodorkovsky is sentenced to 9 years in prison in his tax evasion trial. ](/news/2005/05/31/russian-billionaire-and-businessman-mikhail-khodorkovsky-is-sentenced-to-9-years-in-prison-in-his-tax-evasion-trial.md)
-_Context: Mikhail Khodorkovsky, tax evasion, the Russian Federation_
+_Context: Mikhail Khodorkovsky, Russia, tax evasion_
 
 ### [ In Bangkok, Thailand, the Canadian contestant Natalie Glebova is crowned Miss Universe 2005.](/news/2005/05/31/in-bangkok-thailand-the-canadian-contestant-natalie-glebova-is-crowned-miss-universe-2005.md)
 _Context: Bangkok, Canada, Miss Universe, Natalie Glebova, Thailand_

@@ -13,7 +13,7 @@ _Context: Chad, Darfur, Sudan, War in Chad (2005-present), rebel_
 _Context: Pakistan army, Taliban, militant_
 
 ### [ The Federation Council of Russia sets March 2, 2008 as the date of the Russian presidential election, 2008. ](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.md)
-_Context: Federation Council, go to the polls, the Russian Federation_
+_Context: Federation Council, Russia, go to the polls_
 
 ### [ At least three people die and 45 are injured in Indonesia following earthquakes off the coast of Sumatra and Sumbawa. ](/news/2007/11/26/at-least-three-people-die-and-45-are-injured-in-indonesia-following-earthquakes-off-the-coast-of-sumatra-and-sumbawa.md)
 _Context: Indonesia, Sumatra, Sumbawa, earthquake_

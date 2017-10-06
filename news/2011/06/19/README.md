@@ -40,7 +40,7 @@ _Context: Ali Akbar Salehi, Foreign Minister, Foreign Minister, MPs, Mohammad Sh
 _Context: Mohamed Abdullahi Farmajo, Prime Minister of Somalia, Somalian_
 
 ### [Russian human rights activist Yelena Bonner dies aged 88. ](/news/2011/06/19/russian-human-rights-activist-yelena-bonner-dies-aged-88.md)
-_Context: Yelena Bonner, the Russian Federation_
+_Context: Russia, Yelena Bonner_
 
 ### [Burmese opposition figure Aung San Suu Kyi celebrates her first birthday in freedom for more than 10 years. ](/news/2011/06/19/burmese-opposition-figure-aung-san-suu-kyi-celebrates-her-first-birthday-in-freedom-for-more-than-10-years.md)
 _Context: Aung San Suu Kyi, Burma_

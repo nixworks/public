@@ -49,7 +49,7 @@ _Context: 2011 Puyehue-Cordon Caulle eruption, Australian, Chile, Darwin_
 _Context: Chuncheon, Seoul, South Korea, Suwon, heat wave_
 
 ### [A RusAir Tupolev Tu-134 passenger jet crashes near Petrozavodsk Airport in Russia's Karelia region with 45 people dead. ](/news/2011/06/20/a-rusair-tupolev-tu-134-passenger-jet-crashes-near-petrozavodsk-airport-in-russia-s-karelia-region-with-45-people-dead.md)
-_Context: Karelia, Petrozavodsk Airport, RusAir, Tupolev Tu-134, crashes near, the Russian Federation_
+_Context: Karelia, Petrozavodsk Airport, RusAir, Russia, Tupolev Tu-134, crashes near_
 
 ### [Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.md)
 _Context: Hurricane Beatriz, Hurricane Jova_
@@ -58,7 +58,7 @@ _Context: Hurricane Beatriz, Hurricane Jova_
 An index of troubled countries reveals the common threads that lead to suffering around the world.
 
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Dmitry Medvedev, Government of Syria, Russian President, United Nations Security Council, protestors_
+_Context:  Russian President, Dmitry Medvedev, Government of Syria, United Nations Security Council, protestors_
 
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)
 The French authorities say they are preparing to extradite the former Panamanian military ruler, Manuel Noriega, back to Panama.

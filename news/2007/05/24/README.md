@@ -7,7 +7,7 @@ _Context: $, Afghanistan, Iraq, United States House of Representatives_
 Israeli forces seized a Palestinian minister and other officials on Thursday in a crackdown on Hamas, which defied a call by President Mahmoud Abbas to stop firing rockets at Israel.
 
 ### [ 38 Siberian miners are killed and 7 injured by a methane explosion in the Yubileinaya coal mine in the Kemerovo Oblast in Russia. ](/news/2007/05/24/38-siberian-miners-are-killed-and-7-injured-by-a-methane-explosion-in-the-yubileinaya-coal-mine-in-the-kemerovo-oblast-in-russia.md)
-_Context: Kemerovo Oblast, Siberia, Yubileinaya, coal mine, methane, the Russian Federation_
+_Context: Kemerovo Oblast, Russia, Siberia, Yubileinaya, coal mine, methane_
 
 ### [ Voting is underway in the Republic of Ireland for a general election after a closely fought campaign. ](/news/2007/05/24/voting-is-underway-in-the-republic-of-ireland-for-a-general-election-after-a-closely-fought-campaign.md)
 _Context: Irish general election, Republic of Ireland, Voting_

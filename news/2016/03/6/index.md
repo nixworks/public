@@ -28,7 +28,7 @@ _Context: Egyptian Muslim Brotherhood, Egyptian interior minister, Hamas, Hisham
 Voters in Benin went to the polls on Sunday in an election with a record number of independent candidates as outgoing President Thomas Yayi Boni is set to hand over power after two terms in office.
 
 ### [Thousands of people gather in the Georgian capital of Tbilisi to protest against their government's negotiations with Russian state-owned oil company Gazprom. ](/news/2016/03/6/thousands-of-people-gather-in-the-georgian-capital-of-tbilisi-to-protest-against-their-government-s-negotiations-with-russian-state-owned-oi.md)
-_Context: Gazprom, Georgian, Tbilisi, the Russian Federation_
+_Context: Gazprom, Georgian, Russia, Tbilisi_
 
 ### [Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/marco-rubio-wins-the-puerto-rican-republican-party-primary.md)
 Bernie Sanders beats Hillary Clinton in the Maine caucuses, the latest contest in the battle to be the Democratic presidential candidate.

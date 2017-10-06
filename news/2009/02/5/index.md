@@ -7,7 +7,7 @@ _Context: Michael Phelps, USA Swimming, marijuana_
 _Context: Muttiah Muralitharan, One Day International, Sri Lanka, Sri Lanka cricket team, wicket_
 
 ### [ Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. ](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.md)
-_Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, rapid reaction force, the Russian Federation_
+_Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekistan, rapid reaction force_
 
 ### [ China declares a national emergency due to severe droughts throughout the country. ](/news/2009/02/5/china-declares-a-national-emergency-due-to-severe-droughts-throughout-the-country.md)
 _Context: China, drought, states of emergency_

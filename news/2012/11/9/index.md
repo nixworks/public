@@ -28,7 +28,7 @@ The ambushing of the Prime Minister with the names of rumoured Tory paedophiles 
 CIA director David Petraeus has resigned from the CIA
 
 ### [Russian president Vladimir Putin sacks the chief of the armed forces Nikolai Makarov, three days after sacking the defence minister amid a corruption scandal. ](/news/2012/11/9/russian-president-vladimir-putin-sacks-the-chief-of-the-armed-forces-nikolai-makarov-three-days-after-sacking-the-defence-minister-amid-a-c.md)
-_Context: Nikolai Makarov, Vladimir Putin, the Russian Federation_
+_Context: Nikolai Makarov, Russia, Vladimir Putin_
 
 ### [Hundreds of Tibetan students and monks protest against education policies in China's western Qinghai Province, shortly after a series of self-immolations by Tibetan monks. ](/news/2012/11/9/hundreds-of-tibetan-students-and-monks-protest-against-education-policies-in-china-s-western-qinghai-province-shortly-after-a-series-of-sel.md)
 _Context: China, Qinghai Province, Tibet, monks_

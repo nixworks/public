@@ -16,7 +16,7 @@ Stocks closed near session lows Friday, with all three major averages posting th
 Stocks closed near session lows Friday, with all three major averages posting their worst weekly drop this year, as investors were cautious ahead of the weekend amid fears over the euro zone and euphoria over Facebook&#039;s trading debut fizzled. 
 
 ### [The Group of Eight meets in the United States at Camp David with the Greek debt crisis and associated Eurozone problems on the agenda. ](/news/2012/05/18/the-group-of-eight-meets-in-the-united-states-at-camp-david-with-the-greek-debt-crisis-and-associated-eurozone-problems-on-the-agenda.md)
-_Context: Camp David, Eurozone, Greek debt crisis, Group of Eight, United States_
+_Context: Camp David, Eurozone, Greek debt crisis, Group of Eight, U.S._
 
 ### [Sybrand van Haersma Buma is elected as the new party leader of the Christian Democratic Appeal (CDA) and becomes the "lijsttrekker" (top candidate) for the Dutch general election of 2012. ](/news/2012/05/18/sybrand-van-haersma-buma-is-elected-as-the-new-party-leader-of-the-christian-democratic-appeal-cda-and-becomes-the-lijsttrekker-top-can.md)
 _Context: Christian Democratic Appeal, Sybrand van Haersma Buma, general election in the Netherlands, lijsttrekker, party leader_

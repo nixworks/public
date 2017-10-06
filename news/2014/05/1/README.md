@@ -19,7 +19,7 @@ Two bombs planted on a train killed a 22-year-old woman and wounded nine others 
 _Context: Chikungunya, outbreak_
 
 ### [The People's Republic of China and Russia announce plans to hold joint naval exercises in the East China Sea in late May amid regional tensions about islands and airspace. ](/news/2014/05/1/the-people-s-republic-of-china-and-russia-announce-plans-to-hold-joint-naval-exercises-in-the-east-china-sea-in-late-may-amid-regional-tensi.md)
-_Context: China, East China Sea, naval exercise, the Russian Federation_
+_Context: China, East China Sea, Russia, naval exercise_
 
 ### [Sinn Fein leader Gerry Adams remains in custody in connection with the IRA murder of Jean McConville. ](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.md)
 Sinn Féin leader Gerry Adams continues to be questioned by Northern Ireland police in connection with the 1972 murder of widow and mother-of-10 Jean McConville.

@@ -28,7 +28,7 @@ Hundreds of thousands of commuters, visitors and residents of Washington, D.C., 
 _Context: England, Manchester, Wythenshawe Hall_
 
 ### [A deadly fire breaks out at a rehabilitation center for addicts in Sterlitamak, Bashkortostan, a Republic of Russia, killing 12 people. An investigation was immediately launched. ](/news/2016/03/15/a-deadly-fire-breaks-out-at-a-rehabilitation-center-for-addicts-in-sterlitamak-bashkortostan-a-republic-of-russia-killing-12-people-an-i.md)
-_Context: Bashkortostan, Republic, Sterlitamak, the Russian Federation_
+_Context: Bashkortostan, Republic, Russia, Sterlitamak_
 
 ### [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-firs.md)
 New guidelines from the CDC urge doctors to take it easy in prescribing the potentially killer drugs.
@@ -43,7 +43,7 @@ Argentina&#x27;s coast guard has sunk a Chinese trawler that was fishing illegal
 Landmark resolution is the first of its kind to be passed in a national parliament since the EU parliament called for an arms sales freeze
 
 ### [The Ferguson, Missouri, city council, after last month voting to change the terms of the agreement, reverses course and unanimously (6-0) agrees to accept a U.S. Justice Department overhaul of its troubled police force and municipal courts. This avoided a likely expensive legal battle with the federal government which had filed suit against the city following last month's vote. ](/news/2016/03/15/the-ferguson-missouri-city-council-after-last-month-voting-to-change-the-terms-of-the-agreement-reverses-course-and-unanimously-6-0-ag.md)
-_Context: Ferguson unrest, Ferguson, Missouri, United States Department of Justice, city council, municipal courts, police force, shooting of Michael Brown_
+_Context: Department of Justice, Ferguson unrest, Ferguson, Missouri, city council, municipal courts, police force, shooting of Michael Brown_
 
 ### [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md)
 Americans in five major states prepared to vote Tuesday in make-or-break presidential nominating contests, with Donald Trump seeking to tighten his grip on the Republican mantle as rivals and critics bemoaned a weekend of campaign trail unrest. Dubbed &quot;Super Tuesday 2&quot; by US media, the lat...

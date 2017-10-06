@@ -37,7 +37,7 @@ Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on
 _Context: Hamaoka Nuclear Power Plant, Japanese Prime Minister, Naoto Kan, tectonic_
 
 ### [Russia launches an urgent rescue mission after the nuclear-powered icebreaker Taymyr in its fleet develops a nuclear leak in the frozen seas of the Arctic and was forced to abandon its mission. ](/news/2011/05/6/russia-launches-an-urgent-rescue-mission-after-the-nuclear-powered-icebreaker-taymyr-in-its-fleet-develops-a-nuclear-leak-in-the-frozen-seas.md)
-_Context: Arctic, Taymyr, fleet, nuclear-powered icebreaker, the Russian Federation_
+_Context: Arctic, Russia, Taymyr, fleet, nuclear-powered icebreaker_
 
 ### [Rescuers recover a seventh body from inside a coal mine near Sabinas, Mexico, more than three days after an explosion there; seven remaining miners trapped inside are presumed dead. ](/news/2011/05/6/rescuers-recover-a-seventh-body-from-inside-a-coal-mine-near-sabinas-mexico-more-than-three-days-after-an-explosion-there-seven-remaining.md)
 _Context: Mexico, Sabinas_
@@ -55,7 +55,7 @@ _Context: ASEAN, Burma_
 _Context: China, Kyrgyzstan, Tajikistan, Xinjiang_
 
 ### [A court in Russia sentences ultranationalist Nikita Tikhonov to life imprisonment for the murder of human rights lawyer Stanislav Markelov and journalist Anastasia Baburova in 2009. ](/news/2011/05/6/a-court-in-russia-sentences-ultranationalist-nikita-tikhonov-to-life-imprisonment-for-the-murder-of-human-rights-lawyer-stanislav-markelov-a.md)
-_Context: Anastasia Baburova, Nikita Tikhonov, Stanislav Markelov, the Russian Federation_
+_Context: Anastasia Baburova, Nikita Tikhonov, Russia, Stanislav Markelov_
 
 ### [Former US baseball player Lenny Dykstra is indicted on 13 counts of bankruptcy fraud. ](/news/2011/05/6/former-us-baseball-player-lenny-dykstra-is-indicted-on-13-counts-of-bankruptcy-fraud.md)
 Remember how Lenny Dykstra was arrested for bankruptcy fraud? Yeah, he&#8217;s indicted now. Thirteen counts, reports CNBC&#8217;s Darren Rovell. If he is convicted on all counts he faces 80 year…

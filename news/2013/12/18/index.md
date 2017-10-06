@@ -10,7 +10,7 @@ _Context: Gonzalo Inzunza Inzunza, Puerto Peasco, Sonora, Sinaloa Cartel_
 Chinese film star Zhang Ziyi wins damages from a US-based website that published false reports she was paid to have sex with top Chinese officials.
 
 ### [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md)
-_Context: Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Sochi, United States, gay and bisexual men, the Russian Federation_
+_Context: Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, U.S., gay and bisexual men_
 
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
 _Context: China, bitcoin_

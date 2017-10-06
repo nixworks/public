@@ -28,7 +28,7 @@ Officials warn the number of dead could rise - as a witness describes the devast
 Turkey accused Russia of a &quot;provocation&quot; on Sunday after a serviceman on the deck of a Russian naval ship allegedly held a rocket launcher on his shoulder while the vessel passed through Istanbul.
 
 ### [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md)
-_Context: IAEA, Iran, Joint Comprehensive Plan of Action, low-enriched uranium, several world powers, the Russian Federation, uranium_
+_Context: IAEA, Iran, Joint Comprehensive Plan of Action, Russia, low-enriched uranium, several world powers, uranium_
 
 ### [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gro.md)
 _Context: ISIL, Iran's Cyber Police Chief, website_
@@ -37,7 +37,7 @@ _Context: ISIL, Iran's Cyber Police Chief, website_
 Gun rights advocates are frustrated that the justices won&rsquo;t address laws restricting gun ownership.
 
 ### [The United States Department of Justice will investigate the Chicago, Illinois police department. Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald. The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. ](/news/2015/12/7/the-united-states-department-of-justice-will-investigate-the-chicago-illinois-police-department-long-concerned-with-chicago-police-departm.md)
-_Context: Chicago, Chicago police, Illinois, Laquan McDonald, United States Department of Justice_
+_Context: Chicago, Chicago police, Department of Justice, Illinois, Laquan McDonald_
 
 ### [United States Homeland Security Secretary Jeh Johnson says the Obama administration will announce a new terror alert system "in the coming days," that will better inform the public about threats to the United States. This will be the third terror alert system put in place since the September 11, 2001, terrorist attacks. ](/news/2015/12/7/united-states-homeland-security-secretary-jeh-johnson-says-the-obama-administration-will-announce-a-new-terror-alert-system-in-the-coming-d.md)
 WASHINGTON -- The Obama administration will announce a new terror alert system &quot;in the coming days,&quot; Homeland Security Secretary Jeh Johnson said Monday. Johnson said the new alert system will better inform the public about threats to the United States,...

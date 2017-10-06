@@ -16,7 +16,7 @@ _Context: Heglig, South Sudan, Sudan_
 _Context: sinking of the RMS ''Titanic''_
 
 ### [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md)
-_Context: Kirill, Orthodox, the Russian Federation_
+_Context: Kirill, Orthodox, Russia_
 
 ### [Spanish King Juan Carlos is criticised for going on a hunting trip to Botswana while his country is in an economic crisis. ](/news/2012/04/15/spanish-king-juan-carlos-is-criticised-for-going-on-a-hunting-trip-to-botswana-while-his-country-is-in-an-economic-crisis.md)
 Spain&#039;s King Juan Carlos has come under fire for going on a hunting trip to Botswana while Spaniards continue to grapple with an economic crisis.

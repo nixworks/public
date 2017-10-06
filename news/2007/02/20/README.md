@@ -31,7 +31,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 _Context: Australia, energy efficiency, fluorescent, incandescent light bulb_
 
 ### [ Global Spread of H5N1: Cases of avian flu are confirmed at two chicken farms near Moscow, Russia. Villages are quarantined until prescriptions can be filled. ](/news/2007/02/20/global-spread-of-h5n1-cases-of-avian-flu-are-confirmed-at-two-chicken-farms-near-moscow-russia-villages-are-quarantined-until-prescripti.md)
-_Context: Global Spread of H5N1, Moscow, avian flu, prescriptions, quarantine, the Russian Federation_
+_Context: Global Spread of H5N1, Moscow, Russia, avian flu, prescriptions, quarantine_
 
 ### [ Anglican archbishops give the U.S. church an ultimatum over its approach to issues such as homosexual clergy and blessings of same-sex marriages. ](/news/2007/02/20/anglican-archbishops-give-the-u-s-church-an-ultimatum-over-its-approach-to-issues-such-as-homosexual-clergy-and-blessings-of-same-sex-marr.md)
 _Context: Anglican Church, Archbishop, U.S., gay, same-sex marriage, ultimatum_

@@ -22,7 +22,7 @@ _Context: Asanbekov Sarybayev, Bishkek, Government of Kyrgyzstan, United Front F
 _Context: Darfur, Human rights, Sudan, United Nations_
 
 ### [ The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. ](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-including-the-first-chinese-built-astronomy-satellite-a-joint-unmanned-mission-to-mars-with-r.md)
-_Context: Astronomers, Mars, released an object into orbit, spaceflight mission, the Russian Federation_
+_Context: Astronomers, Mars, Russia, released an object into orbit, spaceflight mission_
 
 ### [ Lawyers in Pakistan boycott courts in protest at President Pervez Musharraf's suspension of the country's Chief Justice Iftikhar Muhammad Chaudhry for alleged "misuse of authority". More than 20 lawyers were injured in clashes with police during demonstrations in Lahore. ](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.md)
 _Context: Iftikhar Muhammad Chaudhry, Lahore, Pakistan, Pervez Musharraf, president_

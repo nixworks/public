@@ -10,7 +10,7 @@ _Context: Iraq, Kurdistan Workers' Party, Turkey, helicopter_
 _Context: Bakassi, Cameroon_
 
 ### [ Russian President Vladimir Putin said that an overwhelming victory for United Russia in the legislative elections would give him the "moral right" to maintain a strong influence in the country. ](/news/2007/11/13/russian-president-vladimir-putin-said-that-an-overwhelming-victory-for-united-russia-in-the-legislative-elections-would-give-him-the-moral.md)
-_Context: United Russia, Vladimir Putin, parliamentary elections, the Russian Federation_
+_Context: Russia, United Russia, Vladimir Putin, parliamentary elections_
 
 ### [ In France, rail workers and Paris Mtro personnel go on strike in the first wave of public-sector strikes. ](/news/2007/11/13/in-france-rail-workers-and-paris-metro-personnel-go-on-strike-in-the-first-wave-of-public-sector-strikes.md)
 French commuters dusted off old bikes and aired their walking shoes on Tuesday in anticipation of a transport strike that is set to last for days and could become the biggest the country has seen in more than 10 years.

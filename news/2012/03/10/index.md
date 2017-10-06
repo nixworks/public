@@ -28,7 +28,7 @@ _Context: Slovakian parliamentary election, Smer-Social Democracy_
 In Wyoming, Romney won seven delegates. Santorum gained three and Paul one.
 
 ### [New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. ](/news/2012/03/10/new-protests-erupt-in-russia-after-last-week-s-election-of-vladimir-putin-as-president-for-a-third-term.md)
-_Context: Russian President, Vladimir Putin, last week's election, rally_
+_Context:  Russian President, Vladimir Putin, last week's election, rally_
 
 ### [Hundreds of nude cyclists take to the street in Lima, Peru to protest unsafe road conditions. ](/news/2012/03/10/hundreds-of-nude-cyclists-take-to-the-street-in-lima-peru-to-protest-unsafe-road-conditions.md)
 _Context: Lima, Peru, cyclist_

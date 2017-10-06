@@ -22,7 +22,7 @@ _Context: Amman, Israel, Jordan, Palestinian Authority_
 _Context: Iran_
 
 ### [The value of the Iranian rial hits a record low, following the announcement by the United States of further economic sanctions against Iran. ](/news/2012/01/3/the-value-of-the-iranian-rial-hits-a-record-low-following-the-announcement-by-the-united-states-of-further-economic-sanctions-against-iran.md)
-_Context: United States, rial, sanctions_
+_Context: U.S., rial, sanctions_
 
 ### [Iran warns the United States not to send any more aircraft carriers into the Persian Gulf. ](/news/2012/01/3/iran-warns-the-united-states-not-to-send-any-more-aircraft-carriers-into-the-persian-gulf.md)
 _Context: Persian Gulf, aircraft carrier_

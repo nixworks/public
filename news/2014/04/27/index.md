@@ -13,7 +13,7 @@ Iraqi military helicopters destroy a convoy of fuel tankers inside Syria, allegi
 _Context: John XXIII, Pope Francis, Pope John Paul II, saints_
 
 ### [Eight people are killed by a fire in a medical facility in Russia's eastern Altai region.](/news/2014/04/27/eight-people-are-killed-by-a-fire-in-a-medical-facility-in-russia-s-eastern-altai-region.md)
-_Context: Altai, the Russian Federation_
+_Context: Altai, Russia_
 
 ### [At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. ](/news/2014/04/27/at-least-two-people-are-killed-after-a-tornado-touches-down-in-quapaw-oklahoma-united-states.md)
 Tornadoes rip through the US south-west, killing at least 17 people in Arkansas and Oklahoma.

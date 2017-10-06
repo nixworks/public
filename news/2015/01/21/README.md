@@ -28,7 +28,7 @@ _Context: Hong Kong_
 _Context: New England Journal of Medicine, Portland State University, carcinogen, e-cigarette, formaldehyde_
 
 ### [Russian state-owned gas company Gazprom announces a plan to shift its European natural gas pipeline from Ukraine to Turkey, through a proposed link under the Black Sea to Turkey. ](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.md)
-_Context: Black Sea, Gazprom, proposed link, the Russian Federation_
+_Context: Black Sea, Gazprom, Russia, proposed link_
 
 ### [Italian police seize 5,361 ancient artifacts worth $64 million from a Swiss-Italian trafficking ring. The discoveries come after various raids on warehouses against Italian art dealer Gianfranco Becchina, who owns an art gallery in Switzerland. ](/news/2015/01/21/italian-police-seize-5-361-ancient-artifacts-worth-64-million-from-a-swiss-italian-trafficking-ring-the-discoveries-come-after-various-rai.md)
 Italian police seize more than 5,000 ancient artefacts in a record haul after dismantling a Swiss-Italian trafficking ring, the Italian government says.

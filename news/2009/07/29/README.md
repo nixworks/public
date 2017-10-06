@@ -43,7 +43,7 @@ _Context: France, Nicolas Sarkozy, President of France, fainting, seizure_
 _Context: International Monetary Fund_
 
 ### [ Cuba and Russia sign a deal which allows Russia to begin oil exploration in the Gulf of Mexico. ](/news/2009/07/29/cuba-and-russia-sign-a-deal-which-allows-russia-to-begin-oil-exploration-in-the-gulf-of-mexico.md)
-_Context: Cuba, Gulf of Mexico, crude oil, the Russian Federation_
+_Context: Cuba, Gulf of Mexico, Russia, crude oil_
 
 ### [ A rocket is launched from Kazakhstan carrying two British-built satellites designed to help monitor natural disasters. ](/news/2009/07/29/a-rocket-is-launched-from-kazakhstan-carrying-two-british-built-satellites-designed-to-help-monitor-natural-disasters.md)
 _Context: Kazakhstan, United Kingdom, natural disaster_

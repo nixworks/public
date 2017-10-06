@@ -10,7 +10,7 @@ _Context: Guatemala City_
 _Context: 737, Bishkek, Flight 6895, Iran Aseman Airlines, Kyrgyzstan_
 
 ### [ A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russia-for-the-blast.md)
-_Context: Georgian, the Russian Federation_
+_Context: Georgian, Russia_
 
 ### [ Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.md)
 Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for AFL, NRL, Rugby, Cricket, Football and more.

@@ -25,7 +25,7 @@ A 6.0 magnitude earthquake struck northern Chile on Saturday, the latest in a se
 _Context: ARY Digital, Benazir Bhutto, GEO Television, Karachi, Lahore, Prime Minister, house arrest_
 
 ### [ Russian prosecutors confirm the detention of Deputy Finance Minister Sergei Storchak and two businessmen on suspicion of "attempting large-scale embezzlement from the Russian state budget through fraud". ](/news/2007/11/17/russian-prosecutors-confirm-the-detention-of-deputy-finance-minister-sergei-storchak-and-two-businessmen-on-suspicion-of-attempting-large.md)
-_Context: Sergei Storchak, the Russian Federation_
+_Context: Russia, Sergei Storchak_
 
 ## [Previous Day...](/news/2007/11/16/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Baiji, Iraq, Iraqi forces, Islamic State of Iraq and Syria, refinery_
 
 ### [Russia plans an "alternative Wikipedia". ](/news/2014/11/14/russia-plans-an-alternative-wikipedia.md)
-_Context: Wikipedia, the Russian Federation_
+_Context: Russia, Wikipedia_
 
 ### [Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grainy-image-shows-underwater-tra.md)
 Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October, sparking a huge search.

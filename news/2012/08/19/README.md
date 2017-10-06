@@ -13,7 +13,7 @@ Two people are killed in twin car bomb attacks close to security force buildings
 The names of the New Zealand soldiers killed in Afghanistan overnight have been released during a press conference this morning at the Beehive. - New Zealand Herald
 
 ### [Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-republic-of-ingushetia.md)
-_Context: Ingushetia, North Caucasus, suicide bombing, the Russian Federation_
+_Context: Ingushetia, North Caucasus, Russia, suicide bombing_
 
 ### [Sonia Gandhi says stern action should happen against those responsible for the violence in Assam and the social media messages that drove 30,000 migrant workers out of their homes in South India. ](/news/2012/08/19/sonia-gandhi-says-stern-action-should-happen-against-those-responsible-for-the-violence-in-assam-and-the-social-media-messages-that-drove-30.md)
 _Context: India, Sonia Gandhi, social media, violence_
@@ -43,7 +43,7 @@ _Context: genetic mutation, life form, nuclear waste gases_
 At least 10 Japanese nationalist activists have landed on a group of disputed islands, amid an escalating territorial row with China.
 
 ### [In the stand-off between Britain and Ecuador over Julian Assange, WikiLeaks founder Julian Assange gives a speech critical of the United States' policy against Wikileaks, "dragging us all in a dark, repressive world in which journalists live under fear of prosecution", from the balcony of Ecuador's London embassy. ](/news/2012/08/19/in-the-stand-off-between-britain-and-ecuador-over-julian-assange-wikileaks-founder-julian-assange-gives-a-speech-critical-of-the-united-sta.md)
-_Context: Ecuador, Julian Assange, London, United States, WikiLeaks_
+_Context: Ecuador, Julian Assange, London, U.S., WikiLeaks_
 
 ### [It is reported that UK Work and Pensions Secretary Iain Duncan Smith's department has made a formal complaint to the BBC over claims of anti-Government bias, as Duncan Smith himself attacks the Corporation in a "Mail on Sunday" article for what he perceives to be its negative stance towards the coalition. ](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.md)
 Work and Pensions Secretary Iain Duncan Smith&#039;s department has made a formal complaint to the BBC claiming its coverage of the Government is biased, it has emerged.

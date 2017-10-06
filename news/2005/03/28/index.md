@@ -22,7 +22,7 @@ _Context: Caution! Religion, GBP, Lyudmila Vasilovskaya, Moscow, Russian ruble, 
 _Context: Archbishop, Pius Ncube, Robert Mugabe, Zimbabwe_
 
 ### [ Russian state prosecutors begin sentencing of former Yukos tycoon Mikhail Khodorkovsky and Yukos shareholder Platon Lebedev for tax evasion and fraud. ](/news/2005/03/28/russian-state-prosecutors-begin-sentencing-of-former-yukos-tycoon-mikhail-khodorkovsky-and-yukos-shareholder-platon-lebedev-for-tax-evasion.md)
-_Context: Mikhail Khodorkovsky, Platon Lebedev, Yukos, fraud, prosecutor, shareholder, tax evasion, the Russian Federation, tycoon_
+_Context: Mikhail Khodorkovsky, Platon Lebedev, Russia, Yukos, fraud, prosecutor, shareholder, tax evasion, tycoon_
 
 ### [ Thousands of Egyptians attend the funeral of actor Ahmad Zaki. ](/news/2005/03/28/thousands-of-egyptians-attend-the-funeral-of-actor-ahmad-zaki.md)
 _Context: Ahmad Zaki, Egypt, actor, funeral_

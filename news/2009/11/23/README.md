@@ -7,7 +7,7 @@ _Context: Maguindanao, Maguindanao massacre, Philippines_
 _Context: CERN, Geneva, Large Hadron Collider, Switzerland_
 
 ### [ A second fire at an arms depot plant in Ulyanovsk, Russia, kills at least eight people, 10 days after a previous explosion at the same site. ](/news/2009/11/23/a-second-fire-at-an-arms-depot-plant-in-ulyanovsk-russia-kills-at-least-eight-people-10-days-after-a-previous-explosion-at-the-same-site.md)
-_Context: Ulyanovsk, previous explosion at the same site, the Russian Federation_
+_Context: Russia, Ulyanovsk, previous explosion at the same site_
 
 ### [ The family of Jean Charles de Menezes, who was mistakenly shot dead by the Metropolitan Police in London in 2005, reach a compensation deal with police, resolving "all litigation" between them. ](/news/2009/11/23/the-family-of-jean-charles-de-menezes-who-was-mistakenly-shot-dead-by-the-metropolitan-police-in-london-in-2005-reach-a-compensation-deal.md)
 _Context: Jean Charles de Menezes, London, Metropolitan Police_

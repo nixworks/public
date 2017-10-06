@@ -4,7 +4,7 @@
 The UN says at least 3,500 people have been killed in anti-government protests in Syria, as reports emerge of fresh violence in the city of Homs.
 
 ### [Russia starts commercial natural gas deliveries to Central Europe via the Nord Stream, the world's longest submerged pipeline. ](/news/2011/11/8/russia-starts-commercial-natural-gas-deliveries-to-central-europe-via-the-nord-stream-the-world-s-longest-submerged-pipeline.md)
-_Context: Central Europe, Nord Stream, natural gas, pipeline, the Russian Federation_
+_Context: Central Europe, Nord Stream, Russia, natural gas, pipeline_
 
 ### [A record number of Americans -- 49.1 million -- are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-a-49-1-million-a-are-living-below-the-poverty-line-based-on-a-new-census-measure.md)
 _Context: Americans, poverty line_

@@ -16,10 +16,10 @@ The Department of Veterans Affairs will add the Wiccan pentacle to a list of app
 _Context: 2007 Abortion Law, Legislative Assembly, Mexico City, abortion, first trimester, pregnancy_
 
 ### [ Thousands of people gather in Moscow, Russia to mourn former President Boris Yeltsin. ](/news/2007/04/24/thousands-of-people-gather-in-moscow-russia-to-mourn-former-president-boris-yeltsin.md)
-_Context: Boris Yeltsin, Moscow, President, the Russian Federation_
+_Context: Boris Yeltsin, Moscow, President, Russia_
 
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: Indiana, New Castle Correctional Facility, United States, prison riot_
+_Context: Indiana, New Castle Correctional Facility, U.S., prison riot_
 
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
 _Context: China, Ethiopia, Ogaden National Liberation Front, Somalian, oil field, raid_

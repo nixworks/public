@@ -49,7 +49,7 @@ _Context: Abdel Fattah al-Sisi, Egypt_
 _Context: U.S. military, U.S. soldiers, World War II_
 
 ### [In Russia, police arrested over 400 people in Manege Square hours after picking up some 200 people outside the court where the Bolotnaya square case defendants were being tried. ](/news/2014/02/24/in-russia-police-arrested-over-400-people-in-manege-square-hours-after-picking-up-some-200-people-outside-the-court-where-the-bolotnaya-squ.md)
-_Context: Bolotnaya square case, Manege Square, the Russian Federation_
+_Context: Bolotnaya square case, Manege Square, Russia_
 
 ### [Public health officials in the U.S. state of California are preparing a report of a polio-like disease whose cause is unknown. ](/news/2014/02/24/public-health-officials-in-the-u-s-state-of-california-are-preparing-a-report-of-a-polio-like-disease-whose-cause-is-unknown.md)
 A small number of children in California have contracted polio-like illnesses since 2012, suffering paralysis and other symptoms.

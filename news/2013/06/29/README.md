@@ -34,7 +34,7 @@ Riot police have clashed with protesters in Soweto shortly before a visit by US 
 _Context: F. W. de Klerk, Nelson Mandela_
 
 ### [Dozens of people are arrested at a gay pride parade in the Russian city of St. Petersburg. ](/news/2013/06/29/dozens-of-people-are-arrested-at-a-gay-pride-parade-in-the-russian-city-of-st-petersburg.md)
-_Context: St. Petersburg, gay pride, the Russian Federation_
+_Context: Russia, St. Petersburg, gay pride_
 
 ### [2013 protests in Brazil: Brazilian president, Dilma Rousseff, experiences a sharp drop in popularity. Only 30 percent of people asked by the Datafolha's opinion poll considered Rousseff's administration "great" or "good". ](/news/2013/06/29/2013-protests-in-brazil-brazilian-president-dilma-rousseff-experiences-a-sharp-drop-in-popularity-only-30-percent-of-people-asked-by-the.md)
 _Context: 2013 protests in Brazil, Datafolha, Dilma Rousseff, opinion poll, popularity_

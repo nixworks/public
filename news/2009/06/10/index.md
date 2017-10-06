@@ -28,7 +28,7 @@ _Context: Constituent Assembly, Philippines, constitutional constraints, demonst
 _Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
 
 ### [ Russia begins destroying 6,000 tons of nerve gas in Shchuchye, Kurgan Oblast. ](/news/2009/06/10/russia-begins-destroying-6-000-tons-of-nerve-gas-in-shchuchye-kurgan-oblast.md)
-_Context: Shchuchye, Kurgan Oblast, nerve agent, the Russian Federation_
+_Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
 
 ### [ The United Nations Security Council, along with Japan and South Korea, agrees a draft resolution following North Korea's recent nuclear and missile tests. ](/news/2009/06/10/the-united-nations-security-council-along-with-japan-and-south-korea-agrees-a-draft-resolution-following-north-korea-s-recent-nuclear-and.md)
 _Context: Japan, North Korea, South Korea, United Nations Security Council, United Nations Security Council resolution_

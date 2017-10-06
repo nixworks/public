@@ -46,7 +46,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives back in the UK and thanks supporters for his release.
 
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: China, EU, South China Sea, Territorial disputes in the South China Sea, United States_
+_Context: China, EU, South China Sea, Territorial disputes in the South China Sea, U.S._
 
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
 Dozens killed as diplomats seek political solution to end four-year civil war.

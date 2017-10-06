@@ -34,7 +34,7 @@ Issues of politics were overshadowed by more basic concerns, like lack of jobs, 
 _Context: Indonesia, Jakarta, World Health Organisation, bird flu, vaccine_
 
 ### [ President of the People's Republic of China Hu Jintao begins a three-day tour of Russia to promote trade and energy ties. ](/news/2007/03/26/president-of-the-people-s-republic-of-china-hu-jintao-begins-a-three-day-tour-of-russia-to-promote-trade-and-energy-ties.md)
-_Context: Chinese President, Hu Jintao, energy, the Russian Federation, trade_
+_Context: Chinese President, Hu Jintao, Russia, energy, trade_
 
 ### [ The military commission process begins for detainees accused by the United States of war crimes, with the first person to face trial being Australian David Hicks. Hicks pleads guilty to providing material support for terrorists.](/news/2007/03/26/the-military-commission-process-begins-for-detainees-accused-by-the-united-states-of-war-crimes-with-the-first-person-to-face-trial-being.md)
 A dispute over the proper role of military defense lawyers is intensifying as military commissions reopen at Guantánamo Bay, Cuba.

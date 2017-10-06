@@ -25,7 +25,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Fatah, Hezbollah, Israel, Nablus, Palestinian, Palestinian Authority, Shin Bet's, suicide bomber_
 
 ### [ In Russia, explosion and fire in an oil depot near Moscow kills two ](/news/2005/06/15/in-russia-explosion-and-fire-in-an-oil-depot-near-moscow-kills-two.md)
-_Context: Moscow, oil depot, the Russian Federation_
+_Context: Moscow, Russia, oil depot_
 
 ### [ Catholic Archbishop Chaput warns Europe about growing anti-Semitism and intolerance. ](/news/2005/06/15/catholic-archbishop-chaput-warns-europe-about-growing-anti-semitism-and-intolerance.md)
 _Context: Archbishop Chaput, anti-Semitism_

@@ -31,7 +31,7 @@ _Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium 
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
 ### [Three people are injured after a stabbing on a subway platform in the Parsons-Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: New York City, Parsons/Archer subway station, Queens, United States_
+_Context: New York City, Parsons/Archer subway station, Queens, U.S._
 
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
 Authorities rescue five-year-old boy held in a bunker for seven days.
@@ -43,7 +43,7 @@ _Context: Cuba, Fidel Castro, parliamentary elections_
 _Context: Iran, Mahmoud Ahmadinejad, President, astronaut, launching and returning, monkey, space program_
 
 ### [The Kremlin announces that Russia will hold the 2014 G8 summit in its southern Black Sea resort of Sochi, the host of the 2014 Winter Olympics. ](/news/2013/02/4/the-kremlin-announces-that-russia-will-hold-the-2014-g8-summit-in-its-southern-black-sea-resort-of-sochi-the-host-of-the-2014-winter-olympi.md)
-_Context: 2014 Winter Olympics, Black Sea, G8 group of nations, Russian Government, Sochi, the Russian Federation_
+_Context: 2014 Winter Olympics, Black Sea, G8 group of nations, Russia, Russian Government, Sochi_
 
 ### [In the Liechtenstein parliamentary election the Progressive Citizens' Party wins a plurality of seats in the Landtag. ](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.md)
 _Context: Landtag, Liechtenstein, Progressive Citizens' Party, parliamentary election_

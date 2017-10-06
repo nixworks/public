@@ -10,7 +10,7 @@ Activists calling for the ouster of president clash with government supporters i
 _Context: Aaron Porter, England, Manchester, student leader_
 
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
-_Context: Domodedovo International Airport, Moscow, bombing, the Russian Federation_
+_Context: Domodedovo International Airport, Moscow, Russia, bombing_
 
 ### [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md)
 _Context: Afghanistan, Kandahar Province_

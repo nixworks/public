@@ -10,10 +10,10 @@ Tuareg rebels have closed in on a key city in northern Mali, taking advantage of
 _Context: Afghanistan, Kandahar Province, NATO_
 
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Afghanistan, Kandahar, Kandahar massacre, United States_
+_Context: Afghanistan, Kandahar, Kandahar massacre, U.S._
 
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
-_Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russian President, Syria, UN_
+_Context:  Russian President, Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Syria, UN_
 
 ### [Barack Obama, the President of the United States, begins a three day visit to South Korea amidst rising tension in North Asia about proposed missile tests by North Korea. ](/news/2012/03/25/barack-obama-the-president-of-the-united-states-begins-a-three-day-visit-to-south-korea-amidst-rising-tension-in-north-asia-about-proposed.md)
 US President Barack Obama visits the Demilitarised Zone (DMZ) separating the Koreas, amid rising tensions over a planned rocket launch by the North.

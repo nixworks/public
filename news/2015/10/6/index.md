@@ -7,7 +7,7 @@ _Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led in
 Russian jets hit Islamic State targets in the Syrian city of Palmyra and the northern province of Aleppo, Syrian state television and a monitoring group said on Tuesday, in some of the heaviest Russian attacks on the hardline Islamist group.
 
 ### [Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-if-it-receives-such-a-request-from.md)
-_Context: Fuad Masum, ISIL, Iraq, Iraqi Civil War (2014-present), the Russian Federation_
+_Context: Fuad Masum, ISIL, Iraq, Iraqi Civil War (2014-present), Russia_
 
 ### [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md)
 N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday, killing 11 and wounding 13, the Chadian army said, in the latest deadly raid by the militants despite a regional offensive against them. &quot;The enemy infiltrated (Chad) from the Nigerian side (of the border) to atta...

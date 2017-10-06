@@ -31,7 +31,7 @@ Man charged in shooting that kills 2, injures 1 at Hazard Community and Technica
 An enigmatic preacher with thousands of followers is demanding the government’s ouster, the top court has ordered the arrest of the prime minister and violence is surging.
 
 ### [Russia launches three Kosmos series military-purpose satellites using Rokot launch vehicle. ](/news/2013/01/15/russia-launches-three-kosmos-series-military-purpose-satellites-using-rokot-launch-vehicle.md)
-_Context: Kosmos series, Rokot, launch vehicle, launches, released an object into orbit, the Russian Federation_
+_Context: Kosmos series, Rokot, Russia, launch vehicle, launches, released an object into orbit_
 
 ## [Previous Day...](/news/2013/01/14/index.md)
 

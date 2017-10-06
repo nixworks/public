@@ -16,7 +16,7 @@ _Context: Algeria, Bouira_
 _Context: BAA Limited, Competition Commission, Edinburgh Airport, Glasgow International Airport, London Gatwick Airport, London Heathrow Airport, London Stansted Airport, United Kingdom_
 
 ### [ Human Rights Watch claims both Georgia and Russia violated rights of the civilian population during the conflict. Georgian ground offensive in South Ossetia included shelling of Tskhinvali, capital of South Ossetia, with Grad rocket systems and 'indiscriminate' use of tanks in the city, which caused 'numerous' civilian casualties and 'extensive' destruction. HRW says 'a hospital, apartment buildings, houses, schools, kindergartens, shops, administrative buildings, and the university' in Tskhinvali were 'severely damaged' during Georgian night-long 'uninterrupted' shelling of South Ossetian capital on August 7-8. Russian airforce, HRW reports, carried out bombardments of the two buildings in Georgian village in South Ossetia, 'that could be housing the Georgian military', and attacked presumably civilian convoy of several dozen cars. HRW also confirmed the Russian military's use of cluster bombs in two towns in Georgia, killing at least 11 civilians. ](/news/2008/08/20/human-rights-watch-claims-both-georgia-and-russia-violated-rights-of-the-civilian-population-during-the-conflict-georgian-ground-offensive.md)
-_Context: Georgian, Georgian, Grad rocket systems, Human Rights Watch, South Ossetia, Tskhinvali, airforce, tank, the Russian Federation_
+_Context: Georgian, Georgian, Grad rocket systems, Human Rights Watch, Russia, South Ossetia, Tskhinvali, airforce, tank_
 
 ## [Previous Day...](/news/2008/08/19/index.md)
 

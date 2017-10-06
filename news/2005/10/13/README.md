@@ -13,7 +13,7 @@ _Context: ABC, United States of America_
 _Context: China, Shenzhou 6, fly humans to space_
 
 ### [ Scores of suspected Chechen separatist rebels attack the southern Russian city of Nalchik in a coordinated operation against Russian security forces, killing dozens of people. ](/news/2005/10/13/scores-of-suspected-chechen-separatist-rebels-attack-the-southern-russian-city-of-nalchik-in-a-coordinated-operation-against-russian-securi.md)
-_Context: Chechen, Nalchik, separatist, the Russian Federation_
+_Context: Chechen, Nalchik, Russia, separatist_
 
 ### [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md)
 _Context: Avian flu virus, Europe, Turkey, bird flu, virus_

@@ -13,7 +13,7 @@ _Context: Equatorial Guinea, Teodoro Obiang Nguema, presidential election_
 _Context: China, Chu Bo, Fujian, Hebei, Henan, Hu Chunhua, Inner Mongolia, Lu Zhangong, Sun Chunlan, Sun Zhengcai, Wang Min, Xu Guangchun, Zhang Wenyue_
 
 ### [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md)
-_Context: Azerbaijan, Baku, Caucasus, Dagestan, Tyumen, the Russian Federation_
+_Context: Azerbaijan, Baku, Caucasus, Dagestan, Russia, Tyumen_
 
 ### [ Three Spanish aid workers are kidnapped in northern Mauritania, after they became separated from an aid convoy. ](/news/2009/11/30/three-spanish-aid-workers-are-kidnapped-in-northern-mauritania-after-they-became-separated-from-an-aid-convoy.md)
 _Context: Mauritanian, Spanish_

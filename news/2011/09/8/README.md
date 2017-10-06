@@ -1,7 +1,7 @@
 ## [2011-09-8](/news/2011/09/8/index.md)
 
 ### [Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.md)
-_Context: North Caucasus, the Russian Federation_
+_Context: North Caucasus, Russia_
 
 ### [United States counterterrorism officials investigate reports of a potential terrorist threat against either New York City or Washington DC, linked to the 10th anniversary of the September 11 attacks on Sunday. ](/news/2011/09/8/united-states-counterterrorism-officials-investigate-reports-of-a-potential-terrorist-threat-against-either-new-york-city-or-washington-dc.md)
 The Department of Homeland Security said a new report of a threat of a car or truck bomb attack in New York City or Washington was “specific, credible, but unconfirmed.”

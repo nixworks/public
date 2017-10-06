@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, United States, protestors_
+_Context: Bashar al-Assad, President, Syria, U.S., protestors_
 
 ### [Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Muammar Gaddafi, state media_
@@ -34,7 +34,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japanese economy, recession_
 _Context: $, Barnes & Noble, John Malone, Liberty Media_
 
 ### [The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. ](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.md)
-_Context: $, Belarus, Eurasian Economic Community, the Russian Federation_
+_Context: $, Belarus, Eurasian Economic Community, Russia_
 
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)
 All 22 people aboard a commuter plane were killed when it crashed in southern Argentina, the airline said Thursday.

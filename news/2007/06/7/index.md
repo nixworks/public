@@ -7,7 +7,7 @@ _Context: Colombo, Sri Lanka, Sri Lankan Civil War, hundreds of the minority Sri
 _Context: Italy, Salafist Group for Call and Combat, al-Qaeda_
 
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: George W. Bush, Russian President, U.S. President, Vladimir Putin, missile defense shield_
+_Context:  Russian President, George W. Bush, U.S. President, Vladimir Putin, missile defense shield_
 
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
 _Context: Cyclone Gonu, Oman_
@@ -19,7 +19,7 @@ _Context: Fatah, Hamas, Palestinians_
 _Context: New Zealand, Reserve Bank of New Zealand, interest rate_
 
 ### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
-_Context: Bartonella rochalimae, Scientist, United States, bacteria, strain_
+_Context: Bartonella rochalimae, Scientist, U.S., bacteria, strain_
 
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
 _Context: Cloture, Comprehensive Immigration Reform Act of 2007, United States Senate_

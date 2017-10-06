@@ -31,7 +31,7 @@ _Context: $, Hillshire Brands, Tyson Foods Incorporated_
 _Context: Nguyen Duc Kien, Vietnam_
 
 ### [A Russian court in Moscow sentences five men to prison for the 2006 assassination of journalist Anna Politkovskaya. ](/news/2014/06/9/a-russian-court-in-moscow-sentences-five-men-to-prison-for-the-2006-assassination-of-journalist-anna-politkovskaya.md)
-_Context: 2006 assassination, Anna Politkovskaya, Moscow, the Russian Federation_
+_Context: 2006 assassination, Anna Politkovskaya, Moscow, Russia_
 
 ## [Previous Day...](/news/2014/06/8/index.md)
 

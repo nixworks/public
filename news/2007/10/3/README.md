@@ -4,10 +4,10 @@
 _Context: Elandskraal mine, Elandsrand, Harmony Gold, Johannesburg, South Africa, gold mine_
 
 ### [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md)
-_Context: Mars, Moon, NASA, United States, the Russian Federation, water_
+_Context: Mars, Moon, NASA, Russia, U.S., water_
 
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
-_Context: George W. Bush, State Children's Health Insurance Program, U.S. President, United States_
+_Context: George W. Bush, State Children's Health Insurance Program, U.S., U.S. President_
 
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
 _Context: Baghdad, Edward Pietrzyk, Iraq, Polish, ambassador, bodyguard, improvised explosive device_

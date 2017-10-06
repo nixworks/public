@@ -7,7 +7,7 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 _Context: Andy Murray, Roger Federer, U.S. Tennis Open_
 
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Kerry Killinger, United States, Washington Mutual, chief executive, housing crisis, savings and loan_
+_Context: Kerry Killinger, U.S., Washington Mutual, chief executive, housing crisis, savings and loan_
 
 ### [ A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. ](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-warehouse-in-linfen-in-shanxi-province-china-killing-at-least-26-people-and-injuring-others.md)
 Heavy rain triggered a landslide triggered that killed at least 34 people in northern China on Monday, trapping an unknown number of other victims, a state news agency reported.
@@ -19,7 +19,7 @@ _Context: Banes, Cuba, Hurricane Ike_
 _Context: Afghanistan, Azizabad, Herat Province, US military, civilian_
 
 ### [ President of Russia Dmitry Medvedev and President of France Nicolas Sarkozy announced after talks in Moscow that an agreement to pull Russian forces from Georgia within a month has been reached. The agreement has become possible as EU will send 200 civilian monitors to the area and guarantee that Georgia signs a pledge to not use military force in Abkhazia and South Ossetia again. ](/news/2008/09/8/president-of-russia-dmitry-medvedev-and-president-of-france-nicolas-sarkozy-announced-after-talks-in-moscow-that-an-agreement-to-pull-russi.md)
-_Context: Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian President, Russian security forces, South Ossetia_
+_Context:  Russian President, Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian security forces, South Ossetia_
 
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
 _Context: 2006 transatlantic aircraft plot, United Kingdom, conspiracy, murder_

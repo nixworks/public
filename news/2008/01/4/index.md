@@ -10,7 +10,7 @@ _Context: Let L-410 Turbolet, Los Roques Archipelago, Transaven crash, Venezuela
 _Context: 2008 Dakar Rally, Mauritanian_
 
 ### [ North Korean officials accuse the United States of not fulfilling its promise of humanitarian aid after an international disarmament agreement. ](/news/2008/01/4/north-korean-officials-accuse-the-united-states-of-not-fulfilling-its-promise-of-humanitarian-aid-after-an-international-disarmament-agreem.md)
-_Context: North Korea, United States, aid, international disarmament agreement_
+_Context: North Korea, U.S., aid, international disarmament agreement_
 
 ### [ Winter storms in California cause power outages, destruction of property and flight delays in San Francisco.](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.md)
 _Context:  Winter storms, California, San Francisco, power outage_

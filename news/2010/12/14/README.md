@@ -13,7 +13,7 @@ _Context: EU, International Monetary Fund, Ireland_
 At least 25 killed and over 100 injured as fire sweeps through garment factory near Dhaka.
 
 ### [Japan protests a visit by First Deputy Prime Minister of Russia, Igor Shuvalov, to the disputed Kunashiri and Etorofu islands. ](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.md)
-_Context: Igor Shuvalov, Iturup, Japan, Kunashir, rival territorial claims, the Russian Federation_
+_Context: Igor Shuvalov, Iturup, Japan, Kunashir, Russia, rival territorial claims_
 
 ### [The United Nations High Commissioner for Refugees urges Cambodia to allow more time to resettle Vietnamese refugees after it announced the closure of a refugee camp. ](/news/2010/12/14/the-united-nations-high-commissioner-for-refugees-urges-cambodia-to-allow-more-time-to-resettle-vietnamese-refugees-after-it-announced-the-c.md)
 _Context: Cambodia, United Nations High Commissioner for Refugees, Vietnam_

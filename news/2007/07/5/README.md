@@ -37,7 +37,7 @@ Two people have been killed and seven others injured following a plane crash in 
 Eleven people were injured, two seriously, when a stone staircase collapsed inside the Natural History Museum on Merrion Square in Dublin
 
 ### [ Russia has officially declined a request by the UK to extradite Andrei Lugovoi for the murder of Alexander Litvinenko. Russia's constitution bars extradition of its citizens. ](/news/2007/07/5/russia-has-officially-declined-a-request-by-the-uk-to-extradite-andrei-lugovoi-for-the-murder-of-alexander-litvinenko-russia-s-constitutio.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, Russia's constitution, UK, extradite, the Russian Federation_
+_Context: Alexander Litvinenko, Andrei Lugovoi, Russia, Russia's constitution, UK, extradite_
 
 ### [ A study at the University of Jordan concluded that the country's economic problems are not a result of the 750,000 Iraqi refugees who have sought sanctuary there. Iraqi refugees now comprise over 10% of the Jordanian population. ](/news/2007/07/5/a-study-at-the-university-of-jordan-concluded-that-the-country-s-economic-problems-are-not-a-result-of-the-750-000-iraqi-refugees-who-have.md)
 _Context: Iraqis, Jordanian population, University of Jordan, country's economic problems, sanctuary_

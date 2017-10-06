@@ -24,11 +24,11 @@
 
 ### Related:
 
-1. [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md) _Context: US$, the Russian Federation_
-2. [Russian company Severstal sells two steel works in the US to AK Steel and Steel Dynamics for US$2.3 billion. ](/news/2014/07/21/russian-company-severstal-sells-two-steel-works-in-the-us-to-ak-steel-and-steel-dynamics-for-us-2-3-billion.md) _Context: US$, the Russian Federation_
-3. [ US President George W. Bush claims that the United States and Russia had almost reached agreement on Russia joining the World Trade Organisation. Bush met with Vladimir Putin prior to the G8 meeting in Strelna. ](/news/2006/07/15/us-president-george-w-bush-claims-that-the-united-states-and-russia-had-almost-reached-agreement-on-russia-joining-the-world-trade-organis.md) _Context: Strelna, the Russian Federation_
-4. [ The 32nd G8 summit begins in Saint Petersburg, Russia. ](/news/2006/07/15/the-32nd-g8-summit-begins-in-saint-petersburg-russia.md) _Context: 32nd G8 summit, the Russian Federation_
-5. [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md) _Context: US$, the Russian Federation_
+1. [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md) _Context: Russia, US$_
+2. [Russian company Severstal sells two steel works in the US to AK Steel and Steel Dynamics for US$2.3 billion. ](/news/2014/07/21/russian-company-severstal-sells-two-steel-works-in-the-us-to-ak-steel-and-steel-dynamics-for-us-2-3-billion.md) _Context: Russia, US$_
+3. [ US President George W. Bush claims that the United States and Russia had almost reached agreement on Russia joining the World Trade Organisation. Bush met with Vladimir Putin prior to the G8 meeting in Strelna. ](/news/2006/07/15/us-president-george-w-bush-claims-that-the-united-states-and-russia-had-almost-reached-agreement-on-russia-joining-the-world-trade-organis.md) _Context: Russia, Strelna_
+4. [ The 32nd G8 summit begins in Saint Petersburg, Russia. ](/news/2006/07/15/the-32nd-g8-summit-begins-in-saint-petersburg-russia.md) _Context: 32nd G8 summit, Russia_
+5. [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md) _Context: Russia, US$_
 
 ### Changes:
 

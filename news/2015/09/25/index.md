@@ -10,7 +10,7 @@ _Context: New Syrian Forces, Nusra Front, Syrian Civil War, al-Qaeda_
 White House officials announce deal, which will make China the world’s biggest carbon market, on eve of summit between Barack Obama and Xi Jinping
 
 ### [Ukraine selectively bans certain Russian airlines such as Aeroflot and Transaero from flying to and through Ukraine. ](/news/2015/09/25/ukraine-selectively-bans-certain-russian-airlines-such-as-aeroflot-and-transaero-from-flying-to-and-through-ukraine.md)
-_Context: Aeroflot, Transaero, Ukraine, the Russian Federation_
+_Context: Aeroflot, Russia, Transaero, Ukraine_
 
 ### [King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-caused-800-injuries.md)
 Saudi Arabia&#039;s King orders an investigation into a stampede at the annual Hajj pilgrimage that killed at least 717 people and left 800 others injured.

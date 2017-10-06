@@ -52,7 +52,7 @@ _Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni Crisis (2011-present), Yemeni P
 Tory MP will resign from Commons at May election after quitting as head of parliamentary security committee over cash-for-access claims
 
 ### [U.S. Secretary of Veterans Affairs Robert A. McDonald admits that he lied when he claimed that he served in the U.S. Army Special Forces. ](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.md)
-_Context: Green Berets, Robert A. McDonald, U.S. Secretary of Veterans Affairs_
+_Context: Robert A. McDonald, Special Forces, U.S. Secretary of Veterans Affairs_
 
 ## [Previous Day...](/news/2015/02/23/index.md)
 

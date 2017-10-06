@@ -4,7 +4,7 @@
 _Context: $, American Stock Exchange, NYSE Euronext, New York Stock Exchange, holding company, stock_
 
 ### [ Russian security officer Vasily Khitryuk is convicted of spying for Lithuania. ](/news/2008/01/17/russian-security-officer-vasily-khitryuk-is-convicted-of-spying-for-lithuania.md)
-_Context: Lithuania, the Russian Federation_
+_Context: Lithuania, Russia_
 
 ### [ Crash landing at London Heathrow: A British Airways Boeing 777 flying from Beijing, China to London, England lands on the grass short of the south runway and continues onto the runway, stopping on the white stripes, injuring 13 people, but resulting in no fatalities. The chaos results in the cancellation of 200 flights. ](/news/2008/01/17/crash-landing-at-london-heathrow-a-british-airways-boeing-777-flying-from-beijing-china-to-london-england-lands-on-the-grass-short-of-th.md)
 _Context: Beijing, Boeing 777, British Airways, China, Crash landing at London Heathrow, England, London, runway_

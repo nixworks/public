@@ -7,7 +7,7 @@ Chinese security forces have shot dead a young Tibetan in Sichuan province, camp
 Amnesty International has called for an investigation into what it says is the misuse of tear gas by Bahraini security forces.
 
 ### [Insurgency in the North Caucasus: 13 people are killed in three separate clashes between the Russian forces and Islamist militants in the Russian republics of Ingushetia, Dagestan, and Kabardino-Balkariya. ](/news/2012/01/27/insurgency-in-the-north-caucasus-13-people-are-killed-in-three-separate-clashes-between-the-russian-forces-and-islamist-militants-in-the-ru.md)
-_Context:  Kabardino-Balkariya, Dagestan, Ingushetia, Insurgency in the North Caucasus, the Russian Federation_
+_Context:  Kabardino-Balkariya, Dagestan, Ingushetia, Insurgency in the North Caucasus, Russia_
 
 ### [170 international writers, including the Nobel laureates J. M. Coetzee, Nadine Gordimer, Toni Morrison, Orhan Pamuk, Wole Soyinka, Mario Vargas Llosa and Derek Walcott, take out a full page advert in Mexican newspaper "El Universal" to defend the freedom of journalists from fear and censorship. ](/news/2012/01/27/170-international-writers-including-the-nobel-laureates-j-m-coetzee-nadine-gordimer-toni-morrison-orhan-pamuk-wole-soyinka-mario-var.md)
 A host of international writers including several Nobel laureates issue a joint statement condemning attacks on journalists in Mexico.

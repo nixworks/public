@@ -1,7 +1,7 @@
 ## [2005-11-20](/news/2005/11/20/index.md)
 
 ### [ At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md)
-_Context: Iraqi insurgency, United States_
+_Context: Iraqi insurgency, U.S._
 
 ### [ Israeli army radio reports Ariel Sharon, the current Prime Minister of Israel, will leave Likud and create a new centrist party positioned between it and Israeli Labor Party. This move ends more than a year of Likud infighting between Sharon and hard-right members led by Benjamin Netanyahu who opposed withdrawal from Gaza, and closely follows Labour's departure from the present grand coalition government. Early elections are now a near-certainty. ](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.md)
 _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime Minister, Israeli army radio, Israeli legislative election, Kadima, Likud, disengagement, grand coalition_
@@ -10,7 +10,7 @@ _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime M
 _Context: China, George W. Bush, U.S. President_
 
 ### [ Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md)
-_Context: Japan, Russian President, Vladimir Putin_
+_Context:  Russian President, Japan, Vladimir Putin_
 
 ### [ "Harry Potter and the Goblet of Fire", the latest film based on the books by J. K. Rowling, earns US$101.4 million in its first three days of release across North America, making it the fourth-largest opening ever. ](/news/2005/11/20/harry-potter-and-the-goblet-of-fire-the-latest-film-based-on-the-books-by-j-k-rowling-earns-us-101-4-million-in-its-first-three-days.md)
 _Context: Harry Potter and the Goblet of Fire, J. K. Rowling, fourth-largest opening_
