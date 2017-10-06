@@ -1,6 +1,6 @@
 ### [2017-10-6](/news/2017/10/6/index.md)
 
-# A train hits a bus on a crossing in Vladimir, Russia killing at least 19 people from the bus - no train passengers were injured. 
+# A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people from the bus - no train passengers were injured. 
 
 About 55 bus passengers were reported to be sleeping on board when it stalled on a crossing.
 
