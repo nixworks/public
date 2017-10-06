@@ -1,7 +1,13 @@
 ## [News](/news/2017/10/6/index.md)
 
-### [Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIS-held town of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-were-crossing-the-euphrates-river-near-the-isis-held-town-o.md)
+### [Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-were-crossing-the-euphrates-river-near-the-isil-held-city-o.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
+
+### [AIM's owner, Oath Inc., announced that it would discontinue AIM as a service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announced-that-it-would-discontinue-aim-as-a-service-on-december-15-2017.md)
+It&#39;s the end of an era. Once a staple, the messaging app will be discontinued in just a few short months.
+
+### [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md)
+After Banco Sabadell’s shock move to Alicante, Caixa announces shift to Valencia amid post-independence vote uncertainty
 
 ### [A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people on the bus. No train passengers were injured. ](/news/2017/10/6/a-train-hits-a-bus-on-a-crossing-in-vladimir-russia-killing-at-least-19-people-on-the-bus-no-train-passengers-were-injured.md)
 About 55 bus passengers were reported to be sleeping on board when it stalled on a crossing.
