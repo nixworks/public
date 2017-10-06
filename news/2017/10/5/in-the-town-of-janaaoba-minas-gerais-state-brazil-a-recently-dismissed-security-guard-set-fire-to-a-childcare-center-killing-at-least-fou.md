@@ -1,6 +1,6 @@
 ### [2017-10-5](/news/2017/10/5/index.md)
 
-# In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injuried. 
+# In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. 
 
 A security guard sets fire to a childcare centre, killing four children and a teacher.
 
