@@ -30,7 +30,7 @@ The Nobel committee says &quot;the risk of nuclear weapons is greater than it ha
 ### [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md)
 White House tech support discovered the suspected breach after Kelly turned his phone in to tech support staff this summer.
 
-### [A Trump administration executive order reverses an Obama-era policy and allows employers and insurers to decline to provide birth control if doing so violates their "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obama-era-policy-and-allows-employers-and-insurers-to-decline-to-provide-birth-control-if.md)
+### [A Trump administration executive order reverses an Obamacare policy which mandated that employers and insurers provide their employees with birth control, regardless of one's "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obamacare-policy-which-mandated-that-employers-and-insurers-provide-their-employees-with.md)
 The new rule could strip birth control coverage from millions of women, demolishing an Obama provision.
 
 ## Opinion
@@ -63,7 +63,7 @@ A security guard sets fire to a childcare centre, killing four children and a te
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 
 ### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, policy, transgender_
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, executive order, policy, transgender_
 
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.

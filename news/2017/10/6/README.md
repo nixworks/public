@@ -30,7 +30,7 @@ The Nobel committee says &quot;the risk of nuclear weapons is greater than it ha
 ### [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md)
 White House tech support discovered the suspected breach after Kelly turned his phone in to tech support staff this summer.
 
-### [A Trump administration executive order reverses an Obama-era policy and allows employers and insurers to decline to provide birth control if doing so violates their "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obama-era-policy-and-allows-employers-and-insurers-to-decline-to-provide-birth-control-if.md)
+### [A Trump administration executive order reverses an Obamacare policy which mandated that employers and insurers provide their employees with birth control, regardless of one's "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obamacare-policy-which-mandated-that-employers-and-insurers-provide-their-employees-with.md)
 The new rule could strip birth control coverage from millions of women, demolishing an Obama provision.
 
 ## [Previous Day...](/news/2017/10/5/index.md)
