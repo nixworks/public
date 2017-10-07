@@ -3,8 +3,8 @@
 ### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
-### [Multiple people injured in a road traffic incident on Exhibition Road, London. ](/news/2017/10/7/multiple-people-injured-in-a-road-traffic-incident-on-exhibition-road-london.md)
-_Context: Exhibition Road, London, South Kensington crash_
+### [Multiple people are injured when a car jumps the pavement near the Natural History Museum on Exhibition Road, London. ](/news/2017/10/7/multiple-people-are-injured-when-a-car-jumps-the-pavement-near-the-natural-history-museum-on-exhibition-road-london.md)
+_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -14,10 +14,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/6/index.md)
 
-### [According to the Syrian Observatory for Human Rights, Russian airstrikes allegedly kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-allegedly-kill-at-least-14-civilians-including-three-children-as.md)
+### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
+### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
 Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)

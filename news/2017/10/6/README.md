@@ -1,9 +1,9 @@
 ## [2017-10-6](/news/2017/10/6/index.md)
 
-### [According to the Syrian Observatory for Human Rights, Russian airstrikes allegedly kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-allegedly-kill-at-least-14-civilians-including-three-children-as.md)
+### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
+### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
 Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
