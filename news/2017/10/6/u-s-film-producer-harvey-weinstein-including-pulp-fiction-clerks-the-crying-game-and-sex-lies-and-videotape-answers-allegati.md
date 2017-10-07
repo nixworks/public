@@ -1,6 +1,6 @@
 ### [2017-10-6](/news/2017/10/6/index.md)
 
-# U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. 
+# U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. 
 
 Roy and Jill Serjeant
 
@@ -21,4 +21,4 @@ Roy and Jill Serjeant
 ### Changes:
 
 1. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _2017-10-07 10:30:07 (First version)_
-1. [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md) _(Current version)_
+1. [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md) _(Current version)_

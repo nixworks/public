@@ -1,6 +1,6 @@
 ### [2017-10-7](/news/2017/10/7/index.md)
 
-# A shooting at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, kills two guards and injures three others. Security guards kill the Saudi national assailant. 
+# A shooting at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, kills two guards and injures three others. Security guards kill the Saudi-national assailant. 
 
 Two royal palace security guards are shot dead by a 28-year-old Saudi national, state media say.
 

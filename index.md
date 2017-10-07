@@ -1,10 +1,7 @@
 ## [News](/news/2017/10/7/index.md)
 
-### [A shooting at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, kills two guards and injures three others. Security guards kill the Saudi national assailant. ](/news/2017/10/7/a-shooting-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-kills-two-guards-and-injures-three-others-security-guards-kill-the-saudi-n.md)
+### [A shooting at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, kills two guards and injures three others. Security guards kill the Saudi-national assailant. ](/news/2017/10/7/a-shooting-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-kills-two-guards-and-injures-three-others-security-guards-kill-the-saudi-n.md)
 Two royal palace security guards are shot dead by a 28-year-old Saudi national, state media say.
-
-### [In an incident that London police believe is not terror-related, a car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, injuring multiple people. ](/news/2017/10/7/in-an-incident-that-london-police-believe-is-not-terror-related-a-car-jumps-onto-the-pedestrian-sidewalk-near-the-natural-history-museum-on.md)
-_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
 
 ### [Atmospheric scientists expect Hurricane Nate, currently, a category 1 storm (90 mph-150 km-h) moving quickly toward the United States' northern Gulf Coast, to make landfall at the mouth of the Mississippi River this evening as a category 2 hurricane with hurricane warnings as far east as the Alabama-Florida border. The storm has already killed at least 30 people in Central America. ](/news/2017/10/7/atmospheric-scientists-expect-hurricane-nate-currently-a-category-1-storm-90-mph-150-km-h-moving-quickly-toward-the-united-states-north.md)
  NEW ORLEANS (AP) — Hurricane Nate pelted the central Gulf Coast with wind and rain Saturday as the fast-moving storm headed for an evening landfall somewhere along the coasts of s
@@ -14,6 +11,9 @@ Regulators have approved Google&rsquo;s application to provide emergency cell ph
 
 ### [After allegations that he raped a woman on his tour bus, authorities arrest American rap musician Nelly (Cornell Iral Haynes Jr.) in Auburn, Washington, a suburb of Seattle. ](/news/2017/10/7/after-allegations-that-he-raped-a-woman-on-his-tour-bus-authorities-arrest-american-rap-musician-nelly-cornell-iral-haynes-jr-in-auburn.md)
 _Context: American, Auburn, Washington, Nelly, Seattle, rap musician_
+
+### [In an incident that London police believe is not terror-related, a car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, injuring 11 people. Police arrested the driver. ](/news/2017/10/7/in-an-incident-that-london-police-believe-is-not-terror-related-a-car-jumps-onto-the-pedestrian-sidewalk-near-the-natural-history-museum-on.md)
+_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -26,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
+### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
 Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
