@@ -3,7 +3,7 @@
 ### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
+### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
 Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
@@ -19,7 +19,7 @@ About 55 bus passengers were reported to be sleeping on board when it stalled on
 An Indian airforce helicopter crashed in a remote mountain region near the border with China on Friday, killing all seven personnel on board, officials said.
 
 ### [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md)
-_Context: 2017 Atlantic hurricane season, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate, United States_
+_Context: 2017 Atlantic hurricane season, American, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate_
 
 ### [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md)
 A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.

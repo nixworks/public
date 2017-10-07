@@ -1,13 +1,19 @@
 ## [News](/news/2017/10/7/index.md)
 
+### [A shooting at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, kills two guards and injures three others. Security guards kill the Saudi national assailant. ](/news/2017/10/7/a-shooting-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-kills-two-guards-and-injures-three-others-security-guards-kill-the-saudi-n.md)
+Two royal palace security guards are shot dead by a 28-year-old Saudi national, state media say.
+
+### [In an incident that London police believe is not terror-related, a car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, injuring multiple people. ](/news/2017/10/7/in-an-incident-that-london-police-believe-is-not-terror-related-a-car-jumps-onto-the-pedestrian-sidewalk-near-the-natural-history-museum-on.md)
+_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
+
+### [Atmospheric scientists expect Hurricane Nate, currently, a category 1 storm (90 mph-150 km-h) moving quickly toward the United States' northern Gulf Coast, to make landfall at the mouth of the Mississippi River this evening as a category 2 hurricane with hurricane warnings as far east as the Alabama-Florida border. The storm has already killed at least 30 people in Central America. ](/news/2017/10/7/atmospheric-scientists-expect-hurricane-nate-currently-a-category-1-storm-90-mph-150-km-h-moving-quickly-toward-the-united-states-north.md)
+ NEW ORLEANS (AP) — Hurricane Nate pelted the central Gulf Coast with wind and rain Saturday as the fast-moving storm headed for an evening landfall somewhere along the coasts of s
+
 ### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
-### [Multiple people are injured when a car jumps the pavement near the Natural History Museum on Exhibition Road, London. ](/news/2017/10/7/multiple-people-are-injured-when-a-car-jumps-the-pavement-near-the-natural-history-museum-on-exhibition-road-london.md)
-_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
-
-### [American rapper Nelly is arrested in Auburn, Washington, a suburb of Seattle, following allegations that he raped a woman on his tour bus. ](/news/2017/10/7/american-rapper-nelly-is-arrested-in-auburn-washington-a-suburb-of-seattle-following-allegations-that-he-raped-a-woman-on-his-tour-bus.md)
-_Context: Auburn, Washington, Nelly, Seattle, rapper_
+### [After allegations that he raped a woman on his tour bus, authorities arrest American rap musician Nelly (Cornell Iral Haynes Jr.) in Auburn, Washington, a suburb of Seattle. ](/news/2017/10/7/after-allegations-that-he-raped-a-woman-on-his-tour-bus-authorities-arrest-american-rap-musician-nelly-cornell-iral-haynes-jr-in-auburn.md)
+_Context: American, Auburn, Washington, Nelly, Seattle, rap musician_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -20,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
+### [U.S. film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/u-s-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-allegati.md)
 Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
@@ -36,7 +42,7 @@ About 55 bus passengers were reported to be sleeping on board when it stalled on
 An Indian airforce helicopter crashed in a remote mountain region near the border with China on Friday, killing all seven personnel on board, officials said.
 
 ### [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md)
-_Context: 2017 Atlantic hurricane season, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate, United States_
+_Context: 2017 Atlantic hurricane season, American, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate_
 
 ### [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md)
 A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.
@@ -75,8 +81,8 @@ A security guard sets fire to a childcare centre, killing four children and a te
 ### [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was allegedly through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md)
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 
-### [The Department of Justice reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-protect-transgender-employees-from-di.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama-era policy, Title VII of the Civil Rights Act, discrimination, transgender_
+### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, executive order, policy, transgender_
 
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.
