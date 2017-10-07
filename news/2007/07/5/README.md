@@ -7,7 +7,7 @@ _Context: Hawaii, cephalopod, octosquid_
 _Context: Las Vegas, Nevada, New York-New York Hotel & Casino_
 
 ### [ The Nigerian kidnappers of three-year-old British toddler Margaret Hill threaten to kill her, unless her father, Port Harcourt bar owner Mike Hill, takes her place. ](/news/2007/07/5/the-nigerian-kidnappers-of-three-year-old-british-toddler-margaret-hill-threaten-to-kill-her-unless-her-father-port-harcourt-bar-owner-mi.md)
-_Context: Nigeria, Port Harcourt, United Kingdom_
+_Context: British, Nigeria, Port Harcourt_
 
 ### [ A 6.1 magnitude earthquake hits the southern state of Chiapas in Mexico. ](/news/2007/07/5/a-6-1-magnitude-earthquake-hits-the-southern-state-of-chiapas-in-mexico.md)
 A forceful 6.1 magnitude earthquake shook two poor southern Mexican farming states on Thursday, scaring residents but apparently causing no injuries or damage, authorities said.

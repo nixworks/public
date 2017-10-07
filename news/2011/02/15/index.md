@@ -64,7 +64,7 @@ _Context: killing Meredith Kercher_
 A review of the F.B.I.’s scientific work on the investigation of the anthrax letters of 2001 concludes that the bureau overstated the strength of genetic analysis linking them to an Army scientist.
 
 ### [Two U.S. Immigration and Customs Enforcement officers are shot while travelling between Monterrey and Mexico City with one officer dying. ](/news/2011/02/15/two-u-s-immigration-and-customs-enforcement-officers-are-shot-while-travelling-between-monterrey-and-mexico-city-with-one-officer-dying.md)
-_Context: Mexico City, Monterrey, U.S. Immigration and Customs Enforcement_
+_Context: Mexico City, Monterrey, U.S. immigration officers_
 
 ### [A Palestinian teen is released from Israeli custody after the police officer who alledegly beat a confession out of him fails to show up to an inquiry. The teenager was held in Israel for 7 months for allegedly throwing rocks before being released.](/news/2011/02/15/a-palestinian-teen-is-released-from-israeli-custody-after-the-police-officer-who-alledegly-beat-a-confession-out-of-him-fails-to-show-up-to.md)
 _Context: Israel, Palestinian, police brutality_

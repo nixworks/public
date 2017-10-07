@@ -7,7 +7,7 @@ _Context: Lake Michigan, Northwest Orient Airlines Flight 2501_
 _Context: 2008 unrest in Bolivia, Bolivia, Pando, martial law_
 
 ### [ The collapse of the United Kingdom's third largest tour operator XL Leisure Group, leaves over 85,000 British holidaymakers stranded abroad. ](/news/2008/09/12/the-collapse-of-the-united-kingdom-s-third-largest-tour-operator-xl-leisure-group-leaves-over-85-000-british-holidaymakers-stranded-abroad.md)
-_Context: United Kingdom, XL Leisure Group_
+_Context: British, XL Leisure Group_
 
 ### [ Twenty Four people die in Chatsworth in Los Angeles, California following a collision between a Metrolink passenger train and a Union Pacific freight train. At least 135 people were also injured in the accident. ](/news/2008/09/12/twenty-four-people-die-in-chatsworth-in-los-angeles-california-following-a-collision-between-a-metrolink-passenger-train-and-a-union-pacif.md)
 Rescue teams worked frantically into this morning after a Metrolink passenger train carrying 225 people collided Friday with a Union Pacific freight train on a sharp curve in Chatsworth, killing at least 17 people and leaving more than 135 injured. It was one of the worst train crashes in Southern C...

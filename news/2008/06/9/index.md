@@ -37,7 +37,7 @@ _Context: Ahmadiyya, Indonesia, Islam in Indonesia_
 _Context: McDonald's restaurants, Salmonellosis, U.S., hamburger, tomato_
 
 ### [ Tens of thousands of Spanish truck drivers start an indefinite strike over the increases in the price of diesel. ](/news/2008/06/9/tens-of-thousands-of-spanish-truck-drivers-start-an-indefinite-strike-over-the-increases-in-the-price-of-diesel.md)
-_Context: Spanish, diesel fuel, strike, truck drivers_
+_Context: Spain, diesel fuel, strike, truck drivers_
 
 ### [ The government of the Indian state of Rajasthan meets with leaders of the Gujjar community after two weeks of protests over the reservation system. ](/news/2008/06/9/the-government-of-the-indian-state-of-rajasthan-meets-with-leaders-of-the-gujjar-community-after-two-weeks-of-protests-over-the-reservation.md)
 _Context: Gujjar, Rajasthan, reservations_

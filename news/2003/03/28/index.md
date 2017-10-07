@@ -10,7 +10,7 @@ _Context: Fujitsu, HOAP-2, Linux, operating system, robot_
 _Context: Airbus, Airbus A310, Athens, Istanbul, MP, Turkey, Turkish Airlines, aircraft piracy, aircrew_
 
 ### [ 190th Fighter Squadron, Blues and Royals friendly fire incident: During the Coalition invasion of Iraq, two A-10 Thunderbolts from the USAF 190th Fighter Squadron fired on and destroyed two armored vehicles from the United Kingdom's D-Squadron, killing one British soldier, and injuring five others.](/news/2003/03/28/190th-fighter-squadron-blues-and-royals-friendly-fire-incident-during-the-coalition-invasion-of-iraq-two-a-10-thunderbolts-from-the-usaf.md)
-_Context: 190th Fighter Squadron, 190th Fighter Squadron, Blues and Royals friendly fire incident, 2003 invasion of Iraq, A-10 Thunderbolt, United Kingdom, air force_
+_Context: 190th Fighter Squadron, 190th Fighter Squadron, Blues and Royals friendly fire incident, 2003 invasion of Iraq, A-10 Thunderbolt, British, air force_
 
 ## [Previous Day...](/news/2003/03/27/index.md)
 

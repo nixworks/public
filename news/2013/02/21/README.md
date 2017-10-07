@@ -7,7 +7,7 @@ A car bomb killed more than 50 people and wounded 200 in central Damascus on Thu
 At least 12 people are killed by twin blasts in the southern Indian city of Hyderabad, which PM Manmohan Singh has called a &quot;dastardly attack&quot;.
 
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
-_Context: Academie francaise, Michael Edwards, United Kingdom, writer_
+_Context: Academie francaise, British, Michael Edwards, writer_
 
 ### [PayPal, the online payments business, a division of eBay, launches a European version of the PayPal Here mobile payments system. ](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.md)
 PayPal launched a European version of its PayPal Here mobile payments service for small merchants on Thursday as the online payments division of eBay Inc steps up competition with rivals, including Square Inc.

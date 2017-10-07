@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md)
-_Context: Basque, Spanish, autonomy, independent, referendum_
+_Context: Basque, Spain, autonomy, independent, referendum_
 
 ### [ The parliament of Slovenia ratifies the European Union Constitution. ](/news/2005/02/2/the-parliament-of-slovenia-ratifies-the-european-union-constitution.md)
 _Context: European Union Constitution, Slovenia_

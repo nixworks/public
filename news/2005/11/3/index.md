@@ -10,7 +10,7 @@ _Context: 2005 Paris suburb riots_
 _Context: Israel, Israel Defense Forces, Palestinian, Supreme Court, United Nations, panic attack, sonic boom_
 
 ### [ Conflict in Iraq: Seven U.K. troops accused of murdering an Iraqi civilian have had their cases dropped after a judge ruled that there was insufficient evidence against the soldiers and that the Iraqi witnesses lied. ](/news/2005/11/3/conflict-in-iraq-seven-u-k-troops-accused-of-murdering-an-iraqi-civilian-have-had-their-cases-dropped-after-a-judge-ruled-that-there-was.md)
-_Context: Conflict in Iraq, Iraq, United Kingdom_
+_Context: British, Conflict in Iraq, Iraq_
 
 ### [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-was-prevented-from-leaving-the-phi.md)
 _Context: Filipino, Philippines, U.S. Marine, rape_

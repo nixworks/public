@@ -16,7 +16,7 @@ A super typhoon has killed atleast fourteen people in China since making landfal
 2. [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md) _Context: 2014 Pacific typhoon season, China, Typhoon Rammasun (Glenda)_
 3. [Typhoon Rammasun, which has killed at least 54 people in the Philippines, approaches the southern China provinces of Hainan and Guangdong. ](/news/2014/07/18/typhoon-rammasun-which-has-killed-at-least-54-people-in-the-philippines-approaches-the-southern-china-provinces-of-hainan-and-guangdong.md) _Context: China, Typhoon Rammasun (Glenda)_
 4. [Typhoon Rammasun (Glenda) heads for southern China and northern Vietnam after killing at least 38 people in the Philippines with eight missing. ](/news/2014/07/17/typhoon-rammasun-glenda-heads-for-southern-china-and-northern-vietnam-after-killing-at-least-38-people-in-the-philippines-with-eight-missi.md) _Context: China, Typhoon Rammasun (Glenda)_
-5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
 
 ### Changes:
 

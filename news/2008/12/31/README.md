@@ -7,7 +7,7 @@ _Context: Aspen, Colorado, U.S., bomb_
 _Context: Gaza, Hamas, Israel, aid, ceasefire, fire_
 
 ### [ A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. ](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.md)
-_Context: Basque separatist, Bilbao, ETA, Spanish, car bomb, separatist_
+_Context: Basque separatist, Bilbao, ETA, Spain, car bomb, separatist_
 
 ### [ One of the world's biggest accumulations of dinosaur fossils is found near Zhucheng, China. ](/news/2008/12/31/one-of-the-world-s-biggest-accumulations-of-dinosaur-fossils-is-found-near-zhucheng-china.md)
 _Context: China, Zhucheng, dinosaur, fossil, found_

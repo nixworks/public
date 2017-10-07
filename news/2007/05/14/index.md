@@ -34,7 +34,7 @@ _Context: Orsk, Russia, cafe_
 _Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier, President_
 
 ### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
-_Context: Chancellor of the Exchequer, Gordon Brown, Labour, United Kingdom, confirmed_
+_Context: British, Chancellor of the Exchequer, Gordon Brown, Labour, confirmed_
 
 ### [ An ethics panel of the World Bank Group finds that its President Paul Wolfowitz was guilty of violating his contract when arranging a compensation package for Shaha Ali Riza with whom he had a relationship. ](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.md)
 _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_

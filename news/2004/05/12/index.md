@@ -7,7 +7,7 @@ _Context: $, ASCI White, Department of Energy, Earth Simulator, Oak Ridge Nation
 _Context: Campeche, Mexican military helicopter, UNAM, infrared, unidentified flying object_
 
 ### [ War on Terrorism: An al Qaeda manual sets a hierarchy of terrorism targets: first, U.S. citizens, followed by Britons, Spaniards, and Australians. ](/news/2004/05/12/war-on-terrorism-an-al-qaeda-manual-sets-a-hierarchy-of-terrorism-targets-first-u-s-citizens-followed-by-britons-spaniards-and-austr.md)
-_Context: Spanish, War on Terrorism, al-Qaeda_
+_Context: Spain, War on Terrorism, al-Qaeda_
 
 ## [Previous Day...](/news/2004/05/11/index.md)
 

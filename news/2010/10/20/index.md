@@ -4,7 +4,7 @@
 A British security consultant kidnapped six days ago by gunmen in Somalia has described his release as &quot;marvellous&quot;, Save the Children says.
 
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United Kingdom, boyband, hip hop_
+_Context: British, JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, boyband, hip hop_
 
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
@@ -32,7 +32,7 @@ _Context: Batkivschyna, Ukrainian government, Yulia Tymoshenko_
 At least 1,000 Tibetan students in north-west China protest against new curbs on the use of their language, a rights group says.
 
 ### [Spanish Prime Minister Jos Luis Rodrguez Zapatero reshuffles his cabinet in a move to strengthen his government. ](/news/2010/10/20/spanish-prime-minister-jose-luis-rodriguez-zapatero-reshuffles-his-cabinet-in-a-move-to-strengthen-his-government.md)
-_Context: Jos Luis Rodrguez Zapatero, Spanish_
+_Context: Jos Luis Rodrguez Zapatero, Spain_
 
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
 _Context: Guinea, November's presidential poll_

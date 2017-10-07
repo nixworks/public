@@ -31,7 +31,7 @@ _Context: Russia, Sukhoi T-50, stealth fighter_
 At least nine dead in fighting in densely populated Mogadishu neighbourhoods.
 
 ### [Tony Blair appears at the Iraq Inquiry and is questioned in public for the first time about his decision to take the United Kingdom to war against Iraq. ](/news/2010/01/29/tony-blair-appears-at-the-iraq-inquiry-and-is-questioned-in-public-for-the-first-time-about-his-decision-to-take-the-united-kingdom-to-war-a.md)
-_Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, United Kingdom_
+_Context: British, Iraq, Iraq Inquiry, Iraq War, Tony Blair_
 
 ### [Vietnamese author Pham Thanh Nghien, who criticised the ruling Communist Party, is sentenced to four years in prison for spreading propaganda against the state. ](/news/2010/01/29/vietnamese-author-pham-thanh-nghien-who-criticised-the-ruling-communist-party-is-sentenced-to-four-years-in-prison-for-spreading-propagand.md)
 _Context: Communist Party, Pham Thanh Nghien, Vietnam, propaganda_

@@ -28,7 +28,7 @@ Gusts as high as 80mph hit southern and western parts of the UK as all rail rout
 Allegations of money laundering and tax evasion against king&#x27;s daughter are latest episode in family&#x27;s fall from grace
 
 ### [The British Minister of State for Immigration Mark Harper resigns after it is discovered that a cleaner that he employed was not legally allowed to work in the United Kingdom. ](/news/2014/02/8/the-british-minister-of-state-for-immigration-mark-harper-resigns-after-it-is-discovered-that-a-cleaner-that-he-employed-was-not-legally-all.md)
-_Context: Mark Harper, Minister of State for Immigration, United Kingdom_
+_Context: British, Mark Harper, Minister of State for Immigration_
 
 ### [Hamdeen Sabahi announces his candidacy for the upcoming Egyptian presidential elections. ](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.md)
 CAIRO -- Leftist politician Hamdeen Sabahi has become the first candidate to announce his candidacy for president in Egypt&apos;s upcoming election.

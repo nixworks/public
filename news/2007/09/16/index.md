@@ -7,7 +7,7 @@ _Context: Primetime Emmy Award, Primetime Emmy Award for Outstanding Drama Serie
 O. J. Simpson was charged with six felonies in connection with a reported armed robbery of sports memorabilia in a Las Vegas hotel room, police said.
 
 ### [ A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. ](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-identified-but-not-confirmed-by-united-kingdom-government-vets-on-a-farm-near-chertsey-surrey.md)
-_Context: Chertsey, Surrey, United Kingdom, foot-and-mouth disease_
+_Context: British, Chertsey, Surrey, foot-and-mouth disease_
 
 ### [ An Iraqi police colonel is gunned down in Afak, the third government official killed in that Iraqi town. ](/news/2007/09/16/an-iraqi-police-colonel-is-gunned-down-in-afak-the-third-government-official-killed-in-that-iraqi-town.md)
 _Context: Afak, Iraq_

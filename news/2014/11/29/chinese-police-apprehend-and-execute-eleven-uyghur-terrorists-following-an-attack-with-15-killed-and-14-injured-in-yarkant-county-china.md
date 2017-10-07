@@ -16,7 +16,7 @@ Fifteen people have been killed and 14 others wounded in a &quot;terrorist attac
 2. [Chinese security forces have killed 28 members of a supposed terrorist group in the mainly ethnic Uyghur Xinjiang region. ](/news/2015/11/20/chinese-security-forces-have-killed-28-members-of-a-supposed-terrorist-group-in-the-mainly-ethnic-uyghur-xinjiang-region.md) _Context: China, Xinjiang_
 3. [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md) _Context: China, Uyghur_
 4. [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md) _Context: China, Uyghur_
-5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
 
 ### Changes:
 

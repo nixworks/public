@@ -16,7 +16,7 @@ _Context: ''Impeccable'', China, South China Sea, U.S., USNS, United States fede
 _Context: Barack Obama, George W. Bush, U.S., U.S. President, embryonic stem cell, restrictions_
 
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
-_Context: Antarctica, Argentina, British Antarctic Territory, Chile, United Kingdom, territory_
+_Context: Antarctica, Argentina, British, British Antarctic Territory, Chile, territory_
 
 ### [ North Korea says an interception of its upcoming "satellite" launch would "mean a war." ](/news/2009/03/9/north-korea-says-an-interception-of-its-upcoming-satellite-launch-would-mean-a-war.md)
 _Context: North Korea, released an object into orbit_

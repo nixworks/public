@@ -31,7 +31,7 @@ Canadian police have arrested a man who was found carrying three bombs in the bo
 _Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
-_Context: England, Meteorological Office, United Kingdom_
+_Context: British, England, Meteorological Office_
 
 ### [ Mike Nifong, the prosecutor in the 2006 Duke University lacrosse case, is found in criminal contempt of court for lying to a judge in the case and is sentenced to a day in jail. ](/news/2007/08/31/mike-nifong-the-prosecutor-in-the-2006-duke-university-lacrosse-case-is-found-in-criminal-contempt-of-court-for-lying-to-a-judge-in-the-c.md)
 _Context: 2006 Duke University lacrosse case, Mike Nifong, contempt of court_
@@ -73,7 +73,7 @@ _Context: Kenya, Kisii, minibus, tanker_
 The leaders of France and Britain on Friday revived the specter of sanctions against Khartoum if progress is not made on a Darfur ceasefire and upcoming political talks.
 
 ### [ While Greece brings the 2007 Greek forest fires under control, 8 people have died in 48 hours in forest fires in northern Algeria, six firefighters die in Croatia and the village of Les Useres in the Valencia region of Spain is evacuated. ](/news/2007/08/31/while-greece-brings-the-2007-greek-forest-fires-under-control-8-people-have-died-in-48-hours-in-forest-fires-in-northern-algeria-six-fire.md)
-_Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spanish, Valencia, forest fire_
+_Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spain, Valencia, forest fire_
 
 ### [ Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. ](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.md)
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_

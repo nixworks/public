@@ -25,7 +25,7 @@ _Context: Iraq, Jalal Talabani, President of Iraq_
 _Context: Democratic Republic of Congo, Rwanda, United Nations, intelligence analyst_
 
 ### [ Murdered British banker Alistair Wilson is buried in Nairn. The murderer is still at large. ](/news/2005/04/6/murdered-british-banker-alistair-wilson-is-buried-in-nairn-the-murderer-is-still-at-large.md)
-_Context: Alistair Wilson, Nairn, United Kingdom_
+_Context: Alistair Wilson, British, Nairn_
 
 ### [ Monaco's Prince Rainier III dies at age 81. ](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.md)
 _Context: Monaco, Prince Rainier_

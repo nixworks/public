@@ -7,7 +7,7 @@ Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-ye
 _Context: Haiti, flood_
 
 ### [ Former Special Air Service officer John Wick is revealed as the whistleblower behind the United Kingdom Parliament's expenses controversy. [http:--news.bbc.co.uk-1-hi-uk_politics-8064731.stm (BBC)] [http:--www.telegraph.co.uk-news-newstopics-mps-expenses-5369066-MPs-expenses-whistleblower-John-Wick-on-why-he-set-the-scandal-running.html "(Telegraph)"]](/news/2009/05/22/former-special-air-service-officer-john-wick-is-revealed-as-the-whistleblower-behind-the-united-kingdom-parliament-s-expenses-controversy.md)
-_Context: John Wick, Parliament, SAS, United Kingdom, expenses controversy, officer, whistleblower_
+_Context: British, John Wick, Parliament, SAS, expenses controversy, officer, whistleblower_
 
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
 _Context: Chiautla de Tapia, Mexico, Puebla, earthquake, magnitude_
@@ -25,7 +25,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 _Context: Khyber Pakhtunkhwa, Pakistan, United Nations, War in North-West Pakistan, displaced, international aid, people_
 
 ### [ Spain's National Police Corps arrests 23 people for trafficking Nigerian prostitutes through voodoo. ](/news/2009/05/22/spain-s-national-police-corps-arrests-23-people-for-trafficking-nigerian-prostitutes-through-voodoo.md)
-_Context: National Police Corps, Nigeria, Spanish, arrest, human trafficking, prostitution, voodoo_
+_Context: National Police Corps, Nigeria, Spain, arrest, human trafficking, prostitution, voodoo_
 
 ### [ Northern Ireland's first sextuplets are born in Belfast. ](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.md)
 A woman in Northern Ireland has given birth to six babies at the Royal Victoria Hospital.

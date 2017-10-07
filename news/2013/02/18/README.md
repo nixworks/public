@@ -13,7 +13,7 @@ A massive search was set to continue through Monday night off Liverpool for five
 Rescuers found five more bodies in the mud after flooding and landslides in northern Indonesia, bringing the death toll to 15 after the disaster that sent thousands fleeing for safe ground, police and witnesses said Monday.
 
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spanish, beef, horses for meat, supermarket chain_
+_Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spain, beef, horses for meat, supermarket chain_
 
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
 Armed robbers disguised as police escape with a massive haul of diamonds after a rapid raid at Brussels Airport, Belgian police say.

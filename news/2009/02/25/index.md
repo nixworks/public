@@ -7,7 +7,7 @@ _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Na
 _Context: Barack Obama, Gary Locke, Governor, U.S., U.S. President, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, British Army, Gerishk District, Helmand Province, United Kingdom, improvised explosive device_
+_Context: Afghanistan, British, British Army, Gerishk District, Helmand Province, improvised explosive device_
 
 ### [ Three people set themselves on fire near Tiananmen Square in Beijing, China. ](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.md)
 _Context: Beijing, China, Tiananmen Square, sets herself alight_

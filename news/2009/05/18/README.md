@@ -16,7 +16,7 @@ _Context: Chad, Military, Sudan, incursions, performed_
 _Context: Somali pirates, Somalian, coast guard_
 
 ### [ Twenty members of the United Kingdom's Parliament demand House of Commons Speaker Michael Martin's resignation, amid at the 2009 expenses scandal. [http:--news.bbc.co.uk-1-hi-uk_politics-8054657.stm (BBC)] [http:--www.telegraph.co.uk-news-newstopics-mps-expenses-5344495-Speaker-Michael-Martin-sorry-but-refuses-to-resign.html "(The Daily Telegraph)"]](/news/2009/05/18/twenty-members-of-the-united-kingdom-s-parliament-demand-house-of-commons-speaker-michael-martin-s-resignation-amid-at-the-2009-expenses-s.md)
-_Context: House of Commons of the United Kingdom, MP, MPs expenses, Michael Martin, Parliament, Speaker of the UK House of Commons, United Kingdom_
+_Context: British, House of Commons of the United Kingdom, MP, MPs expenses, Michael Martin, Parliament, Speaker of the UK House of Commons_
 
 ### [ The European Commission's headquarters in Brussels, Belgium, is evacuated because of a fire. ](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.md)
 The headquarters of the EU Commission in Brussels was evacuated today because of a fire.
@@ -28,7 +28,7 @@ _Context: Bible, Defense Secretary, Donald Rumsfeld, George W. Bush, U.S., U.S. 
 U.S. President Barack Obama on Monday pressed a two-state solution to the Middle East conflict but failed to win a commitment from Israeli Prime Minister Benjamin Netanyahu to back Palestinian statehood.
 
 ### [ Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. ](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.md)
-_Context: Camorra, Italy, Marbella, Raffaele Amato, Spanish_
+_Context: Camorra, Italy, Marbella, Raffaele Amato, Spain_
 
 ## [Previous Day...](/news/2009/05/17/index.md)
 

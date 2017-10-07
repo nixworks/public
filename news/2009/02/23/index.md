@@ -1,7 +1,7 @@
 ## [2009-02-23](/news/2009/02/23/index.md)
 
 ### [ Member of Parliament Peter Archer's report into the United Kingdom's tainted blood scandal chiefly blames United States pharmaceutical companies that provided contaminated blood plasma, thus infecting approximately 5,700 hemophiliacs with HIV or hepatitis C. ](/news/2009/02/23/member-of-parliament-peter-archer-s-report-into-the-united-kingdom-s-tainted-blood-scandal-chiefly-blames-united-states-pharmaceutical-comp.md)
-_Context: HIV, MP, Parliament, Peter Archer, U.S., United Kingdom, blood plasma, contaminated, hemophiliacs, hepatitis C, infection, pharmaceutical companies, tainted blood scandal_
+_Context: British, HIV, MP, Parliament, Peter Archer, U.S., blood plasma, contaminated, hemophiliacs, hepatitis C, infection, pharmaceutical companies, tainted blood scandal_
 
 ### [ Norway's Royal Navy will resume searching for Antarctic explorer Roald Amundsen's Latham 47 flying boat. ](/news/2009/02/23/norway-s-royal-navy-will-resume-searching-for-antarctic-explorer-roald-amundsen-s-latham-47-flying-boat.md)
 _Context: Antarctica, Latham 47, Norway, Roald Amundsen, Royal Navy, exploration, flying boat_

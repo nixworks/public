@@ -22,7 +22,7 @@ _Context: Global food price crisis, Office for the Coordination of Humanitarian 
 _Context: 2008 U.S. Open Golf Championship, Rocco Mediate, Tiger Woods_
 
 ### [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md)
-_Context: Bank Melli, EU, Iran, Iran and weapons of mass destruction, United Kingdom, sanctions_
+_Context: Bank Melli, British, EU, Iran, Iran and weapons of mass destruction, sanctions_
 
 ### [ France announces plans to cut 54,000 defense jobs and push for a stronger European Security and Defence Policy as part of a new defense strategy. ](/news/2008/06/16/france-announces-plans-to-cut-54-000-defense-jobs-and-push-for-a-stronger-european-security-and-defence-policy-as-part-of-a-new-defense-str.md)
 _Context: European Security and Defence Policy, France_

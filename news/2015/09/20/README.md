@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Houthi rebels release six foreign hostages; three Americans, two Saudis, and a Briton. ](/news/2015/09/20/houthi-rebels-release-six-foreign-hostages-three-americans-two-saudis-and-a-briton.md)
-_Context: Houthi, Saudi Arabia, U.S., United Kingdom, Yemeni Civil War_
+_Context: British, Houthi, Saudi Arabia, U.S., Yemeni Civil War_
 
 ### [ Triple explosions kill at least 80 people and injure 150 in the Nigerian city of Maiduguri. ](/news/2015/09/20/triple-explosions-kill-at-least-80-people-and-injure-150-in-the-nigerian-city-of-maiduguri.md)
 _Context: Boko Haram insurgency, Maiduguri, Nigeria_

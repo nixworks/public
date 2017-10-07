@@ -22,7 +22,7 @@ _Context: A suicide attack, Ankara, Turkey, Ulus district_
 _Context: 2007, U.S., U.S.  National Oceanic and Atmospheric Administration, hurricane, tropical storm_
 
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, Crown Prosecution Service, KGB, United Kingdom_
+_Context: Alexander Litvinenko, Andrei Lugovoi, British, Crown Prosecution Service, KGB_
 
 ### [ Iraq War: A car bomb kills 25 people and injures at least 60 in a commercial area in southwestern Baghdad. ](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.md)
 _Context: Baghdad, Iraq War, car bomb_

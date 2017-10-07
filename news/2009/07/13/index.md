@@ -19,7 +19,7 @@ _Context: Mian Channu, Pakistan, bomb blast_
 _Context: Greek, Patras, migrants_
 
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
-_Context: 2008-2009 Gaza War, Israel, United Kingdom_
+_Context: 2008-2009 Gaza War, British, Israel_
 
 ### [ Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. ](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.md)
 _Context: Urumqi, Uyghur_

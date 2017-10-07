@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which applied Title VII of the Civil Rights Act to disallow discrimination of transgender employees. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-applied-title-vii-of-the-civil-rights-act-to.md) _Context: Obama_
+1. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Obama_
 2. [United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/united-states-secretary-of-education-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-a.md) _Context: Obama_
 3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Texas_
 4. [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md) _Context: Texas_

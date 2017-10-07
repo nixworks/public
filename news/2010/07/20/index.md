@@ -7,7 +7,7 @@ _Context: Kyrgyzstan, Navi Pillay, the ongoing crisis_
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
+_Context: Afghanistan, British, British Army, Secretary of State for Foreign and Commonwealth Affairs, William Hague_
 
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
 _Context: Rwanda, Uganda, United Nations, attacks_
@@ -106,7 +106,7 @@ _Context: November's presidential poll, Supreme Court_
 Rwandan President Paul Kagame has said he is confident of re-election as he kicked off a campaign already tarnished by a string of political assassinations and arrests.
 
 ### [Spain rejects a proposal to ban the burqa in public places; 183 to 162, with two abstaining. ](/news/2010/07/20/spain-rejects-a-proposal-to-ban-the-burqa-in-public-places-183-to-162-with-two-abstaining.md)
-_Context: Spanish, burqa_
+_Context: Spain, burqa_
 
 ### [Shirley Sherrod, an employee of the United States Department of Agriculture, resigns after a video on the internet surfaced showing her apparently making racist remarks regarding the foreclosure of a farm owned by a white farmer. ](/news/2010/07/20/shirley-sherrod-an-employee-of-the-united-states-department-of-agriculture-resigns-after-a-video-on-the-internet-surfaced-showing-her-appa.md)
 A video has surfaced showing an Agriculture Department official regaling an NAACP audience with a story about how she withheld help to a white farmer facing bankruptcy -- video that now has forced the official to resign

@@ -7,7 +7,7 @@ _Context: Kenya, Somalian_
 _Context: Ja'ar, Yemen_
 
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, U.S., United Kingdom_
+_Context: British, Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, U.S._
 
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
 _Context: Finland, Netherlands_
@@ -22,7 +22,7 @@ GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and p
 _Context: Facebook, IPO, Nasdaq_
 
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
-_Context: Barclays, Libor, United Kingdom_
+_Context: Barclays, British, Libor_
 
 ### [Some, but not all, of Chicago's taxi drivers go on strike during the morning rush hour to protest a new set of city regulations that took effect. ](/news/2012/07/2/some-but-not-all-of-chicago-s-taxi-drivers-go-on-strike-during-the-morning-rush-hour-to-protest-a-new-set-of-city-regulations-that-took-ef.md)
 _Context: Chicago, Taxicab, rush hour_

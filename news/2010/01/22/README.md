@@ -10,7 +10,7 @@ Ten rhino horns, with an estimated value of €500,000, have been seized by Cust
 _Context: China, Sino-American relations, U.S., blocks mentions_
 
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
-_Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
+_Context: Alan Johnson, British, Home Secretary, Joint Terrorism Analysis Centre, terror threat level_
 
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
 _Context: Guantanamo Bay Detention Camp, U.S., United States Justice Department, detainees, detention camps, task force_

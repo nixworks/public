@@ -40,7 +40,7 @@ The UVA frat that was a subject of a sensational article in Rolling Stone about 
 The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Court battle.
 
 ### [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md)
-_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Spanish, Spanish Prime Minister, secede_
+_Context: Catalonia, Constitutional Court of Spain, Mariano Rajoy, Parliament of Catalonia, Spain, Spanish Prime Minister, secede_
 
 ### [Myanmar's ruling Union Solidarity and Development Party (USDP) concedes defeat in Sunday's first free nationwide election in a quarter of a century. Aung San Suu Kyi's National League for Democracy (NLD), which has won 49 of the first 54 declared seats for the 330-seat lower house, appears headed for a landslide victory that would ensure it forms the next government. ](/news/2015/11/9/myanmar-s-ruling-union-solidarity-and-development-party-usdp-concedes-defeat-in-sunday-s-first-free-nationwide-election-in-a-quarter-of-a.md)
 _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, Union Solidarity and Development Party_

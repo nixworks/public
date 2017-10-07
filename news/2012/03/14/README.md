@@ -10,10 +10,10 @@ _Context: Defense Secretary, Kandahar massacre, Leon Panetta_
 _Context: Peruvian, Puerto Maldonado, gold miner_
 
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Chelmsford, Perth, St Asaph, United Kingdom, city status, diamond jubilee_
+_Context: British, Chelmsford, Perth, St Asaph, city status, diamond jubilee_
 
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
-_Context: United Kingdom_
+_Context: British_
 
 ### [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md)
 _Context: Pilbara, Severe Tropical Cyclone Lua, Western Australia_

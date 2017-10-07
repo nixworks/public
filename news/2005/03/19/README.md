@@ -4,7 +4,7 @@
 _Context: Japan, Japan's Meteorological Agency, Kyushu, magnitude, tsunami_
 
 ### [ One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. ](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.md)
-_Context: Doha, Qatar, United Kingdom_
+_Context: British, Doha, Qatar_
 
 ### [ Pakistan successfully test-fires a long-range nuclear-capable ballistic missile, Shaheen-II, the latest in a series of tests. Shaheen-II can travel up to 2,000 km and carry all kinds of warheads. ](/news/2005/03/19/pakistan-successfully-test-fires-a-long-range-nuclear-capable-ballistic-missile-shaheen-ii-the-latest-in-a-series-of-tests-shaheen-ii-ca.md)
 _Context: Pakistan, Shaheen-II, ballistic missile_

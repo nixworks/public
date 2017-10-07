@@ -7,7 +7,7 @@ Ontario announced Thursday it will follow the U.S. lead and extend daylight time
 _Context: 2005 Kashmir earthquake, United Nations_
 
 ### [ In the United Kingdom, David Cameron and David Davis go through to a runoff vote of Conservative Party members after a second round of voting amongst Tory MPs in the party's leadership election. Liam Fox is eliminated. ](/news/2005/10/20/in-the-united-kingdom-david-cameron-and-david-davis-go-through-to-a-runoff-vote-of-conservative-party-members-after-a-second-round-of-voti.md)
-_Context: Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, United Kingdom, leadership election_
+_Context: British, Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, leadership election_
 
 ### [ Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md)
 _Context: Baghdad, Iraq, Iraqi insurgency, U.S. soldiers_

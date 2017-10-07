@@ -13,7 +13,7 @@ _Context: Iran, nuclear program_
 _Context: Cairo, Egypt_
 
 ### [Florence Green, the last known veteran from World War I, dies at the age of 110 in the United Kingdom. ](/news/2012/02/4/florence-green-the-last-known-veteran-from-world-war-i-dies-at-the-age-of-110-in-the-united-kingdom.md)
-_Context: First World War, Florence Green, United Kingdom_
+_Context: British, First World War, Florence Green_
 
 ### [Tens of thousands of people are stranded by floods in the Australian states of New South Wales and Queensland. ](/news/2012/02/4/tens-of-thousands-of-people-are-stranded-by-floods-in-the-australian-states-of-new-south-wales-and-queensland.md)
 _Context: Australia, New South Wales, Queensland_

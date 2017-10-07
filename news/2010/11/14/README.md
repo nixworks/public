@@ -44,7 +44,7 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 _Context: Darfur conflict, South Sudan, Southern Sudanese Independence Referendum, UNAMID_
 
 ### [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md)
-_Context: Morocco, Spanish, Western Sahara_
+_Context: Morocco, Spain, Western Sahara_
 
 ### [The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. ](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.md)
 _Context: Ethiopians of Jewish descent, Israeli cabinet_

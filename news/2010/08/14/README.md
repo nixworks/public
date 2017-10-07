@@ -67,7 +67,7 @@ _Context: ASEAN, Fiji, Melanesian Spearhead Group, Pacific Islands Forum, Timor-
 British and Japanese ultranationalists will shrug off protests from war veterans in an unlikely show of solidarity at a controversial Tokyo memorial today, on the 65th anniversary of Japan&#039;s surrender in the Second World War.
 
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spanish, Tokyo, extradited_
+_Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
 _Context: Louis Berger Group, U.S., U.S. Agency for International Development, foreign aid, prosecutor_

@@ -28,7 +28,7 @@ _Context: Patriarch Kirill, Russian, Ukraine_
 French President Nicolas Sarkozy has left hospital after tests confirmed that his collapse was unrelated to any heart problem.
 
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
-_Context: Alicante, Germany, Spanish, Ulla Schmidt, health minister_
+_Context: Alicante, Germany, Spain, Ulla Schmidt, health minister_
 
 ### [ A Saudi man facing flogging or imprisonment for speaking of his illegal sexual conquests on television apologises for his actions. ](/news/2009/07/27/a-saudi-man-facing-flogging-or-imprisonment-for-speaking-of-his-illegal-sexual-conquests-on-television-apologises-for-his-actions.md)
 _Context: sexual intercourse_
@@ -40,7 +40,7 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 _Context: barcode, bokode_
 
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
+_Context: Afghanistan, British, Helmand Province, Operation Panther's Claw, Taliban_
 
 ### [ Albanian Prime Minister Sali Berisha's alliance wins enough seats to form a government, though it fell one seat short of a majority. ](/news/2009/07/27/albanian-prime-minister-sali-berisha-s-alliance-wins-enough-seats-to-form-a-government-though-it-fell-one-seat-short-of-a-majority.md)
 _Context: Albania, Prime Minister, Sali Berisha_

@@ -22,7 +22,7 @@ A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minis
 _Context: Prime Minister of Ukraine, September 30, Ukraine, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
 
 ### [ Spanish voters go to the polls in local and regional elections. ](/news/2007/05/27/spanish-voters-go-to-the-polls-in-local-and-regional-elections.md)
-_Context: Spanish, local and regional elections_
+_Context: Spain, local and regional elections_
 
 ### [ Venezuelan TV station Radio Caracas Television is shut down by the Hugo Chvez administration. ](/news/2007/05/27/venezuelan-tv-station-radio-caracas-television-is-shut-down-by-the-hugo-chavez-administration.md)
 _Context: Hugo Chvez, RCTV, TV station, Venezuela_

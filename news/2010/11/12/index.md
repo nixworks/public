@@ -22,7 +22,7 @@ _Context: Amazon rainforest, Brazil, logging_
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: Pontin's, United Kingdom_
+_Context: British, Pontin's_
 
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
 President Barack Obama will nominate a state bank regulator to be director of the U.S. agency that oversees mortgage giants Fannie Mae FNMA.OB and Freddie Mac FMCC.OB, the White House said on Friday.

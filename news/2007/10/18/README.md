@@ -4,7 +4,7 @@
 _Context: $, Iraq, Turkey_
 
 ### [ The BBC announces 1,800 job cuts as part of restructuring to fill a GBP2 billion (US$4 bn) shortfall caused by lower than expected funding by the British government. ](/news/2007/10/18/the-bbc-announces-1-800-job-cuts-as-part-of-restructuring-to-fill-a-gbp2-billion-us-4-bn-shortfall-caused-by-lower-than-expected-funding.md)
-_Context: $, BBC, GBP, United Kingdom_
+_Context: $, BBC, British, GBP_
 
 ### [ At least four people are killed in three days of tribal warfare near the Grasberg mine in the Papua province of Indonesia. ](/news/2007/10/18/at-least-four-people-are-killed-in-three-days-of-tribal-warfare-near-the-grasberg-mine-in-the-papua-province-of-indonesia.md)
 _Context: Grasberg mine, Indonesia, Papua, tribal warfare_

@@ -19,5 +19,5 @@
 
 ### Changes:
 
-1. [ A Taliban suicide attack kills at least 11 people and injures 20 others in Jandola, Pakistan. ](/news/2009/03/26/a-taliban-suicide-attack-kills-at-least-11-people-and-injures-20-others-in-jandola-pakistan.md) _2017-10-05 03:28:21 (First version)_
+1. [ A Taliban suicide attack kills at least 11 people and injures 20 others in Jandola, Pakistan. ](/news/2009/03/26/a-taliban-suicide-attack-kills-at-least-11-people-and-injures-20-others-in-jandola-pakistan.md) _2017-10-06 03:28:10 (First version)_
 1. [ A car bomb kills at least 16 people and injures 35 others in Baghdad, Iraq. ](/news/2009/03/26/a-car-bomb-kills-at-least-16-people-and-injures-35-others-in-baghdad-iraq.md) _(Current version)_

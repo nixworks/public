@@ -7,7 +7,7 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 _Context: Leaving Certificate Examination, Republic of Ireland, State Examinations Commission, leaked_
 
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: Gordon Brown, Labour, MP, Parliament, Prime Minister, United Kingdom, e-mail_
+_Context: British, Gordon Brown, Labour, MP, Parliament, Prime Minister, e-mail_
 
 ### [ The remotely operated vehicle "Nereus" reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
 _Context: Challenger Deep, Mariana Trench, Nereus, Pacific Ocean, remotely operated vehicle_
@@ -34,7 +34,7 @@ _Context: Home, Marilynne Robinson, Orange Prize for Fiction, U.S., author, nove
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Maghreb, Muslims, Sahara, United Kingdom, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, British, Insurgency in the Maghreb (2002-present), Maghreb, Muslims, Sahara, al-Qaeda, hostage_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

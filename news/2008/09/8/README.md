@@ -22,7 +22,7 @@ _Context: Afghanistan, Azizabad, Herat Province, US military, civilian_
 _Context:  Russian President, Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian security forces, South Ossetia_
 
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
-_Context: 2006 transatlantic aircraft plot, United Kingdom, conspiracy, murder_
+_Context: 2006 transatlantic aircraft plot, British, conspiracy, murder_
 
 ## [Previous Day...](/news/2008/09/7/index.md)
 

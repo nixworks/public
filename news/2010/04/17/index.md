@@ -29,7 +29,7 @@ Internal memos show ex-CIA chief agreed with destruction of interrogation tapes.
 An earthquake that shook Adelaide rattled enough residents to flood emergency phone lines late at night.
 
 ### [An investigation is launched after a plane crashes into a field and bursts into flames in Weyhill, Andover, Hampshire, United Kingdom, killing at least two people. ](/news/2010/04/17/an-investigation-is-launched-after-a-plane-crashes-into-a-field-and-bursts-into-flames-in-weyhill-andover-hampshire-united-kingdom-killi.md)
-_Context: Andover, Hampshire, United Kingdom, Weyhill_
+_Context: Andover, Hampshire, British, Weyhill_
 
 ### [Toyota is to recall 600,000 Sienna minivans in the US over fears of corrosion. "In the worst case, the carrier cable may fail and the spare tyre could become separated from the vehicle" a statement from the company read. ](/news/2010/04/17/toyota-is-to-recall-600-000-sienna-minivans-in-the-us-over-fears-of-corrosion-in-the-worst-case-the-carrier-cable-may-fail-and-the-spare.md)
 _Context: Sienna, Toyota_

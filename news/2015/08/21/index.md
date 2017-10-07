@@ -13,7 +13,7 @@ Police investigate incident near Arras, France, in which three US citizens – t
 _Context: George Parker Bidder III, Germany, message in a bottle_
 
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove, from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-imp.md)
-_Context: Google, Information Commissioner's Office, Right to be forgotten (RTBF), United Kingdom_
+_Context: British, Google, Information Commissioner's Office, Right to be forgotten (RTBF)_
 
 ### [The Dow Jones Industrial Average drops and closes down 530.94 points, or 3.12 percent, with the NASDAQ and S&P 500 also down more than 3%. ](/news/2015/08/21/the-dow-jones-industrial-average-drops-and-closes-down-530-94-points-or-3-12-percent-with-the-nasdaq-and-s-p-500-also-down-more-than-3.md)
 Fears of a China-led global economic slowdown drove Wall Street to its steepest one-day drop in nearly four years on Friday and left the Dow industrials more than 10 percent below a May record.

@@ -25,7 +25,7 @@ Ikea confirms its has withdrawn nearly 18,000 of its elk meat lasagne dishes fro
 Egyptian security officials say five people have been killed in clashes between Muslims and Christians just outside Cairo.
 
 ### [A 24-year-old British tourist is found dead in a houseboat in Jammu and Kashmir, India. ](/news/2013/04/6/a-24-year-old-british-tourist-is-found-dead-in-a-houseboat-in-jammu-and-kashmir-india.md)
-_Context: India, Jammu and Kashmir, United Kingdom, houseboat_
+_Context: British, India, Jammu and Kashmir, houseboat_
 
 ### [Former South African president Nelson Mandela is discharged after spending nine days in hospital. ](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.md)
 Former president Nelson Mandela has been discharged after spending nine days in hospital for treatment for pneumonia, the presidency says. 
@@ -37,7 +37,7 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 Tammam Salam was officially named the new prime minister of Lebanon on Saturday after receiving a string of endorsements from the country’s warring factions over the past few days.
 
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders, his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spanish_
+_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain_
 
 ## [Previous Day...](/news/2013/04/5/index.md)
 

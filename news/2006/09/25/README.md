@@ -10,7 +10,7 @@ _Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, Secretary of State, United States government, War in Afghanistan (2001-present), War in Iraq_
 
 ### [ Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-faruq-during-a-gunfight-in-basra-iraq.md)
-_Context: Basra, British military personnel, Iraq, Omar al-Faruq, United Kingdom, al-Qaeda, insurgents_
+_Context: Basra, British, British military personnel, Iraq, Omar al-Faruq, al-Qaeda, insurgents_
 
 ### [ The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. ](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.md)
 _Context: Comair Flight 5191, co-pilot_

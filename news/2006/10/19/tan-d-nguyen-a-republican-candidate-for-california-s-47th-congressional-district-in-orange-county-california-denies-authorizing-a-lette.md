@@ -16,7 +16,7 @@
 2. [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md) _Context: California, Orange County_
 3. [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md) _Context: California, state government_
 4. [ California will lay off 20,000 government workers, due to the State Legislature's failure to pass a budget. ](/news/2009/02/17/california-will-lay-off-20-000-government-workers-due-to-the-state-legislature-s-failure-to-pass-a-budget.md) _Context: California, state government_
-5. [Governor Jerry Brown signs legislation to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-by-preventing-police-from-inquiring-about-immigration-status-an.md) _Context: California_
+5. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
 
 ### Changes:
 

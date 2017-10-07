@@ -32,7 +32,7 @@ Hurricane Felix killed at least 38 people on Nicaragua&#039;s Caribbean coast an
 _Context: Electricity, Lighting Africa, World Bank, sub-Saharan Africa_
 
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
+_Context: British, Human Fertilisation and Embryology Authority, animal, embryo, human, hybrid_
 
 ### [ Norman Hsu, controversial fund-raiser for the U.S. Democratic Party, skips a bail hearing, prompting a new warrant for his arrest. ](/news/2007/09/5/norman-hsu-controversial-fund-raiser-for-the-u-s-democratic-party-skips-a-bail-hearing-prompting-a-new-warrant-for-his-arrest.md)
 The event unfolded like the judicial equivalent of a bride left at the altar.The mysterious political donor and fundraiser Norman Hsu was scheduled to appear in San Mateo County Superior Court on...

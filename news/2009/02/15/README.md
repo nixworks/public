@@ -1,7 +1,7 @@
 ## [2009-02-15](/news/2009/02/15/index.md)
 
 ### [ The United Kingdom confirms the first case of a person contracting Creutzfeldt-Jakob disease after receiving contaminated blood plasma. ](/news/2009/02/15/the-united-kingdom-confirms-the-first-case-of-a-person-contracting-creutzfeldt-jakob-disease-after-receiving-contaminated-blood-plasma.md)
-_Context: Creutzfeldt-Jakob disease, United Kingdom, blood plasma, blood transfusion, contaminated, infection_
+_Context: British, Creutzfeldt-Jakob disease, blood plasma, blood transfusion, contaminated, infection_
 
 ### [ At least 15 people are killed and seven injured in a hostel fire in Molodyozhny, Astrakhan, Russia. ](/news/2009/02/15/at-least-15-people-are-killed-and-seven-injured-in-a-hostel-fire-in-molodyozhny-astrakhan-russia.md)
 At least 15 people died and seven were injured when a three-storey wooden hostel erupted in flames in southern Russia, local emergency officials say.

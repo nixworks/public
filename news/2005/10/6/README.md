@@ -19,7 +19,7 @@ _Context: CNN, Hurricane Katrina, Louisiana, Louisiana Superdome, National Guard
 _Context: Conflict in Iraq, Jalal Talabani, Tony Blair_
 
 ### [ The European Court of Human Rights rules the United Kingdom's ban on voting rights for prisoners is unlawful. ](/news/2005/10/6/the-european-court-of-human-rights-rules-the-united-kingdom-s-ban-on-voting-rights-for-prisoners-is-unlawful.md)
-_Context: European Court of Human Rights, United Kingdom_
+_Context: British, European Court of Human Rights_
 
 ### [ Properties in Manchester, England are searched by the Assets Recovery Agency during on-going investigations into the business activities of men alleged to have links with the Irish Republican Army. ](/news/2005/10/6/properties-in-manchester-england-are-searched-by-the-assets-recovery-agency-during-on-going-investigations-into-the-business-activities-of.md)
 _Context: Assets Recovery Agency, England, Irish Republican Army, Manchester_

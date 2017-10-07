@@ -82,7 +82,7 @@ _Context: Ebrahim Hamidi, Iran, Mohammad Mostafaei, Sakineh Mohammadi Ashtiani, 
 Iranian lawyer Mohammad Mostafaei, who has been defending a woman facing death by stoning in Iran, arrives in Norway to seek asylum.
 
 ### [Saudi Arabia delays shutting off Research in Motion's BlackBerry instant messaging system allowing for test of a system allowing the Government of Saudi Arabia to monitor user data. ](/news/2010/08/8/saudi-arabia-delays-shutting-off-research-in-motion-s-blackberry-instant-messaging-system-allowing-for-test-of-a-system-allowing-the-governm.md)
-_Context: BlackBerry, Research in Motion, Saudi Arabia, government, instant messaging_
+_Context: BlackBerry, Instant Messenger, Research in Motion, Saudi Arabia, government_
 
 ### [Elena Kagan is sworn in as the fourth woman to sit on the Supreme Court of the United States. ](/news/2010/08/8/elena-kagan-is-sworn-in-as-the-fourth-woman-to-sit-on-the-supreme-court-of-the-united-states.md)
 Elena Kagan becomes the third woman among the current nine justices, continuing a generational and demographic transformation of the court.

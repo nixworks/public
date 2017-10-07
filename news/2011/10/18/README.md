@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Homs, Syria_
 Kenyan troops with aerial support continuing their advance into Somalia, as a suspected suicide car bomb kills at least three civilians in Mogadishu.
 
 ### [Moody's downgrades Spain's credit rating to A1 after Standard & Poor's and Fitch downgraded Spain's rating two weeks ago. ](/news/2011/10/18/moody-s-downgrades-spain-s-credit-rating-to-a1-after-standard-poor-s-and-fitch-downgraded-spain-s-rating-two-weeks-ago.md)
-_Context: Fitch, Moody's, Spanish, Standard & Poor's, credit rating_
+_Context: Fitch, Moody's, Spain, Standard & Poor's, credit rating_
 
 ### [Year-over-year GDP growth in the People's Republic of China slows to 9.1% for the third quarter of 2011, following government efforts to curb inflation. ](/news/2011/10/18/year-over-year-gdp-growth-in-the-people-s-republic-of-china-slows-to-9-1-for-the-third-quarter-of-2011-following-government-efforts-to-cur.md)
 CHINA said today its economy grew at a slower pace in the third quarter as government efforts to tame inflation and turbulence in Europe and the United States curbed business activity.
@@ -34,7 +34,7 @@ _Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli A
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.
 
 ### [About 400,000 illegal immigrants were deported from the United States in the 2011 fiscal year, the most deportations ever in United States history, according to a report released by U.S. Immigration and Customs Enforcement. ](/news/2011/10/18/about-400-000-illegal-immigrants-were-deported-from-the-united-states-in-the-2011-fiscal-year-the-most-deportations-ever-in-united-states-h.md)
-_Context: U.S. Immigration and Customs Enforcement, United States history, deportees, fiscal year, illegal immigrants_
+_Context: U.S. immigration officers, United States history, deportees, fiscal year, illegal immigrants_
 
 ### [The World Health Organisation reports that global malaria deaths have fallen by over 20% since 2001, claiming that over 30 countries are on course to eradicate the mosquito-borne disease by 2020. ](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.md)
 There has been a fall of just over 20% in the number of deaths from malaria worldwide in the past decade, the World Health Organization says.

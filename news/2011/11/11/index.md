@@ -7,7 +7,7 @@ Activists say more than 250 Syrians have been killed so far this month as the po
 Assailant armed with explosives had taken control of ferry carrying 20 people; all passengers rescued after 12 hour siege; PKK suspected.
 
 ### [First-person shooter video game "Modern Warfare 3", published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kingd.md)
-_Context: Activision, First-person shooter, Modern Warfare 3, North America, United Kingdom_
+_Context: Activision, British, First-person shooter, Modern Warfare 3, North America_
 
 ### [Action-adventure video game "The Elder Scrolls V: Skyrim" by Bethesda was first released for the PlayStation 3, Xbox 360, and PC.](/news/2011/11/11/action-adventure-video-game-the-elder-scrolls-v-skyrim-by-bethesda-was-first-released-for-the-playstation-3-xbox-360-and-pc.md)
 _Context: Action-adventure, The Elder Scrolls V: Skyrim_

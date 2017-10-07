@@ -67,7 +67,7 @@ _Context: Defense Minister, Ehud Barak, Iran, Israel, Turkey, ambassador, foreig
 _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
-_Context: Asif Ali Zardari, David Cameron, United Kingdom, president_
+_Context: Asif Ali Zardari, British, David Cameron, president_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
 _Context: EU, Germany, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, funeral_

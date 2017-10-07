@@ -22,7 +22,7 @@ _Context: Albay, Mayon Volcano, Philippines, lava_
 A Canadian doctor who treated top athletes reportedly gave them performance-enhancing drugs.
 
 ### [ Israel condemns the issuing of a war crimes arrest warrant in the United Kingdom for former Foreign Minister Tzipi Livni. ](/news/2009/12/15/israel-condemns-the-issuing-of-a-war-crimes-arrest-warrant-in-the-united-kingdom-for-former-foreign-minister-tzipi-livni.md)
-_Context: Foreign Minister, Israel, Tzipi Livni, United Kingdom, war crimes_
+_Context: British, Foreign Minister, Israel, Tzipi Livni, war crimes_
 
 ## [Previous Day...](/news/2009/12/14/index.md)
 

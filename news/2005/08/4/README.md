@@ -7,7 +7,7 @@ _Context: Ayman al-Zawahri, Foreign Policy, July 2005 London bombings, Tony Blai
 _Context: Betar Illit, Bethlehem, Israel, Israeli settlement, West Bank_
 
 ### [ In the UK, the Bank of England's Monetary Policy Committee has cut its interest rate by a quarter percent to 4.5% ](/news/2005/08/4/in-the-uk-the-bank-of-england-s-monetary-policy-committee-has-cut-its-interest-rate-by-a-quarter-percent-to-4-5.md)
-_Context: Monetary Policy Committee, United Kingdom_
+_Context: British, Monetary Policy Committee_
 
 ### [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief, as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-th.md)
 _Context: Ely Ould Mohamed Vall, Mauritanian_

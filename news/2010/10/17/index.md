@@ -70,7 +70,7 @@ _Context: Afghanistan, Hossein Zolfaqari, Iran_
 _Context: Rome_
 
 ### [The U.K. government urges councils to stop giving charity tax breaks to Scientology, an organization described as a cult by a high court judge. ](/news/2010/10/17/the-u-k-government-urges-councils-to-stop-giving-charity-tax-breaks-to-scientology-an-organization-described-as-a-cult-by-a-high-court-jud.md)
-_Context: Scientology, United Kingdom, cult_
+_Context: British, Scientology, cult_
 
 ### [Olive Lembe di Sita, the First Lady of the Democratic Republic of the Congo, leads a march of thousands of women against sexual violence in the town of Bukavu in the east of the country where hundreds of women have been raped. ](/news/2010/10/17/olive-lembe-di-sita-the-first-lady-of-the-democratic-republic-of-the-congo-leads-a-march-of-thousands-of-women-against-sexual-violence-in.md)
 _Context: Bukavu, Democratic Republic of the Congo, First Lady, Olive Lembe di Sita, sexual violence_

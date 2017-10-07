@@ -7,7 +7,7 @@ _Context: Hans Morten Hansen, Norwegian, stand-up comedian_
 Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said they are &quot;shocked and saddened&quot; by the news that&hellip;
 
 ### [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. [http:--www.nme.com-news-ou-est-le-swimming-pool-52576 "(NME)"]](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md)
-_Context: Belgium, Ou Est Le Swimming Pool, Pukkelpop, United Kingdom, synthpop_
+_Context: Belgium, British, Ou Est Le Swimming Pool, Pukkelpop, synthpop_
 
 ### [Novelist A. S. Byatt and critic John Carey win the James Tait Black Memorial Prizes, Britain's oldest literary awards. ](/news/2010/08/20/novelist-a-s-byatt-and-critic-john-carey-win-the-james-tait-black-memorial-prizes-britain-s-oldest-literary-awards.md)
 _Context: A. S. Byatt, James Tait Black Memorial Prize, John Carey_

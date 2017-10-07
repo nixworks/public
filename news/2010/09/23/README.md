@@ -31,7 +31,7 @@ France wants to contact the al-Qaeda group which abducted five of its citizens i
 _Context: IAEA, Iran_
 
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgium, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spanish, Swedish, U.S., United Kingdom, United Nations General Assembly, Uruguay_
+_Context: 9/11 attacks, Australia, Belgium, British, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spain, Swedish, U.S., United Nations General Assembly, Uruguay_
 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
 _Context: Barack Obama, Premier of the People's Republic of China, U.S. President, Wen Jiabao, yuan_

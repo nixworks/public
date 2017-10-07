@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, George T. Alexander, Jr., Military of the United Sta
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The first case of avian influenza (bird flu) has been discovered in the United Kingdom from a South American parrot. Tests are being carried out on the parrot, which died in quarantine, to determine whether it had the H5N1 strain of the virus. ](/news/2005/10/22/the-first-case-of-avian-influenza-bird-flu-has-been-discovered-in-the-united-kingdom-from-a-south-american-parrot-tests-are-being-carrie.md)
-_Context: Avian flu virus, United Kingdom, bird flu, quarantine_
+_Context: Avian flu virus, British, bird flu, quarantine_
 
 ### [ The Lozells riots in Birmingham begin, leaving according to the most recent reports at least two dead. ](/news/2005/10/22/the-lozells-riots-in-birmingham-begin-leaving-according-to-the-most-recent-reports-at-least-two-dead.md)
 ### [ Reporter Rory Caroll prints his kidnap story in "[http:--www.guardian.co.uk-rorycarroll-story-0,16647,1598082,00.html The Guardian]".](/news/2005/10/22/reporter-rory-caroll-prints-his-kidnap-story-in-http-www-guardian-co-uk-rorycarroll-story-0-16647-1598082-00-html-the-guardian.md)

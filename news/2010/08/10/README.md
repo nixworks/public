@@ -16,7 +16,7 @@ A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian c
 _Context: Foreign Minister, Hassan Nasrallah, Hezbollah, Israel, Lebanese Prime Minister, Lebanon, Rafic Hariri_
 
 ### [A much-publicised project backed by Spain's government sells just 16 of the 2,000 electric cars it had intended so far in 2010. ](/news/2010/08/10/a-much-publicised-project-backed-by-spain-s-government-sells-just-16-of-the-2-000-electric-cars-it-had-intended-so-far-in-2010.md)
-_Context: Spanish_
+_Context: Spain_
 
 ### [The Niger River bursts its banks forcing 5,000 people to lose their homes and crops. ](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.md)
 _Context: Niger River_

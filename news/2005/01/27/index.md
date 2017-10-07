@@ -1,7 +1,7 @@
 ## [2005-01-27](/news/2005/01/27/index.md)
 
 ### [ President of the Royal Society warns of oil companies' funding of lobbies in the UK to cast skepticism over the debate on climate change. ](/news/2005/01/27/president-of-the-royal-society-warns-of-oil-companies-funding-of-lobbies-in-the-uk-to-cast-skepticism-over-the-debate-on-climate-change.md)
-_Context: Royal Society, United Kingdom, climate change, lobbying, oil companies_
+_Context: British, Royal Society, climate change, lobbying, oil companies_
 
 ### [ Conflict in Darfur: Around 100 people have been killed following an Air Raid into the Darfur region of Sudan according to the African Union. Jean Baptiste Natama, the A.U's spokesperson has described it as a "major ceasefire violation". ](/news/2005/01/27/conflict-in-darfur-around-100-people-have-been-killed-following-an-air-raid-into-the-darfur-region-of-sudan-according-to-the-african-union.md)
 _Context: African Union, Darfur, airstrike, killed in fighting_

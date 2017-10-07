@@ -64,7 +64,7 @@ _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
 Protesters clashed with the police on Friday night after a white former transit police officer was given a two-year sentence for the killing an unarmed black man.
 
 ### [Protests against the visit of Pope Benedict XVI to Spain take place. ](/news/2010/11/5/protests-against-the-visit-of-pope-benedict-xvi-to-spain-take-place.md)
-_Context: Pope Benedict XVI, Spanish_
+_Context: Pope Benedict XVI, Spain_
 
 ### [A specially convened Election court in the United Kingdom orders a re-run of the 2010 general election campaign in Oldham East and Saddleworth, the constituency of ex-immigration minster Phil Woolas, after he is found guilty of making false statements against an opponent during the original campaign. ](/news/2010/11/5/a-specially-convened-election-court-in-the-united-kingdom-orders-a-re-run-of-the-2010-general-election-campaign-in-oldham-east-and-saddlewor.md)
 Shadow immigration minister Phil Woolas vows to fight a decision to declare his 2010 election victory void.

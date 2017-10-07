@@ -49,7 +49,7 @@ _Context: Luxembourg, Treaty of Lisbon_
 _Context:  reconstruction, Iraq, Stockholm, U.N. conference on Iraq, debt forgiveness_
 
 ### [ Torrential rain causes flash flooding across half of Somerset, United Kingdom. ](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-half-of-somerset-united-kingdom.md)
-_Context: Flash flooding, Somerset, United Kingdom_
+_Context: British, Flash flooding, Somerset_
 
 ## [Previous Day...](/news/2008/05/28/index.md)
 

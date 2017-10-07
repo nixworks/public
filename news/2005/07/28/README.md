@@ -11,7 +11,7 @@ _Context: train_
 The IRA has ended its armed campaign and has ordered all its units to dump arms. 
 
 ### [ The strongest tornado in Britain in 25 years, rating a 2 on the Fujita scale, hits Birmingham, damaging homes and injuring 20 people. ](/news/2005/07/28/the-strongest-tornado-in-britain-in-25-years-rating-a-2-on-the-fujita-scale-hits-birmingham-damaging-homes-and-injuring-20-people.md)
-_Context: Birmingham, Fujita scale, United Kingdom, tornado_
+_Context: Birmingham, British, Fujita scale, tornado_
 
 ### [ The Islamic Human Rights Commission has released a statement which claims that the number of attacks on South Asians in the UK has risen 13 fold since the July 2005 London bombings. ](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.md)
 _Context: Islamic Human Rights Commission, July 2005 London bombings_

@@ -13,7 +13,7 @@ _Context: Belfast, Police Service of Northern Ireland, Romanians_
 More cases of swine flu emerged today, with Ethiopia and Slovenia confirming their first infections.
 
 ### [ Scotland Yard investigates the expenses of five Labour MPs in Britain. ](/news/2009/06/19/scotland-yard-investigates-the-expenses-of-five-labour-mps-in-britain.md)
-_Context: Scotland Yard, United Kingdom_
+_Context: British, Scotland Yard_
 
 ### [ Gambian opposition leader and journalist for the "Foroyaa" newspaper, Halifa Sallah, is arrested.](/news/2009/06/19/gambian-opposition-leader-and-journalist-for-the-foroyaa-newspaper-halifa-sallah-is-arrested.md)
 _Context: Foroyaa, Halifa Sallah, the Gambia_
@@ -43,7 +43,7 @@ _Context: Ahmad Mukhtar, Defence Minister, Pakistan, Swat Valley, War in North-W
 _Context: Movement for the Emancipation of the Niger Delta, Niger Delta, Nigeria_
 
 ### [ Henry Allingham, 113, one of the UK's last two World War I veterans, becomes the world's oldest man following the death of Tomoji Tanabe. ](/news/2009/06/19/henry-allingham-113-one-of-the-uk-s-last-two-world-war-i-veterans-becomes-the-world-s-oldest-man-following-the-death-of-tomoji-tanabe.md)
-_Context: First World War, Henry Allingham, Tomoji Tanabe, United Kingdom_
+_Context: British, First World War, Henry Allingham, Tomoji Tanabe_
 
 ### [ The head of the U.S. Securities and Exchange Commission, Mary Schapiro, said in an interview that it should not be necessary for the SEC and the Commodity Futures Trading Commission to align all their rules and regulation, although she does expect some harmonization. ](/news/2009/06/19/the-head-of-the-u-s-securities-and-exchange-commission-mary-schapiro-said-in-an-interview-that-it-should-not-be-necessary-for-the-sec-an.md)
 _Context: CFTC, Mary Schapiro, Securities and Exchange Commission_

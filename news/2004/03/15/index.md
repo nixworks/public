@@ -10,7 +10,7 @@ _Context: Pavlo Lazarenko, San Francisco, Ukraine, money laundering_
 _Context: Hardy Myers, Multnomah County, Oregon, gay, marriage license, same-sex marriage, same-sex marriage_
 
 ### [ Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. ](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.md)
-_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister, Spanish, U.N., elected_
+_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister, Spain, U.N., elected_
 
 ### [ Astronomers announce the discovery of 90377 Sedna, a Pluto-like planetoid which is the most distant individual object known to orbit the Sun. ](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.md)
 _Context: 90377 Sedna, Pluto, Sun, planetoid_
