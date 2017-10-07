@@ -1,10 +1,10 @@
 ## [News](/news/2017/10/7/index.md)
 
-### [Google gets go-ahead to restore cell phone service in Puerto Rico with its balloons. ](/news/2017/10/7/google-gets-go-ahead-to-restore-cell-phone-service-in-puerto-rico-with-its-balloons.md)
+### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
 ### [Multiple people injured in a road traffic incident on Exhibition Road, London. ](/news/2017/10/7/multiple-people-injured-in-a-road-traffic-incident-on-exhibition-road-london.md)
-_Context: Exhibition Road, London, October 2017 London attack_
+_Context: Exhibition Road, London, South Kensington crash_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -72,8 +72,8 @@ A security guard sets fire to a childcare centre, killing four children and a te
 ### [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was allegedly through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md)
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 
-### [The Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-protect-transgender-employees-from-d.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, discrimination, executive order, policy, transgender_
+### [The Department of Justice reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-protect-transgender-employees-from-di.md)
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama-era policy, Title VII of the Civil Rights Act, discrimination, transgender_
 
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.

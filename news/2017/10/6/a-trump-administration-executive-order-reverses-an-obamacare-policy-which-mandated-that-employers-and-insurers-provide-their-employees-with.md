@@ -12,11 +12,11 @@ The new rule could strip birth control coverage from millions of women, demolish
 
 ### Related:
 
-1. [The Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-protect-transgender-employees-from-d.md) _Context: executive order_
-2. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: Trump administration_
-3. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: Obamacare_
-4. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Obamacare_
-5. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: Obamacare_
+1. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: Trump administration_
+2. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: Obamacare_
+3. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Obamacare_
+4. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: Obamacare_
+5. [A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. ](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.md) _Context: Obamacare_
 
 ### Changes:
 
