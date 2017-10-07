@@ -1,6 +1,6 @@
 ### [2017-10-7](/news/2017/10/7/index.md)
 
-# Multiple people injured in a Road Traffic Incident on Exhibition Road, London. 
+# Multiple people injured in a road traffic incident on Exhibition Road, London. 
 
 
 
