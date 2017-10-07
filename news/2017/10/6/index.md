@@ -3,7 +3,7 @@
 ### [Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-were-crossing-the-euphrates-river-near-the-isil-held-city-o.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
-### [AIM's owner, Oath Inc., announced that it would discontinue AIM as a service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announced-that-it-would-discontinue-aim-as-a-service-on-december-15-2017.md)
+### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
 It&#39;s the end of an era. Once a staple, the messaging app will be discontinued in just a few short months.
 
 ### [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md)
