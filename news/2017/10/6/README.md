@@ -1,7 +1,10 @@
 ## [2017-10-6](/news/2017/10/6/index.md)
 
-### [Russian airstrikes kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-were-crossing-the-euphrates-river-near-the-isil-held-city-o.md)
+### [According to the Syrian Observatory for Human Rights, Russian airstrikes allegedly kill at least 14 civilians, including three children, as they were crossing the Euphrates river near the ISIL-held city of Mayadin in eastern Syria. The civilians were fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-allegedly-kill-at-least-14-civilians-including-three-children-as.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
+
+### [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by "the New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic donation receivers give their previous political funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md)
+Roy and Jill Serjeant
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
 It&#39;s the end of an era. Once a staple, the messaging app will be discontinued in just a few short months.
@@ -15,11 +18,20 @@ About 55 bus passengers were reported to be sleeping on board when it stalled on
 ### [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md)
 An Indian airforce helicopter crashed in a remote mountain region near the border with China on Friday, killing all seven personnel on board, officials said.
 
+### [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md)
+_Context: 2017 Atlantic hurricane season, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate, United States_
+
+### [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md)
+A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.
+
 ### [The Nobel Committee awards the global civil society coalition of The International Campaign to Abolish Nuclear Weapons the Nobel Peace Prize "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons". ](/news/2017/10/6/the-nobel-committee-awards-the-global-civil-society-coalition-of-the-international-campaign-to-abolish-nuclear-weapons-the-nobel-peace-prize.md)
 The Nobel committee says &quot;the risk of nuclear weapons is greater than it has been for a long time&quot;.
 
 ### [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md)
 White House tech support discovered the suspected breach after Kelly turned his phone in to tech support staff this summer.
+
+### [A Trump administration executive order reverses an Obama-era policy and allows employers and insurers to decline to provide birth control if doing so violates their "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obama-era-policy-and-allows-employers-and-insurers-to-decline-to-provide-birth-control-if.md)
+The new rule could strip birth control coverage from millions of women, demolishing an Obama provision.
 
 ## [Previous Day...](/news/2017/10/5/index.md)
 
