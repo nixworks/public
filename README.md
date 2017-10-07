@@ -4,7 +4,7 @@
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
 ### [Multiple people injured in a road traffic incident on Exhibition Road, London. ](/news/2017/10/7/multiple-people-injured-in-a-road-traffic-incident-on-exhibition-road-london.md)
-_Context: Exhibition Road, London_
+_Context: Exhibition Road, London, October 2017 London attack_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
