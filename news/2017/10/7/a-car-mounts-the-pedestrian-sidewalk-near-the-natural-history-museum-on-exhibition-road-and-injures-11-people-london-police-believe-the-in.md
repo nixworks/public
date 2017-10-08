@@ -1,6 +1,6 @@
 ### [2017-10-7](/news/2017/10/7/index.md)
 
-# A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver. 
+# A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. 
 
 
 
@@ -22,4 +22,4 @@
 ### Changes:
 
 1. [A car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They detain, but, do not, as of yet, arrest the driver. ](/news/2017/10/7/a-car-jumps-onto-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-th.md) _2017-10-08 10:30:07 (First version)_
-1. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _(Current version)_
+1. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _(Current version)_

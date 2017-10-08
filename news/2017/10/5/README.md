@@ -4,7 +4,7 @@
 If confirmed, capture would mean only area of Iraq that remains under Islamic State control is stretch along Syrian border
 
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
-_Context: British, Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature_
+_Context: British, Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize laurete_
 
 ### [Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. ](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.md)
 The firm says &quot;changed circumstances&quot; led to the decision to abandon the controversial projects.
@@ -21,8 +21,8 @@ A security guard sets fire to a childcare centre, killing four children and a te
 ### [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was speculated to have possibly been through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md)
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 
-### [The Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-protect-transgender-employees-from-d.md)
-_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, discrimination, executive order, policy, transgender_
+### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
+_Context: Department of Justice, LGBT employment discrimination in the United States, Obama, Title VII of the Civil Rights Act, Trump administration, discrimination, executive order, policy, transgender_
 
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.

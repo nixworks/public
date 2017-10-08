@@ -1,10 +1,10 @@
 ## [News](/news/2017/10/8/index.md)
 
-### [350,000 people including Mario Vargas Llosa attend a rally in Barcelona opposing Catalan independence. ([http:--www.bbc.co.uk-news-world-europe-41544849 BBC])](/news/2017/10/8/350-000-people-including-mario-vargas-llosa-attend-a-rally-in-barcelona-opposing-catalan-independence-http-www-bbc-co-uk-news-world-eur.md)
-_Context: Barcelona, Catalan independence, Mario Vargas Llosa_
-
 ### [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md)
-_Context: Turkey, U.S Mission_
+_Context: Turkey, Turkey-United States relations, U.S Mission, visa_
+
+### [Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. ([http:--www.bbc.co.uk-news-world-europe-41544849 BBC])](/news/2017/10/8/peruvian-nobel-prize-laurete-writer-mario-vargas-llosa-joins-350-000-people-in-attending-a-rally-in-barcelona-opposing-catalan-independence.md)
+_Context: 2017 Spanish constitutional crisis, Barcelona, Catalan independence, Mario Vargas Llosa, Nobel Prize laurete, Peruvian_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,11 +23,14 @@ Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Bilo
 ### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
-### [An explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, kills at least seven people and injures 68 more. ](/news/2017/10/7/an-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra-kills-at-least-seven-people-and-injures-68-more.md)
+### [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were...
 
-### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
+### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
 _Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
+
+### [Thousands of protesters throughout Russia call on President Vladimir Putin to resign. Russian police arrest 290 protesters. ](/news/2017/10/7/thousands-of-protesters-throughout-russia-call-on-president-vladimir-putin-to-resign-russian-police-arrest-290-protesters.md)
+Police detained more than 200 opposition activists on Saturday for taking part in a wave of anti-Kremlin protests across Russia in support of jailed opposition leader Alexei Navalny, ahead of a presidential election in March, a monitoring group reported.
 
 ---
 
