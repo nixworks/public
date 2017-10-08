@@ -1,6 +1,6 @@
 ### [2017-10-5](/news/2017/10/5/index.md)
 
-# Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was allegedly through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. 
+# Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was speculated to have possibly been through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. 
 
 Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, the Wall Street Journal reported on Thursday, citing unnamed sources.
 

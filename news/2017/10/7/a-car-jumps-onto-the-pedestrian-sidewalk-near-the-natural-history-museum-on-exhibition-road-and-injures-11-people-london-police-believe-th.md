@@ -1,6 +1,6 @@
 ### [2017-10-7](/news/2017/10/7/index.md)
 
-# A car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They detain, but do not as of yet, arrest the driver. 
+# A car jumps onto the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They detain, but, do not, as of yet, arrest the driver. 
 
 
 
