@@ -17,7 +17,7 @@
 2. [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md) _Context: Gulf Coast, Texas_
 3. [ Hurricane Ike makes landfall in the United States at Galveston, Texas, as a Category 2 hurricane. ](/news/2008/09/13/hurricane-ike-makes-landfall-in-the-united-states-at-galveston-texas-as-a-category-2-hurricane.md) _Context: Galveston, Texas, Texas_
 4. [ Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. ](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.md) _Context: Gulf Coast, Texas_
-5. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Texas_
+5. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Gulf Coast_
 
 ### Changes:
 

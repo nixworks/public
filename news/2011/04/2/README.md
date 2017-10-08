@@ -40,7 +40,7 @@ _Context: Arab Spring, North Korea, information technology_
 _Context: China_
 
 ### [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md)
-_Context: Ciudad Juarez, Mexico_
+_Context: Ciudad Juarez, Mexican_
 
 ### [A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. ](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nigeria-but-is-postponed-to-4-april-as-voting-materials-did-not-arrive-on-time.md)
 _Context: Nigeria, parliamentary elections_

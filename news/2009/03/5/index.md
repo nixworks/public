@@ -1,5 +1,8 @@
 ## [2009-03-5](/news/2009/03/5/index.md)
 
+### [ Michael Jackson announces "This Is It" shows in London](/news/2009/03/5/michael-jackson-announces-athis-is-ita-shows-in-london.md)
+_Context: London, Michael Jackson_
+
 ### [ General Motors acknowledges in its annual report that its survival is in "substantial doubt". ](/news/2009/03/5/general-motors-acknowledges-in-its-annual-report-that-its-survival-is-in-substantial-doubt.md)
 _Context: General Motors, annual report_
 
@@ -15,7 +18,7 @@ _Context: 2009, China, economic growth, output freeze_
 ### [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md)
 _Context: Israel, Israeli police, Jerusalem, Palestinian, bulldozer, militant, police car, terrorism_
 
-### [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-gbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
+### [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-agbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
 _Context: Bank of England, British, GBP, UK economy, quantitative easing_
 
 ### [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md)

@@ -28,7 +28,7 @@ By Madeleine Cowley LONDON (Reuters Life!) - Ancient Britons devoured their dead
 _Context: Axel A. Weber, Deutsche Bundesbank, Jens Weidmann_
 
 ### [Borders Group, the second largest bookstore chain in the United States, files for bankruptcy with plans to sell at least 200 stores. ](/news/2011/02/16/borders-group-the-second-largest-bookstore-chain-in-the-united-states-files-for-bankruptcy-with-plans-to-sell-at-least-200-stores.md)
-_Context: Borders Group, U.S., bankruptcy_
+_Context: American, Borders Group, bankruptcy_
 
 ### [The Northern Territory Emergency Service in the north of Australia warns residents in low-lying coastal areas including in the capital Darwin ahead of Tropical Cyclone Carlos. ](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.md)
 _Context: Australia, Darwin, Northern Territory, Tropical Cyclone Carlos_

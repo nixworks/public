@@ -28,10 +28,10 @@ _Context: Tropical Storm Ketsana_
 _Context: England, Nestle Canada Inc., President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
 
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
-_Context: General, International Security Assistance Force, Stanley McChrystal, U.S., War in Afghanistan_
+_Context: American, General, International Security Assistance Force, Stanley McChrystal, War in Afghanistan_
 
 ### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
-_Context: Family Guy, Legality of cannabis, U.S., Venezuela, an episode, marijuana_
+_Context: American, Family Guy, Legality of cannabis, Venezuela, an episode, marijuana_
 
 ### [ Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. ](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.md)
 Iranian media say the Islamic Republic has tested short-range missiles and plans..

@@ -13,11 +13,11 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ### Related:
 
-1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, U.S._
-2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, U.S._
-3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, U.S._
-4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, U.S._
-5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: U.S._
+1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: American, Shiite_
+2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: American, Shiite_
+3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: American, Shiite_
+4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: American, Shiite_
+5. [After allegations that he raped a woman on his tour bus, authorities arrest American rap musician Nelly (Cornell Iral Haynes Jr.) in Auburn, Washington, a suburb of Seattle. ](/news/2017/10/7/after-allegations-that-he-raped-a-woman-on-his-tour-bus-authorities-arrest-american-rap-musician-nelly-cornell-iral-haynes-jr-in-auburn.md) _Context: American_
 
 ### Changes:
 

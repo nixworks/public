@@ -22,7 +22,7 @@ Two British hostages held in Iraq since 2007 are feared dead after two bodies we
 Two teenagers have been charged in connection with racist attacks on Romanian families in Belfast.
 
 ### [ "New York Times" reporter David S. Rohde, kidnapped by the Taliban seven months ago, escapes. ](/news/2009/06/20/new-york-times-reporter-david-s-rohde-kidnapped-by-the-taliban-seven-months-ago-escapes.md)
-_Context: David S. Rohde, Taliban, The New York Times_
+_Context: David S. Rohde, Taliban, the New York Times_
 
 ### [ Indian troops enter Lalgarh, a Maoist stronghold in West Bengal, claiming a partial victory. ](/news/2009/06/20/indian-troops-enter-lalgarh-a-maoist-stronghold-in-west-bengal-claiming-a-partial-victory.md)
 Security forces enter Lalgarh region of West Bengal under rebel control.

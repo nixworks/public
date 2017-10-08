@@ -4,7 +4,7 @@
 _Context: Ahmet Necdet Sezer, Prime Minister, Recep Tayyip Erdogan, Turkish President, general elections, ruling party_
 
 ### [ Mexico and Brazil sign an agreement on developing technology for oil and natural gas exploration and exploitation involving co-operation between Pemex and Petrobras. ](/news/2007/08/6/mexico-and-brazil-sign-an-agreement-on-developing-technology-for-oil-and-natural-gas-exploration-and-exploitation-involving-co-operation-be.md)
-_Context: Brazil, Mexico, PEMEX, Petrobras, natural gas, oil_
+_Context: Brazil, Mexican, PEMEX, Petrobras, natural gas, oil_
 
 ### [ The Lebanese government claim that the police have killed Abu Hureira, the second in command of Fatah al-Islam. ](/news/2007/08/6/the-lebanese-government-claim-that-the-police-have-killed-abu-hureira-the-second-in-command-of-fatah-al-islam.md)
 _Context: Abu Hureira, Fatah al-Islam, Lebanon_

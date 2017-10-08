@@ -13,7 +13,7 @@ Tens of thousands take to the streets of Brussels and other European cities in a
 The US House of Representatives passes a bill aimed at increasing pressure on China over the value of its currency, the yuan.
 
 ### [The 2010 Oaxaca landslide in the Mexican state of Oaxaca is less deadly than initially feared, with eleven people missing. ](/news/2010/09/29/the-2010-oaxaca-landslide-in-the-mexican-state-of-oaxaca-is-less-deadly-than-initially-feared-with-eleven-people-missing.md)
-_Context: 2010 Oaxaca landslide, Mexico, Oaxaca_
+_Context: 2010 Oaxaca landslide, Mexican, Oaxaca_
 
 ### [Another landslide in the Mexican state of Chipas kills 16 people and leaves four missing. ](/news/2010/09/29/another-landslide-in-the-mexican-state-of-chipas-kills-16-people-and-leaves-four-missing.md)
 _Context: Chipas_

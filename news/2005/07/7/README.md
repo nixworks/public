@@ -28,7 +28,7 @@ _Context: Turkey, freight, land mine, train_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Mexico, the city of Nuevo Laredo chooses Omar Pimentel as the new chief of police. When gangsters assassinated the previous chief a month ago, Mexican federal police occupied the city and arrested the whole police force for investigation. ](/news/2005/07/7/in-mexico-the-city-of-nuevo-laredo-chooses-omar-pimentel-as-the-new-chief-of-police-when-gangsters-assassinated-the-previous-chief-a-mont.md)
-_Context: Mexico, Nuevo Laredo, Omar Pimentel_
+_Context: Mexican, Nuevo Laredo, Omar Pimentel_
 
 ## [Previous Day...](/news/2005/07/6/index.md)
 

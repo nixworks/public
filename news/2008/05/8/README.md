@@ -4,7 +4,7 @@
 _Context: 7 August, Congress of Bolivia, Evo Morales, President of Bolivia, Vote of confidence referendum_
 
 ### [ Commissioner dgar Eusebio Milln Gmez of Mexico's Federal Preventive Police is shot dead in central Mexico City. ](/news/2008/05/8/commissioner-edgar-eusebio-millan-gomez-of-mexico-s-federal-preventive-police-is-shot-dead-in-central-mexico-city.md)
-_Context: Federal Preventive Police, Mexico, Mexico City, dgar Eusebio Milln Gmez_
+_Context: Federal Preventive Police, Mexican, Mexico City, dgar Eusebio Milln Gmez_
 
 ### [ The United States House of Representatives approves legislation developed by Barney Frank to let the United States government insure up to $300 billion in mortgages to help homeowners avert foreclosure. ](/news/2008/05/8/the-united-states-house-of-representatives-approves-legislation-developed-by-barney-frank-to-let-the-united-states-government-insure-up-to.md)
 _Context: $, Barney Frank, United States House of Representatives, United States government, foreclose, insure, mortgages_
@@ -13,10 +13,10 @@ _Context: $, Barney Frank, United States House of Representatives, United States
 _Context: Abu Ayyub al-Masri, Iraq, Iraqi Defense Minister, al-Qaeda in Iraq_
 
 ### [ North Korea hands over thousands of pages about its nuclear program to a visiting diplomat from the United States that will help verify its plutonium holdings. ](/news/2008/05/8/north-korea-hands-over-thousands-of-pages-about-its-nuclear-program-to-a-visiting-diplomat-from-the-united-states-that-will-help-verify-its.md)
-_Context: North Korea, U.S., diplomat, nuclear program, plutonium_
+_Context: American, North Korea, diplomat, nuclear program, plutonium_
 
 ### [ Russia expels two United States military attachs following earlier expulsion of two Russian diplomats from the United States. ](/news/2008/05/8/russia-expels-two-united-states-military-attaches-following-earlier-expulsion-of-two-russian-diplomats-from-the-united-states.md)
-_Context: Russia, U.S., military attach_
+_Context: American, Russia, military attach_
 
 ### [ Latvia and Lithuania become the latest EU member states to ratify the Treaty of Lisbon. ](/news/2008/05/8/latvia-and-lithuania-become-the-latest-eu-member-states-to-ratify-the-treaty-of-lisbon.md)
 Lithuania&#39;s parliament has ratified the European Union&#39;s Lisbon Treaty.

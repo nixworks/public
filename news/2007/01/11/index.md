@@ -28,7 +28,7 @@ _Context: Canada, Canadian coin, U.S. Defense Department, U.S. military, radio t
 _Context: Adam Air, Flight 574_
 
 ### [ January 2007 North American Ice Storm hits parts of North America including United States and Canada, causing 74 deaths across 12 U.S. states and three Canadian provinces, and caused hundreds of thousands of residents across the U.S and Canada to lose electric power. ](/news/2007/01/11/january-2007-north-american-ice-storm-hits-parts-of-north-america-including-united-states-and-canada-causing-74-deaths-across-12-u-s-stat.md)
-_Context: Canada, January 2007 North American Ice Storm, North America, U.S._
+_Context: American, Canada, January 2007 North American Ice Storm, North America_
 
 ## [Previous Day...](/news/2007/01/10/index.md)
 

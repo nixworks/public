@@ -7,7 +7,7 @@ _Context: Iran, Royal Marine, Royal Navy, United Nations Security Council, held 
 _Context: Defense Secretary, Guantanamo Bay Detention Camp, Robert Gates_
 
 ### [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md)
-_Context: Colorado, Oklahoma!, Texas, U.S., tornado_
+_Context: American, Colorado, Oklahoma!, Texas, tornado_
 
 ### [ King Abdullah of Saudi Arabia describes U.S. presence in Iraq as an "illegal occupation." ](/news/2007/03/29/king-abdullah-of-saudi-arabia-describes-u-s-presence-in-iraq-as-an-illegal-occupation.md)
 _Context: Abdullah, Saudi Arabia, U.S. presence in Iraq, occupied_
@@ -19,7 +19,7 @@ _Context: $, George W. Bush, United States House of Representatives, United Stat
 _Context:  Insurgency in Somalia, Mogadishu, bomb, helicopter, insurgency_
 
 ### [ Beef from the United States goes on sale in Japan as a ban imposed due to mad cow disease in the U.S. is lifted. ](/news/2007/03/29/beef-from-the-united-states-goes-on-sale-in-japan-as-a-ban-imposed-due-to-mad-cow-disease-in-the-u-s-is-lifted.md)
-_Context: Japan, U.S., beef, mad cow disease_
+_Context: American, Japan, beef, mad cow disease_
 
 ### [ Sri Lankan Civil War: The Sri Lanka Navy intercepts 10 Tamil Tiger boats sinking three of them with 16 people estimated to be dead. ](/news/2007/03/29/sri-lankan-civil-war-the-sri-lanka-navy-intercepts-10-tamil-tiger-boats-sinking-three-of-them-with-16-people-estimated-to-be-dead.md)
 _Context: Sri Lanka Navy, Sri Lankan Civil War, Tamil Tiger, boat_

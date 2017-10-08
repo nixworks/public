@@ -16,7 +16,7 @@ Police in the Gulf state of Bahrain claim self-defence after a youth of 16 is ki
 Philippine Interior Secretary Jesse Robredo is missing after a light aircraft he was travelling in crashed into the sea, officials say.
 
 ### [Tropical Storm Helene approaches Mexico. ](/news/2012/08/18/tropical-storm-helene-approaches-mexico.md)
-_Context: Mexico, Tropical Storm Leslie_
+_Context: Mexican, Tropical Storm Leslie_
 
 ### [The Reserve Bank of India acknowledges poor data for the current monsoon season. ](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.md)
 _Context: Reserve Bank of India, monsoon_

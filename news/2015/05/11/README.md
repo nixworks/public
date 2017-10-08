@@ -22,10 +22,10 @@ Fifteen people died and 20 others were injured, six of them critically, when a b
 _Context: Japan, Philippines, Typhoon Noul_
 
 ### [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md)
-_Context: May 5-10, 2015 tornado outbreak sequence, U.S._
+_Context: American, May 5-10, 2015 tornado outbreak sequence_
 
 ### [A new strain of bird flu caused by the H5N8 virus is identified in a backyard poultry flock in Whitley County, Indiana, in the United States. ](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.md)
-_Context: Avian flu virus, H5N8, U.S., Whitley County, Indiana, poultry_
+_Context: American, Avian flu virus, H5N8, Whitley County, Indiana, poultry_
 
 ### [Malaysia detains over a thousand Bangladeshi and Rohingya people asylum seekers who arrived by boat on Monday. The Indonesian Navy confirms that it had turned the boats away. ](/news/2015/05/11/malaysia-detains-over-a-thousand-bangladeshi-and-rohingya-people-asylum-seekers-who-arrived-by-boat-on-monday-the-indonesian-navy-confirms.md)
 _Context: Bangladesh, Indonesian Navy, Malaysia, Rohingya people_

@@ -13,7 +13,7 @@ Government forces retreat as the district headquarters fall to militants after a
 _Context: 2017 Antwerp attack, Antwerp, Belgium, France_
 
 ### [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md)
-_Context: Fort Collins, Colorado, U.S._
+_Context: American, Fort Collins, Colorado_
 
 ### [A series of explosions on a military base near the Ukrainian city of Balakliya forces thousands to be evacuated from their homes. ](/news/2017/03/23/a-series-of-explosions-on-a-military-base-near-the-ukrainian-city-of-balakliya-forces-thousands-to-be-evacuated-from-their-homes.md)
 The dump is used to supply the military in the east and officials say the blasts were sabotage.
@@ -22,7 +22,7 @@ The dump is used to supply the military in the east and officials say the blasts
 The Sewol sank on 16 April 2014 killing 304 people, almost all school children on a trip.
 
 ### [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md)
-_Context: American Health Care Act of 2017, Patient Protection and Affordable Care Act, United States House of Representatives_
+_Context: American Health Care Act of 2017, Obamacare, United States House of Representatives_
 
 ### [The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. ](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.md)
 Birdwatchers ‘elated’ after snapping photo of the endangered species in state’s arid interior in discovery that could significantly impact on mining developments

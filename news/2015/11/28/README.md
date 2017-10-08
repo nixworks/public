@@ -16,7 +16,7 @@ Prime minister gambles on opposition support as Labour split deepens and Jeremy 
 Tests in Egypt were carried out after British archaeologist suggested Queen Nefertiti&#039;s tomb might be in an adjoining chamber.
 
 ### [A slow moving wintry storm system is responsible for more than a dozen deaths in the U.S. states of Texas, Oklahoma and Kansas. ](/news/2015/11/28/a-slow-moving-wintry-storm-system-is-responsible-for-more-than-a-dozen-deaths-in-the-u-s-states-of-texas-oklahoma-and-kansas.md)
-_Context: Kansas, Oklahoma!, Texas, U.S._
+_Context: American, Kansas, Oklahoma!, Texas_
 
 ### [A day after Turkey's president Recep Tayyip Erdogan had harsh words for Russia, Turkish Prime Minister Ahmet Davutoglu, in an essay in the London "Times", says the downing of the Russian jet, "was not -- and is not -- an act against a specific country. ... While the measures to defend our territory will remain in place, Turkey will work with Russia and our allies to calm tensions." ](/news/2015/11/28/a-day-after-turkey-s-president-recep-tayyip-erdoaan-had-harsh-words-for-russia-turkish-prime-minister-ahmet-davutoalu-in-an-essay-in-the.md)
 The downing of an unidentified jet in Turkish airspace was not — and is not — an act against a specific country. Turkey took action, based on standing rules of engagement, to protect the integrity...

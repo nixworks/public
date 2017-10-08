@@ -19,5 +19,5 @@
 
 ### Changes:
 
-1. [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md) _2017-10-06 03:23:22 (First version)_
+1. [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md) _2017-10-07 03:23:22 (First version)_
 1. [ East Timorese voters go to the polls to elect a new Parliament of East Timor. ](/news/2007/06/30/east-timorese-voters-go-to-the-polls-to-elect-a-new-parliament-of-east-timor.md) _(Current version)_

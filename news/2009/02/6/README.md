@@ -22,7 +22,7 @@ _Context: Ban Ki-moon, Iraq, Iraq Prime Minister, Nouri al-Maliki, Secretary Gen
 _Context: LTTE, Sri Lanka, Sri Lankan Civil War, government_
 
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: Afghanistan, Russia, Russian Government, U.S., United States military personnel, nonlethal equipment_
+_Context: Afghanistan, American, Russia, Russian Government, United States military personnel, nonlethal equipment_
 
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
 _Context: Egypt, MV, Somali pirates, Somalian, ransom_

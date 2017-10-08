@@ -13,7 +13,7 @@ _Context: Bahrain, Bani Jamra_
 Decrying U.S. allegations that it was behind a cyberattack on Sony Pictures as an “unfounded rumor,” North Korea on Saturday proposed a “joint investigation” into the hacking that prompted the studio to cancel the theatrical release of the comedy “The Interview,” which centers on a plot ...
 
 ### [Turkey issues an arrest warrant for Fethullah Gulen, who currently lives in self-imposed exile in the United States. ](/news/2014/12/20/turkey-issues-an-arrest-warrant-for-fethullah-ga1-4len-who-currently-lives-in-self-imposed-exile-in-the-united-states.md)
-_Context: Fethullah Gulen, Turkey, U.S._
+_Context: American, Fethullah Gulen, Turkey_
 
 ### [Queensland police arrest an Australian mother for murder in the stabbing deaths of eight children. ](/news/2014/12/20/queensland-police-arrest-an-australian-mother-for-murder-in-the-stabbing-deaths-of-eight-children.md)
 An Australian mother was arrested for murder in the stabbing deaths of eight children, seven of whom were believed to be hers, police said Saturday. 

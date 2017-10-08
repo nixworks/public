@@ -25,7 +25,7 @@ _Context: Aung San Suu Kyi, Barack Obama, Bill Clinton, Bill Gates, Foreign Poli
 The remains of Palestinian leader Yasser Arafat are exhumed in Ramallah so experts can investigate allegations that he was poisoned.
 
 ### [Mexican beauty queen Maria Susana Flores Gamez, crowned as 2012 Woman of Sinaloa, is killed during a weekend shootout in Sinaloa, Mexico. ](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.md)
-_Context: Mexican, Mexico, Sinaloa, beauty queen_
+_Context: Mexican, Mexican, Sinaloa, beauty queen_
 
 ### [Tens of thousands of protestors demonstrate in Tahrir Square in Cairo against Egyptian President Mohamed Morsi for last week's decree granting himself sweeping powers. ](/news/2012/11/27/tens-of-thousands-of-protestors-demonstrate-in-tahrir-square-in-cairo-against-egyptian-president-mohamed-morsi-for-last-week-s-decree-granti.md)
 Tens of thousands of Egyptians take part in a rally in Cairo against President Mohammed Mursi, who last week granted himself sweeping new powers.

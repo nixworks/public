@@ -28,10 +28,10 @@ _Context: Abubacarr Tambadou, President, Yahya Jammeh, the Gambia_
 _Context: Germain Katanga, International Criminal Court, warlord_
 
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: Donald Trump, Keystone XL, U.S._
+_Context: American, Donald Trump, Keystone XL_
 
 ### [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md)
-_Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Patient Protection and Affordable Care Act_
+_Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Obamacare_
 
 ### [Gilmar Pisas is sworn in as Prime Minister of Curacao. ](/news/2017/03/24/gilmar-pisas-is-sworn-in-as-prime-minister-of-curaassao.md)
 WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The party of the convicted former Prime Minister Gerrit Schotte returns to power thanks to the appointment of his party colleague as head of the interim government. According to Schotte, Pisas’ appointment is just temporari...

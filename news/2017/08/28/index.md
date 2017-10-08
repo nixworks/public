@@ -19,7 +19,7 @@ Niels Högel was convicted of killing two patients. An investigation has found a
 A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
 
 ### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
-_Context: Crime in Mexico, Mexico, Puebla, Tlatlauquitepec_
+_Context: Crime in Mexico, Mexican, Puebla, Tlatlauquitepec_
 
 ## [Previous Day...](/news/2017/08/27/index.md)
 

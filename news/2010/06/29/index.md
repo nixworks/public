@@ -49,7 +49,7 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 _Context: Romania, major floods_
 
 ### [Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. ](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.md)
-_Context: 2010 Atlantic hurricane season, Baffin Bay, Hurricane Alex, Mexico, Texas, hurricane_
+_Context: 2010 Atlantic hurricane season, Baffin Bay, Hurricane Alex, Mexican, Texas, hurricane_
 
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)
 Tamil Nadu has recorded 21 cases of A (H1N1) flu, including four in Chennai and its suburbs, since May.

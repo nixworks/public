@@ -7,10 +7,10 @@ _Context: England, London, Tower Bridge, elevator_
 _Context: China, H1N1, confirms its first case, swine flu_
 
 ### [ An Iranian appellate court releases imprisoned American journalist Roxana Saberi. ](/news/2009/05/11/an-iranian-appellate-court-releases-imprisoned-american-journalist-roxana-saberi.md)
-_Context: Iran, Roxana Saberi, U.S., appeals court, journalism, prison_
+_Context: American, Iran, Roxana Saberi, appeals court, journalism, prison_
 
 ### [ A United States Army soldier kills five comrades at Camp Liberty in Baghdad, Iraq. ](/news/2009/05/11/a-united-states-army-soldier-kills-five-comrades-at-camp-liberty-in-baghdad-iraq.md)
-_Context: Baghdad, Camp Liberty, Iraq, U.S., U.S. soldiers, comrade, kills, soldier_
+_Context: American, Baghdad, Camp Liberty, Iraq, U.S. soldiers, comrade, kills, soldier_
 
 ### [ A gunman kills two people and commits suicide near Oslo, Norway. ](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.md)
 _Context: Norway, Oslo, kills, suicide_

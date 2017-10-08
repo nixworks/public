@@ -4,7 +4,7 @@
 _Context: Ipil, Palid, Philippines, Southern Philippines, Zamboanga Sibugay_
 
 ### [South Korea and the United States cancel a joint naval drill against North Korea in the Yellow Sea, citing its previous anti-submarine training -- held from Sept. 27 to Oct. 1 -- and a desire "not to irritate neighboring countries" ahead of the upcoming 2010 G-20 Seoul summit. ](/news/2010/10/24/south-korea-and-the-united-states-cancel-a-joint-naval-drill-against-north-korea-in-the-yellow-sea-citing-its-previous-anti-submarine-train.md)
-_Context: 2010 G-20 Seoul summit, North Korea, South Korea, U.S., Yellow Sea_
+_Context: 2010 G-20 Seoul summit, American, North Korea, South Korea, Yellow Sea_
 
 ### [Despite the law enforcement agencies being on alert in Karachi city of Pakistan, four more people are killed in the Agra Taj Colony, Kausar Niazi Colony. ](/news/2010/10/24/despite-the-law-enforcement-agencies-being-on-alert-in-karachi-city-of-pakistan-four-more-people-are-killed-in-the-agra-taj-colony-kausar.md)
 _Context: Agra Taj Colony, Karachi, Kausar Niazi Colony_
@@ -101,7 +101,7 @@ _Context: 2008-2009 Gaza War, Israel_
 Actor Randy Quaid and his wife Evi seek asylum in Canada, claiming they are being persecuted in the US and their lives are danger.
 
 ### [Mexican gunmen burst into a drug rehabilitation centre in eastern Tijuana, killing thirteen people. ](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.md)
-_Context: Mexico, Tijuana, drug rehabilitation_
+_Context: Mexican, Tijuana, drug rehabilitation_
 
 ### [David Cameron bans Sayeeda Warsi, Baroness Warsi, Britain's first female Muslim cabinet minister, from attending Global Peace and Unity, Europe's largest multicultural gathering. Nick Clegg takes the side of Baroness Warsi. ](/news/2010/10/24/david-cameron-bans-sayeeda-warsi-baroness-warsi-britain-s-first-female-muslim-cabinet-minister-from-attending-global-peace-and-unity-eur.md)
 _Context: David Cameron, Global Peace and Unity, Nick Clegg, Sayeeda Warsi, Baroness Warsi_

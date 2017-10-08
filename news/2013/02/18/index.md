@@ -19,7 +19,7 @@ _Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spain, beef, hor
 Armed robbers disguised as police escape with a massive haul of diamonds after a rapid raid at Brussels Airport, Belgian police say.
 
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, Missouri, U.S., murder-suicide_
+_Context: American, Fairdealing, Missouri, murder-suicide_
 
 ### [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md)
 Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes cast, in a poll criticised for lack of competition.

@@ -13,7 +13,7 @@ _Context: Abu Sayeeda, Baqubah, Diyala Governorate, Iraq, Shi'ite, mosque_
 Houthi rebels clash with government-allied tribesmen in north of country.
 
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, U.S., the sea_
+_Context: American, North Korea, the sea_
 
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
 _Context: Kabardino-Balkaria, Russia, hydroelectric_
@@ -88,10 +88,10 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacific_
 
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
-_Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', Secretary of State, South Korean Navy, U.S., sanctions, sinking_
+_Context: American, Hillary Clinton, North Korea, ROKS ''Cheonan'', Secretary of State, South Korean Navy, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
+_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexican, Panama, Senegal, Turkey, Uruguay, immigration law_
 
 ### [An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. ](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.md)
 Man sentenced to 18 months in prison after telling an Israeli woman he was Jewish.
@@ -124,7 +124,7 @@ David Cameron is criticised after saying the UK was the &quot;junior partner&quo
 PNG Prime Minister Michael Somare threatened to kill an opposition member after his government thwarted a vote of no confidence by a prolonged adjournment.
 
 ### [The White House holds an official review after an employee of the United States Department of Agriculture was forced to resign regarding controversy about a video that surfaced on the Internet. [http:--www.cnn.com-2010-POLITICS-07-21-agriculture.employee.usda-index.html?hpt=C2 (CNN)] [http:--www.guardian.co.uk-world-2010-jul-21-white-house-shirley-sherrod ("The Guardian")] [http:--www.bbc.co.uk-news-world-us-canada-10716237 (BBC News)] [http:--www.nytimes.com-2010-07-22-us-politics-22sherrod.html?_r=1 ("The New York Times)"]](/news/2010/07/21/the-white-house-holds-an-official-review-after-an-employee-of-the-united-states-department-of-agriculture-was-forced-to-resign-regarding-con.md)
-_Context: Internet, U.S., United States Department of Agriculture, White House, forced to resign_
+_Context: American, Internet, United States Department of Agriculture, White House, forced to resign_
 
 ### [President of the United States Barack Obama signs finance reforms into law, overhauling the country's Wall Street Financial District. ](/news/2010/07/21/president-of-the-united-states-barack-obama-signs-finance-reforms-into-law-overhauling-the-country-s-wall-street-financial-district.md)
 US president says act will create the strongest financial protections for US consumers.

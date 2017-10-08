@@ -4,7 +4,7 @@
 Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday near the heavily fortified Green Zone, where several Western embassies are located, police and medics said.
 
 ### [Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/gunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege-that-the-victims.md)
-_Context: Cancun, Mexico_
+_Context: Cancun, Mexican_
 
 ### [Former Khmer Rouge senior official and Foreign Minister of Kampuchea Ieng Sary dies during a genocide trial in Phnom Penh, Cambodia. ](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.md)
 _Context: Cambodia, Ieng Sary, Kampuchea, Khmer Rouge, Phnom Penh, genocide_

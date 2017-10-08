@@ -43,10 +43,10 @@ _Context: Gaza_
 _Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_
 
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: Barack Obama, U.S., U.S. President, Vice President, Xi Jinping_
+_Context: American, Barack Obama, U.S. President, Vice President, Xi Jinping_
 
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: Islamabad, Pakistan, Peshawar, U.S._
+_Context: American, Islamabad, Pakistan, Peshawar_
 
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
 _Context: Supreme Court, Venezuela, opposition_

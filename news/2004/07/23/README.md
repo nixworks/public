@@ -13,7 +13,7 @@ _Context: Cecilia Zhang, Toronto_
 _Context: Bosniaks, Croatian, Mostar_
 
 ### [ A special prosecutor files genocide charges against former President of Mexico Luis Echeverra for actions taken by the Mexican military during a student protest in 1971.](/news/2004/07/23/a-special-prosecutor-files-genocide-charges-against-former-president-of-mexico-luis-echeverria-for-actions-taken-by-the-mexican-military-du.md)
-_Context: Luis Echeverra, Mexico, President, genocide_
+_Context: Luis Echeverra, Mexican, President, genocide_
 
 ## [Previous Day...](/news/2004/07/22/index.md)
 

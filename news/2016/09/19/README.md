@@ -25,7 +25,7 @@ BIG SUR, Calif. (AP) — A wildfire burning for nearly two months on California&
 _Context: 2016 Southeast Asian haze, Asia, Indonesia, Indonesians, Malaysia, Singapore, forest fires_
 
 ### [Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. ](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.md)
-_Context: Mexico, Poza Rica, Veracruz_
+_Context: Mexican, Poza Rica, Veracruz_
 
 ### [Cambodian prime minister Hun Sen says that he will continue his campaign against protests from the Cambodian opposition while Kem Sokha of the Cambodian National Rescue Party vows to remain as their leader. ](/news/2016/09/19/cambodian-prime-minister-hun-sen-says-that-he-will-continue-his-campaign-against-protests-from-the-cambodian-opposition-while-kem-sokha-of-t.md)
 For the last four months, a few unusual items have been added to Kem Sokha&#039;s corner at party headquarters — a mattress instead of a desk and a treadmill for exercise.

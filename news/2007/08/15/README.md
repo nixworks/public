@@ -34,7 +34,7 @@ _Context: Japan, Palestinian National Authority, economic, humanitarian, interna
 Tropical Storm Erin, which formed in the western Gulf of Mexico early Wednesday, was moving in a northwesterly direction and expected to make landfall in the vicinity of the south Texas oil refining hub of Corpus Christi early Thursday, the U.S. National Hurricane Center said.
 
 ### [ Mexican authorities deport hundreds of illegal immigrants who got stuck on a closed GWI rail line in Chiapas. ](/news/2007/08/15/mexican-authorities-deport-hundreds-of-illegal-immigrants-who-got-stuck-on-a-closed-gwi-rail-line-in-chiapas.md)
-_Context: Chiapas, GWI, Mexico, illegal immigrants, rail line_
+_Context: Chiapas, GWI, Mexican, illegal immigrants, rail line_
 
 ### [ 2007 South Asian floods: A landslide hits the Dharla village in the Indian state of Himachal Pradesh, killing at least five people. Another 55 are missing. ](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.md)
 _Context: 2007 South Asian floods, Dharla, Himachal Pradesh, India, landslide_
@@ -46,7 +46,7 @@ _Context: Kenya, Nairobi_
 _Context: Alexander Downer, Australia, India, nuclear scientist, uranium_
 
 ### [ Richard Boucher, the U.S. Assistant Secretary of State, arrives in Pakistan to meet foreign minister Khurshid Mahmud Kasuri and President Pervez Musharraf. ](/news/2007/08/15/richard-boucher-the-u-s-assistant-secretary-of-state-arrives-in-pakistan-to-meet-foreign-minister-khurshid-mahmud-kasuri-and-president-p.md)
-_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S., U.S. Assistant Secretary of State_
+_Context: American, Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State_
 
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)
 _Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
@@ -91,7 +91,7 @@ Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated In
 _Context: Bangladesh, President, Sheikh Mujibur Rahman, assassinating, independence war_
 
 ### [ The United States declares Iran's Islamic Revolutionary Guard Corps a "specially designated global terrorist," paving the way for increased financial pressure on Iran and its assets abroad. ](/news/2007/08/15/the-united-states-declares-iran-s-islamic-revolutionary-guard-corps-a-specially-designated-global-terrorist-paving-the-way-for-increased.md)
-_Context: Iran, Islamic Revolutionary Guard Corps, U.S._
+_Context: American, Iran, Islamic Revolutionary Guard Corps_
 
 ## [Previous Day...](/news/2007/08/14/index.md)
 

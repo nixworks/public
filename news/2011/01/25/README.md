@@ -16,7 +16,7 @@ A Rwandan rebel leader is extradited from France to The Hague, as his group is a
 _Context: Germany, Somali pirates_
 
 ### [Gunmen open fire on a crowd at a soccer game in Ciudad Juarez, Mexico, killing seven people.](/news/2011/01/25/gunmen-open-fire-on-a-crowd-at-a-soccer-game-in-ciudad-juarez-mexico-killing-seven-people.md)
-_Context: Juarez, Mexico, soccer_
+_Context: Juarez, Mexican, soccer_
 
 ### [Insurgents kill nine civilians and injure two others in a bombing in southern Thailand. ](/news/2011/01/25/insurgents-kill-nine-civilians-and-injure-two-others-in-a-bombing-in-southern-thailand.md)
 _Context: South Thailand insurgency, Thailand_

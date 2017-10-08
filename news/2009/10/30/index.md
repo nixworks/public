@@ -13,7 +13,7 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 _Context: Ares I-X, Atlantic Ocean, NASA, parachute, splashdown_
 
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: Anna Nicole Smith, U.S., sex symbol_
+_Context: American, Anna Nicole Smith, sex symbol_
 
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
 _Context: African Union, Sudan, conflict_

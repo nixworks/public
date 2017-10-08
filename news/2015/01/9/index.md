@@ -31,7 +31,7 @@ Raif Badawi was sentenced to 10 years in prison and 1,000 lashes, the remainder 
 Shock as authoritarian president’s office reports that he has left official residence
 
 ### [Barack Obama proposes a new program to waive tuition at community colleges in the United States for the first two years. ](/news/2015/01/9/barack-obama-proposes-a-new-program-to-waive-tuition-at-community-colleges-in-the-united-states-for-the-first-two-years.md)
-_Context: Barack Obama, U.S., community college_
+_Context: American, Barack Obama, community college_
 
 ### [Stockholm University cuts its ties with the Confucius Institute citing concerns about foreign interference in academic freedom. ](/news/2015/01/9/stockholm-university-cuts-its-ties-with-the-confucius-institute-citing-concerns-about-foreign-interference-in-academic-freedom.md)
 _Context: Confucius Institute, Stockholm University_

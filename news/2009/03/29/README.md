@@ -16,7 +16,7 @@ _Context: France, Mayotte, overseas department, referendum_
 _Context: 2009, Australian Grand Prix, Brawn GP, Formula One, Jenson Button_
 
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: Carthage, North Carolina, U.S., kills, nursing home_
+_Context: American, Carthage, North Carolina, kills, nursing home_
 
 ### [ Oxford Boat Club defeats Cambridge Boat Club to win the 155th University Boat Race in London, England. ](/news/2009/03/29/oxford-boat-club-defeats-cambridge-boat-club-to-win-the-155th-university-boat-race-in-london-england.md)
 _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_

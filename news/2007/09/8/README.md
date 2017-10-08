@@ -25,7 +25,7 @@ _Context: Algeria, Algiers, Dellys_
 _Context: (Wikinews), Hindu, India, pilgrims_
 
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)
-_Context: Tropical Storm Gabrielle, U.S., tropical storm_
+_Context: American, Tropical Storm Gabrielle, tropical storm_
 
 ### [ The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-meet-in-tanzania-to-discuss.md)
 Rebel leader in the Democratic Republic of Congo, General Laurent Nkunda, has accused government troops of breaking a cease-fire in the east of the country.

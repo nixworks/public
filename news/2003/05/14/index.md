@@ -10,7 +10,7 @@ _Context: Caldera International, Caldera OpenLinux, Caldera Systems, Internation
 _Context: Argentina, Carlos Menem, Nstor Kirchner, Peronist_
 
 ### [ The bodies of 17 Hispanics, suspected Mexican illegal immigrants, were found by police in Victoria, Texas. One more person, a man, died in a hospital, raising the death total to 18. 13 of the bodies were found inside a locked truck, and four of them outside it. A man was later arrested in Houston on suspicion of being the smuggler who led the 18 persons to their deaths.](/news/2003/05/14/the-bodies-of-17-hispanics-suspected-mexican-illegal-immigrants-were-found-by-police-in-victoria-texas-one-more-person-a-man-died-in.md)
-_Context: Hispanic, Houston, Texas, Mexico, Victoria, Texas, illegal immigrant_
+_Context: Hispanic, Houston, Texas, Mexican, Victoria, Texas, illegal immigrant_
 
 ## [Previous Day...](/news/2003/05/13/index.md)
 

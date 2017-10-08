@@ -10,7 +10,7 @@ _Context: Alpha Conde's, Conakry, Guinea, President_
 _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
 
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)
-_Context: Afghanistan, American Refugee Committee, Pakistan, U.S._
+_Context: Afghanistan, American, American Refugee Committee, Pakistan_
 
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
 _Context: Ashdod, France, Gaza, Greek, Israeli Navy, blockade_
@@ -22,7 +22,7 @@ _Context: Kyrgyzstan, Uzbekistan, earthquake_
 _Context: 2011 Pacific typhoon season, Honshu Island, Japan, Typhoon Ma-on_
 
 ### [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
-_Context: Hurricane Jova, Mexico, hurricane_
+_Context: Hurricane Jova, Mexican, hurricane_
 
 ### [ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. ](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.md)
 Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a code of conduct for disputes in the South China Sea, as a regional summit in Bali gets under way.

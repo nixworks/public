@@ -13,8 +13,8 @@ Canadian-born newspaper tycoon Conrad Black is released from a US prison on $2m 
 
 ### Related:
 
-1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago, U.S._
-2. [Five adults and one child are found stabbed to death in the Chicago neighborhood of Gage Park in the U.S. ](/news/2016/02/4/five-adults-and-one-child-are-found-stabbed-to-death-in-the-chicago-neighborhood-of-gage-park-in-the-u-s.md) _Context: Chicago, U.S._
-3. [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md) _Context: Chicago, U.S._
-4. [Canadian business man Conrad Black is sentenced to another 13 months in jail in the United States for fraud. ](/news/2011/06/24/canadian-business-man-conrad-black-is-sentenced-to-another-13-months-in-jail-in-the-united-states-for-fraud.md) _Context: Conrad Black, U.S._
-5. [The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogues.md) _Context: Chicago, U.S._
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: American, Chicago_
+2. [Five adults and one child are found stabbed to death in the Chicago neighborhood of Gage Park in the U.S. ](/news/2016/02/4/five-adults-and-one-child-are-found-stabbed-to-death-in-the-chicago-neighborhood-of-gage-park-in-the-u-s.md) _Context: American, Chicago_
+3. [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md) _Context: American, Chicago_
+4. [Canadian business man Conrad Black is sentenced to another 13 months in jail in the United States for fraud. ](/news/2011/06/24/canadian-business-man-conrad-black-is-sentenced-to-another-13-months-in-jail-in-the-united-states-for-fraud.md) _Context: American, Conrad Black_
+5. [The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogues.md) _Context: American, Chicago_

@@ -11,11 +11,11 @@ One of the first men charged with piracy in the United States since the Civil Wa
 
 ### Related:
 
-1. [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md) _Context: Somali pirates, U.S._
-2. [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md) _Context: Somali pirates, U.S._
-3. [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md) _Context: Somali pirates, U.S._
-4. [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md) _Context: Somali pirates, U.S._
-5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: U.S._
+1. [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md) _Context: American, Somali pirates_
+2. [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md) _Context: American, Somali pirates_
+3. [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md) _Context: American, Somali pirates_
+4. [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md) _Context: American, Somali pirates_
+5. [After allegations that he raped a woman on his tour bus, authorities arrest American rap musician Nelly (Cornell Iral Haynes Jr.) in Auburn, Washington, a suburb of Seattle. ](/news/2017/10/7/after-allegations-that-he-raped-a-woman-on-his-tour-bus-authorities-arrest-american-rap-musician-nelly-cornell-iral-haynes-jr-in-auburn.md) _Context: American_
 
 ### Changes:
 

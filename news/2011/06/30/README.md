@@ -22,7 +22,7 @@ _Context: Amnesty International, China, Human rights_
 _Context: Al-Shamukh, jihad_
 
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
+_Context: American, Iraq, Iraq War, Iraqi insurgency_
 
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
@@ -49,7 +49,7 @@ _Context: Haiti that has killed thousands of people, United Nations, cholera_
 Imported fenugreek seedsfrom Egypt may be the source of highly toxic E. coli outbreaksin Germany and France that have killed at least 48 people,according to initial investigations by European scientists.
 
 ### [Tropical Storm Arlene, the first tropical storm of the 2011 Atlantic hurricane season, makes landfall near Cabo Rojo bringing heavy rain to Mexico and southern Texas. ](/news/2011/06/30/tropical-storm-arlene-the-first-tropical-storm-of-the-2011-atlantic-hurricane-season-makes-landfall-near-cabo-rojo-bringing-heavy-rain-to.md)
-_Context: Cabo Rojo, Hurricane Rina, Mexico, Texas, Tropical Storm Arlene, tropical storm_
+_Context: Cabo Rojo, Hurricane Rina, Mexican, Texas, Tropical Storm Arlene, tropical storm_
 
 ### [A 5.4 magnitude earthquake hits Nagano Prefecture in Japan, resulting in at least seven injuries. ](/news/2011/06/30/a-5-4-magnitude-earthquake-hits-nagano-prefecture-in-japan-resulting-in-at-least-seven-injuries.md)
 _Context: Japan, Nagano Prefecture_

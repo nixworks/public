@@ -1,7 +1,7 @@
 ## [2008-10-27](/news/2008/10/27/index.md)
 
 ### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents. ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
-_Context: Alaska, Ted Stevens, U.S., United States Senate_
+_Context: Alaska, American, Ted Stevens, United States Senate_
 
 ### [ The Washington, D.C. Metro announces it will randomly search "backpacks, gym bags and any other containers that riders carry with them onto the bus and rail system" during periods of increased threat. ](/news/2008/10/27/the-washington-d-c-metro-announces-it-will-randomly-search-backpacks-gym-bags-and-any-other-containers-that-riders-carry-with-them-onto.md)
 _Context: District of Columbia, Washington Metro_

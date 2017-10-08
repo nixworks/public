@@ -11,7 +11,7 @@ _Context: Brazilian Senate, Congress, Renan Calheiros_
 _Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu_
 
 ### [ 2007 Pacific hurricane season: Hurricane Henriette makes landfall near the port of Guaymas in the Mexican state of Sonora. ](/news/2007/09/5/2007-pacific-hurricane-season-hurricane-henriette-makes-landfall-near-the-port-of-guaymas-in-the-mexican-state-of-sonora.md)
-_Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
+_Context: 2007 Pacific hurricane season, Guaymas, Mexican, Mexican state, Sonora_
 
 ### [ The Prime Minister of the United Kingdom Gordon Brown launches the International Health Partnership consisting of the World Health Organisation, the World Bank, the Bill and Melinda Gates Foundation as well as the governments of the United Kingdom, Canada, France, Germany, Italy, the Netherlands, Norway and Portugal. ](/news/2007/09/5/the-prime-minister-of-the-united-kingdom-gordon-brown-launches-the-international-health-partnership-consisting-of-the-world-health-organisa.md)
 British Prime Minister Gordon Brown launched an international initiative, which aims to improve healthcare and sweep away killer diseases in some of the world&#039;s poorest countries.
@@ -20,7 +20,7 @@ British Prime Minister Gordon Brown launched an international initiative, which 
 _Context: 2008, Fred Thompson, Republican, United States Senate_
 
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, U.S., William Hoeveler, extradited_
+_Context: American, France, Manuel Noriega, Panama, William Hoeveler, extradited_
 
 ### [ Lawyers for U.S. Senator Larry Craig (R-ID) ask the Senate Select Committee on Ethics to reject a complaint following a guilty plea to disorderly conduct charges in Minneapolis. The Ethics Committee rejects his plea. ](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.md)
 Sen. Larry Craig has all but dropped any notion of trying to complete his term, and is focused on helping Idaho send a new senator to Washington within a few weeks, his top spokesman said Thursday
@@ -50,7 +50,7 @@ _Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfor
 _Context: Federal Court of Justice, Karlsruhe, terrorism_
 
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, U.S., War in Afghanistan (2001-present)_
+_Context: Afghanistan, American, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
 _Context: Gaza, Israel_

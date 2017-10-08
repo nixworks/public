@@ -31,7 +31,7 @@ _Context: Ankara, Istanbul, Pamukova, Sakarya Province, Turkey_
 _Context: Conservative Party's, Leader of the Opposition, Paul Martin, Prime Minister of Canada, Shadow Cabinet, Stephen Harper, reshuffle_
 
 ### [ Ignacio Carrill, the Special Prosecutor for Past Social and Political Movements in Mexico, presents the findings of the investigation into the "dirty war", where it classifies the killings by government forces as genocide, and requests warrants be issued for the arrest of former president Luis Echeverra and 11 other ex-government figures. ](/news/2004/07/22/ignacio-carrill-the-special-prosecutor-for-past-social-and-political-movements-in-mexico-presents-the-findings-of-the-investigation-into.md)
-_Context: Dirty War, Luis Echeverra, Mexico, genocide, prosecutor_
+_Context: Dirty War, Luis Echeverra, Mexican, genocide, prosecutor_
 
 ### [ Same-sex marriage in the United States: the House of Representatives today passes legislation preventing federal courts from ordering courts in other states recognize same-sex marriage granted elsewhere. ](/news/2004/07/22/same-sex-marriage-in-the-united-states-the-house-of-representatives-today-passes-legislation-preventing-federal-courts-from-ordering-court.md)
 _Context: United States House of Representatives, same-sex marriage_

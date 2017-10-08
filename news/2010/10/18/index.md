@@ -37,13 +37,13 @@ A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and
 _Context: Ha Tinh Province, Vietnam_
 
 ### [At least nineteen people die near Santiago de Queretaro, Mexico, after a bus collides with a truck. ](/news/2010/10/18/at-least-nineteen-people-die-near-santiago-de-quera-c-taro-mexico-after-a-bus-collides-with-a-truck.md)
-_Context: Mexico, Santiago de Queretaro_
+_Context: Mexican, Santiago de Queretaro_
 
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)
 _Context: U.S. government, ban on ballistic missile tests, nuclear program_
 
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
-_Context: Rwanda, U.S., UN Security Council, Victoire Ingabire_
+_Context: American, Rwanda, UN Security Council, Victoire Ingabire_
 
 ### [Fears mount that the Ugandan rebel group, the Lord's Resistance Army, which has ties to the Sudanese government, is poised to destabilize South Sudan as it prepares for a referendum on independence. ](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.md)
 _Context: Lord's Resistance Army, Southern Sudan, Southern Sudanese Independence Referendum, Sudanese cabinet, Uganda_

@@ -28,7 +28,7 @@ _Context: arthritis, leech_
 _Context: Dallas Stars, Gordie Howe, Mark Messier, National Hockey League, New York Rangers_
 
 ### [ Mexican President Vicente Fox begins a three state trip to the United States with a stop in Arizona, where he addresses immigration issues. A man is reportedly injured at a shooting near the place Fox spoke.](/news/2003/11/4/mexican-president-vicente-fox-begins-a-three-state-trip-to-the-united-states-with-a-stop-in-arizona-where-he-addresses-immigration-issues.md)
-_Context: Arizona, Mexico, Vicente Fox_
+_Context: Arizona, Mexican, Vicente Fox_
 
 ### [ Canadian author M.G. Vassanji is awarded the Giller Prize for his book "The In-Between World of Vikram Lall".](/news/2003/11/4/canadian-author-m-g-vassanji-is-awarded-the-giller-prize-for-his-book-the-in-between-world-of-vikram-lall.md)
 _Context: Giller Prize, M.G. Vassanji_

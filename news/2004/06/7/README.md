@@ -10,7 +10,7 @@ _Context: BBC, Frank Gardner, Riyadh, Saudi Arabia, Simon Cumbers_
 _Context: Iraq, U.S. presence in Iraq, UN Security Council_
 
 ### [ North American Free Trade Agreement: The United States Supreme Court opens US roads to trucks from Mexico, enforcing a key component of the NAFTA agreement over the protests of some environmentalists and Teamsters. ](/news/2004/06/7/north-american-free-trade-agreement-the-united-states-supreme-court-opens-us-roads-to-trucks-from-mexico-enforcing-a-key-component-of-the.md)
-_Context: Mexico, North American Free Trade Agreement, Teamsters, United States Supreme Court, environmentalist_
+_Context: Mexican, North American Free Trade Agreement, Teamsters, United States Supreme Court, environmentalist_
 
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
 _Context: $, California, Oracle Corporation, PeopleSoft, San Francisco, antitrust_

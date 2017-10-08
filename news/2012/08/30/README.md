@@ -55,7 +55,7 @@ _Context: Ali Khamenei, Supreme Leader of Iran, nuclear program, nuclear weapon_
 _Context: Mitt Romney, Republican, United States presidential election, 2012_
 
 ### [Mexico's electoral tribunal unanimously rejects a challenge to the 2012 presidential election victory won by Enrique Pena Nieto. ](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.md)
-_Context: 2012 presidential election, Enrique Pena Nieto, Mexico_
+_Context: 2012 presidential election, Enrique Pena Nieto, Mexican_
 
 ### [Sky News shows a study where it is claimed that the polygraph helps reduce crime. The device is being presented as "about 85% accurate" and sufficient legal evidence in combination with "other information". ](/news/2012/08/30/sky-news-shows-a-study-where-it-is-claimed-that-the-polygraph-helps-reduce-crime-the-device-is-being-presented-as-about-85-accurate-and.md)
 Organisers of a pilot scheme say lie detector tests are helping identify sex offenders at risk of re-offending.

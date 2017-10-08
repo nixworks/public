@@ -4,7 +4,7 @@
 _Context: Chen Shui-bian_
 
 ### [ Gunmen massacre 14 people at a quinceanera celebration in Creel, Chihuahua, Mexico. ](/news/2008/08/17/gunmen-massacre-14-people-at-a-quinceaa-era-celebration-in-creel-chihuahua-mexico.md)
-_Context: Creel, Chihuahua, Mexico, quinceanera_
+_Context: Creel, Chihuahua, Mexican, quinceanera_
 
 ### [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md)
 _Context: Dominican Republic, Florida Keys, Haiti, Tropical Storm Fay_

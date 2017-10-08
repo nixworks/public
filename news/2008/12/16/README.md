@@ -7,7 +7,7 @@ _Context: 2007 attack, Bilal Abdullah, Glasgow International Airport, London, We
 _Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somalian, no confidence_
 
 ### [ The United States consumer price index fell in November by 1.9% on a non-seasonally adjusted basis, the U.S. Labor Department reports, the biggest decline since the nadir of the Great Depression in January 1932. ](/news/2008/12/16/the-united-states-consumer-price-index-fell-in-november-by-1-9-on-a-non-seasonally-adjusted-basis-the-u-s-labor-department-reports-the.md)
-_Context: Great Depression, U.S., United States Department of Labor, consumer price index_
+_Context: American, Great Depression, United States Department of Labor, consumer price index_
 
 ### [ Five sticks of dynamite are found in the Printemps department store on the Boulevard Haussmann in Paris. ](/news/2008/12/16/five-sticks-of-dynamite-are-found-in-the-printemps-department-store-on-the-boulevard-haussmann-in-paris.md)
 _Context: Boulevard Haussmann, Paris, Printemps, dynamite_

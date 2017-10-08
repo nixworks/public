@@ -31,7 +31,7 @@ _Context: Iraq, Jordan, government school, refugee_
 Israel has plunged into a bitter debate over the source of authority for many of its soldiers after a group of troops refused orders to evacuate hardline Jewish settlers in the occupied West Bank.
 
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, U.S., cocaine_
+_Context: American, Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, cocaine_
 
 ### [ Malaysia bans hiring of foreign security guards following rape and murder of a student by a Pakistani security guard recently. ](/news/2007/08/7/malaysia-bans-hiring-of-foreign-security-guards-following-rape-and-murder-of-a-student-by-a-pakistani-security-guard-recently.md)
 _Context: Malaysia, Pakistan, security guard_
@@ -49,7 +49,7 @@ Foreign secretary asks that five men, who previously lived in the U.K. but are n
 Breaking News from Perth and Western Australia | Perth Now
 
 ### [ "Fortune" magazine lists Mexican businessman Carlos Slim as the richest man in the world ahead of Microsoft founder Bill Gates. ](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.md)
-_Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
+_Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexican, Microsoft_
 
 ### [ The Pakistan Army launches a strike on a militant base in the Degan area near Miranshah in North Waziristan. ](/news/2007/08/7/the-pakistan-army-launches-a-strike-on-a-militant-base-in-the-degan-area-near-miranshah-in-north-waziristan.md)
 _Context: Degan, Miranshah, Pakistan army, Waziristan_

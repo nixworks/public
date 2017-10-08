@@ -4,7 +4,7 @@
 _Context: 2015 Baghdad market truck bomb, Baghdad, ISIL, Iraq, Iraq War (2014-present)_
 
 ### [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. date=December 2015](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-date-december-2015.md)
-_Context: ISIL, Iraq, Kurdish, Rojava Revolution, U.S., mustard gas_
+_Context: American, ISIL, Iraq, Kurdish, Rojava Revolution, mustard gas_
 
 ### [The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. ](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.md)
 The struggling state-owned coal company has been put into temporary voluntary administration, the government has confirmed.

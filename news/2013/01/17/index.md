@@ -22,7 +22,7 @@ At least four people die and thousands are evacuated as flooding hits parts of t
 A fire on a Gatwick Express train prompts the evacuation of London Victoria station at the start of the rush hour.
 
 ### [Eight people, three of them children, are killed when a small plane crashed in the state of Chiapas, Mexico. ](/news/2013/01/17/eight-people-three-of-them-children-are-killed-when-a-small-plane-crashed-in-the-state-of-chiapas-mexico.md)
-_Context: Chiapas, Mexico_
+_Context: Chiapas, Mexican_
 
 ### [Russian dissident Alexandre Dolmatov commits suicide in Rotterdam.](/news/2013/01/17/russian-dissident-alexandre-dolmatov-commits-suicide-in-rotterdam.md)
 ### [Tens of thousands of Kurds pour into the streets of Diyarbakir, Turkey, for the funeral of Sakine Cansiz, the co-founder of the outlawed Kurdistan Workers' Party, who was killed in Paris, France, on January 9. ](/news/2013/01/17/tens-of-thousands-of-kurds-pour-into-the-streets-of-diyarbakir-turkey-for-the-funeral-of-sakine-cansa-z-the-co-founder-of-the-outlawed-ku.md)

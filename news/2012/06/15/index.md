@@ -28,7 +28,7 @@ Major Chinese dairy firm Yili has recalls some of its baby formula products afte
 A rare functioning Apple 1 computer sells for more than double the estimated price at an auction in New York.
 
 ### [Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
-_Context: Hurricane Carlotta, Mexico_
+_Context: Hurricane Carlotta, Mexican_
 
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
 _Context: Detroit, Michigan, Windsor, Ontario, a bridge between_

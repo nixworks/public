@@ -13,7 +13,7 @@ _Context: Australia, Qantas, ongoing industrial dispute_
 _Context: Arunachal Pradesh, India, Kameng River, footbridge_
 
 ### [A rare October snow storm hits the northeastern United States and Mid-Atlantic United States, leaving millions without power and killing two. ](/news/2011/10/29/a-rare-october-snow-storm-hits-the-northeastern-united-states-and-mid-atlantic-united-states-leaving-millions-without-power-and-killing-two.md)
-_Context: Mid-Atlantic, U.S., nor'easter, northeastern United States_
+_Context: American, Mid-Atlantic, nor'easter, northeastern United States_
 
 ### [At least three people die in an explosion in a grain elevator in the US town of Atchison, Kansas. ](/news/2011/10/29/at-least-three-people-die-in-an-explosion-in-a-grain-elevator-in-the-us-town-of-atchison-kansas.md)
 _Context: Atchison, Kansas, Kansas, grain elevator_

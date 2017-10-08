@@ -4,7 +4,7 @@
 Senator Barack Obama’s commanding victory over Senator Hillary Rodham Clinton amid record-setting turnout sets the stage for a state-by-state fight.
 
 ### [ The United States government warns that a spy satellite is losing power and propulsion and could hit the Earth in February or March. ](/news/2008/01/26/the-united-states-government-warns-that-a-spy-satellite-is-losing-power-and-propulsion-and-could-hit-the-earth-in-february-or-march.md)
-_Context: Earth, U.S., spy satellite_
+_Context: American, Earth, spy satellite_
 
 ### [ Police in Zimbabwe arrest Nicholas van Hoogstraten for allegedly violating the Exchange Control Regulations Act by asking his tenants to pay in foreign currency. He is also accused of violating the Censorship Act for possessing pornography. Police seize Z$20 billion ($0.6m). ](/news/2008/01/26/police-in-zimbabwe-arrest-nicholas-van-hoogstraten-for-allegedly-violating-the-exchange-control-regulations-act-by-asking-his-tenants-to-pa.md)
 _Context: Nicholas van Hoogstraten, USD, Z$, Zimbabwe_

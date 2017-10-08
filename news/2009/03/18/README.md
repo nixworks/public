@@ -22,7 +22,7 @@ _Context: Andry Rajoelina, Madagascar, President, constitutional court, politica
 _Context: Bill Richardson, Governor, House, New Mexico, bill into law, capital punishment_
 
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
-_Context: Ben Bernanke, Chairman of the Federal Reserve, U.S., U.S. Federal Reserve, United States Treasury Department, caps, yields_
+_Context: American, Ben Bernanke, Chairman of the Federal Reserve, U.S. Federal Reserve, United States Treasury Department, caps, yields_
 
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden. ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
 _Context: Gulf of Aden, Iran, Somali pirates, Somalian, fishing boat_

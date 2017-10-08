@@ -13,7 +13,7 @@ Seven people - mainly members of the security forces - are killed in a blast in 
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Andy Williams, Branson, Missouri, U.S._
+_Context: American, Andy Williams, Branson, Missouri_
 
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
 _Context: Baja California Peninsula, magnitude_

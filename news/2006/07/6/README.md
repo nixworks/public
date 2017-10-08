@@ -1,10 +1,10 @@
 ## [2006-07-6](/news/2006/07/6/index.md)
 
 ### [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md)
-_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S., U.S. President_
+_Context: American, Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S. President_
 
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
-_Context: Hawaii, North Korea, U.S., U.S. state, launch_
+_Context: American, Hawaii, North Korea, U.S. state, launch_
 
 ### [ The Space Shuttle "Discovery" successfully docks with the International Space Station as part of the STS-121 mission. Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbiter.md)
 _Context: 13-day mission, Discovery, International Space Station, Space Shuttle, docks_
@@ -13,7 +13,7 @@ _Context: 13-day mission, Discovery, International Space Station, Space Shuttle,
 _Context: Great Britain, Internet, TV, opinion poll_
 
 ### [ In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him loscing to the PAN's Felipe Caldern by 0.57 percentage points. ](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.md)
-_Context: Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN), Party of the Democratic Revolution_
+_Context: Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican, Mexican general election, National Action Party (PAN), Party of the Democratic Revolution_
 
 ### [ A United States Military AH-64 Apache helicopter made an emergency landing in South Korea. There was no injury or damage to the helicopter. ](/news/2006/07/6/a-united-states-military-ah-64-apache-helicopter-made-an-emergency-landing-in-south-korea-there-was-no-injury-or-damage-to-the-helicopter.md)
 A U.S. military helicopter made an emergency landing in South Korea Thursday, but there was no human or property damage, police said.
@@ -22,7 +22,7 @@ A U.S. military helicopter made an emergency landing in South Korea Thursday, bu
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
 
 ### [ Taiwan plans to test a missile capable of hitting mainland China. This has alarmed the island's main ally, the United States. ](/news/2006/07/6/taiwan-plans-to-test-a-missile-capable-of-hitting-mainland-china-this-has-alarmed-the-island-s-main-ally-the-united-states.md)
-_Context: China, Taiwan, U.S., test_
+_Context: American, China, Taiwan, test_
 
 ### [ South Korean media states that there are three or four short to medium range missiles on the launch pad in North Korea, ready for launch. North Korea has now threatened to do so.](/news/2006/07/6/south-korean-media-states-that-there-are-three-or-four-short-to-medium-range-missiles-on-the-launch-pad-in-north-korea-ready-for-launch-n.md)
 _Context: North Korea, South Korea, launch_

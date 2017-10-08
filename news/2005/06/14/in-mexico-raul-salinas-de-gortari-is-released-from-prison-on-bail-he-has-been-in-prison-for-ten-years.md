@@ -13,8 +13,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Related:
 
-1. [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md) _Context: Mexico, prison_
-2. [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md) _Context: Mexico, prison_
-3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
-4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
-5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+1. [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md) _Context: Mexican, prison_
+2. [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md) _Context: Mexican, prison_
+3. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexican_
+4. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexican_
+5. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexican_

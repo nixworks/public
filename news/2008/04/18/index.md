@@ -7,7 +7,7 @@ A New York judge ordered CNN reporter Richard Quest to undergo six months of cou
 _Context: Texas, YFZ Ranch_
 
 ### [ South Korea agrees to open its market to beef from the United States ahead of trade talks. ](/news/2008/04/18/south-korea-agrees-to-open-its-market-to-beef-from-the-united-states-ahead-of-trade-talks.md)
-_Context: South Korea, U.S., beef_
+_Context: American, South Korea, beef_
 
 ### [ A magnitude 5.2 earthquake occurs at 04:37 Central Standard Time with its epicenter six miles (10 km) from West Salem, Illinois. Effects are felt as far off as Evansville, St. Louis, Indianapolis, Detroit and Cleveland. While shaking was reported in Chicago, St. Louis and Cincinnati, there are few reports of damage. ](/news/2008/04/18/a-magnitude-5-2-earthquake-occurs-at-04-37-central-standard-time-with-its-epicenter-six-miles-10-km-from-west-salem-illinois-effects-ar.md)
 _Context: Chicago, Cincinnati, Ohio, Cleveland, Detroit, Evansville, Indianapolis, Indiana, St Louis, West Salem, Illinois, magnitude 5.2 earthquake_

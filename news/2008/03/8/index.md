@@ -22,7 +22,7 @@ _Context: Vietnam, hamster_
 _Context: Barisan National, Malaysia, Malaysian general election, 2008_
 
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)
-_Context: Iraq, U.S._
+_Context: American, Iraq_
 
 ## [Previous Day...](/news/2008/03/7/index.md)
 

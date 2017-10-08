@@ -1,7 +1,7 @@
 ## [2013-04-11](/news/2013/04/11/index.md)
 
 ### [At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. ](/news/2013/04/11/at-least-14-people-are-killed-in-a-series-of-clashes-between-alleged-drug-traffickers-and-police-in-the-mexican-state-of-michoaca-n-the-gov.md)
-_Context: Mexico, Michoacan, anti-drug plan, drug kingpin, government, police_
+_Context: Mexican, Michoacan, anti-drug plan, drug kingpin, government, police_
 
 ### [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md)
 _Context: Pattani region, Thailand, arson, bomb, shooting spree_
@@ -22,7 +22,7 @@ Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after s
 Reaction has been strong to Thursday&#39;s Glee episode, Shooting Star, which included a character bringing a gun to school. And a shooting occurred.
 
 ### [American comedian Jonathan Winters dies at the age of 87 in Montecito, California. ](/news/2013/04/11/american-comedian-jonathan-winters-dies-at-the-age-of-87-in-montecito-california.md)
-_Context: California, Jonathan Winters, Montecito, U.S., comedian_
+_Context: American, California, Jonathan Winters, Montecito, comedian_
 
 ### [Maria Tallchief, the first Native American to achieve the rank of prima ballerina at a major ballet company, dies at the age of 88. ](/news/2013/04/11/maria-tallchief-the-first-native-american-to-achieve-the-rank-of-prima-ballerina-at-a-major-ballet-company-dies-at-the-age-of-88.md)
 Ms. Tallchief achieved renown as an early prima ballerina with the New York City Ballet, dancing for George Balanchine and entertaining audiences with her speed, energy and fire.
@@ -34,7 +34,7 @@ Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are 
 _Context: Electricity, Jay Nixon, Missouri, Missouri Governor, church, destroy, midwestern, states of emergency, tornado_
 
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
-_Context: Irving, Texas, U.S., bus_
+_Context: American, Irving, Texas, bus_
 
 ### [North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/north-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confrontation-policies-of.md)
 A powerful US military sea-based radar is now in place to detect any possible missile launches by North Korea, according to a senior US defence official.

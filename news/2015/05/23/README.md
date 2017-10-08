@@ -34,7 +34,7 @@ SYDNEY (AFP) - Indonesia has told Australia that most of the migrants stranded a
 Cleveland police officer Michael Brelo was acquitted Saturday of manslaughter charges brought after he shot two unarmed people at the end of a wild 2012 car chase in which officers fired 137 shots. 
 
 ### [Nigerian drug agents arrest senator-elect Buruji Kashamu for extradition to the United States for his alleged involvement in a drug deal 20 years ago that is claimed to be the basis for the television show "Orange is the New Black". ](/news/2015/05/23/nigerian-drug-agents-arrest-senator-elect-buruji-kashamu-for-extradition-to-the-united-states-for-his-alleged-involvement-in-a-drug-deal-20.md)
-_Context: Nigeria, Orange is the New Black, U.S._
+_Context: American, Nigeria, Orange is the New Black_
 
 ### [The President of Myanmar, Thein Sein, signs the Population Control Health Care Bill requiring some parents to space each child three years apart. ](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.md)
 _Context: Myanmar's president's office, Thein Sein_

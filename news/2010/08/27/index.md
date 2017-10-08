@@ -7,7 +7,7 @@ Al-Shabab sends 11 truckloads of armed fighters to Mogadishu after declaring fin
 Police in India say they have killed a top Maoist guerrilla, wanted in connection with a deadly train crash in May.
 
 ### [Two bombs explode in the Mexican city of Ciudad Victoria, the capital of Tamaulipas, outside the municipal police station and the Televisa television station. ](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad-victoria-the-capital-of-tamaulipas-outside-the-municipal-police-station-and-the-televisa-t.md)
-_Context: Ciudad Victoria, Mexico, Tamaulipas, Televisa, bombs_
+_Context: Ciudad Victoria, Mexican, Tamaulipas, Televisa, bombs_
 
 ### [Almost 45 people are injured in clashes between stone-throwing protesters and Indian security forces in India's Kashmir Valley. ](/news/2010/08/27/almost-45-people-are-injured-in-clashes-between-stone-throwing-protesters-and-indian-security-forces-in-india-s-kashmir-valley.md)
 Almost 45 people were injured when new clashes broke out between stone-throwing protesters and security forces in the Kashmir Valley, observers say.
@@ -40,7 +40,7 @@ India suspends defence exchanges after China denies visa to Kashmir general, rep
 Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said her employer in Saudi Arabia hammered them into her body.
 
 ### [Muslims protest outside the United States embassy in Jakarta about plans by the Dove World Outreach Center in Gainesville, Florida to burn Korans on the 9th anniversary of the September 11 attacks. ](/news/2010/08/27/muslims-protest-outside-the-united-states-embassy-in-jakarta-about-plans-by-the-dove-world-outreach-center-in-gainesville-florida-to-burn-k.md)
-_Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, U.S., burn Korans, church_
+_Context: American, Gainesville, Florida, Jakarta, Muslim, September 11 attacks, burn Korans, church_
 
 ### [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md)
 _Context: France, Roma, United Nations_

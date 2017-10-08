@@ -28,10 +28,10 @@ _Context: World Meteorological Organisation, hole, ozone layer_
 _Context: China, Xinjiang_
 
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Al-Shabaab, Muslims, Saleh Ali Saleh Nabhan, Somalian, U.S._
+_Context: Al-Shabaab, American, Muslims, Saleh Ali Saleh Nabhan, Somalian_
 
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
-_Context: Mexico_
+_Context: Mexican_
 
 ### [ Kenya begins moving the first residents out of slums in the capital Nairobi, as part of a plan to clear all shanty towns over the next two to five years. ](/news/2009/09/16/kenya-begins-moving-the-first-residents-out-of-slums-in-the-capital-nairobi-as-part-of-a-plan-to-clear-all-shanty-towns-over-the-next-two.md)
 _Context: Kenya, Nairobi, hutment, slum_

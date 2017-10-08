@@ -10,7 +10,7 @@ One killed and two injured in Israeli tank shelling in the Gaza strip.
 Several injured as police disperse 300 people who defied a ban and attempted to demonstrate in capital, Algiers.
 
 ### [Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. ](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.md)
-_Context: Mexico, Tamaulipas, Valle Hermoso_
+_Context: Mexican, Tamaulipas, Valle Hermoso_
 
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
 _Context: Russia, Ufa_

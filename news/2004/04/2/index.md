@@ -48,7 +48,7 @@ _Context: Sri Lanka, parliamentary election_
 _Context: Internet, Toby Studabaker, U.S. Marine_
 
 ### [ An estimated crowd of between 10,000 and 19,000 mourners show up to pay their final respects to Mexican singer Adn Snchez in Los Angeles. Many in the crowd turn violent, jumping onto the van carrying the singer's body. Some are injured, and police and emergency rescue intervention is required. ](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.md)
-_Context: Adn Snchez, Los Angeles, California, Mexico_
+_Context: Adn Snchez, Los Angeles, California, Mexican_
 
 ### [ Disney's 44th animated movie, "Home on the Range", is released in theatres.](/news/2004/04/2/disney-s-44th-animated-movie-home-on-the-range-is-released-in-theatres.md)
 _Context: Home on the Range_

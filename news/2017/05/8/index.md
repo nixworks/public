@@ -10,7 +10,7 @@ The Philippine government will present the human rights situation before the Uni
 A man arrested last month in a 2015 homicide has been charged in the Phoenix serial street shootings case. 
 
 ### [Sally Yates testifies before the United States Senate Judiciary Subcommittee on Crime and Terrorism concerning investigations into Russia's role in the 2016 U.S. presidential election and in the Trump administration. ](/news/2017/05/8/sally-yates-testifies-before-the-united-states-senate-judiciary-subcommittee-on-crime-and-terrorism-concerning-investigations-into-russia-s.md)
-_Context: Russian interference in the 2016 United States elections , Sally Yates, United States Senate Judiciary Subcommittee on Crime and Terrorism, United States presidential election, 2016, White House officials_
+_Context: Russian interference in the 2016 United States elections , Sally Yates, Trump administration, United States Senate Judiciary Subcommittee on Crime and Terrorism, United States presidential election, 2016_
 
 ### [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md)
 The Senate has confirmed Heather Wilson as Air Force secretary, making her President Donald Trump&rsquo;s first service secretary nominee to be approved by the GOP-led chamber after fits and starts for several others.

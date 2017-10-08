@@ -4,7 +4,7 @@
 The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island of Taiwan appears to have been a political message from the Pentagon to Beijing following a recent Chinese bomber drill near the island nation that is a key rival to Beijing&#8217;s rule.
 
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Gulf of Mexico, Mexico, PEMEX_
+_Context: Gulf of Mexico, Mexican, PEMEX_
 
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
 _Context: ''Dalniy Vostok'', Kamchatka Peninsula, Russia, sinks_

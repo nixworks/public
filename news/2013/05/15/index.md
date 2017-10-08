@@ -31,7 +31,7 @@ The Bank of England upgrades its economic growth forecast, but separate figures 
 _Context: Bangladesh, Cyclone Mahasen, Myanmar, Sri Lanka_
 
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
-_Context: Granbury, Texas, U.S._
+_Context: American, Granbury, Texas_
 
 ### [The jury in the U.S. state of Arizona that convicted Jodi Arias of first-degree murder last week quickly decide that she should either face the death penalty or life in prison without parole during the penalty phase of trial. ](/news/2013/05/15/the-jury-in-the-u-s-state-of-arizona-that-convicted-jodi-arias-of-first-degree-murder-last-week-quickly-decide-that-she-should-either-face.md)
 _Context: Arizona, Jodi Arias, U.S., death penalty, first-degree murder, life in prison without parole_

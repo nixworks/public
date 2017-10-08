@@ -10,7 +10,7 @@ Stocks drift in a narrow range as the New York Stock Exchange reopens after two-
 Barclays says that it is the subject of two new regulatory probes after a series of scandals and announces it made a loss in the third quarter.
 
 ### [In the aftermath of Hurricane Sandy, the death toll rises to over 60 in the Mid-Atlantic states of the United States, while electric power for millions is still out, and mass transportation is crippled. ](/news/2012/10/31/in-the-aftermath-of-hurricane-sandy-the-death-toll-rises-to-over-60-in-the-mid-atlantic-states-of-the-united-states-while-electric-power-f.md)
-_Context: Hurricane Sandy, Mid-Atlantic states, U.S._
+_Context: American, Hurricane Sandy, Mid-Atlantic states_
 
 ### [Five thousand people are evacuated from low-lying areas off the coast of Tamil Nadu state in India and two sailors die in heavy seas before Cyclone Nilam hits the coast. ](/news/2012/10/31/five-thousand-people-are-evacuated-from-low-lying-areas-off-the-coast-of-tamil-nadu-state-in-india-and-two-sailors-die-in-heavy-seas-before.md)
 Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leaving two people dead, including a crew member of an oil tanker.

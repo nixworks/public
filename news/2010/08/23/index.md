@@ -13,7 +13,7 @@ _Context: Maulana Noor Mohammed Wazir, National Assembly, Pakistan, South Waziri
 _Context: Amsterdam, Anne Frank tree_
 
 ### [Jimena Navarrete, representing Mexico, wins Miss Universe 2010. ](/news/2010/08/23/jimena-navarrete-representing-mexico-wins-miss-universe-2010.md)
-_Context: Jimena Navarrete, Mexico, Miss Universe 2010_
+_Context: Jimena Navarrete, Mexican, Miss Universe 2010_
 
 ### [Australia's stock market and currency lose value because of the country's hung parliament. ](/news/2010/08/23/australia-s-stock-market-and-currency-lose-value-because-of-the-country-s-hung-parliament.md)
 _Context: Australia, hung parliament_

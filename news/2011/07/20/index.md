@@ -7,7 +7,7 @@ Residents of Harasta say entrances blocked by elite forces as foreign minister g
 _Context: Bingu wa Mutharika, Malawi, President_
 
 ### [Iranian Ali Aghazadeh Dafsari claims that Revolutionary Guard forces shot down a U.S. spy drone over the Fordo located uranium enrichment facility. ](/news/2011/07/20/iranian-ali-aghazadeh-dafsari-claims-that-revolutionary-guard-forces-shot-down-a-u-s-spy-drone-over-the-fordo-located-uranium-enrichment-fa.md)
-_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, U.S., uranium enrichment_
+_Context: Ali Aghazadeh Dafsari, American, Fordo, Iran, Iranian Revolutionary guards, uranium enrichment_
 
 ### [Up to 80 people, including soldiers, are arrested in Guinea after a failed assassination attempt on President Alpha Conde on 19 July. ](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.md)
 _Context: Alpha Conde's, Guinea, President_
@@ -22,7 +22,7 @@ _Context: Somalian, United Nations, famine, famine_
 _Context: Japan, Tokushima Prefecture, Typhoon Ma-on, tropical storm_
 
 ### [Hurricane Dora strengthens to a Category 4 hurricane as it travels towards Mexico. ](/news/2011/07/20/hurricane-dora-strengthens-to-a-category-4-hurricane-as-it-travels-towards-mexico.md)
-_Context: Hurricane Jova, Mexico, hurricane_
+_Context: Hurricane Jova, Mexican, hurricane_
 
 ### [A 6.1 magnitude earthquake occurs near the Uzbekistan city of Fergana killing 13 people in Uzbekistan and one person in Tajikistan. ](/news/2011/07/20/a-6-1-magnitude-earthquake-occurs-near-the-uzbekistan-city-of-fergana-killing-13-people-in-uzbekistan-and-one-person-in-tajikistan.md)
 A powerful earthquake killed at least 14 people in a heavily populated valley in Central Asia early Wednesday, emergency officials said.

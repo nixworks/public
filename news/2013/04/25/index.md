@@ -22,7 +22,7 @@ _Context: British, Chuck Hagel, Government of Syria, Israel, Syrian Civil War, U
 _Context: British, Mohamed Siad Barre, Somali Civil War, Somalian_
 
 ### [Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. ](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.md)
-_Context: Los Zetas, Mexican, Mexico, Saltillo, Coahuila, more than 80 have been killed_
+_Context: Los Zetas, Mexican, Mexican, Saltillo, Coahuila, more than 80 have been killed_
 
 ### [After being missing for over a week, the body of Sunil Tripathi is found in the Providence River. ](/news/2013/04/25/after-being-missing-for-over-a-week-the-body-of-sunil-tripathi-is-found-in-the-providence-river.md)
 _Context: Providence River, Sunil Tripathi_

@@ -19,7 +19,7 @@ Severe Christmas day weather tore across the deep south of the U.S., spinning of
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. ](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.md)
-_Context: Mexico, Sinaloa_
+_Context: Mexican, Sinaloa_
 
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
 _Context: Japan, Prime Minister of Japan, Shinzo Abe_

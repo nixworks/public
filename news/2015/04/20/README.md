@@ -22,7 +22,7 @@ A distress call about a migrant boat sinking in the Mediterranean Sea with 300 p
 Three people are killed in wild weather in NSW&#039;s Central Hunter region, where homes have been washed off their footings in the town of Dungog, north of Newcastle.
 
 ### [Blue Bell Creameries recalls all of its products in the United States due to a "Listeria monocytogenes" outbreak. ](/news/2015/04/20/blue-bell-creameries-recalls-all-of-its-products-in-the-united-states-due-to-a-listeria-monocytogenes-outbreak.md)
-_Context: Blue Bell Creameries, Listeria monocytogenes, U.S._
+_Context: American, Blue Bell Creameries, Listeria monocytogenes_
 
 ### [A 13-year-old boy uses a home-made crossbow to kill a teacher and wound four other people at his school in the city of Barcelona. ](/news/2015/04/20/a-13-year-old-boy-uses-a-home-made-crossbow-to-kill-a-teacher-and-wound-four-other-people-at-his-school-in-the-city-of-barcelona.md)
 A student armed with a makeshift crossbow and a knife kills a teacher at a school in Barcelona, Spain.

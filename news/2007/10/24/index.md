@@ -7,7 +7,7 @@ _Context: Comet 17P/Holmes_
 _Context: Bank of America_
 
 ### [ A storm in the Gulf of Mexico kills 18 Mexican oil workers fleeing an oil rig, with Navy rescue teams trying to reach survivors. ](/news/2007/10/24/a-storm-in-the-gulf-of-mexico-kills-18-mexican-oil-workers-fleeing-an-oil-rig-with-navy-rescue-teams-trying-to-reach-survivors.md)
-_Context: Gulf of Mexico, Mexican Navy, Mexico, PEMEX, offshore oil platform_
+_Context: Gulf of Mexico, Mexican, Mexican Navy, PEMEX, offshore oil platform_
 
 ### [ Moderating winds improve the outlook in the fight against the California wildfires of October 2007. ](/news/2007/10/24/moderating-winds-improve-the-outlook-in-the-fight-against-the-california-wildfires-of-october-2007.md)
 _Context: California wildfires of October 2007_

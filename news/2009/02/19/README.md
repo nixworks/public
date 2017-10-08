@@ -7,7 +7,7 @@ _Context: Georgian, Prime Minister of Russia, Russia, Stefane & 3G, Vladimir Put
 Economists say that California’s budget foreshadows the difficult choices other state legislatures will soon face as the economy worsens.
 
 ### [ The United States Federal Bureau of Investigation locates Stanford Financial Group Chairman Allen Stanford in Virginia and serves him with a fraud complaint on behalf of the Securities and Exchange Commission. ](/news/2009/02/19/the-united-states-federal-bureau-of-investigation-locates-stanford-financial-group-chairman-allen-stanford-in-virginia-and-serves-him-with.md)
-_Context: Allen Stanford, FBI, Securities and Exchange Commission, Stanford Financial Group, U.S., Virginia, chairman, complaint, fraud_
+_Context: Allen Stanford, American, FBI, Securities and Exchange Commission, Stanford Financial Group, Virginia, chairman, complaint, fraud_
 
 ### [ China claims it has artificially produced snowfall by cloud seeding to ease drought. ](/news/2009/02/19/china-claims-it-has-artificially-produced-snowfall-by-cloud-seeding-to-ease-drought.md)
 _Context: China, artificially produced, cloud seeding, drought, snow_
@@ -19,7 +19,7 @@ _Context: Israel, Palestinian, fire, militant, rocket_
 * Newspaper Dagens Industri: GM could put 3.5 bln SEK intoSaab * Dagens Industri: Saab could file reorganisation Friday * Board meeting T
 
 ### [ Kyrgyzstan's Supreme Council approves the closure of the U.S. Air Force's Manas Air Base. ](/news/2009/02/19/kyrgyzstan-s-supreme-council-approves-the-closure-of-the-u-s-air-force-s-manas-air-base.md)
-_Context: Air Force, Kyrgyzstan, Manas Air Base, Supreme Council, U.S._
+_Context: Air Force, American, Kyrgyzstan, Manas Air Base, Supreme Council_
 
 ### [ A Russian court acquits three men of aiding the 2006 murder of investigative journalist Anna Politkovskaya. ](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.md)
 _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative reporter, murder_
@@ -28,13 +28,13 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 _Context: ''Danton'', France, Mediterranean Sea, battleship_
 
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S., U.S. President_
+_Context: American, Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S. President_
 
 ### [ China's Ministry of Health reports that HIV-AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
 _Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leading cause of death_
 
 ### [ Two Tupolev Tu-95 bombers are intercepted by two Canadian CF-18's near Canada's airspace hours before United States President Barack Obama arrives in Ottawa, Ontario.](/news/2009/02/19/two-tupolev-tu-95-bombers-are-intercepted-by-two-canadian-cf-18-s-near-canada-s-airspace-hours-before-united-states-president-barack-obama.md)
-_Context: Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, U.S., bombers, international airspace_
+_Context: American, Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, bombers, international airspace_
 
 ### [ Nigeria's Military Forces rescue two escaped Russian hostages who were abducted in the Niger Delta in December. ](/news/2009/02/19/nigeria-s-military-forces-rescue-two-escaped-russian-hostages-who-were-abducted-in-the-niger-delta-in-december.md)
 _Context: Military, Niger Delta, Nigeria, Russia, hostage, kidnapped_

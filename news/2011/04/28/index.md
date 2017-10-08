@@ -43,7 +43,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan_
 _Context: Cote d'Ivoire_
 
 ### [Exelon Corp., the top nuclear power concern in the United States, announces a deal to buy ](/news/2011/04/28/exelon-corp-the-top-nuclear-power-concern-in-the-united-states-announces-a-deal-to-buy.md)
-_Context: Exelon Corp., U.S._
+_Context: American, Exelon Corp._
 
 ### [Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/seven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississippi-missouri-tennessee.md)
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.

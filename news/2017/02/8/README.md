@@ -13,7 +13,7 @@ Two gunmen also killed after targeting hotel in rare assault in the capital of t
 Syrian rebels backed by the Turkish military have captured the outskirts of the Islamic State-held city of al-Bab in northern Syria, the Turkish government and rebel sources said on Wednesday.
 
 ### [Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. [https:--www.nytimes.com-2017-02-07-world-middleeast-yemen-special-operations-missions.html?_r=0 ("The New York Times")] [https:--www.nytimes.com-2017-02-08-world-middleeast-yemen-raid-american-military.html ("The New York Times")2]](/news/2017/02/8/yemen-reassesses-its-permission-to-the-united-states-to-run-special-operations-ground-missions-against-suspected-terrorist-groups-because-of.md)
-_Context: U.S., Yemen, Yemeni War, special forces_
+_Context: American, Yemen, Yemeni War, special forces_
 
 ### [Archaeologists from the Hebrew University of Jerusalem announce the discovery of another cave that used to have Dead Sea Scrolls. ](/news/2017/02/8/archaeologists-from-the-hebrew-university-of-jerusalem-announce-the-discovery-of-another-cave-that-used-to-have-dead-sea-scrolls.md)
 Empty storage jars and a scrap of parchment unearthed in dig carried out by Hebrew U, IAA at site apparently looted in the 1940s

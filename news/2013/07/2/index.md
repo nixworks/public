@@ -22,7 +22,7 @@ Awaiting final approval from Pope Francis; possible canonization date is Dec. 8,
 _Context: 6.2 magnitude earthquake, Aceh Province, Indonesia_
 
 ### [The Obama administration postpones enforcement of a major requirement of the Patient Protection and Affordable Care Act healthcare law - that pertaining to employers offering coverage to their workers - for a full year after its planned January 1, 2014 implementation. [http:--www.washingtonpost.com-business-bowing-to-business-obama-admin-delays-health-law-requirement-that-many-firms-offer-coverage-2013-07-02-b4d939ee-e37c-11e2-bffd-37a36ddab820_story.html "(Washington Post)"]](/news/2013/07/2/the-obama-administration-postpones-enforcement-of-a-major-requirement-of-the-patient-protection-and-affordable-care-act-healthcare-law-tha.md)
-_Context: Obama Administration, Patient Protection and Affordable Care Act_
+_Context: Obama Administration, Obamacare_
 
 ### [68 Islamists accused of conspiring against the United Arab Emirates federal government, sentenced to 15 years. ](/news/2013/07/2/68-islamists-accused-of-conspiring-against-the-united-arab-emirates-federal-government-sentenced-to-15-years.md)
 Sixty-eight Islamists in the United Arab Emirates are jailed on charges of plotting to overthrow the government in a trial criticised by rights groups.

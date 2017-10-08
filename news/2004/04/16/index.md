@@ -13,7 +13,7 @@ _Context: 2004 South Korean parliamentary elections, Roh Moo-hyun, Uri Party_
 A new book on the president&#39;s Iraq policy also describes the enmity over the issue between Secretary of State Colin L. Powell and Vice President Dick Cheney.
 
 ### [ Mexico - Economy of Mexico: Mexico's Foreign Affairs Secretary, Luis Ernesto Derbez, announces that his country is seeking admission to South America's Mercosur trade bloc, the third largest in the world. ](/news/2004/04/16/mexico-economy-of-mexico-mexico-s-foreign-affairs-secretary-luis-ernesto-derbez-announces-that-his-country-is-seeking-admission-to-sou.md)
-_Context: Luis Ernesto Derbez, Mercosur, Mexico, economy_
+_Context: Luis Ernesto Derbez, Mercosur, Mexican, economy_
 
 ### [ Seeking legal recognition as a news organization, the National Rifle Association begins NRANews, a website dedicated to presenting its view of the right to keep and bear arms. ](/news/2004/04/16/seeking-legal-recognition-as-a-news-organization-the-national-rifle-association-begins-nranews-a-website-dedicated-to-presenting-its-view.md)
 _Context: NRA, NRANews, right to keep and bear arms_

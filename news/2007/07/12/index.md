@@ -10,7 +10,7 @@ _Context: Accra, British, Ghana, Kotoka International Airport, cocaine_
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
 ### [ A Mexican federal court suspends the genocide trial of former President Luis Echeverria. ](/news/2007/07/12/a-mexican-federal-court-suspends-the-genocide-trial-of-former-president-luis-echeverraa.md)
-_Context: Luis Echeverria, Mexico, President, genocide_
+_Context: Luis Echeverria, Mexican, President, genocide_
 
 ### [ The Spanish Civil Guard raids a boat operated by Odyssey Marine Exploration that it claims may have taken treasure worth hundreds of millions of dollars from a Spanish galleon. ](/news/2007/07/12/the-spanish-civil-guard-raids-a-boat-operated-by-odyssey-marine-exploration-that-it-claims-may-have-taken-treasure-worth-hundreds-of-millio.md)
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA, CIA leak scandal, George W. Bush, U.S., U.S. President, Valerie Plame, press conference_
+_Context: American, CIA, CIA leak scandal, George W. Bush, U.S. President, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

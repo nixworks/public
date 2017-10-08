@@ -28,7 +28,7 @@ Peruvian Nobel laureate Mario Vargas Llosa criticises authoritarian governments 
 _Context: 2012 Academy Awards, Academy Award for Best Picture, Motion Picture Academy_
 
 ### [Dexter Isaac, a convicted killer, claims responsibility for an attempted assassination of rapper Tupac Shakur in 1994. ](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.md)
-_Context: Tupac Shakur, rapper_
+_Context: Tupac Shakur, rap musician_
 
 ### [Canada Post closes down operations after a campaign of rolling strikes by the Canadian Union of Postal Workers. ](/news/2011/06/15/canada-post-closes-down-operations-after-a-campaign-of-rolling-strikes-by-the-canadian-union-of-postal-workers.md)
 The federal government has served notice that it intends to introduce back-to-work legislation in the House to end the contract dispute between Canada Post and its 48,000 urban postal workers.

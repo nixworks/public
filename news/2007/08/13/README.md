@@ -25,7 +25,7 @@ Hurricane Flossie weakened on Tuesday before it approached the waters off Hawaii
 _Context: Hilo, Hawaii, earthquake, island of Hawaii_
 
 ### [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md)
-_Context: Iran, Iraq, Shiite, Sunni, U.S., War in Iraq, al-Qaeda_
+_Context: American, Iran, Iraq, Shiite, Sunni, War in Iraq, al-Qaeda_
 
 ### [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md)
 _Context: Busan, Ferris wheel, South Korea, amusement park_

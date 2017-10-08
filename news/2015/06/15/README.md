@@ -31,7 +31,7 @@ _Context: Alibaba Group Holding Limited, China Film Group Corporation, Netflix_
 _Context: Kathmandu Valley, Nepal, suspicions_
 
 ### [Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later-in-the-week.md)
-_Context: 2015 Pacific hurricane season, Hurricane Carlos, Mexico, tropical storm_
+_Context: 2015 Pacific hurricane season, Hurricane Carlos, Mexican, tropical storm_
 
 ### [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md)
 _Context: 2015 Alaska Sockeye wildfire_

@@ -16,7 +16,7 @@ _Context: Eurozone, Parliament of Slovakia_
 _Context: BlackBerry, Jaguar Financial Corp., Research in Motion_
 
 ### [Hurricane Jova crosses the western coast of Mexico northwest of the port of Manzanillo, Colima, at Category 2 strength. ](/news/2011/10/11/hurricane-jova-crosses-the-western-coast-of-mexico-northwest-of-the-port-of-manzanillo-colima-at-category-2-strength.md)
-_Context: Hurricane Jova, Manzanillo, Colima, Mexico_
+_Context: Hurricane Jova, Manzanillo, Colima, Mexican_
 
 ### [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md)
 _Context: New Zealand, Tauranga, environmental disaster, oil spill_

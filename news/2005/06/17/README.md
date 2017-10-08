@@ -4,7 +4,7 @@
 _Context: Guatemala, Maya, San Antonio Senahu, mudslide_
 
 ### [ The murder weapon used to kill Leon Trotsky is purported to have surfaced in Mexico. ](/news/2005/06/17/the-murder-weapon-used-to-kill-leon-trotsky-is-purported-to-have-surfaced-in-mexico.md)
-_Context: Leon Trotsky, Mexico, murder_
+_Context: Leon Trotsky, Mexican, murder_
 
 ### [ A United Nations investigation has concluded that Rafik Hariri, the former Prime Minister of Lebanon, was killed by a truck bomb. ](/news/2005/06/17/a-united-nations-investigation-has-concluded-that-rafik-hariri-the-former-prime-minister-of-lebanon-was-killed-by-a-truck-bomb.md)
 _Context: Lebanon, Prime Minister, Rafik Hariri, United Nations, truck bomb_

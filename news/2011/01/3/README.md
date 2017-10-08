@@ -49,7 +49,7 @@ Most Americans think the United States should raise taxes for the rich to balanc
 _Context: Darrell Issa, Eric Holder, Julian Assange, Republican, United States Attorney General, United States House of Representatives, WikiLeaks, congressional inquiry_
 
 ### [Scientists are investigating the sudden dieoff of over 5,000 red-winged blackbirds in Beebe, Arkansas, United States, on New Year's Eve. ](/news/2011/01/3/scientists-are-investigating-the-sudden-dieoff-of-over-5-000-red-winged-blackbirds-in-beebe-arkansas-united-states-on-new-year-s-eve.md)
-_Context: Beebe, Arkansas, U.S., red-winged blackbird_
+_Context: American, Beebe, Arkansas, red-winged blackbird_
 
 ### [China announces a breakthrough in spent nuclear fuel reprocessing technology that could solve the country's uranium supply problem. ](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.md)
 China has developed its own technologies that will enable it to reprocess spent nuclear fuel, state television reports.

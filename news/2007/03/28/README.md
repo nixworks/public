@@ -4,7 +4,7 @@
 _Context: Guinea, fishing boat, pirogue_
 
 ### [ The Czech government announced that it will open negotiations with the US Government over participation in the missile defense shield. ](/news/2007/03/28/the-czech-government-announced-that-it-will-open-negotiations-with-the-us-government-over-participation-in-the-missile-defense-shield.md)
-_Context: Czech Republic, U.S., missile defense shield_
+_Context: American, Czech Republic, missile defense shield_
 
 ### [ Ecuadorean judge Juan Ramirez reinstates 57 members of the National Congress of Ecuador only to be dismissed by the electoral tribunal that dismissed the members of Congress. ](/news/2007/03/28/ecuadorean-judge-juan-ramirez-reinstates-57-members-of-the-national-congress-of-ecuador-only-to-be-dismissed-by-the-electoral-tribunal-that.md)
 _Context: Congress, Ecuador, Juan Ramirez_

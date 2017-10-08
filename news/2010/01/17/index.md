@@ -34,7 +34,7 @@ The revelations about Peter Robinson&#39;s wife Iris have indirectly led to a po
 Prince William spoke of his pride today in representing his grandmother, the Queen, on his first foreign tour.
 
 ### [A U.S. drone attack kills 15 alleged militants in the Pakistani region of South Waziristan. ](/news/2010/01/17/a-u-s-drone-attack-kills-15-alleged-militants-in-the-pakistani-region-of-south-waziristan.md)
-_Context: Pakistan, South Waziristan, U.S., drones launch_
+_Context: American, Pakistan, South Waziristan, drones launch_
 
 ## [Previous Day...](/news/2010/01/16/index.md)
 

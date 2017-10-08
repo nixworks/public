@@ -20,5 +20,5 @@ Prison clashes between rival gangs killed at least 18 inmates in two penitentiar
 
 ### Changes:
 
-1. [Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _2017-10-06 03:54:40 (First version)_
+1. [Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _2017-10-07 03:54:56 (First version)_
 1. [Clashes between rival gangs in at least two prisons in Brazil, leave at least 18 people killed. ](/news/2016/10/17/clashes-between-rival-gangs-in-at-least-two-prisons-in-brazil-leave-at-least-18-people-killed.md) _(Current version)_

@@ -20,5 +20,5 @@
 
 ### Changes:
 
-1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2017-10-06 03:28:18 (First version)_
+1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2017-10-07 03:28:22 (First version)_
 1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _(Current version)_

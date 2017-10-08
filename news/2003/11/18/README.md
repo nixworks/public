@@ -7,7 +7,7 @@ _Context: Linux, SCO Group, SCO v. IBM, copyright, open source, operating system
 _Context: George W. Bush, ICM, Populus, The Guardian, Times, evil empire, good_
 
 ### [ The Mexican government announces the imminent resignation of its ambassador to the United Nations, Adolfo Aguilar Zinser, who, in a speech in Mexico City last week, said that the political and intellectual class of the United States sees Mexico as "a country whose position is that of a back yard".](/news/2003/11/18/the-mexican-government-announces-the-imminent-resignation-of-its-ambassador-to-the-united-nations-adolfo-aguilar-zinser-who-in-a-speech.md)
-_Context: Adolfo Aguilar Zinser, Mexico, United Nations_
+_Context: Adolfo Aguilar Zinser, Mexican, United Nations_
 
 ### [ Enron announces proposed sale of Portland General Electric for $2.35 billion, including assumption of debt. The sale is to a newly formed LLC backed by a private investment firm from Texas. This happens after Portland-area residents defeated a ballot measure to take over the utility on November 4. PGE had outspent supporters of the takeover 60-to-1.](/news/2003/11/18/enron-announces-proposed-sale-of-portland-general-electric-for-2-35-billion-including-assumption-of-debt-the-sale-is-to-a-newly-formed-l.md)
 _Context: Enron Corporation, LLC, Multnomah County, Oregon, Portland General Electric, Texas, initiative_

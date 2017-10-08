@@ -19,7 +19,7 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 _Context: Journal of the National Cancer Institute, New York University School of Medicine, anti-inflammatory, butyrate, colorectal cancer, dietary fiber, fatty acid, gut microbe_
 
 ### [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md)
-_Context: American, Kenneth Bae, Merrill Newman, North Korea, U.S._
+_Context: American, American, Kenneth Bae, Merrill Newman, North Korea_
 
 ### [The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. ](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.md)
 The World Trade Organization agrees a historic global deal aimed at boosting commerce, which could add nearly $1tn to the global economy.

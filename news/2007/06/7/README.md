@@ -19,7 +19,7 @@ _Context: Fatah, Hamas, Palestinians_
 _Context: New Zealand, Reserve Bank of New Zealand, interest rate_
 
 ### [ American scientists identify a new strain of potentially lethal bacteria called "Bartonella rochalimae". ](/news/2007/06/7/american-scientists-identify-a-new-strain-of-potentially-lethal-bacteria-called-bartonella-rochalimae.md)
-_Context: Bartonella rochalimae, Scientist, U.S., bacteria, strain_
+_Context: American, Bartonella rochalimae, Scientist, bacteria, strain_
 
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
 _Context: Cloture, Comprehensive Immigration Reform Act of 2007, United States Senate_

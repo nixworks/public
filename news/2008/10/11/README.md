@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, U.S., U.S. President_
+_Context: American, G7, George W. Bush, U.S. President_
 
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
 _Context: International Monetary Fund, housing crisis_
@@ -19,7 +19,7 @@ _Context: Department of State, North Korea, state sponsor of terrorism_
 _Context: Chechnya, Russia, earthquake_
 
 ### [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md)
-_Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexico, Saffir-Simpson Hurricane Scale_
+_Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexican, Saffir-Simpson Hurricane Scale_
 
 ### [ Turkey bombs Kurdish military targets in northern Iraq. ](/news/2008/10/11/turkey-bombs-kurdish-military-targets-in-northern-iraq.md)
 _Context: Iraq, Iraqi Kurdistan, Kurdish Peshmerga, Turkey_

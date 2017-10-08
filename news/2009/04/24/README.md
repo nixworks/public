@@ -1,13 +1,13 @@
 ## [2009-04-24](/news/2009/04/24/index.md)
 
 ### [ Swine influenza kills at least 68 people and infects at least 1,000 more in Mexico. ](/news/2009/04/24/swine-influenza-kills-at-least-68-people-and-infects-at-least-1-000-more-in-mexico.md)
-_Context: Mexico, current outbreak, swine flu_
+_Context: Mexican, current outbreak, swine flu_
 
 ### [ A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. ](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-injures-125-more-in-baghdad-iraq.md)
 Two suicide bombers have blown themselves up at the gates of a revered Shiite Muslim shrine in Baghdad, killing at least 60.
 
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: Current TV, North Korea, U.S., indicted, journalism, trial_
+_Context: American, Current TV, North Korea, indicted, journalism, trial_
 
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
 _Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, bribes, fraud, wire fraud_

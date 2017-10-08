@@ -10,7 +10,7 @@ _Context: Egypt, Gaza, Israel, Palestinian-Israeli conflict, Sinai Peninsula_
 _Context: Deutsche Bank AG, Korea Exchange, South Korea, brokerage, indicted_
 
 ### ["The New York Times" carries claims by anonymous sources that the Bank of Japan is said to be considering a further easing of monetary policy, and the government of Japan may intervene in markets to push the value of the yen down. ](/news/2011/08/21/the-new-york-times-carries-claims-by-anonymous-sources-that-the-bank-of-japan-is-said-to-be-considering-a-further-easing-of-monetary-polic.md)
-_Context: Bank of Japan, Japan, The New York Times, yen_
+_Context: Bank of Japan, Japan, the New York Times, yen_
 
 ### [A tornado hits the town of Goderich in the Canadian province of Ontario causing significant damage and one death. ](/news/2011/08/21/a-tornado-hits-the-town-of-goderich-in-the-canadian-province-of-ontario-causing-significant-damage-and-one-death.md)
 GODERICH, Ont. &amp;#8212; One person is dead after a powerful tornado struck an Ontario community Sunday, ripping roofs off the tops of houses, shattering windows and uprooting trees.

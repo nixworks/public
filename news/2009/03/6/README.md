@@ -16,7 +16,7 @@ _Context: Lotta Lotass, Seat 1, Sten Rudholm, Swedish, Swedish Academy_
 _Context: Karolinska University Hospital, Swedish, drug overdose, manslaughter by gross negligence, morphine, pediatric, remanded, sodium thiopental_
 
 ### [ North Korea threatens the safety of South Korean civilian aircraft flying near its territory, on the eve of annual military exercises involving the United States and the South. ](/news/2009/03/6/north-korea-threatens-the-safety-of-south-korean-civilian-aircraft-flying-near-its-territory-on-the-eve-of-annual-military-exercises-invol.md)
-_Context: North Korea, South Korea, U.S., military exercise_
+_Context: American, North Korea, South Korea, military exercise_
 
 ### [ Australia's Transport Safety Bureau finds that the autopilot of Qantas Flight 72, which made an emergency landing at Learmonth Airport in October 2008, received inaccurate information, causing a rapid change in altitude. ](/news/2009/03/6/australia-s-transport-safety-bureau-finds-that-the-autopilot-of-qantas-flight-72-which-made-an-emergency-landing-at-learmonth-airport-in-o.md)
 Safety investigator&#039;s report finds electronic error led to dangerous plunge mid-flight over WA last year.

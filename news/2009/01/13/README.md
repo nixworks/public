@@ -7,7 +7,7 @@ _Context: EU, Europe, Russia, Russia-Ukraine gas disputes, natural gas_
 _Context: Gaza, Hamas, Israel, Israel Defense Forces, fire, militant, urban warfare_
 
 ### [ The United States Senate Foreign Relations Committee begins confirmation hearings for Hillary Clinton's nomination as Secretary of State. ](/news/2009/01/13/the-united-states-senate-foreign-relations-committee-begins-confirmation-hearings-for-hillary-clinton-s-nomination-as-secretary-of-state.md)
-_Context: Foreign Relations Committee, Hillary Clinton, Secretary of State, U.S., United States Senate, confirmation hearings, nomination_
+_Context: American, Foreign Relations Committee, Hillary Clinton, Secretary of State, United States Senate, confirmation hearings, nomination_
 
 ### [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md)
 _Context: Angela Merkel, Chancellor, EUR, Germany_

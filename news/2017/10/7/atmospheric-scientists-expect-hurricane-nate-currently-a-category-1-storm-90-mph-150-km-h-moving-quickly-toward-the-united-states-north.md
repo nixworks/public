@@ -7,10 +7,11 @@
 
 ### Source:
 
-1. [AP](https://apnews.com/31874339a8974270a0a57f92b984f033/US-Gulf-Coast-braces-for-fast-approaching-Hurricane-Nate)
-2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/072050.shtml?)
-3. [Reuters](https://www.reuters.com/article/us-storm-nate/hurricane-nate-targets-u-s-gulf-coast-after-raking-central-america-idUSKBN1CA1DD)
-3. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:4317bfd86fbf456780e645cb30a84ea4/800.jpeg)
+1. [AP via ''New York Post](http://nypost.com/2017/10/07/hurricane-nate-makes-landfall-as-a-category-1-storm/?utm_source=maropost&utm_medium=email&utm_campaign=news_alert&utm_content=20171007&mpweb=755-4716979-711676018)
+2. [AP](https://apnews.com/31874339a8974270a0a57f92b984f033/US-Gulf-Coast-braces-for-fast-approaching-Hurricane-Nate)
+3. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/072050.shtml?)
+4. [Reuters](https://www.reuters.com/article/us-storm-nate/hurricane-nate-targets-u-s-gulf-coast-after-raking-central-america-idUSKBN1CA1DD)
+4. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:4317bfd86fbf456780e645cb30a84ea4/800.jpeg)
 
 ### Related:
 

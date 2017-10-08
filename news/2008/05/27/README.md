@@ -11,7 +11,7 @@ _Context: 2 June, 28 May, Argentina, export, farmer, federal government, grain_
 _Context: Constitutional Court, Decembrists Square, Governing Senate, Moscow, Russia, Saint Petersburg_
 
 ### [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md)
-_Context: Case-Shiller index, S&P, U.S._
+_Context: American, Case-Shiller index, S&P_
 
 ### [ The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md)
 _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_

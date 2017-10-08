@@ -7,7 +7,7 @@ Violent clashes erupt in Bangladesh as protesters stage a nationwide blockade of
 A killer typhoon is set to make landfall in the Philippines for a second time, sparking flooding fears.
 
 ### [The wreckage of a plane carrying Mexican-American singer Jenni Rivera with two pilots and four other passengers is found in northern Mexico with no apparent survivors. ](/news/2012/12/9/the-wreckage-of-a-plane-carrying-mexican-american-singer-jenni-rivera-with-two-pilots-and-four-other-passengers-is-found-in-northern-mexico.md)
-_Context: Jenni Rivera, Mexican-American, Mexico, wreckage of a plane_
+_Context: Jenni Rivera, Mexican, Mexican-American, wreckage of a plane_
 
 ### [Thirteen people are killed and 10 are injured in Hsinchu County, Taiwan, when a bus with 23 people on board rolled off a cliff and tumbled over 100 meters. ](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.md)
 _Context: Hsinchu County, Taiwan, bus_

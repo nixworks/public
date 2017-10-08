@@ -10,7 +10,7 @@ _Context: Indonesia, earthquake, magnitude_
 _Context: Guinea, Moussa Dadis Camara, massacre of opposition protesters_
 
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: Burma, New York City, U.S._
+_Context: American, Burma, New York City_
 
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
 _Context: Nepal, church_

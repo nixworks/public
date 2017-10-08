@@ -19,7 +19,7 @@ _Context: Jean Charest, Montreal, Quebec, Quebec City, Trois-Rivires, strike_
 _Context: Dow Jones Industrial Average, US economy_
 
 ### [The Inuit Circumpolar Conference says it hopes to petition the inter-American human rights system to rule that Inuit basic rights are being violated by global warming. They claim that the greenhouse effect, exacerbated by the failure of Russia and the USA to sign the Kyoto Protocol, will lead to the destruction of their way of life. ](/news/2003/12/11/the-inuit-circumpolar-conference-says-it-hopes-to-petition-the-inter-american-human-rights-system-to-rule-that-inuit-basic-rights-are-being.md)
-_Context: Human rights, Inter-American Commission on Human Rights, Inuit, Kyoto Protocol, Russia, U.S., global warming, greenhouse effect_
+_Context: American, Human rights, Inter-American Commission on Human Rights, Inuit, Kyoto Protocol, Russia, global warming, greenhouse effect_
 
 ## [Previous Day...](/news/2003/12/10/index.md)
 

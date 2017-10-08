@@ -10,7 +10,7 @@ _Context: California, Cedars-Sinai Medical Center, Elton John, Los Angeles, resp
 The UK economy shrank by 0.3% in the first three months of the year, more than previously estimated, revised figures show.
 
 ### [The United States National Hurricane Center advises that Hurricane Bud has formed off the Pacific Ocean coast of Mexico and has reached category two strength. ](/news/2012/05/24/the-united-states-national-hurricane-center-advises-that-hurricane-bud-has-formed-off-the-pacific-ocean-coast-of-mexico-and-has-reached-cate.md)
-_Context: Hurricane Bud, Mexico, National Hurricane Center, Pacific Ocean_
+_Context: Hurricane Bud, Mexican, National Hurricane Center, Pacific Ocean_
 
 ### [London's Metropolitan Police is to send a team of detectives to Libya to continue the investigation into the 1984 murder of PC Yvonne Fletcher. ](/news/2012/05/24/london-s-metropolitan-police-is-to-send-a-team-of-detectives-to-libya-to-continue-the-investigation-into-the-1984-murder-of-pc-yvonne-fletch.md)
 A Metropolitan Police team is to fly to Libya to continue the investigation into the murder of PC Yvonne Fletcher, Prime Minister David Cameron says.

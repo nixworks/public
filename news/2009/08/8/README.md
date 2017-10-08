@@ -10,7 +10,7 @@ French student and two staff from Western embassies among those in the dock.
 _Context: Sri Lanka, Sri Lankan Civil War, local elections_
 
 ### [ A small plane and a tour helicopter collide over the Hudson River in the United States. ](/news/2009/08/8/a-small-plane-and-a-tour-helicopter-collide-over-the-hudson-river-in-the-united-states.md)
-_Context: Hudson River, U.S., collide_
+_Context: American, Hudson River, collide_
 
 ### [ A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.md)
 _Context: France, Mauritanian, Nouakchott, detonates a bomb, suicide bomber_

@@ -25,7 +25,7 @@ _Context: bacteria, genetic material, synthetic life_
 _Context: Greek, Wildfire, heat stroke_
 
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
-_Context: U.S., United States Senate, illegal worker_
+_Context: American, United States Senate, illegal worker_
 
 ### [ Former Libyan intelligence agent Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103, wins a case for an appeal in the Scottish Criminal Cases Review Commission. ](/news/2007/06/28/former-libyan-intelligence-agent-abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-wins-a-case-for-an-appeal-in-the-sco.md)
 _Context: Abdelbaset al-Megrahi, Libya, Lockerbie bombing, Scottish Criminal Cases Review Commission, appealed_

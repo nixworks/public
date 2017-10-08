@@ -22,7 +22,7 @@ A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at au
 _Context: Movember, prostate cancer_
 
 ### [The United Nations Climate Change Conference (COP-16) opens in the Mexican resort city of Cancun. ](/news/2010/11/30/the-united-nations-climate-change-conference-cop-16-opens-in-the-mexican-resort-city-of-cancaon.md)
-_Context: Cancun, Mexico, U.N. climate change talks, United Nations, climate change_
+_Context: Cancun, Mexican, U.N. climate change talks, United Nations, climate change_
 
 ### [Students protest in Rome and other Italian cities as politicians threaten to cut funding for education and research. ](/news/2010/11/30/students-protest-in-rome-and-other-italian-cities-as-politicians-threaten-to-cut-funding-for-education-and-research.md)
 Student protesters cause major disruption in Rome and other Italian cities as ministers debate cuts to education funding and time limits on research.

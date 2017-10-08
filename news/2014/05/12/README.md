@@ -4,7 +4,7 @@
 A Boko Haram video purports to show dozens of abducted Nigerian girls, as the government rejects an offer to swap them for imprisoned militants.
 
 ### [Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.md)
-_Context: Los Zetas, Mexican drug cartel, Mexico, Reynosa_
+_Context: Los Zetas, Mexican, Mexican drug cartel, Reynosa_
 
 ### [Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.md)
 _Context: Egypt, Egyptian presidential election, 2014, Free Syrian Army, Giza, Imbaba_

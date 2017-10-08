@@ -13,8 +13,8 @@
 
 ### Related:
 
-1. [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova, Mexico_
-2. [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova, Mexico_
-3. [Hurricane Dora strengthens to a Category 4 hurricane as it travels towards Mexico. ](/news/2011/07/20/hurricane-dora-strengthens-to-a-category-4-hurricane-as-it-travels-towards-mexico.md) _Context: Hurricane Jova, Mexico_
-4. [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md) _Context: Hurricane Jova, Mexico_
-5. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
+1. [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova, Mexican_
+2. [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md) _Context: Hurricane Jova, Mexican_
+3. [Hurricane Dora strengthens to a Category 4 hurricane as it travels towards Mexico. ](/news/2011/07/20/hurricane-dora-strengthens-to-a-category-4-hurricane-as-it-travels-towards-mexico.md) _Context: Hurricane Jova, Mexican_
+4. [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md) _Context: Hurricane Jova, Mexican_
+5. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexican_

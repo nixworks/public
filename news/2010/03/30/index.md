@@ -22,7 +22,7 @@ _Context: 2010 South American Games, Brazil, Colombia_
 In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 120 Indian sailors hostage. The sailors, on their way to Dubai, had anchored last in Kismayo to load cargo. They belong to Kutch and Saurashtra regions of Gujarat.
 
 ### [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md)
-_Context: Durango, Mexican states, Mexico_
+_Context: Durango, Mexican, Mexican states_
 
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)
 _Context: China, Inner Mongolia_

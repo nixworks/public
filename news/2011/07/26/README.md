@@ -16,7 +16,7 @@ _Context: AT&T, Al Franken, Department of Justice, Federal Communications Commis
 A Hercules military transport plane crashes in southern Morocco, killing 78 people, the Moroccan army says.
 
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, North Korea, U.S., its nuclear weapons program, six-party talks_
+_Context: American, Kim Kye Gwan, North Korea, its nuclear weapons program, six-party talks_
 
 ### [Senegalese rapper and government critic Omar Toure is arrested. ](/news/2011/07/26/senegalese-rapper-and-government-critic-omar-toure-is-arrested.md)
 _Context: Omar Toure, Senegal_
@@ -25,7 +25,7 @@ _Context: Omar Toure, Senegal_
 _Context: Sri Lankan police, prostitution_
 
 ### [A shootout at a prison in Ciudad Jurez, Mexico, leaves 17 dead. ](/news/2011/07/26/a-shootout-at-a-prison-in-ciudad-juarez-mexico-leaves-17-dead.md)
-_Context: Juarez, Mexico_
+_Context: Juarez, Mexican_
 
 ### [David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. ](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.md)
 _Context: Platform Networks, hacking_

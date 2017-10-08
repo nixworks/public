@@ -19,7 +19,7 @@ _Context: Miramshah, North Waziristan, Pakistan army, War in North-West Pakistan
 The bodies of three Israeli teenagers who were kidnapped in the West Bank earlier this month have been found north of the city of Hebron, a source confirmed to ABC News today.
 
 ### [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md)
-_Context: Mexican Army, Mexican Drug War, Mexico, Tlatlaya_
+_Context: Mexican, Mexican Army, Mexican Drug War, Tlatlaya_
 
 ### [Two intense derechos move across the Upper Midwest from June 30th-July 1st producing many relatively weak tornadoes. Major flooding also occurred in Iowa due to this system.](/news/2014/06/30/two-intense-derechos-move-across-the-upper-midwest-from-june-30th-july-1st-producing-many-relatively-weak-tornadoes-major-flooding-also-occ.md)
 _Context: derechos_

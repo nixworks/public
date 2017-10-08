@@ -4,7 +4,7 @@
 _Context: 2011 failed Gothenburg terrorist attack, Al Qaida's, Gothenburg, Swedish_
 
 ### [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md)
-_Context: Afghanistan, Kabul, NATO, Taliban, U.S._
+_Context: Afghanistan, American, Kabul, NATO, Taliban_
 
 ### [U.S. bankruptcy court judge Mary Walrath rejects a reorganization plan submitted by Washington Mutual, holding that the Debtors erred by planning to pay senior debtholders a contract rate of interest rather than the federal judgment rate. ](/news/2011/09/13/u-s-bankruptcy-court-judge-mary-walrath-rejects-a-reorganization-plan-submitted-by-washington-mutual-holding-that-the-debtors-erred-by-pla.md)
 _Context: Mary Walrath, Washington Mutual, bankruptcy_

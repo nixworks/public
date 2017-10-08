@@ -17,7 +17,7 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 2. [A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 3. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 4. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
-5. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Saudi Arabia_
+5. [A gunman opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the Saudi-national gunman. ](/news/2017/10/7/a-gunman-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-guards-shoo.md) _Context: Saudi Arabia_
 
 ### Changes:
 
