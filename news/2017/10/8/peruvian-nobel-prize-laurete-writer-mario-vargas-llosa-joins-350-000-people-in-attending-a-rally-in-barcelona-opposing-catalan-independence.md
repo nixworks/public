@@ -1,9 +1,14 @@
 ### [2017-10-8](/news/2017/10/8/index.md)
 
-# Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. ([http:--www.bbc.co.uk-news-world-europe-41544849 BBC])
+# Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. 
+
+At least 350,000 people protest against secession amid speculation Catalan leaders may declare independence.
 
 
+### Source:
 
+1. [BBC](http://www.bbc.co.uk/news/world-europe-41544849)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05jdf57.jpg)
 
 ### Related:
 

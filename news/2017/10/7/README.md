@@ -12,10 +12,13 @@ Regulators have approved Google&rsquo;s application to provide emergency cell ph
 ### [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were...
 
+### [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md)
+The World Health Organization has shipped a million doses of antibiotics to Madagascar, which is experiencing what may be its deadliest plague outbreak in years.
+
 ### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
 _Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
 
-### [Thousands of protesters throughout Russia call on President Vladimir Putin to resign. Russian police arrest 290 protesters. ](/news/2017/10/7/thousands-of-protesters-throughout-russia-call-on-president-vladimir-putin-to-resign-russian-police-arrest-290-protesters.md)
+### [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md)
 Police detained more than 200 opposition activists on Saturday for taking part in a wave of anti-Kremlin protests across Russia in support of jailed opposition leader Alexei Navalny, ahead of a presidential election in March, a monitoring group reported.
 
 ## [Previous Day...](/news/2017/10/6/index.md)
