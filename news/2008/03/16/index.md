@@ -28,7 +28,7 @@ _Context: 2008 presidential election, Taiwan, rallies_
 _Context: Chandel, India, Indian Army, Manipur, Minou, United National Liberation Front_
 
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: American, Pakistan, South Waziristan, U.S. soldiers, Wana, rocket attacks, strike, tribe_
+_Context: Pakistan, South Waziristan, U.S. soldiers, United States, Wana, rocket attacks, strike, tribe_
 
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
 _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
@@ -37,7 +37,7 @@ _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
 _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
-_Context: 2008, American, Iraq, John McCain, Republican candidate, United States Senator_
+_Context: 2008, Iraq, John McCain, Republican candidate, United States, United States Senator_
 
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
 _Context: Air France, Alitalia, EUR, Italy, KLM_

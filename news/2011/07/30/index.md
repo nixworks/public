@@ -19,7 +19,7 @@ At least 17 people have been killed and 21 others injured in a fire at a shoe fa
 A new team of officers is to investigate claims of computer hacking, the Metropolitan Police has announced.
 
 ### [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md)
-_Context: American, Chihuahua, Jos Antonio Acosta Hernndez, Juarez, La Lnea, Mexican_
+_Context: Chihuahua, Jos Antonio Acosta Hernndez, Juarez, La Lnea, Mexican, United States_
 
 ### [Four people are shot and one killed after a George Clinton concert in the US city of Cleveland, Ohio. ](/news/2011/07/30/four-people-are-shot-and-one-killed-after-a-george-clinton-concert-in-the-us-city-of-cleveland-ohio.md)
 A Unity in the Park concert event turned into panic after shots were fired into a crowd following a fight Saturday night.

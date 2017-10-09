@@ -13,7 +13,7 @@ _Context: Ehud Barak, Gaza, Israel_
 _Context: Pakistan, Swat, Pakistan_
 
 ### [ The United States imposes economic sanctions against the Iranian Revolutionary Guard for its support of terrorism. ](/news/2007/10/25/the-united-states-imposes-economic-sanctions-against-the-iranian-revolutionary-guard-for-its-support-of-terrorism.md)
-_Context: American, Iranian Revolutionary Guard, economic sanction, terrorism_
+_Context: Iranian Revolutionary Guard, United States, economic sanction, terrorism_
 
 ### [ Yang Jiechi, the foreign minister of China, meets with Pranab Mukherjee, the Foreign Minister of India, to discuss India's aspirations to become a Permanent Member of the United Nations Security Council. ](/news/2007/10/25/yang-jiechi-the-foreign-minister-of-china-meets-with-pranab-mukherjee-the-foreign-minister-of-india-to-discuss-india-s-aspirations-to-b.md)
 _Context: China, India, Pranab Mukherjee, United Nations Security Council, Yang_

@@ -16,7 +16,7 @@ Trade unions have announced plans for a second national strike in public sector 
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: Adam Lambert, American, homosexuality_
+_Context: Adam Lambert, United States, homosexuality_
 
 ### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
 _Context: Baha'i faith, Hamshahri, Iran, banned_

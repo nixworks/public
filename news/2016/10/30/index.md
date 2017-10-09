@@ -19,7 +19,7 @@ Canada and the EU sign the long-delayed Ceta free trade deal at a summit in Brus
 _Context: Boko Haram, Boko Haram insurgency, Nigeria, United Nations_
 
 ### [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md)
-_Context: American, Istanbul, Turkey, consulate_
+_Context: Istanbul, Turkey, U.S Mission, United States_
 
 ### [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md)
 Turkey said it had dismissed a further 10,000 civil servants and closed 15 more media outlets over suspected links with terrorist organizations and U.S.-based cleric Fethullah Gulen, blamed by Ankara for orchestrating a failed coup in July.

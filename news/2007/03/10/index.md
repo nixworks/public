@@ -7,7 +7,7 @@ _Context: Fiji, Labasa, Vanua Levu, flood_
 _Context: China, Fushun, Shenyang, coal mine, flood, province_
 
 ### [ President George W. Bush approves 8,200 more United States troops for Iraq and Afghanistan. ](/news/2007/03/10/president-george-w-bush-approves-8-200-more-united-states-troops-for-iraq-and-afghanistan.md)
-_Context: Afghanistan, American, George W. Bush, Iraq, U.S. President_
+_Context: Afghanistan, George W. Bush, Iraq, U.S. President, United States_
 
 ### [ Thousands of supporters of legislation giving equal rights on issues to heterosexual and gay couples in Italy attend a rally in Rome. ](/news/2007/03/10/thousands-of-supporters-of-legislation-giving-equal-rights-on-issues-to-heterosexual-and-gay-couples-in-italy-attend-a-rally-in-rome.md)
 _Context: Italy, Rome_
@@ -28,7 +28,7 @@ _Context: Gladys Nyirongo, Lusaka, Zambia_
 _Context: Kosovo, Serbia, ethnic Albanian_
 
 ### [ A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syria-and-the-uni.md)
-_Context: American, Baghdad, Iran, Iraq, Syria_
+_Context: Baghdad, Iran, Iraq, Syria, United States_
 
 ## [Previous Day...](/news/2007/03/9/index.md)
 

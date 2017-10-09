@@ -1,7 +1,7 @@
 ## [2005-10-14](/news/2005/10/14/index.md)
 
 ### [ Zimbabwean state-owned media announces that the Zimbabwean government briefly detained the United States ambassador, on Monday, October 10. The United States considers the matter closed following a formal apology. ](/news/2005/10/14/zimbabwean-state-owned-media-announces-that-the-zimbabwean-government-briefly-detained-the-united-states-ambassador-on-monday-october-10.md)
-_Context: American, Zimbabwe_
+_Context: United States, Zimbabwe_
 
 ### [ 2005 Kashmir earthquake: SOS Children's Villages have been appointed temporary custodian of unaccompanied children. SOS will run the family tracing database and look after children in their emergency centre in Islamabad and in other six villages in Kashmir. ](/news/2005/10/14/2005-kashmir-earthquake-sos-children-s-villages-have-been-appointed-temporary-custodian-of-unaccompanied-children-sos-will-run-the-family.md)
 _Context: 2005 Kashmir earthquake, Islamabad, SOS Children_

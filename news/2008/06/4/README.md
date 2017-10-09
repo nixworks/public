@@ -16,7 +16,7 @@ _Context: ECURIE, EU, Krsko Nuclear Power Plant, Slovenia, coolant leak_
 _Context: Axum, Obelisk of Axum_
 
 ### [ The International Olympic Committee releases a shortlist of 2016 Summer Olympics bids consisting of Chicago, United States; Tokyo, Japan; Madrid, Spain; and Rio de Janeiro, Brazil. ](/news/2008/06/4/the-international-olympic-committee-releases-a-shortlist-of-2016-summer-olympics-bids-consisting-of-chicago-united-states-tokyo-japan-m.md)
-_Context: 2016 Summer Olympics bids, American, Brazil, Chicago, International Olympic Committee, Japan, Madrid, Rio de Janeiro, Spain, Tokyo_
+_Context: 2016 Summer Olympics bids, Brazil, Chicago, International Olympic Committee, Japan, Madrid, Rio de Janeiro, Spain, Tokyo, United States_
 
 ### [ Zimbabwean police detain Movement for Democratic Change leader Morgan Tsvangirai while campaigning in the second round of the Zimbabwe presidential election. He is later released after eight hours in detention. ](/news/2008/06/4/zimbabwean-police-detain-movement-for-democratic-change-leader-morgan-tsvangirai-while-campaigning-in-the-second-round-of-the-zimbabwe-pres.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, police, run-off presidential election_

@@ -25,5 +25,5 @@ Opposition groups call for protests on Monday as riot police clash with youths i
 
 1. [2011 Bahraini protests:Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-panti-regime-protests-occur-in-bahrain.md) _2017-08-25 03:32:10 (First version)_
 2. [2011 Bahraini protests:: Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md) _2017-08-27 03:32:19 (Update)_
-3. [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md) _2017-10-07 03:37:45 (Update)_
+3. [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md) _2017-10-08 03:37:28 (Update)_
 3. [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md) _(Current version)_

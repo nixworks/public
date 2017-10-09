@@ -46,7 +46,7 @@ War crimes suspect Goran Hadzic arrives in the Netherlands after being flown fro
 Strathclyde Police are investigating phone hacking and breaches of data protection in Scotland, the Crown Office confirms.
 
 ### [Two Mexican police officers assigned to guard the United States consulate in Monterrey are killed in a drive-by shooting while off duty. ](/news/2011/07/22/two-mexican-police-officers-assigned-to-guard-the-united-states-consulate-in-monterrey-are-killed-in-a-drive-by-shooting-while-off-duty.md)
-_Context: American, Mexican police, Monterrey_
+_Context: Mexican police, Monterrey, United States_
 
 ### [Debt negotiations between President of the United States Barack Obama and Speaker of the House of Representatives John Boehner collapse. ](/news/2011/07/22/debt-negotiations-between-president-of-the-united-states-barack-obama-and-speaker-of-the-house-of-representatives-john-boehner-collapse.md)
 The Senate rejected a conservative plan to require a balanced budget, as officials continued to work toward a &lsquo;grand bargain&rsquo; on debt.

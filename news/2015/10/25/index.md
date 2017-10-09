@@ -22,7 +22,7 @@ A massive search-and-rescue effort was launched after the vessel made a mayday c
 European leaders held an emergency summit Sunday to find ways of easing the plight of those caught up in the continent&apos;s greatest immigration crisis in decades.
 
 ### [United States military and intelligence sources cite concerns about Russian activities near undersea cables that suggest plans to intercept or cut communication over these vital links. ](/news/2015/10/25/united-states-military-and-intelligence-sources-cite-concerns-about-russian-activities-near-undersea-cables-that-suggest-plans-to-intercept.md)
-_Context: American, Russia, undersea cables_
+_Context: Russia, United States, undersea cables_
 
 ### [Police have updated information on the casualties from this crash. Four died and 47 were injured; five remain in critical condition. ](/news/2015/10/25/police-have-updated-information-on-the-casualties-from-this-crash-four-died-and-47-were-injured-five-remain-in-critical-condition.md)
 A toddler was among four people killed when an allegedly inebriated woman drove a car into crowds at an Oklahoma State University parade, Stillwater police said. The Saturday crash also injured dozens of people, including 11 victims younger than 13. The car&#039;s driver has been arrested on suspici...

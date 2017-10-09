@@ -4,7 +4,7 @@
 _Context: Mogadishu, Somalian_
 
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
-_Context: American, Israel, State of Palestine, UNESCO_
+_Context: Israel, State of Palestine, UNESCO, United States_
 
 ### [Typhoon Haiyan, one of the strongest tropical cyclones in recorded history to make landfall, hits the Visayas in the Philippines, with at least three people dead. ](/news/2013/11/8/typhoon-haiyan-one-of-the-strongest-tropical-cyclones-in-recorded-history-to-make-landfall-hits-the-visayas-in-the-philippines-with-at-le.md)
 One of the strongest typhoons ever to hit land has slammed the Philippines, forcing millions to take shelter.

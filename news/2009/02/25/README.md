@@ -4,7 +4,7 @@
 _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Nations, Zam Zam, refugee, refugee camp_
 
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: American, Barack Obama, Gary Locke, Governor, U.S. President, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, U.S. President, United States, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
 _Context: Afghanistan, British, British Army, Gerishk District, Helmand Province, improvised explosive device_
@@ -43,13 +43,13 @@ _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
 _Context: Japan, export_
 
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: American, China, Chinese human rights, Department of State_
+_Context: China, Chinese human rights, Department of State, United States_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Somali Civil War, Somalian, radical Islamists, terrorism_
 
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels. ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
-_Context: American, Mexican, drug cartel_
+_Context: Mexican, United States, drug cartel_
 
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, conspiracy, defense contractor, weapon_

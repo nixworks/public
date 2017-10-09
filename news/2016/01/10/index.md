@@ -37,7 +37,7 @@ _Context: Bowe Bergdahl, Taliban, U.S. soldiers, court-martial_
 _Context: Arely Gomez, Attorney General of Mexico, Joaquin "El Chapo" Guzman, Kate del Castillo, Mexican Drug War, Rolling Stone, Sean Penn_
 
 ### [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md)
-_Context: Artur Mas i Gavarro, Carles Puigdemont, President, Pro-independent, Spain_
+_Context: Artur Mas i Gavarro, Carles Puigdemont, Catalan independence, President, Spain_
 
 ## [Previous Day...](/news/2016/01/9/index.md)
 

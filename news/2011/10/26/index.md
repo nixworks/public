@@ -16,7 +16,7 @@ _Context: Amy Winehouse, British, alcohol poisoning, coronial, soul music_
 _Context: All Nippon Airways, Boeing 787 Dreamliner, Hong Kong, Tokyo, composite_
 
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: American, British, Japan, Olympus Corp, Tsuyoshi Kikukawa_
+_Context: British, Japan, Olympus Corp, Tsuyoshi Kikukawa, United States_
 
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
 _Context: Cancun, Hurricane Rina, Mexican_

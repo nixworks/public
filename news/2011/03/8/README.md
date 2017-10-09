@@ -49,7 +49,7 @@ _Context: Darfur, International Criminal Court_
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: American, Marisol Valles Garcia, Mexican, Praxedis G. Guerrero, Chihuahua_
+_Context: Marisol Valles Garcia, Mexican, Praxedis G. Guerrero, Chihuahua, United States_
 
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
 Twenty-one Roman Catholic priests are suspended in Philadelphia after the release of a legal report into allegations of child molestation.

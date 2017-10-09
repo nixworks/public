@@ -20,5 +20,5 @@
 
 ### Changes:
 
-1. [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md) _2017-10-07 03:52:16 (First version)_
+1. [One person is killed and seven others are injured in a shooting outside a Rochester, New York sports bar. ](/news/2016/02/7/one-person-is-killed-and-seven-others-are-injured-in-a-shooting-outside-a-rochester-new-york-sports-bar.md) _2017-10-08 03:52:09 (First version)_
 1. [Two people are killed and ten others are injured in a shooting outside an Orlando, Florida nightclub. ](/news/2016/02/7/two-people-are-killed-and-ten-others-are-injured-in-a-shooting-outside-an-orlando-florida-nightclub.md) _(Current version)_

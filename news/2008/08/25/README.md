@@ -16,7 +16,7 @@ Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeb
 _Context: Baltic Fleet, Cold War, Russia_
 
 ### [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md)
-_Context: American, Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, Secretary of State_
+_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, Secretary of State, United States_
 
 ### [ Lovemore Moyo is elected Speaker of the House of Assembly of Zimbabwe. He is the first opposition speaker since the country's independence in 1980. ](/news/2008/08/25/lovemore-moyo-is-elected-speaker-of-the-house-of-assembly-of-zimbabwe-he-is-the-first-opposition-speaker-since-the-country-s-independence.md)
 _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_

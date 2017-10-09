@@ -4,7 +4,7 @@
 Though clashes in the town of Khan Younis were being portrayed in the Palestinian news media as a feud between families, they also took on a factional hue.
 
 ### [ The United States and South Korea reach agreement to return control over South Korea's military to South Korea by 2012. ](/news/2007/02/23/the-united-states-and-south-korea-reach-agreement-to-return-control-over-south-korea-s-military-to-south-korea-by-2012.md)
-_Context: 2012, American, South Korea, South Korea's military, control_
+_Context: 2012, South Korea, South Korea's military, United States, control_
 
 ### [ Prime Minister of Papua New Guinea Michael Somare disbands an inquiry into the extradition of Julian Moti to the Solomon Islands to avoid extradition to Australia. ](/news/2007/02/23/prime-minister-of-papua-new-guinea-michael-somare-disbands-an-inquiry-into-the-extradition-of-julian-moti-to-the-solomon-islands-to-avoid-e.md)
 _Context: Australia, Julian Moti, Michael Somare, Prime Minister of Papua New Guinea, Solomon Islands, extradited_

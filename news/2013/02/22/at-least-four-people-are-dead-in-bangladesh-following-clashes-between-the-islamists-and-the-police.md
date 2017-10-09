@@ -15,7 +15,7 @@
 2. [The Bangladesh Police hold editor Mahmudur Rahman from "Amar Desh", an opposition newspaper, in custody on charges of sedition, illegal publication of Skype conversations of a judge in Bangladesh's ongoing war crimes trial, and inciting violence in recent protests. ](/news/2013/04/11/the-bangladesh-police-hold-editor-mahmudur-rahman-from-amar-desh-an-opposition-newspaper-in-custody-on-charges-of-sedition-illegal-publ.md) _Context: Bangladesh, police officers_
 3. [Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. ](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-garment-workers-as-protests-spread-beyond-the-capital-dhaka-to-other-bangladeshi-cities.md) _Context: Bangladesh, police officers_
 4. [ The Bangladesh Police arrest 31 suspected Hizb ut-Tahrir members for planning terrorism. ](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.md) _Context: Bangladesh, police officers_
-5. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Bangladesh_
+5. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: Bangladesh_
 
 ### Changes:
 

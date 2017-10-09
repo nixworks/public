@@ -16,7 +16,7 @@
 2. [Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew-themselves-up-near-mecca.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 3. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 4. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
-5. [A gunman opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the Saudi-national gunman. ](/news/2017/10/7/a-gunman-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-guards-shoo.md) _Context: Saudi Arabia_
+5. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Saudi Arabia_
 
 ### Changes:
 

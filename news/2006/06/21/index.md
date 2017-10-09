@@ -19,7 +19,7 @@ _Context: East Timor, Mari Alkatiri, President, Prime Minister of East Timor, Xa
 _Context: Baghdad, Saddam Hussein, assassinated, one_
 
 ### [ United States celebrates national Go Skateboarding Day.](/news/2006/06/21/united-states-celebrates-national-go-skateboarding-day.md)
-_Context: American_
+_Context: United States_
 
 ### [ Ukraine's formerly estranged Orange Revolution allies reach an agreement to restore Yulia Tymoshenko as Prime Minister of Ukraine after three months of uncertainty. ](/news/2006/06/21/ukraine-s-formerly-estranged-orange-revolution-allies-reach-an-agreement-to-restore-yulia-tymoshenko-as-prime-minister-of-ukraine-after-thr.md)
 _Context: Orange Revolution, Prime Minister of Ukraine, Ukraine, Yulia Tymoshenko_

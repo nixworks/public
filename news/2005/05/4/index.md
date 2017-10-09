@@ -22,7 +22,7 @@ _Context: 1995, Chile, Ecuador, Peru, free trade_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ U.S. firefighter Donald Herbert, blind and virtually silent due to brain injury since 1995, recovers unexpectedly, regaining the powers of speech. ](/news/2005/05/4/u-s-firefighter-donald-herbert-blind-and-virtually-silent-due-to-brain-injury-since-1995-recovers-unexpectedly-regaining-the-powers-of.md)
-_Context: 1995, American, Donald Herbert, brain injury, firefighter_
+_Context: 1995, Donald Herbert, United States, brain injury, firefighter_
 
 ## [Previous Day...](/news/2005/05/3/index.md)
 

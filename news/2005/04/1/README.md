@@ -28,7 +28,7 @@ _Context: Laos, World Bank, hydroelectric_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ The government of Argentina delays the restructuring of its debt by the exchange of old bonds for new because of a decision by a federal court judge in the United States that froze the processing of the old bonds in the possession of the Bank of New York pending a hearing before the appeals court. ](/news/2005/04/1/the-government-of-argentina-delays-the-restructuring-of-its-debt-by-the-exchange-of-old-bonds-for-new-because-of-a-decision-by-a-federal-co.md)
-_Context: American, Argentina, Bank of New York_
+_Context: Argentina, Bank of New York, United States_
 
 ## [Previous Day...](/news/2005/03/31/index.md)
 

@@ -28,7 +28,7 @@ Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 _Context: Kosovo_
 
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: American, Australia, British, International Whaling Commission , Japan, boycott, hunt_
+_Context: Australia, British, International Whaling Commission , Japan, United States, boycott, hunt_
 
 ### [ At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. ](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.md)
 _Context: Beirut, Lebanon, Bikfaya_

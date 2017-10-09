@@ -28,7 +28,7 @@ _Context: 2011, Egypt, Egyptian presidential election in September, IAEA, Mohame
 _Context: Tawa, Theropod, Triassic, dinosaur_
 
 ### [ North Korea acknowledges "the need to resume" the stalled six-party talks on its nuclear program, after talks with U.S. envoy Stephen Bosworth. ](/news/2009/12/11/north-korea-acknowledges-the-need-to-resume-the-stalled-six-party-talks-on-its-nuclear-program-after-talks-with-u-s-envoy-stephen-boswo.md)
-_Context: American, North Korea, Stephen Bosworth, its nuclear weapons program, six-party talks_
+_Context: North Korea, Stephen Bosworth, United States, its nuclear weapons program, six-party talks_
 
 ### [ The Airbus A400M from Airbus Military performs its maiden flight in Seville, Spain. ](/news/2009/12/11/the-airbus-a400m-from-airbus-military-performs-its-maiden-flight-in-seville-spain.md)
 A new European militarytransport plane, the Airbus EAD.PA A400M, took to the skies on Friday in a boost to a 20 billion euro ($29.45 billion)project threatened by soaring costs after a two-year developmentdelay.

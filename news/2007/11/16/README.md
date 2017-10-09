@@ -34,7 +34,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 _Context: OSCE, parliamentary elections, visa-free travel_
 
 ### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
-_Context: American, Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary of State, democratic progress_
+_Context: Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary of State, United States, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
@@ -43,7 +43,7 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: American, George W. Bush, Japan, Prime Minister of Japan, U.S. President, Yasuo Fukuda_
+_Context: George W. Bush, Japan, Prime Minister of Japan, U.S. President, United States, Yasuo Fukuda_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_

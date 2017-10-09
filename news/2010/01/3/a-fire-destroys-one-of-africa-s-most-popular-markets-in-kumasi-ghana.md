@@ -13,7 +13,7 @@ Fire gutted a large and popular market in Kumasi, Ghana, known for attracting tr
 
 ### Related:
 
-1. [An explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, kills at least two people and injures twenty-five more. ](/news/2017/10/7/an-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra-kills-at-least-two-people-and-injures-twenty-five-more.md) _Context: Ghana_
+1. [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md) _Context: Ghana_
 2. [A large tree falls into a pool at the base of the Kintampo waterfalls in Ghana, killing at least 18 people and injuring 22 others. ](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.md) _Context: Ghana_
 3. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Africa_
 4. [Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race-between-incumbent-president-john.md) _Context: Ghana_

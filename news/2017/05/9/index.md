@@ -16,7 +16,7 @@ The Trump administration says Mr Comey made &quot;serious mistakes&quot; in the 
 Being a communist would no longer be a fireable offense for California government employees under a bill passed Monday by the state Assembly.
 
 ### [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md)
-_Context: American, Georgia's 6th congressional district special election, 2017, Jon Ossoff, Karen Handel, Tom Price_
+_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, Karen Handel, Tom Price, United States_
 
 ## [Previous Day...](/news/2017/05/8/index.md)
 

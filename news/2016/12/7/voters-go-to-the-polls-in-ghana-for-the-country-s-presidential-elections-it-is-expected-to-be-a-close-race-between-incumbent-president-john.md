@@ -15,7 +15,7 @@ The race is tight with President John Mahama and his rival Nana Akufo Addo runni
 2. [Opposition leader Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/opposition-leader-nana-akufo-addo-wins-the-presidency.md) _Context: Ghanaian general election, 2016, Nana Akufo-Addo_
 3. [The President of Ghana, John Atta Mills, dies and is replaced by Vice-President John Dramani Mahama. ](/news/2012/07/24/the-president-of-ghana-john-atta-mills-dies-and-is-replaced-by-vice-president-john-dramani-mahama.md) _Context: Ghana, John Dramani Mahama_
 4. [ Ghanaians vote in the presidential election run-off between Nana Akufo-Addo and John Atta Mills. ](/news/2008/12/28/ghanaians-vote-in-the-presidential-election-run-off-between-nana-akufo-addo-and-john-atta-mills.md) _Context: Ghana, Nana Akufo-Addo_
-5. [An explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, kills at least two people and injures twenty-five more. ](/news/2017/10/7/an-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra-kills-at-least-two-people-and-injures-twenty-five-more.md) _Context: Ghana_
+5. [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md) _Context: Ghana_
 
 ### Changes:
 

@@ -37,10 +37,10 @@ Afghan president and Qatari emir discussed opening of office for Taliban in Doha
 Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s &quot;nuclear treasures&quot; will not be swapped for aid.
 
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: American, District Attorney, Kaufman County, Texas_
+_Context: District Attorney, Kaufman County, Texas, United States_
 
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: American, California, Merced, gang_
+_Context: California, Merced, United States, gang_
 
 ### [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md)
 Faithful around the world celebrate Easter Sunday with church services and community events.

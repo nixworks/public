@@ -4,7 +4,7 @@
 Killing Of Palestinian Schoolgirl, 10, Sparks Renewed Violence
 
 ### [ Conflict in Iraq: U.S. guards shoot dead four Iraqi prisoners following an alleged riot at the Camp Bucca prison in southern Iraq. ](/news/2005/01/31/conflict-in-iraq-u-s-guards-shoot-dead-four-iraqi-prisoners-following-an-alleged-riot-at-the-camp-bucca-prison-in-southern-iraq.md)
-_Context: American, Camp Bucca, Conflict in Iraq, Iraq_
+_Context: Camp Bucca, Conflict in Iraq, Iraq, United States_
 
 ### [ US entertainer Michael Jackson pleads his innocence before his trial for alleged child molestation begins in Santa Maria, California. ](/news/2005/01/31/us-entertainer-michael-jackson-pleads-his-innocence-before-his-trial-for-alleged-child-molestation-begins-in-santa-maria-california.md)
 Michael Jackson spoke out Sunday against leaks in his child-molestation case, reiterating his innocence and calling the material recently revealed from grand jury transcripts &quot;disgusting and...

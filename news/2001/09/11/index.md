@@ -4,7 +4,7 @@
 _Context: New York City, Pennsylvania, September 11 attacks, United States military, al-Qaeda, predecessor_
 
 ### [ Canada's border with the United States is on high alert in the aftermath of the terrorist attacks in the United States so the Canadian government initiates both "Operation Support" and "Operation Yellow Ribbon." Early speculation about the source of the attacks centered on Saudi-born terrorist leader Osama bin Laden, who was living in and working from Afghanistan. Islamic Emirate of Afghanistan leaders condemned the attacks and rejected suggestions that Osama bin Laden could be behind them. Prime Minister of the United Kingdom Tony Blair cancels a speech he was due to give to the TUC, and pledges to "stand shoulder to shoulder" with the United States.](/news/2001/09/11/canada-s-border-with-the-united-states-is-on-high-alert-in-the-aftermath-of-the-terrorist-attacks-in-the-united-states-so-the-canadian-gove.md)
-_Context: Afghanistan, Afghanistan under the Taliban, American, Operation Support, Operation Yellow Ribbon, Osama bin Laden, Tony Blair_
+_Context: Afghanistan, Afghanistan under the Taliban, Operation Support, Operation Yellow Ribbon, Osama bin Laden, Tony Blair, United States_
 
 ## [Previous Day...](/news/2001/09/10/index.md)
 

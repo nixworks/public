@@ -7,7 +7,7 @@ Police in Mexico find the body of the kidnapped mayor of the northern city of Sa
 More than 2,000 civilian and military personnel from 18 countries began a 12-day exercise in Panama City Tuesday to train in a joint, multinational effort to defend the Panama Canal.
 
 ### [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md)
-_Context: American, Julian Assange, WikiLeaks_
+_Context: Julian Assange, United States, WikiLeaks_
 
 ### [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md)
 The last full U.S. combat brigade crossed the border into Kuwait on Thursday morning, bringing to a close the active combat phase of the 7½-year war.
@@ -16,7 +16,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: American, Barack Obama, Mexican, U.S. President_
+_Context: Barack Obama, Mexican, U.S. President, United States_
 
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.
@@ -37,16 +37,16 @@ _Context: Iceland_
 Taiwanese technology giant Foxconn plans to hold a morale-boosting employee rally after a string of suicides at its Chinese factories turned a spotlight on working conditions. ? Ten tech
 
 ### [United States car maker General Motors files for an Initial Public Offering. ](/news/2010/08/18/united-states-car-maker-general-motors-files-for-an-initial-public-offering.md)
-_Context: American, General Motors, IPO_
+_Context: General Motors, IPO, United States_
 
 ### [Japanese carmaker Mazda recalls 215,000 vehicles in the United States and 11,000 vehicles in China due to power steering flaws. ](/news/2010/08/18/japanese-carmaker-mazda-recalls-215-000-vehicles-in-the-united-states-and-11-000-vehicles-in-china-due-to-power-steering-flaws.md)
-_Context: American, Chinese, Japan, Mazda, power steering_
+_Context: Chinese, Japan, Mazda, United States, power steering_
 
 ### [Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
 Only 40 per cent of funds needed for immediate flood relief have been received, UN says.
 
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
-_Context: American, Gulf of Mexico_
+_Context: Gulf of Mexico, United States_
 
 ### [A North Korean fighter plane crashes in China near the border, killing the pilot and possibly a second pilot bailing out. Pictures posted by local residents show a Soviet plane design which were used in the Korean War. It is suggested to have been a defection attempt. ](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.md)
 A North Korean aircraft, which may be a fighter jet carrying a suspected defector, has crashed in China, according to reports.
@@ -76,7 +76,7 @@ _Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spain_
 Russia, Afghanistan, Pakistan and Tajikistan agreed to step up joint fight against terrorism and narcotics at a quadripartite summit on Wednesday. Terrorism and drug trafficking pose a “threat to peac
 
 ### [The United States offers its support for a proposed international commission intent on examining alleged war crimes by the military junta of Burma. ](/news/2010/08/18/the-united-states-offers-its-support-for-a-proposed-international-commission-intent-on-examining-alleged-war-crimes-by-the-military-junta-of.md)
-_Context: American, Burma, war crime_
+_Context: Burma, United States, war crime_
 
 ### [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md)
 _Context: Israel, Tel Aviv, Turkey_

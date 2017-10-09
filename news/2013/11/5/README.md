@@ -19,7 +19,7 @@ _Context: Bangkok, Prime Minister, Thailand, Thaksin Shinawatra_
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.
 
 ### [SAC Capital Advisors pleads guilty to insider trading and wire fraud and agrees to pay $1.8 billion in penalties to the United States. ](/news/2013/11/5/sac-capital-advisors-pleads-guilty-to-insider-trading-and-wire-fraud-and-agrees-to-pay-1-8-billion-in-penalties-to-the-united-states.md)
-_Context: American, SAC Capital Advisors, insider trading, wire fraud_
+_Context: SAC Capital Advisors, United States, insider trading, wire fraud_
 
 ### [152 people are sentenced to death in Bangladesh in connection to the 2009 Bangladesh Rifles revolt. ](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.md)
 A special court in Bangladesh on Tuesday sentenced to death more than 150 people among hundreds of border guards accused of murder and arson during a mutiny at their headquarters in 2009.

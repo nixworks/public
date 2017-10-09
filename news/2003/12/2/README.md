@@ -25,7 +25,7 @@ _Context: Arnold Schwarzenegger, British, Chris Patten, Defense Secretary, Donal
 _Context: Paris, flu_
 
 ### [ The European Union threatens retaliatory sanctions unless the United States lifts its threat of restrictions on imports of steel; the US measures have been declared illegal by the WTO. [http:--abcnews.go.com-wire-Politics-ap20031201_936.html]](/news/2003/12/2/the-european-union-threatens-retaliatory-sanctions-unless-the-united-states-lifts-its-threat-of-restrictions-on-imports-of-steel-the-us-me.md)
-_Context: American, EU, WTO, steel_
+_Context: EU, United States, WTO, steel_
 
 ### [ Pirate copies of a pre-alpha version of Microsoft's Windows "Longhorn" operating system go on sale in Malaysia more than a year ahead of its expected release date. [http:--news.bbc.co.uk-2-hi-technology-3255120.stm]](/news/2003/12/2/pirate-copies-of-a-pre-alpha-version-of-microsoft-s-windows-longhorn-operating-system-go-on-sale-in-malaysia-more-than-a-year-ahead-of-it.md)
 _Context: Malaysia, Microsoft, Windows Vista_
@@ -34,7 +34,7 @@ _Context: Malaysia, Microsoft, Windows Vista_
 _Context: Great Internet Mersenne Prime Search, Mersenne prime, decimal, digits, prime number_
 
 ### [ The Pentagon announces that U.S.-born illegal combatant and Taliban fighter Yaser Esam Hamdi will be allowed access to a lawyer after having been denied such counsel for two years. [http:--www.myafghan.com-news2.asp?id=985750365&search=12-3-2003]](/news/2003/12/2/the-pentagon-announces-that-u-s-born-illegal-combatant-and-taliban-fighter-yaser-esam-hamdi-will-be-allowed-access-to-a-lawyer-after-havin.md)
-_Context: American, Taliban, United States military, Yaser Esam Hamdi, illegal enemy combatant_
+_Context: Taliban, United States, United States military, Yaser Esam Hamdi, illegal enemy combatant_
 
 ## [Previous Day...](/news/2003/12/1/index.md)
 

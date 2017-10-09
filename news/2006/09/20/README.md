@@ -13,7 +13,7 @@ _Context: Jacob Zuma, Pietermaritzburg, South Africa, Thabo Mbeki_
 _Context: Bangladesh, Bay of Bengal, India_
 
 ### [ The United States Federal Reserve decides to leave its benchmark interest rate unchanged at 5.25% for a second successive month. Chairman Ben Bernanke and his colleagues believe a slowing economy and falling energy prices are starting to relieve inflation pressures. ](/news/2006/09/20/the-united-states-federal-reserve-decides-to-leave-its-benchmark-interest-rate-unchanged-at-5-25-for-a-second-successive-month-chairman-b.md)
-_Context: American, Ben Bernanke, Federal Reserve, interest rate_
+_Context: Ben Bernanke, Federal Reserve, United States, interest rate_
 
 ### [ Shinzo Abe is elected as party leader of the Liberal Democratic Party in Japan, replacing the current Prime Minister Junichiro Koizumi. He will likely be elected as the new prime minister on 30 September 2006. ](/news/2006/09/20/shinzo-abe-is-elected-as-party-leader-of-the-liberal-democratic-party-in-japan-replacing-the-current-prime-minister-junichiro-koizumi-he.md)
 _Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_

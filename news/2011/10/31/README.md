@@ -13,7 +13,7 @@ _Context: $, Japanese government, exchange rate, yen_
 US brokerage firm MF Global files for bankruptcy protection after revealing £4bn of eurozone debt exposure.
 
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: American, State of Palestine, UNESCO, United Nations_
+_Context: State of Palestine, UNESCO, United Nations, United States_
 
 ### [A jury in the US state of Arizona convicts Mark Goodeau on all charges related to the Baseline Killer murders. ](/news/2011/10/31/a-jury-in-the-us-state-of-arizona-convicts-mark-goodeau-on-all-charges-related-to-the-baseline-killer-murders.md)
 _Context: Arizona, Baseline Killer_

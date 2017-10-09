@@ -1,10 +1,10 @@
 ## [2009-04-1](/news/2009/04/1/index.md)
 
 ### [ The 72-year-old American soap opera "Guiding Light" will broadcast its final episode on September 18. ](/news/2009/04/1/the-72-year-old-american-soap-opera-guiding-light-will-broadcast-its-final-episode-on-september-18.md)
-_Context: American, Guiding Light, broadcaster, soap opera_
+_Context: Guiding Light, United States, broadcaster, soap opera_
 
 ### [ The United States and Russia begin Strategic Arms Limitation Talks. ](/news/2009/04/1/the-united-states-and-russia-begin-strategic-arms-limitation-talks.md)
-_Context: American, Russia, Strategic Arms Limitation Talks_
+_Context: Russia, Strategic Arms Limitation Talks, United States_
 
 ### [ Local government in England undergoes structural changes. ](/news/2009/04/1/local-government-in-england-undergoes-structural-changes.md)
 _Context: England, local government, structural changes_

@@ -1,10 +1,10 @@
 ## [2009-03-10](/news/2009/03/10/index.md)
 
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: $, American, United States Senate, omnibus spending bill_
+_Context: $, United States, United States Senate, omnibus spending bill_
 
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
-_Context: Alabama, American, Geneva County, shooting spree_
+_Context: Alabama, Geneva County, United States, shooting spree_
 
 ### [ The Eurovision Song Contest disallows Georgian pop group Stephane & 3G's "We Don't Wanna Put In." ](/news/2009/03/10/the-eurovision-song-contest-disallows-georgian-pop-group-stephane-3g-s-we-don-t-wanna-put-in.md)
 _Context: Eurovision Song Contest, Georgian, Stephane & 3G, We Don't Wanna Put In, pop_

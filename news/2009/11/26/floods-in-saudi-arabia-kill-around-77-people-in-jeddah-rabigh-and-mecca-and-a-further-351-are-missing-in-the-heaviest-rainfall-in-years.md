@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [A gunman opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the Saudi-national gunman. ](/news/2017/10/7/a-gunman-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-guards-shoo.md) _Context: Jeddah_
+1. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Jeddah_
 2. [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md) _Context: Jeddah_
 3. [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md) _Context: Jeddah_
 4. [Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. ](/news/2016/05/5/saudi-security-forces-shoot-dead-two-alleged-islamic-state-of-iraq-and-the-levant-militants-while-two-others-blew-themselves-up-near-mecca.md) _Context: Mecca_

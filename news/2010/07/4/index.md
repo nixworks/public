@@ -25,10 +25,10 @@ _Context: Africa, Lula, President_
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.
 
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: American, CIA, Iran, Shahram Amiri, Switzerland, Tehran_
+_Context: CIA, Iran, Shahram Amiri, Switzerland, Tehran, United States_
 
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
-_Context: American, Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, competitive eating_
+_Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, United States, competitive eating_
 
 ### [Polish voters head to the polls for the second round of presidential voting.Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initially-concedes-defeat-after-exit-polls-sh.md)
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.

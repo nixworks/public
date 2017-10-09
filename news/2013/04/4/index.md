@@ -34,7 +34,7 @@ _Context: Chechnya, Grozny, Russia_
 The death toll from a new strain of bird flu rose to six in China on Thursday as scientists at the U.S. Centers for Disease Control and Prevention and around the world stepped up efforts to determine...
 
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
-_Context: ''Neuron'', Alzheimer's disease, American, Washington University, genetic markers_
+_Context: ''Neuron'', Alzheimer's disease, United States, Washington University, genetic markers_
 
 ### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;

@@ -25,7 +25,7 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 Iran has failed to give &quot;a concrete response&quot; to proposals aimed at ending deadlock over its nuclear programme, a Western diplomat at talks in Almaty says.
 
 ### [The United States agrees to a plan to return some land, used by the US Military's Futenma Airbase in Okinawa, to Japan. ](/news/2013/04/5/the-united-states-agrees-to-a-plan-to-return-some-land-used-by-the-us-military-s-futenma-airbase-in-okinawa-to-japan.md)
-_Context: American, Japan, Marine Corps Air Station Futenma, Okinawa, United States military_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, United States military_
 
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
 _Context: Buddhists, Indonesia, Muslims, Myanmar, detention center_

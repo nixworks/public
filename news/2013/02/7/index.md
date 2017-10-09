@@ -25,7 +25,7 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 _Context: Bucharest, Hungary, Romania_
 
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, American, Iran, Supreme Leader of Iran, Tehran_
+_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, United States_
 
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
 _Context: South Korea, world's most heavily armed border_

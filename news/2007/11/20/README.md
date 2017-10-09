@@ -34,7 +34,7 @@ _Context: Bangladesh, cyclone Sidr, international aid_
 _Context: twelve days earlier_
 
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: American, Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs_
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
 
 ### [ The United Nations reduces its estimate of how many people are infected with HIV in 2007 from nearly 40 million to 33 million. ](/news/2007/11/20/the-united-nations-reduces-its-estimate-of-how-many-people-are-infected-with-hiv-in-2007-from-nearly-40-million-to-33-million.md)
 _Context: HIV, United Nations_

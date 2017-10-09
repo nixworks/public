@@ -4,7 +4,7 @@
 _Context: Greensburg, Kansas, Greensburg, Kansas Tornado Outbreak, Kansas, tornado_
 
 ### [ Three U.S. Republican legislators from Alaska are charged with accepting bribes to support legislation favorable to oil services company Veco Corp. ](/news/2007/05/4/three-u-s-republican-legislators-from-alaska-are-charged-with-accepting-bribes-to-support-legislation-favorable-to-oil-services-company-ve.md)
-_Context: Alaska, American, Republican, Veco Corp, bribe_
+_Context: Alaska, Republican, United States, Veco Corp, bribe_
 
 ### [ A heavy-lift "Ariane 5" rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. ](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.md)
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.

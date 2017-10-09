@@ -19,7 +19,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-Nazi groups abroad, the first case of its kind in the Jewish state, which was founded as a haven for victims of the Holocaust. A police spokesman said the suspect, a 20-year-old army conscript who recently immigrated from...
 
 ### [ Reports emerge that the United States may be sending detainees to Uzbekistan, a regime notorious for torture. ](/news/2005/05/6/reports-emerge-that-the-united-states-may-be-sending-detainees-to-uzbekistan-a-regime-notorious-for-torture.md)
-_Context: American, Uzbekistan, detainee, torture_
+_Context: United States, Uzbekistan, detainee, torture_
 
 ### [ Audioslave become the first US Rock band to play in Cuba](/news/2005/05/6/audioslave-become-the-first-us-rock-band-to-play-in-cuba.md)
 _Context: Audioslave, Cuba_

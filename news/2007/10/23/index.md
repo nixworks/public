@@ -7,7 +7,7 @@ _Context: Hugo Chavez, President, Venezuela, term limits_
 _Context: 1999-2002 economic crisis, Argentina, December 2001 riots, Fernando de la Rua, President of Argentina_
 
 ### [ Space Shuttle "Discovery" successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the-st.md)
-_Context: American, Discovery, Florida, Harmony module, International Space Station, Kennedy Space Center, STS-120, Space Shuttle_
+_Context: Discovery, Florida, Harmony module, International Space Station, Kennedy Space Center, STS-120, Space Shuttle, United States_
 
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
 _Context: Kyrgyzstan, President, President, constitutional changes in a referendum_

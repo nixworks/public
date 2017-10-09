@@ -10,7 +10,7 @@ _Context: James Seale, Ku Klux Klan, Mississippi, U.S. state, life imprisonment_
 _Context: Georgian, Russia_
 
 ### [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md)
-_Context: American, France, Manuel Noriega, Panama, U.S. federal court, William Hoeveler, judge, prison_
+_Context: France, Manuel Noriega, Panama, U.S. federal court, United States, William Hoeveler, judge, prison_
 
 ### [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper "Norra Skne" reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fidel.md)
 _Context: Cuba, Fidel Castro, Swedish, University of Miami_
@@ -28,7 +28,7 @@ A Florida judge this afternoon sentenced sex offender John Evander Couey to die 
 _Context: Ilyushin Il-114, Russia, Venezuela_
 
 ### [ Flood warnings are in place in 10 US states from Ohio to Texas with at least 25 people believed to have died in the past week. ](/news/2007/08/24/flood-warnings-are-in-place-in-10-us-states-from-ohio-to-texas-with-at-least-25-people-believed-to-have-died-in-the-past-week.md)
-_Context: American, Ohio, Texas, U.S. state, flood_
+_Context: Ohio, Texas, U.S. state, United States, flood_
 
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)
 _Context: Hurricane Dean, Mexican, offshore oil platform_

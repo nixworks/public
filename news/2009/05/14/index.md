@@ -1,7 +1,7 @@
 ## [2009-05-14](/news/2009/05/14/index.md)
 
 ### [ Chrysler terminates 789 dealerships throughout the United States. ](/news/2009/05/14/chrysler-terminates-789-dealerships-throughout-the-united-states.md)
-_Context: American, Chrysler, dealers_
+_Context: Chrysler, United States, dealers_
 
 ### [ Burma charges National League for Democracy General Secretary Aung San Suu Kyi for violating her house arrest. ](/news/2009/05/14/burma-charges-national-league-for-democracy-general-secretary-aung-san-suu-kyi-for-violating-her-house-arrest.md)
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, house arrest_
@@ -16,7 +16,7 @@ _Context: Democratic Forces for the Liberation of Rwanda, Democratic Republic of
 _Context: 1989, China, Communist Party general secretary, Communist Party of China, Tiananmen Square, Tiananmen Square protests of 1989, Zhao Ziyang, memoir_
 
 ### [ The South Korean Navy destroyer "Mummu the Great" and the U.S. Navy cruiser "Gettysburg" capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gulf-of.md)
-_Context: ''Gettysburg'', ''Mummu the Great'', American, Gulf of Aden, Somali pirates, Somalian, South Korea, South Korean Navy, United States Navy, cruiser, destroyer_
+_Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali pirates, Somalian, South Korea, South Korean Navy, United States, United States Navy, cruiser, destroyer_
 
 ## [Previous Day...](/news/2009/05/13/index.md)
 

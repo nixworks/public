@@ -4,7 +4,7 @@
 _Context: Ali Zeidan, Libyan Prime Minister, Tripoli_
 
 ### [The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. ](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.md)
-_Context: Alice Munro, Canadian writer, Nobel Prize in Literature, Nobel Prize in Literature_
+_Context: Alice Munro, Canadian writer, Nobel Prize in Literature, Nobel Prize laurete_
 
 ### [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-re.md)
 _Context:  Te Waipounamu, Maori language, New Zealand, North Island, South Island, Te Ika-a-Maui_

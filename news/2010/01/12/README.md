@@ -7,7 +7,7 @@ _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Ru
 _Context: Baidu, China, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: American, Iran, Israel, Masoud Alimohammadi, Tehran_
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-raid-in-la-paz-baj.md)
 _Context: La Paz, Baja California Sur, Mexican, Teodoro Garcia Simental_

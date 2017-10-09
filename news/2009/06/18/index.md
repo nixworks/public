@@ -7,7 +7,7 @@ _Context: Hawaii, North Korea_
 _Context: Atlas V, LCROSS, LRO, Moon, explore_
 
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: American, Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, pilot_
+_Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_
 
 ### [ Iran is accused of altering ](/news/2009/06/18/iran-is-accused-of-altering.md)
 _Context: altering_
@@ -46,7 +46,7 @@ The Taoiseach has welcomed reports that loyalist paramilitary organisations have
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.
 
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: American, South Africa, first case, swine flu_
+_Context: South Africa, United States, first case, swine flu_
 
 ## [Previous Day...](/news/2009/06/17/index.md)
 

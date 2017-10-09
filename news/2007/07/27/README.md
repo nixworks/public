@@ -10,7 +10,7 @@ _Context: International Security Assistance Force, NATO, War in Afghanistan (200
 _Context: Haiti, United Nations, lynch_
 
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
-_Context: American, India, nuclear co-operation_
+_Context: India, United States, nuclear co-operation_
 
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: MVA85A, South Africa, clinical trial, tuberculosis, vaccine_
