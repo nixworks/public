@@ -2,13 +2,13 @@
 
 # A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. 
 
-At least two people have died after a boat carrying refugees fleeing Myanmar capsized on its way to Bangladesh on Sunday, local authorities told Reuters.
+Hundreds of thousands of Rohingya have fled Myanmar since Aug. 25 when the military launched a crackdown that had been decried by the United Nations as “ethnic cleansing.”
 
 
 ### Source:
 
-1. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-bangladesh-capsize/boat-carrying-asylum-seekers-from-myanmar-capsizes-off-bangladesh-idUSKBN1CD0VH)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Global News](https://globalnews.ca/news/3792690/rohingya-muslim-crisis-boat-capsize/)
+1. [Cover Image](https://shawglobalnews.files.wordpress.com/2017/10/2017-10-09t043413z_1528919682_rc15a8bc32b0_rtrmadp_3_myanmar-rohingya.jpg?quality=70&strip=all&w=720&h=480&crop=1)
 
 ### Related:
 
