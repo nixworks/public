@@ -19,7 +19,7 @@ About 55 bus passengers were reported to be sleeping on board when it stalled on
 An Indian airforce helicopter crashed in a remote mountain region near the border with China on Friday, killing all seven personnel on board, officials said.
 
 ### [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md)
-_Context: 2017 Atlantic hurricane season, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate, United States_
+_Context: 2017 Atlantic hurricane season, American, Central America, Gulf Coast, Nicaragua, Rivas, Tropical Storm Nate_
 
 ### [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md)
 A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.
