@@ -1,6 +1,6 @@
 ### [2017-10-9](/news/2017/10/9/index.md)
 
-# The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." 
+# The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. 
 
 
 
@@ -21,4 +21,4 @@
 ### Changes:
 
 1. [The Nobel Prize committee will announce which person has won the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. ](/news/2017/10/9/the-nobel-prize-committee-will-announce-which-person-has-won-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel.md) _2017-10-09 09:30:07 (First version)_
-1. [The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for.md) _(Current version)_
+1. [The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for.md) _(Current version)_

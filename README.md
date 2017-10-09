@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/9/index.md)
 
-### [The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for.md)
+### [The Nobel Prize committee awards American Richard Thaler the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for.md)
 _Context: American, Nobel Memorial Prize in Economic Sciences, Nobel Prize, Richard Thaler, The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, behavioral economics_
 
 ## Opinion
@@ -20,7 +20,7 @@ Hurricane Nate sped through the Gulf Coast overnight as a Category 1 storm, knoc
 ### [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md)
 _Context: Turkey, Turkey-United States relations, U.S Mission, visa_
 
-### [A rally in Barcelona to oppose Catalan independence has 350,000 people. ](/news/2017/10/8/a-rally-in-barcelona-to-oppose-catalan-independence-has-350-000-people.md)
+### [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md)
 At least 350,000 people protest against secession amid speculation Catalan leaders may declare independence.
 
 ---

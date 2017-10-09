@@ -9,7 +9,7 @@ Hurricane Nate sped through the Gulf Coast overnight as a Category 1 storm, knoc
 ### [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md)
 _Context: Turkey, Turkey-United States relations, U.S Mission, visa_
 
-### [A rally in Barcelona to oppose Catalan independence has 350,000 people. ](/news/2017/10/8/a-rally-in-barcelona-to-oppose-catalan-independence-has-350-000-people.md)
+### [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md)
 At least 350,000 people protest against secession amid speculation Catalan leaders may declare independence.
 
 ## [Previous Day...](/news/2017/10/7/index.md)
