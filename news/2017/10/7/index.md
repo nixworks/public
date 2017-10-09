@@ -6,9 +6,6 @@ JEDDAH: A gunman armed with a Kalashnikov rifle and three petrol bombs killed tw
 ### [Hurricane Nate makes landfall near the mouth of Mississippi River and near Biloxi, Mississippi, as a Category 1 hurricane with maximum sustained winds of 85 mph. ](/news/2017/10/7/hurricane-nate-makes-landfall-near-the-mouth-of-mississippi-river-and-near-biloxi-mississippi-as-a-category-1-hurricane-with-maximum-susta.md)
 Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Biloxi, Mississippi, bringing with it heavy rains and powerful floods.Nate first crossed over land at the mouth of the Mississippi River earlier in the night as a Category 1 storm.
 
-### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
-Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
-
 ### [An explosion at a liquefied natural gas depot leads to a second explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were...
 

@@ -7,8 +7,9 @@ Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Bilo
 
 ### Source:
 
-1. [WJLA](http://wjla.com/news/nation-world/hurricane-nate-makes-landfall-as-category-1-storm)
-1. [Cover Image](http://static-26.sinclairstoryline.com/resources/media/c35bda1d-5a06-46c1-9dfa-9dbce29929ab-large16x9_ScreenShot20171008at1.46.28AM.png)
+1. [The Telegraph](http://www.telegraph.co.uk/news/2017/10/07/google-gets-go-ahead-restore-cell-phone-service-puerto-rico/)
+2. [WJLA](http://wjla.com/news/nation-world/hurricane-nate-makes-landfall-as-category-1-storm)
+2. [Cover Image](http://static-26.sinclairstoryline.com/resources/media/c35bda1d-5a06-46c1-9dfa-9dbce29929ab-large16x9_ScreenShot20171008at1.46.28AM.png)
 
 ### Related:
 
