@@ -7,9 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-41538762/)
-2. [BBC](http://www.bbc.co.uk/news/uk-41541165)
-2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/046C/production/_98223110_6efd34b9-21fe-4729-9de8-7bff51bbb074.jpg)
+1. [BBC](http://www.bbc.co.uk/news/uk-41541165)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/046C/production/_98223110_6efd34b9-21fe-4729-9de8-7bff51bbb074.jpg)
 
 ### Related:
 

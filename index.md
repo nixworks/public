@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/9/index.md)
 
-### [The Nobel Prize committee will announce which person has won the Nobel Prize in Economics. ](/news/2017/10/9/the-nobel-prize-committee-will-announce-which-person-has-won-the-nobel-prize-in-economics.md)
-_Context: Nobel Memorial Prize in Economic Sciences, Nobel Prize, Nobel Prize in Economics_
+### [The Nobel Prize committee will announce which person has won the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. ](/news/2017/10/9/the-nobel-prize-committee-will-announce-which-person-has-won-the-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel.md)
+_Context: Nobel Memorial Prize in Economic Sciences, Nobel Prize, The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -11,7 +11,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/8/index.md)
 
-### [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md)
+### [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md)
 At least two people have died after a boat carrying refugees fleeing Myanmar capsized on its way to Bangladesh on Sunday, local authorities told Reuters.
 
 ### [Hurricane Nate weakens to a tropical storm, and causes flooding and power outages in Mississippi and Alabama. ](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.md)
@@ -20,7 +20,7 @@ Hurricane Nate sped through the Gulf Coast overnight as a Category 1 storm, knoc
 ### [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md)
 _Context: Turkey, Turkey-United States relations, U.S Mission, visa_
 
-### [Peruvian Nobel Prize laurete writer Mario Vargas Llosa joins 350,000 people in attending a rally in Barcelona opposing Catalan independence. ](/news/2017/10/8/peruvian-nobel-prize-laurete-writer-mario-vargas-llosa-joins-350-000-people-in-attending-a-rally-in-barcelona-opposing-catalan-independence.md)
+### [A rally in Barcelona to oppose Catalan independence has 350,000 people. ](/news/2017/10/8/a-rally-in-barcelona-to-oppose-catalan-independence-has-350-000-people.md)
 At least 350,000 people protest against secession amid speculation Catalan leaders may declare independence.
 
 ---
@@ -36,7 +36,7 @@ Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Bilo
 ### [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md)
 Regulators have approved Google&rsquo;s application to provide emergency cell phone services to Puerto Rico using balloons in the wake of Hurriane Maria.
 
-### [An explosion at a liquefied natural gas depot leads to a second explostion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explostion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
+### [An explosion at a liquefied natural gas depot leads to a second explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were...
 
 ### [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md)
