@@ -6,7 +6,7 @@ _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
 ### [U.S. multinational conglomerate Honeywell announces that as of the end of 2018, it will spin off two companies from the parent, one of Homes and the ADI Global Distribution Business, and the other of Transportation Systems. ](/news/2017/10/10/u-s-multinational-conglomerate-honeywell-announces-that-as-of-the-end-of-2018-it-will-spin-off-two-companies-from-the-parent-one-of-homes.md)
 MORRIS PLAINS, N.J., Oct. 10, 2017 /PRNewswire/ -- Honeywell (NYSE: HON) today announced the results of its...
 
-### [Authorities in Sonoma County, California claim that they have received over 100 missing persons reports. The death toll rises to at least 13 people. ](/news/2017/10/10/authorities-in-sonoma-county-california-claim-that-they-have-received-over-100-missing-persons-reports-the-death-toll-rises-to-at-least-13.md)
+### [Authorities in Sonoma County, California report that they have received over 100 missing person reports. The death toll rises to at least 15 people. ](/news/2017/10/10/authorities-in-sonoma-county-california-report-that-they-have-received-over-100-missing-person-reports-the-death-toll-rises-to-at-least-15.md)
 Firefighters were counting on cooler weather and weakening winds Tuesday to help in their fight against at least 17 large blazes.
 
 ### [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md)
@@ -18,7 +18,7 @@ The Trump administration Tuesday will formally withdraw federal limits on carbon
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
 Candidates to replace Ellen Johnson Sirleaf include Prince Johnson, a former rebel leader who ordered killing of ex-president
 
-### [President of Catalonia Carles Puigdemont gives a speech regarding independence from Spain where he propose to suspend the effect of the independence declaration in order to hold talks with Madrid. ](/news/2017/10/10/president-of-catalonia-carles-puigdemont-gives-a-speech-regarding-independence-from-spain-where-he-propose-to-suspend-the-effect-of-the-inde.md)
+### [President of Catalonia Carles Puigdemont gives a speech regarding independence from Spain where he proposes to suspend the effect of the independence declaration in order to hold talks with Madrid. ](/news/2017/10/10/president-of-catalonia-carles-puigdemont-gives-a-speech-regarding-independence-from-spain-where-he-proposes-to-suspend-the-effect-of-the-ind.md)
 Regional president, Carles Puigdemont, to set out independence plans for first time since referendum that provoked standoff with Spanish government
 
 ## [Previous Day...](/news/2017/10/9/index.md)
