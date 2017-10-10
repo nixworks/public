@@ -12,10 +12,8 @@
 
 ### Related:
 
-1. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: 2017 California wildfires, Sonoma County, California_
-2. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: 2017 California wildfires_
-3. [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md) _Context: 2017 California wildfires_
-4. [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md) _Context: Sonoma County, California_
+1. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: Sonoma County, California_
+2. [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md) _Context: Sonoma County, California_
 
 ### Changes:
 
