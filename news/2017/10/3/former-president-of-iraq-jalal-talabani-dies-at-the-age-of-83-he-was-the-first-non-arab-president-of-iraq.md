@@ -1,6 +1,6 @@
 ### [2017-10-3](/news/2017/10/3/index.md)
 
-# Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq.
+# Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq. 
 
 
 

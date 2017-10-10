@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: Myanmar, refugee_
+1. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: Myanmar, refugee_
 2. [A Thai national is arrested in Myanmar in relation to human trafficking offences after the Myanmar Navy rescues more than 200 people from a boat that he allegedly owns. ](/news/2015/05/30/a-thai-national-is-arrested-in-myanmar-in-relation-to-human-trafficking-offences-after-the-myanmar-navy-rescues-more-than-200-people-from-a.md) _Context: Myanmar, Thai Society_
 3. [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md) _Context: Myanmar, refugee_
 4. [ The United Nations' Office for the Coordination of Humanitarian Affairs estimates that 15,000 refugees have fled from southern Darfur to the Zam Zam refugee camp in the north. ](/news/2009/02/25/the-united-nations-office-for-the-coordination-of-humanitarian-affairs-estimates-that-15-000-refugees-have-fled-from-southern-darfur-to-th.md) _Context: refugee, refugee camp_

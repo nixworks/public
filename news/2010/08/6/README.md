@@ -85,7 +85,7 @@ A ban on the use of Blackberry phones to send and receive messages is being roll
 Five people are caned in public in the Indonesian province of Aceh, despite calls by human rights groups to ban flogging.
 
 ### [A 25-year-old Bosnian immigrant is arraigned in a Brooklyn United States District Court for involvement in an alleged terrorist plot to blow up New York City's subway system. ](/news/2010/08/6/a-25-year-old-bosnian-immigrant-is-arraigned-in-a-brooklyn-united-states-district-court-for-involvement-in-an-alleged-terrorist-plot-to-blow.md)
-_Context: Bosnia, Brooklyn, New York, New York City, U.S. federal court, arraigned, subway, terrorism_
+_Context: Bosnian, Brooklyn, New York, New York City, U.S. federal court, arraigned, subway, terrorism_
 
 ### [Jeremy Ractliffe, former head of the Nelson Mandela Children's Fund, admits he kept possible blood diamonds to protect the reputations of Mandela, Naomi Campbell and the fund but that he gave them to South African police and is willing to testify at Charles Taylor's trial. ](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.md)
 _Context: Charles Taylor, Naomi Campbell, Nelson Mandela, Nelson Mandela Children's Fund, South Africa, blood diamond_

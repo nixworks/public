@@ -19,7 +19,7 @@ _Context: Indonesia, Sumatra, earthquake_
 _Context: Leonid Khabarov_
 
 ### [A private South Korean committee announces that it plans to file a lawsuit with the International Criminal Court against North Korea over repatriation of prisoners of war and remains of soldiers killed in the Korean War. ](/news/2012/07/25/a-private-south-korean-committee-announces-that-it-plans-to-file-a-lawsuit-with-the-international-criminal-court-against-north-korea-over-re.md)
-_Context: International Criminal Court, Korean War, North Korea, South Korea, prisoners_
+_Context: International Criminal Court, Korean War, North Korea, South Korea, prisoners of war_
 
 ### [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md)
 _Context: Beijing, China, Guo Jinlong, Mayor, Wang Anshun_

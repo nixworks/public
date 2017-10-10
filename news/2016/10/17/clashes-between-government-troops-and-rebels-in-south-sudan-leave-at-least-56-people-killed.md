@@ -22,5 +22,5 @@ Dozens of people were killed in heavy fighting after rebels said they would try 
 ### Changes:
 
 1. [South Sudanese Civil War: Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/south-sudanese-civil-war-clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _2017-08-27 03:47:04 (First version)_
-2. [Clashes between rival gangs in at least two prisons in Brazil, leave at least 18 people killed. ](/news/2016/10/17/clashes-between-rival-gangs-in-at-least-two-prisons-in-brazil-leave-at-least-18-people-killed.md) _2017-10-08 03:54:45 (Update)_
+2. [Clashes between rival gangs in at least two prisons in Brazil, leave at least 18 people killed. ](/news/2016/10/17/clashes-between-rival-gangs-in-at-least-two-prisons-in-brazil-leave-at-least-18-people-killed.md) _2017-10-09 03:54:26 (Update)_
 2. [Clashes between government troops and rebels in South Sudan, leave at least 56 people killed. ](/news/2016/10/17/clashes-between-government-troops-and-rebels-in-south-sudan-leave-at-least-56-people-killed.md) _(Current version)_

@@ -22,16 +22,16 @@ _Context: Ancient Egypt, Czech, Fifth Dynasty, Khentakawess III_
 _Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
 
 ### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
-_Context: China, United States, World Trade Organization, rare earth element_
+_Context: American, China, World Trade Organization, rare earth element_
 
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
-_Context: Europe, Republic of Ireland, United States, mad cow disease_
+_Context: American, Europe, Republic of Ireland, mad cow disease_
 
 ### [For the second day in a row a multi-story residential building in Nairobi, Kenya, collapses, this time an 8-story building, killing one person with eight people still missing. ](/news/2015/01/5/for-the-second-day-in-a-row-a-multi-story-residential-building-in-nairobi-kenya-collapses-this-time-an-8-story-building-killing-one-pers.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [An avalanche near the Rettenbach glacier in the Austrian Alps, kills two prospects for the United States ski team, Ronnie Berlack and Bryce Astle. ](/news/2015/01/5/an-avalanche-near-the-rettenbach-glacier-in-the-austrian-alps-kills-two-prospects-for-the-united-states-ski-team-ronnie-berlack-and-bryce.md)
-_Context: Austrian Alps, Rettenbach glacier, United States, avalanche, ski_
+_Context: American, Austrian Alps, Rettenbach glacier, avalanche, ski_
 
 ### [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md)
 SAN FRANCISCO (KRON) &#8212; Passengers who spent more than a full day on board a stranded airliner are now telling horror stories about the experience after finally arriving at SFO. The people who…

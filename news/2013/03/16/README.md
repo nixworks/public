@@ -25,7 +25,7 @@ The Pentagon will deploy more missile interceptors on the Pacific Coast to count
 A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaulted her husband in the central Indian state of Madhya Pradesh.
 
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: California, Galt, United States, drive-by shooting_
+_Context: American, California, Galt, drive-by shooting_
 
 ### [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md)
 Zimbabweans have been voting in a key referendum on a new constitution that would limit future presidents to two terms in office.

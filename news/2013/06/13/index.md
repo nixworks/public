@@ -13,7 +13,7 @@ _Context: Argentina, Buenos Aires_
 An explosion and fire killed one person and injured 73 at the Williams Olefins chemical plant in Geismar, Louisiana, on Thursday, unsettling an industrial town where authorities ordered people to remain indoors for hours to avoid the billowing smoke.
 
 ### [A tsunami hits the East Coast of the United States. [http:--www.nbcphiladelphia.com-news-local-Tsunami-Strikes-the-Jersey-Shore-212814951.html]](/news/2013/06/13/a-tsunami-hits-the-east-coast-of-the-united-states-http-www-nbcphiladelphia-com-news-local-tsunami-strikes-the-jersey-shore-212814951-ht.md)
-_Context: United States, tsunami_
+_Context: American, tsunami_
 
 ### [United States Supreme Court rules that isolated human genes are not patentable, invalidating BRCA gene patents held by Myriad Genetics. ](/news/2013/06/13/united-states-supreme-court-rules-that-isolated-human-genes-are-not-patentable-invalidating-brca-gene-patents-held-by-myriad-genetics.md)
 _Context: BRCA gene, Myriad Genetics_

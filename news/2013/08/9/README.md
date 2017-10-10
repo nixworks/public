@@ -4,7 +4,7 @@
 _Context: Yemen, al-Qaeda_
 
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
-_Context: Lahore, Pakistan, United States_
+_Context: American, Lahore, Pakistan_
 
 ### [Gunmen open fire at a Sunni mosque in the city of Quetta killing at least eight people and injuring 24. ](/news/2013/08/9/gunmen-open-fire-at-a-sunni-mosque-in-the-city-of-quetta-killing-at-least-eight-people-and-injuring-24.md)
 At least 10 people killed on Eid, day after suicide bomber killed 37 and amid US security alert.

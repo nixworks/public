@@ -19,7 +19,7 @@ _Context: China, Influenza A virus subtype H5N1_
 Sixteen bodies recovered after passenger boat sinks off southern coast due to engine malfunction in stormy weather.
 
 ### [Police in Bosnia and Herzegovina recapture Bosnian Serb fugitive Radovan Stankovic after he escaped from prison five years ago. ](/news/2012/01/22/police-in-bosnia-and-herzegovina-recapture-bosnian-serb-fugitive-radovan-stankovia-after-he-escaped-from-prison-five-years-ago.md)
-_Context: Bosnia and Herzegovina, Bosnian Serbs, Radovan Stankovic_
+_Context: Bosnia and Herzegovina, Bosnian Serb, Radovan Stankovic_
 
 ### [The party of former Madagascan President Marc Ravalomanana suspends its role in the unity government after the plane carrying him home from exile was turned away. ](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.md)
 _Context: Madagascar, Marc Ravalomanana, President_
@@ -34,7 +34,7 @@ _Context: Arizona, Gabrielle Giffords, United States House of Representatives, a
 _Context: Finnish Presidential election_
 
 ### [Yemeni President Ali Abdullah Saleh announces that he is to leave for treatment in the United States. ](/news/2012/01/22/yemeni-president-ali-abdullah-saleh-announces-that-he-is-to-leave-for-treatment-in-the-united-states.md)
-_Context: Saleh, United States, Yemen, Yemeni President_
+_Context: American, Saleh, Yemen, Yemeni President_
 
 ## [Previous Day...](/news/2012/01/21/index.md)
 

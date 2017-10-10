@@ -37,7 +37,7 @@ Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations
 Targets included an embassy in Central America and Israeli military personnel facilities in the U.S.
 
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
-_Context: Kiev, Ukraine-United States relations, United States, embassy_
+_Context: American, Kiev, Ukraine-United States relations, embassy_
 
 ### [A supermarket employee shoots and kills three fellow employees, then kills himself, in a closed Weis Markets store in Eaton Township in Northeastern Pennsylvania. One person escapes unharmed. ](/news/2017/06/8/a-supermarket-employee-shoots-and-kills-three-fellow-employees-then-kills-himself-in-a-closed-weis-markets-store-in-eaton-township-in-nort.md)
 Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylvania when he took two pistol-grip shotguns into work and opened fire

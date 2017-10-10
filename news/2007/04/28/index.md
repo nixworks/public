@@ -22,7 +22,7 @@ _Context: An earthquake, England, Kent, Richter scale_
 _Context: 29th Dil, Irish general election, Mary McAleese, President, Republic of Ireland_
 
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)
-_Context: Displace Me, United States_
+_Context: American, Displace Me_
 
 ## [Previous Day...](/news/2007/04/27/index.md)
 

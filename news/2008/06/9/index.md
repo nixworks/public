@@ -34,7 +34,7 @@ _Context: India, Manmohan Singh_
 _Context: Ahmadiyya, Indonesia, Islam in Indonesia_
 
 ### [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md)
-_Context: McDonald's restaurants, Salmonellosis, United States, hamburger, tomato_
+_Context: American, McDonald's restaurants, Salmonellosis, hamburger, tomato_
 
 ### [ Tens of thousands of Spanish truck drivers start an indefinite strike over the increases in the price of diesel. ](/news/2008/06/9/tens-of-thousands-of-spanish-truck-drivers-start-an-indefinite-strike-over-the-increases-in-the-price-of-diesel.md)
 _Context: Spain, diesel fuel, strike, truck drivers_

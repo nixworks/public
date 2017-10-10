@@ -13,7 +13,7 @@ Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises an
 
 ### Related:
 
-1. [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md) _Context: Madagascar_
+1. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _Context: Madagascar_
 2. [Cyclone Enawo makes landfall in Madagascar as a powerful Category 4 storm, making it the most powerful storm to strike the African nation in 13 years. ](/news/2017/03/7/cyclone-enawo-makes-landfall-in-madagascar-as-a-powerful-category-4-storm-making-it-the-most-powerful-storm-to-strike-the-african-nation-in.md) _Context: Madagascar_
 3. [Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of-madagascar.md) _Context: Madagascar_
 4. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Kuala Lumpur International Airport_

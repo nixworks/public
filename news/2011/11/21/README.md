@@ -7,7 +7,7 @@ Protesters in Cairo demand the resignation of the head of Egypt governing milita
 _Context: Hajj, Saudi Arabia, Syria, Turkey_
 
 ### [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md)
-_Context: British, Canada, Iran, United States, nuclear program, sanctions_
+_Context: American, British, Canada, Iran, nuclear program, sanctions_
 
 ### [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md)
 NATO would have expanded by now to admit ex-Soviet republics if Russia had not invaded Georgia in 2008 to defend a rebel region, Russian President Dmitry Medvedev said on Monday.

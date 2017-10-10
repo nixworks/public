@@ -1,7 +1,7 @@
 ## [2011-10-28](/news/2011/10/28/index.md)
 
 ### [A Wahhabi Islamist armed with hand grenades and an automatic weapon opens fire outside the United States embassy in the Bosnian capital Sarajevo, resulting in two people being injured, including the gunman. ](/news/2011/10/28/a-wahhabi-islamist-armed-with-hand-grenades-and-an-automatic-weapon-opens-fire-outside-the-united-states-embassy-in-the-bosnian-capital-sara.md)
-_Context: Bosnia, Sarajevo, United States embassy, Wahhabi, grenade_
+_Context: Bosnian, Sarajevo, United States embassy, Wahhabi, grenade_
 
 ### [The Bolshoi Theater in Moscow reopens following a six-year renovation which has restored it to its pre-revolution state. ](/news/2011/10/28/the-bolshoi-theater-in-moscow-reopens-following-a-six-year-renovation-which-has-restored-it-to-its-pre-revolution-state.md)
 _Context: Bolshoi Theater, Moscow, revolution_

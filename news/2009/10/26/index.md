@@ -10,7 +10,7 @@ _Context: Jurelang Zedkaia, Litokwa Tomeing, Marshall Islands, elected, no-confi
 _Context: Colombia, Majorca, Palma_
 
 ### [ Bosnian Serb leader Radovan Karadzic boycotts his own trial as it begins in The Hague. ](/news/2009/10/26/bosnian-serb-leader-radovan-karada3-4ia-boycotts-his-own-trial-as-it-begins-in-the-hague.md)
-_Context: Bosnia, Radovan Karadzic, Serb, The Hague, boycott_
+_Context: Bosnian, Radovan Karadzic, Serb, The Hague, boycott_
 
 ### [ The UN's court in Freetown, Sierra Leone sees its final case after seven years of investigating the country's civil war. ](/news/2009/10/26/the-un-s-court-in-freetown-sierra-leone-sees-its-final-case-after-seven-years-of-investigating-the-country-s-civil-war.md)
 _Context: Freetown, Sierra Leone, United Nations_

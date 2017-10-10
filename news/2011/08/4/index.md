@@ -22,7 +22,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 _Context: North Korea, Sky News, illegal drugs trade_
 
 ### [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md)
-_Context: Federal Aviation Administration, United States_
+_Context: American, Federal Aviation Administration_
 
 ### [A judge rules that Donald Rumsfeld can be sued personally for damages by a U.S. Army veteran in his 50s who says he was imprisoned unjustly and tortured by the U.S. military in Iraq. ](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.md)
 _Context: Donald Rumsfeld_

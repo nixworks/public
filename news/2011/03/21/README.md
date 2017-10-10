@@ -61,7 +61,7 @@ The government should be found in contempt of Parliament, a committee of MPs dec
 Guatemalan President Alvaro Colom and his wife Sandra Torres file for divorce so she can stand for election to succeed him, officials say.
 
 ### [Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. ](/news/2011/03/21/surgeons-at-the-brigham-and-women-s-hospital-in-boston-massachusetts-perform-the-first-full-face-transplant-in-the-united-states.md)
-_Context: Boston, Brigham and Women's Hospital, Surgeon, United States, face transplant_
+_Context: American, Boston, Brigham and Women's Hospital, Surgeon, face transplant_
 
 ## [Previous Day...](/news/2011/03/20/index.md)
 

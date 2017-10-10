@@ -4,7 +4,7 @@
 _Context: Alberta, Big Valley Jamboree, Canada_
 
 ### [ One person dies of pneumonic plague and eleven of his relatives are quarantined in Hainan Tibetan Autonomous Prefecture. ](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.md)
-_Context: Hainan Tibetan Autonomous Prefecture, pneumonic plague_
+_Context: Hainan Tibetan Autonomous Prefecture, pneumonic_
 
 ### [ Three workers from the Russian Emergency Ministry are killed in Ingushetia. ](/news/2009/08/2/three-workers-from-the-russian-emergency-ministry-are-killed-in-ingushetia.md)
 _Context: Ingushetia, Ministry of Emergency Situations, Russia_

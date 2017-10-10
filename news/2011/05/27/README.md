@@ -32,7 +32,7 @@ _Context: Bhutan, Tshering Tobgay, anti-smoking_
 _Context: 2009 L'Aquila earthquake, Bernardo De Bernardinis, Civil Protection Department, manslaughter by gross negligence_
 
 ### [A Serbian court rules that former Bosnian Serb military leader Ratko Mladic is fit to stand a genocide trial at The Hague. ](/news/2011/05/27/a-serbian-court-rules-that-former-bosnian-serb-military-leader-ratko-mladia-is-fit-to-stand-a-genocide-trial-at-the-hague.md)
-_Context: Bosnia, Ratko Mladic, Serb, Serbia, The Hague, genocide_
+_Context: Bosnian, Ratko Mladic, Serb, Serbia, The Hague, genocide_
 
 ### [Tom Horne, the Arizona Attorney General takes the United States Department of Justice to court over the states medical marijuana laws. ](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.md)
 _Context: Arizona Attorney General, Department of Justice, Medical marijuana, Tom Horne_

@@ -13,7 +13,7 @@ _Context: Brazil, G4, Germany, India, Japan, United Nations Security Council ref
 _Context: China, India_
 
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, Iran, United States_
+_Context: American, India, Iran_
 
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: U.S. state, Virginia, day of mourning, massacre_

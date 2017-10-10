@@ -7,7 +7,7 @@ The Nigerian army says it has retaken the town of Baga, held by Boko Haram milit
 Turkey evacuated its military personnel protecting the Tomb of Süleyman Şah in northern Syria by an operation jointly conducted by the intelligence organization and the Turkish army early Feb. 22, few days after reports suggested that the tomb was besieged by ISIL 
 
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
-_Context: Motiva, United States, United Steelworkers, refinery_
+_Context: American, Motiva, United Steelworkers, refinery_
 
 ### [ More than 5,000 workers at a General Motors plant in Brazil joins in a strike against the dismissal of proposal for another 800 factory employees. ](/news/2015/02/21/more-than-5-000-workers-at-a-general-motors-plant-in-brazil-joins-in-a-strike-against-the-dismissal-of-proposal-for-another-800-factory-emp.md)
 _Context: Brazil, General Motors_

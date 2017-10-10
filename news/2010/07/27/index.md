@@ -4,7 +4,7 @@
 _Context: India, Inter-Service Intelligence, Kabul, Pakistan, classified information, embassies, suicide attack_
 
 ### [Experts verify that photographic negatives bought at a garage sale are early works of the American photographer Ansel Adams. ](/news/2010/07/27/experts-verify-that-photographic-negatives-bought-at-a-garage-sale-are-early-works-of-the-american-photographer-ansel-adams.md)
-_Context: Ansel Adams, United States, garage sale, photographer, photographic negatives_
+_Context: American, Ansel Adams, garage sale, photographer, photographic negatives_
 
 ### [BP announces that Tony Hayward is to step down as CEO following the Deepwater Horizon oil spill and will be replaced by Bob Dudley on October 1st. ](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.md)
 _Context: BP, Bob Dudley, CEO, Deepwater Horizon oil spill, Tony Hayward_

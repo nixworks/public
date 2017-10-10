@@ -12,7 +12,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 
 ### Related:
 
-1. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: refugee_
+1. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
 2. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
 3. [An unknown perpetrator using an Apache helicopter fires upon a boat carrying Somali refugees off the coast of Yemen, killing at least 40 of them, injuring 35 more. ](/news/2017/03/17/an-unknown-perpetrator-using-an-apache-helicopter-fires-upon-a-boat-carrying-somali-refugees-off-the-coast-of-yemen-killing-at-least-40-of.md) _Context: refugee_
 4. [Eritrean Mered Medhanie, aka "The General", leader of one of the largest criminal operations unsafely smuggling migrants from Africa to Europe for up to EUR5,000 (GBP3,900; $5,680), is extradited to Italy. Police say in one attempt at least 359 migrants died when their boat sank near the Italian island of Lampedusa in October 2013. ](/news/2016/06/8/eritrean-mered-medhanie-aka-the-general-leader-of-one-of-the-largest-criminal-operations-unsafely-smuggling-migrants-from-africa-to-euro.md) _Context: Lampedusa_

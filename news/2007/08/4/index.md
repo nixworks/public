@@ -31,7 +31,7 @@ _Context: Alex Rodriguez, Barry Bonds, Hank Aaron, Major League Baseball, San Fr
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
+_Context: Al-Askari Mosque, American, Haitham al-Badri, Iraq, Salahuddin province, Samarra, al-Qaeda_
 
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_

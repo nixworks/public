@@ -28,7 +28,7 @@ _Context: India, Maharashtra, Malegaon, Nashik, bomb blasts_
 _Context: Operation Murambatsvina, Zimbabwe_
 
 ### [ Taliban insurgency: A suicide car bomb explodes near the United States embassy in Kabul, killing at least ten people. ](/news/2006/09/8/taliban-insurgency-a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-killing-at-least-ten-people.md)
-_Context: Kabul, Taliban insurgency, United States_
+_Context: American, Kabul, Taliban insurgency_
 
 ## [Previous Day...](/news/2006/09/7/index.md)
 

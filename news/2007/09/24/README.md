@@ -7,7 +7,7 @@ _Context: 2007 ICC World Twenty20, India, Pakistan_
 _Context: Attorney General of Israel, Ehud Olmert, Israeli Prime Minister, Menachem Mazuz_
 
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
-_Context: Columbia University, Holocaust, Mahmoud Ahmadinejad, President, September 11, 2001 attacks, United States, gay Iran_
+_Context: American, Columbia University, Holocaust, Mahmoud Ahmadinejad, President, September 11, 2001 attacks, gay Iran_
 
 ### [ The Secretary-General of the United Nations Ban Ki-Moon called for a new commitment by world leaders on climate change at a special United Nations session to discuss climate change. ](/news/2007/09/24/the-secretary-general-of-the-united-nations-ban-ki-moon-called-for-a-new-commitment-by-world-leaders-on-climate-change-at-a-special-united.md)
 _Context: Ban Ki-moon, Secretary General, United Nations, climate change_

@@ -7,7 +7,7 @@ _Context: Boris Johnson, Conservative Party, Ken Livingstone, Mayor of London, l
 _Context: 2008 Summer Olympics torch relay, China, Hong Kong, Olympic Torch, Special Administrative Region_
 
 ### [ May 1-2, 2008 tornado outbreak: Tornadoes affecting the south-central United States kill at least seven in Arkansas. ](/news/2008/05/2/may-1-2-2008-tornado-outbreak-tornadoes-affecting-the-south-central-united-states-kill-at-least-seven-in-arkansas.md)
-_Context: Arkansas, May 1-2, 2008 tornado outbreak, United States, tornado_
+_Context: American, Arkansas, May 1-2, 2008 tornado outbreak, tornado_
 
 ### [ Over 10,000 people gather in Seoul, South Korea, to protest against the importation of U.S. beef, which is alleged to have a danger of mad cow disease. ](/news/2008/05/2/over-10-000-people-gather-in-seoul-south-korea-to-protest-against-the-importation-of-u-s-beef-which-is-alleged-to-have-a-danger-of-mad.md)
 _Context: Seoul, South Korea, mad cow disease_
@@ -16,19 +16,19 @@ _Context: Seoul, South Korea, mad cow disease_
 _Context: Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, Zimbabwe African National Union, run-off presidential election_
 
 ### [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md)
-_Context: British, China, Foreign Minister, France, Germany, Iran, Russia, United States, nuclear program_
+_Context: American, British, China, Foreign Minister, France, Germany, Iran, Russia, nuclear program_
 
 ### [ A plane crash kills more than a dozen in Southern Sudan, including defense minister Dominic Dim Deng. ](/news/2008/05/2/a-plane-crash-kills-more-than-a-dozen-in-southern-sudan-including-defense-minister-dominic-dim-deng.md)
 _Context: Dominic Dim Deng, Southern Sudan_
 
 ### [ United States non-farm payrolls fall by 20,000 jobs with the unemployment rate falling to 5 per cent. ](/news/2008/05/2/united-states-non-farm-payrolls-fall-by-20-000-jobs-with-the-unemployment-rate-falling-to-5-per-cent.md)
-_Context: United States, payroll, unemployment_
+_Context: American, payroll, unemployment_
 
 ### [ A $38 million compensation deal is completed for victims of the I-35W Mississippi River bridge collapse. ](/news/2008/05/2/a-38-million-compensation-deal-is-completed-for-victims-of-the-i-35w-mississippi-river-bridge-collapse.md)
 _Context: $, I-35W Mississippi River bridge, compensation_
 
 ### [ Teams in both Russia and the United States identify the remains of Tsarevich Alexei of Russia and his sister Grand Duchess Maria after the discovery of their bone shards on August 23, 2007. ](/news/2008/05/2/teams-in-both-russia-and-the-united-states-identify-the-remains-of-tsarevich-alexei-of-russia-and-his-sister-grand-duchess-maria-after-the.md)
-_Context: Grand Duchess Maria, Russia, Tsarevich Alexei of Russia, United States_
+_Context: American, Grand Duchess Maria, Russia, Tsarevich Alexei of Russia_
 
 ### [ 2007 royal blackmail plot: Ian Strachan and Sean McGuigan are jailed for five years each for attempting to extort money from an unidentified royal ("Witness A"). They demanded GBP50,000 from Witness A in exchange for audio tapes alleging gay sex. ](/news/2008/05/2/2007-royal-blackmail-plot-ian-strachan-and-sean-mcguigan-are-jailed-for-five-years-each-for-attempting-to-extort-money-from-an-unidentifie.md)
 _Context: 2007 royal blackmail plot, gay sex_

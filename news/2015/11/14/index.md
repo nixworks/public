@@ -31,7 +31,7 @@ _Context: Juvenile Court, Utah, sex-parents_
 _Context: Seoul, South Korea, protests against U.S. beef imports_
 
 ### [A team of scientists from the United States and Europe are predicting that declining snowpacks on mountain ranges could lead to Northern Hemisphere water shortages by the year 2060. ](/news/2015/11/14/a-team-of-scientists-from-the-united-states-and-europe-are-predicting-that-declining-snowpacks-on-mountain-ranges-could-lead-to-northern-hem.md)
-_Context: Europe, Northern Hemisphere, United States, mountain range, snowpack, water shortages_
+_Context: American, Europe, Northern Hemisphere, mountain range, snowpack, water shortages_
 
 ## [Previous Day...](/news/2015/11/13/index.md)
 

@@ -7,7 +7,7 @@ Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 15
 _Context: Gabon, Omar Bongo, President, Spain_
 
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
-_Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
+_Context: Bosnian, Bosnian War, Ratko Mladic, Serbia, genocide_
 
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
 _Context: General Motors, Koenigsegg, Norway, Saab Automobile, Swedish_

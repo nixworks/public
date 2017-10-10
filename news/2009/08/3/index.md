@@ -28,7 +28,7 @@ Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presiden
 _Context: Chifeng, China, Inner Mongolia, gastrointestinal_
 
 ### [ A town in Qinghai, China, is sealed off after a second person dies of pneumonic plague. ](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.md)
-_Context: Qinghai, pneumonic plague_
+_Context: Qinghai, pneumonic_
 
 ### [ Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. ](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.md)
 Somali pirates freed a German ship seized in April on Monday after receiving a ransom and a Malaysian-owned tug boat has also been released after being held for more than seven months.

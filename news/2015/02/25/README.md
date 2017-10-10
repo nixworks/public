@@ -22,7 +22,7 @@ _Context: Department of Justice, Morgan Stanley, mortgage_
 Parliament in Austria passes a controversial new bill that reforms a century-old law on Islam, despite claims it will treat Muslims unequally.
 
 ### [A United States district court judge orders documents turned over to hedge fund NML Capital with regard to the flow of funds in a February 9 issuance of Argentina dollar denominated sovereign bonds. ](/news/2015/02/25/a-united-states-district-court-judge-orders-documents-turned-over-to-hedge-fund-nml-capital-with-regard-to-the-flow-of-funds-in-a-february-9.md)
-_Context: Argentina, Hedge fund, NML Capital, U.S. District Judge, United States, judge, sovereign bonds_
+_Context: American, Argentina, Hedge fund, NML Capital, U.S. District Judge, judge, sovereign bonds_
 
 ### [The Argentine National Congress approves installation of a Chinese satellite tracking station in Patagonia. ](/news/2015/02/25/the-argentine-national-congress-approves-installation-of-a-chinese-satellite-tracking-station-in-patagonia.md)
 _Context: Argentine National Congress, Patagonia_

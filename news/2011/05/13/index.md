@@ -46,7 +46,7 @@ The deputy governor of a prison in Durango, in northern Mexico is found decapita
 _Context: British, Spain, Tenerife_
 
 ### [Republika Srpska President Milorad Dodik, speaking after meeting Catherine Ashton in Banja Luka, says a referendum "for the time being is not necessary". The referendum would have been a challenge to both Ashton and the courts of Bosnia. ](/news/2011/05/13/republika-srpska-president-milorad-dodik-speaking-after-meeting-catherine-ashton-in-banja-luka-says-a-referendum-for-the-time-being-is-no.md)
-_Context: Banja Luka, Bosnia, Catherine Ashton, Milorad Dodik, President, Republika Srpska_
+_Context: Banja Luka, Bosnian, Catherine Ashton, Milorad Dodik, President, Republika Srpska_
 
 ### [Plaid Cymru leader Ieuan Wyn Jones vows to stand down from the role in the first half of the Welsh assembly's five-year term following the party's poor results at the recent election. ](/news/2011/05/13/plaid-cymru-leader-ieuan-wyn-jones-vows-to-stand-down-from-the-role-in-the-first-half-of-the-welsh-assembly-s-five-year-term-following-the-p.md)
 Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in this assembly term, and Lord Elis-Thomas, one of his predecessors, says he may run for the job again.

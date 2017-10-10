@@ -55,7 +55,7 @@ _Context: Canada Post, Gaza, Israel Post_
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear reactor, uranium, uranium enrichment_
 
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: Abdelbaset al-Megrahi, Hillary Clinton, Lockerbie bombing, Scottish Government, Secretary of State, United States_
+_Context: Abdelbaset al-Megrahi, American, Hillary Clinton, Lockerbie bombing, Scottish Government, Secretary of State_
 
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
 Prosecutors have arrested six police officers they say participated in the kidnap and murder of a mayor as part of a drug war.
@@ -100,7 +100,7 @@ Thousands show support for Bakiyev-appointed official amid rumours of his dismis
 The Indian cabinet clears a proposal to raise the salaries of members of parliament by more than three-fold.
 
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: United States, United States military_
+_Context: American, United States military_
 
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
 _Context: Beninese, Boni Yayi, Ponzi scheme, impeach_

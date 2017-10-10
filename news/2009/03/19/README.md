@@ -4,7 +4,7 @@
 Scientists sailed Thursday to inspect an undersea volcano that has been erupting for days near Tonga &#8212; shooting smoke, steam and ash thousands of feet into the sky above the South Pacific ocean.
 
 ### [ North Korea detains two American Current TV journalists near its border with China. ](/news/2009/03/19/north-korea-detains-two-american-current-tv-journalists-near-its-border-with-china.md)
-_Context: China, Current TV, North Korea, United States, journalist_
+_Context: American, China, Current TV, North Korea, journalist_
 
 ### [ The United States House of Representatives votes to levy a 90% tax on executive compensation from companies aided by the American Recovery and Reinvestment Act. ](/news/2009/03/19/the-united-states-house-of-representatives-votes-to-levy-a-90-tax-on-executive-compensation-from-companies-aided-by-the-american-recovery.md)
 Spurred by anger over A.I.G., the House voted 328 to 93 to tax bonuses paid by any company owing more than $5 billion in bailout money.

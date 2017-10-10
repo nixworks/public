@@ -17,7 +17,7 @@ _Context: Los Angeles Police Department, May Day_
 _Context: Pakistan, bus_
 
 ### [ More than 18,000 Mexicans pose naked for U.S. photographer Spencer Tunick at the Zcalo Plaza in Mexico City. ](/news/2007/05/7/more-than-18-000-mexicans-pose-naked-for-u-s-photographer-spencer-tunick-at-the-zocalo-plaza-in-mexico-city.md)
-_Context: Mexican, Mexico City, Spencer Tunick, United States, Zcalo Plaza, photographer_
+_Context: American, Mexican, Mexico City, Spencer Tunick, Zcalo Plaza, photographer_
 
 ## [Previous Day...](/news/2007/05/6/index.md)
 

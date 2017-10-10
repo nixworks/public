@@ -37,7 +37,7 @@ _Context: John Hemming, MP, Ryan Giggs, Twitter, injunction over an alleged affa
 _Context: China, Tibet, sets herself alight_
 
 ### [Palestinian Prime Minister Salam Fayyad suffers a heart attack and undergoes surgery during a trip to the United States to attend his son's graduation. ](/news/2011/05/23/palestinian-prime-minister-salam-fayyad-suffers-a-heart-attack-and-undergoes-surgery-during-a-trip-to-the-united-states-to-attend-his-son-s.md)
-_Context: Prime Minister, Salam Fayyad, State of Palestine, United States_
+_Context: American, Prime Minister, Salam Fayyad, State of Palestine_
 
 ## [Previous Day...](/news/2011/05/22/index.md)
 

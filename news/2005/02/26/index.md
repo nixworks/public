@@ -16,7 +16,7 @@ _Context: Asia, Avian flu virus, United Nations, pandemic, poultry_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Canadian Prime Minister Paul Martin announces that the US must get permission first before launching missiles over Canadian airspace, after recently announcing Canada's non-involvement in the controversial US National Missile Defence plan. ](/news/2005/02/26/canadian-prime-minister-paul-martin-announces-that-the-us-must-get-permission-first-before-launching-missiles-over-canadian-airspace-after.md)
-_Context: Canada, National Missile Defence, Paul Martin, United States, rocket attacks_
+_Context: American, Canada, National Missile Defence, Paul Martin, rocket attacks_
 
 ### [ Egyptian President Hosni Mubarak calls for parliament to amend the constitution to allow for direct, secret elections for the next president. ](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.md)
 _Context: Egypt, Hosni Mubarak_

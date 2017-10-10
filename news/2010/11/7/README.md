@@ -13,7 +13,7 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 Action in Arab town in Negev, following a court order, prompts protest call by Muslim residents.
 
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, United States, drone aircraft, drones launch_
+_Context: American, North Waziristan, Pakistan, drone aircraft, drones launch_
 
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
 _Context: Baghdad, Iraq, Sons of Iraq, imam_

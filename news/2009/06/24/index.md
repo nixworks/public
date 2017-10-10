@@ -22,7 +22,7 @@ At least 30 people have been killed in US missile strikes in the South Wazirista
 _Context: Liu Xiaobo, dissident, government, subverting_
 
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
-_Context: Syria, United States_
+_Context: American, Syria_
 
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)
 _Context: Chechnya, Russia_

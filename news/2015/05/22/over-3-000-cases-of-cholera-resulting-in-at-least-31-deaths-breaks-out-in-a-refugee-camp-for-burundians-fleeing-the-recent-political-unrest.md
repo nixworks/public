@@ -12,7 +12,7 @@ At least 3,000 cases of cholera have been reported in Tanzania since last week a
 
 ### Related:
 
-1. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: refugee_
+1. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
 2. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
 3. [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md) _Context: cholera_
 4. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _Context: cholera_

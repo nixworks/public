@@ -19,7 +19,7 @@ _Context: Chevron Corporation, Delta State, Nigeria_
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
-_Context: South Korea, United States, beef imports, mad cow disease_
+_Context: American, South Korea, beef imports, mad cow disease_
 
 ### [ Four ISAF soldiers are killed by a bomb in Afghanistan. ](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.md)
 Roadside bombs killed five foreign troops in Afghanistan on Saturday, military officials said, extending a series of daily attacks that have lifted the death toll for foreign forces this year to more than 100. 

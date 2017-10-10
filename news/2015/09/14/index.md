@@ -34,7 +34,7 @@ Rail services have resumed between Austria and Germany after all trains were sto
 _Context: Colombia, Venezuela, international airspace_
 
 ### [Shannon Lamb, a professor at Delta State University who was suspected of two murders in the U.S. state of Mississippi--the woman he was living with in Gautier and a fellow professor at the Delta State campus in Cleveland--dies from a self-inflicted gunshot wound while being pursued by police. ](/news/2015/09/14/shannon-lamb-a-professor-at-delta-state-university-who-was-suspected-of-two-murders-in-the-u-s-state-of-mississippiathe-woman-he-was-liv.md)
-_Context: Cleveland, Delta State University, Gautier, Mississippi, United States, professor_
+_Context: American, Cleveland, Delta State University, Gautier, Mississippi, professor_
 
 ### [In the U.S., Rowan County, Kentucky county clerk Kim Davis, involved in the litigation over same-sex marriage, states she will not block her deputies from issuing marriage licenses, but will not authorize them personally (her name will not appear on them, and they will state that they were given under a federal judicial order). ](/news/2015/09/14/in-the-u-s-rowan-county-kentucky-county-clerk-kim-davis-involved-in-the-litigation-over-same-sex-marriage-states-she-will-not-block-her.md)
 The county clerk from Kentucky who was jailed after refusing to issue marriage licenses to gay couples said Monday on her return to work she will not block her deputies from issuing them but will not authorize them personally, as one couple celebrated a coming marriage.

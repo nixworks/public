@@ -19,7 +19,7 @@ _Context: Eudy Simelane, KwaThema, South Africa, association football, lesbian_
 _Context: Barack Obama, Fidel Castro, President, U.S. President, United Nations General Assembly_
 
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: Mexican, San Ysidro, United States_
+_Context: American, Mexican, San Ysidro_
 
 ### [ A Scottish GBP1 banknote, dated 1836, sells for a world record GBP9,000 price at auction. ](/news/2009/09/23/a-scottish-agbp1-banknote-dated-1836-sells-for-a-world-record-agbp9-000-price-at-auction.md)
 _Context: Scotland_

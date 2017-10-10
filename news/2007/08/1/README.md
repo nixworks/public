@@ -40,7 +40,7 @@ _Context: $456 million energy debt, August 3, Belarus, Gazprom_
 _Context: North Waziristan, Pakistan_
 
 ### [ The United Kingdom Office of Fair Trading levies a fine of GBP121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-agbp121-5-million-on-british-airways-for-price-collusion-over-long-distance-pass.md)
-_Context: $, British, British Airways, GBP, Korean Air, Office of Fair Trading, United States_
+_Context: $, American, British, British Airways, GBP, Korean Air, Office of Fair Trading_
 
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
 _Context: African Union, Darfur, Sudan, UNAMID, United Nations, peacekeepers_

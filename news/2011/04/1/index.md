@@ -83,7 +83,7 @@ _Context: Government of Kuwait, Nasser Mohammed Al-Ahmed Al-Sabah, Parliament, e
 The European Space Agency releases an unusual illustration of Planet Earth which describes the variation in gravity across the surface of our world.
 
 ### [FIFA suspends Bosnia and Herzegovina from international football after its failure to drop a rotating presidential system between a Muslim, a Serb and a Croat, which is similar to the country's complex political system. ](/news/2011/04/1/fifa-suspends-bosnia-and-herzegovina-from-international-football-after-its-failure-to-drop-a-rotating-presidential-system-between-a-muslim.md)
-_Context: Bosnia and Herzegovina, Bosniaks, Bosnian Serbs, Croat, FIFA_
+_Context: Bosnia and Herzegovina, Bosniaks, Bosnian Serb, Croat, FIFA_
 
 ## [Previous Day...](/news/2011/03/31/index.md)
 

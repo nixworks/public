@@ -16,7 +16,7 @@ _Context: Alitalia, Italy, bankruptcy, commercial air traffic_
 _Context: 2008, Alaska, Governor, John McCain, Republican, Sarah Palin, running mate_
 
 ### [ Former Bosnian Serb leader Radovan Karadzic refuses to enter pleas to charges including genocide and crimes against humanity at the International Criminal Tribunal for the former Yugoslavia at the Hague. ](/news/2008/08/29/former-bosnian-serb-leader-radovan-karada3-4ia-refuses-to-enter-pleas-to-charges-including-genocide-and-crimes-against-humanity-at-the-inter.md)
-_Context: Bosnian Serbs, Hague, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, genocide, war crime_
+_Context: Bosnian Serb, Hague, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, genocide, war crime_
 
 ### [ At least 11 people die this week and five are missing as a result of floods and landslides caused by heavy rain in Ha Giang Province in northern Vietnam. ](/news/2008/08/29/at-least-11-people-die-this-week-and-five-are-missing-as-a-result-of-floods-and-landslides-caused-by-heavy-rain-in-ha-giang-province-in-no.md)
 At least 11 people have been killed and five are missing in heavy rains triggered flash floods and landslides in the mountains of northern Vietnam this week.

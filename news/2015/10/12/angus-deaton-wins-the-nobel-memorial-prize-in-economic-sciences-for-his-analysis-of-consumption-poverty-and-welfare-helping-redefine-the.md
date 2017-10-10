@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [The Nobel Prize committee will announce which person has won the Nobel Prize in Economics. ](/news/2017/10/9/the-nobel-prize-committee-will-announce-which-person-has-won-the-nobel-prize-in-economics.md) _Context: Nobel Memorial Prize in Economic Sciences_
+1. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: Nobel Memorial Prize in Economic Sciences_
 2. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
 3. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
 4. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_

@@ -19,7 +19,7 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 2. [2011 Egyptian protests: Egyptian protestors claims that the Egyptian Army beat them up in Cairo's Tahrir Square. ](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.md) _Context: Egypt, Protesters_
 3. [The Egyptian Ministry for Health estimates that at least 365 people were killed and 5,500 injured in the 2011 Egyptian protests. ](/news/2011/02/16/the-egyptian-ministry-for-health-estimates-that-at-least-365-people-were-killed-and-5-500-injured-in-the-2011-egyptian-protests.md) _Context: Egypt, Protesters_
 4. [Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md) _Context: Egypt, Protesters_
-5. [The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons. ](/news/2017/10/7/the-federal-communications-commission-approves-google-s-plan-to-restore-some-cell-phone-service-in-hurricane-hit-puerto-rico-with-project-lo.md) _Context: Google_
+5. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
 
 ### Changes:
 

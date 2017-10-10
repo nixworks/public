@@ -19,7 +19,7 @@ _Context: China, Chinese human rights, government_
 _Context: Gaza, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
 
 ### [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http:--www.telegraph.co.uk-news-worldnews-africaandindianocean-somalia-5149000-US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md)
-_Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalian, United States, United States House of Representatives_
+_Context: Aden Adde International Airport, American, Donald M. Payne, Mortar, Somalian, United States House of Representatives_
 
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)
 _Context: Georgian, President of Georgia, Saakashvili, Tbilisi, protest_
@@ -28,7 +28,7 @@ _Context: Georgian, President of Georgia, Saakashvili, Tbilisi, protest_
 _Context: Baalbek, Beqaa Valley, Ground Forces, Lebanon, soldier_
 
 ### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. [http:--www.miamiherald.com-news-politics-AP-story-997719.html "(Miami Herald)"]](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba-http-www-miamiherald-com-news-politics-ap-story-997719-ht.md)
-_Context: Cuba, Cuba - United States relations, United States, United States embargo against Cuba, United States federal government_
+_Context: American, Cuba, Cuba - United States relations, United States embargo against Cuba, United States federal government_
 
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
 _Context: Kwangmyongsong-2, North Korea, United Nations, United Nations Security Council, launches_

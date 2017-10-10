@@ -31,7 +31,7 @@ _Context: Bangladesh, Dhaka, Meghna River, Munshiganj District_
 _Context: George H. W. Bush, President, hackers_
 
 ### [A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. ](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake-city-united-states-causes-the-death-of-two-people.md)
-_Context: Interstate 80, Salt Lake City, United States, murder-suicide_
+_Context: American, Interstate 80, Salt Lake City, murder-suicide_
 
 ### [2013 Bangladesh protests: In Bangladesh, over 100,000 people join in a mass movement to demand justice for atrocities committed during the Bangladesh Liberation War. ](/news/2013/02/8/2013-bangladesh-protests-in-bangladesh-over-100-000-people-join-in-a-mass-movement-to-demand-justice-for-atrocities-committed-during-the-b.md)
 Hundreds of thousands rally in Bangladesh to demand the death penalty for a political leader convicted of war crimes from the 1971 independence war.

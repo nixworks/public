@@ -4,7 +4,7 @@
 _Context: George "Gigi" Becali, Greater Romania Party, MEP, Romania_
 
 ### [ Three workers are missing after an explosion at a ConAgra Foods plant in Garner, North Carolina, United States. ](/news/2009/06/9/three-workers-are-missing-after-an-explosion-at-a-conagra-foods-plant-in-garner-north-carolina-united-states.md)
-_Context: ConAgra Foods, Garner, North Carolina, North Carolina, United States_
+_Context: American, ConAgra Foods, Garner, North Carolina, North Carolina_
 
 ### [ 2009 swine flu outbreak: World Health Organisation Director-General Margaret Chan believes "on the surface of it" that a pandemic has been reached. She also said that "once I get indisputable evidence, I will make the announcement," and will meet with governments on Wednesday regarding reports about the outbreak. ](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisation-director-general-margaret-chan-believes-on-the-surface-of-it-that-a-pandemic-has-been.md)
 _Context: Margaret Chan, World Health Organisation, current outbreak, pandemic_

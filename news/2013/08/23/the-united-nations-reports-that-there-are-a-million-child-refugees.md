@@ -17,7 +17,7 @@ The longer chemical weapons inspectors wait in a Damascus luxury hotel for permi
 2. [ The United Nations' Office for the Coordination of Humanitarian Affairs estimates that 15,000 refugees have fled from southern Darfur to the Zam Zam refugee camp in the north. ](/news/2009/02/25/the-united-nations-office-for-the-coordination-of-humanitarian-affairs-estimates-that-15-000-refugees-have-fled-from-southern-darfur-to-th.md) _Context: United Nations, refugee_
 3. [ The United Nations launches a food assistance program to assist Iraqi refugees in Syria. ](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.md) _Context: United Nations, refugee_
 4. [ Gunmen kill at least 156 people &ndash; mainly women and children &ndash; in an overnight raid on the Gatumba camp for Congolese Tutsi refugees in Burundi, the UN says. ](/news/2004/08/14/gunmen-kill-at-least-156-people-ndash-mainly-women-and-children-ndash-in-an-overnight-raid-on-the-gatumba-camp-for-congolese-tutsi-refu.md) _Context: United Nations, refugee_
-5. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: refugee_
+5. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
 
 ### Changes:
 

@@ -14,7 +14,7 @@ A Taiwanese ship reported to have been seized by pirates east of Madagascar had 
 
 ### Related:
 
-1. [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md) _Context: Madagascar_
+1. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _Context: Madagascar_
 2. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Taiwan_
 3. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Taiwan_
 4. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _Context: Taiwan_

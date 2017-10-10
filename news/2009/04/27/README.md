@@ -1,7 +1,7 @@
 ## [2009-04-27](/news/2009/04/27/index.md)
 
 ### [ A low-flying Boeing VC-25, "Air Force One", causes momentary panic in New York City, New York, United States. ](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-momentary-panic-in-new-york-city-new-york-united-states.md)
-_Context: Air Force One, Boeing, New York City, New York State, United States, VC-25, panic_
+_Context: Air Force One, American, Boeing, New York City, New York State, VC-25, panic_
 
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
 _Context: Mexican, current outbreak, swine flu_

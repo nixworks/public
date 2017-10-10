@@ -52,7 +52,7 @@ _Context: Afghanistan, Cherif Bassiouni, Human rights, United Nations, United St
 _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ### [ In Vietnam, six people are arrested for trying to sell human remains as remains of MIA US soldiers. ](/news/2005/04/27/in-vietnam-six-people-are-arrested-for-trying-to-sell-human-remains-as-remains-of-mia-us-soldiers.md)
-_Context: MIA, United States, Vietnam_
+_Context: American, MIA, Vietnam_
 
 ### [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md)
 _Context: Alassane Ouattara, Cte d'Ivoire, Laurent Gbagbo, South Africa, Thabo Mbeki_

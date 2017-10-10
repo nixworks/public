@@ -28,7 +28,7 @@ _Context: Proton-M, communications satellite, rocket_
 _Context: California, San Diego County_
 
 ### [Tens of thousands of people are being evacuated in Serbia and Bosnia as heavy rains cause floods. ](/news/2014/05/16/tens-of-thousands-of-people-are-being-evacuated-in-serbia-and-bosnia-as-heavy-rains-cause-floods.md)
-_Context: Bosnia, Serbia, heavy rains cause floods_
+_Context: Bosnian, Serbia, heavy rains cause floods_
 
 ### [Led by Narendra Modi, the Bharatiya Janata Party wins a majority in the Indian general election. The incumbent Indian National Congress records its worst ever result. ](/news/2014/05/16/led-by-narendra-modi-the-bharatiya-janata-party-wins-a-majority-in-the-indian-general-election-the-incumbent-indian-national-congress-reco.md)
 _Context: Bharatiya Janata Party, Indian National Congress, Indian general election, Narendra Modi_

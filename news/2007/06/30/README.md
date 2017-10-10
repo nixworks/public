@@ -7,7 +7,7 @@ _Context: 2007 attack, COBRA, Glasgow, Gordon Brown, Home Secretary, Jacqui Smit
 _Context: Archbishop, British government, Pius Ncube, Robert Mugabe, Zimbabwe_
 
 ### [ United States troops kill 26 militants in an attack on Sadr City in Baghdad. ](/news/2007/06/30/united-states-troops-kill-26-militants-in-an-attack-on-sadr-city-in-baghdad.md)
-_Context: Baghdad, Sadr City, United States_
+_Context: American, Baghdad, Sadr City_
 
 ### [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md)
 Almost four million Papua New Guineans have begun voting this morning in a national poll.

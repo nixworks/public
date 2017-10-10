@@ -7,7 +7,7 @@ _Context: Falluja_
 _Context: Hong Kong, SARS, Singapore, Vietnam, World Health Organization_
 
 ### [ SARS is made only the fourth disease, after plague, yellow fever, and cholera, that countries are required to report to the World Health Organization. ](/news/2003/04/28/sars-is-made-only-the-fourth-disease-after-plague-yellow-fever-and-cholera-that-countries-are-required-to-report-to-the-world-health-or.md)
-_Context: Bubonic plague, SARS, World Health Organization, cholera, yellow fever_
+_Context: SARS, World Health Organization, bubonic, cholera, yellow fever_
 
 ### [ Apple Computer revealed a new online music store, entitled the iTunes Music Store, for its iTunes and iPod products. Each song can be downloaded for 99 cents and there is no subscription fee.](/news/2003/04/28/apple-computer-revealed-a-new-online-music-store-entitled-the-itunes-music-store-for-its-itunes-and-ipod-products-each-song-can-be-downl.md)
 _Context: Apple Computer, iPod, iTunes, iTunes Music Store_

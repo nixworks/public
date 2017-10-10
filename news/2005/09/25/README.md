@@ -16,7 +16,7 @@ _Context: Alliance of the Democratic Left, Civic Platform, Law and Justice Party
 _Context: 2011, EU, Switzerland, referendum_
 
 ### [ At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a-u-s-raid-into-sad.md)
-_Context: Baghdad, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
+_Context: American, Baghdad, Mahdi Army, Muslim, Sadr City, Shia, US soldiers_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
 _Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_

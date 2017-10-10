@@ -4,7 +4,7 @@
 _Context: Chile, Llaima, ash, ash eruption, evacuation centers, landslide, lava, volcano, warnings_
 
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
-_Context: Pennsylvania, Pittsburgh, United States, killed, police officers_
+_Context: American, Pennsylvania, Pittsburgh, killed, police officers_
 
 ### [ The Organisation for Economic Co-operation and Development blacklists Costa Rica, Malaysia and the Philippines as non-cooperative tax havens. ](/news/2009/04/4/the-organisation-for-economic-co-operation-and-development-blacklists-costa-rica-malaysia-and-the-philippines-as-non-cooperative-tax-haven.md)
 _Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Development, Philippines, blacklists, tax haven_

@@ -15,7 +15,7 @@ A landslide near a jade mine in northern Myanmar killed about 100 people, most o
 
 1. [A landslide near a jade mine in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md) _Context: Hpakant jade mine disaster, Myanmar, jade_
 2. [Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. ](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-after-a-jade-mine-collapses-in-the-myanmar-town-of-hpakant.md) _Context: Myanmar, jade_
-3. [A refugee boat fleeing from Myanmar to Bangladesh capsizes, killing at least two people. ](/news/2017/10/8/a-refugee-boat-fleeing-from-myanmar-to-bangladesh-capsizes-killing-at-least-two-people.md) _Context: Myanmar_
+3. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: Myanmar_
 4. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Myanmar_
 5. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Myanmar_
 

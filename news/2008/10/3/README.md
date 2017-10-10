@@ -16,7 +16,7 @@ Officials in Athens have said Greece will follow the Irish lead in guaranteeing 
 _Context: MICEX, RTS, Russia_
 
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: California, Steve Fossett, United States, went missing_
+_Context: American, California, Steve Fossett, went missing_
 
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
 The U.S. government has announced plans to sell billions of dollars worth of weapons to Taiwan, a move certain to anger China, which considers Taiwan part of its territory.

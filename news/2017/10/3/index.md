@@ -27,7 +27,7 @@ _Context: Pedro Passos Coelho, Politics of Portugal, Prime Minister of Portugal,
 ### [The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.md)
 _Context: Abortion in the United States, U.S. House of Representatives_
 
-### [Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq.](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.md)
+### [Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq. ](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.md)
 _Context: Jalal Talabani, Politics of Iraq, President of Iraq_
 
 ### [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md)

@@ -16,7 +16,7 @@ A state of emergency has been declared in the Nelson region due to heavy floodin
 South 24 Parganas officials fear death toll could rise further
 
 ### [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md)
-_Context: Antarctica, Australia, Japan, Netherlands, New Zealand, United States, hunt_
+_Context: American, Antarctica, Australia, Japan, Netherlands, New Zealand, hunt_
 
 ### [Taiwan is to reduce the length of compulsory military service from one year to four months. ](/news/2011/12/14/taiwan-is-to-reduce-the-length-of-compulsory-military-service-from-one-year-to-four-months.md)
 _Context: Taiwan, conscription_

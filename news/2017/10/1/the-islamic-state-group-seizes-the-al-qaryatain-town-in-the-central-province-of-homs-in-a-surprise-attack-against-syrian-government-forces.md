@@ -7,7 +7,7 @@ The Islamic State group on Sunday seized a town in central Syria known as a symb
 
 ### Source:
 
-1. [Firstpost](http://www.firstpost.com/world/islamic-state-seizes-al-qaryatain-town-in-central-syria-in-surprise-attack-shows-monitor-4099721.html)
+1. [First Post](http://www.firstpost.com/world/islamic-state-seizes-al-qaryatain-town-in-central-syria-in-surprise-attack-shows-monitor-4099721.html)
 1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2017/10/IslamicState_AP.jpg)
 
 ### Related:

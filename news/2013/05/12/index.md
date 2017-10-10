@@ -16,10 +16,10 @@ The &#034;Swarmagaddon,&#034;-a cicada invasion as many people call, that is exp
 The World Health Organization warns that it appears &quot;increasingly&quot; likely that the new coronavirus can be passed between people in close contact.
 
 ### [Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. ](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-at-a-mother-s-day-parade-in-new-orleans-louisiana-united-states.md)
-_Context: Louisiana, Mother's Day, New Orleans, United States, shooting_
+_Context: American, Louisiana, Mother's Day, New Orleans, shooting_
 
 ### [Four people are found fatally shot in Waynesville, Indiana, United States. ](/news/2013/05/12/four-people-are-found-fatally-shot-in-waynesville-indiana-united-states.md)
-_Context: Indiana, United States, Waynesville_
+_Context: American, Indiana, Waynesville_
 
 ### [A 12-year-old boy is arrested in connection to the April 27 Valley Springs, California, United States stabbing of his 8-year-old sister. ](/news/2013/05/12/a-12-year-old-boy-is-arrested-in-connection-to-the-april-27-valley-springs-california-united-states-stabbing-of-his-8-year-old-sister.md)
 Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl who was mysteriously stabbed at her home in a quiet Northern California community last month.

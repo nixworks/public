@@ -16,7 +16,7 @@ _Context: Polish, Rudna mine, Silesia, earthquake, miners_
 Barack Obama says Israel has &quot;no greater friend&quot; than the US, as he makes his first visit to the country as president.
 
 ### [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md)
-_Context: US State Department, United States, United States-Venezuela relations, Venezuela, communication, informal channel, last month's presidential election_
+_Context: American, US State Department, United States-Venezuela relations, Venezuela, communication, informal channel, last month's presidential election_
 
 ### [South Korea is suspected to be the target of recent cyberattacks as major TV stations and bank's computer systems infrastructures experience disruptions followed by shutdown. Recent reports indicate that the systems were brought down by a computer virus. ](/news/2013/03/20/south-korea-is-suspected-to-be-the-target-of-recent-cyberattacks-as-major-tv-stations-and-bank-s-computer-systems-infrastructures-experience.md)
 Disruption to the computer networks of broadcasters and banks in South Korea appears to have been caused by a virus, an official tells the BBC.

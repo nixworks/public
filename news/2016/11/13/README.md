@@ -16,7 +16,7 @@ A newly filed class action lawsuit accuses Audi of using defeat devices in at le
 BUENOS AIRES, Argentina (AP) — A strong earthquake with a magnitude of 6.2 struck northwestern Argentina early Sunday, but there were no immediate reports of damage or injuries. The U.S. Geological Survey said the earthquake…
 
 ### [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md)
-_Context: Australia, Australia-United States relations, Manus Island, Nauru, Papua New Guinea, United States_
+_Context: American, Australia, Australia-United States relations, Manus Island, Nauru, Papua New Guinea_
 
 ### [Philippine president Rodrigo Duterte threatens to suspend the country's habeas corpus "if forced to" by what he says the worsening lawlessness in the country. He mentioned in the same speech, the alleged widespread illegal drug trade in the country, the rebellion in Mindanao, and the worsening campaign against the militant Maute group. ](/news/2016/11/13/philippine-president-rodrigo-duterte-threatens-to-suspend-the-country-s-habeas-corpus-if-forced-to-by-what-he-says-the-worsening-lawlessne.md)
 _Context: Maute group, Moro conflict, Philippine, Rodrigo Duterte, habeas corpus_

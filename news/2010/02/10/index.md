@@ -10,7 +10,7 @@ _Context: Prime Minister, Voreqe Bainimarama, coup in 2006_
 _Context: 1902 Cremation Act, Britain's Court of Appeal, pyre_
 
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
-_Context: Chicago, United States, magnitude_
+_Context: American, Chicago, magnitude_
 
 ### [Officials in Haiti state that at least 230,000 people died in the 2010 Haiti earthquake, but that number may yet grow, approaching the 2004 Indian Ocean earthquake as the deadliest natural disaster of the 21st century thus far. ](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.md)
 _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
