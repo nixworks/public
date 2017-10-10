@@ -9,8 +9,8 @@ Hurricane Nate made its second landfall around 12:30 a.m. CT on Sunday near Bilo
 ### [An explosion at a liquefied natural gas depot leads to a second explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. ](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-leads-to-a-second-explosion-at-a-gas-station-in-legon-a-suburb-of-the-ghanaian-capital-accra.md)
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were...
 
-### [Another round of pneumonic plague spreads in Madagascar, killing at least 33 people. ](/news/2017/10/7/another-round-of-pneumonic-plague-spreads-in-madagascar-killing-at-least-33-people.md)
-The World Health Organization has shipped a million doses of antibiotics to Madagascar, which is experiencing what may be its deadliest plague outbreak in years.
+### [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md)
+1. Situation update The outbreak of plague in Madagascar continues to evolve. Since our last report on 4 October 2017, a total of 230 new suspected cases including 17 deaths (case fatality rate 7.4%) were reported. Between 1 August and 8 October 2017, a total of 387 cases (suspected, probable and co...
 
 ### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
 _Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
