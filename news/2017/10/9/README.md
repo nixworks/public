@@ -3,6 +3,9 @@
 ### [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md)
 US economist Richard Thaler is a founding father of behavioural economics and pioneered &quot;nudge&quot; theory.
 
+### [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md)
+_Context: Central Japan Railway Company, Japan, Kobe Steel, Mazda, Mitsubishi, Subaru, Toyota_
+
 ### [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md)
 Around 3,000 people were evacuated when the construction market in north-west Moscow went up in flames.
 
