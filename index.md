@@ -18,6 +18,9 @@ The Trump administration Tuesday will formally withdraw federal limits on carbon
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
 Candidates to replace Ellen Johnson Sirleaf include Prince Johnson, a former rebel leader who ordered killing of ex-president
 
+### [International mediation talks are underway to try and resolve the crisis less than an hour before Carles Puigdemont is set to give a speech regarding independence from Spain. ](/news/2017/10/10/international-mediation-talks-are-underway-to-try-and-resolve-the-crisis-less-than-an-hour-before-carles-puigdemont-is-set-to-give-a-speech.md)
+Regional president, Carles Puigdemont, to set out independence plans for first time since referendum that provoked standoff with Spanish government
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
