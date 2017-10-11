@@ -7,7 +7,7 @@ The Trump administration Tuesday will formally withdraw federal limits on carbon
 
 ### Source:
 
-1. [New York Times](https://www.nytimes.com/2017/10/09/climate/clean-power-plan.html)
+1. [The New York Times](https://www.nytimes.com/2017/10/09/climate/clean-power-plan.html)
 2. [The Wall Street Journal](https://www.wsj.com/articles/epa-to-withdraw-power-plant-rules-1507580639)
 2. [Cover Image](https://si.wsj.net/public/resources/images/BN-VM714_39Tar_TOP_20171009161018.jpg)
 
