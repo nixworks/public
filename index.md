@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/10/index.md)
 
 ### [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md)
-_Context: North Korea, South Korea, hackers_
+_Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
 
 ### [Multinational U.S. conglomerate Honeywell announces plans to spinoff its Homes, ADI Global Distribution, and Transportation Systems businesses into two separate, publicly-traded companies by the end of 2018. ](/news/2017/10/10/multinational-u-s-conglomerate-honeywell-announces-plans-to-spinoff-its-homes-adi-global-distribution-and-transportation-systems-business.md)
 MORRIS PLAINS, N.J., Oct. 10, 2017 /PRNewswire/ -- Honeywell (NYSE: HON) today announced the results of its...
