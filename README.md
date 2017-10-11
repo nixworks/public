@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/11/index.md)
 
+### [The Ministry of Justice of Peru appoints a new head on the Direction of Presidentials Graces. This is understood as a more step of the Pedro Pablo Kuczynski Administration, although he has denied it, towards to granting of the pardon of the former president Alberto Fujimori, sentenced for acts of corruption and Human Rights violations. Fujimori, who is in jail since 2007 and whose health has deteriorated with the passage of the years, especially for a alleged tongue cancer, has applied for pardon unsuccessfully on two occasions. He ruled Peru from 1990 to 2000 and is currently 79 years old. ](/news/2017/10/11/the-ministry-of-justice-of-peru-appoints-a-new-head-on-the-direction-of-presidentials-graces-this-is-understood-as-a-more-step-of-the-pedro.md)
+_Context: 1990, 2000, 2007, Alberto Fujimori, Alberto Fujimori's arrest and trial, Human Rights violations, Ministry of Justice of Peru, Pedro Pablo Kuczynski, Peru, corruption, tongue cancer_
+
 ### [Three suicide bombers attacked a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attacked-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
 Three men blew themselves up near the police headquarters in central Damascus on Wednesday, the second such attack to hit the Syrian capital this month, state media said.
 
@@ -32,10 +35,7 @@ A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compr
 ### [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md)
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
-### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
-Nasa leader says will not take part in the October 26 election.
-
-### [The United States Environmental Protection Agency, on behalf of the Presidency of Donald Trump, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-presidency-of-donald-trump-announces-that-it-will-roll-back-clean-energ.md)
+### [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md)
 The Trump administration Tuesday will formally withdraw federal limits on carbon emissions at power plants, Environmental Protection Agency Administrator Scott Pruitt said, triggering the next stage of what is likely a yearslong fight over the Obama administration’s centerpiece for slowing climate...
 
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
@@ -49,6 +49,9 @@ A Chicago-area tax on soft drinks and other sugary beverages that angered some c
 
 ### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
 California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
+
+### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
+Nasa leader says will not take part in the October 26 election.
 
 ---
 

@@ -18,10 +18,7 @@ A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compr
 ### [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md)
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
-### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
-Nasa leader says will not take part in the October 26 election.
-
-### [The United States Environmental Protection Agency, on behalf of the Presidency of Donald Trump, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-presidency-of-donald-trump-announces-that-it-will-roll-back-clean-energ.md)
+### [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md)
 The Trump administration Tuesday will formally withdraw federal limits on carbon emissions at power plants, Environmental Protection Agency Administrator Scott Pruitt said, triggering the next stage of what is likely a yearslong fight over the Obama administration’s centerpiece for slowing climate...
 
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
@@ -35,6 +32,9 @@ A Chicago-area tax on soft drinks and other sugary beverages that angered some c
 
 ### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
 California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
+
+### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
+Nasa leader says will not take part in the October 26 election.
 
 ## [Previous Day...](/news/2017/10/9/index.md)
 
