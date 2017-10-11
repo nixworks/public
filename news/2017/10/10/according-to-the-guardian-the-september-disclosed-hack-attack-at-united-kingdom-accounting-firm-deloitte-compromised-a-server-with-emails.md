@@ -1,6 +1,6 @@
 ### [2017-10-10](/news/2017/10/10/index.md)
 
-# According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. 
+# According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. 
 
 A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations, the Guardian reported on Tuesday, citing unnamed sources.
 
@@ -22,4 +22,4 @@ A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compr
 ### Changes:
 
 1. [The September disclosed hack attack at accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. ](/news/2017/10/10/the-september-disclosed-hack-attack-at-accounting-firm-deloitte-compromised-a-server-with-emails-of-some-350-clients-including-u-s-governm.md) _2017-10-11 03:57:23 (First version)_
-1. [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md) _(Current version)_
+1. [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md) _(Current version)_
