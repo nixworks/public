@@ -6,7 +6,7 @@ _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
 ### [Multinational U.S. conglomerate Honeywell announces plans to spinoff its Homes, ADI Global Distribution, and Transportation Systems businesses into two separate, publicly-traded companies by the end of 2018. ](/news/2017/10/10/multinational-u-s-conglomerate-honeywell-announces-plans-to-spinoff-its-homes-adi-global-distribution-and-transportation-systems-business.md)
 MORRIS PLAINS, N.J., Oct. 10, 2017 /PRNewswire/ -- Honeywell (NYSE: HON) today announced the results of its...
 
-### [U.S. President Donald Trump declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-trump-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-cal.md)
+### [U.S. President Donald Drumpf declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-drumpf-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-ca.md)
 Firefighters were counting on cooler weather and weakening winds Tuesday to help in their fight against at least 17 large blazes.
 
 ### [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md)
@@ -18,7 +18,10 @@ A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compr
 ### [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md)
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
-### [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md)
+### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
+Nasa leader says will not take part in the October 26 election.
+
+### [The United States Environmental Protection Agency, on behalf of the Drumpf administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-drumpf-administration-announces-that-it-will-roll-back-clean-energy-reg.md)
 The Trump administration Tuesday will formally withdraw federal limits on carbon emissions at power plants, Environmental Protection Agency Administrator Scott Pruitt said, triggering the next stage of what is likely a yearslong fight over the Obama administration’s centerpiece for slowing climate...
 
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
@@ -32,9 +35,6 @@ A Chicago-area tax on soft drinks and other sugary beverages that angered some c
 
 ### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
 California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
-
-### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
-Nasa leader says will not take part in the October 26 election.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
