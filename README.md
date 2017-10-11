@@ -1,4 +1,15 @@
-## [News](/news/2017/10/10/index.md)
+## [News](/news/2017/10/11/index.md)
+
+### [According to Syrian state, three suicide bombers attacked a police command center in Damascus, killing two others and injuring six. ](/news/2017/10/11/according-to-syrian-state-three-suicide-bombers-attacked-a-police-command-center-in-damascus-killing-two-others-and-injuring-six.md)
+Three men blew themselves up near the police headquarters in central Damascus on Wednesday, the second such attack to hit the Syrian capital this month, state media said.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/10/index.md)
 
 ### [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md)
 _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
@@ -6,7 +17,7 @@ _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
 ### [Multinational U.S. conglomerate Honeywell announces plans to spinoff its Homes, ADI Global Distribution, and Transportation Systems businesses into two separate, publicly-traded companies by the end of 2018. ](/news/2017/10/10/multinational-u-s-conglomerate-honeywell-announces-plans-to-spinoff-its-homes-adi-global-distribution-and-transportation-systems-business.md)
 MORRIS PLAINS, N.J., Oct. 10, 2017 /PRNewswire/ -- Honeywell (NYSE: HON) today announced the results of its...
 
-### [U.S. President Donald Drumpf declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-drumpf-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-ca.md)
+### [U.S. President Donald Trump declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-trump-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-cal.md)
 Firefighters were counting on cooler weather and weakening winds Tuesday to help in their fight against at least 17 large blazes.
 
 ### [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md)
@@ -21,7 +32,7 @@ At least 13 people were killed when a fight broke out in a prison in the norther
 ### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
 Nasa leader says will not take part in the October 26 election.
 
-### [The United States Environmental Protection Agency, on behalf of the Drumpf administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-drumpf-administration-announces-that-it-will-roll-back-clean-energy-reg.md)
+### [The United States Environmental Protection Agency, on behalf of the Presidency of Donald Trump, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-presidency-of-donald-trump-announces-that-it-will-roll-back-clean-energ.md)
 The Trump administration Tuesday will formally withdraw federal limits on carbon emissions at power plants, Environmental Protection Agency Administrator Scott Pruitt said, triggering the next stage of what is likely a yearslong fight over the Obama administration’s centerpiece for slowing climate...
 
 ### [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md)
@@ -36,13 +47,9 @@ A Chicago-area tax on soft drinks and other sugary beverages that angered some c
 ### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
 California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/9/index.md)
+## [Day Before Yesterday](/news/2017/10/9/index.md)
 
 ### [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md)
 US economist Richard Thaler is a founding father of behavioural economics and pioneered &quot;nudge&quot; theory.
@@ -61,23 +68,7 @@ _Context: Bosnian, Bosnian Serb, Bosnian War, International Criminal Tribunal fo
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/8/index.md)
-
-### [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md)
-Hundreds of thousands of Rohingya have fled Myanmar since Aug. 25 when the military launched a crackdown that had been decried by the United Nations as “ethnic cleansing.”
-
-### [Hurricane Nate weakens to a tropical storm, and causes flooding and power outages in Mississippi and Alabama. ](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.md)
-Hurricane Nate sped through the Gulf Coast overnight as a Category 1 storm, knocking out power for more than 100,000 customers across the region and causing scattered flooding, but it was not as devastating as they expected and quickly lost force as it moved inland. The first hurricane to make...
-
-### [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md)
-Markets in Istanbul tumbled after the U.S. and Turkey stopped issuing visas for each other’s citizens in a spat related to last year’s failed coup against President Recep Tayyip Erdogan, deepening divisions between NATO members already at odds over the war in Syria.
-
-### [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md)
-At least 350,000 people protest against secession amid speculation Catalan leaders may declare independence.
-
----
-
-## [Previous Day...](/news/2017/10/7/index.md)
+## [Previous Day...](/news/2017/10/8/index.md)
 
 ---
 
