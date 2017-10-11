@@ -16,7 +16,7 @@ _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democratic, Howard De
 _Context: British, December 13, M6 Toll, West Midlands_
 
 ### [Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes-at-an-entrance-to-an.md)
-_Context: American, Iraq, Mosul, Tal Afar, car bomb_
+_Context: Iraq, Mosul, Tal Afar, U.S., car bomb_
 
 ### [Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. ](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.md)
 _Context: George W. Bush, One-China policy, Premier of the People's Republic of China, Taiwan, Wen Jiabao, status_

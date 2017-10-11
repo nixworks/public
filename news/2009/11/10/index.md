@@ -7,7 +7,7 @@ _Context: Brazil, Brazilian state, Itaipu Dam, Paraguay, Sao Paulo, massive blac
 _Context: North Korea, Northern Limit Line, South Korea, Yellow Sea, fire on one another_
 
 ### [ Prosecutors begin cross examining former Liberian President Charles Taylor at his war crimes trial. ](/news/2009/11/10/prosecutors-begin-cross-examining-former-liberian-president-charles-taylor-at-his-war-crimes-trial.md)
-_Context: Charles Taylor, Liberia, President of Liberia_
+_Context: Charles Taylor, Liberia, President_
 
 ### [ Thailand's ousted Prime Minister Thaksin Shinawatra arrives in Cambodia to take up his new appointment as economic adviser to the Cambodian government. ](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.md)
 Former Thai PM stirs up diplomatic tensions as he takes up government advisory role.

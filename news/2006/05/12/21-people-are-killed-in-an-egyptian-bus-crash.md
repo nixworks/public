@@ -19,5 +19,5 @@
 
 ### Changes:
 
-1. [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md) _2017-10-09 03:20:22 (First version)_
+1. [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md) _2017-10-10 03:20:35 (First version)_
 1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _(Current version)_

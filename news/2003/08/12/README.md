@@ -7,7 +7,7 @@ _Context: Air Force One, BBC, Baltimore, FBI, Igla, Newark, New Jersey's, Saint 
 _Context: Associated Press, Iraq, U.S. presence in Iraq, soldier_
 
 ### [ George W. Bush nominates former NGA chairman and current governor of Utah, Michael O. Leavitt for administrator of the Environmental Protection Agency.](/news/2003/08/12/george-w-bush-nominates-former-nga-chairman-and-current-governor-of-utah-michael-o-leavitt-for-administrator-of-the-environmental-protec.md)
-_Context: George W. Bush, Michael O. Leavitt, NGA, U.S. Environmental Protection Agency, Utah_
+_Context: George W. Bush, Michael O. Leavitt, NGA, United States Environmental Protection Agency, Utah_
 
 ### [ Israeli-Palestinian conflict: Two Israelis killed and about a dozen wounded in two separate suicide bombings by Palestinian terrorists in the towns of Rosh-Ha'ayin and Ariel. Hamas and the Al-Aqsa Martyrs' Brigades claimed responsibility for the attacks. The IDF retaliated on Wednesday by demolishing the house in Nablus where the bomber in the Rosh Ha-Ayin attack lived with his family.](/news/2003/08/12/israeli-palestinian-conflict-two-israelis-killed-and-about-a-dozen-wounded-in-two-separate-suicide-bombings-by-palestinian-terrorists-in-t.md)
 _Context: Al-Aqsa Martyrs' Brigades, Ariel, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Nablus, Palestinian terrorist, suicide bombing_

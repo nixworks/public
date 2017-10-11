@@ -1,7 +1,7 @@
 ## [2014-08-5](/news/2014/08/5/index.md)
 
 ### [A U.S. major general Harold J. Greene is killed, and a German brigadier general and several American troops are among the 15 wounded, in a attack by an Afghan soldier gunman - who was killed by Afghan soldiers - at Kabul's Marshal Fahim National Defense University. ](/news/2014/08/5/a-u-s-major-general-harold-j-greene-is-killed-and-a-german-brigadier-general-and-several-american-troops-are-among-the-15-wounded-in-a-a.md)
-_Context: American, Brigadier General, Germany, Harold J. Greene, Kabul, War in Afghanistan, major general_
+_Context: Brigadier General, Germany, Harold J. Greene, Kabul, U.S., War in Afghanistan, major general_
 
 ### [Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro-russian-rebel-held-city-of-donetsk.md)
 _Context: Donetsk, Marinka_

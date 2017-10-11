@@ -1,7 +1,7 @@
 ## [2008-10-2](/news/2008/10/2/index.md)
 
 ### [ Sarah Palin and Joe Biden have their only scheduled debate for the vice presidency of the United States. ](/news/2008/10/2/sarah-palin-and-joe-biden-have-their-only-scheduled-debate-for-the-vice-presidency-of-the-united-states.md)
-_Context: American, Joe Biden, Sarah Palin, only scheduled debate_
+_Context: Joe Biden, Sarah Palin, U.S., only scheduled debate_
 
 ### [ Ukrainian President, Viktor Yushchenko may face impeachment on charges of undermining national security, and illegal arms trade with Georgia months before the attack on Tskhinvali, South Ossetia, says Ukrainian Prime Minister Yulia Tymoshenko. Yushchenko earlier said the arms trade charges are "unsubstantiated". ](/news/2008/10/2/ukrainian-president-viktor-yushchenko-may-face-impeachment-on-charges-of-undermining-national-security-and-illegal-arms-trade-with-georgi.md)
 _Context: Georgian, South Ossetia, Tskhinvali, Ukraine, Viktor Yushchenko, Yulia Tymoshenko_
@@ -13,7 +13,7 @@ _Context: Boris Johnson, British, Ian Blair, London, Mayor, Metropolitan Police 
 _Context: California, Madera County, Steve Fossett_
 
 ### [ The United States Securities and Exchange Commission says it would extend the short-sale ban to as long as October 17 or up to three business days after the passage of the proposed bailout plan, but will not make it permanent. ](/news/2008/10/2/the-united-states-securities-and-exchange-commission-says-it-would-extend-the-short-sale-ban-to-as-long-as-october-17-or-up-to-three-busine.md)
-_Context: American, October 17, Securities and Exchange Commission, business day, proposed bailout plan, short-sale_
+_Context: October 17, Securities and Exchange Commission, U.S., business day, proposed bailout plan, short-sale_
 
 ## [Previous Day...](/news/2008/10/1/index.md)
 

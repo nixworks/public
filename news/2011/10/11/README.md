@@ -34,7 +34,7 @@ Passenger and cargo traffic was halted after Thai border police heard gunfire, f
 The US says it has broken up a plot by agents linked to Iran to assassinate the Saudi ambassador to Washington using explosives.
 
 ### [Voters in Liberia go to the polls for a general election with current President and recent Nobel Peace Prize laureate Ellen Johnson-Sirleaf facing a tight race. ](/news/2011/10/11/voters-in-liberia-go-to-the-polls-for-a-general-election-with-current-president-and-recent-nobel-peace-prize-laureate-ellen-johnson-sirleaf.md)
-_Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, Nobel Peace Prize, President of Liberia_
+_Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, Nobel Peace Prize, President_
 
 ### [Myanmar's tightly controlled state newspapers call for a political amnesty indicating that reforms may soon be announced by President Thein Sein with the National Human Rights Commission recommending the pardon of some 6000 plus "prisoners of conscience". ](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.md)
 _Context: Myanmar, National Human Rights Commission, President of Burma, Thein Sein, amnesty_

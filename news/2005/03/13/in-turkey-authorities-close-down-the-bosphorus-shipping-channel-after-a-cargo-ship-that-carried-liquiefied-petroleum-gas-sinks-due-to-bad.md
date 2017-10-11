@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+1. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
 2. [The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. ](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.md) _Context: crude oil_
 3. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
 4. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_

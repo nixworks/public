@@ -4,7 +4,7 @@
 _Context: Cape Fear Bank, Colorado, Greeley, New Frontier Bank, North Carolina, Wilmington, banks failed_
 
 ### [ At least 27 tornadoes kill six people throughout the Southern United States. ](/news/2009/04/10/at-least-27-tornadoes-kill-six-people-throughout-the-southern-united-states.md)
-_Context: American, Southern United States, kill, tornado_
+_Context: Southern United States, U.S., kill, tornado_
 
 ### [ The Fourth East Asia Summit begins in Pattaya, Thailand. ](/news/2009/04/10/the-fourth-east-asia-summit-begins-in-pattaya-thailand.md)
 _Context: East Asia Summit, Fourth, Pattaya, Thailand_

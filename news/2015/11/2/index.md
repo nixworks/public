@@ -22,7 +22,7 @@ _Context: Airbus, Boeing, China, Comac, Comac C919_
 The two companies have more than 2.9 billion cards issued on its combined network.
 
 ### [The U.S. Environmental Protection Agency (EPA) and California's CARB are widening the Volkswagen investigation into several more expensive VW, Porsche, and Audi automobiles with 3.0-liter diesel engines in model years 2014 through 2016. Volkswagen says it installed no defeat device software on its 3.0 litre V6 diesel cars and is cooperating with the agency to fully investigate the matter. ](/news/2015/11/2/the-u-s-environmental-protection-agency-epa-and-california-s-carb-are-widening-the-volkswagen-investigation-into-several-more-expensive-v.md)
-_Context: Audi, CARB, California, Porsche, U.S. Environmental Protection Agency, Volkswagen, Volkswagen emissions scandal, diesel-powered_
+_Context: Audi, CARB, California, Porsche, United States Environmental Protection Agency, Volkswagen, Volkswagen emissions scandal, diesel-powered_
 
 ### [TransCanada Corp asks the United States Department of State to suspend its review of the Keystone XL pipeline while it negotiates with the US state of Nebraska about the route. If granted, the delay (according to Reuters) would almost certainly mean the decision on the project will be made by a future president. ](/news/2015/11/2/transcanada-corp-asks-the-united-states-department-of-state-to-suspend-its-review-of-the-keystone-xl-pipeline-while-it-negotiates-with-the-u.md)
 Faced with dimming prospects for approval, the Canadian company behind the proposed Keystone XL pipeline chose to plead with the U.S. government for a delay on its fate, signaling that prolonged uncertainty is preferable to rejection of the $8 billion project.

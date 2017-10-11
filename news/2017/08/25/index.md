@@ -52,7 +52,7 @@ _Context: Political appointments by Donald Trump, Sebastian Gorka_
 The suit was filed in U.S. District Court in Washington on behalf of five transgender service members with nearly 60 years of combined military service.
 
 ### [The U.S. Environmental Protection Agency announces, effective in 2019, it will no longer sponsor the Climate Leadership Awards program that honors voluntary corporate actions to combat global warming. ](/news/2017/08/25/the-u-s-environmental-protection-agency-announces-effective-in-2019-it-will-no-longer-sponsor-the-climate-leadership-awards-program-that.md)
-_Context: Environmental policy of the Donald Trump administration, U.S. Environmental Protection Agency, global warming_
+_Context: Environmental policy of the Donald Trump administration, United States Environmental Protection Agency, global warming_
 
 ### [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md)
 _Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization, SpaceX, Taiwan_

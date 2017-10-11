@@ -7,7 +7,7 @@ At least 17 people killed after attack on government building in the western Ira
 Deaths as rain, snow and high winds lash Eastern Mediterranean, bringing months of drought to a dramatic end.
 
 ### [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md)
-_Context: American, Hubert H. Humphrey Metrodome, Illinois, Iowa, Michigan, Minneapolis, Minnesota, Wisconsin, blizzard_
+_Context: Hubert H. Humphrey Metrodome, Illinois, Iowa, Michigan, Minneapolis, Minnesota, U.S., Wisconsin, blizzard_
 
 ### [Newly released cables from Australian intelligence show the intelligence assessment that charges of sodomy laid against Malaysian opposition leader Anwar Ibrahim are due to a "set up job" that he "walked into". Others refer to Malaysia as a "confused and dangerous" state, Thai politicians as corrupt and Crown Prince Maha Vajiralongkorn as "very erratic and easily subject to influence", and Japan as a "big fat loser". ](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.md)
 Malaysian opposition leader Anwar Ibrahim&#039;s sodomy charges are the result of a &#039;set up job&#039; that the politician &#039;walked into&#039;, according to intelligence.

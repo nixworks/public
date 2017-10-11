@@ -19,7 +19,7 @@ A suspected bomb attack on a new Catholic church in the northern Tanzanian town 
 _Context: Adamawa State, Nigeria_
 
 ### [A limousine catches fire on the San Mateo Bridge in Hayward, California, United States killing five women and injuring four trapped inside. ](/news/2013/05/5/a-limousine-catches-fire-on-the-san-mateo-bridge-in-hayward-california-united-states-killing-five-women-and-injuring-four-trapped-inside.md)
-_Context: American, California, Hayward, San Mateo Bridge, limousine_
+_Context: California, Hayward, San Mateo Bridge, U.S., limousine_
 
 ### [A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. ](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.md)
 _Context: Madrid, Spain, air show_
@@ -28,7 +28,7 @@ _Context: Madrid, Spain, air show_
 _Context: Bangladesh_
 
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: American, California, East Palo Alto, McDonald's restaurants, drive-by shooting_
+_Context: California, East Palo Alto, McDonald's restaurants, U.S., drive-by shooting_
 
 ### [Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. ](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.md)
 _Context: Barisan Nasional, Malaysia, general election_

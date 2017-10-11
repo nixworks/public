@@ -7,7 +7,7 @@ A suicide bomber blew himself up at a checkpoint near the main cricket stadium i
 American government agencies are now banned from using software created by the Russian cybersecurity firm Kaspersky Lab and will have to begin removing Kaspersky products from their systems within three months, the Department of Homeland Security announced today.
 
 ### [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md)
-_Context: American, Cambodia, Eritrea, Guinea, Sierra Leone, immigrants, visas_
+_Context: Cambodia, Eritrea, Guinea, Sierra Leone, U.S., immigrants, visas_
 
 ### [The United States Supreme Court confirms (5-4) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The ruling was made in advance of a formal hearing on the gerrymandering case, "Abbott v. Perez", which has no scheduled hearing date yet. ](/news/2017/09/13/the-united-states-supreme-court-confirms-5a4-a-temporary-stay-of-a-lower-court-ruling-which-would-have-required-texas-to-undergo-new-red.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
@@ -22,7 +22,7 @@ _Context: Crime in New York, Hillary Clinton, Martin Shkreli, Twitter_
 European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.
 
 ### [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md)
-_Context: American, Chuck Schumer, Democratic, Donald Trump, Nancy Pelosi, U.S. President_
+_Context: Chuck Schumer, Democratic, Donald Trump, Nancy Pelosi, U.S., U.S. President_
 
 ### [Scientists hope to revive the extinct Floreana island tortoise using a 'genetically-informed' captive breeding program with the tortoises closest ancestors. ](/news/2017/09/13/scientists-hope-to-revive-the-extinct-floreana-island-tortoise-using-a-genetically-informed-captive-breeding-program-with-the-tortoises-cl.md)
 Scientists from around the world are hoping to return a lost species of giant tortoise to one of the world-famous Galápagos islands.

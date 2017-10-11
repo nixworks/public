@@ -31,7 +31,7 @@ _Context: Mayor of Seoul, Oh Se-hoon_
 _Context: Naoto Kan, Parliament of Japan, Prime Minister of Japan_
 
 ### [An investigation by the consultancy firm Deloitte clears Iris Robinson, the wife of the Northern Ireland First Minister Peter Robinson, of any wrongdoing over a council contract which was awarded to an individual with whom she was conducting an affair. ](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.md)
-_Context: Deloitte Touche Tohmatsu Limited, First Minister of Northern Ireland, Iris Robinson, Peter Robinson_
+_Context: Deloitte, First Minister of Northern Ireland, Iris Robinson, Peter Robinson_
 
 ### [Danish Prime Minister Lars Lkke Rasmussen calls for Parliamentary elections to be held on September 15 - nearly two months ahead of the scheduled date. ](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.md)
 _Context: Lars Lkke Rasmussen_

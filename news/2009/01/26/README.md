@@ -1,7 +1,7 @@
 ## [2009-01-26](/news/2009/01/26/index.md)
 
 ### [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md)
-_Context: American, Timothy F. Geithner, Treasury Secretary, United States Senate_
+_Context: Timothy F. Geithner, Treasury Secretary, U.S., United States Senate_
 
 ### [ An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md)
 _Context: Gaza, Israel, Israel Defense Forces, bomb_
@@ -10,7 +10,7 @@ _Context: Gaza, Israel, Israel Defense Forces, bomb_
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Politics of Iceland, Prime Minister, governing coalition_
 
 ### [ United States pharmaceutical company Pfizer announces it will buy rival Wyeth in a US$68-billion deal. ](/news/2009/01/26/united-states-pharmaceutical-company-pfizer-announces-it-will-buy-rival-wyeth-in-a-us-68-billion-deal.md)
-_Context: $, American, Pfizer, Wyeth, pharmaceutical companies_
+_Context: $, Pfizer, U.S., Wyeth, pharmaceutical companies_
 
 ### [ A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. ](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.md)
 _Context: Oregon, Portland, Oregon, kills two people and injures seven others_
@@ -22,7 +22,7 @@ _Context: Vietnam, riverboat_
 _Context: Coatesville, Pennsylvania, arson, states of emergency_
 
 ### [ A set of human octuplets are born alive for the second time in the United States. ](/news/2009/01/26/a-set-of-human-octuplets-are-born-alive-for-the-second-time-in-the-united-states.md)
-_Context: American, born alive, second time, sextuplets_
+_Context: U.S., born alive, second time, sextuplets_
 
 ## [Previous Day...](/news/2009/01/25/index.md)
 

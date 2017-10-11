@@ -37,7 +37,7 @@ Prosecutors in Cyprus begin presenting evidence against a TV host accused of ord
 Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.85bn.
 
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: American, Governor of Illinois, Rod Blagojevich, corruption_
+_Context: Governor of Illinois, Rod Blagojevich, U.S., corruption_
 
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
 _Context: Afghanistan, UK Border Agency_

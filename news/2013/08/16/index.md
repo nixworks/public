@@ -22,7 +22,7 @@ U.S. may lose $4 billion fighter jet deal
 _Context: Ali Akbar Salehi, Iran nuclear chief, foreign minister_
 
 ### [The infamous Area 51 is officially acknowledged by the United States. ](/news/2013/08/16/the-infamous-area-51-is-officially-acknowledged-by-the-united-states.md)
-_Context: American, Area 51_
+_Context: Area 51, U.S._
 
 ### [Australian native and East Central University (Oklahoma) Tigers senior baseball player Christopher Lane, 22, is shot and killed in Ada, Oklahoma, while jogging during a visit to his girlfriend. Two teenagers, James Francis Edwards, Jr., 15, and Chancey Allen Luna, 16, were then arrested and charged with first-degree murder with no bail; Michael Dewayne Jones, 17, was charged with being an accessory to murder after the fact. They stated they did it purely out of boredom. ](/news/2013/08/16/australian-native-and-east-central-university-oklahoma-tigers-senior-baseball-player-christopher-lane-22-is-shot-and-killed-in-ada-okla.md)
 _Context: Ada, Oklahoma, East Central University, Oklahoma!, accessory to murder after the fact_

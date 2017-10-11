@@ -13,7 +13,7 @@ _Context: Java, Temanggung, blasphemy_
 The deal ensures workers a larger share of soaring profits in the German auto industry — and may signal an end to a decade in which pay barely kept pace with inflation.
 
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)
-_Context: American, Ultimate Electronics, bankruptcy court_
+_Context: U.S., Ultimate Electronics, bankruptcy court_
 
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
 _Context: British, Canada, London Stock Exchange, Montreal, TMX Group, Toronto, stock exchanges_
@@ -25,7 +25,7 @@ _Context: Changsha, Drought, Hunan Province, Xiangjiang River, central China_
 _Context: Bangka Belitung, Indonesia, Tanjung Priok_
 
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: American, Great Plains, Mountain West, snow storm_
+_Context: Great Plains, Mountain West, U.S., snow storm_
 
 ### [Officials from North Korea and South Korea meet in Panmunjom for military-level talks. ](/news/2011/02/8/officials-from-north-korea-and-south-korea-meet-in-panmunjom-for-military-level-talks.md)
 _Context: North Korea, Panmunjom, South Korea_
@@ -40,7 +40,7 @@ _Context: China, Lo Hsieh-che, Taiwan, Taiwanese Army, major general_
 _Context: Andaman Islands, Bangladesh, India, Myanmar, Port Blair, Rohingya, Thai Navy, refugee, repatriation_
 
 ### [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md)
-_Context: Charles Taylor, Liberia, President of Liberia_
+_Context: Charles Taylor, Liberia, President_
 
 ### [The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. ](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.md)
 _Context: Guatemala, Mexican, Mexican Army, Reynosa_

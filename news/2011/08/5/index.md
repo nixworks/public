@@ -16,7 +16,7 @@ _Context: Burma, China, state media_
 Stock markets worldwide plunged on Thursday amid fears of a new global economic downturn, with Wall Street suffering its worst day since the financial crisis.
 
 ### [The Standard & Poor's credit rating agency downgrades the credit rating of the United States from AAA to AA+ with a negative outlook. ](/news/2011/08/5/the-standard-poor-s-credit-rating-agency-downgrades-the-credit-rating-of-the-united-states-from-aaa-to-aa-with-a-negative-outlook.md)
-_Context: American, Standard & Poor's, credit rating_
+_Context: Standard & Poor's, U.S., credit rating_
 
 ### [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md)
 _Context: Abidjan, Ivory Coast, lagoon_

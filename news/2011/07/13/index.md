@@ -13,7 +13,7 @@ A Palestinian man is killed in an Israeli military raid on a West Bank refugee c
 _Context: Chepstow, J. K. Rowling, Tutshill_
 
 ### [Moody's threatens to cut the debt rating of the United States. ](/news/2011/07/13/moody-s-threatens-to-cut-the-debt-rating-of-the-united-states.md)
-_Context: American, Moody's_
+_Context: Moody's, U.S._
 
 ### [Sixteen people are killed when Noar Linhas Areas Flight 4896 crashes in Recife, in the Brazilian state of Pernambuco. ](/news/2011/07/13/sixteen-people-are-killed-when-noar-linhas-aereas-flight-4896-crashes-in-recife-in-the-brazilian-state-of-pernambuco.md)
 A small plane crashes in the city of Recife in north-eastern Brazil, killing all 16 people on board.

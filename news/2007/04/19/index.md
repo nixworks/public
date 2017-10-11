@@ -10,7 +10,7 @@ _Context: 2050, Norway, Prime Minister, carbon neutral, cut Norway's carbon emis
 _Context: Joseph Nacchio, Qwest Communications, chief executive officer, insider trading_
 
 ### [ The United States holds talks with NATO and Russian officials over plans to deploy a missile defence system in Europe. ](/news/2007/04/19/the-united-states-holds-talks-with-nato-and-russian-officials-over-plans-to-deploy-a-missile-defence-system-in-europe.md)
-_Context: American, Europe, NATO, Russia, missile defence_
+_Context: Europe, NATO, Russia, U.S., missile defence_
 
 ### [ The Prime Minister of Australia John Howard states that the Murray-Darling Basin faces an "unprecedentedly dangerous" water shortage and that irrigation for farmers will be cut off unless there is significant rain in the next 6-8 weeks. ](/news/2007/04/19/the-prime-minister-of-australia-john-howard-states-that-the-murray-darling-basin-faces-an-unprecedentedly-dangerous-water-shortage-and-th.md)
 _Context: Australian Prime Minister, John Howard, Murray-Darling basin, irrigation, rain, water_

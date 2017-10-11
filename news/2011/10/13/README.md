@@ -31,13 +31,13 @@ _Context: Nepal, Sindhuli District_
 Storms left 29 people dead and forced tens of thousands from their homes as heavy rains battered Central America and Mexico&#039;s Pacific coast.
 
 ### [The President of South Korea, Lee Myung-bak, gives an address to a joint session of the United States Congress, emphasizing the importance of a recently-concluded free trade deal between South Korea and the United States, and expounding the need to improve relations with North Korea. ](/news/2011/10/13/the-president-of-south-korea-lee-myung-bak-gives-an-address-to-a-joint-session-of-the-united-states-congress-emphasizing-the-importance-o.md)
-_Context: American, Lee Myung-bak, North Korea, President of South Korea, South Korea, United States Congress, free trade_
+_Context: Lee Myung-bak, North Korea, President of South Korea, South Korea, U.S., United States Congress, free trade_
 
 ### [Sri Lankan-American Raj Rajaratnam, a former hedge fund tycoon, is sentenced to 11 years in jail for insider trading. ](/news/2011/10/13/sri-lankan-american-raj-rajaratnam-a-former-hedge-fund-tycoon-is-sentenced-to-11-years-in-jail-for-insider-trading.md)
 Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Street trading scandal in a generation, was ordered to serve 11 years in prison, the longest sentence ever in an insider-trading case but far less than prosecutors sought.
 
 ### [The first results of the Liberian general election are due to be announced, with a runoff election likely in the presidential race between incumbent President and Nobel Peace Prize laureate Ellen Johnson Sirleaf and ex-diplomat Winston Tubman. ](/news/2011/10/13/the-first-results-of-the-liberian-general-election-are-due-to-be-announced-with-a-runoff-election-likely-in-the-presidential-race-between-i.md)
-_Context: Ellen Johnson Sirleaf, Liberian presidential election, Nobel Peace Prize, President of Liberia, Winston Tubman, runoff election_
+_Context: Ellen Johnson Sirleaf, Liberian presidential election, Nobel Peace Prize, President, Winston Tubman, runoff election_
 
 ### [The Parliament of Slovakia passes a law providing for a parliamentary election on March 10, as part of a deal to allow the passage of the European Union's European Financial Stability Fund. ](/news/2011/10/13/the-parliament-of-slovakia-passes-a-law-providing-for-a-parliamentary-election-on-march-10-as-part-of-a-deal-to-allow-the-passage-of-the-eu.md)
 _Context: EU, European Financial Stability Fund, Parliament of Slovakia, Slovakian parliamentary election_

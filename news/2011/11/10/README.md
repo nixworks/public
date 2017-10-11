@@ -49,7 +49,7 @@ _Context: Canadian, Montreal, Quebec, tuition fee_
 _Context: Edd Houck, Republican, State Senator, Virginia, Virginia General Assembly, state elections_
 
 ### [The incumbent President of Liberia, Ellen Johnson Sirleaf, is declared the winner of the Liberian presidential election, gaining 90% of the vote following a boycott by opposition candidate Winston Tubman. ](/news/2011/11/10/the-incumbent-president-of-liberia-ellen-johnson-sirleaf-is-declared-the-winner-of-the-liberian-presidential-election-gaining-90-of-the.md)
-_Context: Ellen Johnson Sirleaf, Liberian presidential election, President of Liberia, Winston Tubman_
+_Context: Ellen Johnson Sirleaf, Liberian presidential election, President, Winston Tubman_
 
 ## [Previous Day...](/news/2011/11/9/index.md)
 

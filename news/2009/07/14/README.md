@@ -22,13 +22,13 @@ First publicly reported trials since the 2003 attacks involved suspected al-Qaed
 _Context: Japan, Prime Minister of Japan, Taro Aso_
 
 ### [ Former Liberian President Charles Taylor takes the stand in his own defence at his trial. ](/news/2009/07/14/former-liberian-president-charles-taylor-takes-the-stand-in-his-own-defence-at-his-trial.md)
-_Context: Charles Taylor, Liberia, President of Liberia, trial_
+_Context: Charles Taylor, Liberia, President, trial_
 
 ### [ 240 people are arrested in a series of riots in France on the eve of the Bastille Day celebrations. ](/news/2009/07/14/240-people-are-arrested-in-a-series-of-riots-in-france-on-the-eve-of-the-bastille-day-celebrations.md)
 _Context: Bastille Day, France, series of riots_
 
 ### [ Talks on immigration between the United States and Cuba, suspended since 2003, will resume. ](/news/2009/07/14/talks-on-immigration-between-the-united-states-and-cuba-suspended-since-2003-will-resume.md)
-_Context: American, Cuba, wet feet, dry feet policy_
+_Context: Cuba, U.S., wet feet, dry feet policy_
 
 ### [ The Lithuanian parliament overcomes the President's veto and passes a law which forbids propaganda of homosexual, bisexual and polygamous relations, in order to protect minors from detriment to their development. At the same time the law forbids any mocking and defiance on the basis of sexual orientation. ](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.md)
 _Context: Lithuanian parliament, President, minors, propaganda_

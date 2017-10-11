@@ -64,7 +64,7 @@ Israel suspends transfer of $89m to Palestinian Authority in view of recent unit
 Opening Rafah would help Hamas build a formidable terrorist military machine, a government source says.
 
 ### [It is reported that the United States has denied the United Nations access to imprisoned serviceman Bradley Manning whom the U.S. accuses of disclosing government information to the general public. ](/news/2011/05/1/it-is-reported-that-the-united-states-has-denied-the-united-nations-access-to-imprisoned-serviceman-bradley-manning-whom-the-u-s-accuses-of.md)
-_Context: American, Bradley Manning, United Nations_
+_Context: Bradley Manning, U.S., United Nations_
 
 ### [German officials say they have foiled a terror plot with the arrest of three suspected al-Qaeda bomb-makers. ](/news/2011/05/1/german-officials-say-they-have-foiled-a-terror-plot-with-the-arrest-of-three-suspected-al-qaeda-bomb-makers.md)
 _Context: Police, al-Qaeda_

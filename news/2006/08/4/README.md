@@ -16,7 +16,7 @@ _Context: Hadera_
 Four more ministers quit on Thursday, making 38 in nine days.
 
 ### [ Arizona police in the United States announce the arrests of two men who are accused of 35 attacks and murders. ](/news/2006/08/4/arizona-police-in-the-united-states-announce-the-arrests-of-two-men-who-are-accused-of-35-attacks-and-murders.md)
-_Context: American, Arizona_
+_Context: Arizona, U.S._
 
 ## [Previous Day...](/news/2006/08/3/index.md)
 

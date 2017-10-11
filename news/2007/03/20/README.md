@@ -43,7 +43,7 @@ _Context: Krasnodar region, Russia, fire, nursing home_
 _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice President, most-wanted Iraqi playing cards_
 
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: American, Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S. federal court, hunger strike_
+_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

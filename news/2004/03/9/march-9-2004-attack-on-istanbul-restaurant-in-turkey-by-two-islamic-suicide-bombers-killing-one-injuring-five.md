@@ -12,7 +12,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ### Related:
 
-1. [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+1. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
 2. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
 3. [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md) _Context: Islamic_
 4. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_

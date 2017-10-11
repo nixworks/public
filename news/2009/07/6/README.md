@@ -25,7 +25,7 @@ _Context: Bible, Christian, Internet, earliest surviving_
 _Context: Movement for the Emancipation of the Niger Delta, tanker_
 
 ### [ Liberian President Ellen Johnson-Sirleaf's spokesman calls "surprising" a call by the country's truth commission that she be barred from office. ](/news/2009/07/6/liberian-president-ellen-johnson-sirleaf-s-spokesman-calls-surprising-a-call-by-the-country-s-truth-commission-that-she-be-barred-from-of.md)
-_Context: Ellen Johnson Sirleaf, Liberia, President of Liberia_
+_Context: Ellen Johnson Sirleaf, Liberia, President_
 
 ### [ Nigerian militants hold six crew members of an oil tanker, including its Russian captain. ](/news/2009/07/6/nigerian-militants-hold-six-crew-members-of-an-oil-tanker-including-its-russian-captain.md)
 _Context: Nigeria, Russia_
@@ -46,7 +46,7 @@ _Context: EU, Javier Solana_
 _Context: Bulgarian parliamentary elections, GERB_
 
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: American, Florida, Miami, shooting_
+_Context: Florida, Miami, U.S., shooting_
 
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.

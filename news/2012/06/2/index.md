@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, Lebanon, Tripoli, Lebanon_
 
 ### [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md)
-_Context: American, Pakistan, South Waziristan, drones launch_
+_Context: Pakistan, South Waziristan, U.S., drones launch_
 
 ### [Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-22-are-rescued-by-isaf-forces.md)
 _Context: Afghan, Badakhshan, ISAF, Taliban_

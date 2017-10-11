@@ -1,7 +1,7 @@
 ## [2014-09-7](/news/2014/09/7/index.md)
 
 ### [The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md)
-_Context: American, Haditha Dam, ISIL_
+_Context: Haditha Dam, ISIL, U.S._
 
 ### [A small plane carrying ten people from Araraquara Airport crashes in the Amazon jungle, with "little chance of finding survivors". ](/news/2014/09/7/a-small-plane-carrying-ten-people-from-araraquara-airport-crashes-in-the-amazon-jungle-with-little-chance-of-finding-survivors.md)
 Colombian authorities say there is little chance of finding survivors after a small plane with 10 people on board crashed in the Amazon jungle.

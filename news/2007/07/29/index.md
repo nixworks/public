@@ -1,7 +1,7 @@
 ## [2007-07-29](/news/2007/07/29/index.md)
 
 ### [ The Prime Minister of Israel Ehud Olmert announces that United States military and defense aid to Israel will total $30 billion over the next ten years. ](/news/2007/07/29/the-prime-minister-of-israel-ehud-olmert-announces-that-united-states-military-and-defense-aid-to-israel-will-total-30-billion-over-the-ne.md)
-_Context: $, American, Ehud Olmert, Israel, Israeli Prime Minister_
+_Context: $, Ehud Olmert, Israel, Israeli Prime Minister, U.S._
 
 ### [ Six people die in a bus crash while travelling to the Barbados Crop Over Festival. ](/news/2007/07/29/six-people-die-in-a-bus-crash-while-travelling-to-the-barbados-crop-over-festival.md)
 _Context: Barbados Crop Over Festival_
@@ -19,7 +19,7 @@ Britain&#039;s Prime Minister Gordon Brown has arrived in the United States for 
 _Context: Brazil, Sao Paulo, TAM Linhas Areas Flight 3054_
 
 ### [ Alberto Contador of Spain wins the 2007 Tour de France with Cadel Evans of Australia finishing second and Levi Leipheimer of the United States finishing third. ](/news/2007/07/29/alberto-contador-of-spain-wins-the-2007-tour-de-france-with-cadel-evans-of-australia-finishing-second-and-levi-leipheimer-of-the-united-sta.md)
-_Context: Alberto Contador, American, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France_
+_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France, U.S._
 
 ### [ Iraq beats Saudi Arabia to win the Asian Cup, creating a rare moment of recent national unity. ](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.md)
 _Context: Asian Cup, Iraq, Saudi Arabia_

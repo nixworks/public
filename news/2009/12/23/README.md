@@ -10,7 +10,7 @@ A Russian priest was shot dead at his apartment block in the Moscow region after
 A Christmas goat made of straw has been burned down by vandals in a Swedish city in what has become a yuletide tradition.
 
 ### [ President of Liberia Ellen Johnson Sirleaf voluntarily imprisons herself in Bella Yalla prison, an old maximum security prison in the northern jungle, which is to be renamed and turned into a museum. ](/news/2009/12/23/president-of-liberia-ellen-johnson-sirleaf-voluntarily-imprisons-herself-in-bella-yalla-prison-an-old-maximum-security-prison-in-the-north.md)
-_Context: Bella Yalla, Ellen Johnson Sirleaf, President of Liberia_
+_Context: Bella Yalla, Ellen Johnson Sirleaf, President_
 
 ### [ Farouk Adamu Aliyu of the All Nigeria Peoples Party initiates legal action in a bid to tempt the unwell President of Nigeria Umaru Yar'Adua, who is hospitalised in Saudi Arabia, to resign the position on health grounds. ](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.md)
 _Context: All Nigeria Peoples Party, Farouk Adamu Aliyu, President, Saudi Arabia, Umaru Yar'Adua_

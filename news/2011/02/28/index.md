@@ -10,7 +10,7 @@ _Context: Al-Shabaab, Ethiopia, Islamist, Kenya, Somalian_
 _Context: Burma, Yangon_
 
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: American, Charles Town, West Virginia, First World War, Frank Buckles, last surviving veteran_
+_Context: Charles Town, West Virginia, First World War, Frank Buckles, U.S., last surviving veteran_
 
 ### [The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". ](/news/2011/02/28/the-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-for-their-goods-to-be-seen-on-british-tv-the-f.md)
 A ban on product placement is lifted, allowing advertisers to pay for their goods to be seen on British TV for the first time.
@@ -19,7 +19,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 &quot;Gentlemen Prefer Blondes&quot; movie star Jane Russell, who became a controversial Hollywood sex symbol, died on Monday at the age of 89, her family said.
 
 ### [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md)
-_Context: American, Arab Spring, Europe, crude oil, stock market_
+_Context: Arab Spring, Europe, U.S., crude oil, stock market_
 
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md)
 _Context: British, HSBC_

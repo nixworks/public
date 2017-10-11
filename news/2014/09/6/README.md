@@ -7,7 +7,7 @@ President Vladimir Putin has fallen under the spell of Satan and faces eternal d
 Syrian warplanes bombed a bakery run by Islamic State in the city of Raqqa, killing 25 people, in air raids on Saturday that also hit a major training camp used by the insurgent group for a second day running, a group monitoring the war said.
 
 ### [The United States says that it will not coordinate with Iran in the fight against the Islamic State of Iraq and Syria. ](/news/2014/09/6/the-united-states-says-that-it-will-not-coordinate-with-iran-in-the-fight-against-the-islamic-state-of-iraq-and-syria.md)
-_Context: American, Iran, Islamic State of Iraq and Syria_
+_Context: Iran, Islamic State of Iraq and Syria, U.S._
 
 ### [Heavy monsoon rains and flash floods leave over 200 people dead across India and Pakistan. ](/news/2014/09/6/heavy-monsoon-rains-and-flash-floods-leave-over-200-people-dead-across-india-and-pakistan.md)
 Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 people in India, officials said.

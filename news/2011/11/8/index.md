@@ -34,7 +34,7 @@ _Context: Senate of Australia, carbon pricing, carbon tax_
 Italian Prime Minister Silvio Berlusconi said on Tuesday he would resign after suffering a humiliating setback in parliament that showed a party revolt had stripped him of a majority.
 
 ### [Voters in Liberia go to the polls for the second round of a presidential election, with the incumbent President, Ellen Johnson Sirleaf, likely to be re-elected. ](/news/2011/11/8/voters-in-liberia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-the-incumbent-president-ellen-johnson-sirleaf-like.md)
-_Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, President of Liberia_
+_Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, President_
 
 ### [Democratic Governor Steve Beshear is re-elected Governor of Kentucky. ](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.md)
 After months of campaigning and talking to local residents, initial poll results show Greg Stanton as the new mayor of Phoenix.

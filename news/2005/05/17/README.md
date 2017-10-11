@@ -4,7 +4,7 @@
 _Context: George W. Bush, Guantanamo Bay Qur'an desecration allegations, Newsweek, Qur'an_
 
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
-_Context: American, CIA, Cuba, Fidel Castro, Luis Posada Carriles, terrorism_
+_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, U.S., terrorism_
 
 ### [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md)
 News and opinion from The Times &amp; The Sunday Times

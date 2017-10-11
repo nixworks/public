@@ -7,7 +7,7 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 _Context: Andy Murray, Roger Federer, U.S. Tennis Open_
 
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: American, Kerry Killinger, Washington Mutual, chief executive, housing crisis, savings and loan_
+_Context: Kerry Killinger, U.S., Washington Mutual, chief executive, housing crisis, savings and loan_
 
 ### [ A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. ](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-warehouse-in-linfen-in-shanxi-province-china-killing-at-least-26-people-and-injuring-others.md)
 Heavy rain triggered a landslide triggered that killed at least 34 people in northern China on Monday, trapping an unknown number of other victims, a state news agency reported.

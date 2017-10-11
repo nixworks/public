@@ -4,7 +4,7 @@
 _Context: Luis Echeverra, President, Tlatelolco Massacre_
 
 ### [ The United States military orders an investigation into claims that five US soldiers raped an Iraqi woman and then murdered her and three members of her family. ](/news/2006/06/30/the-united-states-military-orders-an-investigation-into-claims-that-five-us-soldiers-raped-an-iraqi-woman-and-then-murdered-her-and-three-m.md)
-_Context: American, Iraq_
+_Context: Iraq, U.S._
 
 ### [ With the election of Trish Law in a by-election, the National Assembly for Wales becomes the first legislature in the world to have a majority of female members. ](/news/2006/06/30/with-the-election-of-trish-law-in-a-by-election-the-national-assembly-for-wales-becomes-the-first-legislature-in-the-world-to-have-a-major.md)
 _Context: Trish Law, by-election, legislative assembly_

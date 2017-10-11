@@ -4,7 +4,7 @@
 _Context: Kyrgyzstan, USD, Uzbekistan, natural gas_
 
 ### [ Six-party talks resume on North Korea's nuclear weapons program with North Korea and the United States being "poles apart" in their opening positions. ](/news/2006/12/18/six-party-talks-resume-on-north-korea-s-nuclear-weapons-program-with-north-korea-and-the-united-states-being-poles-apart-in-their-opening.md)
-_Context: American, North Korea, six-party talks_
+_Context: North Korea, U.S., six-party talks_
 
 ### [ 2006 Ipswich murder investigation: Police arrest a 37-year-old man in Trimley St. Martin near Felixstowe, England on suspicion of the murders of five prostitutes. ](/news/2006/12/18/2006-ipswich-murder-investigation-police-arrest-a-37-year-old-man-in-trimley-st-martin-near-felixstowe-england-on-suspicion-of-the-murde.md)
 _Context: Felixstowe, Ipswich murder case, Trimley St. Martin_

@@ -82,7 +82,7 @@ _Context: Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.
 
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: American, Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency_
+_Context: Angela Merkel, BND, Chancellor, Gerhard Schindler, National Security Agency, U.S._
 
 ## [Previous Day...](/news/2016/04/26/index.md)
 

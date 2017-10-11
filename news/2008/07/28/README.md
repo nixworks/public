@@ -1,7 +1,7 @@
 ## [2008-07-28](/news/2008/07/28/index.md)
 
 ### [ A United States Predator drone launches a missile strike on a Pakistani madrassa killing six people reportedly including al-Qaeda member Abu Khabab al-Masri.](/news/2008/07/28/a-united-states-predator-drone-launches-a-missile-strike-on-a-pakistani-madrassa-killing-six-people-reportedly-including-al-qaeda-member-ab.md)
-_Context: Abu Khabab al-Masri, American, Pakistan, Predator drone, al-Qaeda, madrassa_
+_Context: Abu Khabab al-Masri, Pakistan, Predator drone, U.S., al-Qaeda, madrassa_
 
 ### [ King George Tupou V of Tonga relinquishes many of his powers, ending centuries of absolute monarchy. ](/news/2008/07/28/king-george-tupou-v-of-tonga-relinquishes-many-of-his-powers-ending-centuries-of-absolute-monarchy.md)
 _Context: George Tupou V, King of Tonga, Tonga_

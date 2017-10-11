@@ -13,10 +13,10 @@ _Context: Lagos, Nigeria, pipeline explosion_
 _Context: Aftershock, deadly earthquake_
 
 ### [ Former United States Olympic sprinter Tim Montgomery is sentenced to 46 months imprisonment for his involvement in a check fraud and money laundering scheme. ](/news/2008/05/16/former-united-states-olympic-sprinter-tim-montgomery-is-sentenced-to-46-months-imprisonment-for-his-involvement-in-a-check-fraud-and-money.md)
-_Context: American, Olympic Games, Tim Montgomery, check fraud, money laundering, sprint runner_
+_Context: Olympic Games, Tim Montgomery, U.S., check fraud, money laundering, sprint runner_
 
 ### [ The United States reaches a deal with North Korea to resume food aid with 500,000 tonnes of food to be sent to North Korea during the next year. ](/news/2008/05/16/the-united-states-reaches-a-deal-with-north-korea-to-resume-food-aid-with-500-000-tonnes-of-food-to-be-sent-to-north-korea-during-the-next.md)
-_Context: American, North Korea, food aid, tonne_
+_Context: North Korea, U.S., food aid, tonne_
 
 ### [ The State Peace and Development Council in Burma doubles the death toll from Cyclone Nargis to 78,000 with 55,917 people missing and 19,359 people injured. ](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.md)
 The government’s revised death toll almost doubled, and it also raised the number of missing to 55,917.

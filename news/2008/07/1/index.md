@@ -13,7 +13,7 @@ _Context: 2008 Summer Olympics, Aaron Peirsol, Natalie Coughlin, backstroke, wor
 _Context: $, Glaxosmithkline, Government of Alabama, Medicaid, Novartis, pharmaceutical companies_
 
 ### [ Starbucks announces that it will close 600 underperforming coffee shops in the United States. ](/news/2008/07/1/starbucks-announces-that-it-will-close-600-underperforming-coffee-shops-in-the-united-states.md)
-_Context: American, Starbucks, coffee shop_
+_Context: Starbucks, U.S., coffee shop_
 
 ### [ A man stabs five people to death in a Shanghai police station. ](/news/2008/07/1/a-man-stabs-five-people-to-death-in-a-shanghai-police-station.md)
 _Context: Shanghai, police_

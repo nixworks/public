@@ -16,7 +16,7 @@ _Context: Caribbean, China, Inter-American Development Bank, Latin America, Peop
 _Context: Iraq, Shiite, Taha Yassin Ramadan, Vice President, hanging_
 
 ### [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS "Cole" bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states-em.md)
-_Context: Africa, American, USS ''Cole'' bombing, Waleed bin Attash, al-Qaeda_
+_Context: Africa, U.S., USS ''Cole'' bombing, Waleed bin Attash, al-Qaeda_
 
 ### [ The Supreme Court of the United States hears "Morse v. Frederick", in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.md)
 A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus&#8221; gave the Supreme Court a provocative prop for a lively argument Monday about the extent of schools&#8217; control over student speech.
@@ -37,7 +37,7 @@ _Context: Airbus 380, Chicago, Lufthansa, New York City_
 _Context: Kabul, convoy, suicide bomber_
 
 ### [ Six-party talks resume to discuss progress in implementing last month's agreement, with North Korea and the United States having resolved an issue about North Korean funds frozen in a Macau bank. ](/news/2007/03/19/six-party-talks-resume-to-discuss-progress-in-implementing-last-month-s-agreement-with-north-korea-and-the-united-states-having-resolved-a.md)
-_Context: American, Macau, North Korea, six-party talks_
+_Context: Macau, North Korea, U.S., six-party talks_
 
 ## [Previous Day...](/news/2007/03/18/index.md)
 

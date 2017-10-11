@@ -19,7 +19,7 @@ _Context: Palencia, Spain, apartment_
 _Context: Belgium, British, Dutch, animal rights, police_
 
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
-_Context: American, Deutsche Borse, Frankfurt Stock Exchange, International Securities Exchange, derivatives, market, stock options_
+_Context: Deutsche Borse, Frankfurt Stock Exchange, International Securities Exchange, U.S., derivatives, market, stock options_
 
 ### [ Nigerian opposition and civil society groups join trade unions in May Day rallies against the recent presidential election which saw Umaru Yar'Adua elected as the President of Nigeria. ](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.md)
 _Context: May Day, Nigeria, President, Umaru Yar'Adua, civil society, presidential election, unionize_

@@ -34,7 +34,7 @@ Tornadoes killed at least seven people in south Alabama today, including five at
 _Context: Abdoulaye Wade, President, Senegal_
 
 ### [ The United States formally charges David Hicks with aiding the Taliban. He will be the first person tried under the new law for military commissions. ](/news/2007/03/1/the-united-states-formally-charges-david-hicks-with-aiding-the-taliban-he-will-be-the-first-person-tried-under-the-new-law-for-military-co.md)
-_Context: American, David Hicks, Guantanamo military commission, Taliban_
+_Context: David Hicks, Guantanamo military commission, Taliban, U.S._
 
 ### [ Eight people die in a landmine explosion in Chhattisgarh, India. ](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.md)
 _Context: Chhattisgarh, India, landmine_

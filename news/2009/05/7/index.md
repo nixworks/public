@@ -16,7 +16,7 @@ _Context: Napier, New Zealand, killed, police officer_
 Federal health officials would not confirm reports Thursday that an elderly woman who died in northern Alberta had swine flu.
 
 ### [ Wildfires near Santa Barbara, California, United States, burn 3,000 acre of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-of-land-and-force-15-000-people-to-evacuate.md)
-_Context: American, California, Santa Barbara, California, Wildfires, evacuation centers_
+_Context: California, Santa Barbara, California, U.S., Wildfires, evacuation centers_
 
 ### [ The Armed Forces and the Union of Forces for Democracy and Development battle near Goz Beida, Ouaddai Region, Chad. ](/news/2009/05/7/the-armed-forces-and-the-union-of-forces-for-democracy-and-development-battle-near-goz-bea-da-ouaddaa-region-chad.md)
 _Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democracy and Development, performed_
@@ -25,7 +25,7 @@ _Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democra
 _Context: China, Sichuan, deadly earthquake_
 
 ### [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md)
-_Context: American, Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, property, trespass_
+_Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, U.S., property, trespass_
 
 ### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)
 _Context: EUR, European Central Bank, Eurozone, interest rate, quantitative easing_

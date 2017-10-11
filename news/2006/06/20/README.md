@@ -10,7 +10,7 @@ U.S. and Iraqi officials on Tuesday said bodies believed to be those of two miss
 _Context: David Safavian, George W. Bush, Jack Abramoff, Jack Abramoff scandals, White House, obstruction of justice_
 
 ### [ Charles Taylor, former President of Liberia, leaves Sierra Leone for his human rights trial at The Hague. ](/news/2006/06/20/charles-taylor-former-president-of-liberia-leaves-sierra-leone-for-his-human-rights-trial-at-the-hague.md)
-_Context: Charles G. Taylor, President of Liberia, Sierra Leone, The Hague_
+_Context: Charles G. Taylor, President, Sierra Leone, The Hague_
 
 ### [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq. The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-to.md)
 _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, World War II_

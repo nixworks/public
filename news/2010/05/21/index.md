@@ -28,7 +28,7 @@ Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-yea
 _Context: Guwahati, India, Kaziranga National Park_
 
 ### [Prosecutors of the Special Court for Sierra Leone request United Nations judges to force supermodel Naomi Campbell to testify over allegations that she received a blood diamond from the former President of Liberia Charles Taylor. ](/news/2010/05/21/prosecutors-of-the-special-court-for-sierra-leone-request-united-nations-judges-to-force-supermodel-naomi-campbell-to-testify-over-allegatio.md)
-_Context: Charles Taylor, Naomi Campbell, President of Liberia, Special Court for Sierra Leone, United Nations, blood diamond_
+_Context: Charles Taylor, Naomi Campbell, President, Special Court for Sierra Leone, United Nations, blood diamond_
 
 ### [Taliban and Afghan government representatives meet for unofficial talks in the Maldives. ](/news/2010/05/21/taliban-and-afghan-government-representatives-meet-for-unofficial-talks-in-the-maldives.md)
 Taliban and government representatives meet for unofficial talks on continuing conflict.
@@ -49,7 +49,7 @@ _Context: Gaza, Israel, sniper_
 _Context: BP, Gulf of Mexico_
 
 ### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation. (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
-_Context: American, Dennis C. Blair, Director of National Intelligence_
+_Context: Dennis C. Blair, Director of National Intelligence, U.S._
 
 ### [Around 125 people become ill at a wedding ceremony in Khanpur. ](/news/2010/05/21/around-125-people-become-ill-at-a-wedding-ceremony-in-khanpur.md)
 _Context: Khanpur_

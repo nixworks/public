@@ -4,7 +4,7 @@
 Syria says the year-old revolt to topple President Bashar al-Assad is over, but the army again shelled opposition areas on Saturday and rebels said they would not cease fire until tanks, artillery and heavy weapons are withdrawn.
 
 ### [A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
-_Context: American, Miran Shah, North Waziristan, drones launch_
+_Context: Miran Shah, North Waziristan, U.S., drones launch_
 
 ### [Gunmen kill Zain-ul-Abdeen, a leader of the ethnic Pashtun Awami National Party, in Karachi. ](/news/2012/03/30/gunmen-kill-zain-ul-abdeen-a-leader-of-the-ethnic-pashtun-awami-national-party-in-karachi.md)
 _Context: Awami National Party, Karachi, Pashtun, Zain-ul-Abdeen_
@@ -22,13 +22,13 @@ _Context: Archibald Prize, Australia, Tim Storrier_
 Spain cuts 27bn euros ($36bn; £22.5bn) from its budget this year and freezes public sector salaries to try to address its &quot;extreme&quot; economic situation.
 
 ### [VISA and MasterCard warn banks across the United States about a "massive" breach of security with more than ten million credit card numbers potentially compromised. ](/news/2012/03/30/visa-and-mastercard-warn-banks-across-the-united-states-about-a-massive-breach-of-security-with-more-than-ten-million-credit-card-numbers.md)
-_Context: American, MasterCard, VISA, payment cards_
+_Context: MasterCard, U.S., VISA, payment cards_
 
 ### [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md)
 World-record prize increases by $100 million hours before much-anticipated late-night drawing; Odds of winning 1 in 176 million
 
 ### [Huanglongbing or citrus greening, a disease which has killed millions of citrus trees in Brazil and Florida, is discovered in a residential section of Los Angeles County, California, in the United States. ](/news/2012/03/30/huanglongbing-or-citrus-greening-a-disease-which-has-killed-millions-of-citrus-trees-in-brazil-and-florida-is-discovered-in-a-residential.md)
-_Context: American, Brazil, Florida, Huanglongbing, Los Angeles County, California, citrus_
+_Context: Brazil, Florida, Huanglongbing, Los Angeles County, California, U.S., citrus_
 
 ### [Malaysia expels 173 Indonesian workers for various legal violations. ](/news/2012/03/30/malaysia-expels-173-indonesian-workers-for-various-legal-violations.md)
 _Context: Indonesian, Malaysia_

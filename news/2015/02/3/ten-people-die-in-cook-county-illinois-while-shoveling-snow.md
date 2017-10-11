@@ -12,9 +12,10 @@ At least 13 people have died in Cook and DuPage counties while shoveling &quot;h
 
 ### Related:
 
-1. [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md) _Context: 2014-15 North American winter_
-2. [A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-with-schools-closed-and-transport-a.md) _Context: 2014-15 North American winter_
-3. [ A Cook County, Illinois, probate judge declares adventurer Steve Fossett to be legally dead five months after he disappeared in the Nevada desert. ](/news/2008/02/15/a-cook-county-illinois-probate-judge-declares-adventurer-steve-fossett-to-be-legally-dead-five-months-after-he-disappeared-in-the-nevada.md) _Context: Cook County, Illinois_
+1. [The Cook County Board of Commissioners' Finance Committee, which includes Chicago, repeals the tax approved in November 2016 on soft drinks and other sugary beverages. ](/news/2017/10/10/the-cook-county-board-of-commissioners-finance-committee-which-includes-chicago-repeals-the-tax-approved-in-november-2016-on-soft-drinks.md) _Context: Cook County_
+2. [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md) _Context: 2014-15 North American winter_
+3. [A winter storm warning is in place for Washington, D.C. and the American states of Virginia and Maryland with schools closed and transport advisories in place. ](/news/2015/02/16/a-winter-storm-warning-is-in-place-for-washington-d-c-and-the-american-states-of-virginia-and-maryland-with-schools-closed-and-transport-a.md) _Context: 2014-15 North American winter_
+4. [ A Cook County, Illinois, probate judge declares adventurer Steve Fossett to be legally dead five months after he disappeared in the Nevada desert. ](/news/2008/02/15/a-cook-county-illinois-probate-judge-declares-adventurer-steve-fossett-to-be-legally-dead-five-months-after-he-disappeared-in-the-nevada.md) _Context: Cook County_
 
 ### Changes:
 

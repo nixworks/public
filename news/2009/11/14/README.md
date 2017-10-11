@@ -16,7 +16,7 @@ _Context: Chile, Peru, spy_
 _Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_
 
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
-_Context: American, Intel, Israel, Jew, Sabbath, ultra-orthodox_
+_Context: Intel, Israel, Jew, Sabbath, U.S., ultra-orthodox_
 
 ### [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md)
 A fire that swept through a South Korean indoor shooting range killed at least 10 people, officials said Saturday.

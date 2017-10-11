@@ -13,7 +13,7 @@ Government forces retreat as the district headquarters fall to militants after a
 _Context: 2017 Antwerp attack, Antwerp, Belgium, France_
 
 ### [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md)
-_Context: American, Fort Collins, Colorado_
+_Context: Fort Collins, Colorado, U.S._
 
 ### [A series of explosions on a military base near the Ukrainian city of Balakliya forces thousands to be evacuated from their homes. ](/news/2017/03/23/a-series-of-explosions-on-a-military-base-near-the-ukrainian-city-of-balakliya-forces-thousands-to-be-evacuated-from-their-homes.md)
 The dump is used to supply the military in the east and officials say the blasts were sabotage.

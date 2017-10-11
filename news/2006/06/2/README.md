@@ -13,7 +13,7 @@ _Context: BBC, Iraq, Ishaqi, Military of the United States, new alleged massacre
 Get the latest News news with exclusive stories and pictures from Rolling Stone.
 
 ### [ China, France, Germany, Russia, the United Kingdom and the United States propose a set of incentives and possible sanctions in an effort to encourage Iran to suspend or abandon its plans of nuclear development. ](/news/2006/06/2/china-france-germany-russia-the-united-kingdom-and-the-united-states-propose-a-set-of-incentives-and-possible-sanctions-in-an-effort-to.md)
-_Context: American, British, China, France, Germany, Iran, Iran and weapons of mass destruction, Russia, sanctions_
+_Context: British, China, France, Germany, Iran, Iran and weapons of mass destruction, Russia, U.S., sanctions_
 
 ### [ Female genital cutting is found to increase infant mortality and childbirth complications. ](/news/2006/06/2/female-genital-cutting-is-found-to-increase-infant-mortality-and-childbirth-complications.md)
 _Context: Female genital cutting, childbirth, complications, infant mortality_

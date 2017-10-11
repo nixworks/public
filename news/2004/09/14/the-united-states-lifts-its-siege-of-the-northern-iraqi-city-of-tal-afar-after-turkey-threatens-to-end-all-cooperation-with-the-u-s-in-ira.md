@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+1. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
 2. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
 3. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_
 4. [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md) _Context: Tal Afar_

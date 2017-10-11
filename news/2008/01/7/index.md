@@ -7,7 +7,7 @@ _Context: Litokwa Tomeing, President, elected_
 _Context: United States Constitution, United States Supreme Court, constitutional rights, cruel and unusual punishment, execution, lethal injection_
 
 ### [ The war crimes trial of former Liberian President Charles Taylor resumes at The Hague, Netherlands. ](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-president-charles-taylor-resumes-at-the-hague-netherlands.md)
-_Context: Charles Taylor, Liberia, Netherlands, President of Liberia, The Hague, trial, war crimes_
+_Context: Charles Taylor, Liberia, Netherlands, President, The Hague, trial, war crimes_
 
 ### [ A warehouse fire in Icheon, South Korea, kills at least 40. ](/news/2008/01/7/a-warehouse-fire-in-icheon-south-korea-kills-at-least-40.md)
 _Context: Icheon, South Korea_

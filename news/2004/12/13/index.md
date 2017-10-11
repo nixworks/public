@@ -16,7 +16,7 @@ _Context: Augusto Pinochet, forcibly disappeared, house arrest_
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 ### [ United States Environmental Protection Agency Administrator Michael O. Leavitt is nominated by President George W. Bush to succeed outgoing Secretary of Health and Human Services Tommy Thompson in the Cabinet-level post. ](/news/2004/12/13/united-states-environmental-protection-agency-administrator-michael-o-leavitt-is-nominated-by-president-george-w-bush-to-succeed-outgoing.md)
-_Context: Administrator of the Environmental Protection Agency, Cabinet, George W. Bush, Health and Human Services Secretary, Michael O. Leavitt, Tommy Thompson, U.S. Environmental Protection Agency, U.S. President_
+_Context: Administrator of the Environmental Protection Agency, Cabinet, George W. Bush, Health and Human Services Secretary, Michael O. Leavitt, Tommy Thompson, U.S. President, United States Environmental Protection Agency_
 
 ### [ At least 13 people die following a car bomb attack on a U.S. checkpoint near the Green Zone in Baghdad, Iraq. ](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.md)
 _Context: Baghdad, Green Zone, Iraq, United States military personnel, car bomb_

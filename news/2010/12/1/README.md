@@ -19,7 +19,7 @@ _Context: Google, Google Earth, U.N. climate change talks, climate change, defor
 _Context: Kazakhstan, OSCE_
 
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: American, North Korea, South Korea, Yellow Sea_
+_Context: North Korea, South Korea, U.S., Yellow Sea_
 
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
 Israel on Wednesday revealed plans to build new homes on West Bank land it has annexed as part of its Jerusalem boundaries, a move likely to further hamper any resumption of peace talks with the Palestinians.

@@ -10,13 +10,13 @@ _Context: MOA-2007-BLG-192-L b, Mount John University Observatory, extrasolar pl
 _Context: Denmark, Islamabad, Pakistan, embassy, suicide bomber_
 
 ### [ Wachovia, the fourth largest bank in the United States, fires its Chief Executive Officer, G. Kennedy Thompson, due to losses incurred in the subprime mortgage crisis. ](/news/2008/06/2/wachovia-the-fourth-largest-bank-in-the-united-states-fires-its-chief-executive-officer-g-kennedy-thompson-due-to-losses-incurred-in-t.md)
-_Context: American, G. Kennedy Thompson, Wachovia, chief executive officer, housing crisis_
+_Context: G. Kennedy Thompson, U.S., Wachovia, chief executive officer, housing crisis_
 
 ### [ In "United States v. Santos", by a 5-4 decision, the United States Supreme Court takes a narrow interpretation of federal laws regarding money laundering, and uses the decision in "Cuellar v. United States" to unanimously overturn the money laundering conviction of Humberto Cuellar. ](/news/2008/06/2/in-united-states-v-santos-by-a-5-4-decision-the-united-states-supreme-court-takes-a-narrow-interpretation-of-federal-laws-regarding-mo.md)
 The Supreme Court on Monday ruled against the government in two money laundering cases, making it more difficult for prosecutors to use an important weapon in the war on drugs and organized crime.
 
 ### [ The International Atomic Energy Agency will send an inspection team to Syria to investigate claims by the United States that it was secretly building a nuclear reactor. ](/news/2008/06/2/the-international-atomic-energy-agency-will-send-an-inspection-team-to-syria-to-investigate-claims-by-the-united-states-that-it-was-secretl.md)
-_Context: American, IAEA, Syria, chemical weapons facilities_
+_Context: IAEA, Syria, U.S., chemical weapons facilities_
 
 ### [ The United Nations Security Council goes on a mission to Africa with the first leg of the mission to Djibouti to discuss the Somali Civil War. ](/news/2008/06/2/the-united-nations-security-council-goes-on-a-mission-to-africa-with-the-first-leg-of-the-mission-to-djibouti-to-discuss-the-somali-civil-w.md)
 _Context: Africa, Djibouti, Somali Civil War, United Nations Security Council_

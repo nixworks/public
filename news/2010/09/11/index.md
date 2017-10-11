@@ -13,7 +13,7 @@ Tens of thousands of people across Indian-administered Kashmir join protests aga
 Director Sofia Coppola has taken the top prize at the Venice Film Festival for her fourth film, Somewhere.
 
 ### [US actor Kevin McCarthy best known for his roles in "Invasion of the Body Snatchers" and "Death of a Salesman" dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
-_Context: American, Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy_
+_Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, U.S._
 
 ### [Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-george-papandreou-s-austerity-plans.md)
 Greek unions stage mass protests in Thessaloniki but Prime Minister George Papandreou says he will not scale back his austerity plans.
@@ -37,7 +37,7 @@ Mexico said Thursday it is experiencing its worst rainy season on record and the
 A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku province, the meteorology and geophysics agency said, but no tsunami warning was issued.
 
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: American, California, San Bruno, San Francisco, California, pipeline explosion_
+_Context: California, San Bruno, San Francisco, California, U.S., pipeline explosion_
 
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
 _Context: Coach USA, Megabus, New York State, Salina, overpass, railroad_

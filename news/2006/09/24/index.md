@@ -13,7 +13,7 @@ A stark assessment has found that the American invasion and occupation of Iraq h
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Europe retains golf's Ryder Cup to score a third consecutive win, beating the United States by a score of 18.5 to 9.5. ](/news/2006/09/24/europe-retains-golf-s-ryder-cup-to-score-a-third-consecutive-win-beating-the-united-states-by-a-score-of-18-5-to-9-5.md)
-_Context: American, Europe, Ryder Cup, golfer_
+_Context: Europe, Ryder Cup, U.S., golfer_
 
 ## [Previous Day...](/news/2006/09/23/index.md)
 

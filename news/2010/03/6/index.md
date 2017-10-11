@@ -4,7 +4,7 @@
 Minister for Foreign Affairs Micheál Martin has briefed EU Foreign Ministers about the humanitarian situation in Gaza following his visit to the region.
 
 ### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV-AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
-_Context: AIDS, American, District of Columbia, HIV, female condom_
+_Context: AIDS, District of Columbia, HIV, U.S., female condom_
 
 ### [There are riots in Brussels. ](/news/2010/03/6/there-are-riots-in-brussels.md)
 _Context: Brussels_
@@ -34,7 +34,7 @@ _Context: Mansalay, Mindoro, Philippines, communism_
 With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,092 are votes to reject December&#039;s Icesave law and 1,284 (1.5 percent) have v...
 
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, American, Blackwater Worldwide, Defense Secretary, Robert Gates, civilian contractor_
+_Context: Afghanistan, Blackwater Worldwide, Defense Secretary, Robert Gates, U.S., civilian contractor_
 
 ## [Previous Day...](/news/2010/03/5/index.md)
 

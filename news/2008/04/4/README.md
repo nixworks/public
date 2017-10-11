@@ -4,7 +4,7 @@
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Ramush Haradinaj_
 
 ### [ United States airline Skybus announces that it will be shutting down Saturday and cancels all flights. ](/news/2008/04/4/united-states-airline-skybus-announces-that-it-will-be-shutting-down-saturday-and-cancels-all-flights.md)
-_Context: American, Skybus, commercial air traffic_
+_Context: Skybus, U.S., commercial air traffic_
 
 ### [ The United States Department of State renews the contract of Blackwater Worldwide to provide security in Iraq despite a number of ongoing investigations. ](/news/2008/04/4/the-united-states-department-of-state-renews-the-contract-of-blackwater-worldwide-to-provide-security-in-iraq-despite-a-number-of-ongoing-i.md)
 Although it has been accused of tax fraud, improper use of force, arms trafficking and overbilling, the Blackwater firm will have its $1.2 billion contract for private security in Iraq renewed by the State Department, a spokesman confirmed Friday. The one-year extension, worth an estimated $240...

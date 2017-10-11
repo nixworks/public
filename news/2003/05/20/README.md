@@ -1,7 +1,7 @@
 ## [2003-05-20](/news/2003/05/20/index.md)
 
 ### [ Christine Todd-Whitman announces that on June 27 she will resign her position as Administrator of the United States Environmental Protection Agency](/news/2003/05/20/christine-todd-whitman-announces-that-on-june-27-she-will-resign-her-position-as-administrator-of-the-united-states-environmental-protectio.md)
-_Context: Christine Todd-Whitman, U.S. Environmental Protection Agency_
+_Context: Christine Todd-Whitman, United States Environmental Protection Agency_
 
 ### [ The Chelsea Flower Show opens](/news/2003/05/20/the-chelsea-flower-show-opens.md)
 _Context: Chelsea Flower Show_

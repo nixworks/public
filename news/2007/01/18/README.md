@@ -25,7 +25,7 @@ _Context: Dubai, Jumeirah Lake Towers_
 _Context: Dutch, English Channel, European windstorm, Germany, Great Britain, Kyrill, MSC ''Napoli''_
 
 ### [ Iraqi Prime Minister Nouri al-Maliki suggests that if the United States better armed the Iraqi armed forces, they would be able to dramatically draw back U.S. troops "in three to six months". ](/news/2007/01/18/iraqi-prime-minister-nouri-al-maliki-suggests-that-if-the-united-states-better-armed-the-iraqi-armed-forces-they-would-be-able-to-dramatic.md)
-_Context: American, Iraq, Iraq Prime Minister, Nouri al-Maliki_
+_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S._
 
 ### [ Israel transfers to the Palestinian Authority $100 million tax revenues withheld since the Hamas won the election last year. ](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.md)
 _Context: Hamas, Israel, Palestinian Authority_
@@ -34,7 +34,7 @@ _Context: Hamas, Israel, Palestinian Authority_
 _Context: Edwin Snowe, Liberia, vote of no confidence_
 
 ### [ 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u-s-states-including-23-in-ok.md)
-_Context: American, Oklahoma!, Texas, blizzards, freezing-rain, ice storm_
+_Context: Oklahoma!, Texas, U.S., blizzards, freezing-rain, ice storm_
 
 ## [Previous Day...](/news/2007/01/17/index.md)
 

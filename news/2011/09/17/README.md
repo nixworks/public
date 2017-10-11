@@ -25,7 +25,7 @@ Finnish authorities were holding a man and a woman on Saturday for alleged invol
 More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: American, Arab Spring, Occupy Wall Street, Wall Street, corporate dominance, super-rich_
+_Context: Arab Spring, Occupy Wall Street, U.S., Wall Street, corporate dominance, super-rich_
 
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Latvia, parliamentary election_

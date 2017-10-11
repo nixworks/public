@@ -4,7 +4,7 @@
 _Context: Brahim Deby, France, Idriss Deby, President of Chad, Romania_
 
 ### [ Black Friday: As the Christmas shopping season begins in the United States, two are shot at a Toys R Us store in Palm Desert, California, and a Wal-Mart employee is crushed in a stampede after shoppers broke down a front door in Valley Stream, New York. ](/news/2008/11/28/black-friday-as-the-christmas-shopping-season-begins-in-the-united-states-two-are-shot-at-a-toys-r-us-store-in-palm-desert-california-a.md)
-_Context: American, Black Friday, California, Christmas, New York State, Palm Desert, Toys "R" Us, Valley Stream, Wal-Mart, stampede_
+_Context: Black Friday, California, Christmas, New York State, Palm Desert, Toys "R" Us, U.S., Valley Stream, Wal-Mart, stampede_
 
 ### [ November 2008 Mumbai attacks: Indian security forces attack a Jewish centre in Mumbai where gunmen are holding an unknown number of hostages. ](/news/2008/11/28/november-2008-mumbai-attacks-indian-security-forces-attack-a-jewish-centre-in-mumbai-where-gunmen-are-holding-an-unknown-number-of-hostage.md)
 _Context: India, Mumbai, November terrorist attacks_

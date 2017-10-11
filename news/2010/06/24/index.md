@@ -61,7 +61,7 @@ _Context: Somaliland_
 _Context: Belarus, Gazprom, Russia, export, monopoly, natural gas_
 
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
-_Context: American, Bridgeport_
+_Context: Bridgeport, U.S._
 
 ### [Sri Lanka announces that a United Nations panel investigating human rights abuses will not be allowed to enter the country. ](/news/2010/06/24/sri-lanka-announces-that-a-united-nations-panel-investigating-human-rights-abuses-will-not-be-allowed-to-enter-the-country.md)
 The Sri Lankan foreign minister has said that a UN panel on human rights will not be allowed into the country.

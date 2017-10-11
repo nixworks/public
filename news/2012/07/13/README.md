@@ -4,7 +4,7 @@
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: American, Bedouin, Egypt, Sinai_
+_Context: Bedouin, Egypt, Sinai, U.S._
 
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_

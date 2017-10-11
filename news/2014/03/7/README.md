@@ -10,7 +10,7 @@ _Context: Amenhotep III, Ancient Egypt, Iset, Tutankhamun_
 Staples Inc., the big office supply retailer trying to reinvent itself in the face of intense Internet competition, plans to close as many as 225 stores and slash $500 million in annual costs by the end of next year. The Framingham company has closed about 40 locations and shrunk the size of another...
 
 ### [The United States economy added 175,000 jobs for the month of February. ](/news/2014/03/7/the-united-states-economy-added-175-000-jobs-for-the-month-of-february.md)
-_Context: American_
+_Context: U.S._
 
 ### [A study released by the University of California, San Diego shows that vitamin D increases the chances of survival in patients suffering from breast cancer. ](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.md)
 _Context: University of California, San Diego, breast cancer, vitamin D_

@@ -7,7 +7,7 @@ _Context: Afghanistan, CIA, German intelligence, Khalid El-Masri, Salt Pit, War 
 _Context: 16th World Economic Forum on Africa, Cape Town, South Africa_
 
 ### [ China, France, Germany, Russia, the United Kingdom and the United States agree on a package of incentives and sanctions for Iran. ](/news/2006/06/1/china-france-germany-russia-the-united-kingdom-and-the-united-states-agree-on-a-package-of-incentives-and-sanctions-for-iran.md)
-_Context: American, British, China, France, Germany, Iran, Russia_
+_Context: British, China, France, Germany, Iran, Russia, U.S._
 
 ### [ A report issued by the United States Army Corps of Engineers admits their responsibility for 2005 levee failures that flooded the majority of New Orleans, Louisiana in the aftermath of Hurricane Katrina. ](/news/2006/06/1/a-report-issued-by-the-united-states-army-corps-of-engineers-admits-their-responsibility-for-2005-levee-failures-that-flooded-the-majority.md)
 _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United States Army Corps of Engineers_
@@ -16,7 +16,7 @@ _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United
 _Context: District of Columbia, Los Angeles, California, Michael Bloomberg, New York City, Omaha, Nebraska, United States Department of Homeland Security_
 
 ### [ The Government of Spain overturns the conviction of Imad Yarkas on charges of conspiracy in the September 11, 2001 attacks after the prosecutor admits that evidence of involvement in the conspiracy was "inconsistent, almost nonexistent." The Spanish government says it will provide further explanation in the coming days. ](/news/2006/06/1/the-government-of-spain-overturns-the-conviction-of-imad-yarkas-on-charges-of-conspiracy-in-the-september-11-2001-attacks-after-the-prosec.md)
-_Context: Imad Yarkas, September 11, 2001 attacks, national government_
+_Context: Imad Yarkas, Madrid, September 11, 2001 attacks_
 
 ### [ Iran refuses to negotiate with the U.S. over its nuclear program.](/news/2006/06/1/iran-refuses-to-negotiate-with-the-u-s-over-its-nuclear-program.md)
 _Context: Iran_

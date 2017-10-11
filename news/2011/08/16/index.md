@@ -7,7 +7,7 @@ _Context: Libya, Libyan Civil War, National Transitional Council, Tripoli_
 Palestinian sources: Air strike wounds 3 gunmen; separate strike targets smuggling tunnel; rocket lands in open territory outside Beersheba.
 
 ### [A United States drone attack in the Pakistani province of North Waziristan kills four militants. ](/news/2011/08/16/a-united-states-drone-attack-in-the-pakistani-province-of-north-waziristan-kills-four-militants.md)
-_Context: American, North Waziristan, Pakistan, drones launch_
+_Context: North Waziristan, Pakistan, U.S., drones launch_
 
 ### [BBC Magazines agrees a GBP12m deal to sell the "Radio Times" &ndash; together with ten other titles &ndash; to Exponent, owner of thetrainline.com.](/news/2011/08/16/bbc-magazines-agrees-a-gbp12m-deal-to-sell-the-radio-times-ndash-together-with-ten-other-titles-ndash-to-exponent-owner-of-thetrainli.md)
 BBC Magazines has agreed to sell the Radio Times after 88 years of ownership to the company that owns thetrainline.com.

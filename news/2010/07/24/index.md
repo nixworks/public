@@ -43,7 +43,7 @@ Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla ar
 _Context: U.S. military, child pornography_
 
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: American, Iran, Israel, United States House of Representatives_
+_Context: Iran, Israel, U.S., United States House of Representatives_
 
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)
 Russian PM Vladimir Putin meets the Russian agents deported from the US and says they had &quot;tough lives&quot; and were &quot;betrayed&quot;.

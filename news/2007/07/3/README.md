@@ -1,13 +1,13 @@
 ## [2007-07-3](/news/2007/07/3/index.md)
 
 ### [ United States counterterrorism experts say some of the men arrested in connection to terror plots in the United Kingdom had links to al-Qaeda in Iraq. ](/news/2007/07/3/united-states-counterterrorism-experts-say-some-of-the-men-arrested-in-connection-to-terror-plots-in-the-united-kingdom-had-links-to-al-qae.md)
-_Context: American, British, al-Qaeda in Iraq, counter-terrorism_
+_Context: British, U.S., al-Qaeda in Iraq, counter-terrorism_
 
 ### [ The British government will designate and ban Tehreek-e-Nafaz-e-Shariat-e-Mohammadi and Jamaat-ul-Mujahideen Bangladesh as terrorist organizations. ](/news/2007/07/3/the-british-government-will-designate-and-ban-tehreek-e-nafaz-e-shariat-e-mohammadi-and-jamaat-ul-mujahideen-bangladesh-as-terrorist-organi.md)
 _Context: British government, Jamaat-ul-Mujahideen Bangladesh, Tehreek-e-Nafaz-e-Shariat-e-Mohammadi_
 
 ### [ Former President of Liberia Charles Taylor makes a surprise appearance at his trial for military atrocities in The Hague. ](/news/2007/07/3/former-president-of-liberia-charles-taylor-makes-a-surprise-appearance-at-his-trial-for-military-atrocities-in-the-hague.md)
-_Context: Charles Taylor, President of Liberia, The Hague_
+_Context: Charles Taylor, President, The Hague_
 
 ### [ Former Prime Minister Benazir Bhutto says she will return to Pakistan and is considering contesting the next presidential election. ](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.md)
 _Context: Benazir Bhutto, Pakistan, Prime Minister_

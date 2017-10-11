@@ -10,8 +10,8 @@ _Context: Hamas, Israel, Muhammad Deif_
 _Context: Abu Ghraib prison, Iraqi Government_
 
 ### [ The All Blacks win the tri nations with a nail biting win over the Springboks 31-27 in Dunedin.](/news/2005/08/27/the-all-blacks-win-the-tri-nations-with-a-nail-biting-win-over-the-springboks-31-27-in-dunedin.md)
-### [ Actor Robert Downey Jr marries film producer Susan Levin in a Jewish ceremony at Amagansett, New York. ](/news/2005/08/27/actor-robert-downey-jr-marries-film-producer-susan-levin-in-a-jewish-ceremony-at-amagansett-new-york.md)
-_Context: Amagansett, New York, Robert Downey Jr, Susan Levin_
+### [ Actor Robert Downey Jr. marries film producer Susan Levin in a Jewish ceremony at Amagansett, New York. ](/news/2005/08/27/actor-robert-downey-jr-marries-film-producer-susan-levin-in-a-jewish-ceremony-at-amagansett-new-york.md)
+_Context: Amagansett, New York, Robert Downey Jr., Susan Levin_
 
 ## [Previous Day...](/news/2005/08/26/index.md)
 

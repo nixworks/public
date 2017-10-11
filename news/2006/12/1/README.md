@@ -25,7 +25,7 @@ _Context: Jenny Macklin, Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party_
 _Context: Laisenia Qarase, Prime Minister, Voreqe Bainimarama_
 
 ### [ The United States warns of a possible al-Qaeda attack to disrupt the stock market and other financial institutions with a cyber attack. ](/news/2006/12/1/the-united-states-warns-of-a-possible-al-qaeda-attack-to-disrupt-the-stock-market-and-other-financial-institutions-with-a-cyber-attack.md)
-_Context: American, al-Qaeda, cyber attack, stock market_
+_Context: U.S., al-Qaeda, cyber attack, stock market_
 
 ### [ Billionaire Kirk Kerkorian sold off the last of his shares in General Motors, the Wall Street Journal reported. It was clear that Kerkorian had sold 14 million shares for $28.75 per share, or about $400 million, slicing his stake to 4.95%. ](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.md)
 _Context: General Motors, Kirk Kerkorian, Wall Street Journal_

@@ -7,7 +7,7 @@ A leader of the nascent Venezuelan student movement protesting President Hugo Ch
 _Context: Belgium, Brussels-Halle-Vilvoorde, Flemish, Wallonia, forms a temporary coalition government_
 
 ### [ Astronomers in the United States have found a fifth planet in orbit around the star 55 Cancri 41 light years from Earth. ](/news/2007/11/7/astronomers-in-the-united-states-have-found-a-fifth-planet-in-orbit-around-the-star-55-cancri-41-light-years-from-earth.md)
-_Context: 55 Cancri, American, Astronomer, fifth planet, light years, orbit_
+_Context: 55 Cancri, Astronomer, U.S., fifth planet, light years, orbit_
 
 ### [ Space Shuttle "Discovery" lands at the Kennedy Space Center, ending STS-120, a 15-day mission to the International Space Station. ](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.md)
 _Context: Discovery, International Space Station, Kennedy Space Center, STS-120_

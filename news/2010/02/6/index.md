@@ -10,7 +10,7 @@ _Context: Shandong Province, South-to-North Water Diversion Project_
 _Context: Communist Party of China, North Korea, Wang Jiarui, Workers' Party of Korea_
 
 ### [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (GBP14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-agbp14-million-to-five-peop.md)
-_Context: Charles McArther Emmanuel, Charles Taylor, President of Liberia, civil war_
+_Context: Charles McArther Emmanuel, Charles Taylor, President, civil war_
 
 ### [The Group of Seven nations agree to write off Haiti's debts following a conference in Iqaluit, Nunavut. ](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.md)
 _Context: G7, Haiti, Iqaluit, Nunavut_

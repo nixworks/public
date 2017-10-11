@@ -16,7 +16,7 @@ The EU called on Turkey to launch an investigation into allegations of irregular
 2. [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md) _Context: Turkey, Turkish constitutional referendum, 2017_
 3. [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md) _Context: European Commission, Turkey_
 4. [ The European Commission recommends that talks be opened with Turkey aiming for it to join the European Union. ](/news/2004/10/6/the-european-commission-recommends-that-talks-be-opened-with-turkey-aiming-for-it-to-join-the-european-union.md) _Context: European Commission, Turkey_
-5. [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+5. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
 
 ### Changes:
 

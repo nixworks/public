@@ -13,7 +13,7 @@ U.S. Special Operations Forces conducted a bold and unprecedented raid inside Pa
 Mortgages gone sour have led the Bloomington company to reduce its Minnesota workforce to 30 percent of 2006 levels.
 
 ### [ Japan's Kyodo news agency reports that North Korea has started rebuilding the Yongbyon Nuclear Scientific Research Center in retaliation for the United States failing to remove it from a list of states that sponsor terrorism. ](/news/2008/09/3/japan-s-kyodo-news-agency-reports-that-north-korea-has-started-rebuilding-the-yongbyon-nuclear-scientific-research-center-in-retaliation-fo.md)
-_Context: American, Japan, Kyodo, North Korea, Yongbyon Nuclear Scientific Research Center, terrorism_
+_Context: Japan, Kyodo, North Korea, U.S., Yongbyon Nuclear Scientific Research Center, terrorism_
 
 ### [ The United States Court of Appeals for the Eighth Circuit finds "that a reliance on information in Wikipedia is insufficient grounds for a ruling" in an immigration case. ](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.md)
 _Context: 8th U.S. Circuit Court of Appeals', Wikipedia_

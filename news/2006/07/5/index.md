@@ -13,7 +13,7 @@ _Context: New York City, North Korea, crude oil_
 _Context: Enron, Kenneth Lay, heart attack_
 
 ### [ A North Korean state-run broadcaster states that his country is ready to cope with any provocation by the United States. ](/news/2006/07/5/a-north-korean-state-run-broadcaster-states-that-his-country-is-ready-to-cope-with-any-provocation-by-the-united-states.md)
-_Context: American, North Korea_
+_Context: North Korea, U.S._
 
 ### [ Casinos in the U.S. state of New Jersey have shut down for the first time in their history. The closure started at 8 AM Local Time, 1200 GMT, since the state's budget has not been decided, necessitating the shutdown of nonessential state offices, including casino regulators.](/news/2006/07/5/casinos-in-the-u-s-state-of-new-jersey-have-shut-down-for-the-first-time-in-their-history-the-closure-started-at-8-am-local-time-1200-gm.md)
 _Context: EDT, GMT, New Jersey, U.S. state, casino_

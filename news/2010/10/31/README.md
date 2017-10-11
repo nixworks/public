@@ -40,7 +40,7 @@ Afghan President Hamid Karzai on Saturday denounced a large-scale drug raid in w
 _Context: New Zealand_
 
 ### [A United States military commission sentences Guantanamo Bay detainee Omar Khadr to eight more years in prison after pleading guilty to the murder of an American soldier in 2002. ](/news/2010/10/31/a-united-states-military-commission-sentences-guantanamo-bay-detainee-omar-khadr-to-eight-more-years-in-prison-after-pleading-guilty-to-the.md)
-_Context: American, Guantanamo Bay, Guantanamo military commission, Omar Khadr_
+_Context: Guantanamo Bay, Guantanamo military commission, Omar Khadr, U.S._
 
 ### [The Somali parliament approves Mohamed Abdullahi Mohamed as Prime Minister. ](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.md)
 Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x2...

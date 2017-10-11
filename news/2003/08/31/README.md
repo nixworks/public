@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraq, Sayed Mohammed Baqir al-Hakim, Shia Muslim, al-Qaeda_
 
 ### [ The U.S. Environmental Protection Agency declassifies carbon dioxide as a pollutant, a move seen as leading to the elimination of restrictions on industrial emissions of the controversial gas. Climate scientists have debated carbon dioxide's role in global warming for over a decade, with most voices (though notably fewer within the US) calling it the biggest factor, while others call it negligible. ](/news/2003/08/31/the-u-s-environmental-protection-agency-declassifies-carbon-dioxide-as-a-pollutant-a-move-seen-as-leading-to-the-elimination-of-restricti.md)
-_Context: U.S. Environmental Protection Agency, carbon dioxide (C|O|2), global warming_
+_Context: United States Environmental Protection Agency, carbon dioxide (C|O|2), global warming_
 
 ### [ "Occupation of Iraq": American and Iraqi officials are discussing the possibility of forming a large Iraqi militia or paramilitary force to help improve security in the country. ](/news/2003/08/31/occupation-of-iraq-american-and-iraqi-officials-are-discussing-the-possibility-of-forming-a-large-iraqi-militia-or-paramilitary-force-to.md)
 _Context: Iraq, Iraq war, militia_

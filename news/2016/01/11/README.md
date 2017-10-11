@@ -4,7 +4,7 @@
 The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping centre, on a day of violence that claims nearly 40 lives.
 
 ### [A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md)
-_Context: American, Mosul, U.S. airstrikes_
+_Context: Mosul, U.S., U.S. airstrikes_
 
 ### [Armed militiamen, also known as the Citizens for Constitutional Freedom, who are occupying the USFWS administered Malheur National Wildlife Refuge in Harney County, Oregon, tear down a part of a fence that they claim was erected by the federal government in order to allow privately owned cattle to graze on the adjacent public land. USFWS condemns the actions through a written statement which states that, "Removing fences, damaging any refuge property, or unauthorized use of equipment would be additional unlawful actions by the illegal occupiers. Any movement of cattle onto the refuge or other activities that are not specifically authorized by [the Fish and Wildlife Service] constitutes trespassing." ](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.md)
 Local support is waning with people in the town of Burns expressing dismay at methods employed by the armed occupation

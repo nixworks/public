@@ -22,7 +22,7 @@ Poland publishes a transcript of flight data recorders from the plane crash that
 Collapsed roads and highway bridges complicated rescue efforts in Guatemala on Tuesday after Tropical Storm Agatha drenched Central America, burying homes under mud and killing at least 178 people.
 
 ### [America's Obama administration warns that BP's oil spill in the Gulf of Mexico could continue until August. ](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.md)
-_Context: BP, Deepwater Horizon oil spill, Obama_
+_Context: BP, Deepwater Horizon oil spill, Obama-era_
 
 ### [The Iranian ambassador in Baghdad says the recent release of two Iranians from Iraqi custody is not an indication of any impeding deal to free three Americans held in Tehran on spying charges since their capture in July 2009 while hiking in northern Iraq's mountainous Kurdish region. ](/news/2010/06/1/the-iranian-ambassador-in-baghdad-says-the-recent-release-of-two-iranians-from-iraqi-custody-is-not-an-indication-of-any-impeding-deal-to-fr.md)
 _Context: Baghdad, Iran, Iraq, Kurdish, Tehran_

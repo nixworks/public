@@ -46,7 +46,7 @@ _Context: Costa Rica, San Jose, Costa Rica_
 _Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_
 
 ### [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md)
-_Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
+_Context: Amorebieta, Basque, Bilbao, ETA, Spain, power plants_
 
 ### [ In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released ](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.md)
 _Context: Somalian, United Nations, World Food Programme_

@@ -4,7 +4,7 @@
 _Context: CIA, Khalid El-Masri, extraordinary rendition, torture_
 
 ### [ The International Committee of the Red Cross criticizes the United States for denying access to detainees in violation of the Geneva Convention. The US admits holding detainees secretly but claims they do not fall under that convention. ](/news/2006/05/13/the-international-committee-of-the-red-cross-criticizes-the-united-states-for-denying-access-to-detainees-in-violation-of-the-geneva-conven.md)
-_Context: American, Geneva Convention, International Committee of the Red Cross_
+_Context: Geneva Convention, International Committee of the Red Cross, U.S._
 
 ### [ Typhoon Chanchu makes landfall twice in the Philippines. 23 people are killed and five remain missing after a boat capsizes in the stormy seas off Masbate island. ](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

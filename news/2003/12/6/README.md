@@ -13,7 +13,7 @@ _Context: Afghanistan, Ghazni_
 _Context: Canadian Alliance, Conservative Party's, Progressive Conservative Party of Canada_
 
 ### [ The first major winter storm strikes the North East United States. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=U2L1QQTAK433OCRBAEOCFEY?type=topNews&storyID=3949879]](/news/2003/12/6/the-first-major-winter-storm-strikes-the-north-east-united-states-http-www-reuters-com-newsarticle-jhtml-jsessionid-u2l1qqtak433ocrbaeo.md)
-_Context: American_
+_Context: U.S._
 
 ### [ Experts say that the US flu season will be worse than average, but they are not yet ready to say how bad it will be. ](/news/2003/12/6/experts-say-that-the-us-flu-season-will-be-worse-than-average-but-they-are-not-yet-ready-to-say-how-bad-it-will-be.md)
 _Context: flu_

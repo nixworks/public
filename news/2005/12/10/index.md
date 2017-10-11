@@ -10,7 +10,7 @@ _Context: Barry J. Marshall, Economics, Harold Pinter, John L. Hall, Nobel Prize
 _Context: Abuja, Nigeria, Port Harcourt, Sosoliso Airlines Flight 1145_
 
 ### [ American comedian and actor Richard Pryor dies of cardiac arrest at the age of 65 at 7:58 AM (Pacific Time).](/news/2005/12/10/american-comedian-and-actor-richard-pryor-dies-of-cardiac-arrest-at-the-age-of-65-at-7-58-am-pacific-time.md)
-_Context: American, PDT, Richard Pryor, actor, cardiac arrest, comedian_
+_Context: PDT, Richard Pryor, U.S., actor, cardiac arrest, comedian_
 
 ## [Previous Day...](/news/2005/12/9/index.md)
 

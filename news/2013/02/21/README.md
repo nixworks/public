@@ -19,7 +19,7 @@ _Context: Ally Financial, Bank of America, Citigroup, JPMorgan Chase, United Sta
 A major winter storm in the US Midwest that is already blamed for two deaths blankets several states in up to 17in (43cm) of snow.
 
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: American, Las Vegas Strip, Nevada, Paradise, Nevada, shooting_
+_Context: Las Vegas Strip, Nevada, Paradise, Nevada, U.S., shooting_
 
 ### [Three young girls are kidnapped, raped, and killed in the Bhandara district of India. ](/news/2013/02/21/three-young-girls-are-kidnapped-raped-and-killed-in-the-bhandara-district-of-india.md)
 _Context: Bhandara district, India_

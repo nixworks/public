@@ -25,7 +25,7 @@ _Context: Bajaur, Federally Administered Tribal Areas, Pakistan army_
 _Context: Malaysia, Malaysia Today, Raja Petra Kamarudin, Sin Chew Jit Poh, Teresa Kok, indefinite detention without trial_
 
 ### [ The United States-led coalition claims to kill at least 10 militants in fighting in Afghanistan. ](/news/2008/09/12/the-united-states-led-coalition-claims-to-kill-at-least-10-militants-in-fighting-in-afghanistan.md)
-_Context: Afghanistan, American_
+_Context: Afghanistan, U.S._
 
 ### [ The Prime Minister of New Zealand Helen Clark calls an election for November 8. ](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.md)
 _Context: Helen Clark, November 8, Prime Minister, wins a majority of seats_
@@ -34,7 +34,7 @@ _Context: Helen Clark, November 8, Prime Minister, wins a majority of seats_
 _Context: Kim Jong-il_
 
 ### [ The Constitutional Court of Spain rules that the Government of the Basque Country could not call a planned referendum on working towards self-determination as only the Government of Spain could call such a vote; the Basque Government said it would appeal to the European Court of Human Rights. ](/news/2008/09/12/the-constitutional-court-of-spain-rules-that-the-government-of-the-basque-country-could-not-call-a-planned-referendum-on-working-towards-se.md)
-_Context: Basque, Constitutional Court of Spain, European Court of Human Rights, national government, planned referendum, self-determination_
+_Context: Basque, Constitutional Court of Spain, European Court of Human Rights, Madrid, planned referendum, self-determination_
 
 ## [Previous Day...](/news/2008/09/11/index.md)
 

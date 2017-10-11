@@ -25,7 +25,7 @@ Rescue workers still searching for victims on the ground after Hercules military
 Russian gas firm Gazprom halts gas supplies to Ukraine after Kiev suspends energy purchases following a breakdown on pricing talks.
 
 ### [The United States and Cuba officially announce that embassies will be reopened in each other's countries for the first time since 1961. ](/news/2015/07/1/the-united-states-and-cuba-officially-announce-that-embassies-will-be-reopened-in-each-other-s-countries-for-the-first-time-since-1961.md)
-_Context: American, Cuba, Cuba-United States relations, embassies_
+_Context: Cuba, Cuba-United States relations, U.S., embassies_
 
 ### [The United States Department of Justice begins an investigation into whether US airlines entered into collusion to illegally keep ticket prices high. ](/news/2015/07/1/the-united-states-department-of-justice-begins-an-investigation-into-whether-us-airlines-entered-into-collusion-to-illegally-keep-ticket-pri.md)
 The Justice Department investigates if US airlines are colluding to keep ticket prices high.

@@ -16,7 +16,7 @@ _Context: 2002 Winter Olympic Games, Johann Mhlegg, Olga Danilova, cross-country
 _Context: California, Michael Jackson_
 
 ### [ Israeli Prime Minister Ariel Sharon warns the Palestinian Authority that Israel will take unilateral steps to separate from the Palestinians unless there is progress on the road map peace plan and sets a deadline of "a few months" for Palestinian compliance. The speech is strongly criticised by the United States, the Israeli left, the Jewish settler movement and the Palestinians. [http:--news.bbc.co.uk-1-hi-world-middle_east-3332361.stm]](/news/2003/12/18/israeli-prime-minister-ariel-sharon-warns-the-palestinian-authority-that-israel-will-take-unilateral-steps-to-separate-from-the-palestinian.md)
-_Context: American, Ariel Sharon, Israel, Palestinian Authority, road map peace plan_
+_Context: Ariel Sharon, Israel, Palestinian Authority, U.S., road map peace plan_
 
 ### [ Red Hat, in its third quarter, buys Sistina Software. Red Hat expects that it will close the deal by early January for $31 million dollars. [http:--www.theregister.co.uk-content-4-34598.html]](/news/2003/12/18/red-hat-in-its-third-quarter-buys-sistina-software-red-hat-expects-that-it-will-close-the-deal-by-early-january-for-31-million-dollars.md)
 _Context: Red Hat, Sistina Software_

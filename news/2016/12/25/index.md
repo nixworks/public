@@ -22,7 +22,7 @@ _Context: Augsburg, Germany, World War II_
 Pregnancy can sculpt a mother’s brain in a way that may help her tune in to her baby.
 
 ### [Afghanistan's first female Air Force pilot Niloofar Rahmani files for asylum in the United States. ](/news/2016/12/25/afghanistan-s-first-female-air-force-pilot-niloofar-rahmani-files-for-asylum-in-the-united-states.md)
-_Context: Afghanistan, Air Force, American, Asylum in the United States, Niloofar Rahmani_
+_Context: Afghanistan, Air Force, Asylum in the United States, Niloofar Rahmani, U.S._
 
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)
 Pakistan has released 220 Indian fishermen detained for crossing into its territorial waters. Ties between the two countries have been tense over the Kashmir conflict. Activists say India should reciprocate the gesture.

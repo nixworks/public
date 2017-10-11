@@ -31,7 +31,7 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 _Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Russia-United States relations, Syrian Civil War, Vladimir Putin_
 
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: American, Kaliningrad, Lithuania, NATO, NATO-Russia relations, Polish, Russia, S-400 missile system_
+_Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Polish, Russia, S-400 missile system, U.S._
 
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
 _Context: Philippine criminal law, Rodrigo Duterte_

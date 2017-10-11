@@ -12,5 +12,6 @@ Subaru is recalling about 199,000 cars and SUVs for a second time to fix rusty b
 
 ### Related:
 
-1. [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md) _Context: Subaru_
-2. [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md) _Context: Subaru_
+1. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Subaru_
+2. [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md) _Context: Subaru_
+3. [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md) _Context: Subaru_

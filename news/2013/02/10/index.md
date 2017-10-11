@@ -28,13 +28,13 @@ Gotye takes out three Grammys including record of the year for Somebody That I U
 A stampede at a railway station in Allahabad killed at least 36 Hindu pilgrims on Sunday, the busiest day of the Kumbh Mela at which some 30 million had gathered to wash away their sins in the sacred Ganges river.
 
 ### [2013 Hattiesburg, Mississippi tornado: A tornado causes significant damage to the American town of Hattiesburg, Mississippi. ](/news/2013/02/10/2013-hattiesburg-mississippi-tornado-a-tornado-causes-significant-damage-to-the-american-town-of-hattiesburg-mississippi.md)
-_Context: 2013 Hattiesburg, Mississippi tornado, American, Hattiesburg, Mississippi, tornado_
+_Context: 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, U.S., tornado_
 
 ### [A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. ](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomson-majesty-while-it-was-docked-in-the-port-of-santa-cruz-de-la-palma-in-the-canary-islands-ki.md)
 A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea, Spanish officials say; an additional 3 injured
 
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
-_Context: Acton, American, Bell 206, California, Polsa Rosa Movie Ranch, helicopter_
+_Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, U.S., helicopter_
 
 ### [Cruise ship "Carnival Triumph" suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of-po.md)
 A Carnival cruise ship in the Caribbean is operating on emergency power in the wake of an engine room fire. Carnival says the 102,000-ton Carnival Triumph was sailing approximately 150 miles off the coast of

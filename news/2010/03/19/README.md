@@ -43,7 +43,7 @@ _Context: Molemo "Jub Jub" Maarohanye, South Africa_
 Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic institution.
 
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9-11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: American, September 11 attacks_
+_Context: September 11 attacks, U.S._
 
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
 Indonesia is out of the race to host the 2022 World Cup, FIFA says.

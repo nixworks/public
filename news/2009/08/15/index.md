@@ -7,7 +7,7 @@ _Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslims, shootout_
 _Context: Hong Kong_
 
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: American, Colombia_
+_Context: Colombia, U.S._
 
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
 _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine, controversial, surrender_

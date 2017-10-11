@@ -19,7 +19,7 @@ _Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Neoguri_
 A strong earthquake rocked southern Mexico and Guatemala, killing at least four people and causing damage across the region.
 
 ### [Angela Merkel, the Chancellor of Germany, says that if allegations that a German intelligence officer was working for the United States are true, it would be a "clear contradiction" of trust between allies. ](/news/2014/07/7/angela-merkel-the-chancellor-of-germany-says-that-if-allegations-that-a-german-intelligence-officer-was-working-for-the-united-states-are.md)
-_Context: American, Angela Merkel, Chancellor, German intelligence_
+_Context: Angela Merkel, Chancellor, German intelligence, U.S._
 
 ### [An antitrust trial begins pitting the U.S. Justice Department against American Express over tactics the latter has employed in the credit card market. ](/news/2014/07/7/an-antitrust-trial-begins-pitting-the-u-s-justice-department-against-american-express-over-tactics-the-latter-has-employed-in-the-credit-ca.md)
 American Express Co (AXP.N) has hindered price competition in the U.S. credit card market and prevented merchants and consumers from reaping cost savings, a lawyer for the U.S. government said on Monday during the first day of a trial in Brooklyn federal court.

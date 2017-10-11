@@ -13,10 +13,10 @@ _Context: $, Barney Frank, United States House of Representatives, United States
 _Context: Abu Ayyub al-Masri, Iraq, Iraqi Defense Minister, al-Qaeda in Iraq_
 
 ### [ North Korea hands over thousands of pages about its nuclear program to a visiting diplomat from the United States that will help verify its plutonium holdings. ](/news/2008/05/8/north-korea-hands-over-thousands-of-pages-about-its-nuclear-program-to-a-visiting-diplomat-from-the-united-states-that-will-help-verify-its.md)
-_Context: American, North Korea, diplomat, nuclear program, plutonium_
+_Context: North Korea, U.S., diplomat, nuclear program, plutonium_
 
 ### [ Russia expels two United States military attachs following earlier expulsion of two Russian diplomats from the United States. ](/news/2008/05/8/russia-expels-two-united-states-military-attaches-following-earlier-expulsion-of-two-russian-diplomats-from-the-united-states.md)
-_Context: American, Russia, military attach_
+_Context: Russia, U.S., military attach_
 
 ### [ Latvia and Lithuania become the latest EU member states to ratify the Treaty of Lisbon. ](/news/2008/05/8/latvia-and-lithuania-become-the-latest-eu-member-states-to-ratify-the-treaty-of-lisbon.md)
 Lithuania&#39;s parliament has ratified the European Union&#39;s Lisbon Treaty.

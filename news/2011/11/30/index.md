@@ -1,7 +1,7 @@
 ## [2011-11-30](/news/2011/11/30/index.md)
 
 ### [A mass shooting occurs in east Texas, United States. Four children are killed, all less than 5 years old. ([http:--edition.cnn.com-2011-12-01-justice-texas-mass-shooting-index.html?npt=NP1 CNN])](/news/2011/11/30/a-mass-shooting-occurs-in-east-texas-united-states-four-children-are-killed-all-less-than-5-years-old-http-edition-cnn-com-2011-12-0.md)
-_Context: American, Texas, mass shooting_
+_Context: Texas, U.S., mass shooting_
 
 ### [Up to two million public sector workers in the United Kingdom commence a 24-hour strike over pension reforms, affecting schools, hospitals, airports, ports and government offices nationwide. ](/news/2011/11/30/up-to-two-million-public-sector-workers-in-the-united-kingdom-commence-a-24-hour-strike-over-pension-reforms-affecting-schools-hospitals.md)
 Tens of thousands attended rallies around the UK as a public sector strike over pensions disrupted schools, hospitals and other services.

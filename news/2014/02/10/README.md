@@ -13,7 +13,7 @@ At least 50 people are reported to have died after overnight floods and landslid
 SEOUL, South Korea (AP) — North Korea has canceled for a second time its invitation for a senior U.S. envoy to visit the country to discuss a long-detained American&#39;s possible release, the State Department
 
 ### [The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating-against-us-solar-panel-manufac.md)
-_Context: American, India, World Trade Organization, solar panel_
+_Context: India, U.S., World Trade Organization, solar panel_
 
 ### [The Garda Sochna Ombudsman Commission (GSOC), Ireland's police Ombudsman, is revealed to have been bugged, with emails, wi-fi and phone systems at its Dublin headquarters also accessed illegally and internationally. ](/news/2014/02/10/the-garda-siochana-ombudsman-commission-gsoc-ireland-s-police-ombudsman-is-revealed-to-have-been-bugged-with-emails-wi-fi-and-phone-sy.md)
 A report today claimed emails, wi-fi and phone systems were hacked and a phone in a conference room at the building was bugged. 

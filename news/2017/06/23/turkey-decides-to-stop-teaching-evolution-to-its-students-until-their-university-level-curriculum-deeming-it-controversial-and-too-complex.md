@@ -14,7 +14,7 @@
 
 1. [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md) _Context: Turkey, secular foundation_
 2. [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md) _Context: Turkey, university_
-3. [The U.S Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+3. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
 4. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
 5. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_
 

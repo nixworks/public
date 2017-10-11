@@ -49,7 +49,7 @@ State media in China say police are checking claims that a security firm was pai
 _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Netherlands, Radovan Karadzic, The Hague_
 
 ### [Brandon Joseph Rhode is executed at a prison in Jackson, Georgia in the southern United States. ](/news/2010/09/27/brandon-joseph-rhode-is-executed-at-a-prison-in-jackson-georgia-in-the-southern-united-states.md)
-_Context: American, Brandon Joseph Rhode, Georgia, Jackson_
+_Context: Brandon Joseph Rhode, Georgia, Jackson, U.S._
 
 ### [Delegates arrive in the North Korean capital Pyongyang ahead of the largest Korean Workers' Party conference in decades. ](/news/2010/09/27/delegates-arrive-in-the-north-korean-capital-pyongyang-ahead-of-the-largest-korean-workers-party-conference-in-decades.md)
 _Context: Korean Workers' Party, North Korea, Pyongyang_

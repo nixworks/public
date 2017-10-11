@@ -16,13 +16,13 @@ Get the latest breaking news across the U.S. on ABCNews.com
 Russia took its first significant retaliatory steps after Georgia’s arrests of four Russian military officers.
 
 ### [ Two schools in the Las Vegas Valley, Nevada, United States, are locked down, after a former student reportedly brought an AK-47 or other automatic weapons to school. (Wikinews) ](/news/2006/10/2/two-schools-in-the-las-vegas-valley-nevada-united-states-are-locked-down-after-a-former-student-reportedly-brought-an-ak-47-or-other-au.md)
-_Context: (Wikinews), AK-47s, American, Las Vegas, Nevada_
+_Context: (Wikinews), AK-47s, Las Vegas, Nevada, U.S._
 
 ### [ Casino company Harrah's Entertainment receives an $81-per-share cash offer from private-equity firms Apollo Management and Texas Pacific Group.](/news/2006/10/2/casino-company-harrah-s-entertainment-receives-an-81-per-share-cash-offer-from-private-equity-firms-apollo-management-and-texas-pacific-gr.md)
 _Context: Harrah's Entertainment_
 
 ### [ Former U.S. Rep. Mark Foley, under FBI investigation for e-mail exchanges with teenage congressional pages, has checked himself into rehabilitation facility for alcoholism treatment.](/news/2006/10/2/former-u-s-rep-mark-foley-under-fbi-investigation-for-e-mail-exchanges-with-teenage-congressional-pages-has-checked-himself-into-rehabi.md)
-_Context: American, FBI, Mark Foley, United States House of Representatives, alcoholism, congressional page, e-mail_
+_Context: FBI, Mark Foley, U.S., United States House of Representatives, alcoholism, congressional page, e-mail_
 
 ### [ Andrew Fire and Craig Mello win the Nobel Prize in Physiology or Medicine for their work in controlling the activity of genes. ](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
