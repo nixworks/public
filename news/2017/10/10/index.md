@@ -1,6 +1,6 @@
 ## [2017-10-10](/news/2017/10/10/index.md)
 
-### [A South Korean lawmaker says that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-says-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the-s.md)
+### [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md)
 _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
 
 ### [U.S. multinational conglomerate Honeywell announces that as of the end of 2018, it will spin off two companies from the parent, one of Homes and the ADI Global Distribution Business, and the other of Transportation Systems. ](/news/2017/10/10/u-s-multinational-conglomerate-honeywell-announces-that-as-of-the-end-of-2018-it-will-spin-off-two-companies-from-the-parent-one-of-homes.md)
@@ -14,6 +14,9 @@ An Su-24 military aircraft has crashed at Khmeimim Airbase in Syria after oversh
 
 ### [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md)
 A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations, the Guardian reported on Tuesday, citing unnamed sources.
+
+### [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md)
+At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
 ### [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md)
 The Trump administration Tuesday will formally withdraw federal limits on carbon emissions at power plants, Environmental Protection Agency Administrator Scott Pruitt said, triggering the next stage of what is likely a yearslong fight over the Obama administration’s centerpiece for slowing climate...
