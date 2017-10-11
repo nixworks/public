@@ -12,7 +12,7 @@ Firefighters were counting on cooler weather and weakening winds Tuesday to help
 ### [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md)
 An Su-24 military aircraft has crashed at Khmeimim Airbase in Syria after overshooting the runway, the Russian Defense Ministry reports. The crew has been killed.
 
-### [The September disclosed hack attack at accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. ](/news/2017/10/10/the-september-disclosed-hack-attack-at-accounting-firm-deloitte-compromised-a-server-with-emails-of-some-350-clients-including-u-s-governm.md)
+### [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md)
 A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations, the Guardian reported on Tuesday, citing unnamed sources.
 
 ### [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md)
@@ -26,6 +26,9 @@ Regional president, Carles Puigdemont, to set out independence plans for first t
 
 ### [The Cook County Board of Commissioners' Finance Committee, which includes Chicago, repeals the tax approved in November 2016 on soft drinks and other sugary beverages. ](/news/2017/10/10/the-cook-county-board-of-commissioners-finance-committee-which-includes-chicago-repeals-the-tax-approved-in-november-2016-on-soft-drinks.md)
 A Chicago-area tax on soft drinks and other sugary beverages that angered some consumers and merchants was headed for repeal after a pivotal government vote on Tuesday to end it.
+
+### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
+California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
 
 ## [Previous Day...](/news/2017/10/9/index.md)
 
