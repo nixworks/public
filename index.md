@@ -48,7 +48,7 @@ _Context: 2007, Alberto Fujimori, Ministry of Justice, Pedro Pablo Kuczynski, Pe
 It’s the only dwarf planet to have a ring — as far as we know
 
 ### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite for Luxembourg-based SES and U.S.-headquartered EchoStar. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
-_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SpaceX, United States, launches, supersynchronous orbit_
+_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SES, SpaceX, United States, launches, supersynchronous orbit_
 
 ---
 
