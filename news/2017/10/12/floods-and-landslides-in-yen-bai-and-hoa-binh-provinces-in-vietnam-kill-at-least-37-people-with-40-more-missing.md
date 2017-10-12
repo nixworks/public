@@ -21,4 +21,5 @@ Another 40 people are missing, including a journalist who was swept away after a
 ### Changes:
 
 1. [Floods and landslides in Yn Bi and Ha Bnh Vietnam provinces kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yen-bai-and-hoa-binh-vietnam-provinces-kill-at-least-37-people-with-40-more-missing.md) _2017-10-12 13:30:06 (First version)_
-1. [Floods and landslides in Yn Bi and Ha Bnh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yen-bai-and-hoa-binh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md) _(Current version)_
+2. [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md) _2017-10-12 18:30:06 (Update)_
+2. [Floods and landslides in Yn Bi and Ha Bnh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yen-bai-and-hoa-binh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md) _(Current version)_

@@ -15,11 +15,11 @@ _Context: Australia, Cybercrime, Joint Strike Fighter program_
 ### [The Peruvian Pedro Pablo Kuczynski Administration through the Ministry of Justice appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although the president Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, Human Rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-grace.md)
 _Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, tongue cancer_
 
-### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the dwarf planet, trans-Neptunian object, Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md)
+### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing-t.md)
 It’s the only dwarf planet to have a ring — as far as we know
 
 ### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite for Luxembourg-based SES and U.S.-headquartered EchoStar. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
-_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SES, SpaceX, United States, launches, supersynchronous orbit_
+_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SpaceX, United States, launches, supersynchronous orbit_
 
 ## [Previous Day...](/news/2017/10/10/index.md)
 

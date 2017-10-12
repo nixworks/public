@@ -3,10 +3,10 @@
 ### [The United States announces its planned withdrawal as a member from UNESCO. ](/news/2017/10/12/the-united-states-announces-its-planned-withdrawal-as-a-member-from-unesco.md)
 The U.S., which helped found UNESCO after World War II, will withdraw as a member at the end of 2018.
 
-### [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md)
+### [Floods and landslides in Yn Bi and Ha Bnh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yen-bai-and-hoa-binh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md)
 Another 40 people are missing, including a journalist who was swept away after a bridge collapsed.
 
-### [A Canadian-American family is released after being held in captivity by the Taliban after nearly 5 year of captivity. ](/news/2017/10/12/a-canadian-american-family-is-released-after-being-held-in-captivity-by-the-taliban-after-nearly-5-year-of-captivity.md)
+### [Joshua Boyle and his family are rescued by Pakistani forces in Kurram valley. The family had been kidnapped by the Taliban nearly 5 years ago.](/news/2017/10/12/joshua-boyle-and-his-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kidnapped-by-the-taliban-nearly-5-years-ag.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 
 ### [Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-within-the-moon-s-orbit.md)
@@ -35,11 +35,11 @@ _Context: Australia, Cybercrime, Joint Strike Fighter program_
 ### [The Peruvian Pedro Pablo Kuczynski Administration through the Ministry of Justice appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although the president Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, Human Rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-grace.md)
 _Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, tongue cancer_
 
-### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the dwarf planet, trans-Neptunian object, Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md)
+### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing-t.md)
 It’s the only dwarf planet to have a ring — as far as we know
 
 ### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite for Luxembourg-based SES and U.S.-headquartered EchoStar. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
-_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SES, SpaceX, United States, launches, supersynchronous orbit_
+_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SpaceX, United States, launches, supersynchronous orbit_
 
 ---
 
