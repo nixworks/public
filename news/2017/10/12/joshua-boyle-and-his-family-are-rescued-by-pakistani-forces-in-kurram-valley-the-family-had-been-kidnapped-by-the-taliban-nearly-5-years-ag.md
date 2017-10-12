@@ -1,6 +1,6 @@
 ### [2017-10-12](/news/2017/10/12/index.md)
 
-# Joshua Boyle and his family are rescued by Pakistani forces in Kurram valley. The family had been kidnapped by the Taliban nearly 5 years ago.
+# Joshua Boyle and his family are rescued by Pakistani forces in Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago. 
 
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 

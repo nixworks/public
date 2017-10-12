@@ -1,13 +1,13 @@
 ## [News](/news/2017/10/12/index.md)
 
-### [The United States announces its planned withdrawal as a member from UNESCO. ](/news/2017/10/12/the-united-states-announces-its-planned-withdrawal-as-a-member-from-unesco.md)
-The U.S., which helped found UNESCO after World War II, will withdraw as a member at the end of 2018.
-
 ### [Floods and landslides in Yn Bi and Ha Bnh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yen-bai-and-hoa-binh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md)
 Another 40 people are missing, including a journalist who was swept away after a bridge collapsed.
 
-### [Joshua Boyle and his family are rescued by Pakistani forces in Kurram valley. The family had been kidnapped by the Taliban nearly 5 years ago.](/news/2017/10/12/joshua-boyle-and-his-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kidnapped-by-the-taliban-nearly-5-years-ag.md)
+### [Joshua Boyle and his family are rescued by Pakistani forces in Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago. ](/news/2017/10/12/joshua-boyle-and-his-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kidnapped-by-the-taliban-nearly-5-years-ag.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
+
+### [The United States and Israel announce their planned withdrawal as members from UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-planned-withdrawal-as-members-from-unesco.md)
+Hours after the US says it is pulling out of the UN cultural agency, Israel says it will leave too.
 
 ### [Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-within-the-moon-s-orbit.md)
 Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and emergency preparedness teams to practise for an impact.
@@ -32,8 +32,8 @@ Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki p
 ### [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md)
 _Context: Australia, Cybercrime, Joint Strike Fighter program_
 
-### [The Peruvian Pedro Pablo Kuczynski Administration through the Ministry of Justice appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although the president Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, Human Rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-grace.md)
-_Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, tongue cancer_
+### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
+_Context: 2007, Alberto Fujimori, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, human rights violations, tongue cancer_
 
 ### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing-t.md)
 It’s the only dwarf planet to have a ring — as far as we know
