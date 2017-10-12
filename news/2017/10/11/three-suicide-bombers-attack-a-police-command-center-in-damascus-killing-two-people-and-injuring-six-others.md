@@ -8,7 +8,8 @@ Three men blew themselves up near the police headquarters in central Damascus on
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-attack/suicide-bombers-attack-damascus-police-center-syrian-state-media-idUSKBN1CG1QI)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171011&t=2&i=1205059139&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9A16O)
+2. [The Guardian](https://www.theguardian.com/world/2017/oct/12/british-isis-member-sally-jones-white-widow-killed-airstrike-son-islamic-state-syria)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171011&t=2&i=1205059139&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9A16O)
 
 ### Related:
 

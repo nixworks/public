@@ -1,6 +1,6 @@
 ### [2016-04-5](/news/2016/04/5/index.md)
 
-# The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. 
+# The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four-year fixed parliamentary term. 
 
 
 
@@ -20,4 +20,4 @@
 ### Changes:
 
 1. [Queensland term length referendum, 2016: The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. ](/news/2016/04/5/queensland-term-length-referendum-2016-the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-t.md) _2017-08-27 03:45:30 (First version)_
-1. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _(Current version)_
+1. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four-year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _(Current version)_
