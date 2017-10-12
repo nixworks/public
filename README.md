@@ -1,10 +1,13 @@
 ## [News](/news/2017/10/12/index.md)
 
-### [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago. ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-kurram-valley-the-family-had-been-kid.md)
+### [Canadian Joshua Boyle, American Caitlan Coleman, and their family, are rescued by Pakistani forces in the Kurram Valley. The family had been kidnapped by the Taliban nearly 5 years ago in Afghanistan's Wardak Province ](/news/2017/10/12/canadian-joshua-boyle-american-caitlan-coleman-and-their-family-are-rescued-by-pakistani-forces-in-the-kurram-valley-the-family-had-been.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 
 ### [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md)
 Another 40 people are missing, including a journalist who was swept away after a bridge collapsed.
+
+### [Local officials report at least 28 people have been killed by the 17 fires, while almost half (437) of the 900 reported missing in Sonoma County have been located. ](/news/2017/10/12/local-officials-report-at-least-28-people-have-been-killed-by-the-17-fires-while-almost-half-437-of-the-900-reported-missing-in-sonoma-co.md)
+Tense battles across Northern California as firestorms grow; 23 dead, hundreds missing
 
 ### [The United States and Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-and-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md)
 Hours after the US says it is pulling out of the UN cultural agency, Israel says it will leave too.
