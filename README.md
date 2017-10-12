@@ -9,7 +9,7 @@ Another 40 people are missing, including a journalist who was swept away after a
 ### [A Canadian-American family is released after being held in captivity by the Taliban after nearly 5 year of captivity. ](/news/2017/10/12/a-canadian-american-family-is-released-after-being-held-in-captivity-by-the-taliban-after-nearly-5-year-of-captivity.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 
-### [Apollo-group-type asteroid 2012 TC4 (approximately 15 meters in diameter) passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-meters-in-diameter-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within.md)
+### [Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-within-the-moon-s-orbit.md)
 Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and emergency preparedness teams to practise for an impact.
 
 ## Opinion
