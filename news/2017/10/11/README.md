@@ -9,8 +9,8 @@ _Context: October 2017 Northern California wildfires_
 ### [Shinmoedake volcano erupts for the first time in six years. ](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-in-six-years.md)
 Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki prefectures erupted early Wednesday, marking its first such activity in abou
 
-### [A hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware last year after breaching the network of a defense contractor. ](/news/2017/10/11/a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-last-year-after-breac.md)
-_Context: Australia, Cybercrime, Joint Strike Fighter_
+### [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md)
+_Context: Australia, Cybercrime, Joint Strike Fighter program_
 
 ### [The Peruvian Pedro Pablo Kuczynski Administration through the Ministry of Justice appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although the president Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, Human Rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-grace.md)
 _Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, tongue cancer_
