@@ -13,7 +13,7 @@ Two people have been confirmed dead in the massive gas explosion that occurred a
 1. Situation update The outbreak of plague in Madagascar continues to evolve. Since our last report on 4 October 2017, a total of 230 new suspected cases including 17 deaths (case fatality rate 7.4%) were reported. Between 1 August and 8 October 2017, a total of 387 cases (suspected, probable and co...
 
 ### [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md)
-_Context: Exhibition Road, London, Natural History Museum, South Kensington crash_
+_Context: Exhibition Road, London, Natural History Museum_
 
 ### [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md)
 Police detained more than 200 opposition activists on Saturday for taking part in a wave of anti-Kremlin protests across Russia in support of jailed opposition leader Alexei Navalny, ahead of a presidential election in March, a monitoring group reported.
