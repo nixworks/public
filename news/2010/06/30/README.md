@@ -43,13 +43,13 @@ It seems unlikely the Christian lobby will lay out the red carpet and the intern
 Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 
 ### [A 6.2-magnitude earthquake occurs in southern Mexico near the city of Pinotepa Nacional, shaking buildings as far away as Mexico City but not causing serious damage or casualties. ](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.md)
-_Context: 6.2-magnitude earthquake, Mexican, Mexico City, Pinotepa Nacional_
+_Context: 6.2-magnitude earthquake, Mexico, Mexico City, Pinotepa Nacional_
 
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)
 _Context: Egypt_
 
 ### [The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". ](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.md)
-_Context: Leviathan melvillei, Nature, physeteroid, whale_
+_Context: ''Nature'', Leviathan melvillei, physeteroid, whale_
 
 ### [Ireland officially exits recession. ](/news/2010/06/30/ireland-officially-exits-recession.md)
 Figures from the CSO show that the Irish economy technically emerged from recession in the first three months of this year.

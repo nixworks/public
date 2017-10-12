@@ -46,7 +46,7 @@ _Context: China, Xinjiang_
 _Context: Thailand, tiger_
 
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
-_Context: British, Coleen Rooney, Manchester United, Wayne Rooney, blackmail_
+_Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_
 
 ### [Colin Hatch, a convicted child murderer, is murdered in jail while serving his sentence; a 35-year-old male prisoner has been arrested on suspicion of murder. ](/news/2011/02/23/colin-hatch-a-convicted-child-murderer-is-murdered-in-jail-while-serving-his-sentence-a-35-year-old-male-prisoner-has-been-arrested-on-su.md)
 _Context: Colin Hatch_

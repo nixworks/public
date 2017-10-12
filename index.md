@@ -1,13 +1,7 @@
-## [News](/news/2017/10/11/index.md)
+## [News](/news/2017/10/12/index.md)
 
-### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
-Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.
-
-### [The Peruvian Pedro Pablo Kuczynski Administration through the Ministry of Justice of Peru appoints a new head to the Direction of Presidentials Graces in order to grant a pardon to 79-year-old former president Alberto Fujimori (1990-2000). In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption and Human Rights violations. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-of-peru-appoints-a-new-head-to-the-direction-of-presidenti.md)
-_Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice of Peru, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, tongue cancer_
-
-### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronoma of Granada, Spain describing the discovery that a ring system orbits the dwarf planet, trans-Neptunian object, Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomia-of-granada-spain-describing-th.md)
-It’s the only dwarf planet to have a ring — as far as we know
+### [Apollo asteroid 2012 TC4 passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-asteroid-2012-tc4-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within-the-moon-s-orbit.md)
+Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and emergency preparedness teams to practise for an impact.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -15,7 +9,23 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/10/10/index.md)
+## [Yesterday](/news/2017/10/11/index.md)
+
+### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
+Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.
+
+### [The death toll grows to 21 people with 380 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-21-people-with-380-people-still-missing.md)
+_Context: October 2017 Northern California wildfires_
+
+### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces. This is understood as a more step, although the president Kuczynski has denied it, towards to granting to the pardon of the 79-year-old former president Alberto Fujimori, sentenced to 25 years of jail for acts of corruption, Human Rights violations and various others delicts. Fujimori, who has been in jail since 2007 and whose health has deteriorated, the tongue cancer being one of the evils that allegedly afflict him, has applied for pardon unsuccessfully through his sons on two occasions. He ruled Peru from 1990 to 2000. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
+_Context: 2007, Alberto Fujimori, Human Rights violations, Ministry of Justice, Pedro Pablo Kuczynski, Politics of Peru, corruption, tongue cancer_
+
+### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronoma of Granada, Spain, describing the discovery that a ring system orbits the dwarf planet, trans-Neptunian object, Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomia-of-granada-spain-describing-t.md)
+It’s the only dwarf planet to have a ring — as far as we know
+
+---
+
+## [Day Before Yesterday](/news/2017/10/10/index.md)
 
 ### [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md)
 _Context: 2017 North Korea crisis, North Korea, South Korea, hackers_
@@ -55,26 +65,7 @@ Nasa leader says will not take part in the October 26 election.
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/9/index.md)
-
-### [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md)
-US economist Richard Thaler is a founding father of behavioural economics and pioneered &quot;nudge&quot; theory.
-
-### [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md)
-_Context: Central Japan Railway Company, Japan, Kobe Steel, Mazda, Mitsubishi, Subaru, Toyota_
-
-### [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md)
-Around 3,000 people were evacuated when the construction market in north-west Moscow went up in flames.
-
-### [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md)
- SONOMA, Calif. (AP) — More than a dozen wildfires whipped by powerful winds swept through California wine country Monday, destroying at least 1,500 homes and businesses and sendin
-
-### [The presiding judge Saban Maksumic of the Sarajevo, Bosnian war crimes court acquits former Bosnian military officer Naser Oric of the charge of killing three Bosnian Serb prisoners of war during the Bosnian War. In July 2008, the Appeals Chamber of the International Criminal Tribunal for the former Yugoslavia in the Netherlands acquitted Oric for failing to prevent the deaths of five Bosnian Serb detainees and the mistreatment of eleven other detainees from late 1992 to early 1993. ](/news/2017/10/9/the-presiding-judge-a-aban-maksumia-of-the-sarajevo-bosnian-war-crimes-court-acquits-former-bosnian-military-officer-naser-oria-of-the-ch.md)
-_Context: Bosnian, Bosnian Serb, Bosnian War, International Criminal Tribunal for the former Yugoslavia, Naser Oric, Netherlands, Sarajevo, prisoners of war_
-
----
-
-## [Previous Day...](/news/2017/10/8/index.md)
+## [Previous Day...](/news/2017/10/9/index.md)
 
 ---
 

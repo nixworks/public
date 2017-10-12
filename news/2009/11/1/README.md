@@ -16,7 +16,7 @@ Armed group Mend says Niger Delta could be on the brink of renewed violence.
 _Context: Philippines, Typhoon Mirinae_
 
 ### [ China's legislature sacks the country's education minister, Zhou Ji, amid a corruption scandal, replacing him with his deputy Yuan Guiren. ](/news/2009/11/1/china-s-legislature-sacks-the-country-s-education-minister-zhou-ji-amid-a-corruption-scandal-replacing-him-with-his-deputy-yuan-guiren.md)
-_Context: Yuan Guiren, Zhou Ji, anti-corruption_
+_Context: Yuan Guiren, Zhou Ji, corruption_
 
 ### [ Six Uyghurs detained at Guantanamo Bay detention camp are released by the United States and resettled in Palau. ](/news/2009/11/1/six-uyghurs-detained-at-guantanamo-bay-detention-camp-are-released-by-the-united-states-and-resettled-in-palau.md)
 _Context: Guantanamo Bay Detention Camp, Palau, Uyghur_

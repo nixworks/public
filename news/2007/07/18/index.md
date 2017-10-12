@@ -7,7 +7,7 @@ _Context: TAM Linhas Areas Flight 3054_
 _Context: Grand Central Terminal, Midtown, New York City, evacuation centers, steam pipe explodes_
 
 ### [ A study in "Nature" confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-artois.md)
-_Context: Europe, Great Britain, Nature, Weald-Artois Anticline, flood, island_
+_Context: ''Nature'', Europe, Great Britain, Weald-Artois Anticline, flood, island_
 
 ### [ Florida Governor Charlie Crist ends the state's temporary voluntary moratorium on the death penalty by signing the death warrant of Mark Dean Schwab, convicted in 1992 of kidnapping, raping and murdering an 11-year-old boy in Cocoa, Florida. He is scheduled to die on November 15, 2007. ](/news/2007/07/18/florida-governor-charlie-crist-ends-the-state-s-temporary-voluntary-moratorium-on-the-death-penalty-by-signing-the-death-warrant-of-mark-de.md)
 _Context: 1992, Charlie Crist, Cocoa, Florida, Florida, Florida Governor, Mark Dean Schwab, capital punishment, death warrant, moratorium_

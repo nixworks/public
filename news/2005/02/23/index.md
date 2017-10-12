@@ -13,7 +13,7 @@ _Context: Bhutan, tobacco smoking_
 _Context: E Kaushalyan, Sri Lanka, Tamil Tigers, ceasefire_
 
 ### [ Pakistan's supreme court refuses a government request to withdraw a corruption case against minister Faisal Saleh Hayat. ](/news/2005/02/23/pakistan-s-supreme-court-refuses-a-government-request-to-withdraw-a-corruption-case-against-minister-faisal-saleh-hayat.md)
-_Context: Faisal Saleh Hayat, Pakistan, Supreme Court, anti-corruption_
+_Context: Faisal Saleh Hayat, Pakistan, Supreme Court, corruption_
 
 ### [ Rasim Delic, former commander of the Bosnian army in Bosnia during the Yugoslav Wars, announces he will hand himself over to the UN Tribunal. He stands accused of war crimes against ethnic Serbs ](/news/2005/02/23/rasim-delia-former-commander-of-the-bosnian-army-in-bosnia-during-the-yugoslav-wars-announces-he-will-hand-himself-over-to-the-un-tribun.md)
 _Context: Bosnia and Herzegovina, International Criminal Tribunal for the former Yugoslavia, Rasim Delic, Serb, Yugoslav Wars, war crime_

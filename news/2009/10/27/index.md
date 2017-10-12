@@ -28,7 +28,7 @@ _Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand
 _Context: Honduras, Robert Micheletti_
 
 ### [ A British couple are missing after their yacht is hijacked by Somali pirates off the Seychelles. ](/news/2009/10/27/a-british-couple-are-missing-after-their-yacht-is-hijacked-by-somali-pirates-off-the-seychelles.md)
-_Context: British, Seychelles, Somali pirates_
+_Context: Seychelles, Somali pirates, United Kingdom_
 
 ### [ North Korea says a South Korean man has defected to the North across the Korean Demilitarized Zone. ](/news/2009/10/27/north-korea-says-a-south-korean-man-has-defected-to-the-north-across-the-korean-demilitarized-zone.md)
 _Context: Korean Demilitarized Zone, North Korea, South Korea_

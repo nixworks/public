@@ -37,7 +37,7 @@ _Context: Indonesia, polio_
 _Context: Berlin, Berlin Wall, Germany, memorial_
 
 ### [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption. ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md)
-_Context: Alberto Fujimori, Peru, anti-corruption, murder_
+_Context: Alberto Fujimori, Peru, corruption, murder_
 
 ### [ In Austria, state prosecutors investigate allegations that Iran's president-elect Mahmoud Ahmadinejad would have been involved with the 1989 assassination of Kurdish leader Abdul Rahman Ghassemlou in Vienna. ](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.md)
 _Context: 1989, Abdul Rahman Ghassemlou, Austria, Iran, Kurd, Mahmoud Ahmadinejad, Vienna_

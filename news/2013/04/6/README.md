@@ -25,7 +25,7 @@ Ikea confirms its has withdrawn nearly 18,000 of its elk meat lasagne dishes fro
 Egyptian security officials say five people have been killed in clashes between Muslims and Christians just outside Cairo.
 
 ### [A 24-year-old British tourist is found dead in a houseboat in Jammu and Kashmir, India. ](/news/2013/04/6/a-24-year-old-british-tourist-is-found-dead-in-a-houseboat-in-jammu-and-kashmir-india.md)
-_Context: British, India, Jammu and Kashmir, houseboat_
+_Context: India, Jammu and Kashmir, United Kingdom, houseboat_
 
 ### [Former South African president Nelson Mandela is discharged after spending nine days in hospital. ](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.md)
 Former president Nelson Mandela has been discharged after spending nine days in hospital for treatment for pneumonia, the presidency says. 

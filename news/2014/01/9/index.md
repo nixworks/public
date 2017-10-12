@@ -49,7 +49,7 @@ _Context: Indonesia, Sinabung_
 _Context: Cuba, Havana, Straits of Florida, magnitude earthquake_
 
 ### [The first conjoined twin gray whales are found in Mexico. ](/news/2014/01/9/the-first-conjoined-twin-gray-whales-are-found-in-mexico.md)
-_Context: Mexican, conjoined twin, gray whale_
+_Context: Mexico, conjoined twin, gray whale_
 
 ## [Previous Day...](/news/2014/01/8/index.md)
 

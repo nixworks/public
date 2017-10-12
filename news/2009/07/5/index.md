@@ -19,19 +19,19 @@ _Context: Cairo, Republic of Ireland, Sudan_
 _Context: 2009 Wimbledon Championships, Andy Roddick, Roger Federer, men's singles_
 
 ### [ An Iranian political analyst employed by the British embassy in Tehran faces a lengthy prison sentence after being charged with "acting against national security". ](/news/2009/07/5/an-iranian-political-analyst-employed-by-the-british-embassy-in-tehran-faces-a-lengthy-prison-sentence-after-being-charged-with-acting-aga.md)
-_Context: British, Iran, Tehran_
+_Context: Iran, Tehran, United Kingdom_
 
 ### [ Two British service personnel participating in Operation "Panther's Claw" are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
-_Context: Afghanistan, British, Operation Panther's Claw_
+_Context: Afghanistan, Operation Panther's Claw, United Kingdom_
 
 ### [ Five people die in an explosion outside a Catholic cathedral in Cotabato, Mindanao, Philippines. ](/news/2009/07/5/five-people-die-in-an-explosion-outside-a-catholic-cathedral-in-cotabato-mindanao-philippines.md)
 A bomb exploded outside a church in the southern Philippines during Sunday morning Mass, killing five people and wounding 45, &hellip;
 
 ### [ Mexico holds its legislative election. ](/news/2009/07/5/mexico-holds-its-legislative-election.md)
-_Context: Mexican, legislative election_
+_Context: Mexico, legislative election_
 
 ### [ A security operation is conducted to protect the personal details of British diplomat John Sawers. ](/news/2009/07/5/a-security-operation-is-conducted-to-protect-the-personal-details-of-british-diplomat-john-sawers.md)
-_Context: British, John Sawers, diplomatic_
+_Context: John Sawers, United Kingdom, diplomatic_
 
 ### [ Italian Prime Minister Silvio Berlusconi is embarrassed by a lesbian kiss at his Sardinian estate. ](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.md)
 _Context: Italian Prime Minister, Italy, Sardinia, Silvio Berlusconi, lesbian_

@@ -22,7 +22,7 @@ _Context: Chauncey Bailey, Oakland, California, The Oakland Post, Your Black Mus
 The Canadian Government is giving up its quest to suppress a controversial judicial report on the case a Canadian citizen falsely accused of terrorist links.
 
 ### [ Mexican archaeologists announce the discovery of what is believed to be the tomb of Aztec emperor Ahuitzotl. ](/news/2007/08/3/mexican-archaeologists-announce-the-discovery-of-what-is-believed-to-be-the-tomb-of-aztec-emperor-ahuitzotl.md)
-_Context: Ahuitzotl, Aztec, Mexican_
+_Context: Ahuitzotl, Aztec, Mexico_
 
 ### [ Russia says that it will launch a criminal case against Andrei Lugovoi if the United Kingdom provides it with convincing evidence of Lugovoi's involvement in the murder of Alexander Litvinenko. ](/news/2007/08/3/russia-says-that-it-will-launch-a-criminal-case-against-andrei-lugovoi-if-the-united-kingdom-provides-it-with-convincing-evidence-of-lugovo.md)
 Russia says it might launch a criminal case against Andrei Lugovoi, whose extradition Britain is seeking on charges of murdering emigre Alexander Litvinenko, if London provides enough proof of his guilt.

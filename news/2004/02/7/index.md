@@ -1,7 +1,7 @@
 ## [2004-02-7](/news/2004/02/7/index.md)
 
 ### [ Nearly 400 members of Yasser Arafat's Fatah faction of the Palestine Liberation Organization resign in protest over corruption, mismanagement and a lack of direction with Fatah. [http:--www.washingtonpost.com-wp-dyn-articles-A22149-2004Feb7.html] date=August 2015 bot=RjwilmsiBot ](/news/2004/02/7/nearly-400-members-of-yasser-arafat-s-fatah-faction-of-the-palestine-liberation-organization-resign-in-protest-over-corruption-mismanageme.md)
-_Context: Fatah, Palestine Liberation Organization's, Yasser Arafat, anti-corruption_
+_Context: Fatah, Palestine Liberation Organization's, Yasser Arafat, corruption_
 
 ### [ U.S. Presidential Election, 2004: In the race for the Democratic presidential nomination, Senator John Kerry wins the caucuses in Michigan and Washington.](/news/2004/02/7/u-s-presidential-election-2004-in-the-race-for-the-democratic-presidential-nomination-senator-john-kerry-wins-the-caucuses-in-michigan.md)
 _Context: Democratic, Democratic presidential nomination, John Kerry_

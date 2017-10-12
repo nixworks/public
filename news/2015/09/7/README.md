@@ -13,7 +13,7 @@ A federal aviation investigator is expected to examine the scene of a plane cras
 Several hundred Arabs, Asians and Africans tired of waiting for buses broke through Hungarian police lines near the Serbian border Monday and marched north on the main highway to Budapest.
 
 ### [The United Kingdom House of Commons passes a bill to conduct a planned referendum on the United Kingdom's continued membership in the European Union. ](/news/2015/09/7/the-united-kingdom-house-of-commons-passes-a-bill-to-conduct-a-planned-referendum-on-the-united-kingdom-s-continued-membership-in-the-europe.md)
-_Context: British, EU, United Kingdom House of Commons_
+_Context: EU, United Kingdom, United Kingdom House of Commons_
 
 ### [Just before the Brooklyn, New York West Indian J'ouvert Labor Day Carnival, lawyer Carey Gabay is shot in the head and critically wounded, caught in crossfire between feuding gangs. Two others are wounded in shootings and one man is stabbed to death. ](/news/2015/09/7/just-before-the-brooklyn-new-york-west-indian-j-ouvert-labor-day-carnival-lawyer-carey-gabay-is-shot-in-the-head-and-critically-wounded-c.md)
 The Harvard-educated first deputy counsel to New York Gov. Andrew Cuomo was shot in the head in Brooklyn this morning, in what the governor called a &quot;random event.&quot; Around 3:45 a.m., Carey Gabay and his brother were walking by an argument where shots were fired, according to ABC station WA...

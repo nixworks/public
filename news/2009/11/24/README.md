@@ -31,7 +31,7 @@ President Dmitry Medvedev of Russia has ordered an investigation into the death 
 _Context: EU, European Parliament_
 
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
-_Context: British, Iraq War, inquiry opens_
+_Context: Iraq War, United Kingdom, inquiry opens_
 
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
 _Context: Beninese, Ukraine_

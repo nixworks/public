@@ -10,7 +10,7 @@ _Context: Breeders' Cup Classic, Curlin, George Washington, Monmouth Park, eutha
 _Context: Democratic Republic of the Congo, flood_
 
 ### [ Some fires are reported in the Mexican state of Baja California, south of the U.S. border, but these are generally brought fairly swiftly under control. ](/news/2007/10/27/some-fires-are-reported-in-the-mexican-state-of-baja-california-south-of-the-u-s-border-but-these-are-generally-brought-fairly-swiftly-u.md)
-_Context: Baja California, Mexican, U.S. border_
+_Context: Baja California, Mexico, U.S. border_
 
 ### [ Yu Zhengsheng leaves his post as CPC party chief of Hubei to replace newly promoted Politburo Standing Committee member Xi Jinping as Shanghai party chief. ](/news/2007/10/27/yu-zhengsheng-leaves-his-post-as-cpc-party-chief-of-hubei-to-replace-newly-promoted-politburo-standing-committee-member-xi-jinping-as-shang.md)
 _Context: CPC party chief, Hubei, Politburo Standing Committee, Shanghai, Xi Jinping, Yu Zhengsheng_

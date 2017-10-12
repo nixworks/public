@@ -31,7 +31,7 @@ _Context: Jaber Al-Mubarak Al-Hamad Al-Sabah, Prime Minister of Kuwait, parliame
 _Context: Adamawa State, Nigeria, People's Democratic Party_
 
 ### [The ruling Mexican National Action Party (PAN) endorses Josefina Vzquez Mota as its candidate for the Presidential election, the first time that a major Mexican party has endorsed a woman to run for President of Mexico. ](/news/2012/02/5/the-ruling-mexican-national-action-party-pan-endorses-josefina-vazquez-mota-as-its-candidate-for-the-presidential-election-the-first-time.md)
-_Context: Josefina Vzquez Mota, Mexican, Mexican presidential elections, National Action Party (PAN), President_
+_Context: Josefina Vzquez Mota, Mexican presidential elections, Mexico, National Action Party (PAN), President_
 
 ## [Previous Day...](/news/2012/02/4/index.md)
 

@@ -25,7 +25,7 @@ _Context: Apple Computer_
 _Context: Kyodo News Agency_
 
 ### [ Population of the United Kingdom reaches over 60 million for the first time in history. ](/news/2006/08/24/population-of-the-united-kingdom-reaches-over-60-million-for-the-first-time-in-history.md)
-_Context: British, population_
+_Context: United Kingdom, population_
 
 ## [Previous Day...](/news/2006/08/23/index.md)
 

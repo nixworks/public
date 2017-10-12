@@ -10,7 +10,7 @@ _Context: Hamas, Israel, Israeli-Palestinian conflict, Palestinian National Auth
 _Context: Auschwitz, Fateless, Holocaust, Hungary, Imre Kertsz, Nobel Prize for Literature_
 
 ### [ In the journal "Nature", anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.md)
-_Context: Chad, Nature, University of Michigan, anthropologist, fossil skull_
+_Context: ''Nature'', Chad, University of Michigan, anthropologist, fossil skull_
 
 ### [ The International Court of Justice grants sovereignty over the Bakassi peninsula to Cameroon and not Nigeria.](/news/2002/10/10/the-international-court-of-justice-grants-sovereignty-over-the-bakassi-peninsula-to-cameroon-and-not-nigeria.md)
 _Context: Bakassi, Cameroon, International Court of Justice, Nigeria_

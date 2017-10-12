@@ -13,7 +13,7 @@ Gov. David A. Paterson has directed all state agencies to begin to revise their 
 An international conference being held in Dublin has accepted a draft convention to ban the use of cluster munitions.
 
 ### [ Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. ](/news/2008/05/28/ehud-barak-the-defense-minister-of-israel-and-leader-of-the-labor-party-calls-for-the-resignation-of-the-prime-minister-of-israel-ehud-ol.md)
-_Context: Defense Minister, Ehud Barak, Ehud Olmert, Israeli Prime Minister, Labor Party, anti-corruption_
+_Context: Defense Minister, Ehud Barak, Ehud Olmert, Israeli Prime Minister, Labor Party, corruption_
 
 ### [ The Majlis of Iran elects Ali Larijani as its new Speaker. ](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.md)
 _Context: Ali Larijani, Majlis of Iran, Speaker_

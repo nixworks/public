@@ -37,7 +37,7 @@ The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kat
 _Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Station, al-Qaeda_
 
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
-_Context: Prime Minister, Sheikh Hasina, U.S., anti-corruption_
+_Context: Prime Minister, Sheikh Hasina, U.S., corruption_
 
 ### [ Stojan Zupljanin, a wartime Bosnian Serb police commander is arrested near Belgrade and will be sent to the Hague where he will face trial for alleged war crimes. ](/news/2008/06/11/stojan-a1-2upljanin-a-wartime-bosnian-serb-police-commander-is-arrested-near-belgrade-and-will-be-sent-to-the-hague-where-he-will-face-trial.md)
 _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, The Hague, war crimes_

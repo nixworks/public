@@ -7,7 +7,7 @@ _Context: Kyrgyzstan, Navi Pillay, the ongoing crisis_
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British, British Army, Secretary of State for Foreign and Commonwealth Affairs, William Hague_
+_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
 
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
 _Context: Rwanda, Uganda, United Nations, attacks_

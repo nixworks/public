@@ -13,7 +13,7 @@ Iran executed in public on Saturday three men convicted of involvement in a bomb
 _Context: 2009, Chelsea F.C., Everton F.C., FA Cup, Final_
 
 ### [ Former Iraqi Trade Minister Abdel Falah al-Sudani is arrested at Baghdad International Airport for corruption. ](/news/2009/05/30/former-iraqi-trade-minister-abdel-falah-al-sudani-is-arrested-at-baghdad-international-airport-for-corruption.md)
-_Context: Abdel Falah al-Sudani, Baghdad International Airport, Iraq, Trade Minister, anti-corruption_
+_Context: Abdel Falah al-Sudani, Baghdad International Airport, Iraq, Trade Minister, corruption_
 
 ### [ Pakistan's military captures Mingora, Swat, from the Taliban. ](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.md)
 _Context: Mingora, Pakistan, Swat, Pakistan, Taliban, captures, military_

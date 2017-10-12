@@ -22,7 +22,7 @@ _Context: Jeremy Jaynes, U.S., spam_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ British carmaker MG Rover receives a loan of GBP6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-gbp6-5-million-from-the-british-government.md)
-_Context: British, MG Rover_
+_Context: MG Rover, United Kingdom_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
 _Context: ETA, Hernani, San Sebastin, Spain_
@@ -31,7 +31,7 @@ _Context: ETA, Hernani, San Sebastin, Spain_
 _Context: Italy, Marco Follini, Silvio Berlusconi, parliamentary election_
 
 ### [ In Mexico, Ral Gibb Guerrero, editor of "La Opinin" newspaper, who covered Mexican drug cartels is killed. ](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.md)
-_Context: La Opinin, Mexican, Ral Gibb Guerrero, drug cartel_
+_Context: La Opinin, Mexico, Ral Gibb Guerrero, drug cartel_
 
 ### [ A Haitian police team and UN peacekeepers kill a prominent gang leader Grenn Sonnen (Jean Anthony Rene) and five of his supporters in a shootout. ](/news/2005/04/10/a-haitian-police-team-and-un-peacekeepers-kill-a-prominent-gang-leader-grenn-sonnen-jean-anthony-rene-and-five-of-his-supporters-in-a-sho.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

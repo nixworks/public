@@ -34,7 +34,7 @@ _Context: Israel, Jerusalem, Leah, Mount Herzl, Yitzhak Rabin, cemetery, graffit
 _Context: 2004, Amnesty International, death penalty, execution_
 
 ### [ Nigerian President Olusegun Obasanjo fires his housing minister Alice Mobolaji Osomo for corruption in a housing scandal. ](/news/2005/04/4/nigerian-president-olusegun-obasanjo-fires-his-housing-minister-alice-mobolaji-osomo-for-corruption-in-a-housing-scandal.md)
-_Context: Alice Mobolaji Osomo, Nigeria, Olusegun Obasanjo, President, anti-corruption_
+_Context: Alice Mobolaji Osomo, Nigeria, Olusegun Obasanjo, President, corruption_
 
 ### [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md)
 _Context: Cote d'Ivoire, France, United Nations, United Nations Security Council, peacekeeper_

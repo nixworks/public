@@ -13,7 +13,7 @@ _Context: Guanica, Guayanilla Bay, Puerto Rico_
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_
 
 ### [ U.S. Democratic Party fundraiser Norman Hsu surrenders to the San Mateo County sheriff's office on a 15-year-old felony warrant. ](/news/2007/08/31/u-s-democratic-party-fundraiser-norman-hsu-surrenders-to-the-san-mateo-county-sheriff-s-office-on-a-15-year-old-felony-warrant.md)
-_Context: Democratic, Norman Hsu, San Mateo County, felons, sheriff, warrant_
+_Context: Democratic, Norman Hsu, San Mateo County, felony, sheriff, warrant_
 
 ### [ Twelve Chileans including a Catholic priest are charged for alleged involvement in death squads during the rule of General Augusto Pinochet. ](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.md)
 _Context: Augusto Pinochet, Catholic, Chile, death squad, priest_
@@ -31,7 +31,7 @@ Canadian police have arrested a man who was found carrying three bombs in the bo
 _Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
-_Context: British, England, Meteorological Office_
+_Context: England, Meteorological Office, United Kingdom_
 
 ### [ Mike Nifong, the prosecutor in the 2006 Duke University lacrosse case, is found in criminal contempt of court for lying to a judge in the case and is sentenced to a day in jail. ](/news/2007/08/31/mike-nifong-the-prosecutor-in-the-2006-duke-university-lacrosse-case-is-found-in-criminal-contempt-of-court-for-lying-to-a-judge-in-the-c.md)
 _Context: 2006 Duke University lacrosse case, Mike Nifong, contempt of court_

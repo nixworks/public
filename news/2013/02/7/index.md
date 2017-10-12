@@ -37,7 +37,7 @@ _Context: 2013 Southern California shootings, California State University, Fulle
 _Context: Chokri Belaid, Ennahda, Hamadi Jebali, Prime Minister of Tunisia, Tunisia_
 
 ### [UK Secretary of State for Education Michael Gove confirms that plans to replace the General Certificate of Secondary Education with a new English Baccalaureate qualification have been abandoned. ](/news/2013/02/7/uk-secretary-of-state-for-education-michael-gove-confirms-that-plans-to-replace-the-general-certificate-of-secondary-education-with-a-new-en.md)
-_Context: British, English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education_
+_Context: English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education, United Kingdom_
 
 ### [Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. ](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.md)
 _Context: Canadian Senator, Conservative Party's, Patrick Brazeau, caucus_

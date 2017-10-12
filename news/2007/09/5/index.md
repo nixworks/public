@@ -11,7 +11,7 @@ _Context: Brazilian Senate, Congress, Renan Calheiros_
 _Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu_
 
 ### [ 2007 Pacific hurricane season: Hurricane Henriette makes landfall near the port of Guaymas in the Mexican state of Sonora. ](/news/2007/09/5/2007-pacific-hurricane-season-hurricane-henriette-makes-landfall-near-the-port-of-guaymas-in-the-mexican-state-of-sonora.md)
-_Context: 2007 Pacific hurricane season, Guaymas, Mexican, Mexican state, Sonora_
+_Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
 
 ### [ The Prime Minister of the United Kingdom Gordon Brown launches the International Health Partnership consisting of the World Health Organisation, the World Bank, the Bill and Melinda Gates Foundation as well as the governments of the United Kingdom, Canada, France, Germany, Italy, the Netherlands, Norway and Portugal. ](/news/2007/09/5/the-prime-minister-of-the-united-kingdom-gordon-brown-launches-the-international-health-partnership-consisting-of-the-world-health-organisa.md)
 British Prime Minister Gordon Brown launched an international initiative, which aims to improve healthcare and sweep away killer diseases in some of the world&#039;s poorest countries.
@@ -32,7 +32,7 @@ Hurricane Felix killed at least 38 people on Nicaragua&#039;s Caribbean coast an
 _Context: Electricity, Lighting Africa, World Bank, sub-Saharan Africa_
 
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: British, Human Fertilisation and Embryology Authority, animal, embryo, human, hybrid_
+_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
 
 ### [ Norman Hsu, controversial fund-raiser for the U.S. Democratic Party, skips a bail hearing, prompting a new warrant for his arrest. ](/news/2007/09/5/norman-hsu-controversial-fund-raiser-for-the-u-s-democratic-party-skips-a-bail-hearing-prompting-a-new-warrant-for-his-arrest.md)
 The event unfolded like the judicial equivalent of a bride left at the altar.The mysterious political donor and fundraiser Norman Hsu was scheduled to appear in San Mateo County Superior Court on...

@@ -46,7 +46,7 @@ _Context: Indonesia, South Korea_
 _Context: President of Tunisia, Saudi Arabia, Zine El Abidine Ben Ali, extradite, government_
 
 ### [Fifty-three people are killed in a 72-hour period in Ciudad Juarez, Mexico. ](/news/2011/02/20/fifty-three-people-are-killed-in-a-72-hour-period-in-ciudad-juarez-mexico.md)
-_Context: Juarez, Mexican_
+_Context: Juarez, Mexico_
 
 ### [Italian politics's rising star Matteo Renzi, the Mayor of Florence, calls for the retirement of Silvio Berlusconi's generation, Berlusconi himself being "only six years younger than my granny". ](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.md)
 _Context: Matteo Renzi, Mayor of Florence, Silvio Berlusconi_

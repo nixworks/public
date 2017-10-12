@@ -31,7 +31,7 @@ _Context: Bluehenge, Stonehenge_
 Protesters thronged to a historic square in Rome to defend press freedom amid concerns of growing government interference in how the news is reported in Italy.
 
 ### [ It is revealed that the British security services kept a file on their former Prime Minister Harold Wilson throughout his time in office. ](/news/2009/10/3/it-is-revealed-that-the-british-security-services-kept-a-file-on-their-former-prime-minister-harold-wilson-throughout-his-time-in-office.md)
-_Context: British, Harold Wilson, Prime Minister_
+_Context: Harold Wilson, Prime Minister, United Kingdom_
 
 ### [ The 2009 Pacific Mini Games closes in the Cook Islands. Fiji comes in first with 78 medals, while New Caledonia wins 66 medals. ](/news/2009/10/3/the-2009-pacific-mini-games-closes-in-the-cook-islands-fiji-comes-in-first-with-78-medals-while-new-caledonia-wins-66-medals.md)
 _Context: 2009 Pacific Mini Games, Cook Islands, Fiji, New Caledonia_

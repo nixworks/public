@@ -37,7 +37,7 @@ _Context: Abu Sayyaf, Isabela City, Philippines_
 _Context: Pakistan_
 
 ### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
-_Context: 2010 general election, British, Conservative Party, David Cameron_
+_Context: 2010 general election, Conservative Party, David Cameron, United Kingdom_
 
 ### [All 103 passengers and crew escape alive after a Boeing 737-300 overruns the runway at Rendani Airport, Manokwari, Indonesia. ](/news/2010/04/13/all-103-passengers-and-crew-escape-alive-after-a-boeing-737-300-overruns-the-runway-at-rendani-airport-manokwari-indonesia.md)
 _Context: Boeing 737-300, Indonesia, Manokwari, Rendani Airport, overruns the runway_

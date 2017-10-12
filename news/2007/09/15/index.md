@@ -7,7 +7,7 @@ Thousands of people were evacuated as out-of-control wildfires tore through thou
 _Context: Afghanistan, Iran, NATO, Taliban, Washington Post_
 
 ### [ A bus crash in the western Mexican state of Nayarit kills at least 18 and injures 13. Many of the passengers were from a flight from Phoenix, Arizona, USA, to Guadalajara, Jalisco, that was forced to divert to Puerto Vallarta. ](/news/2007/09/15/a-bus-crash-in-the-western-mexican-state-of-nayarit-kills-at-least-18-and-injures-13-many-of-the-passengers-were-from-a-flight-from-phoeni.md)
-_Context: Guadalajara, Jalisco, Mexican, Mexican state, Nayarit, Phoenix, Arizona, Puerto Vallarta, USA_
+_Context: Guadalajara, Jalisco, Mexican state, Mexico, Nayarit, Phoenix, Arizona, Puerto Vallarta, USA_
 
 ### [ Over 190 anti-Iraq War protesters are arrested outside the United States Capitol. ](/news/2007/09/15/over-190-anti-iraq-war-protesters-are-arrested-outside-the-united-states-capitol.md)
 _Context: United States Capitol, anti-Iraq War_

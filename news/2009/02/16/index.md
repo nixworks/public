@@ -1,7 +1,7 @@
 ## [2009-02-16](/news/2009/02/16/index.md)
 
 ### [ Section 76 of the United Kingdom's Counter-Terrorism Act 2008&mdash;a law that criminalizes publishing information about the Armed Forces, the Security Service, the Secret Intelligence Service, or Government Communications Headquarters&mdash;is effected. ](/news/2009/02/16/section-76-of-the-united-kingdom-s-counter-terrorism-act-2008-mdash-a-law-that-criminalizes-publishing-information-about-the-armed-forces.md)
-_Context: British, British military personnel, Counter-Terrorism Act 2008, GCHQ, MI5, Secret Intelligence Service, criminalizes, information, law, publisher_
+_Context: British military personnel, Counter-Terrorism Act 2008, GCHQ, MI5, Secret Intelligence Service, United Kingdom, criminalizes, information, law, publisher_
 
 ### [ An Israeli lawyer convicted of defrauding Holocaust survivors is arrested for planning to flee the country. ](/news/2009/02/16/an-israeli-lawyer-convicted-of-defrauding-holocaust-survivors-is-arrested-for-planning-to-flee-the-country.md)
 _Context: Holocaust, Israel, fraud, survivors_
@@ -13,7 +13,7 @@ _Context: BitTorrent, Stockholm, Swedish, The Pirate Bay, tracker, trial_
 _Context: GDP, Japan, contracted, fiscal year_
 
 ### [ The British Royal Navy's nuclear submarine HMS "Vanguard" and the French Navy's "Le Triomphant" collide in the Atlantic Ocean on February 3 or 4. ](/news/2009/02/16/the-british-royal-navy-s-nuclear-submarine-hms-vanguard-and-the-french-navy-s-le-triomphant-collide-in-the-atlantic-ocean-on-february-3.md)
-_Context: ''Le Triomphant'', 4, Atlantic Ocean, British, February 3, France, French naval, HMS ''Vanguard'', Royal Navy, collide, nuclear submarine_
+_Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, France, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
 
 ### [ Protesters and police clash in Guadeloupe as part of general strikes. ](/news/2009/02/16/protesters-and-police-clash-in-guadeloupe-as-part-of-general-strikes.md)
 _Context: Guadeloupe, ongoing general strikes, police, protest_

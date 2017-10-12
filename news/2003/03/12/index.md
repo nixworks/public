@@ -4,7 +4,7 @@
 _Context: Serbia, Zoran indic_
 
 ### [ Vicente Fox, president of Mexico, undergoes emergency back surgery for a herniated disc.](/news/2003/03/12/vicente-fox-president-of-mexico-undergoes-emergency-back-surgery-for-a-herniated-disc.md)
-_Context: Mexican, Vicente Fox, herniated disc_
+_Context: Mexico, Vicente Fox, herniated disc_
 
 ### [ An Indonesian court convicts Brig.-Gen. Noer Moeis of crimes against humanity and sentences him to five years in prison for failing to prevent massacres in East Timor.](/news/2003/03/12/an-indonesian-court-convicts-brig-gen-noer-moeis-of-crimes-against-humanity-and-sentences-him-to-five-years-in-prison-for-failing-to-prev.md)
 _Context: East Timor, Indonesia, Noer Moeis_

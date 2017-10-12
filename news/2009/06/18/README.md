@@ -22,10 +22,10 @@ _Context: Canada_
 _Context: Belfast, Romanians_
 
 ### [ Chancellor Alistair Darling states there is "growing evidence" that government measures have stabilised the British banking system and economy. ](/news/2009/06/18/chancellor-alistair-darling-states-there-is-growing-evidence-that-government-measures-have-stabilised-the-british-banking-system-and-econ.md)
-_Context: Alistair Darling, British, Chancellor_
+_Context: Alistair Darling, Chancellor, United Kingdom_
 
 ### [ The expense claims of British Members of Parliament are published online. ](/news/2009/06/18/the-expense-claims-of-british-members-of-parliament-are-published-online.md)
-_Context: British, MP, MPs expenses_
+_Context: MP, MPs expenses, United Kingdom_
 
 ### [ The High Court rules that Suzanne Breen, an editor of the "Sunday Tribune", need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it-wo.md)
 A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand over interview notes on the Real IRA to the PSNI.

@@ -22,7 +22,7 @@ Three of the Irish passports used by those responsible for the killing of a seni
 _Context: Kenya, Mtwapa, organising a gay wedding_
 
 ### [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md)
-_Context: Belgium, British, France, Germany, Halle train collision, Netherlands_
+_Context: Belgium, France, Germany, Halle train collision, Netherlands, United Kingdom_
 
 ### [The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. ](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.md)
 _Context: Electoral Commission, Prime Minister of Ukraine, Supreme Administrative Court of Ukraine, Ukrainian presidential election, Viktor Yanukovych, Yulia Tymoshenko_
@@ -34,7 +34,7 @@ _Context: Reader's Digest, administration_
 Walgreen is buying the Duane Reade chain of 257 drugstores in the New York area for about $1.08 billion including assumption of debt.
 
 ### [Five southern Africans, including Archbishop Desmond Tutu, have their genomes analysed by scientists and published in "Nature", with Tutu excited to discover he is "related to the San people, the first people to inhabit Southern Africa". ](/news/2010/02/17/five-southern-africans-including-archbishop-desmond-tutu-have-their-genomes-analysed-by-scientists-and-published-in-nature-with-tutu-ex.md)
-_Context: Archbishop, Desmond Tutu, Nature, San people_
+_Context: ''Nature'', Archbishop, Desmond Tutu, San people_
 
 ### [Rwanda, the East African country that is embracing a transition to a Green economy, will be the global host of World Environment Day on 5 June 2010. ](/news/2010/02/17/rwanda-the-east-african-country-that-is-embracing-a-transition-to-a-green-economy-will-be-the-global-host-of-world-environment-day-on-5-ju.md)
 _Context: East Africa, Green economy, June 2010, Rwanda, World Environment Day_

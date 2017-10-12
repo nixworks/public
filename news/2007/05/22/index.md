@@ -4,7 +4,7 @@
 _Context: Canadian province, Gary Doer, Manitoba, Premier, general election. , parliamentary majority_
 
 ### [ Silas Rondeau, the Energy Minister of Brazil, resigns over allegations of corruption in a public works project. ](/news/2007/05/22/silas-rondeau-the-energy-minister-of-brazil-resigns-over-allegations-of-corruption-in-a-public-works-project.md)
-_Context: Brazil, Silas Rondeau, anti-corruption_
+_Context: Brazil, Silas Rondeau, corruption_
 
 ### [ 2007 Israel-Gaza conflict: A total of seven rockets were fired from the Gaza Strip and landed in western Negev. Another rocket landed in Sderot and killed an Israeli woman. In response, the IAF also fired missiles in an air strike at a munitions base, and secondary explosions were reported after the strike. The air strike wounded seven people in the attack on Jabaliya, Gaza City, according to local residents and hospital officials.](/news/2007/05/22/2007-israel-gaza-conflict-a-total-of-seven-rockets-were-fired-from-the-gaza-strip-and-landed-in-western-negev-another-rocket-landed-in-sd.md)
 Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wounded; hospital officials say pregnant woman, child among injured. IDF: Secondary explosions prove buildings used to store munitions 
@@ -22,7 +22,7 @@ _Context: A suicide attack, Ankara, Turkey, Ulus district_
 _Context: 2007, U.S., U.S.  National Oceanic and Atmospheric Administration, hurricane, tropical storm_
 
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, British, Crown Prosecution Service, KGB_
+_Context: Alexander Litvinenko, Andrei Lugovoi, Crown Prosecution Service, KGB, United Kingdom_
 
 ### [ Iraq War: A car bomb kills 25 people and injures at least 60 in a commercial area in southwestern Baghdad. ](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.md)
 _Context: Baghdad, Iraq War, car bomb_

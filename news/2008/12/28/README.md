@@ -7,7 +7,7 @@ _Context: fire_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The United States vetoes a United Nations Security Council resolution aimed at stopping Israeli airstrikes against Gaza. UN Secretary-General Ban Ki-moon and the United Kingdom, European Union, Russia, France, and China all call for a ceasefire. ](/news/2008/12/28/the-united-states-vetoes-a-united-nations-security-council-resolution-aimed-at-stopping-israeli-airstrikes-against-gaza-un-secretary-genera.md)
-_Context: Ban Ki-moon, British, China, EU, France, Russia, Secretary General, U.S., United Nations, United Nations Security Council, United Nations Security Council resolution, ceasefire, vetoes_
+_Context: Ban Ki-moon, China, EU, France, Russia, Secretary General, U.S., United Kingdom, United Nations, United Nations Security Council, United Nations Security Council resolution, ceasefire, vetoes_
 
 ### [ 2008 Garamba offensive: Uganda's People's Defence Force accuses the Lord's Resistance Army of hacking to death 45 people in a church in the Democratic Republic of the Congo. ](/news/2008/12/28/2008-garamba-offensive-uganda-s-people-s-defence-force-accuses-the-lord-s-resistance-army-of-hacking-to-death-45-people-in-a-church-in-the.md)
 _Context: 2008 Garamba offensive, Democratic Republic of the Congo, Lord's Resistance Army, Uganda, Ugandan soldier_
@@ -22,7 +22,7 @@ _Context: Department of Civil Defence, Sri Lanka, Wattala_
 _Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo_
 
 ### [ Mexican authorities arrest Army Major Arturo Gonzalez Rodriguez for selling information to the Beltran Leyva drug cartel. ](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.md)
-_Context: Gulf Cartel, Mexican, Mexican Army, drug cartel, major_
+_Context: Gulf Cartel, Mexican Army, Mexico, drug cartel, major_
 
 ### [ Four boats carrying approximately 1,700 illegal Libyan migrants arrive on the Italian island of Lampedusa. ](/news/2008/12/28/four-boats-carrying-approximately-1-700-illegal-libyan-migrants-arrive-on-the-italian-island-of-lampedusa.md)
 _Context: Italy, Lampedusa, Libya, illegal migrants, migrants_

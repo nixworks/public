@@ -7,7 +7,7 @@ _Context: North Korea_
 _Context: Maurice Gibb_
 
 ### [ Ariel Sharon and his Likud party are the target of continued accusations of political corruption.](/news/2003/01/12/ariel-sharon-and-his-likud-party-are-the-target-of-continued-accusations-of-political-corruption.md)
-_Context: Ariel Sharon, Likud, anti-corruption_
+_Context: Ariel Sharon, Likud, corruption_
 
 ### [ Steve Case announces his resignation as chairman of AOL after 18 years at the head of the company.](/news/2003/01/12/steve-case-announces-his-resignation-as-chairman-of-aol-after-18-years-at-the-head-of-the-company.md)
 _Context: AOL, Steve Case_

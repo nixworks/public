@@ -40,7 +40,7 @@ _Context: Hamaoka Nuclear Power Plant, Japanese Prime Minister, Naoto Kan, tecto
 _Context: Arctic, Russia, Taymyr, fleet, nuclear-powered icebreaker_
 
 ### [Rescuers recover a seventh body from inside a coal mine near Sabinas, Mexico, more than three days after an explosion there; seven remaining miners trapped inside are presumed dead. ](/news/2011/05/6/rescuers-recover-a-seventh-body-from-inside-a-coal-mine-near-sabinas-mexico-more-than-three-days-after-an-explosion-there-seven-remaining.md)
-_Context: Mexican, Sabinas_
+_Context: Mexico, Sabinas_
 
 ### [Spanish maritime rescue services look for 22 would-be immigrants missing after their boat capsized south of Spain. ](/news/2011/05/6/spanish-maritime-rescue-services-look-for-22-would-be-immigrants-missing-after-their-boat-capsized-south-of-spain.md)
 _Context: Spain_

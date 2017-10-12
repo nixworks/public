@@ -16,7 +16,7 @@ Former Thai PM stirs up diplomatic tensions as he takes up government advisory r
 KOALAS are rapidly vanishing from the Australian bush,and there may be as few as 43,000 left on the mainland, according to the biggest national survey of their populations attempted.
 
 ### [ Former President of French Polynesia Gaston Flosse is arrested as part of a corruption investigation. ](/news/2009/11/10/former-president-of-french-polynesia-gaston-flosse-is-arrested-as-part-of-a-corruption-investigation.md)
-_Context: French Polynesia, Gaston Flosse, President, anti-corruption_
+_Context: French Polynesia, Gaston Flosse, President, corruption_
 
 ### [ John Allen Muhammad, mastermind of the 2002 Beltway sniper attacks, is executed in Virginia. [http:--www.foxnews.com-story-0,2933,573829,00.html (AP via Fox News (US))]](/news/2009/11/10/john-allen-muhammad-mastermind-of-the-2002-beltway-sniper-attacks-is-executed-in-virginia-http-www-foxnews-com-story-0-2933-573829-00.md)
 _Context: Beltway sniper attacks, Capital punishment in the United States, John Allen Muhammad, Virginia_

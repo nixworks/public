@@ -17,7 +17,7 @@
 2. [Kenyans head to the polls to decide the fate of a potential new constitution. ](/news/2010/08/4/kenyans-head-to-the-polls-to-decide-the-fate-of-a-potential-new-constitution.md) _Context: Kenya, the new constitution_
 3. [Kenya deploys an additional 18,000 police officers as the country heads to the polls to decide the fate of a potential new constitution. ](/news/2010/08/3/kenya-deploys-an-additional-18-000-police-officers-as-the-country-heads-to-the-polls-to-decide-the-fate-of-a-potential-new-constitution.md) _Context: Kenya, the new constitution_
 4. [A new text service to report hate speech and to be monitored by the National Cohesion and Integration Commission is launched in Kenya ahead of the upcoming referendum on a new constitution. ](/news/2010/07/14/a-new-text-service-to-report-hate-speech-and-to-be-monitored-by-the-national-cohesion-and-integration-commission-is-launched-in-kenya-ahead.md) _Context: Kenya, the new constitution_
-5. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya_
+5. [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md) _Context: Kenya_
 
 ### Changes:
 

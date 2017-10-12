@@ -4,7 +4,7 @@
 _Context: BBC, London, Royal Albert Hall, The Proms_
 
 ### [ Tens of thousands of protesters begin their anticorruption protests, "Million Voices Against Corruption, President Chen Must Go", against President Chen Shui-bian in Taipei, Taiwan. ](/news/2006/09/9/tens-of-thousands-of-protesters-begin-their-anticorruption-protests-million-voices-against-corruption-president-chen-must-go-against-p.md)
-_Context: Chen Shui-bian, President, Taipei, Taiwan, anti-corruption, march_
+_Context: Chen Shui-bian, President, Taipei, Taiwan, corruption, march_
 
 ### [ Space Shuttle Atlantis lifts off from John F. Kennedy Space Center in Florida to begin STS-115. ](/news/2006/09/9/space-shuttle-atlantis-lifts-off-from-john-f-kennedy-space-center-in-florida-to-begin-sts-115.md)
 _Context: Florida, John F. Kennedy Space Center, STS-115, Space Shuttle Atlantis_

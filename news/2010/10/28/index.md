@@ -37,7 +37,7 @@ _Context: Central Military Commission, Xi Jinping_
 _Context: George Saitoti, Kenya, Moses Wetangula_
 
 ### [The Croatian government survives a motion of no confidence over economic problems and corruption. ](/news/2010/10/28/the-croatian-government-survives-a-motion-of-no-confidence-over-economic-problems-and-corruption.md)
-_Context: Croatia, anti-corruption, no confidence_
+_Context: Croatia, corruption, no confidence_
 
 ### [Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md)
 _Context: Burma, Than Shwe, general elections_

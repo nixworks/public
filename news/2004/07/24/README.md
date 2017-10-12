@@ -10,7 +10,7 @@ _Context: Baghdad, Egypt, Iraq, Mohamed Mamdouh Qutb_
 _Context: Karachi, Pakistan_
 
 ### [ In Mexico Judge Csar Flores refuses to authorize an arrest warrant for former president Luis Echeverra and other officials under the accusations of genocide for the killing of students during the "dirty war". Prosecutors are expected to appeal the decision. ](/news/2004/07/24/in-mexico-judge-cesar-flores-refuses-to-authorize-an-arrest-warrant-for-former-president-luis-echeverria-and-other-officials-under-the-accu.md)
-_Context: Dirty War, Luis Echeverra, Mexican, genocide_
+_Context: Dirty War, Luis Echeverra, Mexico, genocide_
 
 ### [ During the third inning of a New York Yankees-Boston Red Sox game at Fenway Park, Jason Varitek and Alex Rodriguez get into a fight, igniting a bench-clearing brawl. The Red Sox win the game 11-10 on a walk-off home run by Bill Mueller.](/news/2004/07/24/during-the-third-inning-of-a-new-york-yankees-boston-red-sox-game-at-fenway-park-jason-varitek-and-alex-rodriguez-get-into-a-fight-igniti.md)
 _Context: Alex Rodriguez, Boston Red Sox, Fenway Park, Jason Varitek, New York Yankees, walk-off home run_

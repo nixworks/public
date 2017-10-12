@@ -49,7 +49,7 @@ _Context: Iran hostage crisis, Mahmoud Ahmadinejad_
 _Context: Lewis, Western Isles Council, wind farm_
 
 ### [ In Brazil, president Luiz Incio Lula da Silva orders an investigation into allegations of corruption at the energy company Centrais Eletricas Brasileiras SA](/news/2005/06/30/in-brazil-president-luiz-inacio-lula-da-silva-orders-an-investigation-into-allegations-of-corruption-at-the-energy-company-centrais-eletri.md)
-_Context: Brazil, Centrais Eletricas Brasileiras SA, Luiz Incio Lula da Silva, anti-corruption_
+_Context: Brazil, Centrais Eletricas Brasileiras SA, Luiz Incio Lula da Silva, corruption_
 
 ### [ In Egypt, Ayman Ismail, co-defendant in the case of forged signatures with Ayman Nour, withdraws his guilty plea, stating that government security agents pressured him to do so.](/news/2005/06/30/in-egypt-ayman-ismail-co-defendant-in-the-case-of-forged-signatures-with-ayman-nour-withdraws-his-guilty-plea-stating-that-government-s.md)
 _Context: Ayman Ismail, Ayman Nour, Egypt_

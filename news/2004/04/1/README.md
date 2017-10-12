@@ -28,7 +28,7 @@ _Context: General, Palestinian, Palestinian Authority, payroll_
 _Context: Michael Hendricks and Ren Leboeuf, Quebec, same-sex marriage in Canada_
 
 ### [ Neil H. Shubin of the University of Chicago reports in the journal "Nature" the discovery of a 365-million-year-old forelimb in Pennsylvania, representing the evolution of fish to land-dwelling animals. ](/news/2004/04/1/neil-h-shubin-of-the-university-of-chicago-reports-in-the-journal-nature-the-discovery-of-a-365-million-year-old-forelimb-in-pennsylvani.md)
-_Context: Nature, Neil H. Shubin, Pennsylvania, University of Chicago_
+_Context: ''Nature'', Neil H. Shubin, Pennsylvania, University of Chicago_
 
 ### [ Voting begins in South Korean parliamentary elections.](/news/2004/04/1/voting-begins-in-south-korean-parliamentary-elections.md)
 ## [Previous Day...](/news/2004/03/31/index.md)

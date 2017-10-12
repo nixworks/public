@@ -10,7 +10,7 @@ _Context: Busan, Korea Train Express, Mokpo, Seoul, bullet train_
 _Context: MI5, MI6, The Guardian_
 
 ### [ The International Court of Justice rules that the US violated the rights of 51 Mexican citizens on death row for murder and orders a review of their cases. ](/news/2004/03/31/the-international-court-of-justice-rules-that-the-us-violated-the-rights-of-51-mexican-citizens-on-death-row-for-murder-and-orders-a-review.md)
-_Context: Capital punishment in the United States, International Court of Justice, Mexican, murder_
+_Context: Capital punishment in the United States, International Court of Justice, Mexico, murder_
 
 ### [ The controversial Higher Education Bill, which will introduce variable tuition fees in England and Wales, passes its third reading in the House of Commons by 316 votes to 288, despite many MPs still vocally opposed. The Bill's second reading in January was passed with a majority of only 5 votes. ](/news/2004/03/31/the-controversial-higher-education-bill-which-will-introduce-variable-tuition-fees-in-england-and-wales-passes-its-third-reading-in-the-h.md)
 _Context: British House of Commons, Higher Education Bill, Wales, second reading, third reading_

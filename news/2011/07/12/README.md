@@ -67,7 +67,7 @@ Police in Guatemala arrest two men in connection with the killing of Argentine s
 _Context: 2011 Tucson shooting, Jared Lee Loughner, United States Court of Appeals for the Ninth Circuit, antipsychotic_
 
 ### [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md)
-_Context: Halle Berry, Hollywood Hills, felons_
+_Context: Halle Berry, Hollywood Hills, felony_
 
 ### [CNN reports that the U.S. Bureau of Alcohol, Tobacco, Firearms, and Explosives has lost track of 1,400 guns involved in Operation Fast and Furious aimed at tracing the flow of weapons to Mexican drug cartels. ](/news/2011/07/12/cnn-reports-that-the-u-s-bureau-of-alcohol-tobacco-firearms-and-explosives-has-lost-track-of-1-400-guns-involved-in-operation-fast-and-f.md)
 _Context: Bureau of Alcohol, Tobacco, Firearms and Explosives, CNN, Mexican drug cartel, Operation Fast and Furious_

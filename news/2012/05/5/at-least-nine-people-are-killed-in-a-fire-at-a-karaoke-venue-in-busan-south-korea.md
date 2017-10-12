@@ -15,9 +15,9 @@
 2. [A subway train rear ends another in Busan, South Korea, injuring 40. ](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south-korea-injuring-40.md) _Context: Busan, South Korea_
 3. [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md) _Context: Busan, South Korea_
 4. [ Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. ](/news/2007/08/13/five-members-of-a-single-family-die-when-they-fall-from-a-ferris-wheel-car-at-an-amusement-park-outside-of-busan-south-korea.md) _Context: Busan, South Korea_
-5. [A South Korean lawmaker says that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-says-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the-s.md) _Context: South Korea_
+5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
 
 ### Changes:
 
-1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2017-10-10 03:41:34 (First version)_
+1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2017-10-11 03:41:56 (First version)_
 1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _(Current version)_

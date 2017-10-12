@@ -4,7 +4,7 @@
 _Context: Guatemala, Maya, San Antonio Senahu, mudslide_
 
 ### [ The murder weapon used to kill Leon Trotsky is purported to have surfaced in Mexico. ](/news/2005/06/17/the-murder-weapon-used-to-kill-leon-trotsky-is-purported-to-have-surfaced-in-mexico.md)
-_Context: Leon Trotsky, Mexican, murder_
+_Context: Leon Trotsky, Mexico, murder_
 
 ### [ A United Nations investigation has concluded that Rafik Hariri, the former Prime Minister of Lebanon, was killed by a truck bomb. ](/news/2005/06/17/a-united-nations-investigation-has-concluded-that-rafik-hariri-the-former-prime-minister-of-lebanon-was-killed-by-a-truck-bomb.md)
 _Context: Lebanon, Prime Minister, Rafik Hariri, United Nations, truck bomb_
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: 2004 presidential election, Chen Shui-bian, Supreme Court, Taiwan_
 
 ### [ In the United Kingdom, the Ugandan-born bishop of Birmingham Rt Rev Dr John Sentamu is named the new Archbishop of York. He is the first ever black person to be appointed an Archbishop of the Church of England. ](/news/2005/06/17/in-the-united-kingdom-the-ugandan-born-bishop-of-birmingham-rt-rev-dr-john-sentamu-is-named-the-new-archbishop-of-york-he-is-the-first-ev.md)
-_Context: Archbishop of York, Birmingham, British, Church of England, John Sentamu, Uganda, bishop_
+_Context: Archbishop of York, Birmingham, Church of England, John Sentamu, Uganda, United Kingdom, bishop_
 
 ### [ The Vatican announces that it has taken the unusual step of suspending the announced beatification of the Reverend Leon Dehon in order to investigate charges of anti-Semitism. ](/news/2005/06/17/the-vatican-announces-that-it-has-taken-the-unusual-step-of-suspending-the-announced-beatification-of-the-reverend-leon-dehon-in-order-to-i.md)
 _Context: Leon Dehon, Reverend, Roman Curia, anti-Semitism, beatified_

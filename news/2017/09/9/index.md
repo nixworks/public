@@ -19,7 +19,7 @@ _Context: 2017 Venice Film Festival, Guillermo del Toro, The Shape of Water_
 Aid workers responding to devastation from Hurricane Irma have been stalled by the next dangerous storm: Hurricane Jose.
 
 ### [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md)
-_Context: 2017 Chiapas earthquake, Chiapas, Mexican_
+_Context: 2017 Chiapas earthquake, Chiapas, Mexico_
 
 ### [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md)
 Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.

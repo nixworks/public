@@ -31,7 +31,7 @@ _Context: North Korea, United Nations, World Food Program, food aid_
 _Context: EPRDF, Ethiopia_
 
 ### [ In Nigeria, former education minister Fabian Osuji, former Senate leader Adolphus Wabara and 5 others go on trial for corruption. Osuji claims he is just a "scapegoat". ](/news/2005/05/16/in-nigeria-former-education-minister-fabian-osuji-former-senate-leader-adolphus-wabara-and-5-others-go-on-trial-for-corruption-osuji-cla.md)
-_Context: Adolphus Wabara, Fabian Osuji, Nigeria, anti-corruption_
+_Context: Adolphus Wabara, Fabian Osuji, Nigeria, corruption_
 
 ### [ Belgravia Gallery in London removes works with the signature of Nelson Mandela. Mandela has filed a lawsuit forbidding sale of any items using his name. ](/news/2005/05/16/belgravia-gallery-in-london-removes-works-with-the-signature-of-nelson-mandela-mandela-has-filed-a-lawsuit-forbidding-sale-of-any-items-us.md)
 _Context: Belgravia Gallery, London, Nelson Mandela_

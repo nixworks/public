@@ -64,7 +64,7 @@ _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 _Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
-_Context: British, British military personnel_
+_Context: British military personnel, United Kingdom_
 
 ### [Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. ](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.md)
 They&#39;re off the payroll until they decide about 2012.

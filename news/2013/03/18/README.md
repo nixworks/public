@@ -19,7 +19,7 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 _Context: China, DCNS, France, Japan_
 
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: Argentina, British, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina_
+_Context: Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_
 
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
 _Context: China, District of Columbia, North Korea, U.S., missile defence_

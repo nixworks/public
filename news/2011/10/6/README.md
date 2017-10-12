@@ -10,7 +10,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan, Toyota_
 The Bank of England says it will inject a further £75bn into the economy through quantitative easing (QE) but holds interest rates at 0.5%.
 
 ### [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md)
-_Context: Hurricane Jova, Mexican, Pacific Ocean_
+_Context: Hurricane Jova, Mexico, Pacific Ocean_
 
 ### [South Korea rejects North Korea's demands that two citizens from the north who crossed the border be repatriated. ](/news/2011/10/6/south-korea-rejects-north-korea-s-demands-that-two-citizens-from-the-north-who-crossed-the-border-be-repatriated.md)
 _Context: North Korea, South Korea_

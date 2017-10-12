@@ -55,7 +55,7 @@ _Context: Han, Wuhan, cargo ship, methanol, water quality_
 _Context: Sun Zhengcai, chemical, food_
 
 ### [ The interim Government of Bangladesh arrests former Prime Minister of Bangladesh Khaleda Zia and her son on corruption charges. ](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.md)
-_Context: Bangladesh, Khaleda Zia, Prime Minister, anti-corruption_
+_Context: Bangladesh, Khaleda Zia, Prime Minister, corruption_
 
 ### [ The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md)
 The Sydney Morning Herald 404 Page

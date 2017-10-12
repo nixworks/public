@@ -13,10 +13,10 @@ A man shot and killed his wife and five young children before taking his own lif
 _Context: Arthur Nadel, FBI, Florida, Hedge fund, U.S., fraud_
 
 ### [ The United Kingdom Information Tribunal orders Her Majesty's Government to release the minutes of Cabinet discussions regarding the 2003 invasion of Iraq. ](/news/2009/01/27/the-united-kingdom-information-tribunal-orders-her-majesty-s-government-to-release-the-minutes-of-cabinet-discussions-regarding-the-2003-in.md)
-_Context: 2003, 2003 invasion of Iraq, British, British Cabinet, His Majesty's Government, Information Tribunal, Iraq, minutes_
+_Context: 2003, 2003 invasion of Iraq, British Cabinet, His Majesty's Government, Information Tribunal, Iraq, United Kingdom, minutes_
 
 ### [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md)
-_Context: British, British motor industry, GBP, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, bailout_
+_Context: British motor industry, GBP, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, bailout_
 
 ### [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md)
 _Context: International Institute for Strategic Studies, Iran, enriched uranium, nuclear weapon, uranium_

@@ -25,7 +25,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 _Context: Dublin, Republic of Ireland, Women's Mini Marathon_
 
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)
-_Context: British, Movement for the Emancipation of the Niger Delta, Niger Delta, hostage_
+_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, United Kingdom, hostage_
 
 ### [ A man kills one soldier and injures another at a military recruitment center in Little Rock, Arkansas. ](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.md)
 A man with &quot;political and religious motives&quot; killed a soldier just out of basic training and wounded another Monday in a targeted attack on a military recruiting center, police said. 

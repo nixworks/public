@@ -19,10 +19,10 @@ _Context: Baghdad, Iraqi insurgency_
 _Context: Arizona, Utah, Warren Jeffs, Washington County, aiding, bigamy, extradited, fugitive, polygamy, rape_
 
 ### [ Israeli police, at the request of the British Embassy in Tel Aviv, captured a man who broke in to the Embassy and demanded asylum, threatening to kill himself if his demands were not met. ](/news/2006/08/31/israeli-police-at-the-request-of-the-british-embassy-in-tel-aviv-captured-a-man-who-broke-in-to-the-embassy-and-demanded-asylum-threaten.md)
-_Context: British, Israel, Tel Aviv, embassies_
+_Context: Israel, Tel Aviv, United Kingdom, embassies_
 
 ### [ The future of UK model manufacturer Airfix, founded in 1939, is in doubt after the financial collapse of parent company Humbrol. Company administrators declare they wish to sell the Airfix brand. ](/news/2006/08/31/the-future-of-uk-model-manufacturer-airfix-founded-in-1939-is-in-doubt-after-the-financial-collapse-of-parent-company-humbrol-company-ad.md)
-_Context: 1939, Airfix, British, Humbrol, administrators_
+_Context: 1939, Airfix, Humbrol, United Kingdom, administrators_
 
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
 _Context: Hezbollah, Hugo Chvez, Syria, Tom Casey, Venezuela_

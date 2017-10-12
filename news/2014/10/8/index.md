@@ -1,7 +1,7 @@
 ## [2014-10-8](/news/2014/10/8/index.md)
 
 ### [Mass graves found in Iguala, Mexico, on October 5th reportedly contain the remains of 28 of the 43 missing students that clashed with the police during last September. ](/news/2014/10/8/mass-graves-found-in-iguala-mexico-on-october-5th-reportedly-contain-the-remains-of-28-of-the-43-missing-students-that-clashed-with-the-po.md)
-_Context: Iguala, Mexican, clashed with the police during last September, mass graves_
+_Context: Iguala, Mexico, clashed with the police during last September, mass graves_
 
 ### [At least 19 Kurdish civilians were killed while protesting against the government's inaction in defending Kobani from ISIS advances. ](/news/2014/10/8/at-least-19-kurdish-civilians-were-killed-while-protesting-against-the-government-s-inaction-in-defending-kobani-from-isis-advances.md)
 Demonstrators protest government&#8217;s failure to act against Islamic State attacks on border city of Kobani

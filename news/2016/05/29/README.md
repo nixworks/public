@@ -25,7 +25,7 @@ Despite no longer being a tropical storm or depression, Bonnie will induce daily
 Ugandan President Yoweri Museveni said his country would halt security and military cooperation with North Korea, a South Korean official said following a summit in Kampala between Museveni and South Korean President Park Geun-hye.
 
 ### [Mexican international football player Alan Pulido, who plays for Olympiacos F.C., is kidnapped by masked men near his home in Ciudad Victoria, Tamaulipas. He is later rescued. ](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.md)
-_Context: Alan Pulido, Ciudad Victoria, Mexican, Olympiacos, Tamaulipas_
+_Context: Alan Pulido, Ciudad Victoria, Mexico, Olympiacos, Tamaulipas_
 
 ### [Gary Johnson, former Governor of New Mexico, secures the nomination for the Libertarian Party in the U.S. presidential election. Johnson picks former Massachusetts governor, and former Republican, William Weld as his running mate. ](/news/2016/05/29/gary-johnson-former-governor-of-new-mexico-secures-the-nomination-for-the-libertarian-party-in-the-u-s-presidential-election-johnson-pic.md)
 But his near-miss on the first ballot kicked off an afternoon of protests.

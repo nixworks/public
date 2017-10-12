@@ -43,7 +43,7 @@ Reuters.com for the weird, oddly enough stories.
 _Context: Kenya, Thomas P. G. Cholmondeley, insufficient evidence, murder_
 
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: British, Prime Minister, Tony Blair, migrants, national identity card_
+_Context: Prime Minister, Tony Blair, United Kingdom, migrants, national identity card_
 
 ### [ American alternative metal band System of a Down release their first installment of their double album, Mezmerize](/news/2005/05/17/american-alternative-metal-band-system-of-a-down-release-their-first-installment-of-their-double-album-mezmerize.md)
 _Context: Mezmerize, System of a Down, alternative metal_

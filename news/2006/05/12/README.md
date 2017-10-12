@@ -16,7 +16,7 @@ _Context: President, Yoweri Museveni, oath of office_
 _Context: Egypt_
 
 ### [ The U.S. FBI raids the home of Kyle "Dusty" Foggo, outgoing number three man at the CIA, in an investigation into political corruption, including the use of prostitutes and bribery in connection with lobbyist Brent Wilkes, revealed to be the "no. 1 unindicted co-conspirator" in the Randy "Duke" Cunningham scandal. ([http:--www.bloomberg.com-apps-news?pid=10000087&sid=ag5Q_Tt4DJMM&refer=top_world_news Bloomberg.com])](/news/2006/05/12/the-u-s-fbi-raids-the-home-of-kyle-dusty-foggo-outgoing-number-three-man-at-the-cia-in-an-investigation-into-political-corruption-inc.md)
-_Context: Brent Wilkes, CIA, FBI, Kyle "Dusty" Foggo, Randy "Duke" Cunningham, anti-corruption, lobbyist_
+_Context: Brent Wilkes, CIA, FBI, Kyle "Dusty" Foggo, Randy "Duke" Cunningham, corruption, lobbyist_
 
 ### [ Justin Gatlin breaks the world record in the 100 meter dash with a time of 9.76 seconds. ](/news/2006/05/12/justin-gatlin-breaks-the-world-record-in-the-100-meter-dash-with-a-time-of-9-76-seconds.md)
 Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.

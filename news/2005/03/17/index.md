@@ -10,7 +10,7 @@ _Context: China, Rebiya Kadeer, Uyghur, medical parole_
 _Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellick, United States Senate, United States Trade Representative_
 
 ### [ Transparency International (TI), a nonprofit which works against corruption, warns about US companies overcharging for the rebuilding of Iraq. A TI study showed that a multi-million-dollar deal was awarded to a US company only for it to sub-contract the work to an Iraqi firm for a fraction of the cost. ](/news/2005/03/17/transparency-international-ti-a-nonprofit-which-works-against-corruption-warns-about-us-companies-overcharging-for-the-rebuilding-of-ir.md)
-_Context: Iraq, Transparency International, anti-corruption_
+_Context: Iraq, Transparency International, corruption_
 
 ### [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md)
 _Context: Geneva, NGO, Switzerland, World Water Forum, privatization, water_

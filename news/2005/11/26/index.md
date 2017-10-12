@@ -16,7 +16,7 @@ _Context: China, Jiangxi, Ruichang, earthquake, magnitude_
 _Context: India, Vijaypat Singhania, hot air balloon_
 
 ### [ The British government suppresses further details of the Bush-Blair memo. (WikiNews)](/news/2005/11/26/the-british-government-suppresses-further-details-of-the-bush-blair-memo-wikinews.md)
-_Context: (WikiNews), Al Jazeera bombing memo, British_
+_Context: (WikiNews), Al Jazeera bombing memo, United Kingdom_
 
 ## [Previous Day...](/news/2005/11/25/index.md)
 

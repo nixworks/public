@@ -4,7 +4,7 @@
 _Context: 2004 elections, Gloria Macapagal Arroyo, Philippine electoral crisis, 2005, Philippines, Samuel Ong, whistleblower_
 
 ### [ The Colima volcano in Mexico increases its eruptive activity, with strong explosions. ](/news/2005/06/10/the-colima-volcano-in-mexico-increases-its-eruptive-activity-with-strong-explosions.md)
-_Context: Colima, Mexican_
+_Context: Colima, Mexico_
 
 ### [ The Bolivian Congress accepts the resignation of Carlos Mesa and names Supreme Court justice Eduardo Rodrguez as the new interim president ](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.md)
 _Context: Bolivia, Carlos Mesa, Eduardo Rodrguez_

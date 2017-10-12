@@ -7,7 +7,7 @@ _Context: Girija Prasad Koirala, President, Prime Minister, Ram Baran Yadav_
 _Context: Bonny Island, Movement for the Emancipation of the Niger Delta_
 
 ### [ The European Union suspends payments to two Bulgarian agencies due to concerns over corruption and organized crime. ](/news/2008/07/23/the-european-union-suspends-payments-to-two-bulgarian-agencies-due-to-concerns-over-corruption-and-organized-crime.md)
-_Context: Bulgaria, EU, anti-corruption, organization_
+_Context: Bulgaria, EU, corruption, organization_
 
 ### [ Cape Verde officially joins the World Trade Organization, becoming its 153rd member. ](/news/2008/07/23/cape-verde-officially-joins-the-world-trade-organization-becoming-its-153rd-member.md)
 _Context: Cape Verde, World Trade Organization_

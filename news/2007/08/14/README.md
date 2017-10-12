@@ -19,7 +19,7 @@ _Context: Afghanistan, Gardez, Polish, Taliban, War in Afghanistan (2001-present
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
 ### [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, Mexican, Texas, tropical depression, tropical storm_
+_Context: Gulf of Mexico, Mexico, Texas, tropical depression, tropical storm_
 
 ### [ A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. ](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.md)
 _Context: Bangladesh, Bangladesh Nationalist Party, extortion_
@@ -73,7 +73,7 @@ _Context: Algeria, Islamist, Larba, Mustapha Kartali, car bomb, guerrilla_
 _Context: Gaza, Israel Defense Forces, Palestinians, civilian_
 
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
-_Context: British, Pakistan, anniversary, independence_
+_Context: Pakistan, United Kingdom, anniversary, independence_
 
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
 _Context: Abdullah Gul, President of Turkey, Turkey_

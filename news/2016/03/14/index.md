@@ -7,7 +7,7 @@ Turkey begins operations against PKK Kurdish rebels at home and in Iraq, a day a
 _Context: Israeli, Israeli Defence Forces, Israeli-Palestinian conflict (2015-present), Palestinian_
 
 ### [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md)
-_Context: Mexican, Mexican Drug War, Reynosa_
+_Context: Mexican Drug War, Mexico, Reynosa_
 
 ### [A United Arab Emirates Air Force fighter jet crashes in a mountainous area near the southern Yemeni city of Aden, killing both pilots. ](/news/2016/03/14/a-united-arab-emirates-air-force-fighter-jet-crashes-in-a-mountainous-area-near-the-southern-yemeni-city-of-aden-killing-both-pilots.md)
 Two Emirati pilots were killed when their jet crashed during a mission against Houthi rebels in Yemen, the Saudi-led coalition says.

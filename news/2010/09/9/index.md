@@ -31,7 +31,7 @@ _Context: Iran, Sarah Shourd, U.S., United Nations, diplomat_
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.
 
 ### [Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. ](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.md)
-_Context: China, Shandong, anti-corruption, bribe_
+_Context: China, Shandong, bribe, corruption_
 
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
 _Context: Manila Police District, Manila hostage crisis, Philippines_

@@ -43,7 +43,7 @@ Police are searching for three men in connection with a &#36;6 million New Year&
 The Church of Norway and the Norwegian government are set to go their separate ways at the beginning of 2017 after almost 500 years of being together.
 
 ### [Quirino Ordaz Coppel is sworn in as Governor of the Mexican state of Sinaloa. ](/news/2017/01/1/quirino-ordaz-coppel-is-sworn-in-as-governor-of-the-mexican-state-of-sinaloa.md)
-_Context: Governor, Mexican, Quirino Ordaz Coppel, Sinaloa_
+_Context: Governor, Mexico, Quirino Ordaz Coppel, Sinaloa_
 
 ## [Previous Day...](/news/2016/12/31/index.md)
 

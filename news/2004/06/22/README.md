@@ -16,7 +16,7 @@ Get the latest breaking news and headlines from the largest Arab News website. G
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ### [ Francisco Ortiz Franco, editor of Mexican newsweekly "Zeta," is ambushed and killed by gunmen in Tijuana. Ortiz Franco and "Zeta" were particularly well known for their work in investigating drug trafficking and reporting government corruption. ](/news/2004/06/22/francisco-ortiz-franco-editor-of-mexican-newsweekly-zeta-is-ambushed-and-killed-by-gunmen-in-tijuana-ortiz-franco-and-zeta-were-part.md)
-_Context: Francisco Ortiz Franco, Mexican, Tijuana, Zeta_
+_Context: Francisco Ortiz Franco, Mexico, Tijuana, Zeta_
 
 ## [Previous Day...](/news/2004/06/21/index.md)
 

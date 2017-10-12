@@ -13,7 +13,7 @@ _Context: Hungary, crowds of about 1,000 demonstrators, revolt against Soviet ru
 _Context: Ham Lini, Manasseh Sogavare, Michael Somare, Prime Minister, Prime Minister of Vanuatu, Solomon Islands Prime Minister_
 
 ### [ Hurricane Paul becomes a Category 2 hurricane off Mexico's Pacific coast as it heads for Baja California. ](/news/2006/10/23/hurricane-paul-becomes-a-category-2-hurricane-off-mexico-s-pacific-coast-as-it-heads-for-baja-california.md)
-_Context: Baja California, Hurricane Paul, Mexican, Pacific Ocean, Saffir-Simpson Hurricane Scale, hurricane_
+_Context: Baja California, Hurricane Paul, Mexico, Pacific Ocean, Saffir-Simpson Hurricane Scale, hurricane_
 
 ### [ Two of the three people accused of plotting to steal trade secrets from Coca-Cola have each pleaded guilty to one count of conspiracy. ](/news/2006/10/23/two-of-the-three-people-accused-of-plotting-to-steal-trade-secrets-from-coca-cola-have-each-pleaded-guilty-to-one-count-of-conspiracy.md)
 _Context: Coca-Cola, conspiracy_

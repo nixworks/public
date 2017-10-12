@@ -22,7 +22,7 @@ _Context: Fuquan, Guizhou_
 _Context: 2014 West Africa Ebola virus outbreak, Senegal, ebola virus_
 
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: British, Iraq, Syria, terror threat level_
+_Context: Iraq, Syria, United Kingdom, terror threat level_
 
 ## [Previous Day...](/news/2014/08/28/index.md)
 

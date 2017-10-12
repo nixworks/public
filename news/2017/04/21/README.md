@@ -10,7 +10,7 @@ _Context: Amaq News Agency, Federal Security Service, ISIL, Khabarovsk, Russia, 
 The monarch marks the milestone at Newbury Racecourse, while volleys are fired in her honour.
 
 ### [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md)
-_Context: Bob's Stores, British, Eastern Mountain Sports, Sports Direct_
+_Context: Bob's Stores, Eastern Mountain Sports, Sports Direct, United Kingdom_
 
 ### [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md)
 The minibus exploded into a fireball and ended up on its side, trapping the victims inside.

@@ -5,7 +5,7 @@
 _Context: Japan, Korea's colonial occupation, Liancourt Rocks, South Korea, schoolbooks_
 
 ### [ Tony Blair calls the General Election in the United Kingdom for May 5, 2005, on the same day as the local elections. ](/news/2005/04/5/tony-blair-calls-the-general-election-in-the-united-kingdom-for-may-5-2005-on-the-same-day-as-the-local-elections.md)
-_Context: 2005 general election, British, Tony Blair_
+_Context: 2005 general election, Tony Blair, United Kingdom_
 
 ### [ Five Guatemalan politicians are convicted of racial discrimination for taunts hurled at Rigoberta Mench. ](/news/2005/04/5/five-guatemalan-politicians-are-convicted-of-racial-discrimination-for-taunts-hurled-at-rigoberta-menchu.md)
 _Context: Guatemala, Rigoberta Mench, racial discrimination_

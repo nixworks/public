@@ -7,10 +7,10 @@ laskerfoundation.org, Official website of the Lasker Foundation
 Italian media report security around Benedict XVI tightened following harsh responses to his remarks on Islam; pope expected to deliver weekly sermon from his summer home on Sunday, but it remains unclear whether he will address international uproar 
 
 ### [ Hurricane Lane strengthens to a Category 3 hurricane with nearly 125 mph winds as it approaches Mexico's Pacific coast. ](/news/2006/09/16/hurricane-lane-strengthens-to-a-category-3-hurricane-with-nearly-125-mph-winds-as-it-approaches-mexico-s-pacific-coast.md)
-_Context: Category 3 hurricane, Hurricane Lane, Mexican, Pacific_
+_Context: Category 3 hurricane, Hurricane Lane, Mexico, Pacific_
 
 ### [ Darfur conflict: On the eve of the International Day for Darfur, British Prime Minister Tony Blair insists the government of Sudan must start to "live up to its obligations" towards the war-torn region. ](/news/2006/09/16/darfur-conflict-on-the-eve-of-the-international-day-for-darfur-british-prime-minister-tony-blair-insists-the-government-of-sudan-must-sta.md)
-_Context: British, Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair_
+_Context: Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair, United Kingdom_
 
 ### [ Iraq insurgency: Baghdad police find 47 corpses across the city, most bound and shot, thought to be more victims of the ongoing sectarian killing that has been taking place in the region and appears aimed at provoking civil war. ](/news/2006/09/16/iraq-insurgency-baghdad-police-find-47-corpses-across-the-city-most-bound-and-shot-thought-to-be-more-victims-of-the-ongoing-sectarian-k.md)
 _Context: Baghdad, civil war, insurgents, sectarian_

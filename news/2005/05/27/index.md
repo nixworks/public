@@ -22,7 +22,7 @@ _Context: Director-General, EU, Pascal Lamy, World Trade Organization_
 _Context: Basque, Basque, ETA, Madrid, Spain, abstain_
 
 ### [ The planned 48 hour strike at the BBC in Britain is called off, unions announce, following talks. ](/news/2005/05/27/the-planned-48-hour-strike-at-the-bbc-in-britain-is-called-off-unions-announce-following-talks.md)
-_Context: BBC, British_
+_Context: BBC, United Kingdom_
 
 ### [ 14 people die as a bomb explodes near a shrine in Islamabad, Pakistan. ](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.md)
 _Context: Islamabad, Pakistan_

@@ -34,7 +34,7 @@ Complete coverage of the entertainment industry, TV, Music, Movies, celebrities,
 _Context: Belfast, GBP, Northern Bank, Northern Ireland_
 
 ### [ Pakistan's Anti Terrorism Court cancels the bail of Asif Ali Zardari, leader of the Pakistan Peoples Party and husband of Benazir Bhutto. Zardari was released last month after eight years in prison. He was charged with corruption and conspiracy to murder. ](/news/2004/12/21/pakistan-s-anti-terrorism-court-cancels-the-bail-of-asif-ali-zardari-leader-of-the-pakistan-peoples-party-and-husband-of-benazir-bhutto-z.md)
-_Context: Asif Ali Zardari, Benazir Bhutto, Pakistan, Pakistan Peoples Party, anti-corruption, bail, conspiracy, murder_
+_Context: Asif Ali Zardari, Benazir Bhutto, Pakistan, Pakistan Peoples Party, bail, conspiracy, corruption, murder_
 
 ### [ A court in Chile upholds the indictment and house arrest of Augusto Pinochet. Prosecution lawyers claim that his hospitalization for a heart condition was a political ploy. Pinochet's lawyers intend to appeal. ](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.md)
 _Context: Augusto Pinochet, Chile_

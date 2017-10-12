@@ -55,7 +55,7 @@ President Mahmoud Ahmadinejad addresses thousands in Tehran, saying that Middle 
 An Australian Muslim cleric has reportedly called for the beheading of the Dutch anti-Islam MP Geert Wilders, for denigrating Islam.
 
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: British, Royal Mail, image recognition, postage stamp_
+_Context: Royal Mail, United Kingdom, image recognition, postage stamp_
 
 ### [A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with-m.md)
 _Context: cerebral cortex, mushroom bodies_

@@ -55,7 +55,7 @@ _Context: Christmas, Colombian President, Juan Manuel Santos, Pedro Guerrero_
 The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruling&#x20;party&#x20;candidate,&#x20;Ikililou&#x20;Dhoinine&#x20;&#x28;pictured&#x29;,&#x20;was&#x20;declared&#x20;the&#x20;winner&#x20;of&#x20;the&#x20;island&#x20;nation&#x27;s&#x20;presidential&#x20;poll&#x20;in&#x20;of...
 
 ### [The Chinese government sets out new measures to tackle corruption. ](/news/2010/12/29/the-chinese-government-sets-out-new-measures-to-tackle-corruption.md)
-_Context: anti-corruption, government_
+_Context: corruption, government_
 
 ## [Previous Day...](/news/2010/12/28/index.md)
 

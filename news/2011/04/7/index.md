@@ -49,7 +49,7 @@ Hopes are fading for scores of migrants missing after a boat capsized off the It
 An aftershock in Japan has killed two people, including a 63-year-old woman whose respirator failed when the power was knocked out.
 
 ### [A 6.5 magnitude earthquake strikes in the Mexican state of Veracruz. ](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.md)
-_Context: Mexican, Veracruz_
+_Context: Mexico, Veracruz_
 
 ### [Injections of nitrogen into one of the reactors at Japan's stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. ](/news/2011/04/7/injections-of-nitrogen-into-one-of-the-reactors-at-japan-s-stricken-fukushima-daiichi-nuclear-plant-begins-in-an-effort-to-stop-further-hydr.md)
 Workers in Japan start injecting nitrogen into one of the reactors at the crippled Fukushima Daiichi nuclear plant to prevent more hydrogen blasts.

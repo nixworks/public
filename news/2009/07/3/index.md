@@ -19,7 +19,7 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 _Context: Ban Ki-moon, Burma, Secretary General, State Peace and Development Council, Than Shwe, United Nations_
 
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
-_Context: British, Iran, Tehran, protests against the regime, trial_
+_Context: Iran, Tehran, United Kingdom, protests against the regime, trial_
 
 ### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)
 Meet Australia&#039;s answer to velociraptor.
@@ -55,7 +55,7 @@ _Context: Darfur, GOAL, Republic of Ireland, Sudan_
 Thirteen people have been injured, after a train derailed near the southwestern French city of Limoges.
 
 ### [ A 6.0 magnitude earthquake centred in the Sea of Cortez shakes western Mexico. ](/news/2009/07/3/a-6-0-magnitude-earthquake-centred-in-the-sea-of-cortez-shakes-western-mexico.md)
-_Context: Mexican, Sea of Cortez, earthquake_
+_Context: Mexico, Sea of Cortez, earthquake_
 
 ## [Previous Day...](/news/2009/07/2/index.md)
 

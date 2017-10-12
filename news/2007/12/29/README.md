@@ -4,7 +4,7 @@
 _Context: Motherwell F.C., Phil O'Donnell, footballer_
 
 ### [ The United Kingdom government announces its New Year's Honours List. People being honoured include broadcaster Michael Parkinson, singer Kylie Minogue, chief executive of Marks & Spencer Stuart Rose, embryologist Ian Wilmut and actor Sir Ian McKellen. ](/news/2007/12/29/the-united-kingdom-government-announces-its-new-year-s-honours-list-people-being-honoured-include-broadcaster-michael-parkinson-singer-ky.md)
-_Context: British, Ian McKellen, Ian Wilmut, Kylie Minogue, Marks & Spencer, Michael Parkinson, New Year's Honours List, Stuart Rose, embryologist_
+_Context: Ian McKellen, Ian Wilmut, Kylie Minogue, Marks & Spencer, Michael Parkinson, New Year's Honours List, Stuart Rose, United Kingdom, embryologist_
 
 ### [ Australian David Hicks is released from Yatala Labour Prison, South Australia, after his jail sentence for providing material support for terrorism ends, following his earlier detainment at Guantanamo Bay. ](/news/2007/12/29/australian-david-hicks-is-released-from-yatala-labour-prison-south-australia-after-his-jail-sentence-for-providing-material-support-for-t.md)
 _Context: Australia, David Hicks, Guantanamo Bay Detention Camp, South Australia, Yatala Labour Prison, terrorism_

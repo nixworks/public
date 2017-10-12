@@ -19,7 +19,7 @@ _Context: 2012-13 UEFA Europa League, Jewish, Lazio, Roma, Rome, Tottenham Hotsp
 Police fired tear gas at protesters as supporters and opponents of President Mohamed Morsi clashed in Cairo. Over 100 people were reportedly injured as sporadic clashes continued into the night, while protesters organized a sit-in on Tahrir Square.
 
 ### [Britain's top GCHQ code-breakers say they are stumped by a secret code found on the leg of a dead pigeon that was found in a chimney in Surrey, England, with a message from World War II attached. ](/news/2012/11/23/britain-s-top-gchq-code-breakers-say-they-are-stumped-by-a-secret-code-found-on-the-leg-of-a-dead-pigeon-that-was-found-in-a-chimney-in-surr.md)
-_Context: British, England, GCHQ, Surrey, World War II, chimney, pigeon, secret code_
+_Context: England, GCHQ, Surrey, United Kingdom, World War II, chimney, pigeon, secret code_
 
 ### [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyoanagoya-from-2027.md)
 _Context: JR Tokai, L0 train, Nagoya, Tokyo, maglev_

@@ -64,7 +64,7 @@ Republicans in both chambers of Congress introduced bills on Thursday that would
 _Context: Congress of New Caledonia, Harold Martin, President of New Caledonia_
 
 ### [P. J. Thomas, India's chief of anti-corruption, resigns over charges brought against him of corruption stemming from 1992. ](/news/2011/03/3/p-j-thomas-india-s-chief-of-anti-corruption-resigns-over-charges-brought-against-him-of-corruption-stemming-from-1992.md)
-_Context: anti-corruption_
+_Context: corruption_
 
 ### [Ahmed Shafiq resigns as the Prime Minister of Egypt and is replaced by former transport minister Essam Sharaf. ](/news/2011/03/3/ahmed-shafiq-resigns-as-the-prime-minister-of-egypt-and-is-replaced-by-former-transport-minister-essam-sharaf.md)
 _Context: Ahmed Shafiq, Essam Sharaf, prime minister_

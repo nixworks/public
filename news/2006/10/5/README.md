@@ -13,7 +13,7 @@ _Context: Mark Foley, United States House Committee on Standards of Official Con
 _Context: Abu Ayyub al-Masri, Abu Hamza al-Muhajir, Abu Musab al-Zarqawi, Haditha, al-Qaeda in Iraq_
 
 ### [ The European Central Bank raises its interest rate from 3% to 3.25% representing the fifth rise in eleven months. The Bank of England decides to leave interest rates in the United Kingdom unchanged. ](/news/2006/10/5/the-european-central-bank-raises-its-interest-rate-from-3-to-3-25-representing-the-fifth-rise-in-eleven-months-the-bank-of-england-decid.md)
-_Context: Bank of England, British, European Central Bank, interest rate_
+_Context: Bank of England, European Central Bank, United Kingdom, interest rate_
 
 ### [ Edmund Daukoru, a Nigerian oil minister and president of the Organization of Petroleum Exporting Countries (OPEC) flags that the organization will hold an emergency meeting to cut output. The "Financial Times" reports that OPEC has informally agreed to cut output 4% to defend the oil price. ](/news/2006/10/5/edmund-daukoru-a-nigerian-oil-minister-and-president-of-the-organization-of-petroleum-exporting-countries-opec-flags-that-the-organizati.md)
 _Context: Edmund Daukoru, Financial Times, Nigeria, Organization of Petroleum Exporting Countries, oil_

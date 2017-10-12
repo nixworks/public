@@ -28,7 +28,7 @@ _Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Italy, cruise 
 _Context: West Africa, ebola virus_
 
 ### [William Hague stands down as the United Kingdom Secretary of State for Foreign and Commonwealth Affairs as part of a cabinet reshuffle by Prime Minister David Cameron. ](/news/2014/07/14/william-hague-stands-down-as-the-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-as-part-of-a-cabinet-reshuffle-by-pr.md)
-_Context: British, David Cameron, Prime Minister, Secretary of State for Foreign and Commonwealth Affairs, William Hague_
+_Context: David Cameron, Prime Minister, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
 
 ## [Previous Day...](/news/2014/07/13/index.md)
 

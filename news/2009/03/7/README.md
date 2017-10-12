@@ -4,7 +4,7 @@
 _Context: Iran, Morocco, diplomatic_
 
 ### [ The United Kingdom's government increases its ownership stake in Lloyds Banking Group from 43% to at least 60%. ](/news/2009/03/7/the-united-kingdom-s-government-increases-its-ownership-stake-in-lloyds-banking-group-from-43-to-at-least-60.md)
-_Context: British, His Majesty's Government, Lloyds Banking Group_
+_Context: His Majesty's Government, Lloyds Banking Group, United Kingdom_
 
 ### [ NASA launches its Kepler spacecraft from Cape Canaveral Air Force Station in Florida. ](/news/2009/03/7/nasa-launches-its-kepler-spacecraft-from-cape-canaveral-air-force-station-in-florida.md)
 _Context: Cape Canaveral Air Force Station, Florida, Kepler Mission, NASA_

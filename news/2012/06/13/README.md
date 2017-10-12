@@ -47,7 +47,7 @@ Rebekah Brooks appeared behind a high glass screen in the dock yesterday, alongs
 _Context: Manal al Sharif, Saudi King Abdullah_
 
 ### [Myanmar democracy activist Aung San Suu Kyi returns to Europe after more than two decades for a European tour, including Norway, Switzerland, France, Ireland and Britain. ](/news/2012/06/13/myanmar-democracy-activist-aung-san-suu-kyi-returns-to-europe-after-more-than-two-decades-for-a-european-tour-including-norway-switzerland.md)
-_Context: Aung San Suu Kyi, British, France, Ireland, Norway, Switzerland_
+_Context: Aung San Suu Kyi, France, Ireland, Norway, Switzerland, United Kingdom_
 
 ### [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md)
 Government report criticises Netanyahu decision-making in 2010 naval raid on Gaza-bound flotilla.

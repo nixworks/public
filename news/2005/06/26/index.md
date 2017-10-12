@@ -31,7 +31,7 @@ _Context: Chile, Jorge Lavandero, child molestation_
 _Context: Kenya, industrial alcohol_
 
 ### [ In Paris, former sports minister Guy Drut withdraws from the Paris' bid to host 2012 Olympic Games because he is charged with involvement with corruption ](/news/2005/06/26/in-paris-former-sports-minister-guy-drut-withdraws-from-the-paris-bid-to-host-2012-olympic-games-because-he-is-charged-with-involvement-w.md)
-_Context: 2012, Guy Drut, Olympic Games, Paris, anti-corruption_
+_Context: 2012, Guy Drut, Olympic Games, Paris, corruption_
 
 ### [ Syrian court acquits human rights activist Aktham Naisse ](/news/2005/06/26/syrian-court-acquits-human-rights-activist-aktham-naisse.md)
 _Context: Aktham Naisse, Human rights, Syria_

@@ -31,7 +31,7 @@ _Context: Italy_
 Severe disruption caused by freezing weather continues, as Heathrow cancels hundreds of flights and Eurostar queues spill onto the streets.
 
 ### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
-_Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexican, state of siege_
+_Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexico, state of siege_
 
 ### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)
 More than 100 people are charged with child sex abuse offences in Austria after police seize material from computers across the country.

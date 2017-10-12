@@ -13,7 +13,7 @@ Despite pledges by President George W. Bush and American intelligence officials 
 _Context: France, Jean-Marie Gustave Le Clezio, Nobel Prize in Literature_
 
 ### [ 2008 Pacific hurricane season : Tropical Storm Odile forms south of Mexico while Hurricane Norbert weakens to tropical storm strength northwest of Odile. ](/news/2008/10/9/2008-pacific-hurricane-season-tropical-storm-odile-forms-south-of-mexico-while-hurricane-norbert-weakens-to-tropical-storm-strength-north.md)
-_Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexican, Tropical Storm Odile, tropical storm_
+_Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexico, Tropical Storm Odile, tropical storm_
 
 ### [ Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession. IMF releases World Economic Outlook report with gloomy projections for the global financial system. ](/news/2008/10/9/head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-the-world-into-a-recession-imf-releases-world-economic.md)
 A late-day decline again pushed the markets down sharply, with the Dow falling more than 600 points a year to the day after hitting its record high.
@@ -28,7 +28,7 @@ _Context: Democratic Republic of the Congo, Goma, Rwanda_
 A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Taliban insurgency in Afghanistan ran into opposition from Germany and others on Thursday, but Berlin said it still hoped for an agreement.
 
 ### [ Court in the United Kingdom hears of how two doctors planned car bomb attacks on London and Glasgow airports in revenge for how UK was treating Muslims ](/news/2008/10/9/court-in-the-united-kingdom-hears-of-how-two-doctors-planned-car-bomb-attacks-on-london-and-glasgow-airports-in-revenge-for-how-uk-was-trea.md)
-_Context: British, Glasgow, London, planned car bomb attacks_
+_Context: Glasgow, London, United Kingdom, planned car bomb attacks_
 
 ### [ NATO plans on sending seven warships to protect United Nations food aid from Piracy in Somalia. ](/news/2008/10/9/nato-plans-on-sending-seven-warships-to-protect-united-nations-food-aid-from-piracy-in-somalia.md)
 _Context: NATO, Somali pirates, United Nations_
@@ -40,7 +40,7 @@ _Context: North Korea_
 _Context: Maldives, Maumoon Abdul Gayoom, Mohamed Nasheed, absolute majority, democratic progress, first democratic election, second round_
 
 ### [ Los Zetas of the Gulf Cartel suspected killers of 5 police near Guadalajara during nationwide crackdown in Mexico. ](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.md)
-_Context: Guadalajara, Gulf Cartel, Los Zetas, Mexican_
+_Context: Guadalajara, Gulf Cartel, Los Zetas, Mexico_
 
 ## [Previous Day...](/news/2008/10/8/index.md)
 

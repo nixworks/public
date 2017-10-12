@@ -13,7 +13,7 @@ _Context: 1982, Baghdad, Dujail, President of Iraq, Saddam Hussein, Shi'a, capit
 _Context: China, Hohhot, Inner Mongolia, bird flu_
 
 ### [ Liverpool City Council, UK, issued an apology for the destruction of the Welsh community of Capel Celyn in 1965 to create the Llyn Celyn reservoir, which supplies Liverpool and the Wirral with drinking water. ](/news/2005/10/19/liverpool-city-council-uk-issued-an-apology-for-the-destruction-of-the-welsh-community-of-capel-celyn-in-1965-to-create-the-llyn-celyn-re.md)
-_Context: 1965, British, Capel Celyn, Liverpool, Liverpool City Council, Llyn Celyn, Wales, Wirral, reservoir_
+_Context: 1965, Capel Celyn, Liverpool, Liverpool City Council, Llyn Celyn, United Kingdom, Wales, Wirral, reservoir_
 
 ### [ Former Congressman Bob McEwen of Ohio is considering challenging incumbent Jean Schmidt in the 2006 Republican primary. ](/news/2005/10/19/former-congressman-bob-mcewen-of-ohio-is-considering-challenging-incumbent-jean-schmidt-in-the-2006-republican-primary.md)
 _Context: 2006, Bob McEwen, Jean Schmidt, Ohio_

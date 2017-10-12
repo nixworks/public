@@ -22,7 +22,7 @@ _Context: Karachi, kills eleven people_
 _Context: Barack Obama, G-20, President Putin, meeting_
 
 ### [Bank of England governor Mark Carney says the Bank will not consider raising United Kingdom interest rates until the unemployment rate has fallen to 7% or below. ](/news/2013/08/7/bank-of-england-governor-mark-carney-says-the-bank-will-not-consider-raising-united-kingdom-interest-rates-until-the-unemployment-rate-has-f.md)
-_Context: Bank of England, British, Mark Carney, interest rate_
+_Context: Bank of England, Mark Carney, United Kingdom, interest rate_
 
 ### [A large fire breaks out at Jomo Kenyatta International Airport in the Kenyan capital Nairobi. ](/news/2013/08/7/a-large-fire-breaks-out-at-jomo-kenyatta-international-airport-in-the-kenyan-capital-nairobi.md)
 _Context: Jomo Kenyatta International Airport, Kenya, Nairobi_

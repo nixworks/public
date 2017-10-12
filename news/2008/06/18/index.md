@@ -16,7 +16,7 @@ _Context: China, U.S., energy security_
 _Context: EU, European Parliament, detention facilities, illegal migrants_
 
 ### [ Mexico reaches an agreement with industry groups to fix the prices of 150 food items as a result of accelerating inflation. ](/news/2008/06/18/mexico-reaches-an-agreement-with-industry-groups-to-fix-the-prices-of-150-food-items-as-a-result-of-accelerating-inflation.md)
-_Context: Mexican_
+_Context: Mexico_
 
 ### [ Sudan and former southern rebels start deploying joint forces in the troubled Abyei region as part of an agreement. ](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.md)
 _Context: Abyei, Sudan_

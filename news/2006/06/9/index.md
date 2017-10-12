@@ -10,7 +10,7 @@ _Context: Cars, Disney, Pixar_
 _Context: FIFA World Cup Stadium Munich, defending champion_
 
 ### [ The suspected WWII 'bomb' under Broadmead in Bristol, United Kingdom turns out to be a piece of reinforced concrete. ](/news/2006/06/9/the-suspected-wwii-bomb-under-broadmead-in-bristol-united-kingdom-turns-out-to-be-a-piece-of-reinforced-concrete.md)
-_Context: Bristol, British, Broadmead, World War II_
+_Context: Bristol, Broadmead, United Kingdom, World War II_
 
 ### [ Celebrations for Thailand's King Rama IX's Diamond Jubilee begins.](/news/2006/06/9/celebrations-for-thailand-s-king-rama-ix-s-diamond-jubilee-begins.md)
 _Context: Diamond Jubilee, King Rama IX, Thailand_

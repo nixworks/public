@@ -16,7 +16,7 @@ _Context: Clinch River, Emory, Kingston, Tennessee, Tennessee Valley Authority, 
 _Context: Fort Dix, New Jersey, U.S., conspiring to kill soldiers_
 
 ### [ Nine human heads and decapitated bodies, believed to belong to eight soldiers and one high-ranking former police officer, are found in Chilpancingo, Guerrero, Mexico. ](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.md)
-_Context: Chilpancingo, Guerrero, Mexican_
+_Context: Chilpancingo, Guerrero, Mexico_
 
 ### [ Automobile dealers in Mexico demand a US$3 billion bailout package during the automotive crisis. ](/news/2008/12/22/automobile-dealers-in-mexico-demand-a-us-3-billion-bailout-package-during-the-automotive-crisis.md)
 _Context: $, bailout, dealers, global crisis_

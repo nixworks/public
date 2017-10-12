@@ -10,7 +10,7 @@ An independent autopsy into the death of a human rights activist in DR Congo is 
 The UN peacekeeping chief in southern Lebanon appeals for calm, after recent incidents in which villagers attacked soldiers.
 
 ### [Israel criticises Britain's ambassador to Lebanon for eulogising Mohammad Hussein Fadlallah, who recently died. ](/news/2010/07/9/israel-criticises-britain-s-ambassador-to-lebanon-for-eulogising-mohammad-hussein-fadlallah-who-recently-died.md)
-_Context: British, Israel, Lebanon, Mohammad Hussein Fadlallah_
+_Context: Israel, Lebanon, Mohammad Hussein Fadlallah, United Kingdom_
 
 ### [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in "Rolling Stone", a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attacke.md)
 Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChrystal&#x20;over&#x20;comments&#x20;that&#x20;appeared&#x20;in&#x20;a&#x20;magazine&#x20;article,&#x20;a&#x20;top&#x20;French&#x20;general&#x20;is&#x20;under&#x20;fire&#x20;for&#x20;publicly&#x20;criticising&#x20;the&#x20;...

@@ -76,7 +76,7 @@ _Context: Belgium, Stefaan De Clerck_
 The Argentine Federal Appeals court has confirmed the indictment of ex-president Fernando de la R&uacute;a in a case linking the former Radical president to the payment of bribes at the Senate in 2000 and which ended with a major political crisis.
 
 ### [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corrup.md)
-_Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, anti-corruption_
+_Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, corruption_
 
 ### [ Thirty-three people are reported missing following the sinking of the "Princess Ashika" ferry in Tonga. ](/news/2009/08/5/thirty-three-people-are-reported-missing-following-the-sinking-of-the-princess-ashika-ferry-in-tonga.md)
 _Context: Princess Ashika, Tonga, ferry_

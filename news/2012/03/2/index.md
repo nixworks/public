@@ -16,7 +16,7 @@ _Context: NASA, hackers_
 _Context: Afghanistan, Bagram Airfield, Quran, Washington Post, protests_
 
 ### [25 of the 27 members of the European Union sign a new "fiscal compact", the exceptions being the United Kingdom and the Czech Republic. ](/news/2012/03/2/25-of-the-27-members-of-the-european-union-sign-a-new-fiscal-compact-the-exceptions-being-the-united-kingdom-and-the-czech-republic.md)
-_Context: British, Czech Republic, EU_
+_Context: Czech Republic, EU, United Kingdom_
 
 ### [Nestl and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestle-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md)
 _Context: Danone, Nestl, Pfizer_

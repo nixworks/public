@@ -16,7 +16,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 &#039;It has been a long and winding road to get here,&#039; says Steve Jobs
 
 ### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
-_Context: France, Mexican, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
+_Context: France, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
 
 ### [New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. ](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.md)
 Archbishop Timothy M. Dolan of New York will lead the United States Conference of Catholic Bishops.
@@ -46,7 +46,7 @@ _Context: Australia, Iraq, Sydney, Villawood Immigration Detention Centre, hunge
 Thailand extradited on Tuesday suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges, ending a two-year wrangle between the former Cold War foes.
 
 ### [British author Alan Shadrake is jailed for six weeks in Singapore for contempt of court. ](/news/2010/11/16/british-author-alan-shadrake-is-jailed-for-six-weeks-in-singapore-for-contempt-of-court.md)
-_Context: Alan Shadrake, British, Singapore, contempt of court_
+_Context: Alan Shadrake, Singapore, United Kingdom, contempt of court_
 
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.

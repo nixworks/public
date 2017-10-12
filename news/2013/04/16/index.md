@@ -40,7 +40,7 @@ _Context: Asia Pacific, China, Chinese Defense Ministry, Japan, Philippines, Ter
 _Context: England, Liverpool, convicted, homeless people_
 
 ### [Former Mexican anchorman Alonso de la Colina Sordo is assassinated by an unidentified gunman in the state of Puebla. His death adds to the long list of more than 80 journalists killed in Mexico since 2005. ](/news/2013/04/16/former-mexican-anchorman-alonso-de-la-colina-sordo-is-assassinated-by-an-unidentified-gunman-in-the-state-of-puebla-his-death-adds-to-the-l.md)
-_Context: Mexican, Puebla, anchorman, more than 80 have been killed_
+_Context: Mexico, Puebla, anchorman, more than 80 have been killed_
 
 ### [A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. ](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senators-releases-its-plan-to-overhaul-the-immigration-system-potentially-allowing-millions-of-ill.md)
 Millions of immigrants living illegally in the United States could earn a chance at citizenship under a sweeping Senate proposal to be released Tuesday.

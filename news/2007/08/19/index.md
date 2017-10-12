@@ -22,7 +22,7 @@ In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s 
 _Context: China, Typhoon, Typhoon Sepat, Zhejiang province, tornado_
 
 ### [ Jamaica prepares for Hurricane Dean with the hurricane already responsible for at least eight deaths on Caribbean islands St. Lucia, Martinique and Dominica. It is expected to hit the Cayman Islands on Monday and the Yucatn Peninsula on Tuesday with further impact on Mexico or Texas later in the week. ](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.md)
-_Context: Caribbean, Cayman Islands, Dominica, Hurricane Dean, Jamaica, Martinique, Mexican, St. Lucia, Texas, Yucatn Peninsula, hurricane_
+_Context: Caribbean, Cayman Islands, Dominica, Hurricane Dean, Jamaica, Martinique, Mexico, St. Lucia, Texas, Yucatn Peninsula, hurricane_
 
 ### [ Voters in Thailand go to the polls for a referendum to decide whether to accept or reject a new constitution. A majority of voters appear to have supported it.](/news/2007/08/19/voters-in-thailand-go-to-the-polls-for-a-referendum-to-decide-whether-to-accept-or-reject-a-new-constitution-a-majority-of-voters-appear-t.md)
 _Context: Thailand, constitution, referendum_

@@ -34,7 +34,7 @@ _Context: Copt, Egypt_
 _Context: Tonga, first general election_
 
 ### [The United States Government sets aside an area in Alaska twice the size of the United Kingdom as a "critical habitat" for polar bears. ](/news/2010/11/25/the-united-states-government-sets-aside-an-area-in-alaska-twice-the-size-of-the-united-kingdom-as-a-critical-habitat-for-polar-bears.md)
-_Context: Alaska, British, United States government, polar bear_
+_Context: Alaska, United Kingdom, United States government, polar bear_
 
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)
 The Met Office issues warnings of heavy snow and icy roads as the earliest widespread wintry conditions for 17 years grip much of the UK.

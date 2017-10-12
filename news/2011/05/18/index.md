@@ -46,7 +46,7 @@ The Palestinian Authority wants Israel to reinstate the lost residency rights of
 _Context:  Russian President, Cold War, Dmitry Medvedev, Russia, U.S., missile defense shield_
 
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
-_Context: Bloody Sunday massacre of 1920, British, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland_
+_Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_
 
 ### [Ali Akbar Salehi, the Foreign Affairs Minister of Iran, claims that the Bushehr Nuclear Power Plant is operational. ](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.md)
 Nuclear power plant has reached critical mass, will be powered up within weeks, Salehi says, echoing statements of senior Russian diplomat.

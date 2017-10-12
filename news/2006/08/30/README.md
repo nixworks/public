@@ -1,7 +1,7 @@
 ## [2006-08-30](/news/2006/08/30/index.md)
 
 ### [ Hurricane John lashes the Pacific coast of Mexico with the potential to cause flash floods and landslides. ](/news/2006/08/30/hurricane-john-lashes-the-pacific-coast-of-mexico-with-the-potential-to-cause-flash-floods-and-landslides.md)
-_Context: Flash flooding, Hurricane John, Mexican, landslide_
+_Context: Flash flooding, Hurricane John, Mexico, landslide_
 
 ### [ The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md)
 _Context: Jan Egeland, UN, cluster bombs_

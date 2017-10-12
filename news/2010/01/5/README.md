@@ -22,7 +22,7 @@ _Context: Solomon Islands, two major earthquakes and tsunami_
 _Context: Brazil, Rio Grande do Sul_
 
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: British, heavy snowfall_
+_Context: United Kingdom, heavy snowfall_
 
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_

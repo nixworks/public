@@ -46,10 +46,10 @@ _Context: NATO, Russia, September 11 attacks, aircraft piracy, military exercise
 President Barack Obama said on Tuesday the United States and its allies may slap more sanctions on Iran over its nuclear program, after Tehran vowed that no offer could halt its enrichment of uranium.
 
 ### [Two gunmen attack a drug rehabilitation facility in the Mexican city of Torreon in Coahuila. ](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility-in-the-mexican-city-of-torreon-in-coahuila.md)
-_Context: Coahuila, Mexican, Torreon, drug rehabilitation_
+_Context: Coahuila, Mexico, Torreon, drug rehabilitation_
 
 ### [The former Governor of Chiapas state in Mexico Pablo Salazar is arrested on charges on embezzling more than $90 million from hurricane relief funds. ](/news/2011/06/7/the-former-governor-of-chiapas-state-in-mexico-pablo-salazar-is-arrested-on-charges-on-embezzling-more-than-90-million-from-hurricane-relie.md)
-_Context: Governor of Chiapas, Mexican, Pablo Salazar, embezzlement_
+_Context: Governor of Chiapas, Mexico, Pablo Salazar, embezzlement_
 
 ### [Students at four South Korean universities Korea University, Sogang University, Sookmyung Women's University and Ewha Womans University go on strike for a day in favour of reduced tuition fees.](/news/2011/06/7/students-at-four-south-korean-universities-korea-university-sogang-university-sookmyung-women-s-university-and-ewha-womans-university-go-o.md)
 Seoul college students vow to go on strike for tuition cut

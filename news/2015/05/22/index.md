@@ -13,7 +13,7 @@ Government security forces killed 42 suspected drug cartel henchmen and suffered
 _Context: Li Hejun_
 
 ### [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md)
-_Context: British, London, Wembley Stadium, World War II, bomb, the Blitz_
+_Context: London, United Kingdom, Wembley Stadium, World War II, bomb, the Blitz_
 
 ### [The Myanmar Navy rescues two boats carrying 208 migrants as it faces growing international pressure to tackle the Rohingya migration crisis. ](/news/2015/05/22/the-myanmar-navy-rescues-two-boats-carrying-208-migrants-as-it-faces-growing-international-pressure-to-tackle-the-rohingya-migration-crisis.md)
 A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; to the oppressed Rohingya minority to address an ongoing migrant crisis that has hit Southeast Asia, leaving thousands stranded at sea. More than 3,500 migrants have swum to shore or been rescued off the coasts of Malaysi...

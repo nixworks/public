@@ -1,7 +1,7 @@
 ## [2006-02-18](/news/2006/02/18/index.md)
 
 ### [ Former Malawian Minister of Education and head of the country's anti-corruption campaign Yusuf Mwawa is sentenced to five years in prison for fraud and corruption. ](/news/2006/02/18/former-malawian-minister-of-education-and-head-of-the-country-s-anti-corruption-campaign-yusuf-mwawa-is-sentenced-to-five-years-in-prison-f.md)
-_Context: Malawi, Yusuf Mwawa, anti-corruption, fraud_
+_Context: Malawi, Yusuf Mwawa, corruption, fraud_
 
 ### [ Venezuelan president Hugo Chvez threatens to cut off oil supplies after U.S. Secretary of State Condoleezza Rice claims that the Venezuelan government poses "one of the biggest problems" in the region. ](/news/2006/02/18/venezuelan-president-hugo-chavez-threatens-to-cut-off-oil-supplies-after-u-s-secretary-of-state-condoleezza-rice-claims-that-the-venezuela.md)
 _Context: Condoleezza Rice, Hugo Chvez_

@@ -10,7 +10,7 @@ _Context: Ariel Sharon, Gaza, Israel, Israeli Prime Minister, Jew, U.S._
 _Context: Dome of the Rock, First Lady, Israel, Laura Bush, Palestinian, Wailing Wall_
 
 ### [ The British government declines a request from the families of soldiers killed in Iraq for an investigation into the legality of the war. ](/news/2005/05/22/the-british-government-declines-a-request-from-the-families-of-soldiers-killed-in-iraq-for-an-investigation-into-the-legality-of-the-war.md)
-_Context: 2003 invasion of Iraq, British, Iraq_
+_Context: 2003 invasion of Iraq, Iraq, United Kingdom_
 
 ### [ Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. ](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.md)
 _Context: Hawara, Israel, Nablus, Palestinian, suicide bomber_

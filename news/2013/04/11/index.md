@@ -1,7 +1,7 @@
 ## [2013-04-11](/news/2013/04/11/index.md)
 
 ### [At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. ](/news/2013/04/11/at-least-14-people-are-killed-in-a-series-of-clashes-between-alleged-drug-traffickers-and-police-in-the-mexican-state-of-michoaca-n-the-gov.md)
-_Context: Mexican, Michoacan, anti-drug plan, drug kingpin, government, police_
+_Context: Mexico, Michoacan, anti-drug plan, drug kingpin, government, police_
 
 ### [Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/two-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing-shooting-and-arson-attacks.md)
 _Context: Pattani region, Thailand, arson, bomb, shooting spree_

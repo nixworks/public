@@ -16,7 +16,7 @@ _Context: Israel, Nicolas Sarkozy, President of France, West Bank, suicide_
 _Context: Mexico City_
 
 ### [ The National Assembly of Niger votes to try former Prime Minister Hama Amadou on graft charges. ](/news/2008/06/24/the-national-assembly-of-niger-votes-to-try-former-prime-minister-hama-amadou-on-graft-charges.md)
-_Context: Hama Amadou, National Assembly, Prime Minister, anti-corruption_
+_Context: Hama Amadou, National Assembly, Prime Minister, corruption_
 
 ### [ The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. ](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acres-from-the-us-sugar-corporation-to-add-to-protected-lands-in-the-everglades.md)
 _Context: Everglades, Florida, US Sugar Corporation_

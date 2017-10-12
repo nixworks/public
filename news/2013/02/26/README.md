@@ -4,7 +4,7 @@
 A militant group in Gaza said the first rocket strike in more than three months was conducted in retaliation for the death of a Palestinian prisoner.
 
 ### [Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
-_Context: Ciudad Miguel Aleman, Mexican, Tamaulipas_
+_Context: Ciudad Miguel Aleman, Mexico, Tamaulipas_
 
 ### [Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
 _Context: Nigeria, Yobe State_
@@ -25,10 +25,10 @@ _Context: diabetes, gene, heart disease, obese, sleep loss_
 _Context: Amgen, Sensipar, U.S., clinical trial, hyperparathyroidism, serum calcium_
 
 ### [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md)
-_Context: British, China, France, Germany, Iran, Russia, U.S., nuclear programme_
+_Context: China, France, Germany, Iran, Russia, U.S., United Kingdom, nuclear programme_
 
 ### [Mexican teacher's union leader Elba Esther Gordillo is arrested on corruption charges. ](/news/2013/02/26/mexican-teacher-s-union-leader-elba-esther-gordillo-is-arrested-on-corruption-charges.md)
-_Context: Elba Esther Gordillo, Mexican, corruption, teacher's union_
+_Context: Elba Esther Gordillo, Mexico, corruption, teacher's union_
 
 ### [2013 Santa Cruz shooting: Two police officers are fatally shot in Santa Cruz, California, United States. The suspect is shot and killed. ](/news/2013/02/26/2013-santa-cruz-shooting-two-police-officers-are-fatally-shot-in-santa-cruz-california-united-states-the-suspect-is-shot-and-killed.md)
 _Context: California, Santa Cruz, California, U.S., police officers_

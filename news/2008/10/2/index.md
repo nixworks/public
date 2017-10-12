@@ -7,7 +7,7 @@ _Context: Joe Biden, Sarah Palin, U.S., only scheduled debate_
 _Context: Georgian, South Ossetia, Tskhinvali, Ukraine, Viktor Yushchenko, Yulia Tymoshenko_
 
 ### [ The commissioner of the Metropolitan Police Service and the most senior policeman in the United Kingdom, Sir Ian Blair, announces that he will stand down from his post in December of this year, citing a lack of support from London Mayor Boris Johnson. ](/news/2008/10/2/the-commissioner-of-the-metropolitan-police-service-and-the-most-senior-policeman-in-the-united-kingdom-sir-ian-blair-announces-that-he-w.md)
-_Context: Boris Johnson, British, Ian Blair, London, Mayor, Metropolitan Police Service_
+_Context: Boris Johnson, Ian Blair, London, Mayor, Metropolitan Police Service, United Kingdom_
 
 ### [ A search team finds the wreckage of the airplane flown by adventurer Steve Fossett in the mountains of Madera County, California, and what appears to be some of his personal effects nearby. Fossett had disappeared on September 3, 2007. ](/news/2008/10/2/a-search-team-finds-the-wreckage-of-the-airplane-flown-by-adventurer-steve-fossett-in-the-mountains-of-madera-county-california-and-what.md)
 _Context: California, Madera County, Steve Fossett_

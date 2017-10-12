@@ -10,7 +10,7 @@ Syria&#x27;s army and allied forces on Tuesday took full control from rebel grou
 Nigerian officials say Boko Haram gunmen have killed seven people in a raid in northeast Nigeria.
 
 ### [A Bronze Age village is discovered in Cambridgeshire, United Kingdom. ](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridgeshire-united-kingdom.md)
-_Context: British, Bronze Age, Cambridgeshire_
+_Context: Bronze Age, Cambridgeshire, United Kingdom_
 
 ### [Junior doctors in the United Kingdom go on strike over a proposed new contract. ](/news/2016/01/12/junior-doctors-in-the-united-kingdom-go-on-strike-over-a-proposed-new-contract.md)
 Live updates as junior doctors go on a 24-hour strike in England in a dispute with government over a new contract, which will see only emergency cover being provided.

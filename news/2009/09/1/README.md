@@ -46,7 +46,7 @@ _Context: Ali Ben Bongo, Andre Mba Obame, Pierre Mamboundou, disputed presidenti
 91 FAO Members have agreed on an international agreement to implement &ldquo;port state measures&rdquo; to combat illegal fishing.
 
 ### [ Documents released by the British government show that the United Kingdom gave in to Libyan demands that the Lockerbie bomber be eligible for transfer home to serve his sentence there. ](/news/2009/09/1/documents-released-by-the-british-government-show-that-the-united-kingdom-gave-in-to-libyan-demands-that-the-lockerbie-bomber-be-eligible-f.md)
-_Context: British, British government, Libyan, Lockerbie bomber_
+_Context: British government, Libyan, Lockerbie bomber, United Kingdom_
 
 ### [ A Sri Lankan journalist is jailed for 20 years on charges of "inciting racial hatred" and "supporting terrorism" for writing articles critical of the government's military operations. ](/news/2009/09/1/a-sri-lankan-journalist-is-jailed-for-20-years-on-charges-of-inciting-racial-hatred-and-supporting-terrorism-for-writing-articles-criti.md)
 A Sri Lankan reporter, recently named by US President Barack Obama as an example of the way journalists are persecuted around the world, has been sentenced to 20 years in jail for writing articles critical of the government&#039;s military operations.

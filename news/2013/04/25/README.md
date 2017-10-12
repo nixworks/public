@@ -16,13 +16,13 @@ _Context: French-born_
 THE UN Security Council has unanimously backed sending up to 12,600 international troops and police to take over from French and African forces battling Islamist guerrillas in Mali.
 
 ### [The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/the-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying-confidence-that-t.md)
-_Context: British, Chuck Hagel, Government of Syria, Israel, Syrian Civil War, United States Secretary of Defence, sarin gas_
+_Context: Chuck Hagel, Government of Syria, Israel, Syrian Civil War, United Kingdom, United States Secretary of Defence, sarin gas_
 
 ### [The United Kingdom reopens its embassy in Somalia 22 years after it closed as a result of the chaos after the fall of Mohamed Siad Barre's government and subsequent Somali Civil War. ](/news/2013/04/25/the-united-kingdom-reopens-its-embassy-in-somalia-22-years-after-it-closed-as-a-result-of-the-chaos-after-the-fall-of-mohamed-siad-barre-s-g.md)
-_Context: British, Mohamed Siad Barre, Somali Civil War, Somalian_
+_Context: Mohamed Siad Barre, Somali Civil War, Somalian, United Kingdom_
 
 ### [Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. ](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.md)
-_Context: Los Zetas, Mexican, Mexican, Saltillo, Coahuila, more than 80 have been killed_
+_Context: Los Zetas, Mexican, Mexico, Saltillo, Coahuila, more than 80 have been killed_
 
 ### [After being missing for over a week, the body of Sunil Tripathi is found in the Providence River. ](/news/2013/04/25/after-being-missing-for-over-a-week-the-body-of-sunil-tripathi-is-found-in-the-providence-river.md)
 _Context: Providence River, Sunil Tripathi_

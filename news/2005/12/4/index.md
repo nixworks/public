@@ -10,7 +10,7 @@ _Context: Chief Executive, Donald Tsang, Hong Kong, marched, universal suffrage_
 _Context: Kazakhstan, Nursultan Nazarbayev's, exit poll, presidential election_
 
 ### [ Former chief of the RUC police force will head a British investigation into possible infiltration of Iraq's police force by insurgents. [http:--news.bbc.co.uk-1-hi-northern_ireland-4497128.stm (BBC)] Former prime minister Iyad Allawi says he survived an assassination attempt at the Imam Ali Mosque in Najaf. Police say his group fled from the Shi'ite Muslim shrine under a hail of debris by a mob. [http:--today.reuters.co.uk-news-newsArticle.aspx?type=worldNews&storyID=2005-12-04T174641Z_01_MOL463885_RTRUKOC_0_UK-IRAQ.xml (ReutersUK)](Link dead as of 22:46, 14 January 2007 (UTC)), [http:--www.nytimes.com-2005-12-04-international-middleeast-04cnd-iraq.html?hp&ex=1133758800&en=5c16772029d814d2&ei=5094&partner=homepage (NYTimes)] (registration required)](/news/2005/12/4/former-chief-of-the-ruc-police-force-will-head-a-british-investigation-into-possible-infiltration-of-iraq-s-police-force-by-insurgents-ht.md)
-_Context: British, Imam Ali Mosque, Iraq, Iyad Allawi, Muslim, Najaf, RUC, Shi'ite, assassinated, mob_
+_Context: Imam Ali Mosque, Iraq, Iyad Allawi, Muslim, Najaf, RUC, Shi'ite, United Kingdom, assassinated, mob_
 
 ### [ Former Prime Minister of Australia Malcolm Fraser calls for a worldwide ban on capital punishment. ](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.md)
 _Context: Australian Prime Minister, Malcolm Fraser, capital punishment_

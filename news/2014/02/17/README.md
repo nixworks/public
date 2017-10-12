@@ -40,7 +40,7 @@ _Context: Government of Australia, Manus Island, Papua New Guinea, immigration d
 _Context: Giorgio Napolitano, Italian President, Italian Prime Minister, Matteo Renzi, Mayor of Florence_
 
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
-_Context: Alex Salmond, British, First Minister, Scotland, Scottish independence_
+_Context: Alex Salmond, First Minister, Scotland, Scottish independence, United Kingdom_
 
 ### [A large near-Earth asteroid, 2000 EM26, passes by the Earth safely with no threat of collision at 8.8 times further from the Earth than the Moon. ](/news/2014/02/17/a-large-near-earth-asteroid-2000-em26-passes-by-the-earth-safely-with-no-threat-of-collision-at-8-8-times-further-from-the-earth-than-the.md)
 The near-Earth asteroid 2000 EM26 is set to fly past Earth on Monday (Feb. 17), and you can watch it in a live webcast online. 

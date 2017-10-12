@@ -1,7 +1,7 @@
 ## [2007-02-16](/news/2007/02/16/index.md)
 
 ### [ The G8 countries, plus Brazil, China, India, Mexico and South Africa, approve the 'Washington Declaration,' proposing a global Carbon emissions trading system to replace the Kyoto Protocol by 2009. ](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.md)
-_Context: 2009, Brazil, Carbon emissions trading, China, India, Kyoto Protocol, Mexican, South Africa, Washington Declaration_
+_Context: 2009, Brazil, Carbon emissions trading, China, India, Kyoto Protocol, Mexico, South Africa, Washington Declaration_
 
 ### [ Palestinians clash with Israeli police in East Jerusalem over archaeological excavations near the al-Aqsa mosque. ](/news/2007/02/16/palestinians-clash-with-israeli-police-in-east-jerusalem-over-archaeological-excavations-near-the-al-aqsa-mosque.md)
 _Context: Al-Aqsa Mosque, East Jerusalem, Israel, Palestinians_

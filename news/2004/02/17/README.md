@@ -1,7 +1,7 @@
 ## [2004-02-17](/news/2004/02/17/index.md)
 
 ### [ Bishop Thomas O'Brien, the former head of Arizona's largest Roman Catholic diocese, is convicted of a hit and run making him the first Catholic bishop in the United States to be convicted of a felony. ](/news/2004/02/17/bishop-thomas-o-brien-the-former-head-of-arizona-s-largest-roman-catholic-diocese-is-convicted-of-a-hit-and-run-making-him-the-first-cath.md)
-_Context: Arizona, Roman Catholic, Thomas O'Brien, felons_
+_Context: Arizona, Roman Catholic, Thomas O'Brien, felony_
 
 ### [ Democratic presidential nomination: Wisconsin held its primary election. John Kerry got 40% of the vote, followed by John Edwards with 34%, and Howard Dean with 18%.](/news/2004/02/17/democratic-presidential-nomination-wisconsin-held-its-primary-election-john-kerry-got-40-of-the-vote-followed-by-john-edwards-with-34.md)
 _Context: Democratic presidential nomination, Howard Dean, John Edwards, John Kerry, Wisconsin, primary election_

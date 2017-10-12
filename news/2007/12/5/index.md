@@ -4,7 +4,7 @@
 _Context: ICA, National Television, Swedish, systematic food safety irregularities_
 
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: British, Lithuania, Vilnius, khat_
+_Context: Lithuania, United Kingdom, Vilnius, khat_
 
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
 _Context: Aigars Kalvitis, Latvia, Prime Minister of Latvia_

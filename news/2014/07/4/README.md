@@ -4,7 +4,7 @@
 The rescue operation at an 11-storey building that collapsed in the Indian city of Chennai is called off, with the final death toll put at 61.
 
 ### [Australian entertainer Rolf Harris is sentenced to 5 years and 9 months at Southwark Crown Court in London, United Kingdom, convicted on 12 charges of indecently assaulting female minors between 1968 and 1986. Harris will be eligible for release on licence after half of the sentence in 2017. ](/news/2014/07/4/australian-entertainer-rolf-harris-is-sentenced-to-5-years-and-9-months-at-southwark-crown-court-in-london-united-kingdom-convicted-on-12.md)
-_Context: Australian, British, London, Rolf Harris, Southwark Crown Court, indecently assaulting_
+_Context: Australian, London, Rolf Harris, Southwark Crown Court, United Kingdom, indecently assaulting_
 
 ### [A Kindergarten teacher is stabbed and killed in front of students at the Edouard Herriot school in Albi in southern France. The suspect was the mother of a new student who suffered from psychiatric problems. ](/news/2014/07/4/a-kindergarten-teacher-is-stabbed-and-killed-in-front-of-students-at-the-edouard-herriot-school-in-albi-in-southern-france-the-suspect-was.md)
 PARIS — The mother of a pupil at a French pre-school stabbed a teacher to death in front of her class Friday, the last day of the school year, authorities said. The education minister said the moth…

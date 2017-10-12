@@ -4,7 +4,7 @@
 _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, Germany, November 22, SPD_
 
 ### [ Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. ](/news/2005/11/14/mexico-and-venezuela-have-withdrawn-their-ambassadors-amid-rising-tension-between-the-two-countries.md)
-_Context: Mexican, Venezuela_
+_Context: Mexico, Venezuela_
 
 ### [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md)
 _Context: Uzbekistan, industry, monopoly, petrol_

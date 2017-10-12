@@ -4,13 +4,13 @@
 _Context: Africa, Lesotho, United Nations_
 
 ### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth GBP300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
-_Context: Accra, British, Ghana, Kotoka International Airport, cocaine_
+_Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
 ### [ A Mexican federal court suspends the genocide trial of former President Luis Echeverria. ](/news/2007/07/12/a-mexican-federal-court-suspends-the-genocide-trial-of-former-president-luis-echeverraa.md)
-_Context: Luis Echeverria, Mexican, President, genocide_
+_Context: Luis Echeverria, Mexico, President, genocide_
 
 ### [ The Spanish Civil Guard raids a boat operated by Odyssey Marine Exploration that it claims may have taken treasure worth hundreds of millions of dollars from a Spanish galleon. ](/news/2007/07/12/the-spanish-civil-guard-raids-a-boat-operated-by-odyssey-marine-exploration-that-it-claims-may-have-taken-treasure-worth-hundreds-of-millio.md)
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.

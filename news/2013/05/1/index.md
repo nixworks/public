@@ -40,7 +40,7 @@ _Context: National Assembly, United Social Party of Venezuela, last month's pres
 _Context: A Boy and His Atom, IBM, San Jose, California, carbon monoxide, scanning tunneling microscope_
 
 ### [An international group of researchers announce in "Nature" the creation of a digital camera that can mimic the compound eyes of insects. ](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.md)
-_Context: Nature, compound eye, digital camera_
+_Context: ''Nature'', compound eye, digital camera_
 
 ### [The Wyoming, United States discovery of a tiny prehistoric bird, "Eocypselus rowei", may help explain the origins of hummingbirds. ](/news/2013/05/1/the-wyoming-united-states-discovery-of-a-tiny-prehistoric-bird-eocypselus-rowei-may-help-explain-the-origins-of-hummingbirds.md)
 A tiny, winged fossil could shed light on the origins of swift and hummingbird flight. The bird fossil, which was discovered in Wyoming, offers clues to the precursors of the speedy wings that these species use.

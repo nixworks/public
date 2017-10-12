@@ -19,7 +19,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ Schabir Shaik, a financial advisor to South African Deputy President Jacob Zuma, is found guilty of two counts of corruption and one of fraud in a 165-page judgment broadcast live as it was delivered over three days. The affair is considered to be a blow to Mr Zuma's ambitions to succeed the current president, Thabo Mbeki. ](/news/2005/06/2/schabir-shaik-a-financial-advisor-to-south-african-deputy-president-jacob-zuma-is-found-guilty-of-two-counts-of-corruption-and-one-of-fra.md)
-_Context: Jacob Zuma, Schabir Shaik, South Africa, Thabo Mbeki, anti-corruption, fraud_
+_Context: Jacob Zuma, Schabir Shaik, South Africa, Thabo Mbeki, corruption, fraud_
 
 ### [ In Serbia several former soldiers are arrested after the transmission on Serbian TV of video showing them executing six Bosniak men from Srebrenica in July 1995. The video is evidence from the trial of former president Slobodan Milosevic. Hitherto polls have shown that only half the population of Serbia believe that the Srebrenica massacre of 8000 men happened. ](/news/2005/06/2/in-serbia-several-former-soldiers-are-arrested-after-the-transmission-on-serbian-tv-of-video-showing-them-executing-six-bosniak-men-from-sr.md)
 _Context: Bosniaks, Serbia, Slobodan Milosevic, Srebrenica, Srebrenica massacre_

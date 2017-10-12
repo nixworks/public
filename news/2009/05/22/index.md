@@ -7,10 +7,10 @@ Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-ye
 _Context: Haiti, flood_
 
 ### [ Former Special Air Service officer John Wick is revealed as the whistleblower behind the United Kingdom Parliament's expenses controversy. [http:--news.bbc.co.uk-1-hi-uk_politics-8064731.stm (BBC)] [http:--www.telegraph.co.uk-news-newstopics-mps-expenses-5369066-MPs-expenses-whistleblower-John-Wick-on-why-he-set-the-scandal-running.html "(Telegraph)"]](/news/2009/05/22/former-special-air-service-officer-john-wick-is-revealed-as-the-whistleblower-behind-the-united-kingdom-parliament-s-expenses-controversy.md)
-_Context: British, John Wick, Parliament, SAS, expenses controversy, officer, whistleblower_
+_Context: John Wick, Parliament, SAS, United Kingdom, expenses controversy, officer, whistleblower_
 
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
-_Context: Chiautla de Tapia, Mexican, Puebla, earthquake, magnitude_
+_Context: Chiautla de Tapia, Mexico, Puebla, earthquake, magnitude_
 
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
 _Context: Mogadishu, Somalian, Transitional Federal Government, militant, radical Islamists, violence_

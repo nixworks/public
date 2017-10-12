@@ -7,7 +7,7 @@ _Context: Gaza, Israel, Israel Defense Forces, fire_
 _Context: Greek, Periklis Panagopoulos, kidnapped, magnate, ransom, shipping_
 
 ### [ The United Kingdom's consumer price inflation falls from 4.1% in November 2008 to 3.1% in December 2008. ](/news/2009/01/20/the-united-kingdom-s-consumer-price-inflation-falls-from-4-1-in-november-2008-to-3-1-in-december-2008.md)
-_Context: 2008, British_
+_Context: 2008, United Kingdom_
 
 ### [ The Rwandan Defense Forces and Congolese Armed Forces jointly search the Democratic Republic of the Congo for Hutu leaders who participated in the 1994 Rwandan genocide. ](/news/2009/01/20/the-rwandan-defense-forces-and-congolese-armed-forces-jointly-search-the-democratic-republic-of-the-congo-for-hutu-leaders-who-participated.md)
 _Context: 1994, Democratic Republic of the Congo, Hutu, Military of the Democratic Republic of the Congo, Rwanda, Rwandan Genocide, Rwandan army_

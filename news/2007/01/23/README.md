@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: 2007 Guinean uprising, Conakry_
 
 ### [ Qiu Xiaohua, former head of China's National Bureau of Statistics, is expelled from the Communist Party of China for corruption charges. ](/news/2007/01/23/qiu-xiaohua-former-head-of-china-s-national-bureau-of-statistics-is-expelled-from-the-communist-party-of-china-for-corruption-charges.md)
-_Context: Communist Party of China, NBS, Qiu Xiaohua, anti-corruption_
+_Context: Communist Party of China, NBS, Qiu Xiaohua, corruption_
 
 ### [ One and Unified Revolt: Hezbollah-led protesters spark clashes with government loyalists in Lebanon, resulting in 3 deaths and 133 wounded. Opposition forces later call off the general strike they had held. ](/news/2007/01/23/one-and-unified-revolt-hezbollah-led-protesters-spark-clashes-with-government-loyalists-in-lebanon-resulting-in-3-deaths-and-133-wounded.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

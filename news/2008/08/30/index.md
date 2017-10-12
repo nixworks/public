@@ -1,7 +1,7 @@
 ## [2008-08-30](/news/2008/08/30/index.md)
 
 ### [ Mass marches are held in more than 70 cities across Mexico, demanding stronger action against violent crime. ](/news/2008/08/30/mass-marches-are-held-in-more-than-70-cities-across-mexico-demanding-stronger-action-against-violent-crime.md)
-_Context: Crime in Mexico, Mexican_
+_Context: Crime in Mexico, Mexico_
 
 ### [ The 2008 Panzhihua earthquake in China's Sichuan province kills at least 15 people and injures dozens more. ](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.md)
 Chinese rescue teams carrying tents, quilts and sacks of rice rushed to reach survivors of an earthquake that killed at least 32 people, turned tens of thousands of homes into rubble and cracked reservoirs. 

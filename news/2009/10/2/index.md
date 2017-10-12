@@ -28,7 +28,7 @@ Around 50 activists of a Tamil outfit on Friday barged into the office of Sri La
 _Context: Facebook, Pakistan, Taliban, social network_
 
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
-_Context: Mexican, methamphetamine_
+_Context: Mexico, methamphetamine_
 
 ### [ Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
 Philippine Islands President Gloria Arroyo has declared a &quot;state of calamity&quot; th..
@@ -37,7 +37,7 @@ Philippine Islands President Gloria Arroyo has declared a &quot;state of calamit
 _Context: Conakry, Guinea, massacre of opposition protesters, mosque_
 
 ### [ A bid to force publication of an internal BBC review of its Middle East coverage, "EastEnders" and "Top Gear" is rejected in the British High Court of Justice. ](/news/2009/10/2/a-bid-to-force-publication-of-an-internal-bbc-review-of-its-middle-east-coverage-eastenders-and-top-gear-is-rejected-in-the-british-hi.md)
-_Context: BBC, British, EastEnders, High Court, Middle East, Top Gear_
+_Context: BBC, EastEnders, High Court, Middle East, Top Gear, United Kingdom_
 
 ## [Previous Day...](/news/2009/10/1/index.md)
 

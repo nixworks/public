@@ -13,7 +13,7 @@ _Context: Ariane 5, EADS SPACE Transportation, French Guiana, INSAT, India, Kour
 Space.com: Astronomers find some of the basic compounds necessary to build organic molecules and proteins found in DNA within the inner regions of a planet-forming disk.
 
 ### [ Tony Blair makes a surprise visit to Basra in Iraq, to address 4,000 British soldiers and discuss withdrawal. He states that "we can eventually draw down our own capability" once the Iraqi forces "build up their own strength". ](/news/2005/12/22/tony-blair-makes-a-surprise-visit-to-basra-in-iraq-to-address-4-000-british-soldiers-and-discuss-withdrawal-he-states-that-we-can-eventu.md)
-_Context: Basra, British, Iraq, Tony Blair, soldier_
+_Context: Basra, Iraq, Tony Blair, United Kingdom, soldier_
 
 ## [Previous Day...](/news/2005/12/21/index.md)
 

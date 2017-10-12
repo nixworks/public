@@ -40,7 +40,7 @@ _Context: Tajikistan, polio_
 _Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
 ### [One of Nigeria's most influential politicians, James Ibori, is arrested on corruption charges in Dubai. ](/news/2010/05/13/one-of-nigeria-s-most-influential-politicians-james-ibori-is-arrested-on-corruption-charges-in-dubai.md)
-_Context: Dubai, James Ibori, Nigeria, anti-corruption_
+_Context: Dubai, James Ibori, Nigeria, corruption_
 
 ### [Sudan asks Interpol to arrest Justice and Equality Movement chief Khalil Ibrahim. ](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.md)
 Sudan has asked Interpol to arrest Khalil Ibrahim, chief of JEM wherever he might be.

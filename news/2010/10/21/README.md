@@ -16,7 +16,7 @@ _Context: petrol station, recent strikes and demonstrations_
 Toyota said Thursday it is recalling 1.53 million Lexus, Avalon and other models, mostly in the U.S. and Japan, for brake fluid and fuel pump problems.
 
 ### [A powerful 6.9 magnitude occurs off the coast of Baja California Sur in Mexico. ](/news/2010/10/21/a-powerful-6-9-magnitude-occurs-off-the-coast-of-baja-california-sur-in-mexico.md)
-_Context: Baja California Sur, Mexican_
+_Context: Baja California Sur, Mexico_
 
 ### [At least 50 people die as an outbreak of an as-of-yet unidentified disease occurs in Haiti. ](/news/2010/10/21/at-least-50-people-die-as-an-outbreak-of-an-as-of-yet-unidentified-disease-occurs-in-haiti.md)
 A suspected outbreak of cholera has killed at least 135 people and infected 1,500 others in central Haiti, health officials say.

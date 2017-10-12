@@ -16,10 +16,10 @@ The incoming Trump Administration and UTX have reached an agreement that will ke
 ### Related:
 
 1. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _Context: Donald Trump, Indiana, Presidential transition of Donald Trump_
-2. [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md) _Context: Donald Trump, Mexican_
+2. [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md) _Context: Donald Trump, Mexico_
 3. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 4. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Donald Trump, Presidential transition of Donald Trump_
-5. [Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. ](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.md) _Context: Donald Trump, Mexican_
+5. [Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. ](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.md) _Context: Donald Trump, Mexico_
 
 ### Changes:
 

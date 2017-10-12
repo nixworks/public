@@ -13,7 +13,7 @@ _Context: Faure Gnassingb, Gnassingb Eyadma, President, Togo, heart attack_
 _Context: Chen Deming, China, People's Congress, Shaanxi, gubernatorial elections_
 
 ### [ In Malawi, President Bingu wa Mutharika quits the governing party, the United Democratic Front, stating he is fed up of criticism of his anti-corruption campaign. The party had debated whether to expel him for alleged misconduct. ](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.md)
-_Context: Bingu wa Mutharika, Malawi, President, United Democratic Front, anti-corruption_
+_Context: Bingu wa Mutharika, Malawi, President, United Democratic Front, corruption_
 
 ## [Previous Day...](/news/2005/02/4/index.md)
 

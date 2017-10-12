@@ -10,7 +10,7 @@ Militants unleashed a wave of deadly attacks in Baghdad on Tuesday, killing at l
 _Context: North Korea, Northern Limit Line, South Korean navy, fishing boat_
 
 ### [A Singapore court convicts British author Alan Shadrake of insulting the judicial system in his book "Once a Jolly Hangman: Singapore Justice in the Dock". ](/news/2010/11/3/a-singapore-court-convicts-british-author-alan-shadrake-of-insulting-the-judicial-system-in-his-book-once-a-jolly-hangman-singapore-justic.md)
-_Context: Alan Shadrake, British, Singapore, judicial system_
+_Context: Alan Shadrake, Singapore, United Kingdom, judicial system_
 
 ### [At least 25,000 students take to the streets of Dublin to protest against rising emigration, unemployment and an increase in university fees, in the largest such demonstration for a generation. ](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.md)
 IN THE largest student protest for a generation, at least 25,000 voiced their opposition to increased student fees outside the&hellip;
@@ -46,7 +46,7 @@ An Iranian woman whose sentence of execution by stoning for adultery provoked a 
 San Francisco has become the first major U.S. city to pass a law that cracks down on the popular practice of giving away free toys with unhealthy restaurant meals for children.
 
 ### [The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers. ](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.md)
-_Context: California, Mexican, Otay Mesa, Tijuana, U.S. Border Patrol, drug smuggling_
+_Context: California, Mexico, Otay Mesa, Tijuana, U.S. Border Patrol, drug smuggling_
 
 ### [Constitutional referendum results in Niger show that 90% of voters approve a return to civilian rule from the Supreme Council for the Restoration of Democracy military junta. ](/news/2010/11/3/constitutional-referendum-results-in-niger-show-that-90-of-voters-approve-a-return-to-civilian-rule-from-the-supreme-council-for-the-restor.md)
 Results from a referendum in Niger show more than 90% of voters backed a new constitution designed to return the country to civilian rule.

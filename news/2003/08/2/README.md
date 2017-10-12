@@ -13,7 +13,7 @@ _Context: Earth Liberation Front, San Diego, California, arson, condominium_
 _Context: Jos Bov, genetically modified wheat_
 
 ### [ Israeli Attorney General Elyakim Rubinstein publicly rebukes Ariel Sharon's son Gilad for refusing to cooperate with an investigation into graft and influence peddling.](/news/2003/08/2/israeli-attorney-general-elyakim-rubinstein-publicly-rebukes-ariel-sharon-s-son-gilad-for-refusing-to-cooperate-with-an-investigation-into.md)
-_Context: Ariel Sharon, Elyakim Rubinstein, Gilad, Israel, anti-corruption, attorney general_
+_Context: Ariel Sharon, Elyakim Rubinstein, Gilad, Israel, attorney general, corruption_
 
 ### [ Scientists announce that the ozone layer may be showing signs of recovery due to an international ban on chlorofluorocarbons.](/news/2003/08/2/scientists-announce-that-the-ozone-layer-may-be-showing-signs-of-recovery-due-to-an-international-ban-on-chlorofluorocarbons.md)
 _Context: chlorofluorocarbons, ozone layer_

@@ -31,7 +31,7 @@ _Context: Ante Golovina, Croatia, EU, International Criminal Tribunal for the fo
 _Context: Lukoil, Russia, plane crash_
 
 ### [ Zambian government files corruption charges against ex-president Frederick Chiluba in a British High Court. He is accused of defrauding the state of the equivalent of US$35 million. ](/news/2005/03/16/zambian-government-files-corruption-charges-against-ex-president-frederick-chiluba-in-a-british-high-court-he-is-accused-of-defrauding-the.md)
-_Context: Frederick Chiluba, Zambia, anti-corruption_
+_Context: Frederick Chiluba, Zambia, corruption_
 
 ### [ United Nations withdraws its foreign personnel from west of Darfur after threats from pro-government militias. ](/news/2005/03/16/united-nations-withdraws-its-foreign-personnel-from-west-of-darfur-after-threats-from-pro-government-militias.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

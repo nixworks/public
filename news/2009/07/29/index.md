@@ -46,7 +46,7 @@ _Context: International Monetary Fund_
 _Context: Cuba, Gulf of Mexico, Russia, crude oil_
 
 ### [ A rocket is launched from Kazakhstan carrying two British-built satellites designed to help monitor natural disasters. ](/news/2009/07/29/a-rocket-is-launched-from-kazakhstan-carrying-two-british-built-satellites-designed-to-help-monitor-natural-disasters.md)
-_Context: British, Kazakhstan, natural disaster_
+_Context: Kazakhstan, United Kingdom, natural disaster_
 
 ## [Previous Day...](/news/2009/07/28/index.md)
 

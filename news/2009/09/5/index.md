@@ -13,7 +13,7 @@ Sacking of Urumqui Communist party chief Li Zhi follows fresh ethnic unrest in r
 Minister for Foreign Affairs Micheál Martin is is expected to arrive in Khartoum tonight for meetings with the Sudanese government.
 
 ### [ An oil deal and trade concerns with Libya were at one point considered as factors in the Lockerbie bomber's release, British Justice Secretary Jack Straw says in an interview. ](/news/2009/09/5/an-oil-deal-and-trade-concerns-with-libya-were-at-one-point-considered-as-factors-in-the-lockerbie-bomber-s-release-british-justice-secret.md)
-_Context: British, Jack Straw, Libya, Lockerbie bomber_
+_Context: Jack Straw, Libya, Lockerbie bomber, United Kingdom_
 
 ### [ Thousands of people attend rival demonstrations for or against the policies of Venezuelan President Hugo Chvez in Venezuela, Spain, Honduras and in other Latin American capitals. ](/news/2009/09/5/thousands-of-people-attend-rival-demonstrations-for-or-against-the-policies-of-venezuelan-president-hugo-chavez-in-venezuela-spain-hondur.md)
 _Context: Honduras, Hugo Chvez, President, Spain, Venezuela_

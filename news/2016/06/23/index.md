@@ -31,7 +31,7 @@ _Context: Baltimore, death of Freddie Gray_
 _Context: Germany, Viernheim, Viernheim shooting_
 
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: British, EU, European Union membership referendum_
+_Context: EU, European Union membership referendum, United Kingdom_
 
 ### [The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country-between-the-two-side.md)
 The Colombian government and leftist Farc rebels sign a ceasefire deal to end five decades of conflict which claimed some 220,000 lives.

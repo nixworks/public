@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Bahrain, France, Haya Rashed Al-Khalifa, President of the United Nations General Assembly_
 
 ### [ The Broadmead area of Bristol, United Kingdom is temporarily closed following the discovery of a suspected unexploded German bomb from World War II ](/news/2006/06/8/the-broadmead-area-of-bristol-united-kingdom-is-temporarily-closed-following-the-discovery-of-a-suspected-unexploded-german-bomb-from-worl.md)
-_Context: Bristol, British, Broadmead, World War II_
+_Context: Bristol, Broadmead, United Kingdom, World War II_
 
 ### [ Microsoft makes Windows Vista beta 2 available for general download. ](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.md)
 _Context: Microsoft, Windows Vista_

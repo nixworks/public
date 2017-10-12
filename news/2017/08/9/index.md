@@ -4,7 +4,7 @@
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &qu...
 
 ### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md)
-_Context: 2017 Atlantic hurricane season, Atlantic Ocean, Gulf of Mexico, Hurricane Franklin, Mexican, Veracruz_
+_Context: 2017 Atlantic hurricane season, Atlantic Ocean, Gulf of Mexico, Hurricane Franklin, Mexico, Veracruz_
 
 ### [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-h.md)
 Two Cuban diplomats were kicked out of their embassy in Washington by the State Department after a number of mysterious incidents forced U.S. officials in Cuba to return home.

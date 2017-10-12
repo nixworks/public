@@ -28,7 +28,7 @@ The frontrunner to be Turkey&#039;s next president, Foreign Minister Abdullah Gu
 Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy prison sentence to avoid additional federal charges in a dogfighting case that has driven his NFL career to a halt.
 
 ### [ British police have released CCTV footage of a motorcyclist shortly before his murder on the M40 motorway near Leamington Spa, Warwickshire. ](/news/2007/08/20/british-police-have-released-cctv-footage-of-a-motorcyclist-shortly-before-his-murder-on-the-m40-motorway-near-leamington-spa-warwickshire.md)
-_Context: British, CCTV, Leamington Spa, M40 motorway, Warwickshire_
+_Context: CCTV, Leamington Spa, M40 motorway, United Kingdom, Warwickshire_
 
 ### [ Muslim groups occupy Sikh Bhai Taro Singh Jee temple in Lahore, Pakistan ](/news/2007/08/20/muslim-groups-occupy-sikh-bhai-taro-singh-jee-temple-in-lahore-pakistan.md)
 _Context: Lahore, Muslim, Pakistan_
@@ -49,7 +49,7 @@ Rebel Federal Labor MP Harry Quick has been thrown out of the party.
 _Context: Jamaica, eye, storm surge_
 
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Canada, Felipe Caldern, George W. Bush, Mexican, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, U.S., protest, tear gas_
+_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, U.S., protest, tear gas_
 
 ### [ A China Airlines Boeing 737 airplane explodes less than a minute after all passengers and crew are evacuated shortly after landing at Naha, Japan. (Wikinews)](/news/2007/08/20/a-china-airlines-boeing-737-airplane-explodes-less-than-a-minute-after-all-passengers-and-crew-are-evacuated-shortly-after-landing-at-naha.md)
 _Context: (Wikinews), 737, China Airlines, Naha, explodes_

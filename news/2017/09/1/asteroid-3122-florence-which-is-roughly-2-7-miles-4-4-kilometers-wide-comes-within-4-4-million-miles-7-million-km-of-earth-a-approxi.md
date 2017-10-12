@@ -13,10 +13,10 @@ A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record
 ### Related:
 
 1. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Asteroid, Moon_
-2. [Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: Moon_
-3. [SpaceX announces that it will take two space tourists on an orbit of the Moon in 2018. ](/news/2017/02/27/spacex-announces-that-it-will-take-two-space-tourists-on-an-orbit-of-the-moon-in-2018.md) _Context: Moon_
-4. [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md) _Context: Moon_
-5. [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md) _Context: Moon_
+2. [Apollo asteroid 2012 TC4 passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-asteroid-2012-tc4-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within-the-moon-s-orbit.md) _Context: Moon_
+3. [Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: Moon_
+4. [SpaceX announces that it will take two space tourists on an orbit of the Moon in 2018. ](/news/2017/02/27/spacex-announces-that-it-will-take-two-space-tourists-on-an-orbit-of-the-moon-in-2018.md) _Context: Moon_
+5. [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md) _Context: Moon_
 
 ### Changes:
 

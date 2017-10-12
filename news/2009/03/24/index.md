@@ -13,13 +13,13 @@ The French government will compensate victims of past nuclear tests and has earm
 _Context: Japan, South Korea, World Baseball Classic, defeats_
 
 ### [ Michael Misick resigns as Premier of the Turks and Caicos Islands, due to alleged corruption. ](/news/2009/03/24/michael-misick-resigns-as-premier-of-the-turks-and-caicos-islands-due-to-alleged-corruption.md)
-_Context: Michael Misick, Premier of the Turks and Caicos Islands, Turks and Caicos Islands, anti-corruption_
+_Context: Michael Misick, Premier of the Turks and Caicos Islands, Turks and Caicos Islands, corruption_
 
 ### [ South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. ](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.md)
 _Context: 14th Dalai Lama, Dalai Lama, Johannesburg, South Africa, peace conference, visa-free travel_
 
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
-_Context: British, Retail Prices Index_
+_Context: Retail Prices Index, United Kingdom_
 
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
 _Context: India, Indian Army, Insurgency in Jammu and Kashmir, Jammu and Kashmir, Kupwara District, militant, soldier_

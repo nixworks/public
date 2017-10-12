@@ -7,7 +7,7 @@ _Context: Burundi, Burundi Civil War, election_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Former OAS and Costa Rican president, Miguel Angel Rodriguez, is arrested after stepping down last week on allegations of corruption. He is not formally charged but a judge is demanding him to testify. ](/news/2004/10/15/former-oas-and-costa-rican-president-miguel-angel-rodriguez-is-arrested-after-stepping-down-last-week-on-allegations-of-corruption-he-is.md)
-_Context: Costa Rica, Miguel Angel Rodriguez, Organization of American States, anti-corruption_
+_Context: Costa Rica, Miguel Angel Rodriguez, Organization of American States, corruption_
 
 ### [ The Israel Defense Forces clears an officer accused of repeatedly shooting a Palestinian schoolgirl, Iman al-Hams, while she lay wounded or dead, accepting the officer's claim that he actually shot into the ground near the girl. A separate military police investigation is continuing. ](/news/2004/10/15/the-israel-defense-forces-clears-an-officer-accused-of-repeatedly-shooting-a-palestinian-schoolgirl-iman-al-hams-while-she-lay-wounded-or.md)
 _Context: Iman al-Hams, Israel Defense Forces, military police_

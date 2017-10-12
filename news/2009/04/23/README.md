@@ -1,7 +1,7 @@
 ## [2009-04-23](/news/2009/04/23/index.md)
 
 ### [ General Motors will temporarily close 13 factories in the United States and Mexico. ](/news/2009/04/23/general-motors-will-temporarily-close-13-factories-in-the-united-states-and-mexico.md)
-_Context: General Motors, Mexican, U.S., factory_
+_Context: General Motors, Mexico, U.S., factory_
 
 ### [ The Taliban's Students' Movement captures Buner District in Pakistan. ](/news/2009/04/23/the-taliban-s-students-movement-captures-buner-district-in-pakistan.md)
 _Context: Buner District, Pakistan, TTP, Taliban, War in North-West Pakistan_

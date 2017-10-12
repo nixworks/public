@@ -1,7 +1,7 @@
 ## [2009-06-4](/news/2009/06/4/index.md)
 
 ### [ United Kingdom Secretary of State for Work and Pensions James Purnell announces his resignation and requests that Prime Minister Gordon Brown also resign. [http:--www.guardian.co.uk-politics-2009-jun-04-james-purnell-resigns-gordon-brown-cabinet "(Guardian)"]](/news/2009/06/4/united-kingdom-secretary-of-state-for-work-and-pensions-james-purnell-announces-his-resignation-and-requests-that-prime-minister-gordon-bro.md)
-_Context: British, Gordon Brown, James Purnell, Prime Minister, Secretary of State for Work and Pensions_
+_Context: Gordon Brown, James Purnell, Prime Minister, Secretary of State for Work and Pensions, United Kingdom_
 
 ### [ Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. ](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.md)
 The personal details of thousands of civil servants were on laptop computers stolen during a break-in at government offices in Northern Ireland.
@@ -13,7 +13,7 @@ James Purnell, the work and pensions secretary, dealt a major blow to Gordon Bro
 _Context: A New Beginning, Barack Obama, Cairo, Egypt, Muslim, U.S. President_
 
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: British, EU, European Parliament, Netherlands, election_
+_Context: EU, European Parliament, Netherlands, United Kingdom, election_
 
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
 An inquiry has begun into the security breach which forced the postponement of today&#39;s Leaving Cert English Paper Two.

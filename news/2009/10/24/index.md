@@ -31,7 +31,7 @@ _Context: ASEAN, ASEAN Summit, Aung San Suu Kyi, Burma, National League for Demo
 _Context: Indonesia, earthquake_
 
 ### [ Thousands of people protest in London, England, demanding the withdrawal of British troops from Afghanistan. ](/news/2009/10/24/thousands-of-people-protest-in-london-england-demanding-the-withdrawal-of-british-troops-from-afghanistan.md)
-_Context: Afghanistan, British, England, London_
+_Context: Afghanistan, England, London, United Kingdom_
 
 ### [ The ruling National Movement for the Development of Society wins a controversial parliamentary election in Niger. ](/news/2009/10/24/the-ruling-national-movement-for-the-development-of-society-wins-a-controversial-parliamentary-election-in-niger.md)
 _Context: National Movement for the Development of Society, Niger, parliamentary election_

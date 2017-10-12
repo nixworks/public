@@ -10,7 +10,7 @@ _Context: Israel, Palestinian, Palestinian Islamic Jihad, Tel Aviv, Tulkarm_
 _Context: Afghanistan, Kabul, Pagja_
 
 ### [ Guardsman Anthony John Wakefield, from Newcastle upon Tyne, has been killed in Iraq after being injured in hostile action in the southern town of Al Amarah, bringing the total of UK servicemen killed in the Iraq conflict to 87. ](/news/2005/05/2/guardsman-anthony-john-wakefield-from-newcastle-upon-tyne-has-been-killed-in-iraq-after-being-injured-in-hostile-action-in-the-southern-t.md)
-_Context: Al Amarah, British, Iraq, Newcastle upon Tyne_
+_Context: Al Amarah, Iraq, Newcastle upon Tyne, United Kingdom_
 
 ### [ Europe's largest sporting goods maker Adidas-Salomon sold its Salomon division for 485 million euros to Finnish company Amer Sports (which owns Wilson Sporting Goods). ](/news/2005/05/2/europe-s-largest-sporting-goods-maker-adidas-salomon-sold-its-salomon-division-for-485-million-euros-to-finnish-company-amer-sports-which.md)
 _Context: Adidas, Amer Sports, Finland, Wilson Sporting Goods_

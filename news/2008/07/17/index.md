@@ -4,7 +4,7 @@
 _Context: Taiwan, Typhoon Kalmaegi (Helen)_
 
 ### [ The European Court of Human Rights has ruled that an ethnic Tamil man denied asylum in Britain could not be sent back to his native Sri Lanka because he would be at risk of torture there. ](/news/2008/07/17/the-european-court-of-human-rights-has-ruled-that-an-ethnic-tamil-man-denied-asylum-in-britain-could-not-be-sent-back-to-his-native-sri-lan.md)
-_Context: British, European Court of Human Rights, Sri Lanka, Tamil, asylum_
+_Context: European Court of Human Rights, Sri Lanka, Tamil, United Kingdom, asylum_
 
 ### [ The U.S. Food and Drug Administration lifts a warning on tomatoes following a recent salmonellosis outbreak. ](/news/2008/07/17/the-u-s-food-and-drug-administration-lifts-a-warning-on-tomatoes-following-a-recent-salmonellosis-outbreak.md)
 U.S. regulators on Thursday lifted a warning on tomatoes and repeated a warning on peppers as the possible cause of an outbreak of Salmonella Saintpaul in which more than 1,200 people have reported getting sick.

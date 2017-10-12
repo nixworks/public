@@ -1,7 +1,7 @@
 ## [2013-04-2](/news/2013/04/2/index.md)
 
 ### [The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/the-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mexico.md)
-_Context: Mexican, SUV, Tamaulipas, Texas, police_
+_Context: Mexico, SUV, Tamaulipas, Texas, police_
 
 ### [At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. ](/news/2013/04/2/at-least-7-people-are-killed-in-an-attack-by-militants-suspected-to-be-tehrik-i-taliban-pakistan-on-a-power-station-in-the-pakistani-city.md)
 At least seven people are killed as dozens of heavily-armed militants attack an electricity plant in the Pakistani city of Peshawar, officials say.

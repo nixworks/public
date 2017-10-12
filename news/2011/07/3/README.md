@@ -31,7 +31,7 @@ _Context: Nigeria_
 Powerful electrical storms swept across the area Sunday evening, felling trees and driving visitors from the National Mall. Thousands lost power.
 
 ### [A tourist boat sinks in the Sea of Cortez off the coast of Baja California in Mexico with 23 people missing. ](/news/2011/07/3/a-tourist-boat-sinks-in-the-sea-of-cortez-off-the-coast-of-baja-california-in-mexico-with-23-people-missing.md)
-_Context: Baja California, Mexican, Sea of Cortez, sinks_
+_Context: Baja California, Mexico, Sea of Cortez, sinks_
 
 ### [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md)
 _Context: China, East China Sea, Japan, South Korea, United Nations, territorial waters_

@@ -7,7 +7,7 @@ _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Na
 _Context: Barack Obama, Gary Locke, Governor, U.S., U.S. President, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, British, British Army, Gerishk District, Helmand Province, improvised explosive device_
+_Context: Afghanistan, British Army, Gerishk District, Helmand Province, United Kingdom, improvised explosive device_
 
 ### [ Three people set themselves on fire near Tiananmen Square in Beijing, China. ](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.md)
 _Context: Beijing, China, Tiananmen Square, sets herself alight_
@@ -49,13 +49,13 @@ _Context: China, Chinese human rights, Department of State, U.S._
 _Context: Al-Shabaab, Somali Civil War, Somalian, radical Islamists, terrorism_
 
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels. ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
-_Context: Mexican, U.S., drug cartel_
+_Context: Mexico, U.S., drug cartel_
 
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, conspiracy, defense contractor, weapon_
 
 ### [ Former Indian Communications Minister Sukhram is jailed for three years for corruption. ](/news/2009/02/25/former-indian-communications-minister-sukhram-is-jailed-for-three-years-for-corruption.md)
-_Context: India, Telecommunications Minister, anti-corruption_
+_Context: India, Telecommunications Minister, corruption_
 
 ### [ An Australian study classifies a fossilized fish as one of the earliest known vertebrates to use internal fertilization. ](/news/2009/02/25/an-australian-study-classifies-a-fossilized-fish-as-one-of-the-earliest-known-vertebrates-to-use-internal-fertilization.md)
 _Context: Australia, fish, fossil, internal fertilization, vertebrates_

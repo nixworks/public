@@ -12,11 +12,11 @@ Mexican soldiers kill 12 suspects in a gun battle in Zacatecas state, officials 
 
 ### Related:
 
-1. [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md) _Context: Mexican, Zacatecas_
-2. [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md) _Context: Mexican, Zacatecas_
-3. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexican_
-4. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexican_
-5. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexican_
+1. [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md) _Context: Mexico, Zacatecas_
+2. [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md) _Context: Mexico, Zacatecas_
+3. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
+4. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
+5. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
 
 ### Changes:
 

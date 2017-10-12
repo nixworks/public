@@ -10,7 +10,7 @@ _Context: Alan Johnston, BBC, Gaza, Palestinian_
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 
 ### [ Nigel Griffiths resigns as the Deputy Leader of the British House of Commons over the proposed expansion of the Trident missile system. ](/news/2007/03/12/nigel-griffiths-resigns-as-the-deputy-leader-of-the-british-house-of-commons-over-the-proposed-expansion-of-the-trident-missile-system.md)
-_Context: British, British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system_
+_Context: British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system, United Kingdom_
 
 ### [ Lieutenant General Kevin Kiley resigns as the Surgeon General of the United States Army over the Walter Reed Medical Center scandal. ](/news/2007/03/12/lieutenant-general-kevin-kiley-resigns-as-the-surgeon-general-of-the-united-states-army-over-the-walter-reed-medical-center-scandal.md)
 _Context: Kevin Kiley, Surgeon General of the United States Army, lieutenant general, poor conditions for veterans_

@@ -1,7 +1,7 @@
 ## [2008-10-4](/news/2008/10/4/index.md)
 
 ### [ Police find nine more dead bodies around the Mexican city of Tijuana with 50 people having died over the past week as a result of a week of drug trade related violence. ](/news/2008/10/4/police-find-nine-more-dead-bodies-around-the-mexican-city-of-tijuana-with-50-people-having-died-over-the-past-week-as-a-result-of-a-week-of.md)
-_Context: Mexican, Tijuana, anti-drug plan_
+_Context: Mexico, Tijuana, anti-drug plan_
 
 ### [ Mahir al-Zubaydi, senior commander for al Qaeda in Iraq for Baghdad east of the Tigris River, is killed by U.S. troops. ](/news/2008/10/4/mahir-al-zubaydi-senior-commander-for-al-qaeda-in-iraq-for-baghdad-east-of-the-tigris-river-is-killed-by-u-s-troops.md)
 _Context: Baghdad, Mahir al-Zubaydi, Tigris River, U.S., al-Qaeda in Iraq_

@@ -7,7 +7,7 @@ _Context: CDT, Hurricane Katrina, New Orleans, UTC, landfall_
 _Context: Bob Carr, Helena Carr, John Brogden, Liberal Party, Member for Pittwater, New South Wales, Opposition, Premier, mail-order bride_
 
 ### [ The Nigerian Vice President's home in Maryland, USA was raided by the FBI. Atiku Abubakar's relations with President Olusegun Obasanjo have cooled and it is possible he might use the pretext of the FBI corruption investigation to dismiss him.](/news/2005/08/29/the-nigerian-vice-president-s-home-in-maryland-usa-was-raided-by-the-fbi-atiku-abubakar-s-relations-with-president-olusegun-obasanjo-have.md)
-_Context: Atiku Abubakar, FBI, Maryland, Nigeria, Olusegun Obasanjo, President, anti-corruption_
+_Context: Atiku Abubakar, FBI, Maryland, Nigeria, Olusegun Obasanjo, President, corruption_
 
 ### [ Countries of the European Union attempt to work out a deal to end the "bra wars", the Chinese textile import row. ](/news/2005/08/29/countries-of-the-european-union-attempt-to-work-out-a-deal-to-end-the-bra-wars-the-chinese-textile-import-row.md)
 _Context: EU, bra wars, textile_

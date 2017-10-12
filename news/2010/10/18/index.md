@@ -37,7 +37,7 @@ A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and
 _Context: Ha Tinh Province, Vietnam_
 
 ### [At least nineteen people die near Santiago de Queretaro, Mexico, after a bus collides with a truck. ](/news/2010/10/18/at-least-nineteen-people-die-near-santiago-de-quera-c-taro-mexico-after-a-bus-collides-with-a-truck.md)
-_Context: Mexican, Santiago de Queretaro_
+_Context: Mexico, Santiago de Queretaro_
 
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)
 _Context: U.S. government, ban on ballistic missile tests, nuclear program_

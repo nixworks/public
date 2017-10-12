@@ -10,7 +10,7 @@ _Context: Pakistan, Pakistan army, Taliban, War in North-West Pakistan, militant
 The car driver who had sought to ram the Dutch royal family but killed five onlookers has died from his injuries.
 
 ### [ Carol Ann Duffy becomes the United Kingdom's first female Poet Laureate. ](/news/2009/05/1/carol-ann-duffy-becomes-the-united-kingdom-s-first-female-poet-laureate.md)
-_Context: British, Carol Ann Duffy, Poet Laureate_
+_Context: Carol Ann Duffy, Poet Laureate, United Kingdom_
 
 ### [ Three executives of Allied Irish Banks resign. ](/news/2009/05/1/three-executives-of-allied-irish-banks-resign.md)
 _Context: Allied Irish Banks, executives, resign_

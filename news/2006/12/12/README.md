@@ -10,7 +10,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Gaza, Mahmoud Abbas, Palestinian Authority President_
 
 ### [ Police in Ipswich, UK are hunting a possible serial killer after five prostitutes are found dead within the last ten days. ](/news/2006/12/12/police-in-ipswich-uk-are-hunting-a-possible-serial-killer-after-five-prostitutes-are-found-dead-within-the-last-ten-days.md)
-_Context: British, Ipswich, Ipswich murder case, prostitute_
+_Context: Ipswich, Ipswich murder case, United Kingdom, prostitute_
 
 ### [ Vietnam will become the 150th member of the World Trade Organization on January 11, 2007. The move finalises Hanoi's near-12-year wait to join the WTO. ](/news/2006/12/12/vietnam-will-become-the-150th-member-of-the-world-trade-organization-on-january-11-2007-the-move-finalises-hanoi-s-near-12-year-wait-to-j.md)
 _Context: Vietnam, World Trade Organization_

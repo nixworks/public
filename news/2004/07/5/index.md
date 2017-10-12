@@ -10,7 +10,7 @@ _Context: Abu Ghraib prisoner abuse, International Committee of the Red Cross, I
 _Context: Megawati Sukarnoputri, Susilo Bambang Yudhoyono, Wiranto, presidential election, second round_
 
 ### [ Alfonso Durazo, spokesman and private secretary to Mexican President Vicente Fox, resigns over "political differences" with his boss, including the presidential ambitions of First Lady Marta Sahagn. The announcement came shortly after, but was not related to, a bad day for Fox's PAN party in state elections in its northern heartland. ](/news/2004/07/5/alfonso-durazo-spokesman-and-private-secretary-to-mexican-president-vicente-fox-resigns-over-political-differences-with-his-boss-inclu.md)
-_Context: Alfonso Durazo, Marta Sahagn, Mexican, National Action Party (PAN), President, Vicente Fox_
+_Context: Alfonso Durazo, Marta Sahagn, Mexico, National Action Party (PAN), President, Vicente Fox_
 
 ### [ ric Gagn, former three-time All-Star Major League Baseball closer and 2003 NL Cy Young Award winner, has his record for consecutive games saved broken at 84.](/news/2004/07/5/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-has-his-record-for-consecutive-games.md)
 _Context: All-Star, Cy Young Award, Major League Baseball, ric Gagn, saved, three-, time_

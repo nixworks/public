@@ -25,7 +25,7 @@ _Context: Clearstream, Dominique de Villepin, Nicolas Sarkozy, President of Fran
 _Context: Brazil, Greater So Paulo, Santo Andr_
 
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: Birmingham, British, Staffordshire hoard_
+_Context: Birmingham, Staffordshire hoard, United Kingdom_
 
 ### [ Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters. ](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.md)
 _Context: Palau, commercial shark fishing, shark_

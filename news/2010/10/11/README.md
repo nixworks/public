@@ -46,7 +46,7 @@ _Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute 
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.
 
 ### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
-_Context: 7 July, British, Heather Hallett, inquest_
+_Context: 7 July, Heather Hallett, United Kingdom, inquest_
 
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
 _Context: Manila hostage crisis, Philippine President, his predecessor_

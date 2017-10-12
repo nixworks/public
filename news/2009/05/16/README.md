@@ -10,7 +10,7 @@ Ruth Padel has become the new Oxford Professor of Poetry today, following a cont
 _Context: 2008-09 season, English Premier League, Manchester United_
 
 ### [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md)
-_Context: Gulf Cartel, Mexican, Zacatecas, drug cartel, prison, prison escape_
+_Context: Gulf Cartel, Mexico, Zacatecas, drug cartel, prison, prison escape_
 
 ### [ Representative Yukio Hatoyama becomes the President of Japan's Democratic Party. ](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.md)
 _Context: Democratic Party, House of Representatives, Japan, President, Yukio Hatoyama_
@@ -28,7 +28,7 @@ _Context: Pakistan, Peshawar, War in North-West Pakistan, car bomb_
 Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their chief, Velupillai Prabhakaran, and ending his three-decade quest for an independent homeland for Tamils. 
 
 ### [ The United Kingdom's Royal Air Force ends its involvement in Iraq. ](/news/2009/05/16/the-united-kingdom-s-royal-air-force-ends-its-involvement-in-iraq.md)
-_Context: British, Iraq, Royal Air Force_
+_Context: Iraq, Royal Air Force, United Kingdom_
 
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
 _Context: China, Hong Kong, acid, acid attack, acid attack_

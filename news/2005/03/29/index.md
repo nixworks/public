@@ -13,7 +13,7 @@ _Context: Denver, Microsoft, Scott Richter, bankruptcy, lawsuit, spam_
 _Context: File sharing, MGM Studios v. Grokster, P2P, United States Supreme Court, lawsuit_
 
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
-_Context: Bosnia and Herzegovina, Croat, Dragan Covic, High Representative, Lord, Paddy Ashdown, anti-corruption, presidency_
+_Context: Bosnia and Herzegovina, Croat, Dragan Covic, High Representative, Lord, Paddy Ashdown, corruption, presidency_
 
 ### [ Three Romanian journalists are kidnapped in Iraq, the latest in a long series of kidnappings for money or political reasons in the country. ](/news/2005/03/29/three-romanian-journalists-are-kidnapped-in-iraq-the-latest-in-a-long-series-of-kidnappings-for-money-or-political-reasons-in-the-country.md)
 _Context: Iraq, Romania, journalist, kidnapped_

@@ -37,7 +37,7 @@ _Context: 2007 Pacific typhoon season, China, Shanghai_
 _Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, ZTE, broadband, senators_
 
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
-_Context: Las Vegas, Nevada, O. J. Simpson, felons_
+_Context: Las Vegas, Nevada, O. J. Simpson, felony_
 
 ### [ In Japan, the event "Nice Boat" occurred on all Japanese TV's replacing the final episode of the anime, "School Days".](/news/2007/09/18/in-japan-the-event-nice-boat-occurred-on-all-japanese-tv-s-replacing-the-final-episode-of-the-anime-school-days.md)
 ## [Previous Day...](/news/2007/09/17/index.md)

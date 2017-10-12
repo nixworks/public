@@ -22,7 +22,7 @@ _Context: 2008 Chinese milk scandal, China, melamine_
 Intense gun battles between African Union peacekeepers and Islamic fundamentalists erupted Monday in parts of the Somali capital, Mogadishu, witnesses said.
 
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the 2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)
-_Context: Cancun, China, G4 bloc, IBSA Dialogue Forum, India, Mexican, New Delhi, U.N. climate change talks, climate change_
+_Context: Cancun, China, G4 bloc, IBSA Dialogue Forum, India, Mexico, New Delhi, U.N. climate change talks, climate change_
 
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
 _Context: 1992, Dutch professional club, FC Wageningen, HFC Haarlem, Netherlands, VCV Zeeland, association football, national champion_

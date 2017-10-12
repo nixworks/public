@@ -13,7 +13,7 @@ Reuters.com for the weird, oddly enough stories.
 
 ### Related:
 
-1. [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption. ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md) _Context: Alberto Fujimori, Peru, anti-corruption, murder_
+1. [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption. ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md) _Context: Alberto Fujimori, Peru, corruption, murder_
 2. [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md) _Context: Alberto Fujimori, Peru, President_
 3. [ Former Peruvian President Alberto Fujimori pleads guilty to bribery and illegal phone-tapping of journalists, businessmen and opposition politicians. ](/news/2009/09/28/former-peruvian-president-alberto-fujimori-pleads-guilty-to-bribery-and-illegal-phone-tapping-of-journalists-businessmen-and-opposition-po.md) _Context: Alberto Fujimori, Peru, President_
 4. [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md) _Context: Alberto Fujimori, Peru, President_

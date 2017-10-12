@@ -7,7 +7,7 @@ _Context: Ehud Goldwasser, Hezbollah, Israel, Kofi Annan, Red Cross, United Nati
 _Context: Colorado, DNA test, John Mark Karr, JonBent Ramsey, U.S. state_
 
 ### [ Mexico's Federal Electoral Tribunal rules unanimously that results in contested polling stations only marginally affected the lead of Felipe Caldern of the ruling National Action Party over Andrs Manuel Lpez Obrador in July's disputed presidential election. ](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.md)
-_Context: Andrs Manuel Lpez Obrador, Disputed Mexican election, Federal Electoral Tribunal, Felipe Caldern, Mexican, Mexican general election, National Action Party (PAN)_
+_Context: Andrs Manuel Lpez Obrador, Disputed Mexican election, Federal Electoral Tribunal, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN)_
 
 ### [ The State Comptroller of Israel Micha Lindenstrauss releases a report stating that Ehud Olmert made political appointments of Likud Party members while serving as Industry & Trade Minister. ](/news/2006/08/28/the-state-comptroller-of-israel-micha-lindenstrauss-releases-a-report-stating-that-ehud-olmert-made-political-appointments-of-likud-party-m.md)
 _Context: Comptroller, Ehud Olmert, Israel, Likud Party, Micha Lindenstrauss_

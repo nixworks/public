@@ -40,7 +40,7 @@ A former Brookside actor appears in court charged with the murder of a nightclub
 Barry Bonds was found guilty of obstruction of justice but a jury failed to reach a verdict on three other counts that the home run king lied to a grand jury in 2003 when he specifically denied that he knowingly used steroids and human growth hormone.
 
 ### [Lee Bradley Brown, 39, a British tourist is allegedly beaten to death in the Bur Dubai police station in Dubai after being arrested for swearing. ](/news/2011/04/13/lee-bradley-brown-39-a-british-tourist-is-allegedly-beaten-to-death-in-the-bur-dubai-police-station-in-dubai-after-being-arrested-for-swea.md)
-_Context: British, Bur Dubai, Dubai, Lee Bradley Brown_
+_Context: Bur Dubai, Dubai, Lee Bradley Brown, United Kingdom_
 
 ### [Chinese authorities continue a crackdown on dissent, with some activists placed on labour camps according to rights groups. ](/news/2011/04/13/chinese-authorities-continue-a-crackdown-on-dissent-with-some-activists-placed-on-labour-camps-according-to-rights-groups.md)
 Police in China have sent two activists to labor camps and charged a veteran dissident with subversion over calls for public rallies echoing those in the Arab world, a rights group said yesterday.

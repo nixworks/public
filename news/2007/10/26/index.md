@@ -1,7 +1,7 @@
 ## [2007-10-26](/news/2007/10/26/index.md)
 
 ### [ An explosion shakes the Mexican consulate in New York City. The explosion was caused by two thrown hand grenades aided by additional explosive material. 7 injuries were reported, with several windows blown out and debris entering the building. ](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-new-york-city-the-explosion-was-caused-by-two-thrown-hand-grenades-aided-by-additional-explos.md)
-_Context: Mexican, New York City, consulate, explosion, hand grenades_
+_Context: Mexico, New York City, consulate, explosion, hand grenades_
 
 ### [ UN Security Council urges Nepal to set early date for Constituent Assembly election.date=December 2007](/news/2007/10/26/un-security-council-urges-nepal-to-set-early-date-for-constituent-assembly-election-date-december-2007.md)
 _Context: Constituent Assembly, Nepal, UN Security Council, election_

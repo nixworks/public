@@ -7,7 +7,7 @@ A eerie turquoise light spotted over Norway has sparked a mystery, with suggesti
 _Context: Israel, Israeli settlement, West Bank_
 
 ### [ British Chancellor of the Exchequer Alistair Darling delivers the pre Budget report, with tax rises and spending cuts to reduce the government debt. ](/news/2009/12/9/british-chancellor-of-the-exchequer-alistair-darling-delivers-the-pre-budget-report-with-tax-rises-and-spending-cuts-to-reduce-the-governm.md)
-_Context: Alistair Darling, British, Chancellor of the Exchequer_
+_Context: Alistair Darling, Chancellor of the Exchequer, United Kingdom_
 
 ### [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md)
 _Context: Brian Lenihan Jnr, Budget for 2010, Finance Minister, Republic of Ireland_
@@ -31,7 +31,7 @@ _Context: India, electric fence_
 Liu Xiaobo, a prominent dissident who has been in detention for a year, is charged with seeking to subvert the state by posting online essays favoring democracy.
 
 ### [ Tens of thousands of people rally in several cities in Indonesia demanding the government do more to tackle political corruption. ](/news/2009/12/9/tens-of-thousands-of-people-rally-in-several-cities-in-indonesia-demanding-the-government-do-more-to-tackle-political-corruption.md)
-_Context: Indonesia, anti-corruption_
+_Context: Indonesia, corruption_
 
 ### [ Aung San Suu Kyi meets with an official from the military junta for the third time, as Burmese state media accuse her of being "dishonest". ](/news/2009/12/9/aung-san-suu-kyi-meets-with-an-official-from-the-military-junta-for-the-third-time-as-burmese-state-media-accuse-her-of-being-dishonest.md)
 _Context: Aung San Suu Kyi, Burma, State Peace and Development Council, go on sale_

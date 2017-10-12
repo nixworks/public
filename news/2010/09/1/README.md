@@ -25,7 +25,7 @@ _Context: Michael Douglas, throat cancer_
 Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping into unconsciousness, her publicist confirms.
 
 ### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
-_Context: A Journey, British, Prime Minister, Tony Blair, autobiography, bestseller_
+_Context: A Journey, Prime Minister, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
 _Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
