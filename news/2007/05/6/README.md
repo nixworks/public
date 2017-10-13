@@ -1,7 +1,7 @@
 ## [2007-05-6](/news/2007/05/6/index.md)
 
 ### [ Palestinian extremists bomb a United Nations-run Gaza elementary school in the continuing Palestinian factional violence, killing at least one and wounding at least seven. ](/news/2007/05/6/palestinian-extremists-bomb-a-united-nations-run-gaza-elementary-school-in-the-continuing-palestinian-factional-violence-killing-at-least.md)
-_Context: Gaza, United Nations, clashes_
+_Context: Gaza Strip, United Nations, clashes_
 
 ### [ HaMoked Center for the Defense of the Individual and B'Tselem, Israeli human rights organizations, accuse the Israeli Defense Ministry of abusing Palestinian detainees in 73 cases. The Justice Ministry said the report was "fraught with mistakes, groundless claims and inaccuracies." ](/news/2007/05/6/hamoked-center-for-the-defense-of-the-individual-and-b-tselem-israeli-human-rights-organizations-accuse-the-israeli-defense-ministry-of-a.md)
 _Context: B'Tselem, Human rights, Israel, Palestinian_

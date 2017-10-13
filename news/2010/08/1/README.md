@@ -7,7 +7,7 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 _Context: North Korea, South Korea, land mine_
 
 ### [Israel Defense Forces jets attack targets in the Gaza Strip following a Qassam rocket fired at the Negev in Israel on Saturday night. ](/news/2010/08/1/israel-defense-forces-jets-attack-targets-in-the-gaza-strip-following-a-qassam-rocket-fired-at-the-negev-in-israel-on-saturday-night.md)
-_Context: Gaza, Israel, Israel Defense Forces, Negev, Qassam rocket_
+_Context: Gaza Strip, Israel, Israel Defense Forces, Negev, Qassam rocket_
 
 ### [Almost 90,000 people flee renewed fighting in the eastern Democratic Republic of the Congo in the past month reflecting a declining security situation as the military fights Allied Democratic Forces-National Army for the Liberation of Uganda Ugandan Islamist rebels. ](/news/2010/08/1/almost-90-000-people-flee-renewed-fighting-in-the-eastern-democratic-republic-of-the-congo-in-the-past-month-reflecting-a-declining-security.md)
 _Context: Allied Democratic Forces-National Army for the Liberation of Uganda, Democratic Republic of the Congo, Islamist, Military of the Democratic Republic of the Congo, Uganda_

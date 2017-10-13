@@ -16,7 +16,7 @@ _Context: Saddam Hussein, Tony Blair, death penalty_
 Bombs have exploded at Mexico&#39;s top electoral court, an opposition party&#39;s headquarters and a bank in the capital.
 
 ### [ Operation Autumn Clouds: A female Palestinian suicide bomber has blown herself up in a Gaza Strip town, killing herself and injuring an Israeli soldier, the Israeli army says. ](/news/2006/11/6/operation-autumn-clouds-a-female-palestinian-suicide-bomber-has-blown-herself-up-in-a-gaza-strip-town-killing-herself-and-injuring-an-isr.md)
-_Context: Gaza, Israel, Israeli Army, Operation Autumn Clouds_
+_Context: Gaza Strip, Israel, Israeli Army, Operation Autumn Clouds_
 
 ### [ The Polish President, Lech Kaczynski, proposes that there be a 100,000 man-strong EU Army designed to work with NATO. ](/news/2006/11/6/the-polish-president-lech-kaczyaski-proposes-that-there-be-a-100-000-man-strong-eu-army-designed-to-work-with-nato.md)
 The President of Poland, Lech Kaczynski, has proposed the creation of a 100,000-strong European Union army tied to NATO.

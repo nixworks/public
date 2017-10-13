@@ -13,11 +13,11 @@ Crews had seemed to be making progress controlling the blaze, burning since the 
 
 ### Related:
 
-1. [Residents return to Fort McMurray for the first time since May 1. A couple thousand firefighters, from as far away as South Africa, continue to battle the 5,800 square kilometer (3,603 square mile) Canadian blaze that has crossed the Alberta border into Saskatchewan. ](/news/2016/06/1/residents-return-to-fort-mcmurray-for-the-first-time-since-may-1-a-couple-thousand-firefighters-from-as-far-away-as-south-africa-continue.md) _Context: Alberta, Canada, Fort McMurray_
-2. [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md) _Context: Alberta, Canada, Wildfire_
-3. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _Context: Alberta, Canada, Wildfire_
-4. [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md) _Context: Alberta, Canada, Wildfire_
-5. [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md) _Context: Alberta, Canada, Wildfire_
+1. [Residents return to Fort McMurray for the first time since May 1. A couple thousand firefighters, from as far away as South Africa, continue to battle the 5,800 square kilometer (3,603 square mile) Canadian blaze that has crossed the Alberta border into Saskatchewan. ](/news/2016/06/1/residents-return-to-fort-mcmurray-for-the-first-time-since-may-1-a-couple-thousand-firefighters-from-as-far-away-as-south-africa-continue.md) _Context: Alberta, Canadian, Fort McMurray_
+2. [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md) _Context: Alberta, Canadian, Wildfire_
+3. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _Context: Alberta, Canadian, Wildfire_
+4. [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md) _Context: Alberta, Canadian, Wildfire_
+5. [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md) _Context: Alberta, Canadian, Wildfire_
 
 ### Changes:
 

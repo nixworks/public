@@ -13,7 +13,7 @@ _Context: 15 January, 2007, Andes, Chile_
 _Context: Ebola, Etoumbi, Republic of the Congo_
 
 ### [ Israeli-Palestinian conflict: Israeli troops kill one Palestinian militant as three to four Hamas, Popular Resistance Committees, and Al Aqsa Martyrs Brigade militants fire mortar shells and anti-tank missiles on Israelis living in the Kfar Darom settlement in the Gaza Strip. ](/news/2005/05/20/israeli-palestinian-conflict-israeli-troops-kill-one-palestinian-militant-as-three-to-four-hamas-popular-resistance-committees-and-al-aq.md)
-_Context: Al Aqsa Martyrs Brigade, Gaza, Hamas, Israel, Israeli-Palestinian conflict, Kfar Darom, Mortar, Palestinian, Popular Resistance Committees, anti-tank missile_
+_Context: Al Aqsa Martyrs Brigade, Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, Kfar Darom, Mortar, Palestinian, Popular Resistance Committees, anti-tank missile_
 
 ### [ 2005 Pacific hurricane season: Two people die as Hurricane Adrian makes landfall near San Salvador, El Salvador.](/news/2005/05/20/2005-pacific-hurricane-season-two-people-die-as-hurricane-adrian-makes-landfall-near-san-salvador-el-salvador.md)
 A major storm, the first of the 2005 Pacific season, slammed into El Salvador Friday and then broke up over Honduras with its heavy rains still threatening dangerous flash floods and mudslides across Central America.

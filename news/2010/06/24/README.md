@@ -43,7 +43,7 @@ Iran flotilla organizers note Israel sees vessels from Iran, Lebanon as &#39;sig
 _Context: Ban Ki-moon, East Jerusalem, Palestinian, Secretary General, United Nations, tourist park_
 
 ### [United Nations Relief and Works Agency for Palestine Refugees in the Near East commissioner-general Filippo Grandi questions the fine print of Israel's promise to ease its blockade on Gaza, citing parts which are unclear and saying it is "urgent, because the conditions are very bad on the ground". ](/news/2010/06/24/united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-commissioner-general-filippo-grandi-questions-the-fine-print.md)
-_Context: Filippo Grandi, Gaza, Israel, Palestinian refugees, fine print_
+_Context: Filippo Grandi, Gaza Strip, Israel, Palestinian refugees, fine print_
 
 ### [Hooded gunmen kill 4 commuters in Philippines. ](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.md)
 _Context: Philippine_
@@ -52,7 +52,7 @@ _Context: Philippine_
 A Burundi minister voices concern at reports that opposition leader and ex-rebel chief Agathon Rwasa has gone into hiding.
 
 ### [During a meeting with Benjamin Netanyahu, Austria's Chancellor Werner Faymann calls on him to lift the Gaza Strip embargo. ](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.md)
-_Context: Benjamin Netanyahu, Gaza, Werner Faymann_
+_Context: Benjamin Netanyahu, Gaza Strip, Werner Faymann_
 
 ### [Somaliland is set to go to the polls with its president facing a challenge to be reelected. ](/news/2010/06/24/somaliland-is-set-to-go-to-the-polls-with-its-president-facing-a-challenge-to-be-reelected.md)
 _Context: Somaliland_
@@ -61,7 +61,7 @@ _Context: Somaliland_
 _Context: Belarus, Gazprom, Russia, export, monopoly, natural gas_
 
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
-_Context: Bridgeport, U.S._
+_Context: Bridgeport, United States_
 
 ### [Sri Lanka announces that a United Nations panel investigating human rights abuses will not be allowed to enter the country. ](/news/2010/06/24/sri-lanka-announces-that-a-united-nations-panel-investigating-human-rights-abuses-will-not-be-allowed-to-enter-the-country.md)
 The Sri Lankan foreign minister has said that a UN panel on human rights will not be allowed into the country.

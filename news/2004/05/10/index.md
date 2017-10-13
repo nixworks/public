@@ -13,7 +13,7 @@ _Context: Arab League, March of this year, Tunis_
 _Context: Commonwealth of Nations, Gaza, Lynndie England, Palestinian_
 
 ### [ The Palestinian Cabinet announces plans to hold municipal elections, starting with Jericho and followed by some Gaza Strip municipalities. The elections, starting in August, will replace mayors appointed by the Palestine Authority. The previous elections, for president and legislature, were held in 1996. ](/news/2004/05/10/the-palestinian-cabinet-announces-plans-to-hold-municipal-elections-starting-with-jericho-and-followed-by-some-gaza-strip-municipalities.md)
-_Context: August, Gaza, Jericho, Palestine Authority, Palestinian National Authority_
+_Context: August, Gaza Strip, Jericho, Palestine Authority, Palestinian National Authority_
 
 ### [ President George W. Bush is expected to impose economic sanctions on Syria, alleging support of terrorism and failure to stop guerrillas from entering Iraq. ](/news/2004/05/10/president-george-w-bush-is-expected-to-impose-economic-sanctions-on-syria-alleging-support-of-terrorism-and-failure-to-stop-guerrillas-fr.md)
 _Context: Iraq, Syria, terrorism_

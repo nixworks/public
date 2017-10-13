@@ -4,7 +4,7 @@
 Anti-government protesters firebomb a bus full of sleeping passengers in Bangladesh killing seven.
 
 ### [Egyptian Army soldiers fire warning shots at the Gaza Strip after an explosion occurs on the Gaza side of the border near a convoy. ](/news/2015/02/3/egyptian-army-soldiers-fire-warning-shots-at-the-gaza-strip-after-an-explosion-occurs-on-the-gaza-side-of-the-border-near-a-convoy.md)
-_Context: Egyptian Army, Gaza_
+_Context: Egyptian Army, Gaza Strip_
 
 ### [The Islamic State of Iraq and the Levant posts pictures of Jordanian Air Force pilot Muath Al-Kasasbeh being burnt alive which Jordan believes are a month old. ](/news/2015/02/3/the-islamic-state-of-iraq-and-the-levant-posts-pictures-of-jordanian-air-force-pilot-muath-al-kasasbeh-being-burnt-alive-which-jordan-believ.md)
 Jordan confirms the death of pilot Moaz al-Kasasbeh after a video published online by Islamic State claims to show him being burned alive.
@@ -34,7 +34,7 @@ Standard &amp; Poor’s $1.5 billion settlement today will let the world’s big
 An Argentine prosecutorfound dead in mysterious circumstances last month had drafted arequest that President Cristina Fernandez be arrested forconspiring to derail his probe into the deadly bombing of aJewish center, the investigator into his death said on Tuesday.
 
 ### [John Baird resigns as the Canadian Minister of Foreign Affairs. ](/news/2015/02/3/john-baird-resigns-as-the-canadian-minister-of-foreign-affairs.md)
-_Context: Canada, John Baird, Minister of Foreign Affairs_
+_Context: Canadian, John Baird, Minister of Foreign Affairs_
 
 ## [Previous Day...](/news/2015/02/2/index.md)
 

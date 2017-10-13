@@ -22,7 +22,7 @@ _Context: Avian flu virus, Spanish Flu, Thailand, World Health Organization, bir
 _Context: Baghdad, Simona Pari, Simona Torretta, hostage_
 
 ### [ In the Gaza Strip, CNN producer Riad Abu Ali, an Israeli citizen, is released by his captors one day after he was abducted from his car by Palestinian militants. ](/news/2004/09/28/in-the-gaza-strip-cnn-producer-riad-abu-ali-an-israeli-citizen-is-released-by-his-captors-one-day-after-he-was-abducted-from-his-car-by.md)
-_Context: CNN, Gaza, Israel, Palestinian militants_
+_Context: CNN, Gaza Strip, Israel, Palestinian militants_
 
 ### [ The price of U.S. light crude briefly exceeds the price of USD 50-barrel, the highest since 1983. Analysts attribute the increase largely to concerns over the disruption of oil production in Nigeria; conflicts in Iraq and Saudi Arabia and the effects of Hurricane Ivan are also cited. ](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.md)
 _Context: $, Hurricane Ivan, Iraq, Nigeria, Saudi Arabia, barrel, crude oil_

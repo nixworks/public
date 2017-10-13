@@ -25,7 +25,7 @@ _Context:  Russian President, Chechnya, Iran, Kosovo, Moscow, Nicolas Sarkozy, P
 _Context: Albert Fert, Nobel Prize in Physics, Peter Grnberg, giant magnetoresistance_
 
 ### [ The general election in the Canadian province of Newfoundland and Labrador gives the Conservative government of Premier Danny Williams an enlarged majority at the expense of the Liberals. ](/news/2007/10/9/the-general-election-in-the-canadian-province-of-newfoundland-and-labrador-gives-the-conservative-government-of-premier-danny-williams-an-e.md)
-_Context: Canada, Danny Williams, Liberals, Newfoundland and Labrador, Progressive Conservative Party, general election, province_
+_Context: Canadian, Danny Williams, Liberals, Newfoundland and Labrador, Progressive Conservative Party, general election, province_
 
 ### [ The Dow Jones Industrial Average reaches its highest point in history, closing at a record high of 14,164.53.](/news/2007/10/9/the-dow-jones-industrial-average-reaches-its-highest-point-in-history-closing-at-a-record-high-of-14-164-53.md)
 _Context: Dow Jones Industrial Average_

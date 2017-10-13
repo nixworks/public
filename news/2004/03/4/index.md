@@ -22,7 +22,7 @@ _Context: Rabiya Kadeer, Wang Youcai_
 _Context: New York City, Rudolph Giuliani, September 11, 2001 attacks, US Republican Party_
 
 ### [ Israeli tanks (around 15 armoured vehicles escorted by several bulldozers) enter the town of Rafah in the southern Gaza Strip, exchanging gunfire with resistance and later demolishing a four-storey building, claiming "anti-terrorist operations". ](/news/2004/03/4/israeli-tanks-around-15-armoured-vehicles-escorted-by-several-bulldozers-enter-the-town-of-rafah-in-the-southern-gaza-strip-exchanging-g.md)
-_Context: Gaza, Israel, Rafah_
+_Context: Gaza Strip, Israel, Rafah_
 
 ### [ The Prime Minister of Malaysia dissolves the national parliament and all state assemblies except Sarawak's, paving the way for the general election to be held within 60 days as dictated by the constitution. ](/news/2004/03/4/the-prime-minister-of-malaysia-dissolves-the-national-parliament-and-all-state-assemblies-except-sarawak-s-paving-the-way-for-the-general.md)
 _Context: Malaysia, Malaysian Prime Minister, Malaysian general election, Parliament of Malaysia, Sarawak, constitutional right_

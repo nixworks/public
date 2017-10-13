@@ -4,7 +4,7 @@
 _Context: England, Scotland, Wales, child seats_
 
 ### [ A suicide bomber has killed at least four Canadians in an attack on a NATO patrol in the southern Afghan province of Kandahar, Canada's military says. ](/news/2006/09/18/a-suicide-bomber-has-killed-at-least-four-canadians-in-an-attack-on-a-nato-patrol-in-the-southern-afghan-province-of-kandahar-canada-s-mil.md)
-_Context: Canada, Kandahar, NATO_
+_Context: Canadian, Kandahar, NATO_
 
 ### [ Somali President Abdullahi Yusuf survives an assassination attempt when two bombs explode near the parliament building, killing 11 people. ](/news/2006/09/18/somali-president-abdullahi-yusuf-survives-an-assassination-attempt-when-two-bombs-explode-near-the-parliament-building-killing-11-people.md)
 _Context: Abdullahi Yusuf, Somalian, assassinated_

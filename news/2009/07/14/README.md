@@ -28,13 +28,13 @@ _Context: Charles Taylor, Liberia, President, trial_
 _Context: Bastille Day, France, series of riots_
 
 ### [ Talks on immigration between the United States and Cuba, suspended since 2003, will resume. ](/news/2009/07/14/talks-on-immigration-between-the-united-states-and-cuba-suspended-since-2003-will-resume.md)
-_Context: Cuba, U.S., wet feet, dry feet policy_
+_Context: Cuba, United States, wet feet, dry feet policy_
 
 ### [ The Lithuanian parliament overcomes the President's veto and passes a law which forbids propaganda of homosexual, bisexual and polygamous relations, in order to protect minors from detriment to their development. At the same time the law forbids any mocking and defiance on the basis of sexual orientation. ](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.md)
 _Context: Lithuanian parliament, President, minors, propaganda_
 
 ### [ Canada imposes visa requirements to come into effect on July 14 on travellers from Mexico and the Czech Republic after a big jump in refugee claims from these two countries. ](/news/2009/07/14/canada-imposes-visa-requirements-to-come-into-effect-on-july-14-on-travellers-from-mexico-and-the-czech-republic-after-a-big-jump-in-refuge.md)
-_Context: Canada, Czech Republic, Mexico, refugee, visa-free travel_
+_Context: Canadian, Czech Republic, Mexico, refugee, visa-free travel_
 
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)
 _Context: Egypt, Egyptian President, Hosni Mubarak_

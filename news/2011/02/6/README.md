@@ -13,7 +13,7 @@ _Context: Cambodian-Thai border stand-off_
 _Context: Afghanistan_
 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
-_Context: Gaza, Israel, gravel_
+_Context: Gaza Strip, Israel, gravel_
 
 ### [The Indian Army insists it is to inquire "on its own" the death of a man in Kashmir, allegedly killed in an army ambush. His family says he was snatched from his home before being shot. ](/news/2011/02/6/the-indian-army-insists-it-is-to-inquire-on-its-own-the-death-of-a-man-in-kashmir-allegedly-killed-in-an-army-ambush-his-family-says-he.md)
 Army Chief General V.K. Singh today said that the Army would make an enquiry on its own into the killing of a youth in Kashmir, who was allegedly killed in...
@@ -41,7 +41,7 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 A widespread blackout hit at eight states in Brazil&#039;s northeast Friday exposing energy infrastructure vulnerabilities of the nation that will host an Olympics and a World Cup.
 
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: EU, Israel, Middle East Quartet, Munich, Russia, U.S., United Nations_
+_Context: EU, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
 
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
@@ -62,7 +62,7 @@ _Context: Ohio, Youngstown_
 _Context: Mexican drug cartel, Sandra Avila Beltran_
 
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, U.S._
+_Context: Ashot Egiazaryan, Russia, United States_
 
 ### [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md)
 Move marks effective end to political deadlock that has left Himalayan nation without premier for seven months.

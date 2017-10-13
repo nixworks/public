@@ -16,7 +16,7 @@
 2. [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md) _Context: Antarctica, Australia_
 3. [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md) _Context: Antarctica, Australia_
 4. [Remains of the first plane taken to Antarctica in 1912 are discovered by Australian researchers. ](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.md) _Context: Antarctica, Australia_
-5. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
+5. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
 
 ### Changes:
 

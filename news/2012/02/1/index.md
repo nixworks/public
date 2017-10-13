@@ -7,7 +7,7 @@ _Context: Afghanistan, NATO, Pakistan, Taliban, Times_
 _Context: Chinese, Egypt, Sinai, Xinhua_
 
 ### [Pakistan Air Force jets bomb militant positions in the Orakzai and Kurram Agency areas near the border with Afghanistan with claims that 31 alleged insurgents were killed. ](/news/2012/02/1/pakistan-air-force-jets-bomb-militant-positions-in-the-orakzai-and-kurram-agency-areas-near-the-border-with-afghanistan-with-claims-that-31.md)
-_Context: Afghanistan, Kurram, Orakzai Tribal Area, Pakistan Air Force_
+_Context: Afghanistan, Kurram Valley, Orakzai Tribal Area, Pakistan Air Force_
 
 ### [Nigeria's State Security Service claim to have arrested Abul-Qaqa, a purported spokesman for the radical Islamist Boko Haram group. ](/news/2012/02/1/nigeria-s-state-security-service-claim-to-have-arrested-abul-qaqa-a-purported-spokesman-for-the-radical-islamist-boko-haram-group.md)
 _Context: Boko Haram, Islamist, Nigeria, State Security Service_

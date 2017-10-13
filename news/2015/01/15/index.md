@@ -19,7 +19,7 @@ The World Bank said yesterday the Philippines can eliminate poverty within a gen
 _Context: EUR, Swiss National Bank, francs_
 
 ### [Target will close all of its 133 stores in Canada and put Target Canada into bankruptcy. ](/news/2015/01/15/target-will-close-all-of-its-133-stores-in-canada-and-put-target-canada-into-bankruptcy.md)
-_Context: Canada, Target Canada, Target Corporation_
+_Context: Canadian, Target Canada, Target Corporation_
 
 ### [Electronics retailer RadioShack Corp will file for bankruptcy protection by next month. ](/news/2015/01/15/electronics-retailer-radioshack-corp-will-file-for-bankruptcy-protection-by-next-month.md)
 Electronics retailer RadioShack Corp might prepare to file for bankruptcy protection by nextmonth, the Wall Street Journal reported citing people familiarwith the matter.

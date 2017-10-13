@@ -22,7 +22,7 @@ _Context: Conflict in Iraq, Iraq, US Troops, US soldiers, United Nations, bullet
 _Context: Electoral Synod, Irenaios I, Orthodox Church of Jerusalem, Orthodox Patriarch of Jerusalem, Patriarch Theophilus III_
 
 ### [ Israeli forces enter the last remaining Israeli settlement in the Gaza Strip to remove the settlers from Netzarim, a religious farming community of about 500, completing the evacuation of all the enclaves. Four small militant settlements on the West Bank will also be cleared, with 5,500 troops heading there to begin evictions on Tuesday. ](/news/2005/08/22/israeli-forces-enter-the-last-remaining-israeli-settlement-in-the-gaza-strip-to-remove-the-settlers-from-netzarim-a-religious-farming-comm.md)
-_Context: Gaza, Israel Defense Forces, Israeli settlement, Netzarim, West Bank_
+_Context: Gaza Strip, Israel Defense Forces, Israeli settlement, Netzarim, West Bank_
 
 ### [ Israeli Prime Minister Ariel Sharon announces that existing large West Bank Israeli settlements will be expanded. (WikiNews)](/news/2005/08/22/israeli-prime-minister-ariel-sharon-announces-that-existing-large-west-bank-israeli-settlements-will-be-expanded-wikinews.md)
 _Context: (WikiNews), Ariel Sharon, Israeli Prime Minister, Israeli settlement, West Bank_

@@ -13,7 +13,7 @@ _Context: Prime Minister, Sitiveni Rabuka, mutinies of the 2000 Fijian coup d'ta
 _Context: Holy See, Paul of Tarsus_
 
 ### [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md)
-_Context: George W. Bush administration, Human rights, Kofi Annan, U.S., United Nations Secretary-General, multilateralism_
+_Context: George W. Bush administration, Human rights, Kofi Annan, United Nations Secretary-General, United States, multilateralism_
 
 ### [ The International Conference to Review the Global Vision of the Holocaust gets underway in Iran to examine whether the Holocaust took place or not. ](/news/2006/12/11/the-international-conference-to-review-the-global-vision-of-the-holocaust-gets-underway-in-iran-to-examine-whether-the-holocaust-took-place.md)
 _Context: Holocaust, Holocaust denial, International Conference to Review the Global Vision of the Holocaust, Iran_
@@ -22,7 +22,7 @@ _Context: Holocaust, Holocaust denial, International Conference to Review the Gl
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Unidentified gunmen try to assassinate Baha Balousheh, a security chief associated with Fatah, but instead shoot and kill his three children in the Gaza Strip. The assassination attempt may have been a revenge attack for the attempted assassination of Interior Minister Sayid Seyam of Hamas. ](/news/2006/12/11/unidentified-gunmen-try-to-assassinate-baha-balousheh-a-security-chief-associated-with-fatah-but-instead-shoot-and-kill-his-three-childre.md)
-_Context: Baha Balousheh, Fatah, Gaza, Sayid Seyam, interior minister_
+_Context: Baha Balousheh, Fatah, Gaza Strip, Sayid Seyam, interior minister_
 
 ### [ The Space Shuttle "Discovery" successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-stat.md)
 _Context: Discovery, International Space Station, Space Shuttle_

@@ -16,7 +16,7 @@ _Context: Andris Piebalgs, European Commission, Franco Frattini, Jos Manuel Barr
 _Context: Kyoto Protocol, Vladimir Putin_
 
 ### [ The Israeli senior commander in the Gaza Strip, Brig. Gen. Shmuel Zakai, resigns amid allegations of telling the press Prime Minister Ariel Sharon ordered to increase Operation Days of Penitence on Day 14 while the army considered the operation extracted itself. ](/news/2004/11/4/the-israeli-senior-commander-in-the-gaza-strip-brig-gen-shmuel-zakai-resigns-amid-allegations-of-telling-the-press-prime-minister-ariel.md)
-_Context: Ariel Sharon, Gaza, Israel, Israeli Defence Force, Operation Days of Penitence, Shmuel Zakai_
+_Context: Ariel Sharon, Gaza Strip, Israel, Israeli Defence Force, Operation Days of Penitence, Shmuel Zakai_
 
 ### [ The NGO aid agency Mdecins Sans Frontires ends work in Iraq due to the "escalating violence" and "the warring parties have repeatedly shown their disrespect for independent humanitarian assistance." ](/news/2004/11/4/the-ngo-aid-agency-medecins-sans-frontieres-ends-work-in-iraq-due-to-the-escalating-violence-and-the-warring-parties-have-repeatedly-sho.md)
 _Context: Iraq, Mdecins Sans Frontires, NGO_

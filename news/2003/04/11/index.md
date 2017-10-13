@@ -13,7 +13,7 @@ _Context: Cuba, ferry, hijack, terrorism_
 _Context: Baseball Hall of Fame, Bull Durham, Dale Petroskey, Roger Kahn, baseball game, sportswriter_
 
 ### [ Tom Hurndall, a British photojournalist is shot in the head by an Israeli sniper in Rafah, Gaza Strip.](/news/2003/04/11/tom-hurndall-a-british-photojournalist-is-shot-in-the-head-by-an-israeli-sniper-in-rafah-gaza-strip.md)
-_Context: Gaza, Rafah, Tom Hurndall, photojournalist, sniper_
+_Context: Gaza Strip, Rafah, Tom Hurndall, photojournalist, sniper_
 
 ## [Previous Day...](/news/2003/04/10/index.md)
 

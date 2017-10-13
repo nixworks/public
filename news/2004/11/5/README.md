@@ -1,7 +1,7 @@
 ## [2004-11-5](/news/2004/11/5/index.md)
 
 ### [ Israeli-Palestinian Conflict: Two Palestinian children are killed by an explosion in the refugee camp of Khan Yonis in the Gaza Strip. Hospital officials say it was from a tank shell that hit a house. Israeli spokesmen said there had been no army fire in the area. They believe it was either caused when a Palestinian mortar misfired or by the detonation of a roadside bomb. ](/news/2004/11/5/israeli-palestinian-conflict-two-palestinian-children-are-killed-by-an-explosion-in-the-refugee-camp-of-khan-yonis-in-the-gaza-strip-hosp.md)
-_Context: Gaza, Israel, Israeli-Palestinian conflict, Khan Yonis, Mortar, Palestinian, refugee camp_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Khan Yonis, Mortar, Palestinian, refugee camp_
 
 ### [ United Nations Secretary General Kofi Annan warns that an assault on Falluja may result in a Sunni Muslim boycott of January elections. British ambassador to Iraq Jones Parry states: "You can't have an area the size of Falluja operating as a base for terrorism." Iraqi Interim Prime Minister Iyad Allawi describes Annan's letter as confused and unclear. ](/news/2004/11/5/united-nations-secretary-general-kofi-annan-warns-that-an-assault-on-falluja-may-result-in-a-sunni-muslim-boycott-of-january-elections-bri.md)
 _Context: Falluja, Iraq, Kofi Annan, Sunni, United Nations, terrorism_

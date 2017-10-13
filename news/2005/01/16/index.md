@@ -4,7 +4,7 @@
 _Context: Adriana Iliescu, childbirth, oldest birth mother_
 
 ### [ An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.md)
-_Context: Gaza, Israel, Khan Younis, Palestinian_
+_Context: Gaza Strip, Israel, Khan Younis, Palestinian_
 
 ## [Previous Day...](/news/2005/01/15/index.md)
 

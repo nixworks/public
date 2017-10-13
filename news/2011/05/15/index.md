@@ -49,7 +49,7 @@ Residents of towns along the swollen Mississippi River on Sunday packed up their
 _Context: Aurora, Illinois, US state_
 
 ### [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md)
-_Context: Alberta, Canada, Slave Lake, Wildfire_
+_Context: Alberta, Canadian, Slave Lake, Wildfire_
 
 ### [A United Nations report alleges that Iran and North Korea have been secretly exchanging ballistic missile technology. ](/news/2011/05/15/a-united-nations-report-alleges-that-iran-and-north-korea-have-been-secretly-exchanging-ballistic-missile-technology.md)
 _Context: Iran, North Korea, United Nations, ballistic missile_

@@ -1,7 +1,7 @@
 ## [2010-01-10](/news/2010/01/10/index.md)
 
 ### [Three Palestinian Islamic Jihad operatives are killed while firing mortars into Israel from Gaza. ](/news/2010/01/10/three-palestinian-islamic-jihad-operatives-are-killed-while-firing-mortars-into-israel-from-gaza.md)
-_Context: Gaza, Islamic Jihad Movement in Palestine, Israel, Mortar_
+_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Mortar_
 
 ### [The "Sunday Mirror"{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journalist.md)
 Rupert Hamer, the defence correspondent of the Sunday Mirror, has been killed in an explosion while travelling with US marines in Helmand, Afghanistan.

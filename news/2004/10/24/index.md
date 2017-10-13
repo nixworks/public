@@ -10,7 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Alcntara Launch Center, Brazil, Brazilian Exploration Vehicle, VSB-30, first attempt a year earlier failed_
 
 ### [ Israeli-Palestinian Conflict: In Khan Yunis, located in the Gaza Strip, two Palestinian militants are killed and a third wounded by a missile fired from an Israel Defense Forces drone. ](/news/2004/10/24/israeli-palestinian-conflict-in-khan-yunis-located-in-the-gaza-strip-two-palestinian-militants-are-killed-and-a-third-wounded-by-a-missi.md)
-_Context: Gaza, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, drone, militant_
+_Context: Gaza Strip, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, drone, militant_
 
 ## [Previous Day...](/news/2004/10/23/index.md)
 

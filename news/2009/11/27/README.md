@@ -52,7 +52,7 @@ _Context: European Commissioner, Jose Manuel Barroso, President of the European 
 _Context: STS-129, Space Shuttle Atlantis_
 
 ### [ A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. ](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupiter-florida-united-states-kills-four-people-and-critically-wounds-a-fifth.md)
-_Context: Florida, Jupiter, Thanksgiving, U.S., shooting_
+_Context: Florida, Jupiter, Thanksgiving, United States, shooting_
 
 ## [Previous Day...](/news/2009/11/26/index.md)
 

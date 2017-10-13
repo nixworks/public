@@ -40,7 +40,7 @@ _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, State of Palestine
 _Context: China, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
-_Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
+_Context: Canadian, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
 
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.
@@ -67,7 +67,7 @@ _Context: Bharatiya Janata Party, India, Karnataka state, Legislative Assembly, 
 The Bolivian government says it has annulled a new coca production law which cut by two-thirds the number of coca leaves which growers could sell.
 
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
+_Context: Atlanta, Food and Drug Administration, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
 
 ## [Previous Day...](/news/2010/10/10/index.md)
 

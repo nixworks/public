@@ -22,7 +22,7 @@ _Context: Civic Platform, Donald Tusk, Polish, Polish People's Party, Polish Pri
 France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;thei...
 
 ### [Having spread across the United States, anti-corruption Occupy Wall Street protests reach Canada, London, and The Hague. ](/news/2011/10/9/having-spread-across-the-united-states-anti-corruption-occupy-wall-street-protests-reach-canada-london-and-the-hague.md)
-_Context: Canada, London, Occupy Wall Street, The Hague, U.S., corruption_
+_Context: Canadian, London, Occupy Wall Street, The Hague, United States, corruption_
 
 ## [Previous Day...](/news/2011/10/8/index.md)
 

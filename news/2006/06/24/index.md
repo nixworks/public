@@ -13,7 +13,7 @@ _Context: Gloria Macapagal Arroyo, Philippines, death penalty_
 _Context: National Assembly of Vietnam, Nguyen Van An, Phan Van KhGBPi, President of Vietnam, Prime Minister, Tran Duc Luong, Vietnam_
 
 ### [ In Gaza, Israel captures two civilian Palestinian brothers in an overnight raid, in the Muamar family detention incident.](/news/2006/06/24/in-gaza-israel-captures-two-civilian-palestinian-brothers-in-an-overnight-raid-in-the-muamar-family-detention-incident.md)
-_Context: Gaza, Israel, Muamar family detention incident_
+_Context: Gaza Strip, Israel, Muamar family detention incident_
 
 ## [Previous Day...](/news/2006/06/23/index.md)
 

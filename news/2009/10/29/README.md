@@ -37,10 +37,10 @@ _Context: Iran, Mahmoud Ahmadinejad, President, nuclear program_
 _Context: African Union, Guinea, Moussa Dadis Camara_
 
 ### [ Rwandan man Dsir Munyaneza is given a life sentence in Canada for his role in the Rwandan genocide under the Crimes Against Humanity and War Crimes Act. ](/news/2009/10/29/rwandan-man-desire-munyaneza-is-given-a-life-sentence-in-canada-for-his-role-in-the-rwandan-genocide-under-the-crimes-against-humanity-and.md)
-_Context: Canada, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
+_Context: Canadian, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
 
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
-_Context: Los Angeles, North Hollywood, U.S., synagogue_
+_Context: Los Angeles, North Hollywood, United States, synagogue_
 
 ### [ The composer and pianist Elton John cancels his 30 October final date of The Red Piano Tour scheduled for The O2, Dublin, due to declining health. ](/news/2009/10/29/the-composer-and-pianist-elton-john-cancels-his-30-october-final-date-of-the-red-piano-tour-scheduled-for-the-o2-dublin-due-to-declining.md)
 Elton John (62) has pulled out of his Dublin concert tomorrow night after suffering a serious bout of flu.

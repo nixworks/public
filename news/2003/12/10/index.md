@@ -10,7 +10,7 @@ _Context: 2004 presidential election, Annette Lu, Chen Shui-bian, Democratic Pro
 _Context: Bipartisan Campaign Reform Act, United States Supreme Court, campaign contribution_
 
 ### [ Canada's BC Ferry system experiences a total shutdown due to job action by its union, after an 80-day cooling-off period, imposed by the provincial government, was not rescinded. [http:--vancouver.cbc.ca-regional-servlet-View?filename=bc_strikepm20031210]](/news/2003/12/10/canada-s-bc-ferry-system-experiences-a-total-shutdown-due-to-job-action-by-its-union-after-an-80-day-cooling-off-period-imposed-by-the-pr.md)
-_Context: BC Ferries, Canada, strike_
+_Context: BC Ferries, Canadian, strike_
 
 ### [ The Barron Report into the Dublin and Monaghan Bombings in 1974 concludes that the Ulster Volunteer Force was responsible for the largest terrorist attack in the history of the Irish Troubles, which killed 33 people. It also concludes that some members of the Royal Ulster Constabulary and British military intelligence may have been involved in the attacks. The report strongly criticises the Irish National Coalition government (1973-77) for its handling of the crisis and criticises the United Kingdom for failures to offer assistance and information to track down the murderers. [http:--www.rte.ie-news-2003-1210-bombings.html]](/news/2003/12/10/the-barron-report-into-the-dublin-and-monaghan-bombings-in-1974-concludes-that-the-ulster-volunteer-force-was-responsible-for-the-largest-t.md)
 _Context: 1974, Barron Report, Dublin and Monaghan Bombings, National Coalition, RUC, Troubles, Ulster Volunteer Force, United Kingdom, terrorism_

@@ -13,11 +13,11 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ### Related:
 
-1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, U.S._
-2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, U.S._
-3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, U.S._
-4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, U.S._
-5. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: U.S._
+1. [ Shiite cleric Muqtada al-Sadr claims that he is developing a new force to fight United States forces in Iraq. ](/news/2008/06/15/shiite-cleric-muqtada-al-sadr-claims-that-he-is-developing-a-new-force-to-fight-united-states-forces-in-iraq.md) _Context: Shiite, United States_
+2. [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md) _Context: Shiite, United States_
+3. [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md) _Context: Shiite, United States_
+4. [ War in Iraq: United States troops in Iraq launch an offensive against Al Qaeda-linked Sunni militants and alleged Iranian linked Shiite militants. ](/news/2007/08/13/war-in-iraq-united-states-troops-in-iraq-launch-an-offensive-against-al-qaeda-linked-sunni-militants-and-alleged-iranian-linked-shiite-mil.md) _Context: Shiite, United States_
+5. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
 
 ### Changes:
 

@@ -34,7 +34,7 @@ Fighting erupts in Aden as police search for men behind attack on intelligence f
 The BBC has learned the former DUP MP Iris Robinson has been interviewed as part of a police investigation.
 
 ### [In response to the mortars fired into Israel that hit a government building, Israeli warplanes bomb smuggling tunnels between Egypt and the Gaza Strip, with one person being wounded in an air attack in Rafah. ](/news/2010/06/25/in-response-to-the-mortars-fired-into-israel-that-hit-a-government-building-israeli-warplanes-bomb-smuggling-tunnels-between-egypt-and-the.md)
-_Context: Egypt, Gaza, Israel, Palestinian rocket attacks on Israel, Rafah_
+_Context: Egypt, Gaza Strip, Israel, Palestinian rocket attacks on Israel, Rafah_
 
 ### [President of Russia Dmitry Medvedev and Prime Minister of Britain David Cameron meet and agree to work to renew ties stained by the refusal of both men to hand over men the other man wants. ](/news/2010/06/25/president-of-russia-dmitry-medvedev-and-prime-minister-of-britain-david-cameron-meet-and-agree-to-work-to-renew-ties-stained-by-the-refusal.md)
 Russia and Britain have agreed to renew ties recently strained by suspicions of murder and spying.
@@ -55,7 +55,7 @@ _Context: Deng Xiaoping, Hu Jintao, Jiang Zemin, Mao Zedong, Sichuan_
 A statue of Stalin has been taken down in Georgia, putting him in the company of leaders such as Franco, Chiang Kai-Shek and King Leopold II of Belgium, whose statues have also been removed.
 
 ### [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md)
-_Context: 36th G8 summit, Canada, G20 summit, Huntsville, Ontario, Toronto_
+_Context: 36th G8 summit, Canadian, G20 summit, Huntsville, Ontario, Toronto_
 
 ### [The British-Irish Council meets in Guernsey, with those attending including Taoiseach Brian Cowen, Northern Ireland Secretary Owen Paterson, Northern Ireland First Minister Peter Robinson and Deputy First Minister Martin McGuinness, the First Ministers of Scotland and Wales, and the Chief Ministers of Guernsey, Jersey and the Isle of Man. ](/news/2010/06/25/the-britishairish-council-meets-in-guernsey-with-those-attending-including-taoiseach-brian-cowen-northern-ireland-secretary-owen-paterso.md)
 The Taoiseach is attending a meeting of the British-Irish Council in Guernsey today.

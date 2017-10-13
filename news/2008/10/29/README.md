@@ -1,7 +1,7 @@
 ## [2008-10-29](/news/2008/10/29/index.md)
 
 ### [ The United States Treasury Department spends US$125 billion of its $700 billion bailout fund on nine banks, some of whom had argued that they did not need the money. ](/news/2008/10/29/the-united-states-treasury-department-spends-us-125-billion-of-its-700-billion-bailout-fund-on-nine-banks-some-of-whom-had-argued-that-th.md)
-_Context: $, Emergency Economic Stabilization Act, U.S., United States Treasury Department_
+_Context: $, Emergency Economic Stabilization Act, United States, United States Treasury Department_
 
 ### [ The Philadelphia Phillies win the 2008 World Series 4 games to 1, defeating the Tampa Bay Rays 4-3 in Game 5. ](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.md)
 _Context: 2008 World Series, Philadelphia Phillies, Tampa Bay Rays_

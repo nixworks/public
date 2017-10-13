@@ -22,7 +22,7 @@ _Context: Anders Fogh Rasmussen, Jens Stoltenberg, Prime Minister of Norway, Sec
 _Context: Buddhist, Burma_
 
 ### [A shooting occurs at a courthouse in Brampton, Ontario, Canada, with one shooter dead and a police officer injured. ](/news/2014/03/28/a-shooting-occurs-at-a-courthouse-in-brampton-ontario-canada-with-one-shooter-dead-and-a-police-officer-injured.md)
-_Context: Brampton, Canada, Ontario_
+_Context: Brampton, Canadian, Ontario_
 
 ### [The US Geological Survey records a 5.1 magnitude earthquake in the Los Angeles area of California. ](/news/2014/03/28/the-us-geological-survey-records-a-5-1-magnitude-earthquake-in-the-los-angeles-area-of-california.md)
 A shallow 5.1-magnitude earthquake has hit the Los Angeles area of California, the US Geological Survey said.

@@ -13,7 +13,7 @@ _Context: EU constitution, Lithuania_
 _Context: Baghdad, Conflict in Iraq, Falluja, Iraqi insurgency, car bomb_
 
 ### [ Israel Defense Forces repel an al-Aqsa Martyrs Brigades attack on Netzarim in the Gaza Strip killing three Palestinians. In Hebron, one Palestinian, among a group of 400 throwing cement bricks at Jewish cars, is killed when Israeli soldiers open fire.](/news/2004/11/10/israel-defense-forces-repel-an-al-aqsa-martyrs-brigades-attack-on-netzarim-in-the-gaza-strip-killing-three-palestinians-in-hebron-one-pal.md)
-_Context: Al-Aqsa Martyrs' Brigades, Gaza, Hebron, Israel Defense Forces, Netzarim, Palestinians_
+_Context: Al-Aqsa Martyrs' Brigades, Gaza Strip, Hebron, Israel Defense Forces, Netzarim, Palestinians_
 
 ### [ Israeli nuclear technician Mordechai Vanunu is arrested, again, on suspicion of leaking classified information. ](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.md)
 _Context: Mordechai Vanunu_

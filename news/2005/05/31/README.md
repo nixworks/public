@@ -19,13 +19,13 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Mikhail Khodorkovsky, Russia, tax evasion_
 
 ### [ In Bangkok, Thailand, the Canadian contestant Natalie Glebova is crowned Miss Universe 2005.](/news/2005/05/31/in-bangkok-thailand-the-canadian-contestant-natalie-glebova-is-crowned-miss-universe-2005.md)
-_Context: Bangkok, Canada, Miss Universe, Natalie Glebova, Thailand_
+_Context: Bangkok, Canadian, Miss Universe, Natalie Glebova, Thailand_
 
 ### [ "Vanity Fair" magazine reports that Ex-FBI official W. Mark Felt admits that he was the Watergate source known as Deep Throat. ](/news/2005/05/31/vanity-fair-magazine-reports-that-ex-fbi-official-w-mark-felt-admits-that-he-was-the-watergate-source-known-as-deep-throat.md)
 _Context: Deep Throat, FBI, Vanity Fair, W. Mark Felt, Watergate_
 
 ### [ Hamas have declared that they will be boycotting the re-vote which was requested in three Districts of the Gaza Strip. ](/news/2005/05/31/hamas-have-declared-that-they-will-be-boycotting-the-re-vote-which-was-requested-in-three-districts-of-the-gaza-strip.md)
-_Context: Gaza, Hamas, boycott_
+_Context: Gaza Strip, Hamas, boycott_
 
 ### [ Police in Israel say they have uncovered an Industrial espionage plot involving 15 Israeli firms. Trojan horse computer viruses are believed to have been used to hack into rivals' systems and 20 people have so far been arrested. ](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.md)
 _Context: Israel, Trojan horse, computer virus, hackers, industrial espionage, police_

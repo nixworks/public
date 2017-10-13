@@ -13,7 +13,7 @@ _Context: Arturas Paulauskas, Lithuania, President, Rolandas Paksas, parliament_
 _Context: chemical weapon, osmium tetroxide_
 
 ### [ Palestinian officials state that the Palestine Liberation Organization (PLO) asks Hamas fighters to join a decision making body to run the Gaza Strip if Israel pulls out. ](/news/2004/04/6/palestinian-officials-state-that-the-palestine-liberation-organization-plo-asks-hamas-fighters-to-join-a-decision-making-body-to-run-the.md)
-_Context: Gaza, Hamas, Israel, PLO, Palestine Liberation Organization's, Palestinian, fighter, official_
+_Context: Gaza Strip, Hamas, Israel, PLO, Palestine Liberation Organization's, Palestinian, fighter, official_
 
 ### [ Shiites want Iraqi political control by June 30 but say the violence the Mahdi Army has incited since Sunday is dangerous. ](/news/2004/04/6/shiites-want-iraqi-political-control-by-june-30-but-say-the-violence-the-mahdi-army-has-incited-since-sunday-is-dangerous.md)
 Shiites want Iraqi political control by June 30 but say the violence the Mahdi Army has incited since Sunday is dangerous.

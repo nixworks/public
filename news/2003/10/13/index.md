@@ -4,7 +4,7 @@
 _Context: George W. Bush, Iraq, Iraqi Governing Council, U.S. presence in Iraq, United Nations, constitution, election, sovereignty_
 
 ### [ Israeli-Palestinian conflict: Israeli incursion leaves 1,240 Palestinians homeless, UN agency finds. The Israeli demolition of refugee shelters in Rafah camp on the southern Gaza Strip last week has left 1,240 people homeless, United Nations relief workers state.](/news/2003/10/13/israeli-palestinian-conflict-israeli-incursion-leaves-1-240-palestinians-homeless-un-agency-finds-the-israeli-demolition-of-refugee-shel.md)
-_Context: Gaza, Israel, Israeli-Palestinian conflict, Palestinian, Rafah, United Nations, homeless, refugee shelter_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian, Rafah, United Nations, homeless, refugee shelter_
 
 ### [ The Taoiseach, Bertie Ahern, and the British Prime Minister, Tony Blair, have begun talks in Downing Street on a possible restoration of devolved government in Northern Ireland.](/news/2003/10/13/the-taoiseach-bertie-ahern-and-the-british-prime-minister-tony-blair-have-begun-talks-in-downing-street-on-a-possible-restoration-of-de.md)
 _Context: 10 Downing Street, Bertie Ahern, Northern Ireland, Prime Minister, Taoiseach, Tony Blair_

@@ -4,7 +4,7 @@
 The Taliban has issued a warning to Afghans whose names might appear on the leaked Afghanistan war logs as informers for the Nato-led coalition.
 
 ### [The Israeli Air Force launches several air strikes on the Gaza Strip following a BM-21 Grad missile strike by the Aza Din al-Kassem Gazan militant group on the Israeli town of Ashkelon. A Hamas rocket maker is killed and 13 other people are injured. ](/news/2010/07/30/the-israeli-air-force-launches-several-air-strikes-on-the-gaza-strip-following-a-bm-21-grad-missile-strike-by-the-aza-din-al-kassem-gazan-mi.md)
-_Context: Ashkelon, Aza Din al-Kassem, Gaza, Grad rocket, Hamas, Israel, Israeli Air Force_
+_Context: Ashkelon, Aza Din al-Kassem, Gaza Strip, Grad rocket, Hamas, Israel, Israeli Air Force_
 
 ### [Thousands of children in Gaza appear to have broken their own world record for the number of kites flown at the same time, the UN says. ](/news/2010/07/30/thousands-of-children-in-gaza-appear-to-have-broken-their-own-world-record-for-the-number-of-kites-flown-at-the-same-time-the-un-says.md)
 Thousands of children in Gaza look to have broken their own kite flying world record, the UN says.

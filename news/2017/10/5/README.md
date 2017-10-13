@@ -4,7 +4,7 @@
 If confirmed, capture would mean only area of Iraq that remains under Islamic State control is stretch along Syrian border
 
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
-_Context: Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature, UK_
+_Context: Japan, Kazuo Ishiguro, Nobel Committee, Nobel Prize in Literature, Nobel Prize in Literature, United Kingdom_
 
 ### [Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. ](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.md)
 The firm says &quot;changed circumstances&quot; led to the decision to abandon the controversial projects.

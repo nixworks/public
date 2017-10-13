@@ -1,7 +1,7 @@
 ## [2007-04-15](/news/2007/04/15/index.md)
 
 ### [ India's Essar Group buys Canadian steelmaker Algoma for US$ 1.63 billion. ](/news/2007/04/15/india-s-essar-group-buys-canadian-steelmaker-algoma-for-us-1-63-billion.md)
-_Context: Algoma Steel, Canada, Essar Group, India, USD_
+_Context: Algoma Steel, Canadian, Essar Group, India, USD_
 
 ### [ A nor'easter in the northeastern United States causes flooding and disrupts travel in the region. One person is killed in a tornado in North Carolina and two people die in weather-related car accidents in New York and Connecticut. ](/news/2007/04/15/a-nor-easter-in-the-northeastern-united-states-causes-flooding-and-disrupts-travel-in-the-region-one-person-is-killed-in-a-tornado-in-nort.md)
 A rare spring northeaster flooded shorelines and rivers, disrupted travel and washed out plans for millions.

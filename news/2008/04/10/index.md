@@ -1,7 +1,7 @@
 ## [2008-04-10](/news/2008/04/10/index.md)
 
 ### [ Mayor Anders Lago of Sdertlje, Sweden, says that his small city of about 80,000 is currently home to nearly 6,000 Iraqis. "More refugees than the United States and Canada together". ](/news/2008/04/10/mayor-anders-lago-of-sodertalje-sweden-says-that-his-small-city-of-about-80-000-is-currently-home-to-nearly-6-000-iraqis-more-refugees.md)
-_Context: Anders Lago, Canada, Iraq, Sdertlje, Swedish, U.S., refugee_
+_Context: Anders Lago, Canadian, Iraq, Sdertlje, Swedish, United States, refugee_
 
 ### [ Frontier Airlines files for bankruptcy protection. ](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.md)
 _Context: Frontier Airlines, bankruptcy_

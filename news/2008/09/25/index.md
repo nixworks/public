@@ -13,10 +13,10 @@ _Context: Barack Obama, Bob Barr, John McCain, Texas Supreme Court_
 _Context: Barack Obama, George Fox University, Newberg, Oregon_
 
 ### [ A young Canadian man is found guilty in the 2006 Toronto terrorism case of participating in a plot to storm the Parliament of Canada and behead the Prime Minister of Canada, Stephen Harper. ](/news/2008/09/25/a-young-canadian-man-is-found-guilty-in-the-2006-toronto-terrorism-case-of-participating-in-a-plot-to-storm-the-parliament-of-canada-and-be.md)
-_Context: 2006 Toronto terrorism case, Canada, Parliament of Canada, Prime Minister of Canada, Stephen Harper, behead_
+_Context: 2006 Toronto terrorism case, Canadian, Parliament of Canada, Prime Minister of Canada, Stephen Harper, behead_
 
 ### [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md)
-_Context: Jobless, U.S., United States economy, durable goods_
+_Context: Jobless, United States, United States economy, durable goods_
 
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
 _Context: British Energy, Electricit de France, Hinkley Point C nuclear power station_

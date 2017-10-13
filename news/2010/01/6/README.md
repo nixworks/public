@@ -7,7 +7,7 @@ _Context: Pakistan-administered Kashmir_
 _Context: Dagestan, Russia_
 
 ### [Palestinians kill an Egyptian border guard and 50 people are injured in clashes between pro-Palestinian activists and Egyptian police as a Viva Palestina convoy nears the border with Gaza. ](/news/2010/01/6/palestinians-kill-an-egyptian-border-guard-and-50-people-are-injured-in-clashes-between-pro-palestinian-activists-and-egyptian-police-as-a-v.md)
-_Context: Egypt, Gaza, State of Palestine, Viva Palestina_
+_Context: Egypt, Gaza Strip, State of Palestine, Viva Palestina_
 
 ### [Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. ](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.md)
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
@@ -31,7 +31,7 @@ _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
 
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
 _Context: U.S., visa-free travel_

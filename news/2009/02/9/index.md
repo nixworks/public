@@ -25,7 +25,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, refugee camp, suicide bombing_
 _Context: Associated Press, Pakistan, Polish, engineer, militant_
 
 ### [ A video confirms that al-Qaeda has kidnapped Canadian diplomat Robert Fowler in Niger. ](/news/2009/02/9/a-video-confirms-that-al-qaeda-has-kidnapped-canadian-diplomat-robert-fowler-in-niger.md)
-_Context: Canada, Niger, Robert Fowler, al-Qaeda, diplomatic_
+_Context: Canadian, Niger, Robert Fowler, al-Qaeda, diplomatic_
 
 ### [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between 2001 and 2003. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-2001-and-2003.md)
 Alex Rodriguez met head-on allegations that he tested positive for steroids six years ago, telling ESPN on Monday that he did take performance-enhancing drugs while playing for the Texas Rangers during a three-year period beginning in 2001.

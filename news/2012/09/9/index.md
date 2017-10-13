@@ -7,7 +7,7 @@ Battles between the Syrian military and rebels burst a main pipe that delivered 
 Insurgents wage assaults on security forces, gunning down soldiers at an army post and bombing police recruits
 
 ### [Local authorities report that suspected Taliban abduct and then kill six civilians in the Maidan Wardak province of Afghanistan. ](/news/2012/09/9/local-authorities-report-that-suspected-taliban-abduct-and-then-kill-six-civilians-in-the-maidan-wardak-province-of-afghanistan.md)
-_Context: Afghanistan, Maidan Wardak Province, Taliban_
+_Context: Afghanistan, Taliban, Wardak Province_
 
 ### [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md)
 _Context: CNDP, Democratic Republic of Congo, Louis Michel, M23, Nestor, Paul Kagame, Rwanda, groot, leider, new_

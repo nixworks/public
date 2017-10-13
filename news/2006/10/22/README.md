@@ -4,7 +4,7 @@
 _Context: Baja California, Hurricane Paul, Saffir-Simpson Hurricane Scale, hurricane_
 
 ### [ Mohammed Shahadeh, leader of the al-Aqsa Martyrs Brigades terrorist organization in the Gaza Strip Bureij refugee camp, is shot to death outside his home. Fatah officials accuse members of Hamas of being behind the assassination. ](/news/2006/10/22/mohammed-shahadeh-leader-of-the-al-aqsa-martyrs-brigades-terrorist-organization-in-the-gaza-strip-bureij-refugee-camp-is-shot-to-death-ou.md)
-_Context: Al-Aqsa Martyrs' Brigades, Bureij, Fatah, Gaza, Hamas, Mohammed Shahadeh, refugee camp_
+_Context: Al-Aqsa Martyrs' Brigades, Bureij, Fatah, Gaza Strip, Hamas, Mohammed Shahadeh, refugee camp_
 
 ### [ Alberto Fernandez, Director of Office of Press and Public Diplomacy in the Bureau of Near Eastern Affairs at the United States Department of State, apologises for saying the United States Government has shown "arrogance and stupidity" in Iraq. ](/news/2006/10/22/alberto-fernandez-director-of-office-of-press-and-public-diplomacy-in-the-bureau-of-near-eastern-affairs-at-the-united-states-department-o.md)
 Alberto Fernandez apologized for saying that the U.S. had acted with “arrogance” and “stupidity” in its campaign in Iraq.

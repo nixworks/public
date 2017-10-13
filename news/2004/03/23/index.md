@@ -7,7 +7,7 @@ _Context: Ghana, Podujevo, Pristina, UNMIK, Unrest in Kosovo, police, translator
 _Context: 9/11 Commission, Colin Powell, Defense Secretary, Donald Rumsfeld, Madeleine Albright, Osama bin Laden, Secretary of State, September 11, 2001 attacks, United States military, William Cohen, predecessor_
 
 ### [ Abdel Aziz al-Rantissi is chosen to lead Hamas in the Gaza Strip, and the movement's exiled politburo chief Khaled Meshaal is chosen as its overall leader. ](/news/2004/03/23/abdel-aziz-al-rantissi-is-chosen-to-lead-hamas-in-the-gaza-strip-and-the-movement-s-exiled-politburo-chief-khaled-meshaal-is-chosen-as-its.md)
-_Context: Abdel Aziz al-Rantissi, Gaza, Hamas, Khaled Meshaal, Politburo_
+_Context: Abdel Aziz al-Rantissi, Gaza Strip, Hamas, Khaled Meshaal, Politburo_
 
 ## [Previous Day...](/news/2004/03/22/index.md)
 

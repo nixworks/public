@@ -53,7 +53,7 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 _Context: State of Palestine, West Bank_
 
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
-_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, U.S._
+_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...

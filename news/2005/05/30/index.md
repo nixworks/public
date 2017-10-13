@@ -28,7 +28,7 @@ _Context: Israel, Israel Defense Forces, Israeli-Palestinian conflict, Jabaliya,
 A map of the outer suburbs of the Andromeda galaxy finds that its rotating disk of stars is three times bigger than previously measured.
 
 ### [ Red Cross of Canada admits that it has used blood infected with HIV or hepatitis virus ](/news/2005/05/30/red-cross-of-canada-admits-that-it-has-used-blood-infected-with-hiv-or-hepatitis-virus.md)
-_Context: Canada, HIV, Red Cross, hepatitis_
+_Context: Canadian, HIV, Red Cross, hepatitis_
 
 ## [Previous Day...](/news/2005/05/29/index.md)
 

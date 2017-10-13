@@ -12,11 +12,11 @@
 
 ### Related:
 
-1. [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md) _Context: Case-Shiller index, S&P, U.S._
-2. [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md) _Context: Economy of the United States, U.S._
-3. [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md) _Context: Economy of the United States, U.S._
-4. [ The United States economy lost 663,000 jobs in March, raising the unemployment rate to 8.5%. ](/news/2009/04/3/the-united-states-economy-lost-663-000-jobs-in-march-raising-the-unemployment-rate-to-8-5.md) _Context: Economy of the United States, U.S._
-5. [ The United States economy contracts by 6.1% in the first fiscal quarter of 2009. ](/news/2009/04/29/the-united-states-economy-contracts-by-6-1-in-the-first-fiscal-quarter-of-2009.md) _Context: Economy of the United States, U.S._
+1. [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md) _Context: Case-Shiller index, S&P, United States_
+2. [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md) _Context: Economy of the United States, United States_
+3. [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md) _Context: Economy of the United States, United States_
+4. [ The United States economy lost 663,000 jobs in March, raising the unemployment rate to 8.5%. ](/news/2009/04/3/the-united-states-economy-lost-663-000-jobs-in-march-raising-the-unemployment-rate-to-8-5.md) _Context: Economy of the United States, United States_
+5. [ The United States economy contracts by 6.1% in the first fiscal quarter of 2009. ](/news/2009/04/29/the-united-states-economy-contracts-by-6-1-in-the-first-fiscal-quarter-of-2009.md) _Context: Economy of the United States, United States_
 
 ### Changes:
 

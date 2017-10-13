@@ -22,7 +22,7 @@ Lome, Feb. 8 (Graphic) -- ECOWAS Heads of State and Government will...
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Canada, former prime minister Jean Chrtien defends his government's actions in an inquiry into the misuse of government advertising and sponsorship funds. ](/news/2005/02/9/in-canada-former-prime-minister-jean-chretien-defends-his-government-s-actions-in-an-inquiry-into-the-misuse-of-government-advertising-and.md)
-_Context: Canada, Jean Chrtien, Prime Minister of Canada_
+_Context: Canadian, Jean Chrtien, Prime Minister of Canada_
 
 ### [ Parliament of France votes in favor of relaxing the 35-hour work week rules. ](/news/2005/02/9/parliament-of-france-votes-in-favor-of-relaxing-the-35-hour-work-week-rules.md)
 _Context: French parliament_

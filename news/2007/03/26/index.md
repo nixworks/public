@@ -19,7 +19,7 @@ _Context: Astra, DRDO, India, air-to-air missile_
 _Context: Inca, South America, fossil, mites_
 
 ### [ Alan Johnston, a BBC News journalist, begins his third week in captivity, making him the longest-held foreign hostage since kidnappings began in Gaza. Reporters Without Borders urges the Arab League to make an appeal for his release at an upcoming summit. ](/news/2007/03/26/alan-johnston-a-bbc-news-journalist-begins-his-third-week-in-captivity-making-him-the-longest-held-foreign-hostage-since-kidnappings-beg.md)
-_Context: Alan Johnston, Arab League, BBC News, Gaza, Reporters without Borders's_
+_Context: Alan Johnston, Arab League, BBC News, Gaza Strip, Reporters without Borders's_
 
 ### [ Prime Minister of Japan Shinzo Abe apologizes for Japan's use of women as sex slaves in frontline brothels during World War II. ](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.md)
 _Context: Japan, Prime Minister of Japan, Shinzo Abe, World War II, brothel, sex slave, women_

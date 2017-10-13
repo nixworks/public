@@ -1,7 +1,7 @@
 ## [2007-02-14](/news/2007/02/14/index.md)
 
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghanistan, Taliban, U.S., redeploys_
+_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
 
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -16,7 +16,7 @@ _Context: Al Franken, Minnesota, United States Senate, United States Senate elec
 _Context: $, Arun Sarin, CEO, India, Vodafone Group Plc_
 
 ### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
-_Context: Canada, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
+_Context: Canadian, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
 
 ### [ Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-weeks-ago-and-i.md)
 French police arrested 11 people suspected of having links to Al Qaeda in a pre-dawn sweep on Wednesday.

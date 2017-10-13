@@ -4,7 +4,7 @@
 _Context: Angola, Bulgaria, Cameroon, Chile, Guinea, Iraq Interim Governing Council, Mexico, Pakistan, Spain, U.S. presence in Iraq, United Kingdom, United Nations Security Council_
 
 ### [ Israeli-Palestinian conflict: Four people die in a bomb attack on a convoy of US diplomatic vehicles in the Gaza Strip. Palestinian Authority head Yasser Arafat calls the bombing "dirty and shameful" in an exclusive interview on BBC News. Secretary of State Colin Powell urges Prime Minister Ahmed Qurei in a telephone call ""to take action to put an end to violence and terrorism"," according to a Palestinian official.](/news/2003/10/15/israeli-palestinian-conflict-four-people-die-in-a-bomb-attack-on-a-convoy-of-us-diplomatic-vehicles-in-the-gaza-strip-palestinian-authori.md)
-_Context: Ahmed Qurei, BBC, Colin Powell, Gaza, Israeli-Palestinian conflict, Prime Minister, Secretary of State, Yasser Arafat, telephone_
+_Context: Ahmed Qurei, BBC, Colin Powell, Gaza Strip, Israeli-Palestinian conflict, Prime Minister, Secretary of State, Yasser Arafat, telephone_
 
 ### [ China launches its first astronaut, Yang Liwei into orbit aboard a Shenzhou spacecraft, Shenzhou&nbsp;5. The 21-hour trip is planned to circle the planet 14 times.](/news/2003/10/15/china-launches-its-first-astronaut-yang-liwei-into-orbit-aboard-a-shenzhou-spacecraft-shenzhou-nbsp-5-the-21-hour-trip-is-planned-to-cir.md)
 _Context: Shenzhou spacecraft, Shenzhou&nbsp;5, Yang Liwei, astronaut_

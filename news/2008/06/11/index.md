@@ -16,13 +16,13 @@ Four teenagers were killed and 48 others were injured after a tornado ripped thr
 _Context: Cuba, economy, productivity_
 
 ### [ The Prime Minister of Canada Stephen Harper apologises to tens of thousands of the aboriginal peoples of Canada for more than a century of abuses of First Nations, Inuit and Metis at residential schools set up to assimilate them into Canadian society. ](/news/2008/06/11/the-prime-minister-of-canada-stephen-harper-apologises-to-tens-of-thousands-of-the-aboriginal-peoples-of-canada-for-more-than-a-century-of.md)
-_Context: Canada, Inuit, Metis, Native American, Prime Minister of Canada, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
+_Context: Canadian, Inuit, Metis, Native American, Prime Minister of Canada, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
 
 ### [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md)
 _Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_
 
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
-_Context: $, Anheuser-Busch, InBev, U.S., brewing, takeover_
+_Context: $, Anheuser-Busch, InBev, United States, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
 _Context: Estonia, Finland, Greek, Treaty of Lisbon_
@@ -37,7 +37,7 @@ The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kat
 _Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Station, al-Qaeda_
 
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
-_Context: Prime Minister, Sheikh Hasina, U.S., corruption_
+_Context: Prime Minister, Sheikh Hasina, United States, corruption_
 
 ### [ Stojan Zupljanin, a wartime Bosnian Serb police commander is arrested near Belgrade and will be sent to the Hague where he will face trial for alleged war crimes. ](/news/2008/06/11/stojan-a1-2upljanin-a-wartime-bosnian-serb-police-commander-is-arrested-near-belgrade-and-will-be-sent-to-the-hague-where-he-will-face-trial.md)
 _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, The Hague, war crimes_

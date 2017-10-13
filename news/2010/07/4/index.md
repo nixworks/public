@@ -16,7 +16,7 @@ FIFTEEN people have been killed and 48 others injured after the brakes of an ove
 Female suicide bomber kills at least four people in western province of Anbar.
 
 ### [Women and children march towards Mahmoud al-Zahar's house in Gaza to hand him a letter calling on Hamas to insist on the release of 1,000 Israeli-held Palestinian prisoners during their talks with Israel. ](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.md)
-_Context: Gaza, Hamas, Mahmoud al-Zahar_
+_Context: Gaza Strip, Hamas, Mahmoud al-Zahar_
 
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
 _Context: Africa, Lula, President_
@@ -25,10 +25,10 @@ _Context: Africa, Lula, President_
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.
 
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: CIA, Iran, Shahram Amiri, Switzerland, Tehran, U.S._
+_Context: CIA, Iran, Shahram Amiri, Switzerland, Tehran, United States_
 
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
-_Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, U.S., competitive eating_
+_Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, United States, competitive eating_
 
 ### [Polish voters head to the polls for the second round of presidential voting.Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initially-concedes-defeat-after-exit-polls-sh.md)
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.

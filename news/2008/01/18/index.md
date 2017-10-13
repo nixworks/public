@@ -13,7 +13,7 @@ A man with a shotgun was arrested a block from the U.S. Capitol on Friday but th
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 ### [ Israel kills one Palestinian and injures 40 as it temporarily closes all its border crossings with Gaza Strip. ](/news/2008/01/18/israel-kills-one-palestinian-and-injures-40-as-it-temporarily-closes-all-its-border-crossings-with-gaza-strip.md)
-_Context: Gaza, Israel_
+_Context: Gaza Strip, Israel_
 
 ## [Previous Day...](/news/2008/01/17/index.md)
 

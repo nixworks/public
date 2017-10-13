@@ -38,7 +38,7 @@ _Context: Radovan Karadzic, Serbia_
 _Context: Belarus, EU, Polish, sanctions_
 
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
-_Context: Canada, bison, sasquatch_
+_Context: Canadian, bison, sasquatch_
 
 ### [ In Bulgaria, Bulgarian Socialist Party fails to form a government due to hung parliament. President Georgi Parvanov approaches the National Movement Simeon II of former king Simeon Saxe-Coburg-Gotha ](/news/2005/07/28/in-bulgaria-bulgarian-socialist-party-fails-to-form-a-government-due-to-hung-parliament-president-georgi-parvanov-approaches-the-national.md)
 _Context: Bulgaria, Georgi Parvanov, National Movement Simeon II, Simeon Saxe-Coburg-Gotha, Socialist Party_

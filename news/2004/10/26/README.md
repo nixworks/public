@@ -7,7 +7,7 @@ _Context: American Airlines Flight 587, National Transportation Safety Board, Ne
 _Context: China, Cuba, Denmark, Eritrea, Finland, Freedom of the press, Iceland, Iran, Latvia, Myanmar, Nepal, Netherlands, New Zealand, North Korea, Norway, Reporters without Borders's, Republic of Ireland, Saudi Arabia, Slovakia, Switzerland, Turkmenistan, Vietnam_
 
 ### [ Israeli-Palestinian conflict: The Knesset approves Israeli Prime Minister Ariel Sharon's plan to withdraw 21 settlements from the Gaza Strip and 4 from the West Bank by next year. Israeli Finance Minister Benjamin Netanyahu and three other cabinet ministers from Sharon's ruling Likud government threaten to resign if a referendum over the plan will not be held. ](/news/2004/10/26/israeli-palestinian-conflict-the-knesset-approves-israeli-prime-minister-ariel-sharon-s-plan-to-withdraw-21-settlements-from-the-gaza-stri.md)
-_Context: Ariel Sharon, Benjamin Netanyahu, Gaza, Israel's unilateral disengagement plan of 2004, Israeli-Palestinian conflict, Likud, West Bank, finance minister, parliament in Israel, referendum_
+_Context: Ariel Sharon, Benjamin Netanyahu, Gaza Strip, Israel's unilateral disengagement plan of 2004, Israeli-Palestinian conflict, Likud, West Bank, finance minister, parliament in Israel, referendum_
 
 ### [ The People's Republic of China shuts down dozens of illegal or unsanitary blood collection stations as part of its efforts to curb the spread of AIDS in the country. ](/news/2004/10/26/the-people-s-republic-of-china-shuts-down-dozens-of-illegal-or-unsanitary-blood-collection-stations-as-part-of-its-efforts-to-curb-the-spre.md)
 _Context: AIDS in the country_

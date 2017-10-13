@@ -28,7 +28,7 @@ _Context: Autumn, Buckingham Palace, Peter Phillips, Queen Elizabeth II_
 Former Ambassador Robinson told Foreign Office &#39;if Israelis are to be destroyed, they will go down fighting this time&#39; 
 
 ### [An international aid convoy from Asia enters Gaza, though Iranian and Jordanian members of the flotilla are denied entry and generators donated by Iran are banned too. ](/news/2010/12/30/an-international-aid-convoy-from-asia-enters-gaza-though-iranian-and-jordanian-members-of-the-flotilla-are-denied-entry-and-generators-dona.md)
-_Context: Asia, Gaza, Iran, Jordan_
+_Context: Asia, Gaza Strip, Iran, Jordan_
 
 ### [Israeli forces arrest Hamas MP Khalil Ar-Rabai after surrounding his home in the early morning in the southern West Bank town of Yatta. The destruction of family property is also reported. ](/news/2010/12/30/israeli-forces-arrest-hamas-mp-khalil-ar-rabai-after-surrounding-his-home-in-the-early-morning-in-the-southern-west-bank-town-of-yatta-the.md)
 _Context: Hamas, Israel, West Bank, Yatta_

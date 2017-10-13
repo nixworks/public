@@ -1,7 +1,7 @@
 ## [2007-08-30](/news/2007/08/30/index.md)
 
 ### [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md)
-_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, U.S., United States House of Representatives, United States Senate, rocket_
+_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States Senate, rocket_
 
 ### [ At least 10 Malians are killed and several others injured after their vehicle hits a land mine. ](/news/2007/08/30/at-least-10-malians-are-killed-and-several-others-injured-after-their-vehicle-hits-a-land-mine.md)
 _Context: Mali, land mine_
@@ -16,7 +16,7 @@ _Context: Exile, Nawaz Sharif, Pakistan, Prime Minister, Supreme Court_
 _Context: Iowa, constitution, district court, equal protection, same sex couple_
 
 ### [ United States health officials issue a consumer alert for people to check their freezers for contaminated meat. ](/news/2007/08/30/united-states-health-officials-issue-a-consumer-alert-for-people-to-check-their-freezers-for-contaminated-meat.md)
-_Context: U.S., consumer, freezer, meat_
+_Context: United States, consumer, freezer, meat_
 
 ### [ Darfur rebels accuse the Sudanese Government of bombing South Darfur. ](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.md)
 Darfur rebels have accused the Sudanese Government of bombing South Darfur, the latest attack in an aerial campaign that has driven thousands of people from their homes over the past month.
@@ -34,7 +34,7 @@ _Context: Waziristan War_
 _Context: New York City, United Nations headquarters, phosgene_
 
 ### [ The Al-Aqsa Martyrs Brigades of Fatah claims its militants have fired a missile into southern Israeli city of Sderot in response to Israeli raids on the Gaza Strip. Israeli sources said the rocket landed on a building and caused damages and panic. ](/news/2007/08/30/the-al-aqsa-martyrs-brigades-of-fatah-claims-its-militants-have-fired-a-missile-into-southern-israeli-city-of-sderot-in-response-to-israeli.md)
-_Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza, Israel, Sderot, rocket attacks_
+_Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza Strip, Israel, Sderot, rocket attacks_
 
 ### [ Scores of Italians are arrested in a crackdown on the 'ndrangheta organised crime clans active in Calabria. ](/news/2007/08/30/scores-of-italians-are-arrested-in-a-crackdown-on-the-ndrangheta-organised-crime-clans-active-in-calabria.md)
 _Context: 'Ndrangheta, Calabria, Italy_

@@ -19,7 +19,7 @@ _Context: Fatah, Hamas, clashes_
 _Context:  Russian President, Condoleezza Rice, Secretary of State, Vladimir Putin_
 
 ### [ Canadian publisher The Thomson Corporation agrees to buy Reuters for GBP8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-gbp8-7-billion-creating-the-world-s-biggest-financial-news-and-data-gr.md)
-_Context: Canada, Reuters, The Thomson Corporation_
+_Context: Canadian, Reuters, The Thomson Corporation_
 
 ### [ The death toll for violence associated with the Philippine general election rises to 126. ](/news/2007/05/15/the-death-toll-for-violence-associated-with-the-philippine-general-election-rises-to-126.md)
 _Context: Philippine general election_

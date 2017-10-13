@@ -19,7 +19,7 @@ _Context: Massachusetts, Massachusetts General Court, to get married_
 _Context: Juba, Lord's Resistance Army, Southern Sudan, Uganda, White Nile_
 
 ### [ Hamas blows a hole through the wall between Egypt and Gaza, allowing free passage for Palestinians to and from Egypt for the first time since 1967. ](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.md)
-_Context: Egypt, Gaza, Hamas, Palestinians_
+_Context: Egypt, Gaza Strip, Hamas, Palestinians_
 
 ### [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md)
 _Context: Baghdad, Kadhimiya, Shia, car bomb_

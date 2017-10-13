@@ -19,7 +19,7 @@ _Context: Elfriede Jelinek, Nobel Prize in Literature, clich, novel, plays, soci
 _Context: Azam Tariq, Multan, Pakistan, Sunni_
 
 ### [ The United Nations issues a special report warning of an imminent humanitarian crisis in the Gaza Strip. The report says that 72.5 percent of Palestinians will be living in poverty by the end of 2006, that Israeli restrictions are hampering emergency aid deliveries, and that, since September 28, 82 Palestinians and 5 Israelis, including 26 children, have been killed. ](/news/2004/10/7/the-united-nations-issues-a-special-report-warning-of-an-imminent-humanitarian-crisis-in-the-gaza-strip-the-report-says-that-72-5-percent.md)
-_Context: Gaza, Israeli-Palestinian conflict, United Nations, aid, poverty_
+_Context: Gaza Strip, Israeli-Palestinian conflict, United Nations, aid, poverty_
 
 ### [ Norodom Sihanouk, King of Cambodia, announces his abdication. His successor will be chosen by a special council. ](/news/2004/10/7/norodom-sihanouk-king-of-cambodia-announces-his-abdication-his-successor-will-be-chosen-by-a-special-council.md)
 _Context: Cambodia, King Norodom Sihanouk, abdicate_

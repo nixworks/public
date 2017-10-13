@@ -10,7 +10,7 @@ _Context: Al Qaim, Mortar, Mosul, car bomb, civilian_
 _Context: Expedition 10, Expedition 9, Gennady Padalka's, International Space Station, Leroy Chiao, Mike Fincke, Salizhan Sharipov, Yuri Shargin, astronaut, cosmonaut_
 
 ### [ Israel Defense Forces withdraw from the northern Gaza Strip, ending Operation Days of Penitence. Three men, allegedly militants, and a 70-year-old Palestinian woman are killed on the final day. Over 100 Palestinians have died in the course of the 16-day operation; BBC sources say about one third were civilians. Palestinian Prime Minister Abu Ala says that 140 Palestinians were killed during the operation. Israeli Defence Forces sources, however, place the number killed at about 130, with only a few civilian deaths. ](/news/2004/10/16/israel-defense-forces-withdraw-from-the-northern-gaza-strip-ending-operation-days-of-penitence-three-men-allegedly-militants-and-a-70-y.md)
-_Context: Abu Ala, Gaza, Israel Defense Forces, Israeli Defence Forces, Operation Days of Penitence_
+_Context: Abu Ala, Gaza Strip, Israel Defense Forces, Israeli Defence Forces, Operation Days of Penitence_
 
 ## [Previous Day...](/news/2004/10/15/index.md)
 

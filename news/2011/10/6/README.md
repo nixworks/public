@@ -19,7 +19,7 @@ _Context: North Korea, South Korea_
 _Context: Democratic Party, Ichiro Ozawa, Japan_
 
 ### [Voters in Canada's most populous province Ontario go to the polls for a general election with the Ontario Liberal Party, led by Dalton McGuinty, winning another term under a slight minority government.](/news/2011/10/6/voters-in-canada-s-most-populous-province-ontario-go-to-the-polls-for-a-general-election-with-the-ontario-liberal-party-led-by-dalton-mcgui.md)
-_Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election_
+_Context: Canadian, Dalton McGuinty, Ontario, Ontario Liberal Party, general election_
 
 ## [Previous Day...](/news/2011/10/5/index.md)
 

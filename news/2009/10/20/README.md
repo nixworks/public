@@ -46,7 +46,7 @@ _Context: Silvio Berlusconi_
 _Context: witch_
 
 ### [ The United States observes the National Day on Writing, sponsored by the National Council of Teachers of English ("Pittsburgh Post-Gazette") [http:--www.post-gazette.com-pg-09293-1006870-44.stmP].](/news/2009/10/20/the-united-states-observes-the-national-day-on-writing-sponsored-by-the-national-council-of-teachers-of-english-pittsburgh-post-gazette.md)
-_Context: National Council of Teachers of English, National Day on Writing, U.S._
+_Context: National Council of Teachers of English, National Day on Writing, United States_
 
 ## [Previous Day...](/news/2009/10/19/index.md)
 

@@ -15,10 +15,10 @@ Tornadoes ripped through four states on Tuesday night and Wednesday, killing at 
 ### Related:
 
 1. [Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. ](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of-homes-in-the-midwestern-united-states-cutting-off-electricity-in-several-areas-and-prompti.md) _Context: Missouri, destroy, tornado_
-2. [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md) _Context: Georgia, Missouri, U.S._
+2. [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md) _Context: Georgia, Missouri, United States_
 3. [ A tornado strikes southern Missouri killing a seven-year-old girl. Tornadoes in Alabama kill at least ten people including eight students at Enterprise High School. In Georgia, at least nine people die in storms. It is part of a larger tornado outbreak. ](/news/2007/03/1/a-tornado-strikes-southern-missouri-killing-a-seven-year-old-girl-tornadoes-in-alabama-kill-at-least-ten-people-including-eight-students-a.md) _Context: Georgia, Missouri, tornado_
 4. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: Georgia, tornado_
-5. [Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, U.S._
+5. [Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
 
 ### Changes:
 

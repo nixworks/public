@@ -11,7 +11,7 @@ Jupiter will be the brightest object in the sky, except for the moon, when it ma
 
 ### Related:
 
-1. [Apollo asteroid 2012 TC4 passes 0.0003352 AU (50,150 km; 31,160 mi) from Earth, well within the Moon's orbit. ](/news/2017/10/12/apollo-asteroid-2012-tc4-passes-0-0003352-au-50-150-km-31-160-mi-from-earth-well-within-the-moon-s-orbit.md) _Context: Earth, Moon_
+1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _Context: Earth, Moon_
 2. [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md) _Context: Earth, Moon_
 3. ["Juno" flies by Earth on its way to orbit Jupiter, but suffers a glitch during the fly-by that puts it in safe mode. ](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.md) _Context: Earth, Jupiter_
 4. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_

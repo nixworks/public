@@ -25,7 +25,7 @@ Republicans said Wednesday that the resignation of NPR&#8217;s top executive in 
 Zara Phillips and her rugby player fiance Mike Tindall are to be married at the Canongate Kirk, Edinburgh, on 30 July, Buckingham Palace says.
 
 ### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
-_Context: Athabasca River, Canada, aromatic, oil sands, polycyclic_
+_Context: Athabasca River, Canadian, aromatic, oil sands, polycyclic_
 
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
 _Context: Honshu Island, Japan, earthquake, tsunami_
@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, Food and Drug Administration, U.S., lupus_
+_Context: Belimumab, Food and Drug Administration, United States, lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

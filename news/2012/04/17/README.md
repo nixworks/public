@@ -7,7 +7,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 Prime Minister Julia Gillard says Australia will withdraw its troops from Afghanistan earlier than planned, by the end of 2013.
 
 ### [Palestinian inmates held in Israeli jails from Hamas, Islamic Jihad, the PFLP and the DFLP go on hunger strike on the Palestinian "Prisoners' Day". Thousands of people rally in towns and cities in both the West Bank and the Gaza Strip in support of their action, waving Palestinian flags and displaying photos of imprisoned relatives. ](/news/2012/04/17/palestinian-inmates-held-in-israeli-jails-from-hamas-islamic-jihad-the-pflp-and-the-dflp-go-on-hunger-strike-on-the-palestinian-prisoners.md)
-_Context: DFLP, Gaza, Hamas, Islamic Jihad Movement in Palestine, PFLP, Palestinian inmates held in Israeli jails, West Bank, hunger strike_
+_Context: DFLP, Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, PFLP, Palestinian inmates held in Israeli jails, West Bank, hunger strike_
 
 ### [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md)
 Hezbollah chief Hassan Nasrallah says he would be willing to mediate in the Syrian crisis, in a rare interview with Wikileaks founder Julian Assange.

@@ -4,7 +4,7 @@
 _Context: Kaduna State, Nigeria, fire, petrol_
 
 ### [ The village of Um el-Nasser in the Gaza Strip is flooded with sewage after the wall of a sewage pond gives way resulting in at least four deaths. ](/news/2007/03/27/the-village-of-um-el-nasser-in-the-gaza-strip-is-flooded-with-sewage-after-the-wall-of-a-sewage-pond-gives-way-resulting-in-at-least-four-d.md)
-_Context: Gaza, Um el-Nasser, sewage, village_
+_Context: Gaza Strip, Um el-Nasser, sewage, village_
 
 ### [ Heavy flooding after several days of heavy rain in Hispaniola have resulted in 11 people dying and thousands of people being evacuated in Haiti and the Dominican Republic. ](/news/2007/03/27/heavy-flooding-after-several-days-of-heavy-rain-in-hispaniola-have-resulted-in-11-people-dying-and-thousands-of-people-being-evacuated-in-h.md)
 _Context: Dominican Republic, Haiti, Hispaniola, flood, rain_

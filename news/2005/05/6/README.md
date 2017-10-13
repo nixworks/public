@@ -4,7 +4,7 @@
 _Context: Federal Communications Commission, U.S. Appeals Court Judge, broadcast flag_
 
 ### [ Fatah wins 55 percent of the seats in municipal elections held in 84 cities across the West Bank and Gaza. Hamas wins about a third of the seats. Fatah won a majority of seats in Beit Lahiya, Hawara and Tulkarem, Hamas won the majority in Qalqiliya and El Boureij. Election participation was 70 percent in the West Bank and 80 percent in Gaza. ](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.md)
-_Context: Beit Lahiya, El Boureij, Fatah, Gaza, Hamas, Hawara, Qalqiliya, Tulkarem, West Bank_
+_Context: Beit Lahiya, El Boureij, Fatah, Gaza Strip, Hamas, Hawara, Qalqiliya, Tulkarem, West Bank_
 
 ### [ At 04:28 BST, The Labour Party wins a parliamentary majority. Despite a substantially reduced majority, Tony Blair becomes the first Labour Prime Minister to lead his party to three election victories. ](/news/2005/05/6/at-04-28-bst-the-labour-party-wins-a-parliamentary-majority-despite-a-substantially-reduced-majority-tony-blair-becomes-the-first-labour.md)
 Get the latest breaking news and top news headlines at Reuters.com
@@ -19,7 +19,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-Nazi groups abroad, the first case of its kind in the Jewish state, which was founded as a haven for victims of the Holocaust. A police spokesman said the suspect, a 20-year-old army conscript who recently immigrated from...
 
 ### [ Reports emerge that the United States may be sending detainees to Uzbekistan, a regime notorious for torture. ](/news/2005/05/6/reports-emerge-that-the-united-states-may-be-sending-detainees-to-uzbekistan-a-regime-notorious-for-torture.md)
-_Context: U.S., Uzbekistan, detainee, torture_
+_Context: United States, Uzbekistan, detainee, torture_
 
 ### [ Audioslave become the first US Rock band to play in Cuba](/news/2005/05/6/audioslave-become-the-first-us-rock-band-to-play-in-cuba.md)
 _Context: Audioslave, Cuba_

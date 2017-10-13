@@ -1,7 +1,7 @@
 ## [2005-10-25](/news/2005/10/25/index.md)
 
 ### [ Israeli-Palestinian Conflict: Israeli warplanes and artillery units hit areas in the northern Gaza Strip. ](/news/2005/10/25/israeli-palestinian-conflict-israeli-warplanes-and-artillery-units-hit-areas-in-the-northern-gaza-strip.md)
-_Context: Gaza, Israel, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict_
 
 ### [ AIDS pandemic: The United Nations Children's Fund (Unicef), UNAIDS and other partners launch a global campaign, known as "Unite for Children, Unite Against AIDS", to spur action for the millions of children affected by HIV-AIDS. Fewer than 5 percent of HIV-positive children are receiving treatment. ](/news/2005/10/25/aids-pandemic-the-united-nations-children-s-fund-unicef-unaids-and-other-partners-launch-a-global-campaign-known-as-unite-for-childre.md)
 _Context: AIDS, AIDS pandemic, HIV, UNAIDS, Unite for Children, Unite Against AIDS, United Nations Children's Fund_

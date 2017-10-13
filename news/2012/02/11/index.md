@@ -4,7 +4,7 @@
 Several wounded in second day of violence involving supporters and opponents of Syrian President Bashar Assad.
 
 ### [The Israeli Air Force conducts four air strikes in the Gaza Strip with claims that two people were injured. ](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.md)
-_Context: Gaza, Israeli Air Force_
+_Context: Gaza Strip, Israeli Air Force_
 
 ### [American singer and actress Whitney Houston dies suddenly at the age of 48 at the Beverly Hills Hilton Hotel. ](/news/2012/02/11/american-singer-and-actress-whitney-houston-dies-suddenly-at-the-age-of-48-at-the-beverly-hills-hilton-hotel.md)
 Singer and actress Whitney Houston, one of the most celebrated acts of all time, is found dead in Los Angeles at the age of 48.

@@ -4,7 +4,7 @@
 Ukrainian forces struck at pro-Russian separatist bases in eastern regions with air and artillery strikes on Tuesday after President Petro Poroshenko announced he would not renew a ceasefire but go on the offensive to rid Ukraine of &quot;parasites&quot;.
 
 ### [Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that-were-fired-into-israel.md)
-_Context: Gaza, Gaza-Israel conflict, Hamas_
+_Context: Gaza Strip, Gaza-Israel conflict, Hamas_
 
 ### [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria, Maiduguri, car bomb_

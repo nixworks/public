@@ -4,10 +4,10 @@
 _Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo, National Democratic Congress, New Patriotic Party, second round_
 
 ### [ An Israeli airstrike on the mosque in the Gaza Strip village of Beit Lahia kills at least 13 people. ](/news/2009/01/3/an-israeli-airstrike-on-the-mosque-in-the-gaza-strip-village-of-beit-lahia-kills-at-least-13-people.md)
-_Context: Beit Lahia, Gaza, Israel, fire, mosque_
+_Context: Beit Lahia, Gaza Strip, Israel, fire, mosque_
 
 ### [ Israel's Defense Forces launch a ground attack on the Gaza Strip. ](/news/2009/01/3/israel-s-defense-forces-launch-a-ground-attack-on-the-gaza-strip.md)
-_Context: Gaza, Israel, Israel Defense Forces, ground attack_
+_Context: Gaza Strip, Israel, Israel Defense Forces, ground attack_
 
 ### [ The 2009 Dakar Rally begins in Buenos Aires, Argentina. ](/news/2009/01/3/the-2009-dakar-rally-begins-in-buenos-aires-argentina.md)
 _Context: 2009, Argentina, Buenos Aires, Dakar Rally_

@@ -1,7 +1,7 @@
 ## [2009-01-1](/news/2009/01/1/index.md)
 
 ### [ An Israeli airstrike on the Gaza Strip city of Jabalia kills senior Hamas military commander Nizar Rayan and six members of his family. ](/news/2009/01/1/an-israeli-airstrike-on-the-gaza-strip-city-of-jabalia-kills-senior-hamas-military-commander-nizar-rayan-and-six-members-of-his-family.md)
-_Context: Gaza, Hamas, Israel, Israeli-Palestinian conflict, Jabalia, Nizar Rayan, fire_
+_Context: Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, Jabalia, Nizar Rayan, fire_
 
 ### [ At least five people die and more than 50 are injured in serial bombings in Guwahati, India. ](/news/2009/01/1/at-least-five-people-die-and-more-than-50-are-injured-in-serial-bombings-in-guwahati-india.md)
 _Context: Guwahati, India, serial bombings_

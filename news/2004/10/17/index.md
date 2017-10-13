@@ -4,7 +4,7 @@
 _Context: Sichuan, released an object into orbit_
 
 ### [ Israeli-Palestinian Conflict: Israel Defense Forces troops enter the southern Gaza Strip refugee camp of Rafah with ten tanks and three bulldozers. ](/news/2004/10/17/israeli-palestinian-conflict-israel-defense-forces-troops-enter-the-southern-gaza-strip-refugee-camp-of-rafah-with-ten-tanks-and-three-bul.md)
-_Context: Gaza, Israel Defense Forces, Israeli-Palestinian conflict, Rafah, bulldozer, refugee camp, tank_
+_Context: Gaza Strip, Israel Defense Forces, Israeli-Palestinian conflict, Rafah, bulldozer, refugee camp, tank_
 
 ### [ The UK ambassador to Uzbekistan is recalled and suspended after criticizing the use of intelligence allegedly obtained under torture by the Uzbekistan government. ](/news/2004/10/17/the-uk-ambassador-to-uzbekistan-is-recalled-and-suspended-after-criticizing-the-use-of-intelligence-allegedly-obtained-under-torture-by-the.md)
 _Context: Uzbekistan, ambassador_

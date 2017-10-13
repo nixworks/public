@@ -17,7 +17,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 2. [ Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. ](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.md) _Context: Taliban, War in North-West Pakistan, military_
 3. [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md) _Context: Taliban, War in North-West Pakistan, militant_
 4. [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md) _Context: Taliban, War in North-West Pakistan, militant_
-5. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36. Jamaat-ul-Ahrar, a Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-pakist.md) _Context: Taliban, War in North-West Pakistan_
+5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban, War in North-West Pakistan_
 
 ### Changes:
 

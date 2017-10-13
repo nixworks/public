@@ -4,7 +4,7 @@
 _Context: 2004 Indian Ocean earthquake_
 
 ### [ The Canadian House of Commons votes on two crucial budget bills. Bill C-43 carries with a vote of 250 yea, 54 nay. Bill C-48 is tied with a vote of 152 yea, 152 nay, with the Speaker voting in favour, breaking the tie and carrying the bill. The Canadian government survives the Motion of no confidence. ](/news/2005/05/19/the-canadian-house-of-commons-votes-on-two-crucial-budget-bills-bill-c-43-carries-with-a-vote-of-250-yea-54-nay-bill-c-48-is-tied-with-a.md)
-_Context: Bill C-43, Bill C-48, Canada, Canadian House of Commons, Speaker, no confidence_
+_Context: Bill C-43, Bill C-48, Canadian, Canadian House of Commons, Speaker, no confidence_
 
 ### [ 2005 Pacific hurricane season: Tropical Storm Adrian reaches hurricane strength, and is about 12 hours away from making landfall over or near El Salvador. ](/news/2005/05/19/2005-pacific-hurricane-season-tropical-storm-adrian-reaches-hurricane-strength-and-is-about-12-hours-away-from-making-landfall-over-or-ne.md)
 _Context: 2005 Pacific hurricane season, El Salvador_
@@ -31,7 +31,7 @@ _Context: Alassane Biga, Ilguilas Weila, Niamey, Niger, slavery_
 _Context: Seoul National University, South Korea, United Kingdom, University of Newcastle, cloning, embryo, stem cell_
 
 ### [ "Star Wars Episode III: Revenge of the Sith", at the time purported to be the final "Star Wars" film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states-jus.md)
-_Context: DVD, File sharing, Star Wars Episode III: Revenge of the Sith, U.S., workprint_
+_Context: DVD, File sharing, Star Wars Episode III: Revenge of the Sith, United States, workprint_
 
 ### [ Reggie Miller plays his last game as an Indiana Pacer, losing to the Detroit Pistons in Game 6 of the second round of the NBA Playoffs. He tallied 27 points in his final game.](/news/2005/05/19/reggie-miller-plays-his-last-game-as-an-indiana-pacer-losing-to-the-detroit-pistons-in-game-6-of-the-second-round-of-the-nba-playoffs-he.md)
 ## [Previous Day...](/news/2005/05/18/index.md)

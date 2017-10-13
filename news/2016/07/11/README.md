@@ -13,7 +13,7 @@ Syrian rebel fighters launch an assault on government-held districts of Aleppo, 
 The US is to send 560 more military personnel to Iraq to help in the fight against so-called Islamic State (IS), Defence Secretary Ash Carter says.
 
 ### [Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md)
-_Context: Gaza, Israeli-Palestinian conflict, Khan Yunis_
+_Context: Gaza Strip, Israeli-Palestinian conflict, Khan Yunis_
 
 ### [The 127 people who were massacred in the Srebrenica massacre in 1995 and were subsequently discovered in mass graves are buried at the Srebrenica Genocide Memorial following a funeral. For the first time, Bosnian Serbs were not welcome to attend the ceremony. ](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.md)
 Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica massacre buried in individual graves on Monday in a ceremony avoided by Serbs after survivors said they were not welcome because they denied genocide had occurred.

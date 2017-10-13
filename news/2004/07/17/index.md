@@ -4,7 +4,7 @@
 _Context: Iyad Allawi_
 
 ### [ The Prime Minister of the Palestinian Authority, Ahmed Qurei, submits his resignation during chaos in the Gaza Strip as gunmen kidnapped several people, including the chief of police of the Gaza Strip, demanding reform of the Palestinian security force. Yasser Arafat refuses to accept the resignation. ](/news/2004/07/17/the-prime-minister-of-the-palestinian-authority-ahmed-qurei-submits-his-resignation-during-chaos-in-the-gaza-strip-as-gunmen-kidnapped-se.md)
-_Context: Ahmed Qurei, Chief, Gaza, Palestinian Authority, Palestinian security force, Prime Minister, Yasser Arafat_
+_Context: Ahmed Qurei, Chief, Gaza Strip, Palestinian Authority, Palestinian security force, Prime Minister, Yasser Arafat_
 
 ### [ The Asian Cup 2004 kicks off in Beijing, China. Hosts PR China ties Bahrain 2:2 in the opening match.](/news/2004/07/17/the-asian-cup-2004-kicks-off-in-beijing-china-hosts-pr-china-ties-bahrain-2-2-in-the-opening-match.md)
 _Context: Asian Cup 2004, Beijing_

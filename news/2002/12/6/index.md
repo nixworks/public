@@ -4,7 +4,7 @@
 _Context: Akhmed Zakayev, Chechnya, Vanessa Redgrave_
 
 ### [Israeli-Palestinian conflict: Israeli troops backed by tanks and helicopter gunships swept into the Bureij refugee camp in the Gaza Strip on Friday, provoking a gunbattle and killing 10 people, Palestinian witnesses and medics said.](/news/2002/12/6/israeliapalestinian-conflict-israeli-troops-backed-by-tanks-and-helicopter-gunships-swept-into-the-bureij-refugee-camp-in-the-gaza-strip.md)
-_Context: Gaza, Israel, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict_
 
 ### [Venezuela's oil exports ground to a halt, negotiations stalled and protesters faced off on the streets as prospects dimmed for a peaceful resolution to a strike designed to unseat President Hugo Chavez.](/news/2002/12/6/venezuela-s-oil-exports-ground-to-a-halt-negotiations-stalled-and-protesters-faced-off-on-the-streets-as-prospects-dimmed-for-a-peaceful-re.md)
 _Context: Hugo Chavez, Venezuela, strike_

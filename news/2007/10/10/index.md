@@ -4,7 +4,7 @@
 _Context: Holy See, Kazimierz Dolny, Nun, Polish, Polish police, convent, evict, rebellious_
 
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)
-_Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
+_Context: Canadian, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
 
 ### [ Tibetan exiles storm the embassy of the People's Republic of China in New Delhi to protest the lack of religious freedom in China. ](/news/2007/10/10/tibetan-exiles-storm-the-embassy-of-the-people-s-republic-of-china-in-new-delhi-to-protest-the-lack-of-religious-freedom-in-china.md)
 _Context: China, China, New Delhi, Tibet, embassies, religious freedom_
@@ -13,7 +13,7 @@ _Context: China, China, New Delhi, Tibet, embassies, religious freedom_
 _Context: Taliban, hostages_
 
 ### [ The United States Centers for Disease Control and Prevention warns consumers not to eat Banquet pot pies or other pot pies made by ConAgra with a printed code ending in C9 due to possible links with a salmonella outbreak. ](/news/2007/10/10/the-united-states-centers-for-disease-control-and-prevention-warns-consumers-not-to-eat-banquet-pot-pies-or-other-pot-pies-made-by-conagra.md)
-_Context: Centers for Disease Control and Prevention, ConAgra, U.S., pot pies, salmonella_
+_Context: Centers for Disease Control and Prevention, ConAgra, United States, pot pies, salmonella_
 
 ### [ Mahmoud Abbas, the President of the Palestinian Authority, spells out his conditions for a peace deal with Israel prior to a conference in Annapolis, Maryland next month. ](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.md)
 _Context: 2007 Mideast peace conference, Annapolis, Maryland, Israel, Mahmoud Abbas, Palestinian Authority_

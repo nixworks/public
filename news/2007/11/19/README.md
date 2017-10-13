@@ -4,7 +4,7 @@
 _Context: Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, Philippine President, State Peace and Development Council, charter, opposition_
 
 ### [ Pakistani Attorney General Malik Qayyum announces the Supreme Court of Pakistan has dismissed five of the six petitions against President Pervez Musharraf's re-election. [http:--news.bbc.co.uk-2-hi-south_asia-7101302.stm (BBC)] At least 80 people die and 100 are wounded in sectarian violence in Kurram Agency. [http:--news.bbc.co.uk-2-hi-south_asia-7101533.stm (BBC)] Pakistani President Pervez Musharraf rejects United States Deputy Secretary of State John Negroponte's demand to lift the state of emergency.date=December 2007](/news/2007/11/19/pakistani-attorney-general-malik-qayyum-announces-the-supreme-court-of-pakistan-has-dismissed-five-of-the-six-petitions-against-president-p.md)
-_Context: John Negroponte, Kurram, Malik Qayyum, Pakistan, Pervez Musharraf, Supreme Court, U.S., US Deputy Secretary of State, attorney general, petition, president, sectarian strife, states of emergency_
+_Context: John Negroponte, Kurram Valley, Malik Qayyum, Pakistan, Pervez Musharraf, Supreme Court, US Deputy Secretary of State, United States, attorney general, petition, president, sectarian strife, states of emergency_
 
 ### [ 2007 Zasyadko mine disaster: Rescuers continue the search for 20 trapped miners, but a union official says there is "no chance" for them. ](/news/2007/11/19/2007-zasyadko-mine-disaster-rescuers-continue-the-search-for-20-trapped-miners-but-a-union-official-says-there-is-no-chance-for-them.md)
 _Context: Rescue, miner, twelve days earlier, unionize_

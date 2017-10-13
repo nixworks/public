@@ -4,7 +4,7 @@
 _Context: Pakistan_
 
 ### [Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. ](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.md)
-_Context: Alexandria, Army of Islam, Christian, Copt, Egypt, Gaza, New Year's Day church bombing_
+_Context: Alexandria, Army of Islam, Christian, Copt, Egypt, Gaza Strip, New Year's Day church bombing_
 
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
 _Context: Afghanistan, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_
@@ -31,7 +31,7 @@ The Dominican Republic confirms a Haitian man is the first to die of cholera in 
 Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have ended in deadlock &ndash; raising fears that its regime could accelerate its nuclear weapons programme, potentially sparking off a dangerous Middle East crisis.
 
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
 
 ### [A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice-Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/a-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united-states-department-of-j.md)
 The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for arresting a Swiss banker on suspicion of breaching banking secrecy instead of investigating the tax evasion he said he had uncovered.

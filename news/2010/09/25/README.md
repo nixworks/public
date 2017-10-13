@@ -7,10 +7,10 @@ _Context: Kabul, Taliban, Wardak province_
 _Context: Dagestan, state police, suicide bombing_
 
 ### [The Israeli Navy kills a Palestinian fisherman off Gaza. ](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.md)
-_Context: Gaza, Israeli Navy_
+_Context: Gaza Strip, Israeli Navy_
 
 ### [One of three Palestinians wounded by Israeli tank fire on 14 September dies in the Gaza Strip. ](/news/2010/09/25/one-of-three-palestinians-wounded-by-israeli-tank-fire-on-14-september-dies-in-the-gaza-strip.md)
-_Context: Gaza, Israel_
+_Context: Gaza Strip, Israel_
 
 ### [Those sexually abused as children by Catholic priests in Italy gather in public for the first time in Verona to campaign for the act to be made a crime against humanity and to organise an international demonstration outside the Vatican next month. ](/news/2010/09/25/those-sexually-abused-as-children-by-catholic-priests-in-italy-gather-in-public-for-the-first-time-in-verona-to-campaign-for-the-act-to-be-m.md)
 Victims of child abuse by Catholic priests in Italy have met for the first time, and called for such abuse to be made a crime against humanity.
@@ -31,10 +31,10 @@ Palestinians are willing and ready to reach a comprehensive and just peace agree
 Japan refused to apologize on Saturday for detaining a Chinese boat captain, showing no signs of softening in a dispute between the two economic powers after Japan gave ground and released him.
 
 ### [A U.S. federal court judge denies convicted murderer and rapist Albert Green's request for a stay of execution, clearing the way for California's first execution in five years. ](/news/2010/09/25/a-u-s-federal-court-judge-denies-convicted-murderer-and-rapist-albert-green-s-request-for-a-stay-of-execution-clearing-the-way-for-califor.md)
-_Context: California, U.S., federal court_
+_Context: California, United States, federal court_
 
 ### [Pakistan International Airlines Flight 782 departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat. A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda-a.md)
-_Context: Arlanda Airport, Canada, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Swedish, Toronto, bomb threat_
+_Context: Arlanda Airport, Canadian, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Swedish, Toronto, bomb threat_
 
 ### [The U.S. government urges a judge to dismiss a lawsuit which challenges an American targeted killing program which is currently hunting an American citizen who has no charges brought against him. ](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.md)
 The Obama administration on Saturday urged a federal judge to reject a challenge to a program that targets for killing U.S. citizens like Muslim cleric Anwar al-Awlaki who have joined militant groups and have been tied to terrorism plots.

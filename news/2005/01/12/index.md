@@ -16,7 +16,7 @@ _Context: Iraq, weapons of mass destruction_
 _Context: Archbishop, Camp X-Ray, Desmond Tutu, Guantnamo Bay detainment camp_
 
 ### [ Israeli-Palestinian Conflict: Israel has carried out a series of raids into the West Bank and the Gaza Strip. Two armed men were shot and killed in Ramallah, while four men were arrested in Gaza City. An Israeli civilian was also killed, and three Israeli soldiers were wounded following an Islamic Jihad attack on Morag, in the southern Gaza Strip. ](/news/2005/01/12/israeli-palestinian-conflict-israel-has-carried-out-a-series-of-raids-into-the-west-bank-and-the-gaza-strip-two-armed-men-were-shot-and-k.md)
-_Context: Gaza, Gaza, Israel, Israeli-Palestinian conflict, Morag, Palestinian Islamic Jihad, Ramallah, West Bank_
+_Context: Gaza, Gaza Strip, Israel, Israeli-Palestinian conflict, Morag, Palestinian Islamic Jihad, Ramallah, West Bank_
 
 ### [ In Cte d'Ivoire, former rebels warn that controversy over a disputed nationality law could restart the civil war ](/news/2005/01/12/in-cote-d-ivoire-former-rebels-warn-that-controversy-over-a-disputed-nationality-law-could-restart-the-civil-war.md)
 _Context: Cte d'Ivoire, civil war_

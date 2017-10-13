@@ -1,7 +1,7 @@
 ## [2011-04-8](/news/2011/04/8/index.md)
 
 ### [At least 12 Palestinians, including 3 civilians, are killed by Israeli air strikes in Gaza in response to numerous mortar and rocket attacks. ](/news/2011/04/8/at-least-12-palestinians-including-3-civilians-are-killed-by-israeli-air-strikes-in-gaza-in-response-to-numerous-mortar-and-rocket-attacks.md)
-_Context: Gaza, Israel, Palestinian rocket attacks on Israel_
+_Context: Gaza Strip, Israel, Palestinian rocket attacks on Israel_
 
 ### [Prominent religious leader Maulvi Showkat Ahmed Shah is killed when explosives attached to a bicycle are detonated outside a mosque in Srinagar, Kashmir, thought to be the first attack of its kind in about two years. The capital's shops shut down and traffic is suspended. ](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.md)
 _Context: Kashmir, Srinagar, mosque_

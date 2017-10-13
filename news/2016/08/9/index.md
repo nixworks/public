@@ -1,7 +1,7 @@
 ## [2016-08-9](/news/2016/08/9/index.md)
 
 ### [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md)
-_Context: Gaza, Hamas, Israel, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict_
 
 ### [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md)
 Bombing of potato factory in the capital Sana’a comes just days after the collapse of UN-brokered peace talks

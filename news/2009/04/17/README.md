@@ -43,7 +43,7 @@ _Context: Andry Rajoelina, Madagascar, Marc Ravalomanana, President, arrest warr
 _Context: KwaZulu-Natal, South Africa, loses, military, province_
 
 ### [ Canada restores citizenship to foreigners in an amendment to the Citizenship Act of 1977. ](/news/2009/04/17/canada-restores-citizenship-to-foreigners-in-an-amendment-to-the-citizenship-act-of-1977.md)
-_Context: Canada, citizen of Canada, citizenship, foreigners, law_
+_Context: Canadian, citizen of Canada, citizenship, foreigners, law_
 
 ### [ The Fifth Summit of the Americas begins in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.md)
 _Context: Fifth, Port-of-Spain, Summit of the Americas, Trinidad and Tobago_

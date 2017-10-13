@@ -10,7 +10,7 @@ At least 38 people have been killed in flash floods in a remote region of Indone
 _Context: Ben S. Bernanke, Federal Reserve, U.S._
 
 ### [ Russian President Dmitry Medvedev accuses the United States of "blocking" Russia's accession to the World Trade Organization. ](/news/2009/09/15/russian-president-dmitry-medvedev-accuses-the-united-states-of-blocking-russia-s-accession-to-the-world-trade-organization.md)
-_Context:  Russian President, Dmitry Medvedev, Russia, U.S., World Trade Organization_
+_Context:  Russian President, Dmitry Medvedev, Russia, United States, World Trade Organization_
 
 ### [ A United Nations report into the Gaza War alleges both Israeli and Palestinian forces committed war crimes. ](/news/2009/09/15/a-united-nations-report-into-the-gaza-war-alleges-both-israeli-and-palestinian-forces-committed-war-crimes.md)
 _Context: 2008-2009 Gaza War, Israel, State of Palestine, United Nations, war crime_

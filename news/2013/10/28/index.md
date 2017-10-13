@@ -16,7 +16,7 @@ _Context: Sadad, Syria_
 _Context: Lebanon, Tripoli, Lebanon_
 
 ### [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md)
-_Context: Gaza_
+_Context: Gaza Strip_
 
 ### [A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a-car-south-of-the-somali-capital-m.md)
 A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents driving in a car south of the Somali capital Mogadishu, residents said on Monday.
@@ -43,7 +43,7 @@ _Context: Conrad Murray, Los Angeles, Michael Jackson, death, involuntary mansla
 Tunisian party leaders were meeting Monday to try to agree on a new premier in a bid to resolve a months-long political crisis linked to rising jihadist violence.
 
 ### [Voters in the Canadian territory of Nunavut go to the polls to select members to the territory's Legislative Assembly.date=October 2013](/news/2013/10/28/voters-in-the-canadian-territory-of-nunavut-go-to-the-polls-to-select-members-to-the-territory-s-legislative-assembly-date-october-2013.md)
-_Context: Canada, Legislative Assembly, Nunavut, go to the polls_
+_Context: Canadian, Legislative Assembly, Nunavut, go to the polls_
 
 ### [Three new species of animals are discovered (a leaf-tailed gecko, a golden-coloured skink, and a boulder-dwelling frog) in the Cape York Peninsula of the Australian state of Queensland. ](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-leaf-tailed-gecko-a-golden-coloured-skink-and-a-boulder-dwelling-frog-in-the-cape-york-pen.md)
 _Context: Cape York Peninsula, Queensland, gecko, skink_

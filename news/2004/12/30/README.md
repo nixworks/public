@@ -1,7 +1,7 @@
 ## [2004-12-30](/news/2004/12/30/index.md)
 
 ### [ Nine Palestinians, including civilians, are killed in an Israeli army incursion into the Khan Younis refugee camp in the Gaza Strip. During the raid the local Hamas commander is killed and two Israeli soldiers are slightly wounded. ](/news/2004/12/30/nine-palestinians-including-civilians-are-killed-in-an-israeli-army-incursion-into-the-khan-younis-refugee-camp-in-the-gaza-strip-during.md)
-_Context: Gaza, Israel, Khan Younis, Palestinians_
+_Context: Gaza Strip, Israel, Khan Younis, Palestinians_
 
 ### [ In Sudan, the government and the rebel group SPLA have agreed to sign a ceasefire in Naiwasha on the road to a peace deal. The treaty would end the civil war that began in 1983. ](/news/2004/12/30/in-sudan-the-government-and-the-rebel-group-spla-have-agreed-to-sign-a-ceasefire-in-naiwasha-on-the-road-to-a-peace-deal-the-treaty-would.md)
 _Context: Naiwasha, Sudan, Sudan People's Liberation Army/Movement, ceasefire, civil war_

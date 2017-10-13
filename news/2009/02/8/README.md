@@ -10,7 +10,7 @@ _Context: Caracas, Venezuela, synagogue_
 _Context: Iraq, Karbala, improvised explosive device_
 
 ### [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md)
-_Context: Gaza, Israel, Palestinian, militant, rocket_
+_Context: Gaza Strip, Israel, Palestinian, militant, rocket_
 
 ### [ Switzerland votes on a referendum to make permanent freedom of movement for workers from the European Union. ](/news/2009/02/8/switzerland-votes-on-a-referendum-to-make-permanent-freedom-of-movement-for-workers-from-the-european-union.md)
 _Context: EU, Switzerland, freedom of movement for workers, referendum_

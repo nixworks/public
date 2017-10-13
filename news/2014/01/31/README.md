@@ -1,7 +1,7 @@
 ## [2014-01-31](/news/2014/01/31/index.md)
 
 ### [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md)
-_Context: Gaza, Israeli Air Force, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Israeli Air Force, Israeli-Palestinian conflict_
 
 ### [A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md)
 _Context: Balochistan, Balochistan conflict, Pakistan army_

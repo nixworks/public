@@ -1,7 +1,7 @@
 ## [2009-01-20](/news/2009/01/20/index.md)
 
 ### [ Israel completes the withdrawal of its Defense Forces from the Gaza Strip. ](/news/2009/01/20/israel-completes-the-withdrawal-of-its-defense-forces-from-the-gaza-strip.md)
-_Context: Gaza, Israel, Israel Defense Forces, fire_
+_Context: Gaza Strip, Israel, Israel Defense Forces, fire_
 
 ### [ Kidnappers release Greek shipping magnate Periklis Panagopoulos after a record ransom payment. ](/news/2009/01/20/kidnappers-release-greek-shipping-magnate-periklis-panagopoulos-after-a-record-ransom-payment.md)
 _Context: Greek, Periklis Panagopoulos, kidnapped, magnate, ransom, shipping_
@@ -13,7 +13,7 @@ _Context: 2008, United Kingdom_
 _Context: 1994, Democratic Republic of the Congo, Hutu, Military of the Democratic Republic of the Congo, Rwanda, Rwandan Genocide, Rwandan army_
 
 ### [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md)
-_Context: 41st, African-American, Barack Obama, U.S., U.S. President, first, inaugural address_
+_Context: 41st, African-American, Barack Obama, U.S. President, United States, first, inaugural address_
 
 ### [ Russia resumes transmitting natural gas to Europe via Ukraine. ](/news/2009/01/20/russia-resumes-transmitting-natural-gas-to-europe-via-ukraine.md)
 _Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_

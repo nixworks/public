@@ -13,7 +13,7 @@ An &quot;extraordinary insight&quot; into Empire of the Sun author JG Ballard is
 British Petroleum said Thursday it plans to increase its ability to capture the oil gushing from a leaking well in the Gulf of Mexico by early next week. Meanwhile, the White House announced that the company agreed to speed up claims payments.
 
 ### [A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. ](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.md)
-_Context: Gaza, Germany, Jew_
+_Context: Gaza Strip, Germany, Jew_
 
 ### [Russia announces plans to sell Iran S-300 ground-to-air missiles, stating that the new United Nations sanctions do not cover stationary air defense weaponry. ](/news/2010/06/10/russia-announces-plans-to-sell-iran-s-300-ground-to-air-missiles-stating-that-the-new-united-nations-sanctions-do-not-cover-stationary-air.md)
 Foreign Ministry responds to report saying new UN sanctions resolution caused Russian arms industry to renege on sale of S-300 system. &#39;Defense systems not included in resolution,&#39; says ministry spokesman

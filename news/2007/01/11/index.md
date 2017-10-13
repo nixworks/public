@@ -4,7 +4,7 @@
 The Chinese government confirmed the test, but said it had no intention of participating in a “space race.”
 
 ### [ Liberal MP Jean Lapierre resigns from the Canadian House of Commons. Justin Trudeau is likely to be the Liberals' candidate in the next election in the Outremont riding. ](/news/2007/01/11/liberal-mp-jean-lapierre-resigns-from-the-canadian-house-of-commons-justin-trudeau-is-likely-to-be-the-liberals-candidate-in-the-next-ele.md)
-_Context: Canada, Canadian House of Commons, Jean Lapierre, Justin Trudeau, Liberal Party's, Outremont riding_
+_Context: Canadian, Canadian House of Commons, Jean Lapierre, Justin Trudeau, Liberal Party's, Outremont riding_
 
 ### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
 _Context: Bangladesh, Iajuddin Ahmed, curfew, current political crisis, states of emergency_
@@ -22,13 +22,13 @@ _Context: U.S., al-Qaeda, capture, two years of helping_
 _Context: Afghanistan, NATO, Operation Mountain Fury, Paktika Province, Taliban_
 
 ### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people. The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
-_Context: Canada, Canadian coin, U.S. Defense Department, U.S. military, radio transmitter_
+_Context: Canadian, Canadian coin, U.S. Defense Department, U.S. military, radio transmitter_
 
 ### [ Pieces of wreckage and a body are recovered from the missing Adam Air flight 574. ](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.md)
 _Context: Adam Air, Flight 574_
 
 ### [ January 2007 North American Ice Storm hits parts of North America including United States and Canada, causing 74 deaths across 12 U.S. states and three Canadian provinces, and caused hundreds of thousands of residents across the U.S and Canada to lose electric power. ](/news/2007/01/11/january-2007-north-american-ice-storm-hits-parts-of-north-america-including-united-states-and-canada-causing-74-deaths-across-12-u-s-stat.md)
-_Context: Canada, January 2007 North American Ice Storm, North America, U.S._
+_Context: Canadian, January 2007 North American Ice Storm, North America, United States_
 
 ## [Previous Day...](/news/2007/01/10/index.md)
 

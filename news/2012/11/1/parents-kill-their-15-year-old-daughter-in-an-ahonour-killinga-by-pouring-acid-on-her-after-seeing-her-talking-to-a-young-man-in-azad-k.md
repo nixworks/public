@@ -17,7 +17,7 @@ A couple in Pakistani-administered Kashmir are arrested for murdering their teen
 2. [At least 63 people are killed and over 30 are injured as flash floods ravage Khyber Pakhtunkhwa, Azad Kashmir and other parts of northwest Pakistan. ](/news/2016/04/4/at-least-63-people-are-killed-and-over-30-are-injured-as-flash-floods-ravage-khyber-pakhtunkhwa-azad-kashmir-and-other-parts-of-northwest-p.md) _Context: Azad Kashmir, Pakistan_
 3. [A Pakistani woman is stoned to death with bricks outside a courthouse by family members including her father, two brothers, and ex-fiance for marrying a man she loved against the family's wishes. ([http:--www.jpost.com-International-Pakistan-woman-stoned-to-death-by-family-for-marrying-man-she-loved-354555 JPost via Reuters])](/news/2014/05/27/a-pakistani-woman-is-stoned-to-death-with-bricks-outside-a-courthouse-by-family-members-including-her-father-two-brothers-and-ex-fianca-c-f.md) _Context: Pakistan, stoned to death_
 4. [At least 14 people are killed as a van falls into a canal in Azad Kashmir in Pakistan. ](/news/2011/06/10/at-least-14-people-are-killed-as-a-van-falls-into-a-canal-in-azad-kashmir-in-pakistan.md) _Context: Azad Kashmir, Pakistan_
-5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
+5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
 
 ### Changes:
 

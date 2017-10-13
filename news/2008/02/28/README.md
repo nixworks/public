@@ -4,7 +4,7 @@
 Germany became Thursday the first country to formalize its recognition of Kosovo by renaming its diplomatic office in Prishtina into an embassy. An inscription reading &quot;Embassy of the Federal Republic of Germany&quot; appeared on the faГ§ade of the German diplomatic mission in the Kosovo capi...
 
 ### [ The Israeli Air Force launches a series of air strikes into Gaza following Hamas rocket attacks, with 32 confirmed dead. ](/news/2008/02/28/the-israeli-air-force-launches-a-series-of-air-strikes-into-gaza-following-hamas-rocket-attacks-with-32-confirmed-dead.md)
-_Context: Gaza, Israeli Air Force_
+_Context: Gaza Strip, Israeli Air Force_
 
 ### [ Ecuador suspends oil exports after a landslide cuts off its main pipeline. ](/news/2008/02/28/ecuador-suspends-oil-exports-after-a-landslide-cuts-off-its-main-pipeline.md)
 _Context: Ecuador, crude oil, landslide, pipeline_

@@ -1,7 +1,7 @@
 ## [2004-12-10](/news/2004/12/10/index.md)
 
 ### [ Israeli troops kill Rania Siam, an 8-year-old Palestinian girl, as she eats lunch in the kitchen of her home in Khan Yunis, Gaza Strip. Earlier, three mortar shells are fired into the nearby Israeli settlement of Neve Dekalim injuring four people, one of them a child. Hamas claims responsibility. Israeli troops fire in the general direction the source of mortar fire. The Israeli army says it will investigate Rania Siam's death. ](/news/2004/12/10/israeli-troops-kill-rania-siam-an-8-year-old-palestinian-girl-as-she-eats-lunch-in-the-kitchen-of-her-home-in-khan-yunis-gaza-strip-ear.md)
-_Context: Gaza, Israel, Khan Yunis, Mortar, Palestinian_
+_Context: Gaza Strip, Israel, Khan Yunis, Mortar, Palestinian_
 
 ### [ A riot forms in Puerto Rico between members of the PIP, the FUPI, the Socialist party and members of the police in front of the federal courthouse, where PIP and PNP backers had gathered two days before the outcome of the 2004 Puerto Rican elections was to be decided by a judge. Several people, including seven policemen, are severely injured. [http:--vocero.com-noticia.asp?n=50165&d=12-11-2004 ("El Vocero"] {{es icon}}](/news/2004/12/10/a-riot-forms-in-puerto-rico-between-members-of-the-pip-the-fupi-the-socialist-party-and-members-of-the-police-in-front-of-the-federal-cou.md)
 _Context: 2004 Puerto Rican elections, FUPI, PIP, PNP, Puerto Rico, Socialist party, U.S. federal court, police, riot_

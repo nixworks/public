@@ -13,7 +13,7 @@ _Context: $, EUR, European Commission, Microsoft, Microsoft Windows_
 _Context: ARENA, Farabundo Marti National Liberation Front, Salvadoran presidential election, Tony Saca_
 
 ### [ Israel assassinates Sheikh Ahmed Yassin, the spiritual head of Hamas, in the Gaza Strip. It then seals off both the West Bank and the Gaza Strip. ](/news/2004/03/22/israel-assassinates-sheikh-ahmed-yassin-the-spiritual-head-of-hamas-in-the-gaza-strip-it-then-seals-off-both-the-west-bank-and-the-gaza.md)
-_Context: Gaza, Hamas, Israel, Sheikh Ahmed Yassin, West Bank_
+_Context: Gaza Strip, Hamas, Israel, Sheikh Ahmed Yassin, West Bank_
 
 ### [ The former chief counter-terrorism aide to U.S. President Bush, Richard Clarke, claims that Bush diverted attention towards Iraq, ignoring the main threat of Al-Qaida. Clarke was the administration's senior counter-terrorism official when 9-11 took place. ](/news/2004/03/22/the-former-chief-counter-terrorism-aide-to-u-s-president-bush-richard-clarke-claims-that-bush-diverted-attention-towards-iraq-ignoring.md)
 _Context: Al Qaida's, George W. Bush, Iraq, Richard Clarke, September 11, 2001 attacks_

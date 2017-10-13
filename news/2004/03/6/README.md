@@ -10,7 +10,7 @@ _Context: Charles G. Taylor, Liberia, UN Security Council_
 _Context: David Crosby, New York City, handgun, marijuana_
 
 ### [ Palestinians are killed and wounded in attack on the main crossing point between the Gaza Strip and Israel. Hamas, Islamic Jihad, and the al-Aqsa Martyrs Brigades claim responsibility. ](/news/2004/03/6/palestinians-are-killed-and-wounded-in-attack-on-the-main-crossing-point-between-the-gaza-strip-and-israel-hamas-islamic-jihad-and-the-a.md)
-_Context: Al-Aqsa Martyrs' Brigades, Gaza, Hamas, Islamic Jihad Movement in Palestine, Israel, Palestinians_
+_Context: Al-Aqsa Martyrs' Brigades, Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, Israel, Palestinians_
 
 ### [ Teenagers released from Guantanamo Bay's Camp X-Ray recall the place fondly. ](/news/2004/03/6/teenagers-released-from-guantanamo-bay-s-camp-x-ray-recall-the-place-fondly.md)
 _Context: Camp X-Ray, Guantnamo Bay detainment camp, Teenagers_

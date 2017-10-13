@@ -1,7 +1,7 @@
 ## [2015-10-1](/news/2015/10/1/index.md)
 
 ### [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md)
-_Context: Ashdod, Gaza, Gaza-Israel conflict, Hamas, Israeli Air Force_
+_Context: Ashdod, Gaza Strip, Gaza-Israel conflict, Hamas, Israeli Air Force_
 
 ### [The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md)
 Afghan forces retake control of Kunduz from Taliban insurgents after fierce fighting, government officials say.

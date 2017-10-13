@@ -13,7 +13,7 @@ Chinese state media report that unlicensed welders accidentally started a fire i
 _Context: India, New Delhi_
 
 ### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
-_Context: Pakistan, U.S., devastating floods_
+_Context: Pakistan, United States, devastating floods_
 
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
 _Context: Human rights, Iran, Iranian human rights, post-election riots_

@@ -25,7 +25,7 @@ Sudanese President Omar Hassan al-Bashir named his first vice president and long
 _Context: Pakalitha Mosisili, Parliament of Lesotho, Prime Minister of Lesotho, confidence motion_
 
 ### [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md)
-_Context: Canada, Hudson Bay, Origin of life, Quebec, life, microfossils_
+_Context: Canadian, Hudson Bay, Origin of life, Quebec, life, microfossils_
 
 ### [An American Atlas V successfully launched an NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-an.md)
 _Context:  NRO, Atlas V, Vandenberg Air Force Base_

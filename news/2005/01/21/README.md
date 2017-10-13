@@ -4,7 +4,7 @@
 _Context: Belize, unrest_
 
 ### [ The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the-al-aqsa-intifada.md)
-_Context: Al-Aqsa Intifada, Gaza, Palestinian Authority_
+_Context: Al-Aqsa Intifada, Gaza Strip, Palestinian Authority_
 
 ### [ B15A, the world's largest iceberg with 160 km length, seems to have run aground in Antarctica, threatening to cut off supply ships for a number of scientific research stations and to starve tens of thousands of penguins. ](/news/2005/01/21/b15a-the-world-s-largest-iceberg-with-160-km-length-seems-to-have-run-aground-in-antarctica-threatening-to-cut-off-supply-ships-for-a-nu.md)
 _Context: Antarctica, B15A, iceberg_

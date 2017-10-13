@@ -10,7 +10,7 @@ _Context: Burma, Internal conflict in Burma, Karen National Union, President of 
 _Context: Himalaya, India, Pakistani Army, Siachen Glacier, avalanche_
 
 ### [Hamas executes three men (of whom one was convicted of collaborating with Israel) in the Gaza Strip. ](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.md)
-_Context: Gaza, Hamas, Israel_
+_Context: Gaza Strip, Hamas, Israel_
 
 ### [Joyce Banda becomes the President of Malawi following the death of Bingu wa Mutharika. ](/news/2012/04/7/joyce-banda-becomes-the-president-of-malawi-following-the-death-of-bingu-wa-mutharika.md)
 _Context: Bingu wa Mutharika, Joyce Banda, Malawi, President_

@@ -4,7 +4,7 @@
 TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; attack on diplomat.
 
 ### [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md)
-_Context: Egypt, Gaza, Israeli Navy, Malaysia_
+_Context: Egypt, Gaza Strip, Israeli Navy, Malaysia_
 
 ### [A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. ](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.md)
 _Context: 2011 Syrian uprising, Deraa, Syria_
@@ -46,7 +46,7 @@ _Context: France, crash of Air France Flight 447, flight recorders_
 _Context: Arkansas, Morrilton_
 
 ### [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md)
-_Context: Alberta, Canada, Slave Lake, Wildfire_
+_Context: Alberta, Canadian, Slave Lake, Wildfire_
 
 ### [The High Court of Kuala Lumpur rules that Malaysian Opposition Leader Anwar Ibrahim has a case to answer on sodomy charges. ](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.md)
 A court in Malaysia rules there is enough credible evidence against opposition leader Anwar Ibrahim for his trial on a sodomy charge to proceed.

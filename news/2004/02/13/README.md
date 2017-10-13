@@ -28,7 +28,7 @@ _Context: Cyprus, EU, Kofi Annan, Republic of Cyprus, TRNC, United Nations Secre
 _Context: Abdul Qadeer Khan, IAEA, Iran, centrifuge, uranium_
 
 ### [ The United States, in a major shift of policy on the Middle East, says it may support an Israeli proposal for a unilateral partial withdrawal from the Gaza Strip and the West Bank. Deputy Secretary of State Richard L. Armitage says that a pullout from Gaza would be "a step in the right direction." Administration official state "... negotiations were impossible because of Palestinian recalcitrance."](/news/2004/02/13/the-united-states-in-a-major-shift-of-policy-on-the-middle-east-says-it-may-support-an-israeli-proposal-for-a-unilateral-partial-withdraw.md)
-_Context: Gaza, Israel, Palestinian, West Bank_
+_Context: Gaza Strip, Israel, Palestinian, West Bank_
 
 ### [ Occupation of Iraq: South Korea's parliament on Friday approves sending 3,000 troops to Iraq, responding to a call from the United States for military help in restoring stability to Iraq. ](/news/2004/02/13/occupation-of-iraq-south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-f.md)
 _Context: Iraq, Occupation of Iraq, South Korea_

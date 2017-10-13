@@ -31,7 +31,7 @@ The former oil tycoon, Mikhail Khodorkovsky, who is serving an eight-year prison
 _Context: Allen Stanford, Ponzi scheme_
 
 ### [A Tel Aviv court sentences Israeli graphic designer Jonathan Pollak to three months imprisonment after convicting him of taking part in a "critical mass bicycle ride" demonstration highlighting the blockade of Gaza in January 2008. The Association for Civil Rights in Israel describes it as "an unusually harsh measurement" for a charge that normally does not see the perpetrator imprisoned. ](/news/2010/12/27/a-tel-aviv-court-sentences-israeli-graphic-designer-jonathan-pollak-to-three-months-imprisonment-after-convicting-him-of-taking-part-in-a-c.md)
-_Context: Association for Civil Rights in Israel, Gaza, Israel, Jonathan Pollak, Tel Aviv_
+_Context: Association for Civil Rights in Israel, Gaza Strip, Israel, Jonathan Pollak, Tel Aviv_
 
 ### [The commission overseeing the independence referendum in Southern Sudan rejects a lawsuit to halt the referendum on the basis that the commission violated the law. ](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.md)
 _Context: Southern Sudan, Southern Sudanese Independence Referendum_

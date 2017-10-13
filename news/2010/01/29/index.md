@@ -37,7 +37,7 @@ _Context: Iraq, Iraq Inquiry, Iraq War, Tony Blair, United Kingdom_
 _Context: Communist Party, Pham Thanh Nghien, Vietnam, propaganda_
 
 ### [Canadian Prime Minister Stephen Harper appoints five new Senators. ](/news/2010/01/29/canadian-prime-minister-stephen-harper-appoints-five-new-senators.md)
-_Context: Canada, Prime Minister of Canada, Senator, Stephen Harper_
+_Context: Canadian, Prime Minister of Canada, Senator, Stephen Harper_
 
 ## [Previous Day...](/news/2010/01/28/index.md)
 

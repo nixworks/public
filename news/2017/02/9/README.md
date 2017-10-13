@@ -7,7 +7,7 @@ _Context: Battle of al-Bab, Russia, Syria, Syrian Civil War, Turkish troops, al-
 Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy in Jowzjan and killed six staff.
 
 ### [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md)
-_Context: Egypt, Gaza_
+_Context: Egypt, Gaza Strip_
 
 ### [A fire at the Flamanville Nuclear Power Plant in northwest France caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause a radioactive leak. ](/news/2017/02/9/a-fire-at-the-flamanville-nuclear-power-plant-in-northwest-france-caused-an-explosion-in-a-non-nuclear-part-of-the-station-one-reactor-wa.md)
 A fire caused an explosion at the Flamanville nuclear power plant in northwest France on Thursday, leading the operator EDF to take a reactor offline, but there was no risk to the reactor, EDF and a local official said on Thursday.

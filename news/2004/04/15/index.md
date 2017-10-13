@@ -16,7 +16,7 @@ _Context: 2003 invasion of Iraq, IAEA, Iraq, Jewometaal Stainless Processing B.V
 The killing could complicate an Iranian mission to mediate the standoff between U.S. troops and a rebel Shiite cleric.
 
 ### [ Israeli-Palestinian conflict: Palestinian President Yasser Arafat, reacting to the United States President Bush and Israeli Prime Minister Ariel Sharon summit, states Palestinian will never give up their struggle for an independent homeland, never abandon the claims of their refugees, nor make more territorial concessions. He states that Jerusalem will be its capital. Sharon, who wants to withdraw Israel from the Gaza Strip, faces opposition to his withdrawal plan. ](/news/2004/04/15/israeli-palestinian-conflict-palestinian-president-yasser-arafat-reacting-to-the-united-states-president-bush-and-israeli-prime-minister.md)
-_Context: Ariel Sharon, Gaza, George W. Bush, Israel, Israeli-Palestinian conflict, Jerusalem, Palestinian, President, Yasser Arafat, capital, homeland, refugee_
+_Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli-Palestinian conflict, Jerusalem, Palestinian, President, Yasser Arafat, capital, homeland, refugee_
 
 ### [ LindowsOS changes its name to Linspire, in a move to counter Microsoft's lawsuit strategy against the company. ](/news/2004/04/15/lindowsos-changes-its-name-to-linspire-in-a-move-to-counter-microsoft-s-lawsuit-strategy-against-the-company.md)
 HP needs 6-8 weeks to ship additional TouchPads, according to a leaked email sent to customers. HP is prepping one last run for its defunct tablet.

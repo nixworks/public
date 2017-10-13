@@ -16,7 +16,7 @@ _Context: CIA, Directorate for Inter-Services Intelligence, Osama bin Laden, Pak
 _Context: Che Guevara, Cuban Revolution_
 
 ### [Gaza's unemployment rate was among the world's highest, at 45.2% in late 2010 according to the UN. ](/news/2011/06/14/gaza-s-unemployment-rate-was-among-the-world-s-highest-at-45-2-in-late-2010-according-to-the-un.md)
-_Context: Gaza, UN, unemployment rate_
+_Context: Gaza Strip, UN, unemployment rate_
 
 ### [Air Canada services face disruption as customer service agents affiliated with the Canadian Auto Workers start a strike. ](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.md)
 _Context: Air Canada, Canadian Auto Workers_

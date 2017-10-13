@@ -1,13 +1,13 @@
 ## [2009-01-22](/news/2009/01/22/index.md)
 
 ### [ Hamas announces it will distribute maximums of EUR4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-a-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md)
-_Context: EUR, Gaza, Hamas, fire_
+_Context: EUR, Gaza Strip, Hamas, fire_
 
 ### [ Israel prepares to defend itself against accusations of war crimes in its conflict with Hamas. ](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.md)
 _Context: Hamas, Israel, fire, war crime_
 
 ### [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md)
-_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay Detention Camp, U.S., U.S. President, enhanced interrogation techniques, military base at Guantanamo Bay_
+_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay Detention Camp, U.S. President, United States, enhanced interrogation techniques, military base at Guantanamo Bay_
 
 ### [ Microsoft announces it will cut 5,000 jobs, due to a rapid decline in demand for personal computers. ](/news/2009/01/22/microsoft-announces-it-will-cut-5-000-jobs-due-to-a-rapid-decline-in-demand-for-personal-computers.md)
 With sales of PCs falling, Microsoft said it would lay off 5 percent of its work force, and warned that technology spending could wane for years to come.

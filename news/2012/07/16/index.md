@@ -43,7 +43,7 @@ _Context: Japan, military_
 Former NRL player Craig Field has been charged with murder after a man he allegedly assaulted on the NSW north coast died in hospital, police say.
 
 ### [A "multiple shooting" incident at Scarborough, a major district in Toronto, Canada, results in at least one death and 19 injured. ](/news/2012/07/16/a-multiple-shooting-incident-at-scarborough-a-major-district-in-toronto-canada-results-in-at-least-one-death-and-19-injured.md)
-_Context: Canada, Scarborough, Toronto, shooting_
+_Context: Canadian, Scarborough, Toronto, shooting_
 
 ### [North Korea announces that Ri Yong-ho, a senior military figure and a member of the central presidium of the Workers' Party of Korea, is relieved of all duties due to illness. ](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.md)
 _Context: North Korea, Ri Yong-ho, Workers' Party of Korea_

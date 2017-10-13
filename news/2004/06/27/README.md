@@ -16,7 +16,7 @@ _Context: Afghanistan, Taliban, voter_
 _Context: Iraqi insurgent, Turkey, decapitated_
 
 ### [ Palestinians detonate 150&nbsp;kg (330&nbsp;lb) of explosives placed in a 300-meter (1000&nbsp;ft) long tunnel against an Israeli army position in the Gaza Strip. 2000 Palestinians rush into the streets of Gaza City to celebrate. ](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.md)
-_Context: Gaza, Israel, Palestinians_
+_Context: Gaza Strip, Israel, Palestinians_
 
 ### [ Gay pride celebrations, parades and protests are held globally, marking the 35th anniversary of the Stonewall Riots, the traditional birth of the modern LGBT civil rights movement. ](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.md)
 _Context: Stonewall Riots, civil rights, gay and bisexual men, gay pride_

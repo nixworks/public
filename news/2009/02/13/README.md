@@ -1,7 +1,7 @@
 ## [2009-02-13](/news/2009/02/13/index.md)
 
 ### [ The United States Congress approves the American Recovery and Reinvestment Act of 2009. ](/news/2009/02/13/the-united-states-congress-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, U.S., United States Congress_
+_Context: American Recovery and Reinvestment Act, United States, United States Congress_
 
 ### [ Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. ](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, police, treason_
@@ -22,10 +22,10 @@ _Context: China, Paris, Qing Dynasty, Yves Saint Laurent, auction, estate, gover
 _Context: A$, Australia, Senator, economy of Australia, stimulus package_
 
 ### [ Israeli Defense Forces in the Gaza Strip discover grenades made by Hamas from humanitarian supplies. ](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.md)
-_Context: Gaza, Hamas, Israel, Israel Defense Forces, aid, grenade_
+_Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, aid, grenade_
 
 ### [ Germany's Max Planck Institute for Evolutionary Anthropology and the United States' 454 Life Sciences map the Neanderthal genome. ](/news/2009/02/13/germany-s-max-planck-institute-for-evolutionary-anthropology-and-the-united-states-454-life-sciences-map-the-neanderthal-genome.md)
-_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, U.S., genome, map_
+_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, United States, genome, map_
 
 ### [ Lloyds Banking Group warns that HBOS wil register a loss of GBP8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-agbp8-5-billion-for-2008.md)
 _Context: 2008, GBP, HBOS, Lloyds Banking Group_

@@ -7,7 +7,7 @@ _Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
 _Context: Chhattisgarh, India, Maoist_
 
 ### [In response to mortar fire, an Israeli airstrike in the Gaza Strip kills three suspected militants. ](/news/2014/03/11/in-response-to-mortar-fire-an-israeli-airstrike-in-the-gaza-strip-kills-three-suspected-militants.md)
-_Context: Gaza, Israel_
+_Context: Gaza Strip, Israel_
 
 ### [Protesters clash with police in Turkey after a 15-year-old boy died from a head injury sustained during anti-government protests. ](/news/2014/03/11/protesters-clash-with-police-in-turkey-after-a-15-year-old-boy-died-from-a-head-injury-sustained-during-anti-government-protests.md)
 Berkin Elvan has been in coma since June last year when he was hit by a teargas cartridge during anti-government protests in Istanbul
@@ -34,7 +34,7 @@ At issue is whether the CIA violated an agreement made with the committee about 
 _Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: Joran van der Sloot, U.S._
+_Context: Joran van der Sloot, United States_
 
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o

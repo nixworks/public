@@ -16,7 +16,7 @@ Thousands of demonstrators march through the southern Syrian city of Deraa calli
 _Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Laurent Gbagbo_
 
 ### [Israel Defense Forces launch air strikes on the Gaza Strip after militants fire mortars and rockets at Israel resulting in 19 Palestineans being injured. ](/news/2011/03/21/israel-defense-forces-launch-air-strikes-on-the-gaza-strip-after-militants-fire-mortars-and-rockets-at-israel-resulting-in-19-palestineans-b.md)
-_Context: Gaza, Israel, Israel Defense Forces, Mortar, State of Palestine, air strike_
+_Context: Gaza Strip, Israel, Israel Defense Forces, Mortar, State of Palestine, air strike_
 
 ### [The World Bank predicts that the 2011 Tohoku earthquake and tsunami will cause a temporary slowdown in the Japanese economy before reconstruction has a positive economic impact. ](/news/2011/03/21/the-world-bank-predicts-that-the-2011-tahoku-earthquake-and-tsunami-will-cause-a-temporary-slowdown-in-the-japanese-economy-before-reconstr.md)
 _Context: 2011 Tohoku earthquake and tsunami, Japanese economy, World Bank_
@@ -61,7 +61,7 @@ The government should be found in contempt of Parliament, a committee of MPs dec
 Guatemalan President Alvaro Colom and his wife Sandra Torres file for divorce so she can stand for election to succeed him, officials say.
 
 ### [Surgeons at the Brigham and Women's Hospital in Boston, Massachusetts, perform the first full face transplant in the United States. ](/news/2011/03/21/surgeons-at-the-brigham-and-women-s-hospital-in-boston-massachusetts-perform-the-first-full-face-transplant-in-the-united-states.md)
-_Context: Boston, Brigham and Women's Hospital, Surgeon, U.S., face transplant_
+_Context: Boston, Brigham and Women's Hospital, Surgeon, United States, face transplant_
 
 ## [Previous Day...](/news/2011/03/20/index.md)
 

@@ -13,11 +13,11 @@
 
 ### Related:
 
-1. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
-2. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
-3. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
-4. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
-5. [ Yasser Arafat's funeral procession is held in Cairo, Egypt. Arafat is given full military honours and his coffin is led by a horse-drawn carriage. Leaders of Muslim and Arab countries as well as other dignitaries attend, including Khaled Meshaal, head of Hamas, who is currently sought by Israel. ](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-cairo-egypt-arafat-is-given-full-military-honours-and-his-coffin-is-led-by-a-horse-drawn-ca.md) _Context: Cairo, Hamas, Israel_
+1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority, along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Cairo, Hamas, Israel_
+2. [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
+3. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
+4. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
+5. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 
 ### Changes:
 

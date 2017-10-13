@@ -10,7 +10,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 _Context: California, Roman Catholic Diocese of San Diego, bankruptcy, civil lawsuit, priest, sexual abuse_
 
 ### [ Canada's House of Commons votes not to extend provisions of its anti-terrorism legislation that allows for preventative arrests and forced testimony. ](/news/2007/02/27/canada-s-house-of-commons-votes-not-to-extend-provisions-of-its-anti-terrorism-legislation-that-allows-for-preventative-arrests-and-forced.md)
-_Context: Canada, Canadian House of Commons_
+_Context: Canadian, Canadian House of Commons_
 
 ### [ After rumours that authorities were going to raise interest rates in an attempt to curb inflation, the SSE Composite Index of the Shanghai Stock Exchange tumbles 9% from unexpected selloffs, the largest drop in 10 years, triggering major drops in worldwide stock markets. ](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.md)
 _Context: Shanghai Composite Index, Shanghai Stock Exchange_
@@ -31,7 +31,7 @@ _Context: 2007 Bagram Air Base bombing, Bagram Air Base, Dick Cheney, Taliban, U
 _Context: North Korea, North Korean nuclear weapons program, South Korea, six-party talks_
 
 ### [ The ambassadors from the United States and Italy to Sri Lanka are injured by mortar fire while visiting eastern Sri Lanka. ](/news/2007/02/27/the-ambassadors-from-the-united-states-and-italy-to-sri-lanka-are-injured-by-mortar-fire-while-visiting-eastern-sri-lanka.md)
-_Context: Italy, Mortar, Sri Lanka, U.S., ambassador_
+_Context: Italy, Mortar, Sri Lanka, United States, ambassador_
 
 ### [ Prime Minister of Papua New Guinea Michael Somare removes Minister for Defence Martin Aini from office over the Julian Moti affair. ](/news/2007/02/27/prime-minister-of-papua-new-guinea-michael-somare-removes-minister-for-defence-martin-aini-from-office-over-the-julian-moti-affair.md)
 _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime Minister_

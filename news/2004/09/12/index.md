@@ -7,7 +7,7 @@ _Context: Hong Kong Legislative Council election, 2004_
 _Context: Al Arabiya, Baghdad, Bradley, Hilla, Iraq, Ramadi, Tal Afar, helicopters, rebel-held, tank_
 
 ### [ 40,000 demonstrators protest in Jerusalem against Prime Minister Ariel Sharon's plans to force all Israeli Jews to leave the Gaza Strip and parts of the West Bank. ](/news/2004/09/12/40-000-demonstrators-protest-in-jerusalem-against-prime-minister-ariel-sharon-s-plans-to-force-all-israeli-jews-to-leave-the-gaza-strip-and.md)
-_Context: Ariel Sharon, Gaza, Israel, Israeli Prime Minister, Jerusalem, West Bank_
+_Context: Ariel Sharon, Gaza Strip, Israel, Israeli Prime Minister, Jerusalem, West Bank_
 
 ### [ Vojislav Kostunica, Prime Minister of Serbia, reverses the earlier decision by Serbian Minister of Education Ljiljana Colic to suspend the teaching of Darwin's theory of evolution in Serbian schools for the current school year. Colic had declared that the suspension would continue until schools could give equal weight to the ideas of Creationism. ](/news/2004/09/12/vojislav-koa-tunica-prime-minister-of-serbia-reverses-the-earlier-decision-by-serbian-minister-of-education-ljiljana-colic-to-suspend-the.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

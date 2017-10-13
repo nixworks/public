@@ -4,7 +4,7 @@
 _Context: Budapest, Hungary, police, tear gas, water cannon_
 
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, U.S., car bomb_
+_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
 
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
 _Context: Australia, France, Willie Brigitte, jail_
@@ -22,7 +22,7 @@ _Context: Alexandroupolis, Bulgaria, Greek, Russia, oil, pipeline_
 _Context: Germany, Iran, United Nations Security Council_
 
 ### [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md)
-_Context: Alan Johnston, BBC, Gaza, Palestinian Authority_
+_Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_
 
 ### [ The Movement for the Emancipation of the Niger Delta frees two Italian oilworkers that it took captive last year in Nigeria. ](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.md)
 _Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_

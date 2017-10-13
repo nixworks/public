@@ -7,7 +7,7 @@ _Context: Baghdad, Iraq, Westerners_
 _Context: Virgilio Garcillano_
 
 ### [ The Rafah crossing linking the Gaza Strip and Egypt turns over to Palestinian control for the first time. ](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.md)
-_Context: Egypt, Gaza, Palestinian, Rafah_
+_Context: Egypt, Gaza Strip, Palestinian, Rafah_
 
 ### [ An earthquake measuring 5.5 on the moment magnitude scale hits the area near Ruichang, Jiangxi in China, killing more than 14. ](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magnitude-scale-hits-the-area-near-ruichang-jiangxi-in-china-killing-more-than-14.md)
 _Context: China, Jiangxi, Ruichang, earthquake, magnitude_

@@ -20,5 +20,5 @@ Laura Marling I Speak Because I Can
 
 ### Changes:
 
-1. [The shortlist for the Forward Poetry Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-forward-poetry-prize-is-announced.md) _2017-10-11 03:34:04 (First version)_
+1. [The shortlist for the Forward Poetry Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-forward-poetry-prize-is-announced.md) _2017-10-12 03:33:49 (First version)_
 1. [The shortlist for the 2010 Mercury Prize is announced. ](/news/2010/07/20/the-shortlist-for-the-2010-mercury-prize-is-announced.md) _(Current version)_

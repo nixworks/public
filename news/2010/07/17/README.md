@@ -46,7 +46,7 @@ _Context: Israel, West Bank_
 _Context: Hai Phong, Philippines, Typhoon Conson, Vietnam_
 
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
-_Context: Gaza, Israel_
+_Context: Gaza Strip, Israel_
 
 ### [More than 2,000 firefighters fight a fire at the port of Dalian after two oil pipelines explode. ](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.md)
 Two oil pipelines in the Chinese port city of Dalian have exploded, starting a fire which burned for 15 hours.

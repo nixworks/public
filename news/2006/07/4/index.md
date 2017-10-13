@@ -7,7 +7,7 @@ _Context: Ade, Chad, Military, UFDC, second Dby administration_
 _Context: Department of State, North Korea, Taepodong-2, launch, the sea_
 
 ### [ A Qassam rocket hits a High school at Ashkelon, an Israeli city with a population exceeding 117,000. The rocket was launched by Hamas militants from the town of Beit Hanun in the northern Gaza strip. ](/news/2006/07/4/a-qassam-rocket-hits-a-high-school-at-ashkelon-an-israeli-city-with-a-population-exceeding-117-000-the-rocket-was-launched-by-hamas-milit.md)
-_Context: Ashkelon, Gaza, Hamas, Israel, Qassam rocket, high school_
+_Context: Ashkelon, Gaza Strip, Hamas, Israel, Qassam rocket, high school_
 
 ### [ The Space Shuttle "Discovery" takes off from Cape Canaveral for the International Space Station at 2:38pm EDT (1838 UTC) after its liftoff had been postponed twice. ](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-canaveral-for-the-international-space-station-at-2-38pm-edt-1838-utc-after-its-liftoff.md)
 _Context: Cape Canaveral, Discovery, EDT, International Space Station_

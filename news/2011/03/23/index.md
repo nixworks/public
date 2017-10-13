@@ -10,7 +10,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 _Context: 2011 Yemeni protests, Saleh, Yemeni President_
 
 ### [Islamic Jihad militants in the Gaza Strip fire ten mortars at the Eshkol, Sha'ar Hanegev region, and Grad rockets at the Israeli cities of Ashkelon and Beersheba; one person is injured in Beersheba. ](/news/2011/03/23/islamic-jihad-militants-in-the-gaza-strip-fire-ten-mortars-at-the-eshkol-sha-ar-hanegev-region-and-grad-rockets-at-the-israeli-cities-of-a.md)
-_Context: Ashkelon, Beersheba, Eshkol, Gaza, Islamic Jihad Movement in Palestine, Israel, Palestinian, Sha'ar Hanegev, grad rocket_
+_Context: Ashkelon, Beersheba, Eshkol, Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Palestinian, Sha'ar Hanegev, grad rocket_
 
 ### [An explosive device which was placed in a suitcase on the sidewalk exploded next to bus number 74 near the Jerusalem International Convention Center complex. A woman is killed in the explosion and at least 50 people are injured. ](/news/2011/03/23/an-explosive-device-which-was-placed-in-a-suitcase-on-the-sidewalk-exploded-next-to-bus-number-74-near-the-jerusalem-international-conventio.md)
 Bag explodes next to bus stop near Central Bus Station; blast shatters lengthy period of relative quiet; Barkat: Marathon to be run as planned.

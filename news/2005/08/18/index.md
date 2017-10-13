@@ -19,7 +19,7 @@ _Context: Baghdad, Iraq, Iraqi insurgency, Samarra, US Troops, improvised explos
 Because of the repercussions of the shuttle Discovery&#39;s fuel tank problems, NASA is adjusting its plans for the next launch to come in March or later.
 
 ### [ Israeli troops forcibly remove Zionist Jews opposed to Ariel Sharon's unilateral disengagement plan one by one from their strongholds in the synagogues in the Israeli settlements on the Gaza Strip. Some of the protesters threw paint, rocks and acid at the soldiers. ](/news/2005/08/18/israeli-troops-forcibly-remove-zionist-jews-opposed-to-ariel-sharon-s-unilateral-disengagement-plan-one-by-one-from-their-strongholds-in-th.md)
-_Context: Ariel Sharon, Gaza, Israel Defense Forces, Israeli settlement, Jew, Zionist, synagogue, unilateral disengagement_
+_Context: Ariel Sharon, Gaza Strip, Israel Defense Forces, Israeli settlement, Jew, Zionist, synagogue, unilateral disengagement_
 
 ## [Previous Day...](/news/2005/08/17/index.md)
 

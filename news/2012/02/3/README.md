@@ -7,7 +7,7 @@ _Context: Chechnya, Doku Umarov, Insurgency in the North Caucasus, Russia_
 Two people are shot dead and more than 400 injured in protests across Egypt sparked by the deaths of 74 people after a football match.
 
 ### [Seven Pakistan Army soldiers are killed and three others wounded following a Taliban attack in the Kurram Agency. ](/news/2012/02/3/seven-pakistan-army-soldiers-are-killed-and-three-others-wounded-following-a-taliban-attack-in-the-kurram-agency.md)
-_Context: Kurram, Pakistan army, Taliban_
+_Context: Kurram Valley, Pakistan army, Taliban_
 
 ### [The Syrian Observatory For Human Rights claims that more than 100 people have been killed in shelling in the city of Homs. ](/news/2012/02/3/the-syrian-observatory-for-human-rights-claims-that-more-than-100-people-have-been-killed-in-shelling-in-the-city-of-homs.md)
 _Context: Homs, Syrian Observatory for Human Rights_
@@ -16,7 +16,7 @@ _Context: Homs, Syrian Observatory for Human Rights_
 * All Malev flights grounded as of 0500 GMT on Friday* Comes after EU ruling in January to repay state aid* Malev accounted for 40 pc
 
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: Dow Jones Industrial Average, NASDAQ, U.S._
+_Context: Dow Jones Industrial Average, NASDAQ, United States_
 
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.

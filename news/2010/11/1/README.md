@@ -19,7 +19,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 _Context: India, Kashmir Valley, Kulgam, Kupwara, Lashkar-e-Toiba_
 
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: Pakistan, U.S., drone aircraft, drones launch_
+_Context: Pakistan, United States, drone aircraft, drones launch_
 
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
 _Context: Islamabad, Pakistan, Swabi_
@@ -58,7 +58,7 @@ _Context: Kenya, poachers_
 A judge in Uganda orders the local Rolling Stone newspaper to stop publishing the names and photographs of people it says are homosexual.
 
 ### [The Government of Canada agrees to accept Canadian Omar Khadr, detained at Guantanamo Bay for the past eight years, after he serves a year of his sentence at the Guantanamo Bay detention camp. ](/news/2010/11/1/the-government-of-canada-agrees-to-accept-canadian-omar-khadr-detained-at-guantanamo-bay-for-the-past-eight-years-after-he-serves-a-year-o.md)
-_Context: Canada, Canadian government, Guantanamo Bay Detention Camp, Omar Khadr_
+_Context: Canadian, Canadian government, Guantanamo Bay Detention Camp, Omar Khadr_
 
 ### [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md)
 _Context: Burma, general elections, go on sale_

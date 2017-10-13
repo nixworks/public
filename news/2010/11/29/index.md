@@ -25,7 +25,7 @@ _Context: Indonesia, Mount Bromo_
 _Context: 250,000 documents, China, North Korea, South Korea, WikiLeaks, reunified_
 
 ### [Israel's "eased" blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
-_Context: Gaza, Israel, Israeli blockade_
+_Context: Gaza Strip, Israel, Israeli blockade_
 
 ### [The 2010 United Nations Climate Change Conference begins in Cancun, involving 194 countries, amidst low expectations. ](/news/2010/11/29/the-2010-united-nations-climate-change-conference-begins-in-cancun-involving-194-countries-amidst-low-expectations.md)
 Latest environmental news, features and updates. Pictures, video and more. 

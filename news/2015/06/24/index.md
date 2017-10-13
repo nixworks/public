@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 President Obama tells his French counterpart, Francois Hollande, that the US is no longer spying on France after the latest Wikileaks revelations.
 
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
-_Context: Friday prayers, Gaza, Israel, Jerusalem, Palestinian_
+_Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
 
 ### [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md)
 The Senate today gave final approval to the trade promotion authority bill by a vote of 60 to 38, then proceeded to invoke cloture on the trade adjustment assistance

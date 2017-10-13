@@ -4,7 +4,7 @@
 _Context: Internet_
 
 ### [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md)
-_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York Governor, New York State, U.S., United States Senate_
+_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York Governor, New York State, United States, United States Senate_
 
 ### [ Japan launches the world's first greenhouse-gas-monitoring satellite, "Ibuki", from the Tanegashima Space Center. ](/news/2009/01/23/japan-launches-the-world-s-first-greenhouse-gas-monitoring-satellite-ibuki-from-the-tanegashima-space-center.md)
 Japan launched a satellite onFriday to monitor greenhouse gases around the world in the hopethat the data it gathers will help global efforts to combatclimate change.
@@ -13,7 +13,7 @@ Japan launched a satellite onFriday to monitor greenhouse gases around the world
 A man and a woman have been killed in a shooting in a car park outside a kindergarten in the northern Norwegian town of Tromso.
 
 ### [ Hamas accuses rival faction Fatah of spying for Israel during the recent conflict in the Gaza Strip. ](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.md)
-_Context: Fatah, Gaza, Hamas, Israel, faction, fire, spy_
+_Context: Fatah, Gaza Strip, Hamas, Israel, faction, fire, spy_
 
 ### [ National Congress and Tutsi leader Laurent Nkunda is arrested in Rwanda. ](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.md)
 In a startling turn against its former ally, Rwanda has arrested Congo rebel leader Laurent Nkunda.

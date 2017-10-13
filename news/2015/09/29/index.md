@@ -10,7 +10,7 @@ On Tuesday evening, Taliban units threatened the Kunduz airport, thwarting effor
 The attack comes the same day a pro-Kurdish news agency was raided by Turkish police and journalists were arrested
 
 ### [At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have-come-from-the-gaza-stri.md)
-_Context: Ashdod, Gaza, Gaza-Israel conflict, Iron Dome, Israel_
+_Context: Ashdod, Gaza Strip, Gaza-Israel conflict, Iron Dome, Israel_
 
 ### [After a tense standoff, Burkina Faso's military crushed the elite presidential guard and seized the coup's abandoned headquarters. The former head of the guard, Gen. Gilbert Diendere, had called on his men to lay down their weapons to avoid a bloodbath. Diendere told Agence France-Presse (AFP) he feared "many deaths and injuries" in the operation. It is unclear whether there are casualties. ](/news/2015/09/29/after-a-tense-standoff-burkina-faso-s-military-crushed-the-elite-presidential-guard-and-seized-the-coup-s-abandoned-headquarters-the-forme.md)
 The short-lived putsch by supporters of former president Blaise Compaoré has ended after their stronghold was reportedly shelled by the military

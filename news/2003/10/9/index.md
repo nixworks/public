@@ -7,7 +7,7 @@ _Context: Yassir Arafat, stomach_
 _Context: Hatf-2 Ghaznavi, Hatf-4 missile, Pakistan, Pakistan army, Shaheen 1, Shaukat Sultan, army, international relations, major general, nuclear weapon, rocket attacks, spokesman, test, test fire, week_
 
 ### [ Israeli-Palestinian conflict: Defense Minister Shaul Mofaz ordered dispatches of Israeli troop reinforcements to the Palestinian Areas, West Bank and Gaza Strip, and weighed a call-up of reserves, citing new warnings about planned attacks by Palestinian militants. The Israeli military also extended a two-week lockdown on Palestinians' travel within the West Bank and Gaza in what it states as a bid to prevent further attacks. Meanwhile, prime minister Ahmed Qurei is reported to have declined to form a government and told President Yasser Arafat he wants to quit his post.](/news/2003/10/9/israeli-palestinian-conflict-defense-minister-shaul-mofaz-ordered-dispatches-of-israeli-troop-reinforcements-to-the-palestinian-areas-wes.md)
-_Context: Gaza, Israel, Israeli-Palestinian conflict, Palestinian Area, Shaul Mofaz, West Bank, embargo, troop, week_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian Area, Shaul Mofaz, West Bank, embargo, troop, week_
 
 ### [ Occupation of Iraq: Twin attacks in Baghdad killed a Spanish diplomat (by gunshot) and, in the other, at least ten people following an attack on a police station in Baghdad's main Shi'ite neighbourhood, exactly half a year since Coalition troops occupied the Iraqi city.](/news/2003/10/9/occupation-of-iraq-twin-attacks-in-baghdad-killed-a-spanish-diplomat-by-gunshot-and-in-the-other-at-least-ten-people-following-an-atta.md)
 _Context: Baghdad, Coalition troop, Occupation of Iraq, Shi'ite, diplomat, police_

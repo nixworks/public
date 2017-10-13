@@ -22,7 +22,7 @@ _Context: Constitution, Parliament of Canada, Supreme Court of Canada, same-sex 
 _Context: Congress, Supreme Court_
 
 ### [ Israeli troops kill at least four Palestinians found crawling into Egypt on the Gaza Border. ](/news/2004/12/9/israeli-troops-kill-at-least-four-palestinians-found-crawling-into-egypt-on-the-gaza-border.md)
-_Context: Egypt, Gaza, Israel, Palestinians_
+_Context: Egypt, Gaza Strip, Israel, Palestinians_
 
 ### [ The government of Lesotho announces plans to give women legal equality and property rights within a year. ](/news/2004/12/9/the-government-of-lesotho-announces-plans-to-give-women-legal-equality-and-property-rights-within-a-year.md)
 _Context: Lesotho, feminist_

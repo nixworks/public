@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, Lebanon, Tripoli, Lebanon_
 
 ### [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md)
-_Context: Pakistan, South Waziristan, U.S., drones launch_
+_Context: Pakistan, South Waziristan, United States, drones launch_
 
 ### [Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-22-are-rescued-by-isaf-forces.md)
 _Context: Afghan, Badakhshan, ISAF, Taliban_
@@ -16,7 +16,7 @@ A cargo jet has crash into a minibus at Ghana&#039;s Accra airport after oversho
 _Context: 2011 Egyptian revolution, Alaa Mubarak, Cairo, Egypt, Gamel, Habib al-Adly, Hosni Mubarak_
 
 ### [A shooting in the food court of the Eaton Centre mall in Toronto, Canada kills at least one man and injures seven other people. ](/news/2012/06/2/a-shooting-in-the-food-court-of-the-eaton-centre-mall-in-toronto-canada-kills-at-least-one-man-and-injures-seven-other-people.md)
-_Context: Canada, Eaton Centre, Toronto, shooting_
+_Context: Canadian, Eaton Centre, Toronto, shooting_
 
 ## [Previous Day...](/news/2012/06/1/index.md)
 

@@ -4,7 +4,7 @@
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 ### [Libyan ship, Amalthea, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-launche.md)
-_Context: Gaza, Israel, Libya_
+_Context: Gaza Strip, Israel, Libya_
 
 ### [Ten Colombian soldiers are killed after entering a minefield while pursuing FARC rebels trying to blow up electrical towers. ](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia_
@@ -16,7 +16,7 @@ At least 74 people were killed in the twin blasts that hit Kampala during the Wo
 _Context: Liberia, Monrovia, Togba Mulbah_
 
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
-_Context: Bahamas, Colton Harris-Moore, Eleuthera, Police, U.S._
+_Context: Bahamas, Colton Harris-Moore, Eleuthera, Police, United States_
 
 ### [Spanish film-maker Augusti Vila wins the main prize at the Karlovy Vary International Film Festival in the Czech Republic for his film "The Mosquito Net". ](/news/2010/07/11/spanish-film-maker-augusti-vila-wins-the-main-prize-at-the-karlovy-vary-international-film-festival-in-the-czech-republic-for-his-film-the.md)
 Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival in the Czech Republic.

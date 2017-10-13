@@ -7,7 +7,7 @@ _Context: Darfur conflict, Sudan, United Nations_
 _Context: Arcelor, Mittal Steel_
 
 ### [ Eight Palestinian militants, including Hamas militants, infiltrate into an army post in Israel using a tunnel. Two Israeli soldiers are killed, one kidnapped and three wounded in the attack, in which at least two Palestinian militants die. Israeli PM vows a fierce military response to the attack once the soldier, Gilad Shalit, is returned. Two infantry brigades and supporting armoured regiments are deployed along the Gaza Strip border, in preparation for a major offensive.](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.md)
-_Context: Ehud Olmert, Gaza, Gilad Shalit, Hamas, Israel, Palestinian, kidnapped, tunnel_
+_Context: Ehud Olmert, Gaza Strip, Gilad Shalit, Hamas, Israel, Palestinian, kidnapped, tunnel_
 
 ### [ Jos Ramos-Horta resigns as both Foreign and Interim Defence Minister of East Timor amidst ongoing political turmoil. ](/news/2006/06/25/jose-ramos-horta-resigns-as-both-foreign-and-interim-defence-minister-of-east-timor-amidst-ongoing-political-turmoil.md)
 _Context: East Timor, Jose Ramos-Horta, troubled nation_

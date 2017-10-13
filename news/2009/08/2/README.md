@@ -1,7 +1,7 @@
 ## [2009-08-2](/news/2009/08/2/index.md)
 
 ### [ One person is killed and 75 injured after an outdoor stage collapses at the Big Valley Jamboree country music festival in Alberta, Canada. ](/news/2009/08/2/one-person-is-killed-and-75-injured-after-an-outdoor-stage-collapses-at-the-big-valley-jamboree-country-music-festival-in-alberta-canada.md)
-_Context: Alberta, Big Valley Jamboree, Canada_
+_Context: Alberta, Big Valley Jamboree, Canadian_
 
 ### [ One person dies of pneumonic plague and eleven of his relatives are quarantined in Hainan Tibetan Autonomous Prefecture. ](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.md)
 _Context: Hainan Tibetan Autonomous Prefecture, pneumonic_

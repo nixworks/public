@@ -4,7 +4,7 @@
 _Context: Basque, Basque Nationalist Party, Spain, parliamentary elections, plurality_
 
 ### [ Canada's Samuel Lunenfeld Research Institute discovers a new method to create embryonic-like stem cells that could cure spinal-cord injuries and Parkinson's disease. ](/news/2009/03/1/canada-s-samuel-lunenfeld-research-institute-discovers-a-new-method-to-create-embryonic-like-stem-cells-that-could-cure-spinal-cord-injurie.md)
-_Context: Canada, Parkinson's-like, Samuel Lunenfeld Research Institute, embryonic stem cell, spinal-cord injuries_
+_Context: Canadian, Parkinson's-like, Samuel Lunenfeld Research Institute, embryonic stem cell, spinal-cord injuries_
 
 ### [ The United States Coast Guard searches Florida's west coast for a fishing vessel carrying National Football League players Marquis Cooper and Corey Smith. ](/news/2009/03/1/the-united-states-coast-guard-searches-florida-s-west-coast-for-a-fishing-vessel-carrying-national-football-league-players-marquis-cooper-a.md)
 The boat departed from a ramp in Clearwater Pass early Saturday morning with four people in board and was supposed to return sometimes after dark, but never did.

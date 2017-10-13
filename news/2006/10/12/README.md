@@ -1,13 +1,13 @@
 ## [2006-10-12](/news/2006/10/12/index.md)
 
 ### [ The Federal Reserve finds that economic growth in the United States is "moderate or mixed" with "widespread cooling" in the housing market. ](/news/2006/10/12/the-federal-reserve-finds-that-economic-growth-in-the-united-states-is-moderate-or-mixed-with-widespread-cooling-in-the-housing-market.md)
-_Context: Federal Reserve, U.S., economic growth, housing market_
+_Context: Federal Reserve, United States, economic growth, housing market_
 
 ### [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad.md)
 _Context: Chad, Darfur, Janjaweed, Sudanese, militia_
 
 ### [ Nine Palestinians have been killed during an Israeli raid in the Gaza Strip, reports say. ](/news/2006/10/12/nine-palestinians-have-been-killed-during-an-israeli-raid-in-the-gaza-strip-reports-say.md)
-_Context: Gaza, Israel, Palestinians_
+_Context: Gaza Strip, Israel, Palestinians_
 
 ### [ The French parliament adopts a bill criminalizing Armenian genocide denial, despite significant lobbying efforts by the Government of Turkey. ](/news/2006/10/12/the-french-parliament-adopts-a-bill-criminalizing-armenian-genocide-denial-despite-significant-lobbying-efforts-by-the-government-of-turke.md)
 _Context: French parliament, Turkish government, genocide of Armenians_

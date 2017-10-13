@@ -31,7 +31,7 @@ Agriculture Dept reports possible new case of mad cow disease has been found in 
 _Context: Israeli Defence Force, Palestinians, Rafah, bulldozer, smuggling tunnel_
 
 ### [ Three Egyptian paramilitary security officers stationed at the Sinai-Gaza border are killed by Israeli tank fire, after IDF troops allegedly mistook them for Palestinian terrorists or militants. The Egyptian government accepts an apology from Israeli Prime Minister Ariel Sharon and demands an investigation on the incident. ](/news/2004/11/18/three-egyptian-paramilitary-security-officers-stationed-at-the-sinaiagaza-border-are-killed-by-israeli-tank-fire-after-idf-troops-allege.md)
-_Context: Ariel Sharon, Gaza, Israel, Israeli Defence Force, Palestinian, Sinai Peninsula, militants_
+_Context: Ariel Sharon, Gaza Strip, Israel, Israeli Defence Force, Palestinian, Sinai Peninsula, militants_
 
 ### [ The Parliament of New Zealand finally passes a controversial bill on the foreshore and seabed ownership dispute, which has caused considerable tension between Maori and non-Maori. ](/news/2004/11/18/the-parliament-of-new-zealand-finally-passes-a-controversial-bill-on-the-foreshore-and-seabed-ownership-dispute-which-has-caused-considera.md)
 _Context: Maori, Parliament of New Zealand, foreshore and seabed ownership dispute_

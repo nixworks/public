@@ -4,7 +4,7 @@
 _Context: George W. Bush, Guantanamo Bay Qur'an desecration allegations, Newsweek, Qur'an_
 
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
-_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, U.S., terrorism_
+_Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, United States, terrorism_
 
 ### [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md)
 News and opinion from The Times &amp; The Sunday Times
@@ -22,7 +22,7 @@ _Context: Chiquimula, Erick Galvez, Guatemala, assassinated_
 _Context: Australia, Kylie Minogue, breast cancer_
 
 ### [ Canadian Conservative MP Belinda Stronach crosses the floor of the House of Commons to sit with the Liberals, two days before a crucial budget vote that could determine whether the Liberal government falls or not. ](/news/2005/05/17/canadian-conservative-mp-belinda-stronach-crosses-the-floor-of-the-house-of-commons-to-sit-with-the-liberals-two-days-before-a-crucial-bud.md)
-_Context: Belinda Stronach, Canada, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
+_Context: Belinda Stronach, Canadian, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
 
 ### [ The Spanish parliament approves plan to begin negotiations with the Basque ETA. ](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.md)
 _Context: Basque, ETA, Spain_

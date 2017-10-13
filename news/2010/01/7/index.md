@@ -1,7 +1,7 @@
 ## [2010-01-7](/news/2010/01/7/index.md)
 
 ### [Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. ](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.md)
-_Context: Ashkelon, Gaza, Katyusha, Palestinian rocket attacks on Israel, State of Palestine_
+_Context: Ashkelon, Gaza Strip, Katyusha, Palestinian rocket attacks on Israel, State of Palestine_
 
 ### [At least four militants are dead after a 23-hour gun battle at a hotel in Srinagar, Jammu and Kashmir. ](/news/2010/01/7/at-least-four-militants-are-dead-after-a-23-hour-gun-battle-at-a-hotel-in-srinagar-jammu-and-kashmir.md)
 A 23-hour terror siege that left Lal Chowk, the bustling centre of Jammu and Kashmirs summer capital Srinagar, looking like an abandoned battlefield ended...
@@ -22,7 +22,7 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister of Northern Ireland_
 
 ### [The United States approves arms sales to Taiwan, amid opposition from China. ](/news/2010/01/7/the-united-states-approves-arms-sales-to-taiwan-amid-opposition-from-china.md)
-_Context: China, Taiwan, U.S._
+_Context: China, Taiwan, United States_
 
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
 _Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Knock, Norway, Oslo, Paris, Republic of Ireland_
@@ -43,7 +43,7 @@ Teary-eyed but hopeful of a bright future, more than 200 former Maoist child sol
 _Context: Philip Alston, Sri Lankan military, UN special rapporteurs, extra-judicial killings_
 
 ### [An ABB employee commits suicide after shooting eight people, three fatally, at the ABB Power building in St. Louis, Missouri in the United States. ](/news/2010/01/7/an-abb-employee-commits-suicide-after-shooting-eight-people-three-fatally-at-the-abb-power-building-in-st-louis-missouri-in-the-united-s.md)
-_Context: ABB Power, Missouri, St. Louis, U.S., shooting eight people_
+_Context: ABB Power, Missouri, St. Louis, United States, shooting eight people_
 
 ### [A Burmese court sentences two officials to death and one to imprisonment for leaking details of secret government visits to North Korea and Russia. ](/news/2010/01/7/a-burmese-court-sentences-two-officials-to-death-and-one-to-imprisonment-for-leaking-details-of-secret-government-visits-to-north-korea-and.md)
 _Context: Burma, North Korea, Russia_

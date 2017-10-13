@@ -1,7 +1,7 @@
 ## [2008-08-10](/news/2008/08/10/index.md)
 
 ### [ Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. ](/news/2008/08/10/massive-explosions-at-a-propane-facility-just-before-4-a-m-erupt-in-the-toronto-canada-community-of-downsview-resulting-in-the-evacuatio.md)
-_Context: Canada, Downsview, Highway 401, Toronto, propane_
+_Context: Canadian, Downsview, Highway 401, Toronto, propane_
 
 ### [ Monsoon rains in India kill at least 40 people with flooding heaviest in Andhra Pradesh with flooding in the capital Hyderabad killing 14 people. ](/news/2008/08/10/monsoon-rains-in-india-kill-at-least-40-people-with-flooding-heaviest-in-andhra-pradesh-with-flooding-in-the-capital-hyderabad-killing-14-p.md)
 _Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_
@@ -10,7 +10,7 @@ _Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_
 _Context: Georgian, Russia, South Ossetia, Tskhinvali_
 
 ### [ Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world-record.md)
-_Context: Michael Phelps, Swimmer, U.S., world record_
+_Context: Michael Phelps, Swimmer, United States, world record_
 
 ### [ A number of blasts in China's western Xinjiang province kill at least two people. ](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.md)
 _Context: A number of blasts, China, Xinjiang_

@@ -4,7 +4,7 @@
 A government spokesman says Mexican marines have arrested seven gunmen suspected of participating in the massacre of 72 Central and South American migrants near the U.S. border.
 
 ### [A Charities Aid Foundation survey finds that Australia, New Zealand and Canada are the most generous contributors to charity. ](/news/2010/09/8/a-charities-aid-foundation-survey-finds-that-australia-new-zealand-and-canada-are-the-most-generous-contributors-to-charity.md)
-_Context: Australia, Canada, Charities Aid Foundation's, New Zealand, charitable giving_
+_Context: Australia, Canadian, Charities Aid Foundation's, New Zealand, charitable giving_
 
 ### [Two workers are missing and more than thirty workers are trapped in an oil rig in the Shengli oil field off Dongying in China's Shandong province. ](/news/2010/09/8/two-workers-are-missing-and-more-than-thirty-workers-are-trapped-in-an-oil-rig-in-the-shengli-oil-field-off-dongying-in-china-s-shandong-pro.md)
 _Context: Chinese, Dongying, Shandong, offshore oil platform_
@@ -13,10 +13,10 @@ _Context: Chinese, Dongying, Shandong, offshore oil platform_
 The state of emergency in earthquake-stricken Christchurch has been extended for a further seven days after a violent aftershock this morning.
 
 ### [Eight people are missing and at least fifty-four houses are destroyed in a wildfire burning west of Boulder, Colorado, in the United States. ](/news/2010/09/8/eight-people-are-missing-and-at-least-fifty-four-houses-are-destroyed-in-a-wildfire-burning-west-of-boulder-colorado-in-the-united-states.md)
-_Context: Boulder, Colorado, U.S., Wildfire_
+_Context: Boulder, Colorado, United States, Wildfire_
 
 ### [The remnants of Tropical Storm Hermine causes widespread flooding in the US states of Texas and Oklahoma with at least two people dead. ](/news/2010/09/8/the-remnants-of-tropical-storm-hermine-causes-widespread-flooding-in-the-us-states-of-texas-and-oklahoma-with-at-least-two-people-dead.md)
-_Context: Oklahoma!, Texas, Tropical Storm Hermine, U.S._
+_Context: Oklahoma!, Texas, Tropical Storm Hermine, United States_
 
 ### [South Korea unveils sanctions against Iran for its nuclear program. ](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.md)
 _Context: Iran, South Korea, nuclear program, sanctions_

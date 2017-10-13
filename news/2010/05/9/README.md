@@ -16,7 +16,7 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 _Context: Mezhdurechensk, Russia_
 
 ### [U.S. missiles kill five people in North Waziristan, Pakistan. ](/news/2010/05/9/u-s-missiles-kill-five-people-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, U.S._
+_Context: North Waziristan, Pakistan, United States_
 
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.
@@ -28,7 +28,7 @@ _Context: Somali pirates, Somalian_
 Dallas Braden threw the 19th perfect game in major league history, leading the Oakland Athletics past the Tampa Bay Rays, 4-0.
 
 ### [The 26th annual Vancouver Sun Run happens today in Vancouver, British Columbia, Canada.](/news/2010/05/9/the-26th-annual-vancouver-sun-run-happens-today-in-vancouver-british-columbia-canada.md)
-_Context: British Columbia, Canada, Vancouver, Vancouver Sun Run_
+_Context: British Columbia, Canadian, Vancouver, Vancouver Sun Run_
 
 ## [Previous Day...](/news/2010/05/8/index.md)
 

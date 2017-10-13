@@ -7,7 +7,7 @@ _Context: Colombia, Venezuela_
 _Context: Indian-administered Kashmir_
 
 ### [One Palestinian gunman is killed and four more are wounded in a Gaza firefight after launching RPGs and missiles at Israeli soldiers. ](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.md)
-_Context: Gaza, Israel Defense Forces, Palestinian, missiles, rocket-propelled grenades_
+_Context: Gaza Strip, Israel Defense Forces, Palestinian, missiles, rocket-propelled grenades_
 
 ### [French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. ](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.md)
 _Context: Champ de Mars, Eiffel Tower, French police_

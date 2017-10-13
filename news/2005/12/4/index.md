@@ -1,7 +1,7 @@
 ## [2005-12-4](/news/2005/12/4/index.md)
 
 ### [ Israeli-Palestinian Conflict: Israel launches a series of air strikes as reprisals after the Palestinians fired Qassam rockets, hitting what local officials called an Islamic Jihad charity in the Gaza Strip. ](/news/2005/12/4/israeli-palestinian-conflict-israel-launches-a-series-of-air-strikes-as-reprisals-after-the-palestinians-fired-qassam-rockets-hitting-wha.md)
-_Context: Gaza, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict, Qassam rockets, air strike_
+_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict, Qassam rockets, air strike_
 
 ### [ Hong Kong people marched today to oppose the political reform set out by Chief Executive Donald Tsang in favour of a timetable on the full implementation of universal suffrage in the territory. Organisers claimed 250,000 attended the march, while police put the figure at 63,000. ](/news/2005/12/4/hong-kong-people-marched-today-to-oppose-the-political-reform-set-out-by-chief-executive-donald-tsang-in-favour-of-a-timetable-on-the-full.md)
 _Context: Chief Executive, Donald Tsang, Hong Kong, marched, universal suffrage_

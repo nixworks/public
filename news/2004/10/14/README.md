@@ -7,7 +7,7 @@ _Context: Cambodia, King Norodom Sihanouk, Norodom Sihamoni, Throne Council, abd
 _Context: Abu Musab al-Zarqawi, Kenneth Bigley, Tawhid and Jihad_
 
 ### [ Israeli Prime Minister Ariel Sharon accepts an Israeli Defence Force plan to begin withdrawing troops from Jabalia, Beit Lahiya, and Beit Hanoun in the northern Gaza Strip this weekend. [http:--www.haaretz.com-hasen-spages-489056.html (Haaretz)] About 100,000 Israelis in 100 cities march in a series of demonstrations across Israel opposing their government's proposal to withdraw Israeli settlers from the Gaza Strip and parts of the West Bank.](/news/2004/10/14/israeli-prime-minister-ariel-sharon-accepts-an-israeli-defence-force-plan-to-begin-withdrawing-troops-from-jabalia-beit-lahiya-and-beit-h.md)
-_Context: Ariel Sharon, Beit Hanoun, Beit Lahiya, Gaza, Israel, Israel's unilateral disengagement plan of 2004, Israeli Defence Force, Jabalia, Prime Minister, West Bank_
+_Context: Ariel Sharon, Beit Hanoun, Beit Lahiya, Gaza Strip, Israel, Israel's unilateral disengagement plan of 2004, Israeli Defence Force, Jabalia, Prime Minister, West Bank_
 
 ### [ United States warplanes launch sustained air strikes against the rebel-held city of Fallujah, following a breakdown in peace talks between the Iraqi government and representatives of the city. ](/news/2004/10/14/united-states-warplanes-launch-sustained-air-strikes-against-the-rebel-held-city-of-fallujah-following-a-breakdown-in-peace-talks-between.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

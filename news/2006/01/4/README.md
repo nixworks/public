@@ -25,7 +25,7 @@ _Context: Flash flooding, Java_
 _Context: Bad Reichenhall ice rink roof collapse_
 
 ### [ Israel shells eight roads in Palestinian areas of the Gaza Strip. ](/news/2006/01/4/israel-shells-eight-roads-in-palestinian-areas-of-the-gaza-strip.md)
-_Context: Gaza, Israel, Palestinian_
+_Context: Gaza Strip, Israel, Palestinian_
 
 ## [Previous Day...](/news/2006/01/3/index.md)
 

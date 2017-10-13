@@ -16,7 +16,7 @@ Authorities in West Virginia say a fire broke out at a home, killing six childre
 A small piece of Cosmos 2251 satellite debris safely passed by the International Space Station at 2:38a.m. EDT, Saturday March 24 allowing the six Expedition...
 
 ### [Following the 2012 Mali coup d'tat, Canada and Denmark suspends aid to Mali. ](/news/2012/03/24/following-the-2012-mali-coup-d-etat-canada-and-denmark-suspends-aid-to-mali.md)
-_Context: 2012 Mali coup d'tat, Canada, Denmark, Mali_
+_Context: 2012 Mali coup d'tat, Canadian, Denmark, Mali_
 
 ### [At least one person is killed and 18 injured after clashes in Port Said between Egyptian security forces after the Al-Masry Club is banned for two seasons from the Egyptian Premier League following the Port Said Stadium disaster. ](/news/2012/03/24/at-least-one-person-is-killed-and-18-injured-after-clashes-in-port-said-between-egyptian-security-forces-after-the-al-masry-club-is-banned-f.md)
 One person killed and more than 100 injured in ongoing violence in Port Said following two-year ban on al-Masry club.

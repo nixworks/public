@@ -16,7 +16,7 @@ Buses departed Thursday from both the Indian and Pakistani sides of divided Kash
 _Context: Chen Shui-bian, Pope John Paul II, Roman Catholic, Taiwan, Taiwan_
 
 ### [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md)
-_Context: Canada, Iran, Shahram Azam, Zahra Kazemi_
+_Context: Canadian, Iran, Shahram Azam, Zahra Kazemi_
 
 ### [ In London, Sir Ian Blair, the chief of metropolitan police, orders an inquiry of claims that journalists of "The Sun" smuggled a fake bomb into grounds of Windsor Castle. ](/news/2005/04/7/in-london-sir-ian-blair-the-chief-of-metropolitan-police-orders-an-inquiry-of-claims-that-journalists-of-the-sun-smuggled-a-fake-bomb.md)
 _Context: Ian Blair, London, The Sun, Windsor Castle_

@@ -58,7 +58,7 @@ LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on T
 _Context: Apollo Theater, Aretha Franklin, Michael Jackson, New York City_
 
 ### [ Members of the Christian militia group Hutaree plead not guilty to a court in Michigan, United States, to claims of plotting to kill American police officers. [http:--www.cnn.com-2010-CRIME-03-31-michigan.militia.hutaree-index.html?iref=allsearch (CNN) ]](/news/2010/04/1/members-of-the-christian-militia-group-hutaree-plead-not-guilty-to-a-court-in-michigan-united-states-to-claims-of-plotting-to-kill-americ.md)
-_Context: Christian, Hutaree, Michigan, U.S., militia, police officer_
+_Context: Christian, Hutaree, Michigan, United States, militia, police officer_
 
 ### [ Sarah Palin spoke to thousands of tea party activists gathered in the Nevada desert about Harry Reid. ](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.md)
 _Context: Harry Reid, Nevada desert, Sarah Palin, Tea Party_

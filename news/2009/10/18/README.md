@@ -43,7 +43,7 @@ _Context: Puerto Rico_
 GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to secure her release and that of her Ugandan colleague Hilda Kawuki.
 
 ### [ A boat with 76 migrant workers on board headed for Canada is seized by the Canadian Navy and RCMP off its west coast in the Pacific Ocean. ](/news/2009/10/18/a-boat-with-76-migrant-workers-on-board-headed-for-canada-is-seized-by-the-canadian-navy-and-rcmp-off-its-west-coast-in-the-pacific-ocean.md)
-_Context: Canada, Canadian Navy, Pacific Ocean, Royal Canadian Mounted Police_
+_Context: Canadian, Canadian Navy, Pacific Ocean, Royal Canadian Mounted Police_
 
 ### [ The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. ](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.md)
 Hundreds of people believed to be heading to Australia are reportedly aboard two boats in distress in Indonesian waters, but there is no confirmation at this stage that they are asylum seekers.

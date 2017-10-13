@@ -40,10 +40,10 @@ A tornado swept across eastern China, killing 14 people and injuring 146, state 
 _Context: Foreign Minister, Israel, Syria, Walid Muallem_
 
 ### [ BBC reporter Alan Johnston, held captive in Gaza for nearly four months, is released. ](/news/2007/07/4/bbc-reporter-alan-johnston-held-captive-in-gaza-for-nearly-four-months-is-released.md)
-_Context: Alan Johnston, BBC, Gaza_
+_Context: Alan Johnston, BBC, Gaza Strip_
 
 ### [ War in Afghanistan: Six Canadian soldiers were killed by a roadside bomb in the Panjwaii district. ](/news/2007/07/4/war-in-afghanistan-six-canadian-soldiers-were-killed-by-a-roadside-bomb-in-the-panjwaii-district.md)
-_Context: Canada, Panjwaii, War in Afghanistan (2001-present)_
+_Context: Canadian, Panjwaii, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2007/07/3/index.md)
 

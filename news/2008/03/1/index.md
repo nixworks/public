@@ -1,7 +1,7 @@
 ## [2008-03-1](/news/2008/03/1/index.md)
 
 ### [ Two IDF soldiers and at least 50 Palestinians are killed during an Israeli military operation in the Gaza Strip. ](/news/2008/03/1/two-idf-soldiers-and-at-least-50-palestinians-are-killed-during-an-israeli-military-operation-in-the-gaza-strip.md)
-_Context: Gaza, Israel, military operation_
+_Context: Gaza Strip, Israel, military operation_
 
 ### [ A wind storm in Europe kills four people in Austria, two people in Germany, and two people in the Czech Republic. ](/news/2008/03/1/a-wind-storm-in-europe-kills-four-people-in-austria-two-people-in-germany-and-two-people-in-the-czech-republic.md)
 _Context: Austria, Czech Republic, Europe, Germany, wind storm_

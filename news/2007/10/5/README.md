@@ -7,13 +7,13 @@ In the Southern Philippines a child has been killed and 36 people injured in two
 Topps Meat Co LLC announced on Friday it was going out of business, crushed by the recall of 21.7 million pounds of beef linked to 30 cases of E. coli-related illness.
 
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: Canada, Novartis, Prexige, drug, hepatitis, liver_
+_Context: Canadian, Novartis, Prexige, drug, hepatitis, liver_
 
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
 _Context: Burma_
 
 ### [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md)
-_Context: Shiite, U.S., War in Iraq, militia_
+_Context: Shiite, United States, War in Iraq, militia_
 
 ### [ Marion Jones admits using banned substances during her athletic career and risks being stripped of her five Olympic medals. ](/news/2007/10/5/marion-jones-admits-using-banned-substances-during-her-athletic-career-and-risks-being-stripped-of-her-five-olympic-medals.md)
 Marion Jones has admitted that she took banned drugs during her career, in a move that could see her stripped of her five Olympic medals.

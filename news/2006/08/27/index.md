@@ -22,7 +22,7 @@ _Context: Baghdad, Iraq_
 _Context: Balochistan, Nawab Akbar Bugti, Pakistan_
 
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Fox News, Gaza, Muslims, Olaf Wiig, Steve Centanni_
+_Context: Fox News, Gaza Strip, Muslims, Olaf Wiig, Steve Centanni_
 
 ## [Previous Day...](/news/2006/08/26/index.md)
 

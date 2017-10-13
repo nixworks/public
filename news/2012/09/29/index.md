@@ -13,7 +13,7 @@ _Context: Morocco_
 At least 10 people die after heavy rains trigger flash floods in the southern Spanish regions of Andalucia and Murcia, officials say.
 
 ### [One of the Guantanamo detainees, Omar Khadr, is transferred to Canada to serve the remainder of his sentence. ](/news/2012/09/29/one-of-the-guantanamo-detainees-omar-khadr-is-transferred-to-canada-to-serve-the-remainder-of-his-sentence.md)
-_Context: Canada, Omar Khadr, the Guantanamo detainees_
+_Context: Canadian, Omar Khadr, the Guantanamo detainees_
 
 ### [Iran accuses the United States of "double standards" over the U.S.' delisting of the Mujahideen-e Khalq as a terrorist entity. ](/news/2012/09/29/iran-accuses-the-united-states-of-double-standards-over-the-u-s-delisting-of-the-mujahideen-e-khalq-as-a-terrorist-entity.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

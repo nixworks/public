@@ -4,7 +4,7 @@
 _Context: Japan, North Korea, Tomahawk cruise, USS ''Mustin'', launch, surface-to-air_
 
 ### [ The first confirrmed flight of a manned ornithopter operating under its own power is made in Toronto, Canada by aerospace scientists. ](/news/2006/07/8/the-first-confirrmed-flight-of-a-manned-ornithopter-operating-under-its-own-power-is-made-in-toronto-canada-by-aerospace-scientists.md)
-_Context: Canada, Toronto, aerospace scientists, ornithopter_
+_Context: Canadian, Toronto, aerospace scientists, ornithopter_
 
 ### [ US diplomat Christopher R. Hill indicates US support for the informal resumption of six party talks aimed at resolving the North Korean nuclear crisis. ](/news/2006/07/8/us-diplomat-christopher-r-hill-indicates-us-support-for-the-informal-resumption-of-six-party-talks-aimed-at-resolving-the-north-korean-nuc.md)
 The Sydney Morning Herald 404 Page

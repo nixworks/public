@@ -4,7 +4,7 @@
 _Context: Bruce Golding, Jamaica, Jamaica Labour Party_
 
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: China, U.S., lead paint, toy_
+_Context: China, United States, lead paint, toy_
 
 ### [ Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. ](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.md)
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
@@ -52,7 +52,7 @@ _Context: Philippines_
 _Context: EU, United Kingdom, imperial measurement_
 
 ### [ At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. ](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.md)
-_Context: Gaza, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_
+_Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_
 
 ### [ The Prime Minister of Canada Stephen Harper rules out sending further troops to Afghanistan. ](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.md)
 Canadian Prime Minister Stephen Harper says his country will not be sending extra troops to Afghanistan to serve alongside Australian soldiers.

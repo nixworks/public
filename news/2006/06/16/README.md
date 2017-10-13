@@ -22,7 +22,7 @@ _Context: Bandidos, Shedden massacre, Winnipeg_
 _Context: Girija Prasad Koirala, Kathmandu, Maoist supporters, Prachanda_
 
 ### [ Israeli air strike near Gaza kills one Islamic Jihad militant and wounds two others, reportedly on their way to launch Qassam rockets. No civilians were hurt in the strike. More than a hundred Qassam rockets were launched against Israeli towns in the past week, six of them on Friday. ](/news/2006/06/16/israeli-air-strike-near-gaza-kills-one-islamic-jihad-militant-and-wounds-two-others-reportedly-on-their-way-to-launch-qassam-rockets-no-c.md)
-_Context: Gaza, Islamic Jihad Movement in Palestine, Israel, Qassam rocket_
+_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Qassam rocket_
 
 ### [ Evangelist Gilbert Deya is arrested by police at Edinburgh Sheriff Court in relation to allegations by Kenyan police of involvement in child trafficking. ](/news/2006/06/16/evangelist-gilbert-deya-is-arrested-by-police-at-edinburgh-sheriff-court-in-relation-to-allegations-by-kenyan-police-of-involvement-in-chil.md)
 _Context: Edinburgh, Gilbert Deya, Kenyan police, Sheriff Court, child trafficking_

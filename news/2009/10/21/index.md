@@ -7,7 +7,7 @@ _Context: 2009 National League Championship Series, Los Angeles Dodgers, Philade
 _Context: Fruitadens haagarorum, Proceedings of the Royal Society, dinosaur_
 
 ### [ After 10 hours, a man armed with a rifle and wearing military camouflage holding 8 people hostage in downtown Edmonton, Canada during the 2009 Workers Compensation Board of Alberta Hostage crisis surrenders peacefully to the Edmonton Police Service ](/news/2009/10/21/after-10-hours-a-man-armed-with-a-rifle-and-wearing-military-camouflage-holding-8-people-hostage-in-downtown-edmonton-canada-during-the-2.md)
-_Context: 2009 Workers Compensation Board of Alberta Hostage crisis, Canada, Edmonton, Edmonton Police Service, military camouflage, rifle_
+_Context: 2009 Workers Compensation Board of Alberta Hostage crisis, Canadian, Edmonton, Edmonton Police Service, military camouflage, rifle_
 
 ### [ Kyrgyz President Kurmanbek Bakiyev appoints former mayor of Bishkek, Daniar Usenov, as the new Prime Minister following the resignation of his predecessor, Igor Chudinov. ](/news/2009/10/21/kyrgyz-president-kurmanbek-bakiyev-appoints-former-mayor-of-bishkek-daniar-usenov-as-the-new-prime-minister-following-the-resignation-of.md)
 Kyrgyz President Kurmanbek Bakiyev named long-standing ally Daniyar Usenov Wednesday as prime minister, in a major shake-up of government that cements his grip on power.
@@ -19,7 +19,7 @@ _Context: Litokwa Tomeing, President, Ruben Zackhras, vote of no confidence_
 _Context: Lima, Peru, abortion_
 
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Burma, State Peace and Development Council, U.S._
+_Context: Burma, State Peace and Development Council, United States_
 
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_

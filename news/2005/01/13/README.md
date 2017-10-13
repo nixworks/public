@@ -4,7 +4,7 @@
 _Context: Ali al-Sistani, Baghdad, Conflict in Iraq, Salman Pak_
 
 ### [ Palestinian militants explode a truck laden with explosives in the Karni crossing in the eastern Gaza Strip. At least 6 Israelis were killed, as well as three of the attackers, and about 10-20 were wounded in the attack. The al-Aqsa Martyrs' Brigades, the Popular Resistance Committees and Hamas claimed joint responsibility. ](/news/2005/01/13/palestinian-militants-explode-a-truck-laden-with-explosives-in-the-karni-crossing-in-the-eastern-gaza-strip-at-least-6-israelis-were-kille.md)
-_Context: Al-Aqsa Martyrs' Brigades, Gaza, Hamas, Israel, Palestinian, Popular Resistance Committees, car bomb, cargo terminals, militants_
+_Context: Al-Aqsa Martyrs' Brigades, Gaza Strip, Hamas, Israel, Palestinian, Popular Resistance Committees, car bomb, cargo terminals, militants_
 
 ### [ Record temperatures across Europe make many animals awake early from hibernation. Avalanche alerts are raised to the highest level in Romania and Austria. ](/news/2005/01/13/record-temperatures-across-europe-make-many-animals-awake-early-from-hibernation-avalanche-alerts-are-raised-to-the-highest-level-in-roman.md)
 _Context: avalanche, hibernation_

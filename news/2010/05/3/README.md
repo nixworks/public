@@ -4,7 +4,7 @@
 _Context: 2008 Mumbai attacks, Ajmal Kasab, India_
 
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
-_Context: Continental Airlines, U.S., United Airlines_
+_Context: Continental Airlines, United Airlines, United States_
 
 ### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week. ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
 _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_

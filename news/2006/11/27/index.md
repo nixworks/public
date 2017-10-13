@@ -25,7 +25,7 @@ _Context: AWB Limited, Australian Prime Minister, Cole Inquiry, John Howard, Phi
 _Context: Bill English, John Key, New Zealand National Party_
 
 ### [ Canadian Prime Minister Stephen Harper and the Canadian House of Commons endorse a motion to declare that the Qubcois form a nation within a unified Canada. ](/news/2006/11/27/canadian-prime-minister-stephen-harper-and-the-canadian-house-of-commons-endorse-a-motion-to-declare-that-the-quebecois-form-a-nation-withi.md)
-_Context: Canada, Canadian House of Commons, Prime Minister of Canada, Qubcois, Stephen Harper_
+_Context: Canadian, Canadian House of Commons, Prime Minister of Canada, Qubcois, Stephen Harper_
 
 ## [Previous Day...](/news/2006/11/26/index.md)
 

@@ -1,7 +1,7 @@
 ## [2002-08-7](/news/2002/08/7/index.md)
 
 ### [Israeli-Palestinian conflict: Israeli forces kill six Palestinians: Israeli undercover soldiers kill four Palestinian militants wound three in a gun-fight in Tulkarm. An Israeli sniper kills Hussam Hamdan, a member of Hamas in the Gaza Strip. Israeli troops and 30 tanks push into northern Gaza, killing a Palestinian policeman. These come in response to the attacks of August 4 listed above.](/news/2002/08/7/israeli-palestinian-conflict-israeli-forces-kill-six-palestinians-israeli-undercover-soldiers-kill-four-palestinian-militants-wound-three.md)
-_Context: Gaza, Hamas, Hussam Hamdan, Israeli-Palestinian conflict, Tulkarm_
+_Context: Gaza Strip, Hamas, Hussam Hamdan, Israeli-Palestinian conflict, Tulkarm_
 
 ### [ Three members of Manchester rock band Oasis have been injured in a head-on car crash in Indianapolis while on tour in the U.S. None were seriously injured.](/news/2002/08/7/three-members-of-manchester-rock-band-oasis-have-been-injured-in-a-head-on-car-crash-in-indianapolis-while-on-tour-in-the-u-s-none-were-se.md)
 _Context: Indianapolis, Manchester, Oasis, accident, rock music_

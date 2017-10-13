@@ -22,7 +22,7 @@ _Context: Abdul Rashid Dostum, Ghazni, Hamid Karzai, Kabul, Mazari Sharif, Yunus
 _Context: David Gross, David Politzer, Frank Wilczek, Nobel Prize in Physics, asymptotic freedom, physicists, theory of the strong interaction_
 
 ### [ The United States vetoes a United Nations resolution urging Israel to halt its current offensive in the Gaza Strip. Over 70 Palestinians, including civilians, have died in the offensive. ](/news/2004/10/5/the-united-states-vetoes-a-united-nations-resolution-urging-israel-to-halt-its-current-offensive-in-the-gaza-strip-over-70-palestinians-i.md)
-_Context: Gaza, United Nations_
+_Context: Gaza Strip, United Nations_
 
 ## [Previous Day...](/news/2004/10/4/index.md)
 

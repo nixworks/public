@@ -4,7 +4,7 @@
 _Context: Ethiopia, Human evolution, fossil record, single origin theory_
 
 ### [ Masquerading as an Orthodox Jew, a suicide bomber blows up a bus in Jerusalem, Israel, killing at least sixteen people. An Israeli helicopter attack in the Gaza Strip kills at least seven.](/news/2003/06/11/masquerading-as-an-orthodox-jew-a-suicide-bomber-blows-up-a-bus-in-jerusalem-israel-killing-at-least-sixteen-people-an-israeli-helicopt.md)
-_Context: Gaza, Israel, Jerusalem, Orthodox_
+_Context: Gaza Strip, Israel, Jerusalem, Orthodox_
 
 ### [ Same-sex marriage in Canada: The attorney general of Ontario announces that his government will conform to yesterday's court ruling legalizing same-sex marriage in that province.](/news/2003/06/11/same-sex-marriage-in-canada-the-attorney-general-of-ontario-announces-that-his-government-will-conform-to-yesterday-s-court-ruling-legaliz.md)
 _Context: Ontario, same-sex marriage in Canada_

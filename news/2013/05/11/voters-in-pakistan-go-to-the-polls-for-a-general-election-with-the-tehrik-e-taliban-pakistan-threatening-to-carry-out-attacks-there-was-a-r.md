@@ -16,8 +16,8 @@ Nawaz Sharif tells his supporters that voters have handed him a landmark third t
 1. [A Pakistani election tribunal comprising judges of the Lahore High Court declares former Prime Minister Raja Pervez Ashraf ineligible for contesting the upcoming general election. ](/news/2013/04/16/a-pakistani-election-tribunal-comprising-judges-of-the-lahore-high-court-declares-former-prime-minister-raja-pervez-ashraf-ineligible-for-co.md) _Context: Pakistan, general election_
 2. [A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md) _Context: Pakistan, general election_
 3. [Tens of thousands gather in Lahore as Pakistan's cricketer-turned-politician Imran Khan launches an election bid for the country's general elections in May 2013. ](/news/2013/03/24/tens-of-thousands-gather-in-lahore-as-pakistan-s-cricketer-turned-politician-imran-khan-launches-an-election-bid-for-the-country-s-general-e.md) _Context: Pakistan, general election_
-4. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
-5. [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md) _Context: Pakistan_
+4. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
+5. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
 
 ### Changes:
 

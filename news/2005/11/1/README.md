@@ -4,7 +4,7 @@
 _Context: Best Mate_
 
 ### [ U.S. Senate Minority Leader Harry Reid and his fellow Democrats force a closed session of the Senate over misinformed intelligence that led to the Iraq War and evasion of a congressional inquiry. ](/news/2005/11/1/u-s-senate-minority-leader-harry-reid-and-his-fellow-democrats-force-a-closed-session-of-the-senate-over-misinformed-intelligence-that-led.md)
-_Context: Democratic, Harry Reid, Iraq War, U.S., United States Senate, United States Senate Minority Leader, closed session_
+_Context: Democratic, Harry Reid, Iraq War, United States, United States Senate, United States Senate Minority Leader, closed session_
 
 ### [ The discovery of two additional moons of Pluto is announced. ](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.md)
 _Context: Pluto, moons_
@@ -16,7 +16,7 @@ _Context: Lebanon, Prime Minister, Rafik Hariri, Syria, UNSC resolution, United 
 _Context: Amani Abeid Karume, Chama Cha Mapinduzi, President, Zanzibar_
 
 ### [ Israeli-Palestinian Conflict: 2 Palestinian militants, one from Hamas, the other the Al Aqsa Martyrs Brigade, have died following an Israeli air-strike in the Gaza Strip. ](/news/2005/11/1/israeli-palestinian-conflict-2-palestinian-militants-one-from-hamas-the-other-the-al-aqsa-martyrs-brigade-have-died-following-an-israel.md)
-_Context: Al Aqsa Martyrs Brigade, Gaza, Hamas, Israel, Israeli-Palestinian conflict, Palestinian_
+_Context: Al Aqsa Martyrs Brigade, Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [ North Korea and South Korea will field a united Olympics team at the next Olympic Games. ](/news/2005/11/1/north-korea-and-south-korea-will-field-a-united-olympics-team-at-the-next-olympic-games.md)
 _Context: North Korea, Olympic Games, South Korea_
@@ -31,7 +31,7 @@ _Context: 2005 Paris riots, France, Muslim, Nicolas Sarkozy, electric shock, min
 _Context: Makybe Diva, Melbourne Cup, thoroughbred racing_
 
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: Afghanistan, Bagram, July, Omar al-Faruq, U.S._
+_Context: Afghanistan, Bagram, July, Omar al-Faruq, United States_
 
 ## [Previous Day...](/news/2005/10/31/index.md)
 

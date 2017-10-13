@@ -10,7 +10,7 @@ _Context: Abdullahi Yusuf Ahmed, President, Somalian, assassinated_
 _Context: Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: China, U.S., energy security_
+_Context: China, United States, energy security_
 
 ### [ The European Parliament passes legislation to allow undocumented aliens to be held in detention centres for up to 18 months and banned from European Union territory for five years. [http:--www.nytimes.com-2008-06-19-world-europe-19migrant.html "(The New York Times)"]](/news/2008/06/18/the-european-parliament-passes-legislation-to-allow-undocumented-aliens-to-be-held-in-detention-centres-for-up-to-18-months-and-banned-from.md)
 _Context: EU, European Parliament, detention facilities, illegal migrants_
@@ -34,7 +34,7 @@ _Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_
 _Context: Banjara, Gujjar, Other Backward Class, Rabari, Rajasthan, reservations_
 
 ### [ American golfer Tiger Woods will miss the rest of the golf season to have additional surgery on his left knee. ](/news/2008/06/18/american-golfer-tiger-woods-will-miss-the-rest-of-the-golf-season-to-have-additional-surgery-on-his-left-knee.md)
-_Context: PGA Tour, Tiger Woods, U.S., golfer, knee, surgery_
+_Context: PGA Tour, Tiger Woods, United States, golfer, knee, surgery_
 
 ### [ Romanian villagers vote to re-elect a dead man as their mayor, to prevent his living rival winning. ](/news/2008/06/18/romanian-villagers-vote-to-re-elect-a-dead-man-as-their-mayor-to-prevent-his-living-rival-winning.md)
 _Context: Romania, mayor_
@@ -46,10 +46,10 @@ _Context: Black Economic Empowerment, High Court, South Africa, South African Ch
 _Context: London, hospital, laptops, patients_
 
 ### [ Afghan and Canadian forces begin an offensive against the Taliban in the Arghandab District of Kandahar. ](/news/2008/06/18/afghan-and-canadian-forces-begin-an-offensive-against-the-taliban-in-the-arghandab-district-of-kandahar.md)
-_Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
+_Context: Afghanistan, Arghandab District, Canadian, Kandahar, Taliban, an offensive_
 
 ### [ Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. ](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.md)
-_Context: Gaza, Hamas, Israel_
+_Context: Gaza Strip, Hamas, Israel_
 
 ### [ Israel suggests peace talks with Lebanon to end the 60-year Israeli-Lebanese conflict. ](/news/2008/06/18/israel-suggests-peace-talks-with-lebanon-to-end-the-60-year-israeli-lebanese-conflict.md)
 _Context: Israel, Israeli-Lebanese conflict, Lebanon_

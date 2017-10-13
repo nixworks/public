@@ -13,7 +13,7 @@ _Context: Chen Shui-bian, President, Taipei 101, Taiwan_
 _Context: 2004 Indian Ocean earthquake, Indonesia, Malaysia_
 
 ### [ At least two Palestinians are killed when an Israeli aircraft fires a missile at the Khan Younis refugee camp in the Gaza Strip. ](/news/2004/12/31/at-least-two-palestinians-are-killed-when-an-israeli-aircraft-fires-a-missile-at-the-khan-younis-refugee-camp-in-the-gaza-strip.md)
-_Context: Gaza, Israel, Khan Younis, Palestinians_
+_Context: Gaza Strip, Israel, Khan Younis, Palestinians_
 
 ### [ In Pakistan, president Pervez Musharraf announces that he will keep his additional role as an army chief. He had previously stated that he would give it up. ](/news/2004/12/31/in-pakistan-president-pervez-musharraf-announces-that-he-will-keep-his-additional-role-as-an-army-chief-he-had-previously-stated-that-he.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

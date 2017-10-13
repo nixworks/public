@@ -22,7 +22,7 @@ _Context: India, Maharashtra, Mumbra_
 Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakhand was pounded by landslides and torrential rain. But 60,000 people are still stranded, and some of the worst-affected areas, near the famous Kedarnath temple, remain inaccessible.
 
 ### [75,000 people are evacuated from their homes during flooding in Calgary, Alberta, Canada. ](/news/2013/06/21/75-000-people-are-evacuated-from-their-homes-during-flooding-in-calgary-alberta-canada.md)
-_Context: Alberta, Calgary, Alberta, Canada, flooding in Alberta_
+_Context: Alberta, Calgary, Alberta, Canadian, flooding in Alberta_
 
 ### [Taiwan reports the first human case of the H6N1 virus. ](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.md)
 _Context: H6N1, Taiwan_

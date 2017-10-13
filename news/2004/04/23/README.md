@@ -7,7 +7,7 @@ Mitsubishi group companies vowed yesterday to stick by struggling Mitsubishi Mot
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.
 
 ### [ Palestinian gunmen attack a police station in the Gaza Strip, freeing three men arrested for the October 2003 bomb attack against an American diplomatic convoy. A fourth man arrested for the bombing refuses to leave the police station. ](/news/2004/04/23/palestinian-gunmen-attack-a-police-station-in-the-gaza-strip-freeing-three-men-arrested-for-the-october-2003-bomb-attack-against-an-americ.md)
-_Context: Gaza, convoy, diplomatic_
+_Context: Gaza Strip, convoy, diplomatic_
 
 ### [ A major fire in downtown Bangkok leaves thousands of residents homeless. Hundreds of buildings, including several hotels, are destroyed in the area near the Australian and German embassies. ](/news/2004/04/23/a-major-fire-in-downtown-bangkok-leaves-thousands-of-residents-homeless-hundreds-of-buildings-including-several-hotels-are-destroyed-in.md)
 _Context: Bangkok_

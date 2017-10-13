@@ -61,7 +61,7 @@ The US Navy halted a North Korean cargo vessel bound for Burma two weeks ago ove
 Mr. Netanyahu says such democratic elections were &quot;something to welcome&quot; in the region
 
 ### [Israel's deputy foreign minister Danny Ayalon tells public radio that he wants re-elected Prime Minister of Turkey Recep Tayyip Erdogan to block what Ayalon considers a "provocative flotilla" of activists bound for Gaza "entering dangerous zones". ](/news/2011/06/13/israel-s-deputy-foreign-minister-danny-ayalon-tells-public-radio-that-he-wants-re-elected-prime-minister-of-turkey-recep-tayyip-erdoaan-to.md)
-_Context: Danny Ayalon, Gaza, Israel, Recep Tayyip Erdogan, Turkish Prime Minister, public radio_
+_Context: Danny Ayalon, Gaza Strip, Israel, Recep Tayyip Erdogan, Turkish Prime Minister, public radio_
 
 ### [Prime Minister of Lebanon Najib Mikati announces his new cabinet. ](/news/2011/06/13/prime-minister-of-lebanon-najib-mikati-announces-his-new-cabinet.md)
 Najib Mikati gives Hezbollah and its allies 16 posts, prompting resignation by a Druze MP dissatisfied with his post.

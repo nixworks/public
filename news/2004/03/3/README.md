@@ -16,7 +16,7 @@ _Context: George W. Bush, Harvard University, stem cell_
 _Context: Serbia, Vojislav Kostunica_
 
 ### [ Israeli aircraft destroy a car in the Gaza strip with missile fire, killing three people acknowledged by Palestinian officials as members of the militant group Hamas. ](/news/2004/03/3/israeli-aircraft-destroy-a-car-in-the-gaza-strip-with-missile-fire-killing-three-people-acknowledged-by-palestinian-officials-as-members-o.md)
-_Context: Gaza, Hamas, Israel_
+_Context: Gaza Strip, Hamas, Israel_
 
 ### [ In the trial of Martha Stewart and her broker, Judge Miriam Goldman gives the jury its instructions. ](/news/2004/03/3/in-the-trial-of-martha-stewart-and-her-broker-judge-miriam-goldman-gives-the-jury-its-instructions.md)
 _Context: Martha Stewart_

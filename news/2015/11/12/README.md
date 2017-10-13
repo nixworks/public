@@ -16,7 +16,7 @@ _Context: Florent Groberg, Medal of Honor, War in Afghanistan, foreign-born Meda
 Mario Draghi signaled that the European Central Bank is ready to boost its stimulus programs next month as inflation wanes and economic prospects worsen.
 
 ### [The city of Montreal in Canada begins dumping 2 billion gallons of raw sewage into the Saint Lawrence River, an action the mayor, Denis Coderre, says is necessary to make repairs and improvements to the city's wastewater system. The move has caused outrage among residents and environmentalists, while the hashtag ""#flushgate"" is being used on social media sites to voice opposition to the dumping effort. ](/news/2015/11/12/the-city-of-montreal-in-canada-begins-dumping-2-billion-gallons-of-raw-sewage-into-the-saint-lawrence-river-an-action-the-mayor-denis-code.md)
-_Context: Canada, Denis Coderre, Montreal, Saint Lawrence River, hashtag, social media_
+_Context: Canadian, Denis Coderre, Montreal, Saint Lawrence River, hashtag, social media_
 
 ### [The Valletta Summit on Migration concludes with European leaders setting up a fund to promote development in African countries, in return for help in the European migrant crisis. ](/news/2015/11/12/the-valletta-summit-on-migration-concludes-with-european-leaders-setting-up-a-fund-to-promote-development-in-african-countries-in-return-fo.md)
 The Valletta Summit on Migration ended early this afternoon with a Final Declaration and Action Plan which Joseph Muscat described as &quot;an important first step for a two-way relationship&quot; between Europe and Africa. “The action plan shows maybe for the first time, the commitment by Europe ...

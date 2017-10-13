@@ -1,7 +1,7 @@
 ## [2013-04-3](/news/2013/04/3/index.md)
 
 ### [Israeli warplanes strike targets in the Gaza Strip in response to rocket fire, the first air strikes launched by Israel since an informal ceasefire ended eight days of cross-border fighting between Israel and Hamas-ruled Gaza in November 2012. ](/news/2013/04/3/israeli-warplanes-strike-targets-in-the-gaza-strip-in-response-to-rocket-fire-the-first-air-strikes-launched-by-israel-since-an-informal-ce.md)
-_Context: Gaza, Hamas, Israel, air strikes, informal ceasefire, ruled Gaza_
+_Context: Gaza Strip, Hamas, Israel, air strikes, informal ceasefire, ruled Gaza_
 
 ### [At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed-with-suicide-vests-on-a-courthouse-in.md)
 A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves more than 50 people dead and 90 wounded, most of them civilians.
@@ -22,7 +22,7 @@ Veteran US political activist and intellectual Noam Chomsky has received another
 _Context: Jay Leno, Jimmy Fallon, Late Night with Jimmy Fallon, NBC, TV network, The Tonight Show, U.S._
 
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
-_Context: Subaru, U.S., corrosion_
+_Context: Subaru, United States, corrosion_
 
 ### [Disney announces that it is ceasing all internal development at its LucasArts game division. ](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.md)
 _Context: Disney, LucasArts_

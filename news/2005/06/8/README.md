@@ -4,7 +4,7 @@
 _Context: Devon, Exeter, caesarean section_
 
 ### [ In Canada, rain begins to pound the province of Alberta starting an almost 3-week flooding crisis in the province.](/news/2005/06/8/in-canada-rain-begins-to-pound-the-province-of-alberta-starting-an-almost-3-week-flooding-crisis-in-the-province.md)
-_Context: Alberta, Canada_
+_Context: Alberta, Canadian_
 
 ### [ The infection source of Norway's recent outbreak of Legionnaire's Disease is surprisingly found to have been an industrial purification installation known as a scrubber, a device which cleans air using water. Reportedly, such facilities have never before caused a Legionnaire's outbreak anywhere in the world. Ten people have been killed, and 52 infected, in the outbreak, which is Norway's largest ever. ](/news/2005/06/8/the-infection-source-of-norway-s-recent-outbreak-of-legionnaire-s-disease-is-surprisingly-found-to-have-been-an-industrial-purification-ins.md)
 _Context: Legionellosis, Norway, scrubber_

@@ -1,7 +1,7 @@
 ## [2015-06-4](/news/2015/06/4/index.md)
 
 ### [Several rockets were fired from Gaza at Israel and exploded near the cities of Ashdod, Netivot and Ashkelon causing no casualties. The IDF retaliated with airstrikes against empty Hamas training camps in Gaza. ](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.md)
-_Context: Ashdod, Ashkelon, Gaza, Hamas, Israel, Israel Defense Forces, Netivot_
+_Context: Ashdod, Ashkelon, Gaza Strip, Hamas, Israel, Israel Defense Forces, Netivot_
 
 ### [Naxalite Insurgents kill at least 20 Indian Army soldiers and injure 12 in an attack on a convoy in the state of Manipur. ](/news/2015/06/4/naxalite-insurgents-kill-at-least-20-indian-army-soldiers-and-injure-12-in-an-attack-on-a-convoy-in-the-state-of-manipur.md)
 At least 20 soldiers are killed and 12 injured in a rebel attack on a troop convoy in the north-east Indian state of Manipur, police say.

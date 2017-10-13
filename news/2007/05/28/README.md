@@ -13,7 +13,7 @@ _Context: Democratic Republic of the Congo, Hutu_
 _Context: Baghdad, Iraqi insurgency_
 
 ### [ Officials from Iran and the United States hold their first talks since 1980 with the topic being the future of Iraq. ](/news/2007/05/28/officials-from-iran-and-the-united-states-hold-their-first-talks-since-1980-with-the-topic-being-the-future-of-iraq.md)
-_Context: 1980, Iran, Iraq, U.S._
+_Context: 1980, Iran, Iraq, United States_
 
 ### [ Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md)
 _Context: Minister of Agriculture, Toshikatsu Matsuoka_
@@ -22,7 +22,7 @@ _Context: Minister of Agriculture, Toshikatsu Matsuoka_
 _Context: Government-owned, Radio Caracas Television, TVes, television_
 
 ### [ Canada: Voters in Prince Edward Island go to the polls for provincial elections. ](/news/2007/05/28/canada-voters-in-prince-edward-island-go-to-the-polls-for-provincial-elections.md)
-_Context: Canada, Prince Edward Island_
+_Context: Canadian, Prince Edward Island_
 
 ## [Previous Day...](/news/2007/05/27/index.md)
 

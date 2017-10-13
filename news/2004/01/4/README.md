@@ -4,7 +4,7 @@
 _Context: Constitution of Afghanistan, Loya jirga_
 
 ### [ A military court in Israel sentences five Israelis to one year in jail for refusing to serve in the military because of Israel's occupation of the West Bank and Gaza Strip. (Compare conscientious objector)](/news/2004/01/4/a-military-court-in-israel-sentences-five-israelis-to-one-year-in-jail-for-refusing-to-serve-in-the-military-because-of-israel-s-occupation.md)
-_Context: Gaza, Israel, West Bank, conscientious objector, military judge, prison, refusing to serve_
+_Context: Gaza Strip, Israel, West Bank, conscientious objector, military judge, prison, refusing to serve_
 
 ### [ Exploration of Mars: American Mars probe "Spirit" mission is successful and is sending back images. Spirit is alive after rolling to a stop on the surface of Mars; confirmed by NASA's Deep Space Network (9:00 p.m. PST).](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-mission-is-successful-and-is-sending-back-images-spirit-is-alive-after-rolling-to-a-stop.md)
 _Context: Deep Space Network, Mars, Mars Exploration Rover Mission, NASA, route_

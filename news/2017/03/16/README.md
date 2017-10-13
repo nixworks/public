@@ -25,7 +25,7 @@ The Tennessee Bureau of Investigation has released new photos and information in
 Judge Theodore D. Chuang in Maryland said there was a &ldquo;convincing case&rdquo; to view the order as a &ldquo;Muslim ban.&rdquo;
 
 ### [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md)
-_Context: Brazil, EchoStar 23, Falcon 9, List of Falcon 9 and Falcon Heavy launches, SpaceX, geostationary transfer orbit_
+_Context: Brazil, EchoStar, Falcon 9, SpaceX, geostationary transfer orbit, launches_
 
 ## [Previous Day...](/news/2017/03/15/index.md)
 

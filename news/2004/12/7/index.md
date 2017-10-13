@@ -10,7 +10,7 @@ _Context: Frans van Anraat, Iran-Iraq War, Saddam Hussein, chemical warfare_
 _Context: Democratic, Eliot Spitzer, New York Governor, State Attorney General_
 
 ### [ Two Hamas militants, two Islamic Jihad members, and an Israeli soldier have died following clashes in the central Gaza Strip. ](/news/2004/12/7/two-hamas-militants-two-islamic-jihad-members-and-an-israeli-soldier-have-died-following-clashes-in-the-central-gaza-strip.md)
-_Context: Gaza, Hamas, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict_
 
 ### [ Ken Blackwell, Ohio Secretary of State and co-chair of the 2004 George W. Bush campaign in Ohio - certifies election results. Two parallel vote count efforts are pending, one claims evidence that John Kerry is the legitimate winner of Ohio. ](/news/2004/12/7/ken-blackwell-ohio-secretary-of-state-and-co-chair-of-the-2004-george-w-bush-campaign-in-ohio-a-certifies-election-results-two-paralle.md)
 _Context: 2004 George W. Bush campaign, John Kerry, Ken Blackwell, Ohio, Ohio Secretary of State_

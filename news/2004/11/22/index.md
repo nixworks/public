@@ -22,7 +22,7 @@ _Context: American Journal of Psychiatry, IQ, Mauritius, University of Southern 
 _Context: Democratic Republic of the Congo, United Nations, peace-keeping, sexual abuse_
 
 ### [ An Israeli military court indicts an unidentified outpost commander in charge of soldiers who killed a 13-year-old Palestinian girl in the Gaza Strip on October 5. ](/news/2004/11/22/an-israeli-military-court-indicts-an-unidentified-outpost-commander-in-charge-of-soldiers-who-killed-a-13-year-old-palestinian-girl-in-the.md)
-_Context: Gaza, Israel, Palestinian_
+_Context: Gaza Strip, Israel, Palestinian_
 
 ### [ In the Canadian province of Alberta, the Progressive Conservative party under Premier Ralph Klein is re-elected to a 10th consecutive term, and the fourth for Klein. The PCs drop to from 74 to 60 seats in the 83-seat legislature.](/news/2004/11/22/in-the-canadian-province-of-alberta-the-progressive-conservative-party-under-premier-ralph-klein-is-re-elected-to-a-10th-consecutive-term.md)
 _Context: Alberta, Progressive Conservative Party, Ralph Klein, re-elected_

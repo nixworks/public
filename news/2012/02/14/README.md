@@ -37,16 +37,16 @@ The Australian dollar scaled multi-month peaks against the yen and rallied on th
 A powerful cyclone bearing winds of up to 194km/h strikes the island of Madagascar, killing at least two people as it rips up trees and electricity pylons.
 
 ### [Gaza's only power station shuts down due to lack of fuel. ](/news/2012/02/14/gaza-s-only-power-station-shuts-down-due-to-lack-of-fuel.md)
-_Context: Gaza_
+_Context: Gaza Strip_
 
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
 _Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_
 
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: Barack Obama, U.S., U.S. President, Vice President, Xi Jinping_
+_Context: Barack Obama, U.S. President, United States, Vice President, Xi Jinping_
 
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: Islamabad, Pakistan, Peshawar, U.S._
+_Context: Islamabad, Pakistan, Peshawar, United States_
 
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
 _Context: Supreme Court, Venezuela, opposition_

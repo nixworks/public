@@ -22,7 +22,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Belize, strike_
 
 ### [ The U.S. chief weapons inspector, Charles Duelfer states that search of weapons of mass destruction in Iraq has "gone as far as feasible". ](/news/2005/04/26/the-u-s-chief-weapons-inspector-charles-duelfer-states-that-search-of-weapons-of-mass-destruction-in-iraq-has-gone-as-far-as-feasible.md)
-_Context: Charles Duelfer, Iraq, U.S., weapons of mass destruction_
+_Context: Charles Duelfer, Iraq, United States, weapons of mass destruction_
 
 ### [ Military action in Lebanon: After three decades, all Syrian troops leave Lebanon, fulfilling UN Security Council Resolution 1559. ](/news/2005/04/26/military-action-in-lebanon-after-three-decades-all-syrian-troops-leave-lebanon-fulfilling-un-security-council-resolution-1559.md)
 Today, as the last Syrian troops depart from the country they have occupied for 29 years, the Lebanese will likely breathe a sigh of relief. But they won&#39;t have much time to savor the sweetness of their newfound liberty; they are now left with the task of managing their own affairs, and there is...
@@ -31,7 +31,7 @@ Today, as the last Syrian troops depart from the country they have occupied for 
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Following Canadian Prime Minister Paul Martin's plea on national television that a re-election ought to be delayed until the Gomery Commission has completed its report on the sponsorship scandal, a deal between the governing Liberal Party and the New Democratic Party may avoid the election in the near future as predicted earlier last week. ](/news/2005/04/26/following-canadian-prime-minister-paul-martin-s-plea-on-national-television-that-a-re-election-ought-to-be-delayed-until-the-gomery-commiss.md)
-_Context: Canada, Gomery Commission, Liberal Party's, New Democratic Party, Paul Martin, Prime Minister of Canada, election, sponsorship scandal_
+_Context: Canadian, Gomery Commission, Liberal Party's, New Democratic Party, Paul Martin, Prime Minister of Canada, election, sponsorship scandal_
 
 ## [Previous Day...](/news/2005/04/25/index.md)
 

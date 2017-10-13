@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Swedish, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
+_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_

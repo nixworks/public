@@ -7,7 +7,7 @@ A Chinese envoy visiting Syria calls on all sides in the country to end violence
 _Context: Dakar, Senegal_
 
 ### [The death toll from a bombing on Friday in the Pakistani town of Parachinar in the Kurram region rises to 32. ](/news/2012/02/18/the-death-toll-from-a-bombing-on-friday-in-the-pakistani-town-of-parachinar-in-the-kurram-region-rises-to-32.md)
-_Context: Kurram, Pakistan, Parachinar_
+_Context: Kurram Valley, Pakistan, Parachinar_
 
 ### [USA drone airstrikes kill at least 21 suspected militants in North Waziristan, Pakistan. ](/news/2012/02/18/usa-drone-airstrikes-kill-at-least-21-suspected-militants-in-north-waziristan-pakistan.md)
 _Context: North Waziristan_

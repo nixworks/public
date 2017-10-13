@@ -70,7 +70,7 @@ _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 _Context: Asif Ali Zardari, David Cameron, United Kingdom, president_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: EU, Germany, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, funeral_
+_Context: EU, Germany, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, funeral_
 
 ### [Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. ](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.md)
 _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_
@@ -82,7 +82,7 @@ A civil rights group files a legal challenge to obtain a licence to represent Mu
 A trial opens in Kuwait of six men, including a Kuwaiti soldier, and one woman accused of spying for Iran.
 
 ### [Canada's Transportation Minister John Baird orders an inquiry after a video surfaces showing two figures boarding a flight without showing their faces. ](/news/2010/08/3/canada-s-transportation-minister-john-baird-orders-an-inquiry-after-a-video-surfaces-showing-two-figures-boarding-a-flight-without-showing-t.md)
-_Context: Canada, John Baird_
+_Context: Canadian, John Baird_
 
 ### [Jackie Selebi, former chief of Interpol and South Africa's top police officer, is sentenced to 15 years in prison on corruption charges. ](/news/2010/08/3/jackie-selebi-former-chief-of-interpol-and-south-africa-s-top-police-officer-is-sentenced-to-15-years-in-prison-on-corruption-charges.md)
 Jackie Selebi sentenced to 15 years in jail for accepting bribes from organised crime.
@@ -91,7 +91,7 @@ Jackie Selebi sentenced to 15 years in jail for accepting bribes from organised 
 A Rwandan ex-administrator arrested in France in 2007 is sentenced to 25 years for transporting soldiers during the genocide.
 
 ### [The United States' Federal Bureau of Investigation (FBI) posts a letter to the offices of online encyclopedia project Wikipedia, threatening fines and imprisonments over what it claims is the "particularly problematic" use of the agency's seal. [http:--www.bbc.co.uk-news-technology-10851394 (BBC)] [http:--edition.cnn.com-2010-TECH-web-08-03-fbi.seal.wikipedia-index.html?eref=rss_topstories (CNN)] [http:--www.vanityfair.com-online-daily-2010-08-today-in-intelligence-the-fbi-picks-a-fight-with-wikipedia.html ("Vanity Fair")] (Wikipedia entry)](/news/2010/08/3/the-united-states-federal-bureau-of-investigation-fbi-posts-a-letter-to-the-offices-of-online-encyclopedia-project-wikipedia-threatening.md)
-_Context: FBI, U.S., Wikipedia_
+_Context: FBI, United States, Wikipedia_
 
 ### [Saudi Arabia announces it is to commence a ban on the "messenger function" on BlackBerry handsets from Friday due to security concerns over the Research In Motion (RIM) technological device. ](/news/2010/08/3/saudi-arabia-announces-it-is-to-commence-a-ban-on-the-messenger-function-on-blackberry-handsets-from-friday-due-to-security-concerns-over.md)
 The authorities in Saudi Arabia tell telecoms firms to block the messenger function on Blackberry handsets from Friday.

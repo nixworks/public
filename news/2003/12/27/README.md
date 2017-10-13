@@ -4,7 +4,7 @@
 _Context: Bam, Iran, Israel_
 
 ### [ The U.S. Department of Agriculture announces that it believes the BSE infected cow detected in Washington state was imported from Canada in 2001. The location of the other 73 cows imported with it is unknown. [http:--news.bbc.co.uk-1-hi-world-americas-3351547.stm]](/news/2003/12/27/the-u-s-department-of-agriculture-announces-that-it-believes-the-bse-infected-cow-detected-in-washington-state-was-imported-from-canada-in.md)
-_Context: 2001, Canada, U.S. state, United States Department of Agriculture, Washington, mad cow disease_
+_Context: 2001, Canadian, U.S. state, United States Department of Agriculture, Washington, mad cow disease_
 
 ### [ Romano Prodi, the President of the European Commission, survives a letter bomb attack. ](/news/2003/12/27/romano-prodi-the-president-of-the-european-commission-survives-a-letter-bomb-attack.md)
 _Context: European Commission, President of the European Commission, Romano Prodi, letter bomb_

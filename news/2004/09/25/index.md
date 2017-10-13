@@ -4,7 +4,7 @@
 _Context: 2004 Atlantic hurricane season, Bahamas, Hurricane Jeanne, Saffir-Simpson Hurricane Scale, Stuart, Florida, landfall_
 
 ### [ Israeli army bulldozers tear down buildings in the Gaza refugee camp of Khan Yunis, one day after mortars fired from the camp killed an Israeli settler. UNRWA officials say over 200 Palestinians lost their homes or shelters. ](/news/2004/09/25/israeli-army-bulldozers-tear-down-buildings-in-the-gaza-refugee-camp-of-khan-yunis-one-day-after-mortars-fired-from-the-camp-killed-an-isr.md)
-_Context: Gaza, Israel, Israeli settlement, Khan Yunis, Mortar, Palestinians, UNRWA_
+_Context: Gaza Strip, Israel, Israeli settlement, Khan Yunis, Mortar, Palestinians, UNRWA_
 
 ### [ U.S. air strikes on the Iraqi city of Fallujah destroy several buildings. The U.S. military says no civilians were reported in the area, but a hospital official says at least eight civilians were killed, and television broadcasts show civilian survivors, including an infant, being pulled out of a destroyed building. ](/news/2004/09/25/u-s-air-strikes-on-the-iraqi-city-of-fallujah-destroy-several-buildings-the-u-s-military-says-no-civilians-were-reported-in-the-area-bu.md)
 _Context: Fallujah, Iraq, civilian, hospital, television_

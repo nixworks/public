@@ -13,7 +13,7 @@ _Context: Guantnamo Bay detainment camp, menstrual, sexual assault_
 _Context: Asia, Nina Wang_
 
 ### [ Israeli-Palestinian Conflict: Hamas, contesting their first election, have swept to power in local elections in Gaza. ](/news/2005/01/28/israeli-palestinian-conflict-hamas-contesting-their-first-election-have-swept-to-power-in-local-elections-in-gaza.md)
-_Context: Gaza, Hamas, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Hamas, Israeli-Palestinian conflict_
 
 ### [ Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. ](/news/2005/01/28/kim-beazley-is-re-elected-to-the-leadership-of-the-australian-labor-party-unopposed-succeeding-mark-latham-in-the-fourth-leadership-chang.md)
 _Context: 1996, Kim Beazley, Labor Party, Mark Latham_

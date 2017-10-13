@@ -28,7 +28,7 @@ Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday af
 _Context: AFC Cup, Lebanon, Singapore, association football, corruption, free sex, match fixing, referees_
 
 ### [Rehtaeh Parsons, a 17-year-old Canadian gang-rape victim from Halifax, Novia Scotia, is taken off of life support and dies three days after a suicide attempt. Parson's claimed to have been raped when she was 15, she had been bullied ever since the alleged incident; officials with the Royal Canadian Mounted Police and the justice system are deciding whether to file charges. ](/news/2013/04/7/rehtaeh-parsons-a-17-year-old-canadian-gang-rape-victim-from-halifax-novia-scotia-is-taken-off-of-life-support-and-dies-three-days-after.md)
-_Context: Canada, Halifax, Novia Scotia, Rehtaeh Parsons, Royal Canadian Mounted Police, gang rape, life support, suicide_
+_Context: Canadian, Halifax, Novia Scotia, Rehtaeh Parsons, Royal Canadian Mounted Police, gang rape, life support, suicide_
 
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)
 Incumbent Vujanovic holds lead in opinion polls going into election day, as statehood issue dominates voter concerns.

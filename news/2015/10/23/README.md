@@ -28,7 +28,7 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic blaze’ near town 40 miles east of Bordeaux
 
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, U.S._
+_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, United States_
 
 ### [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md)
 Confucius peace prize chairman defends decision to give award to leader accused of using systematic violence and torture to maintain grip on power

@@ -22,7 +22,7 @@ A Chinese artist was noticeably absent from his own exhibit in New York after ha
 Award-winning Bollywood actor Shiney Ahuja, who was sentenced to seven years in prison for raping his maid, is released on bail.
 
 ### [Daniel Barenboim, a conductor and pianist and "supporter of Palestinian rights", holds a "Peace Concert" in the Gaza Strip. ](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.md)
-_Context: Daniel Barenboim, Gaza, Palestinian_
+_Context: Daniel Barenboim, Gaza Strip, Palestinian_
 
 ### [Richard Branson announces that the operations of airlines Virgin Blue, V Australia and Pacific Blue will be merged to form Virgin Australia. ](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.md)
 Richard Branson has finally unveiled one of the worst-kept secrets in Australian aviation.

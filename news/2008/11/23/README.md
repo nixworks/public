@@ -16,7 +16,7 @@ _Context: African Party for the Independence of Guinea and Cape Verde, Guinea-Bi
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
 ### [ Scientists led by the University of Calgary are searching for the remains of a meteorite that is believed to have struck northern Canada, around the border of Alberta and Saskatchewan, overnight. ](/news/2008/11/23/scientists-led-by-the-university-of-calgary-are-searching-for-the-remains-of-a-meteorite-that-is-believed-to-have-struck-northern-canada-a.md)
-_Context: Alberta, Canada, Saskatchewan, University of Calgary, a meteorite_
+_Context: Alberta, Canadian, Saskatchewan, University of Calgary, a meteorite_
 
 ### [ Venezuelans go to the polls for regional elections. Allies of President Hugo Chvez win 17 of 21 governorships, but the opposition wins in the two biggest states of Miranda and Zulia as well as the mayorship of Caracas. ](/news/2008/11/23/venezuelans-go-to-the-polls-for-regional-elections-allies-of-president-hugo-chavez-win-17-of-21-governorships-but-the-opposition-wins-in.md)
 _Context: Caracas, Hugo Chvez, Miranda, Venezuela, Venezuelan President, Zulia, opposition, regional elections, states_
