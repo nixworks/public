@@ -3,6 +3,9 @@
 ### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
 Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.
 
+### [The Boy Scouts of America announces that girls may join as full members of the Cub Scouts beginning in 2018. Young women may join as full members of the Boy Scouts and earn the highest rank of Eagle Scout beginning in 2019. ](/news/2017/10/11/the-boy-scouts-of-america-announces-that-girls-may-join-as-full-members-of-the-cub-scouts-beginning-in-2018-young-women-may-join-as-full-me.md)
+ NEW YORK (AP) — In its latest momentous policy shift, the Boy Scouts of America will admit girls into the Cub Scouts starting next year and establish a new program for older girls
+
 ### [The death toll grows to 23 people with 285 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-285-people-still-missing.md)
 More people have been evacuated as crews battle heavy winds Wednesday and a spread of the massive wildfires in Northern California. Meanwhile, the National Weather Service issues a red flag warning forecasting dangerous fire conditions.
 

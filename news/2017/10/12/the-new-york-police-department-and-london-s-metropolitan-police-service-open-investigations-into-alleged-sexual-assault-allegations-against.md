@@ -8,7 +8,10 @@ Forces in New York and London look into allegations against movie mogul Harvey W
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-41597159)
-1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/A2A6/production/_98283614_harveyweinstein_gettyimages-687430878.jpg)
+2. [Fox News](http://www.foxnews.com/entertainment/2017/10/12/did-nbc-news-president-have-ties-to-harvey-weinstein-company-refuses-to-say.html)
+3. [Reuters](http://www.reuters.com/article/us-people-roy-price/amazon-studios-chief-roy-price-suspended-following-harassment-allegation-idUSKBN1CI03X)
+4. [The New York Times](https://www.nytimes.com/2017/10/11/business/media/nbc-news-harvey-weinstein.html)
+4. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/A2A6/production/_98283614_harveyweinstein_gettyimages-687430878.jpg)
 
 ### Related:
 

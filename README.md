@@ -3,7 +3,10 @@
 ### [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 
-### [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 37 people with 40 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-37-people-with-40-more-missing.md)
+### [As had been previously reported on October 9, Japan's third-biggest steelmaker, Kobe Steel, now admits to further falsification of product data. Steel wire products did not meet the specifications requested by customers. ](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.md)
+Crisis-hit Kobe Steel Ltd (5406.T) said on Friday its steel division has also falsely labeled products, the latest in a string of revelations confirming widespread cheating at the firm that has engulfed its global customers.
+
+### [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.md)
 Another 40 people are missing, including a journalist who was swept away after a bridge collapsed.
 
 ### [Various local safety officials report a total of at least 31 people have been killed by the 17 fires, while almost half (437) of the 900 reported missing in Sonoma County have been located. ](/news/2017/10/12/various-local-safety-officials-report-a-total-of-at-least-31-people-have-been-killed-by-the-17-fires-while-almost-half-437-of-the-900-rep.md)
@@ -37,6 +40,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
 Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.
+
+### [The Boy Scouts of America announces that girls may join as full members of the Cub Scouts beginning in 2018. Young women may join as full members of the Boy Scouts and earn the highest rank of Eagle Scout beginning in 2019. ](/news/2017/10/11/the-boy-scouts-of-america-announces-that-girls-may-join-as-full-members-of-the-cub-scouts-beginning-in-2018-young-women-may-join-as-full-me.md)
+ NEW YORK (AP) — In its latest momentous policy shift, the Boy Scouts of America will admit girls into the Cub Scouts starting next year and establish a new program for older girls
 
 ### [The death toll grows to 23 people with 285 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-285-people-still-missing.md)
 More people have been evacuated as crews battle heavy winds Wednesday and a spread of the massive wildfires in Northern California. Meanwhile, the National Weather Service issues a red flag warning forecasting dangerous fire conditions.
