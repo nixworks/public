@@ -1,9 +1,14 @@
 ### [2017-10-13](/news/2017/10/13/index.md)
 
-# The head of the Financial Conduct Authority (FCA) has admitted meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange.
+# The head of the Financial Conduct Authority (FCA) has admitted meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. 
+
+The regulator was criticised for proposing changes to UK listing rules to accommodate the oil giant.
 
 
+### Source:
 
+1. [BBC](http://www.bbc.com/news/business-41610083)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/488F/production/_87557581_87557580.jpg)
 
 ### Related:
 
