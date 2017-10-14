@@ -3,6 +3,9 @@
 ### [More than 30 people are killed when a explosive filled lorry detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/more-than-30-people-are-killed-when-a-explosive-filled-lorry-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
 The death toll is expected to rise after an explosives-laden truck detonated in Mogadishu.
 
+### [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behaviour. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md)
+The Board of Directors of the Academy of Motion Picture Arts and Sciences has stripped disgraced mogul Harvey Weinstein of his membership in the organization. The move comes after a New York Times report that alleged decades of sexual misbehavior by Weinstein, and a New Yorker story that brought mor...
+
 ### [A small-scale study has determined that psilocybin mushrooms, that contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-that-contain-the-drug-psilocybin-can-treat-depression.md)
 Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression, a study suggests.
 
@@ -14,8 +17,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/13/index.md)
 
-### [A group of 131 civil organizations with known ties to drug use urge Apple Inc. to stop sponsoring apps that relate to the Philippine Drug War. ](/news/2017/10/13/a-group-of-131-civil-organizations-with-known-ties-to-drug-use-urge-apple-inc-to-stop-sponsoring-apps-that-relate-to-the-philippine-drug-wa.md)
-_Context: Apple Inc., Human rights in the Philippines, Philippine Drug War, apps_
+### [A group of civil society organizations has demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-has-demanded-that-apple-inc-remove-from-its-app-store-games-it-said-violated-the-tech-firm-s-guideli.md)
+_Context: App Store, Apple Inc., Human rights in the Philippines, Philippine Drug War_
 
 ### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-gbp1-5.md)
 The regulator was criticised for proposing changes to UK listing rules to accommodate the oil giant.
@@ -23,7 +26,7 @@ The regulator was criticised for proposing changes to UK listing rules to accomm
 ### [U.S.-based electric automobile maker Tesla fires 400 employees. ](/news/2017/10/13/u-s-based-electric-automobile-maker-tesla-fires-400-employees.md)
 Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this week, including associates, team leaders and supervisors, a former employee told Reuters on Friday.
 
-### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz (1922-2000); his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-1922-2000-his-wi.md)
+### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md)
 Every four seconds an area of forest the size of a football field is being destroyed by the blazes.
 
 ### [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md)
