@@ -1,9 +1,9 @@
-## [News](/news/2017/10/15/index.md)
+## [News](/news/2017/10/14/index.md)
 
-### [Voters in Austria go to the polls to elect all 183 members of the National Council. Opinion polling predicts that Sebastian Kurz of the right-wing Austrian People's Party will become the new Chancellor. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-all-183-members-of-the-national-council-opinion-polling-predicts-that-sebastian-kurz-of-the-righ.md)
+### [Voters in Austria go to the polls to elect all 183 members of the National Council. Opinion polling predicts that Sebastian Kurz of the right-wing Austrian People's Party will become the new Chancellor. ](/news/2017/10/14/voters-in-austria-go-to-the-polls-to-elect-all-183-members-of-the-national-council-opinion-polling-predicts-that-sebastian-kurz-of-the-righ.md)
 _Context: Austria, Austrian People's Party, Austrian legislative election, 2017, Chancellor, National Council, Opinion polling, Sebastian Kurz_
 
-### [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md)
+### [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/14/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md)
 Former Soviet republics are not really known for peaceful, democratic transitions. Will Bishkek turn the tide?
 
 ## Opinion
@@ -34,6 +34,9 @@ U.S. President Donald Trump struck a blow against the 2015 Iran nuclear agreemen
 
 ### [U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. ](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.md)
 Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.
+
+### [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md)
+He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
 
 ---
 

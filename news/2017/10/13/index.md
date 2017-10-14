@@ -21,5 +21,8 @@ U.S. President Donald Trump struck a blow against the 2015 Iran nuclear agreemen
 ### [U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. ](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.md)
 Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.
 
+### [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md)
+He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
+
 ## [Previous Day...](/news/2017/10/12/index.md)
 
