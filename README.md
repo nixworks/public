@@ -1,18 +1,4 @@
-## [News](/news/2017/10/14/index.md)
-
-### [Voters in Austria go to the polls to elect all 183 members of the National Council. Opinion polling predicts that Sebastian Kurz of the right-wing Austrian People's Party will become the new Chancellor. ](/news/2017/10/14/voters-in-austria-go-to-the-polls-to-elect-all-183-members-of-the-national-council-opinion-polling-predicts-that-sebastian-kurz-of-the-righ.md)
-_Context: Austria, Austrian People's Party, Austrian legislative election, 2017, Chancellor, National Council, Opinion polling, Sebastian Kurz_
-
-### [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/14/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md)
-Former Soviet republics are not really known for peaceful, democratic transitions. Will Bishkek turn the tide?
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2017/10/13/index.md)
+## [News](/news/2017/10/13/index.md)
 
 ### [A group of 131 organizations urge Apple Inc. to stop sponsoring apps that relate to the Philippine Drug War. ](/news/2017/10/13/a-group-of-131-organizations-urge-apple-inc-to-stop-sponsoring-apps-that-relate-to-the-philippine-drug-war.md)
 _Context: Apple Inc., Human rights in the Philippines, Philippine Drug War, apps_
@@ -38,9 +24,13 @@ Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access t
 ### [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md)
 He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
 
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2017/10/12/index.md)
+## [Yesterday](/news/2017/10/12/index.md)
 
 ### [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
@@ -74,7 +64,35 @@ Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and eme
 
 ---
 
-## [Previous Day...](/news/2017/10/11/index.md)
+## [Day Before Yesterday](/news/2017/10/11/index.md)
+
+### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
+Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.
+
+### [The Boy Scouts of America announces that girls may join as full members of the Cub Scouts beginning in 2018. Young women may join as full members of the Boy Scouts and earn the highest rank of Eagle Scout beginning in 2019. ](/news/2017/10/11/the-boy-scouts-of-america-announces-that-girls-may-join-as-full-members-of-the-cub-scouts-beginning-in-2018-young-women-may-join-as-full-me.md)
+ NEW YORK (AP) — In its latest momentous policy shift, the Boy Scouts of America will admit girls into the Cub Scouts starting next year and establish a new program for older girls
+
+### [The death toll grows to 23 people with 285 people still missing. ](/news/2017/10/11/the-death-toll-grows-to-23-people-with-285-people-still-missing.md)
+More people have been evacuated as crews battle heavy winds Wednesday and a spread of the massive wildfires in Northern California. Meanwhile, the National Weather Service issues a red flag warning forecasting dangerous fire conditions.
+
+### [Shinmoedake volcano erupts for the first time in six years. ](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-in-six-years.md)
+Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki prefectures erupted early Wednesday, marking its first such activity in abou
+
+### [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md)
+_Context: Australia, Cybercrime, Joint Strike Fighter program_
+
+### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
+_Context: 2007, Alberto Fujimori, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, human rights violations, tongue cancer_
+
+### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md)
+It’s the only dwarf planet to have a ring — as far as we know
+
+### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite for Luxembourg-based SES and U.S.-headquartered EchoStar. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
+_Context: 9 Full Thrust, Airbus, Cape Canaveral, EchoStar, Falcon, Florida, Luxembourg, SES, SpaceX, Spaceflight, United States, launches, supersynchronous orbit_
+
+---
+
+## [Previous Day...](/news/2017/10/10/index.md)
 
 ---
 
