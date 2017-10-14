@@ -118,7 +118,7 @@ _Context: recent election_
 _Context: Marble Bar, Solar-powered, Western Australia, diesel fuel, power plants_
 
 ### [Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http:--www.bbc.co.uk-news-science-environment-11023530 (BBC)] 10.1111-j.1420-9101.2010.02074.x. Evol. Biol.")](/news/2010/08/20/scientists-publish-a-report-in-the-journal-of-evolutionary-biology-about-a-method-of-predicting-radioactive-contamination-damage-on-specie.md)
-_Context: Chernobyl, DNA mutation, Journal of Evolutionary Biology, mitochondrial DNA, species_
+_Context: Chernobyl, Journal of Evolutionary Biology, mitochondrial DNA, mutation, species_
 
 ### [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http:--www.telegraph.co.uk-health-healthnews-7953967-Ketamine-is-magic-drug-for-depression.html ("The Daily Telegraph")] 10.1126-science.1190287 ("Science")](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md)
 _Context: ketamine, mTOR, nervous system, synapse_

@@ -50,7 +50,7 @@ Evacuated villagers to be allowed to return home after an international firefigh
 Body of German tourist washes up on shore of Sharm el-Sheikh, just days after four divers were injured by sharks.
 
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
-_Context: State of Palestine, West Bank_
+_Context: Palestinian, West Bank_
 
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
 _Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_

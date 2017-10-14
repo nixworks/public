@@ -10,7 +10,7 @@ _Context: Queen Elizabeth II, Salford, England, The Lowry_
 _Context: Christ the Saviour Cathedral, Moscow_
 
 ### [Taking off from a grass strip at a lodge in Kelowna, British Columbia, Canada, a Piper PA-24 Comanche piloted by Colorado State Representative Gary McPherson is unable to gain altitude and crashes into the trees, killing McPherson and two people on board.](/news/2000/10/12/taking-off-from-a-grass-strip-at-a-lodge-in-kelowna-british-columbia-canada-a-piper-pa-24-comanche-piloted-by-colorado-state-representati.md)
-_Context: British Columbia, Canadian, Colorado, Kelowna, Piper PA-24 Comanche, State Representative_
+_Context: British Columbia, Canada, Colorado, Kelowna, Piper PA-24 Comanche, State Representative_
 
 ## [Previous Day...](/news/2000/10/11/index.md)
 

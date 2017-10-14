@@ -16,7 +16,7 @@ _Context: Constituent Assembly, Kathmandu, Nepal, rallies_
 _Context: Ethiopia, Mengistu Haile Mariam, Red Terror, former ruler_
 
 ### [ Embattled Canadian Minister of Foreign Affairs Maxime Bernier resigns after admitting to having left confidential documents unsecured in a private home. ](/news/2008/05/26/embattled-canadian-minister-of-foreign-affairs-maxime-bernier-resigns-after-admitting-to-having-left-confidential-documents-unsecured-in-a.md)
-_Context: Canadian, Maxime Bernier, Minister of Foreign Affairs_
+_Context: Canada, Maxime Bernier, Minister of Foreign Affairs_
 
 ### [ The BJP wins a plurality in elections in the Indian state of Karnataka. ](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.md)
 _Context: Bharatiya Janata Party, Karnataka, elections_

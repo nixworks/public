@@ -1,7 +1,7 @@
 ## [2005-06-13](/news/2005/06/13/index.md)
 
 ### [ In Canada, after 5 days of non-stop rain, the city of Calgary, AB is under its first local state of emergency. The Elbow River has risen to an extreme high and the town of Bragg Creek, just west of the city, is totally evacuated. This would be the first of 3 waves of major flooding.](/news/2005/06/13/in-canada-after-5-days-of-non-stop-rain-the-city-of-calgary-ab-is-under-its-first-local-state-of-emergency-the-elbow-river-has-risen-to.md)
-_Context: Bragg Creek, Calgary, AB, Canadian, Elbow River_
+_Context: Bragg Creek, Calgary, AB, Canada, Elbow River_
 
 ### [ An earthquake of magnitude 7.9 hits Chile with epicenter in the northern region of Tarapaca near the Bolivian border, killing at least 8 people. ](/news/2005/06/13/an-earthquake-of-magnitude-7-9-hits-chile-with-epicenter-in-the-northern-region-of-tarapaca-near-the-bolivian-border-killing-at-least-8-pe.md)
 _Context: Bolivia, Chile, Tarapaca, earthquake, epicenter_
@@ -31,7 +31,7 @@ _Context: Australia, East Timor, peacekeepers_
 _Context: Daewoo, Kim Woo Choong, South Korea, fraud_
 
 ### [ In Canada, Cineplex Odeon announces that it is purchasing Famous Players, uniting the two largest movie theatre chains. Famous Players is currently owned by Viacom and will be purchased for about $500 million CAD. In fear of unfair competition, the Federal Commission of Competition has announced that Cineplex needs to sell off 35 of its theatres. ](/news/2005/06/13/in-canada-cineplex-odeon-announces-that-it-is-purchasing-famous-players-uniting-the-two-largest-movie-theatre-chains-famous-players-is-c.md)
-_Context: CAN$, Canadian, Cineplex Odeon, Famous Players, Viacom_
+_Context: CAN$, Canada, Cineplex Odeon, Famous Players, Viacom_
 
 ### [ In Nigeria, president Olusegun Obasanjo gives an order that all illegal oil refineries in the Niger River delta should be destroyed ](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.md)
 _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_

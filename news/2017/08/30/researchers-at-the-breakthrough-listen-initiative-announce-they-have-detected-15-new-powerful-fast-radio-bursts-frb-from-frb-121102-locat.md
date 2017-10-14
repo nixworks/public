@@ -13,7 +13,7 @@ Breakthrough Listen detected more radio pulses from the famous repeating source 
 
 ### Related:
 
-1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _Context: Earth_
+1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Earth_
 2. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
 3. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _Context: Earth_
 4. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_

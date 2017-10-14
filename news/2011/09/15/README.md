@@ -22,7 +22,7 @@ Rescue services send divers to a flooded mine as a major operation to rescue fou
 _Context: Cuba, Japan, New Zealand, Vancouver Island_
 
 ### [Hurricane Maria passes Bermuda on its way to Newfoundland off the coast of Canada. ](/news/2011/09/15/hurricane-maria-passes-bermuda-on-its-way-to-newfoundland-off-the-coast-of-canada.md)
-_Context: Bermuda, Canadian, Hurricane Maria, Newfoundland and Labrador_
+_Context: Bermuda, Canada, Hurricane Maria, Newfoundland and Labrador_
 
 ### [The Norwegian cruise ship Nordlys 2 catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md)
 _Context: Alesund, cruise ship_

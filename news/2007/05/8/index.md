@@ -7,7 +7,7 @@ Six people have been arrested on allegations of plotting to kill soldiers at an 
 _Context: Bill Clinton, Third World, U.S. President, anti-AIDS drugs_
 
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
-_Context: Andre Boisclair, Canadian, Parti Quebecois_
+_Context: Andre Boisclair, Canada, Parti Quebecois_
 
 ### [ The Treasurer of Australia Peter Costello delivers his twelfth budget with significant tax cuts and increases in government spending on education and health. ](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.md)
 _Context: Peter Costello, Treasurer of Australia, budget_

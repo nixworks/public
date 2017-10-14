@@ -34,7 +34,7 @@ _Context: Mwanza Province, Tanzania_
 The US Coast Guard re-opens a section of the swollen Mississippi River to shipping, after closing it to protect strained flood defences.
 
 ### [A tornado hits the US city of Philadelphia, Pennsylvania for the first time since 1999. ](/news/2011/05/18/a-tornado-hits-the-us-city-of-philadelphia-pennsylvania-for-the-first-time-since-1999.md)
-_Context: Pennsylvania, Philadelphia, tornado_
+_Context: Pennsylvania, Philadelphia, Pennsylvania, tornado_
 
 ### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause. ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
 _Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol Lneas Areas_

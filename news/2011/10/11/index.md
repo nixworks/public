@@ -40,7 +40,7 @@ _Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, Nobel 
 _Context: Myanmar, National Human Rights Commission, President of Burma, Thein Sein, amnesty_
 
 ### [Voters in the Canadian province of Newfoundland and Labrador go to the polls for general election with the Progressive Conservative Party winning its third straight majority and its leader Kathy Dunderdale becoming the first woman elected as Premier of the province. ](/news/2011/10/11/voters-in-the-canadian-province-of-newfoundland-and-labrador-go-to-the-polls-for-general-election-with-the-progressive-conservative-party-wi.md)
-_Context: Canadian, Kathy Dunderdale, Newfoundland and Labrador, Premier of the province, Progressive Conservative Party, general election_
+_Context: Canada, Kathy Dunderdale, Newfoundland and Labrador, Premier of the province, Progressive Conservative Party, general election_
 
 ### [In the Yukon Territory voters re-elect the Yukon Party under Premier Darrell Pasloski, with an NDP official opposition. ](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.md)
 _Context: Darrell Pasloski, NDP, Yukon, Yukon Party, re-elect_

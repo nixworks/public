@@ -12,7 +12,7 @@ The early Earth was mixed with a baby planet called Theia following a head on co
 
 ### Related:
 
-1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _Context: Earth, Moon_
+1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Earth, Moon_
 2. [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md) _Context: Moon, UCLA_
 3. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_
 4. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: Earth, Moon_

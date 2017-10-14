@@ -16,7 +16,7 @@ _Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Y
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
 
 ### [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md)
-_Context: BlackBerry Limited, Canadian, Pakistan, government, user privacy_
+_Context: BlackBerry Limited, Canada, Pakistan, government, user privacy_
 
 ### [The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. ](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.md)
 _Context: China, International Monetary Fund, benchmark currency basket, yuan_

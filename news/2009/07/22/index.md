@@ -10,7 +10,7 @@ _Context: Abyei, Permanent Court of Arbitration's, Sudan, The Hague_
 The longest solar eclipse of the 21st century cast a shadow over much of Asia, plunging hundreds of millions into darkness.
 
 ### [ The first Tamiflu-resistant H1N1 case is found in Canada, bringing the world total of such cases to five. ](/news/2009/07/22/the-first-tamiflu-resistant-h1n1-case-is-found-in-canada-bringing-the-world-total-of-such-cases-to-five.md)
-_Context: Canadian, H1N1, Tamiflu_
+_Context: Canada, H1N1, Tamiflu_
 
 ### [ Ireland's Council of State meets to consider two pieces of controversial legislation at ras an Uachtarin in Dublin. ](/news/2009/07/22/ireland-s-council-of-state-meets-to-consider-two-pieces-of-controversial-legislation-at-aras-an-uachtarain-in-dublin.md)
 President McAleese has indictated that her decision on whether she will refer two pieces of legislation to the Supreme Court to test their constitutionality will be announced tomorrow.

@@ -1,7 +1,7 @@
 ## [2008-08-25](/news/2008/08/25/index.md)
 
 ### [ Canadian authorities report 12 people have died in the listeriosis outbreak traced to a Maple Leaf Foods plant in Toronto. ](/news/2008/08/25/canadian-authorities-report-12-people-have-died-in-the-listeriosis-outbreak-traced-to-a-maple-leaf-foods-plant-in-toronto.md)
-_Context: Canadian, Maple Leaf Foods, Toronto, listeriosis outbreak_
+_Context: Canada, Maple Leaf Foods, Toronto, listeriosis outbreak_
 
 ### [ The 2008 National Convention of the U.S. Democratic Party begins in Denver, Colorado. ](/news/2008/08/25/the-2008-national-convention-of-the-u-s-democratic-party-begins-in-denver-colorado.md)
 _Context: 2008 National Convention, Colorado, Democratic, Denver, U.S._

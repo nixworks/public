@@ -4,7 +4,7 @@
 _Context: Don Benito, Spain_
 
 ### [Canadians riot with firefighters and police in London, Ontario. ](/news/2012/03/18/canadians-riot-with-firefighters-and-police-in-london-ontario.md)
-_Context: Canadians, London, Ontario_
+_Context: Canadian, London, Ontario_
 
 ### [Pakistani villagers find 13 bodies with bullet wounds in the Federally Administered Tribal Areas near Afghanistan as security forces step up an offensive. ](/news/2012/03/18/pakistani-villagers-find-13-bodies-with-bullet-wounds-in-the-federally-administered-tribal-areas-near-afghanistan-as-security-forces-step-up.md)
 Villagers found 14 bullet-ridden bodies scattered around the Bara area of the northwestern Khyber tribal region near the Afghanistan border on Sunday, as Pakistani security forces step up military offensives against militants.

@@ -25,7 +25,7 @@ CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late L
 _Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer goods_
 
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md)
-_Context: Canadian, David Lloyd Johnston, Governor General of Canada, Michaelle Jean, University of Waterloo_
+_Context: Canada, David Lloyd Johnston, Governor General of Canada, Michaelle Jean, University of Waterloo_
 
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
 _Context: Michael Steele, Republican, United States, War in Afghanistan (2001-present)_

@@ -100,7 +100,7 @@ _Context: North Korea, rain_
 Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war games officially focused on fighting terrorism, but which Beijing hopes will also boost its presence in an energy-rich region.
 
 ### [ Canadian Prime Minister Stephen Harper shuffles his cabinet. Among the changes, embattled defence minister Gordon O'Connor and heritage minister Bev Oda are moved to National Revenue and International Cooperation and replaced by Peter Mackay and Josee Verner, respectively. ](/news/2007/08/14/canadian-prime-minister-stephen-harper-shuffles-his-cabinet-among-the-changes-embattled-defence-minister-gordon-o-connor-and-heritage-min.md)
-_Context: Bev Oda, Canadian, Gordon O'Connor, Josee Verner, Peter MacKay, Prime Minister of Canada, Stephen Harper, new Cabinet_
+_Context: Bev Oda, Canada, Gordon O'Connor, Josee Verner, Peter MacKay, Prime Minister of Canada, Stephen Harper, new Cabinet_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

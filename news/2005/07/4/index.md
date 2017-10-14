@@ -10,7 +10,7 @@ _Context: Elections in Burundi, Forces for the Defence of Democracy, Hutu, Hutu 
 After 172 days and 431 million kilometers (268 million miles) of deep space stalking, Deep Impact successfully reached out and touched comet Tempel 1. The collision between the coffee table-sized impactor and city-sized comet occurred at 1:52 a.m. EDT.
 
 ### [ In Canada, Karla Homolka, who was connected to murders with her husband Paul Bernardo, is released from prison after 12 years. She gives an interview to French service of CBC, stating that she does not want to be "hunted down." ](/news/2005/07/4/in-canada-karla-homolka-who-was-connected-to-murders-with-her-husband-paul-bernardo-is-released-from-prison-after-12-years-she-gives-an.md)
-_Context: Canadian, Karla Homolka, Paul Bernardo_
+_Context: Canada, Karla Homolka, Paul Bernardo_
 
 ### [ Mexican police believe that they have arrested Vicente Carrillo Fuentes, leader of a Jurez drug cartel. ](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.md)
 _Context: Jurez drug cartel, Vicente Carrillo Fuentes_

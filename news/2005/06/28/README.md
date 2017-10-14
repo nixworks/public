@@ -4,7 +4,7 @@
 _Context: Afghanistan, Kunar Province, MH-47 Chinook, Operation Red Wings, U.S. Navy SEAL, counterterrorism_
 
 ### [ Bill C-38 passes through the Canadian House of Commons, placing Canada on track to become the third country in the world to legalize same-sex marriage, likely by July. ](/news/2005/06/28/bill-c-38-passes-through-the-canadian-house-of-commons-placing-canada-on-track-to-become-the-third-country-in-the-world-to-legalize-same-s.md)
-_Context: Bill C-38, Canadian, Canadian House of Commons, same-sex marriage in Canada_
+_Context: Bill C-38, Canada, Canadian House of Commons, same-sex marriage in Canada_
 
 ### [ AMD files an antitrust lawsuit against rival chipmaker Intel ](/news/2005/06/28/amd-files-an-antitrust-lawsuit-against-rival-chipmaker-intel.md)
 Here are the latest articles published on Tom’s Hardware. See the latest news, reviews and roundups and access our tech archives.

@@ -7,7 +7,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Ken Livingstone, London congestion charge, Mayor of London, Robert Tuttle, United States Ambassador to the United Kingdom_
 
 ### [ "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.md)
-_Context: 2003 invasion of Iraq, George W. Bush, a memo, the New York Times_
+_Context: 2003 invasion of Iraq, George W. Bush, The New York Times, a memo_
 
 ### [ In Germany, a rare tornado kills two and leaves more than 300,000 people without electricity. ](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-more-than-300-000-people-without-electricity.md)
 _Context: tornado_

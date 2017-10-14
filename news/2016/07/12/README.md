@@ -7,7 +7,7 @@ The leaders of South Sudan&#39;s warring factions call for a ceasefire after day
 BAGHDAD (AP) — A suicide car bomb ripped through an outdoor market in a Shiite-dominated northeastern district of Baghdad on Tuesday, killing at least 12 people, officials said, as government forces deployed across much…
 
 ### [Restoration work at the Church of the Nativity in Bethlehem, Palestine reveals a hidden angel mosaic. ](/news/2016/07/12/restoration-work-at-the-church-of-the-nativity-in-bethlehem-palestine-reveals-a-hidden-angel-mosaic.md)
-_Context: Bethlehem, Church of the Nativity, State of Palestine, mosaic_
+_Context: Bethlehem, Church of the Nativity, Palestinian, mosaic_
 
 ### [AMC Theatres is purchasing London-based Odeon & UCI Cinemas Group in a deal valued at about GBP921 million ($1.21 billion). AMC has 385 theaters with 5,380 screens, most in the United States. Odeon & UCI has 242 theaters and 2,236 screens in the U.K. and Ireland. AMC noted its $1.1 billion (GBP835 million) acquisition of Columbus, Georgia's Carmike Cinemas (276 thrs-2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-agbp921-million-1-21-billion-amc-has-385-the.md)
 LOS ANGELES (AP) — The owner of the AMC Theatre chain is buying European movie theater operator Odeon &amp; UCI Cinemas Group from private equity firm Terra Firma in a deal that would make it the largest movie theater…

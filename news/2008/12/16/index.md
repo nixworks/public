@@ -13,7 +13,7 @@ _Context: Great Depression, United States, United States Department of Labor, co
 _Context: Boulevard Haussmann, Paris, Printemps, dynamite_
 
 ### [ United Nations special envoy to Niger Robert Fowler and Canadian diplomat Louis Guay are reported to be missing in Niger. ](/news/2008/12/16/united-nations-special-envoy-to-niger-robert-fowler-and-canadian-diplomat-louis-guay-are-reported-to-be-missing-in-niger.md)
-_Context: Canadian, Niger, Robert Fowler, United Nations_
+_Context: Canada, Niger, Robert Fowler, United Nations_
 
 ### [ The Illinois House of Representatives votes unanimously to begin an impeachment inquiry against Governor Rod Blagojevich for corruption. ](/news/2008/12/16/the-illinois-house-of-representatives-votes-unanimously-to-begin-an-impeachment-inquiry-against-governor-rod-blagojevich-for-corruption.md)
 The State House voted unanimously Monday evening to go forward with a plan to gather evidence and testimony against the governor.

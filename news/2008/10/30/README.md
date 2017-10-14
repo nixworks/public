@@ -10,7 +10,7 @@ Assam CM Tarun Gogoi said RDX was used to trigger two of the six blasts in Guwah
 _Context: East Devon, England, Honiton, Ottery St Mary_
 
 ### [ Canadian Prime Minister Stephen Harper's new Cabinet is sworn in after the October 14 federal election. ](/news/2008/10/30/canadian-prime-minister-stephen-harper-s-new-cabinet-is-sworn-in-after-the-october-14-federal-election.md)
-_Context: Canadian, Prime Minister of Canada, Stephen Harper, elected, new Cabinet_
+_Context: Canada, Prime Minister of Canada, Stephen Harper, elected, new Cabinet_
 
 ## [Previous Day...](/news/2008/10/29/index.md)
 

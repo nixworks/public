@@ -10,7 +10,7 @@ _Context: Treaty of Amity and Cooperation in Southeast Asia, United States_
 _Context: Gotland, Nynshamn, Stockholm, Swedish, ferry, fog_
 
 ### [ The Bank of Canada declares the recession has ended in Canada predicting the economy will grow by 1.3 per cent over the summer months. ](/news/2009/07/23/the-bank-of-canada-declares-the-recession-has-ended-in-canada-predicting-the-economy-will-grow-by-1-3-per-cent-over-the-summer-months.md)
-_Context: Bank of Canada, Canadian, late 2000s recession_
+_Context: Bank of Canada, Canada, late 2000s recession_
 
 ### [ Voters in Kyrgyzstan go to the polls for a presidential election, as the main opposition candidate Almazbek Atambayev pulls out. ](/news/2009/07/23/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-as-the-main-opposition-candidate-almazbek-atambayev-pulls-out.md)
 _Context: Almazbek Atambayev, Kyrgyzstan, presidential election_

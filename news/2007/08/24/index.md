@@ -55,7 +55,7 @@ _Context: Basque, Durango, Spain, ETA, car bomb, explosion, police station_
 Dozens of people have been rescued from rising flood waters and thousands of homes are without power as Queensland&#039;s south-east continues to be battered by bad weather.
 
 ### [ Two people are killed and eleven are injured when a hot air balloon bursts into flames in Surrey, British Columbia, Canada. ](/news/2007/08/24/two-people-are-killed-and-eleven-are-injured-when-a-hot-air-balloon-bursts-into-flames-in-surrey-british-columbia-canada.md)
-_Context: Canadian, Surrey, British Columbia, hot air balloon_
+_Context: Canada, Surrey, British Columbia, hot air balloon_
 
 ## [Previous Day...](/news/2007/08/23/index.md)
 

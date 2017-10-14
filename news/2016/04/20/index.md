@@ -73,7 +73,7 @@ The US Justice Department opens a criminal investigation into tax avoidance sche
 Two Zambians were burned to death on Monday during an outbreak of xenophobic violence in the capital, Lusaka, the authorities say.
 
 ### [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md)
-_Context: Canadian, Drug policy of Canada, Jane Philpott, Minister of Health, marijuana_
+_Context: Canada, Drug policy of Canada, Jane Philpott, Minister of Health, marijuana_
 
 ### [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md)
 The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in the 1983 bombing of a U.S. Marine Corps barracks in Beirut and other attacks blamed on Iran.

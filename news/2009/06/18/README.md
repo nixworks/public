@@ -16,7 +16,7 @@ _Context: altering_
 _Context: President, Yahya Jammeh, the Gambia_
 
 ### [ Canada's annual seal hunt ends with lower than expected totals. ](/news/2009/06/18/canada-s-annual-seal-hunt-ends-with-lower-than-expected-totals.md)
-_Context: Canadian_
+_Context: Canada_
 
 ### [ Another attack occurs on Romanians in Belfast, on this occasion against a family in the east of the city. ](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.md)
 _Context: Belfast, Romanians_

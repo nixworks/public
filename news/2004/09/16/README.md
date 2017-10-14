@@ -13,7 +13,7 @@ _Context: Afghanistan, Gardez, Hamid Karzai, Kabul_
 _Context: 2003 Marriott Hotel bombing, Indonesia, Jakarta, Ricky Putranto_
 
 ### [ "The New York Times," citing unnamed United States government officials, reports that, in late July, the National Intelligence Council prepared a pessimistic classified report for President George W. Bush that predicted three likely outcomes for Iraq by the end of 2005, the best of which is "tenuous stability", and the worst of which is a descent into civil war. ](/news/2004/09/16/the-new-york-times-citing-unnamed-united-states-government-officials-reports-that-in-late-july-the-national-intelligence-council-prep.md)
-_Context: George W. Bush, July, National Intelligence Council, U.S. President, United States government, civil war, classified information, the New York Times_
+_Context: George W. Bush, July, National Intelligence Council, The New York Times, U.S. President, United States government, civil war, classified information_
 
 ### [ United Nations Secretary-General Kofi Annan reluctantly describes the 2003 U.S.-led invasion of Iraq as an "illegal" violation of the UN Charter, in response to repeated questions on the subject during a press conference. ](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.md)
 _Context: 2003 invasion of Iraq, Iraq, Kofi Annan, UN Charter, United Nations Secretary-General, law_

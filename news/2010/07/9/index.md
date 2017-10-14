@@ -61,7 +61,7 @@ Chinese officials seize dairy material tainted with the toxic chemical melamine,
 The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ashtiani, will not be stoned to death.
 
 ### [Salman Hossain, a Bangladeshi immigrant to Canada, is charged with online advocation of genocide against Canadian Jews. ](/news/2010/07/9/salman-hossain-a-bangladeshi-immigrant-to-canada-is-charged-with-online-advocation-of-genocide-against-canadian-jews.md)
-_Context: Bangladesh, Canadian, Canadian Jews, Immigration to Canada, genocide_
+_Context: Bangladesh, Canada, Canadian Jews, Immigration to Canada, genocide_
 
 ### [A painting in a Johannesburg shopping centre depicting an autopsy on the corpse of Nelson Mandela surrounded by nosy world leaders attracts controversy as the topic of Mandela's eventual death is taboo in South Africa. ](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.md)
 _Context: Johannesburg, Nelson Mandela, South Africa_

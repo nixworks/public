@@ -16,7 +16,7 @@ _Context: Al Jazeera, Driss Chebli, Imad Yarkas, September 11, 2001 attacks, Spa
 _Context: Baghdad, Iraqi insurgency, Iskandariya, school_
 
 ### [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md)
-_Context: Egypt, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian National Authority, Rafah, State of Palestine, airstrike_
+_Context: Egypt, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian, Palestinian National Authority, Rafah, airstrike_
 
 ### [ An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. ](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.md)
 _Context: Hamas, Israel, Israeli settlement, Jerusalem, Ramallah, Shin Bet's_

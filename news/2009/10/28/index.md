@@ -1,7 +1,7 @@
 ## [2009-10-28](/news/2009/10/28/index.md)
 
 ### [ Canadian folk singer Taylor Mitchell is mauled to death by coyotes at the age of 19. ](/news/2009/10/28/canadian-folk-singer-taylor-mitchell-is-mauled-to-death-by-coyotes-at-the-age-of-19.md)
-_Context: Canadian, Taylor Mitchell, coyote, folk_
+_Context: Canada, Taylor Mitchell, coyote, folk_
 
 ### [ Voters in Mozambique go to the polls for the general election. ](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.md)
 _Context: Mozambique, general election_

@@ -15,11 +15,11 @@
 
 ### Related:
 
-1. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Canadian, Pakistan_
-2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Stockholm, Swedish_
-3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi, Pakistan_
-4. [A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer-junaid-jamshed-crashes-shortly-after-taking.md) _Context: Pakistan, Pakistan International Airlines_
-5. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi, Pakistan_
+1. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Stockholm, Swedish_
+2. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi, Pakistan_
+3. [A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer-junaid-jamshed-crashes-shortly-after-taking.md) _Context: Pakistan, Pakistan International Airlines_
+4. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi, Pakistan_
+5. [Five people are killed and several other civilians injured as armed terrorists, targeting Shia Muslims, open fire on participants of a Majlis at a home in the Nazimabad district of Karachi, Pakistan. ](/news/2016/10/29/five-people-are-killed-and-several-other-civilians-injured-as-armed-terrorists-targeting-shia-muslims-open-fire-on-participants-of-a-majli.md) _Context: Karachi, Pakistan_
 
 ### Changes:
 

@@ -10,7 +10,7 @@ _Context: Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, 
 _Context: American Civil Liberties Union, Mississippi, leavers' dinner, same-sex couples, tuxedo_
 
 ### [Israeli authorities plan thousands more homes in settlements in East Jerusalem since Palestinian leaders terminated talks earlier this week due to this issue. ](/news/2010/03/11/israeli-authorities-plan-thousands-more-homes-in-settlements-in-east-jerusalem-since-palestinian-leaders-terminated-talks-earlier-this-week.md)
-_Context: East Jerusalem, Israel, State of Palestine_
+_Context: East Jerusalem, Israel, Palestinian_
 
 ### [Israel apologises for the timing of the announcement during a visit by the Vice President of the United States, calling it a "grave error", a "mistake" and a "failure" and promising it would not happen again. ](/news/2010/03/11/israel-apologises-for-the-timing-of-the-announcement-during-a-visit-by-the-vice-president-of-the-united-states-calling-it-a-grave-error.md)
 _Context: Israel, U.S. Vice President_

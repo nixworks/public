@@ -38,7 +38,7 @@ Foreign Minister Ahmet Davutoglu continues to demand apology for flotilla raid, 
 _Context: China, South Korea_
 
 ### [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md)
-_Context: Ecuador, State of Palestine, officially recognises_
+_Context: Ecuador, Palestinian, officially recognises_
 
 ### [Mossad announces an intention to apologize to Britain for using fake British passports during the assassination of Mahmoud al-Mabhouh in Dubai in January 2010. ](/news/2010/12/25/mossad-announces-an-intention-to-apologize-to-britain-for-using-fake-british-passports-during-the-assassination-of-mahmoud-al-mabhouh-in-dub.md)
 Israel will apologize for using British passports in the assassination of a Hamas operative in Dubai, Mossad insiders said.

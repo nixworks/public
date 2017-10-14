@@ -46,7 +46,7 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 _Context: Bill Richardson, IAEA, North Korea, United Nations, United States_
 
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
-_Context: Israel, State of Palestine, UN_
+_Context: Israel, Palestinian, UN_
 
 ### [Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. ](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.md)
 The Russian foreign minister warns US lawmakers that any change to the new nuclear arms treaty between the two countries could destroy the pact.

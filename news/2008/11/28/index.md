@@ -16,7 +16,7 @@ _Context: Conservative Party, Damian Green, Labour, Shadow Minister_
 Listen to highlights from our radio broadcasts, including news, current affairs, interviews and other stories.
 
 ### [ Canada faces a parliamentary crisis as the opposition Liberals, NDP and Bloc Qubcois reject the policies in the Conservative minority government's "economic update." Following talks between the Liberals and NDP, plans are unveiled to hold a vote of no confidence and replace the Conservatives with a Liberal-NDP coalition. ](/news/2008/11/28/canada-faces-a-parliamentary-crisis-as-the-opposition-liberals-ndp-and-bloc-quebecois-reject-the-policies-in-the-conservative-minority-gov.md)
-_Context: Bloc Qubcois, Canadian, Canadian House of Commons, Conservative Party's, Liberal Party's, New Democratic Party, vote of no confidence_
+_Context: Bloc Qubcois, Canada, Canadian House of Commons, Conservative Party's, Liberal Party's, New Democratic Party, vote of no confidence_
 
 ## [Previous Day...](/news/2008/11/27/index.md)
 

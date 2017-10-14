@@ -1,7 +1,7 @@
 ## [2008-12-30](/news/2008/12/30/index.md)
 
 ### [ Eight of eleven snowmobilers buried by avalanches in British Columbia, Canada, are found dead. ](/news/2008/12/30/eight-of-eleven-snowmobilers-buried-by-avalanches-in-british-columbia-canada-are-found-dead.md)
-_Context: British Columbia, Canadian, avalanche, snowmobile_
+_Context: British Columbia, Canada, avalanche, snowmobile_
 
 ### [ Illinois Governor Rod Blagojevich appoints former Democratic Illinois Attorney General Roland Burris to President-elect Barack Obama's vacated United States Senate seat. Democratic Senate leaders and Secretary of State Jesse White say they will not accept the appointment. ](/news/2008/12/30/illinois-governor-rod-blagojevich-appoints-former-democratic-illinois-attorney-general-roland-burris-to-president-elect-barack-obama-s-vaca.md)
 _Context: Barack Obama, Democratic, Governor of Illinois, Illinois, Illinois Attorney General, Jesse White, President-elect, Rod Blagojevich, Roland Burris, Secretary of State, United States, United States Senate, seat_

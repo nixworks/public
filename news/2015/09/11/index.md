@@ -22,7 +22,7 @@ Floods that swept housesoff their foundations and crushed others under landslide
 At least 107 people died and 238 more were injured when a crane collapsed at the Grand Mosque of Mecca ahead of the annual Hajj pilgrimage, the Saudi Interior Ministry said on Friday. 
 
 ### [The UN General Assembly votes in favor of flying the flags of non-member observer states outside the headquarters in New York City. Palestine will raise their flag on September 30, while Vatican City has made no plans yet. ](/news/2015/09/11/the-un-general-assembly-votes-in-favor-of-flying-the-flags-of-non-member-observer-states-outside-the-headquarters-in-new-york-city-palestin.md)
-_Context: General Assembly, New York City, State of Palestine, Vatican City, observer states_
+_Context: General Assembly, New York City, Palestinian, Vatican City, observer states_
 
 ### [Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pope-francis.md)
 Cuba says it will release more than 3,500 prisoners in a goodwill gesture ahead of a visit by Pope Francis.

@@ -37,7 +37,7 @@ A federal judge in Michigan halted on Monday the deportation of more than 1,400 
 _Context: Imran Awan, Washington Dulles International Airport_
 
 ### [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md)
-_Context: Canadian, Freedom of religion in Canada, James Oler, Mormon, Winston Blackmore_
+_Context: Canada, Freedom of religion in Canada, James Oler, Mormon, Winston Blackmore_
 
 ### [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md)
 Officials said Sun Zhengcai, fired this month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”

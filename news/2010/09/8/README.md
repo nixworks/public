@@ -4,7 +4,7 @@
 A government spokesman says Mexican marines have arrested seven gunmen suspected of participating in the massacre of 72 Central and South American migrants near the U.S. border.
 
 ### [A Charities Aid Foundation survey finds that Australia, New Zealand and Canada are the most generous contributors to charity. ](/news/2010/09/8/a-charities-aid-foundation-survey-finds-that-australia-new-zealand-and-canada-are-the-most-generous-contributors-to-charity.md)
-_Context: Australia, Canadian, Charities Aid Foundation's, New Zealand, charitable giving_
+_Context: Australia, Canada, Charities Aid Foundation's, New Zealand, charitable giving_
 
 ### [Two workers are missing and more than thirty workers are trapped in an oil rig in the Shengli oil field off Dongying in China's Shandong province. ](/news/2010/09/8/two-workers-are-missing-and-more-than-thirty-workers-are-trapped-in-an-oil-rig-in-the-shengli-oil-field-off-dongying-in-china-s-shandong-pro.md)
 _Context: Chinese, Dongying, Shandong, offshore oil platform_

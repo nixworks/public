@@ -13,7 +13,7 @@ _Context: Central African Republic, China, France, Francois Bozize, Russia, U.N.
 Four people, two of them police, are killed in the Kenyan capital Nairobi by a car bomb outside a police station.
 
 ### [A 6.6 magnitude earthquake hits 94 km south of Port Hardy in the Canadian province of British Columbia at around 8:10 pm PDT. Seismic activity was felt as far as Kamloops. ](/news/2014/04/23/a-6-6-magnitude-earthquake-hits-94-km-south-of-port-hardy-in-the-canadian-province-of-british-columbia-at-around-8-10-pm-pdt-seismic-activi.md)
-_Context: British Columbia, Canadian, Kamloops, PDT, Port Hardy, earthquake_
+_Context: British Columbia, Canada, Kamloops, PDT, Port Hardy, earthquake_
 
 ### [The official death toll of the ferry capsizing rises to 150 with 150 people still missing. ](/news/2014/04/23/the-official-death-toll-of-the-ferry-capsizing-rises-to-150-with-150-people-still-missing.md)
 More than 3-quarters of 323 students listed as dead or missing as data begins to shed light on maneuvers before accident

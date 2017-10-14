@@ -10,7 +10,7 @@ _Context: Tibet_
 _Context: A new study, Climatic Research Unit, Earth, University of East Anglia, caused by humans, global warming, polar region_
 
 ### [ The third pipeline bombing in the month of October targets an EnCana-operated gas pipeline near the town of Dawson Creek, British Columbia in Canada. ](/news/2008/10/31/the-third-pipeline-bombing-in-the-month-of-october-targets-an-encana-operated-gas-pipeline-near-the-town-of-dawson-creek-british-columbia.md)
-_Context: British Columbia, Canadian, Dawson Creek, EnCana Corporation, third pipeline bombing_
+_Context: British Columbia, Canada, Dawson Creek, EnCana Corporation, third pipeline bombing_
 
 ## [Previous Day...](/news/2008/10/30/index.md)
 

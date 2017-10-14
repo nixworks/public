@@ -4,7 +4,7 @@
 _Context: Balad, Conflict in Iraq, Iraqi insurgency_
 
 ### [ "The New York Times" reporter Judith Miller is released from federal jail after receiving a waiver from her news source, allowing her to testify in the investigation of the outing of CIA operative Valerie Plame. [http:--edition.cnn.com-2005-POLITICS-09-29-cia.leak-index.html (CNN)] [http:--news.yahoo.com-s-ap-20050930-ap_on_go_ca_st_pe-cia_leak_investigation (Yahoo News)] (Link dead as of 00:44, 15 January 2007 (UTC))](/news/2005/09/29/the-new-york-times-reporter-judith-miller-is-released-from-federal-jail-after-receiving-a-waiver-from-her-news-source-allowing-her-to-te.md)
-_Context: CIA, CIA leak scandal, Judith Miller, Valerie Plame, the New York Times_
+_Context: CIA, CIA leak scandal, Judith Miller, The New York Times, Valerie Plame_
 
 ### [ Algerians vote in a referendum to grant partial amnesty to militants to end the Algerian Civil War.](/news/2005/09/29/algerians-vote-in-a-referendum-to-grant-partial-amnesty-to-militants-to-end-the-algerian-civil-war.md)
 _Context: Algeria, Algerian Civil War_

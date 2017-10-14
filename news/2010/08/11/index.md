@@ -82,7 +82,7 @@ _Context: Elias Murr, Lebanon, United States House of Representatives_
 Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.
 
 ### [The jury is selected for Canadian Omar Khadr's war crimes trial at Guantanamo Bay. ](/news/2010/08/11/the-jury-is-selected-for-canadian-omar-khadr-s-war-crimes-trial-at-guantanamo-bay.md)
-_Context: Canadian, Guantanamo Bay, Omar Khadr, jury, war crime_
+_Context: Canada, Guantanamo Bay, Omar Khadr, jury, war crime_
 
 ### [Ibrahim al Qosi, a former cook and driver of Osama Bin Laden, is imprisoned for 14 years by a Guantanamo Bay military tribunal. ](/news/2010/08/11/ibrahim-al-qosi-a-former-cook-and-driver-of-osama-bin-laden-is-imprisoned-for-14-years-by-a-guanta-namo-bay-military-tribunal.md)
 _Context: Guantanamo Bay, Ibrahim al Qosi, Osama bin Laden_

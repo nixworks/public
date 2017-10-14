@@ -13,7 +13,7 @@ _Context: Donetsk International Airport, Mikhail Porechenkov_
 NTSB officials arrive to begin investigating crash at Wichita airport that killed 4 (VIDEOS)
 
 ### [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md)
-_Context: Israel, State of Palestine, Swedish, officially recognises, sovereign state_
+_Context: Israel, Palestinian, Swedish, officially recognises, sovereign state_
 
 ### [Eric Frein, wanted in the American state of Pennsylvania for the 2014 Pennsylvania State Police barracks attack that killed one officer and injured another, is taken into custody. ](/news/2014/10/30/eric-frein-wanted-in-the-american-state-of-pennsylvania-for-the-2014-pennsylvania-state-police-barracks-attack-that-killed-one-officer-and.md)
 _Context: 2014 Pennsylvania State Police barracks attack, Eric Frein, Pennsylvania_

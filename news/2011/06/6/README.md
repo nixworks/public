@@ -70,7 +70,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York State, a
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Philadelphia, Sicilian Mafia, United States_
+_Context: FBI, Philadelphia, Pennsylvania, Sicilian Mafia, United States_
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_

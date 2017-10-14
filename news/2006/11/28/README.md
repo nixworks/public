@@ -10,7 +10,7 @@ _Context: 110th Congress, Democratic, House Permanent Select Committee on Intell
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Canadian House of Commons supports a motion recognising the people of Quebec as a separate nation within a united Canada. ](/news/2006/11/28/the-canadian-house-of-commons-supports-a-motion-recognising-the-people-of-quebec-as-a-separate-nation-within-a-united-canada.md)
-_Context: Canadian, Canadian House of Commons, Quebec, nation_
+_Context: Canada, Canadian House of Commons, Quebec, nation_
 
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
 _Context: Ben Bernanke, Federal Reserve, United States, inflation_

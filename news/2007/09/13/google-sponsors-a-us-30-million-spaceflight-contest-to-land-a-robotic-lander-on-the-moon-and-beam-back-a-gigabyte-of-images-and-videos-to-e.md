@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _Context: Earth, Moon_
+1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Earth, Moon_
 2. [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md) _Context: Earth, Moon_
 3. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_
 4. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: Earth, Moon_

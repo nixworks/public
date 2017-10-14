@@ -16,7 +16,7 @@ _Context: Toyota, United States_
 _Context: Jacob Zuma, President, Public Protector, South Africa_
 
 ### [Canadian Minister of Finance Jim Flaherty resigns, planning a return to the private sector. Joe Oliver is named to replace him. ](/news/2014/03/19/canadian-minister-of-finance-jim-flaherty-resigns-planning-a-return-to-the-private-sector-joe-oliver-is-named-to-replace-him.md)
-_Context: Canadian, Finance Minister, Jim Flaherty, Joe Oliver_
+_Context: Canada, Finance Minister, Jim Flaherty, Joe Oliver_
 
 ### [Vietnam jails prominent blogger for 'anti-state activities'.](/news/2014/03/19/vietnam-jails-prominent-blogger-for-anti-state-activities.md)
 A court in Vietnam jails a prominent blogger for 15 months for anti-state activities, the second sentencing of a blogger in recent days.

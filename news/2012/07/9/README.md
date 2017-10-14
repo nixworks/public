@@ -19,7 +19,7 @@ Thousands of computer users may be without Internet access Monday after a deadli
 _Context: Norway, Oil, gas, industrial dispute, lock out_
 
 ### [Rolling blackouts hit Alberta, Canada in response to record heat taking multiple power plants offline. The Alberta Electric System Operator coordinates the effort. ](/news/2012/07/9/rolling-blackouts-hit-alberta-canada-in-response-to-record-heat-taking-multiple-power-plants-offline-the-alberta-electric-system-operator.md)
-_Context: Alberta, Alberta Electric System Operator, Canadian_
+_Context: Alberta, Alberta Electric System Operator, Canada_
 
 ### [More than $200 million in customer funds is reportedly missing from the accounts of U.S. futures broker PFGBest, after the firm's founder Russell Wasendorf attempted suicide outside the company's Iowa headquarters. ](/news/2012/07/9/more-than-200-million-in-customer-funds-is-reportedly-missing-from-the-accounts-of-u-s-futures-broker-pfgbest-after-the-firm-s-founder-ru.md)
 _Context: Iowa, PFGBest, Russell Wasendorf_

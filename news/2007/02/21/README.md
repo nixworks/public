@@ -7,7 +7,7 @@ _Context: Harare, Movement for Democratic Change, Zimbabwe_
 _Context: Italian Prime Minister, Italian Senate, Italy, Romano Prodi_
 
 ### [ Premier of Quebec, Canada, Jean Charest, calls a general election for March 26. ](/news/2007/02/21/premier-of-quebec-canada-jean-charest-calls-a-general-election-for-march-26.md)
-_Context: Canadian, Jean Charest, March 26, Quebec, Quebec general election, premier of Quebec_
+_Context: Canada, Jean Charest, March 26, Quebec, Quebec general election, premier of Quebec_
 
 ### [ Iran ignores a United Nations Security Council deadline for it to suspend its nuclear program. ](/news/2007/02/21/iran-ignores-a-united-nations-security-council-deadline-for-it-to-suspend-its-nuclear-program.md)
 _Context: Iran, United Nations Security Council, nuclear program_

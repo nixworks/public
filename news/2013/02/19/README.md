@@ -34,7 +34,7 @@ _Context: California, Orange County, United States, shooting spree_
 Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remember his sister and &quot;all the goodness that she stood for&quot;, as her memorial service takes place on Tuesday. Athlete Oscar Pistorius denies a charge of pre-meditated murder.
 
 ### [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md)
-_Context: Canadian, City Hall, Montreal, Quebec police, anti-corruption_
+_Context: Canada, City Hall, Montreal, Quebec police, anti-corruption_
 
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
 _Context: Australian Prime Minister, Christine Milne, Julia Gillard, Labor Party, The Australian Greens_

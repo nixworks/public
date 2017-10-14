@@ -22,7 +22,7 @@ _Context: Chiquimula, Erick Galvez, Guatemala, assassinated_
 _Context: Australia, Kylie Minogue, breast cancer_
 
 ### [ Canadian Conservative MP Belinda Stronach crosses the floor of the House of Commons to sit with the Liberals, two days before a crucial budget vote that could determine whether the Liberal government falls or not. ](/news/2005/05/17/canadian-conservative-mp-belinda-stronach-crosses-the-floor-of-the-house-of-commons-to-sit-with-the-liberals-two-days-before-a-crucial-bud.md)
-_Context: Belinda Stronach, Canadian, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
+_Context: Belinda Stronach, Canada, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
 
 ### [ The Spanish parliament approves plan to begin negotiations with the Basque ETA. ](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.md)
 _Context: Basque, ETA, Spain_

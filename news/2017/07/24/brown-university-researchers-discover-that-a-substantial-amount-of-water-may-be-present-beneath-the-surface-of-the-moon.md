@@ -17,7 +17,7 @@ Ancient volcanic deposits on the moon indicate the lunar interior has a substant
 2. [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md) _Context: Lunar water, Moon_
 3. [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md) _Context: Moon, water_
 4. [ NASA intentionally crashes the Lunar Prospector spacecraft into the Moon, thus ending its mission to detect frozen water on the moon's surface.](/news/1999/07/31/nasa-intentionally-crashes-the-lunar-prospector-spacecraft-into-the-moon-thus-ending-its-mission-to-detect-frozen-water-on-the-moon-s-surf.md) _Context: Moon, water_
-5. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-0-0003352-au-mi-from-earth-well-withi.md) _Context: Moon_
+5. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Moon_
 
 ### Changes:
 

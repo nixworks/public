@@ -13,7 +13,7 @@ _Context: Sony_
 _Context: CNDP, Democratic Republic of the Congo, Kenya, Nairobi, United Nations, government, peace talks_
 
 ### [ Canadian Member of Parliament Bob Rae announces his withdrawal from the leadership campaign of the Liberal Party, leaving the position (and that of the Leader of the Opposition and the leadership of the proposed opposition coalition) open to fellow MP Michael Ignatieff. ](/news/2008/12/9/canadian-member-of-parliament-bob-rae-announces-his-withdrawal-from-the-leadership-campaign-of-the-liberal-party-leaving-the-position-and.md)
-_Context: Bob Rae, Canadian, Leader of the Official Opposition, Liberal Party's, MP, Michael Ignatieff, Parliament of Canada, proposed opposition coalition_
+_Context: Bob Rae, Canada, Leader of the Official Opposition, Liberal Party's, MP, Michael Ignatieff, Parliament of Canada, proposed opposition coalition_
 
 ### [ Former Prime Minister of the Republic of Macedonia Vlado Buckovski is sentenced to three and a half years in jail for abuse of power. ](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.md)
 _Context: Macedonian, Prime Minister, Vlado Buckovski, misconduct in office_

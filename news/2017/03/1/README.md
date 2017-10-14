@@ -13,7 +13,7 @@ _Context: EU, Georgia-European Union relations, Georgian, Republic of Ireland, U
 Russia and China have vetoed a UN Security Council proposal that would have banned the supply of helicopters to the Syrian government, and blacklisted eleven Syrian military commanders over allegations of toxic gas attacks.
 
 ### [After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo-duterte-orders-the-p.md)
-_Context: Philippine National Police, Rodrigo Duterte, South Korea, kidnapping and killing of, war on drugs_
+_Context: Philippine Drug War, Philippine National Police, Rodrigo Duterte, South Korea, kidnapping and killing of_
 
 ### [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md)
 Siti Aisyah and Doan Thi Huong face a mandatory death sentence if convicted
@@ -25,7 +25,7 @@ Sudanese President Omar Hassan al-Bashir named his first vice president and long
 _Context: Pakalitha Mosisili, Parliament of Lesotho, Prime Minister of Lesotho, confidence motion_
 
 ### [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md)
-_Context: Canadian, Hudson Bay, Origin of life, Quebec, life, microfossils_
+_Context: Canada, Hudson Bay, Origin of life, Quebec, life, microfossils_
 
 ### [An American Atlas V successfully launched an NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-an.md)
 _Context:  NRO, Atlas V, Vandenberg Air Force Base_

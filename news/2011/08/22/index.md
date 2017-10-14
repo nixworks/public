@@ -34,7 +34,7 @@ Hurricane Irene could hit the Southeast United States as a major Category 3 stor
 _Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
 
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
-_Context: Canadian, Jack Layton, Leader of the Opposition, New Democratic Party_
+_Context: Canada, Jack Layton, Leader of the Opposition, New Democratic Party_
 
 ## [Previous Day...](/news/2011/08/21/index.md)
 

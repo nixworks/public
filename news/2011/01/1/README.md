@@ -22,7 +22,7 @@ _Context: Arkansas, blackbirds, tornado outbreak_
 _Context: Argentina, Santiago del Estero, earthquake_
 
 ### [Canada's Foreign Minister, Lawrence Cannon, urges Iran to improve the country's human rights record and denounces Iran for imposing "draconian death sentences and unfair jail terms," while expressing particular concern for the fate of two Canadians of dual nationality imprisoned in Iran. ](/news/2011/01/1/canada-s-foreign-minister-lawrence-cannon-urges-iran-to-improve-the-country-s-human-rights-record-and-denounces-iran-for-imposing-draconi.md)
-_Context: Canadians, Iran, Iranian human rights, Lawrence Cannon, Minister of Foreign Affairs, dual nationality_
+_Context: Canadian, Iran, Iranian human rights, Lawrence Cannon, Minister of Foreign Affairs, dual nationality_
 
 ### [Hungary takes over the presidency of the European Union. ](/news/2011/01/1/hungary-takes-over-the-presidency-of-the-european-union.md)
 _Context: EU, Hungary, the Council of_

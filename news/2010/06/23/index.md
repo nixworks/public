@@ -52,7 +52,7 @@ June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Co
 _Context: Australia_
 
 ### [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md)
-_Context: Canadian, G20 summit, Toronto, explosives_
+_Context: Canada, G20 summit, Toronto, explosives_
 
 ### [An earthquake occurs 56 kilometres north-northeast of Ottawa, registering a 5.0 on the Richter scale. Slight damage was reported near the epicenter, and the tremor was felt in Sudbury, Windsor, Ann Arbor, Detroit, Toronto, Milwaukee, Northern Pennsylvania, Ohio and New York State. ](/news/2010/06/23/an-earthquake-occurs-56-kilometres-north-northeast-of-ottawa-registering-a-5-0-on-the-richter-scale-slight-damage-was-reported-near-the-ep.md)
 A 5.0 magnitude quake has rocked Ottawa and the surrounding area, sending thousands of shaky and scared people into city streets.

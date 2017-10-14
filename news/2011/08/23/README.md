@@ -25,7 +25,7 @@ _Context: Dominican Republic, Haiti, Hispaniola, Hurricane Irene_
 A 5.8 earthquake sent tremors from the nation’s capital to New York City and New England, but with few reports of damage.
 
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: State of Palestine, Thailand, United Nations General Assembly_
+_Context: Palestinian, Thailand, United Nations General Assembly_
 
 ### [A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. ](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.md)
 A judge’s dismissal of the sexual assault case against Dominique Strauss-Kahn brought some measure of legal vindication to him after his stunning arrest.

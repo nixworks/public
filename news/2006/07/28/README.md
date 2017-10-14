@@ -25,7 +25,7 @@ _Context: 2006 Kodori crisis, Abkhazia, Georgian_
 _Context: Human Rights Committee, UN, United States, secret detention facilities_
 
 ### [ The first World Outgames are held in Montreal, Canada. Outgames co-president and Canadian Olympian, Mark Tewksbury, states that the event will "bridge the gap between the gay sport movement and the traditional sport movement.](/news/2006/07/28/the-first-world-outgames-are-held-in-montreal-canada-outgames-co-president-and-canadian-olympian-mark-tewksbury-states-that-the-event-w.md)
-_Context: Canadian, Mark Tewksbury, Montreal, World Outgames_
+_Context: Canada, Mark Tewksbury, Montreal, World Outgames_
 
 ### [ The EU President and US State Department react to Israeli Justice Minister Haim Ramon's claim that the deadlocked Rome conference was a sign that the world supported Israeli attacks in Lebanon. The EU described the claim as "totally wrong" and the US declared the statement "outrageous". ](/news/2006/07/28/the-eu-president-and-us-state-department-react-to-israeli-justice-minister-haim-ramon-s-claim-that-the-deadlocked-rome-conference-was-a-sig.md)
 IDF soldiers clash with Hizbullah gunmen attempting to infiltrate area secured by paratroopers in southern Lebanon village

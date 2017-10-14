@@ -13,7 +13,7 @@ _Context: Iran, Sajjil, medium-range ballistic missile, nuclear program, surface
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.
 
 ### [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md)
-_Context: Brian Mulroney, Canadian, Germany, Karlheinz Schreiber, Prime Minister of Canada, The Globe and Mail, defense contractor, relationship_
+_Context: Brian Mulroney, Canada, Germany, Karlheinz Schreiber, Prime Minister of Canada, The Globe and Mail, defense contractor, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
 _Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
@@ -34,7 +34,7 @@ _Context:  within the church, Commission to Inquire into Child Abuse, Department
 _Context: Baghdad, Iraq, car bomb_
 
 ### [ The Provincial Police of Woodstock, Ontario, Canada, charge two people with abducting and murdering Victoria Stafford. ](/news/2009/05/20/the-provincial-police-of-woodstock-ontario-canada-charge-two-people-with-abducting-and-murdering-victoria-stafford.md)
-_Context: Canadian, Ontario, Ontario Provincial Police, Victoria Stafford, Woodstock, Ontario, abducting, murder_
+_Context: Canada, Ontario, Ontario Provincial Police, Victoria Stafford, Woodstock, Ontario, abducting, murder_
 
 ### [ FC Shakhtar Donetsk defeat SV Werder Bremen to win the final UEFA Cup. ](/news/2009/05/20/fc-shakhtar-donetsk-defeat-sv-werder-bremen-to-win-the-final-uefa-cup.md)
 Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League...

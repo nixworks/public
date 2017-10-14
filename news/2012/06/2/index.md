@@ -16,7 +16,7 @@ A cargo jet has crash into a minibus at Ghana&#039;s Accra airport after oversho
 _Context: 2011 Egyptian revolution, Alaa Mubarak, Cairo, Egypt, Gamel, Habib al-Adly, Hosni Mubarak_
 
 ### [A shooting in the food court of the Eaton Centre mall in Toronto, Canada kills at least one man and injures seven other people. ](/news/2012/06/2/a-shooting-in-the-food-court-of-the-eaton-centre-mall-in-toronto-canada-kills-at-least-one-man-and-injures-seven-other-people.md)
-_Context: Canadian, Eaton Centre, Toronto, shooting_
+_Context: Canada, Eaton Centre, Toronto, shooting_
 
 ## [Previous Day...](/news/2012/06/1/index.md)
 

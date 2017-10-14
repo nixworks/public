@@ -49,7 +49,7 @@ Rebel Federal Labor MP Harry Quick has been thrown out of the party.
 _Context: Jamaica, eye, storm surge_
 
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Canadian, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, United States, protest, tear gas_
+_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, United States, protest, tear gas_
 
 ### [ A China Airlines Boeing 737 airplane explodes less than a minute after all passengers and crew are evacuated shortly after landing at Naha, Japan. (Wikinews)](/news/2007/08/20/a-china-airlines-boeing-737-airplane-explodes-less-than-a-minute-after-all-passengers-and-crew-are-evacuated-shortly-after-landing-at-naha.md)
 _Context: (Wikinews), 737, China Airlines, Naha, explodes_

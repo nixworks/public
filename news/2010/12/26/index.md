@@ -46,7 +46,7 @@ _Context: Damascus, Latakia, New Delhi_
 Thousands in Istanbul greet the Mavi Marmara, the ship on which protesters were killed by Israeli forces in May.
 
 ### [Industry, Trade and Labour Minister of Israel Binyamin Ben-Eliezer responds to Ecuador's formal recognition of Palestine as an independent state by saying that the "entire world" could recognise a Palestinian state in the next year. ](/news/2010/12/26/industry-trade-and-labour-minister-of-israel-binyamin-ben-eliezer-responds-to-ecuador-s-formal-recognition-of-palestine-as-an-independent-s.md)
-_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, State of Palestine_
+_Context: Binyamin Ben-Eliezer, Ecuador, Industry, Trade and Labour Minister of Israel, Palestinian_
 
 ### [Newly released cables from July 2004 reveal that American diplomats panicked about a screening of the film "Fahrenheit 9-11", which is critical of the U.S. government's response to the September 11 attacks. Diplomats stopped what they called a "potential fiasco" by intervening and contacting the offices of the New Zealand prime minister and Marian Hobbs, a government minister referred to as "Boo Boo" Hobbs by America. ](/news/2010/12/26/newly-released-cables-from-july-2004-reveal-that-american-diplomats-panicked-about-a-screening-of-the-film-fahrenheit-9-11-which-is-criti.md)
 The US has been pressed by various government for help with wiretapping criminal and political adversaries, latest Wikileaks disclosures suggest.

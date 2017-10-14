@@ -25,7 +25,7 @@ Republicans said Wednesday that the resignation of NPR&#8217;s top executive in 
 Zara Phillips and her rugby player fiance Mike Tindall are to be married at the Canongate Kirk, Edinburgh, on 30 July, Buckingham Palace says.
 
 ### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
-_Context: Athabasca River, Canadian, aromatic, oil sands, polycyclic_
+_Context: Athabasca River, Canada, aromatic, oil sands, polycyclic_
 
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
 _Context: Honshu Island, Japan, earthquake, tsunami_
@@ -43,7 +43,7 @@ _Context: North Korea, North Korean defectors_
 _Context: China, Philippine, Taiwan, mainland China_
 
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
-_Context: Denmark, State of Palestine, its relation_
+_Context: Denmark, Palestinian, its relation_
 
 ### [Malaysia bans Shi'ites from promoting their faith to other Muslims, but remain able to practice it themselves. ](/news/2011/03/9/malaysia-bans-shi-ites-from-promoting-their-faith-to-other-muslims-but-remain-able-to-practice-it-themselves.md)
 _Context: Malaysia, Muslim, Shi'ite_

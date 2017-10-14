@@ -37,7 +37,7 @@ _Context: Nepal, United Nations Commission on Human Rights, civil rights, democr
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Maurice Strong, Canadian United Nations representative, steps down due to allegations of involvement with Tongsun Park and oil for food scandal. ](/news/2005/04/20/maurice-strong-canadian-united-nations-representative-steps-down-due-to-allegations-of-involvement-with-tongsun-park-and-oil-for-food-sca.md)
-_Context: Canadian, Maurice Strong, Tongsun, United Nations, oil-for-food_
+_Context: Canada, Maurice Strong, Tongsun, United Nations, oil-for-food_
 
 ### [ European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. ](/news/2005/04/20/european-union-representatives-cancel-meeting-with-a-pakistan-delegation-because-of-the-inclusion-of-hardliner-maulana-sami-ul-haq-who-all.md)
 _Context: EU, Maulana Sami ul-Haq, Pakistan, Taliban_

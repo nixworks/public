@@ -1,7 +1,7 @@
 ## [2007-12-11](/news/2007/12/11/index.md)
 
 ### [ Canadian serial killer Robert Pickton is sentenced to life in prison with a minimum of 25 years before a chance for parole. ](/news/2007/12/11/canadian-serial-killer-robert-pickton-is-sentenced-to-life-in-prison-with-a-minimum-of-25-years-before-a-chance-for-parole.md)
-_Context: Canadian, Robert Pickton_
+_Context: Canada, Robert Pickton_
 
 ### [ A series of ice storms across the central United States kills at least 24 and leaves nearly 1 million homes and businesses without electricity. ](/news/2007/12/11/a-series-of-ice-storms-across-the-central-united-states-kills-at-least-24-and-leaves-nearly-1-million-homes-and-businesses-without-electric.md)
 _Context: central, ice storms_

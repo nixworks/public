@@ -28,13 +28,13 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 _Context: ''Danton'', France, Mediterranean Sea, battleship_
 
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canadian, Ottawa, Prime Minister of Canada, Stephen Harper, U.S. President, United States_
+_Context: Barack Obama, Canada, Ottawa, Prime Minister of Canada, Stephen Harper, U.S. President, United States_
 
 ### [ China's Ministry of Health reports that HIV-AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
 _Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leading cause of death_
 
 ### [ Two Tupolev Tu-95 bombers are intercepted by two Canadian CF-18's near Canada's airspace hours before United States President Barack Obama arrives in Ottawa, Ontario.](/news/2009/02/19/two-tupolev-tu-95-bombers-are-intercepted-by-two-canadian-cf-18-s-near-canada-s-airspace-hours-before-united-states-president-barack-obama.md)
-_Context: Barack Obama, CF-18, Canadian, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, United States, bombers, international airspace_
+_Context: Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, United States, bombers, international airspace_
 
 ### [ Nigeria's Military Forces rescue two escaped Russian hostages who were abducted in the Niger Delta in December. ](/news/2009/02/19/nigeria-s-military-forces-rescue-two-escaped-russian-hostages-who-were-abducted-in-the-niger-delta-in-december.md)
 _Context: Military, Niger Delta, Nigeria, Russia, hostage, kidnapped_

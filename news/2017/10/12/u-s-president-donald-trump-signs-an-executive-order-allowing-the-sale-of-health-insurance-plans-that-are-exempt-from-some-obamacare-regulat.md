@@ -1,6 +1,6 @@
 ### [2017-10-12](/news/2017/10/12/index.md)
 
-# U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. The order does not replace Obamacare. 
+# U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. The order seeks consumer optimum pricing through market competition. The order does not replace Obamacare. 
 
 The new action would make it easier for Americans to buy stripped-down, cheaper polices.
 

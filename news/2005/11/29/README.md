@@ -25,7 +25,7 @@ _Context: Bangladesh, Chittagong, Gazipur, bomb_
 _Context: Carl Icahn, Lazard, Time Warner, proxy fight_
 
 ### [ Canadian federal election, 2006 - Canadian Governor General Michalle Jean formally dissolves Parliament, following Prime Minister Paul Martin's loss of a confidence vote, and calls a federal election for January 23, 2006. ](/news/2005/11/29/canadian-federal-election-2006-canadian-governor-general-michaelle-jean-formally-dissolves-parliament-following-prime-minister-paul-mar.md)
-_Context: Canadian, Canadian federal election, 2006, Governor General, Michalle Jean, Paul Martin, Prime Minister, motion of confidence_
+_Context: Canada, Canadian federal election, 2006, Governor General, Michalle Jean, Paul Martin, Prime Minister, motion of confidence_
 
 ## [Previous Day...](/news/2005/11/28/index.md)
 

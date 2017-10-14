@@ -10,7 +10,7 @@ _Context: Bangladesh, sedition_
 _Context: Burundi, civil war, constitution, referendum_
 
 ### [ Canada deports Holocaust denier Ernst Zndel to Germany, where he is arrested ](/news/2005/03/1/canada-deports-holocaust-denier-ernst-zundel-to-germany-where-he-is-arrested.md)
-_Context: Canadian, Ernst Zndel, Holocaust denial_
+_Context: Canada, Ernst Zndel, Holocaust denial_
 
 ### [ In the Democratic Republic of Congo, militia leader Floribert Ndjabu of Nationalist and Integrationist Front is reportedly arrested for the killing of nine Bangladeshi UN peacekeepers last week ](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.md)
 _Context: Bangladesh, Democratic Republic of Congo, Floribert Ndjabu, Nationalist and Integrationist Front, United Nations_

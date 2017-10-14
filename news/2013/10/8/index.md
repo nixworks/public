@@ -25,7 +25,7 @@ _Context: Savannah, Tennessee, Winston County, Alabama, child pornography_
 Newspaper industry proposals for a royal charter on press regulation have been rejected, Culture Secretary Maria Miller tells the House of Commons.
 
 ### [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.date=October 2013](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-date-october-2013.md)
-_Context: Canadian, Legislative Assembly, Nova Scotia, go to the polls_
+_Context: Canada, Legislative Assembly, Nova Scotia, go to the polls_
 
 ## [Previous Day...](/news/2013/10/7/index.md)
 

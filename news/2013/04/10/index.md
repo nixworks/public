@@ -16,7 +16,7 @@ _Context: China, Japan, Senkaku Islands, Taiwan, fishing_
 With his pledge to create a morally irreproachable republic in tatters over a ministerial tax fraud scandal, Fran&ccedil;ois Hollande has already had to eat his hat. Now, it emerges, someone else has eaten his camel.
 
 ### [The United States, Canada, and Jordan boycott a meeting of the UN General Assembly organized by a former Serbian foreign minister, Vuk Jeremic. ](/news/2013/04/10/the-united-states-canada-and-jordan-boycott-a-meeting-of-the-un-general-assembly-organized-by-a-former-serbian-foreign-minister-vuk-jerem.md)
-_Context: Canadian, Jordan, Serbia, Serbia's Foreign Minister, UN General Assembly, United States, Vuk Jeremic, boycott_
+_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, UN General Assembly, United States, Vuk Jeremic, boycott_
 
 ### [Liu Zhijun, the leader of the construction of the Chinese bullet train system and Minister of Railways, is arrested on corruption charges for allegedly taking bribes and abusing his power as Minister of Railways. ](/news/2013/04/10/liu-zhijun-the-leader-of-the-construction-of-the-chinese-bullet-train-system-and-minister-of-railways-is-arrested-on-corruption-charges-fo.md)
 China charges once-powerful former Railways Minister Liu Zhijun with corruption and abuse of power, state media reports.

@@ -1,7 +1,7 @@
 ## [2005-06-21](/news/2005/06/21/index.md)
 
 ### [ In Canada, after 2 straight days of rain, the city of Calgary, AB is under another state of emergency ands now the Elbow River is now flowing steadily over the Glenmore Dam. The towns of Bragg Creek, High River, Sundre, Okotoks, Drumheller, and Cochrane have to be evacuated. The low lying area of Calgary also have to be evacuated. This wave of floods is the last of the floods and the damage of the floods is almost incalculable.](/news/2005/06/21/in-canada-after-2-straight-days-of-rain-the-city-of-calgary-ab-is-under-another-state-of-emergency-ands-now-the-elbow-river-is-now-flowi.md)
-_Context: Bragg Creek, Calgary, AB, Canadian, Drumheller, Glenmore Dam_
+_Context: Bragg Creek, Calgary, AB, Canada, Drumheller, Glenmore Dam_
 
 ### [ The Cosmos 1 experimental solar sail spacecraft, a project of international space advocacy group The Planetary Society and science based entertainment company Cosmos Studios, is launched by a Russian R-29R Volna ICBM from a Russian Delta III submarine submerged in the Barents Sea. However, the spacecraft is feared lost, for the rocket failed 83 seconds after launch. ](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.md)
 _Context: Barents Sea, Cosmos 1, Cosmos Studios, Delta III, Planetary Society, R-29R, Russia, Volna, intercontinental ballistic missile, solar sail, space advocacy, spacecraft, submarine_

@@ -25,7 +25,7 @@ _Context: American Samoa, smoking_
 _Context: Barack Obama, Hu Jintao, White House, official ceremony_
 
 ### [Palestine calls for the "immediate, full lifting of the Israeli blockade" and "the sustained opening of Gaza's border crossings for the movement of persons and goods." during a debate at the UN Security Council.](/news/2011/01/19/palestine-calls-for-the-immediate-full-lifting-of-the-israeli-blockade-and-the-sustained-opening-of-gaza-s-border-crossings-for-the-move.md)
-_Context: Israeli blockade, State of Palestine, UN Security Council_
+_Context: Israeli blockade, Palestinian, UN Security Council_
 
 ### [Former Swiss bank employee Rudolf Elmer, who passed details of rich tax evaders to the WikiLeaks website, is found guilty of breaching Switzerland's strict bank secrecy laws. ](/news/2011/01/19/former-swiss-bank-employee-rudolf-elmer-who-passed-details-of-rich-tax-evaders-to-the-wikileaks-website-is-found-guilty-of-breaching-switz.md)
 Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLeaks, hours after he was found guilty of breaching a secrecy law.
@@ -43,7 +43,7 @@ _Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
 Controversial US pastor Terry Jones, who last year threatened a Koran-burning protest, has been banned from entering the UK, the Home Office says.
 
 ### [Prosecutors in the U.S. state of Pennsylvania charge a Philadelphia illegal abortionist with eight counts of murder for killing a patient and seven live born babies. ](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.md)
-_Context: Pennsylvania, Philadelphia, U.S. state, abortion_
+_Context: Pennsylvania, Philadelphia, Pennsylvania, U.S. state, abortion_
 
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.

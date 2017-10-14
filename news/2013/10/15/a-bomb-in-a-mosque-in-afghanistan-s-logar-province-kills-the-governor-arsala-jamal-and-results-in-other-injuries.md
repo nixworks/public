@@ -15,7 +15,7 @@
 2. [Eight Afghan labourers are killed on their way to work at a U.S. military base in Logar Province. ](/news/2013/07/18/eight-afghan-labourers-are-killed-on-their-way-to-work-at-a-u-s-military-base-in-logar-province.md) _Context: Afghanistan, Logar Province_
 3. [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md) _Context: Afghanistan, Logar Province_
 4. [35 people are killed in a suicide car bomb attack in Afghanistan's Logar province. ](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.md) _Context: Afghanistan, Logar Province_
-5. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan_
+5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
 
 ### Changes:
 

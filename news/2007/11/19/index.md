@@ -19,7 +19,7 @@ _Context: Cambodia, Khieu Samphan, Khmer Rouge, crimes against humanity, head of
 _Context: Afghanistan, Ghulam Dastageer, Nimruz Province, gubernatorial elections, suicide bomber_
 
 ### [ Israel releases 450 Palestinian prisoners ahead of the 2007 Mideast peace conference with the Palestinian Authority. ](/news/2007/11/19/israel-releases-450-palestinian-prisoners-ahead-of-the-2007-mideast-peace-conference-with-the-palestinian-authority.md)
-_Context: 2007 Mideast peace conference, Israel, Palestinian Authority, State of Palestine, prison_
+_Context: 2007 Mideast peace conference, Israel, Palestinian, Palestinian Authority, prison_
 
 ### [ About 70 people die and 50 are missing after a flooding caused by cyclone Guba in the Oro Province of Papua New Guinea. ](/news/2007/11/19/about-70-people-die-and-50-are-missing-after-a-flooding-caused-by-cyclone-guba-in-the-oro-province-of-papua-new-guinea.md)
 _Context: Oro Province, Papua New Guinea, cyclone Guba, flooding_

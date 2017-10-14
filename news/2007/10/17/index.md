@@ -10,7 +10,7 @@ _Context: John Fahey, Premier, World Anti-Doping Agency_
 _Context: Congressional Gold Medal, Dalai Lama, George W. Bush, United States Congress_
 
 ### [ Burmese activist and Nobel laureate Aung San Suu Kyi is granted honorary citizenship by Canada. ](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.md)
-_Context: Aung San Suu Kyi, Burma, Canadian, Honorary Canadian citizenship_
+_Context: Aung San Suu Kyi, Burma, Canada, Honorary Canadian citizenship_
 
 ### [ 2007 Turkish offensive on Iraqi territories against Kurdish rebels: The Turkish Grand National Assembly approves a government request for their troops to cross the Iraqi border to attack Kurdish rebels. ](/news/2007/10/17/2007-turkish-offensive-on-iraqi-territories-against-kurdish-rebels-the-turkish-grand-national-assembly-approves-a-government-request-for-t.md)
 _Context: 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraq, Iraqi Kurd, Turkey, Turkish Parliament_
@@ -22,7 +22,7 @@ _Context: Omar Hassan al-Bashir, President of Sudan, Sudan People's Liberation M
 _Context: BSE Sensex, Bombay Stock Exchange_
 
 ### [ Floyd Roland becomes the new Premier of the Northwest Territories, Canada. ](/news/2007/10/17/floyd-roland-becomes-the-new-premier-of-the-northwest-territories-canada.md)
-_Context: Canadian, Floyd Roland, Premier of the Northwest Territories_
+_Context: Canada, Floyd Roland, Premier of the Northwest Territories_
 
 ### [ Pope Benedict XVI announces he will create twenty-three new members of the College of Cardinals in the consistory of November 24. ](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.md)
 _Context: College of Cardinals, Consistory, Pope Benedict XVI_

@@ -1,7 +1,7 @@
 ## [2005-12-1](/news/2005/12/1/index.md)
 
 ### [ South Africa's Constitutional Court declares that current marriage laws restricting marriage to opposite-sex couples are unconstitutional and must be changed within a year. Once the change is made, South Africa will be the fifth country in the world where same-sex marriages are recognized, after Canada, Spain, the Netherlands, and Belgium. ](/news/2005/12/1/south-africa-s-constitutional-court-declares-that-current-marriage-laws-restricting-marriage-to-opposite-sex-couples-are-unconstitutional-a.md)
-_Context: Belgium, Canadian, Netherlands, South Africa, South African Constitutional Court, Spain, same-sex marriage, same-sex marriages, unconstitutional_
+_Context: Belgium, Canada, Netherlands, South Africa, South African Constitutional Court, Spain, same-sex marriage, same-sex marriages, unconstitutional_
 
 ### [ The European Central Bank raises interest rates for the first time in five years, from 2.0% to 2.25%. This will affect the cost of money in the twelve Eurozone countries. ](/news/2005/12/1/the-european-central-bank-raises-interest-rates-for-the-first-time-in-five-years-from-2-0-to-2-25-this-will-affect-the-cost-of-money-in.md)
 _Context: European Central Bank, Eurozone_

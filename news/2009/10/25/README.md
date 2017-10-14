@@ -4,7 +4,7 @@
 _Context: 2009 American League Championship Series, Los Angeles Angels, New York Yankees, baseball world series_
 
 ### [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md)
-_Context: Israel, Jerusalem, State of Palestine, Temple Mount_
+_Context: Israel, Jerusalem, Palestinian, Temple Mount_
 
 ### [ Bomb blasts kill 155 people and injure at least 500 in central Baghdad, the country's deadliest attack for two years. ](/news/2009/10/25/bomb-blasts-kill-155-people-and-injure-at-least-500-in-central-baghdad-the-country-s-deadliest-attack-for-two-years.md)
 REUTERS - Twin car bombs targeting two government buildings killed at least 132 people and wounded more than 500 in central Baghdad on Sunday, police sai

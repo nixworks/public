@@ -31,7 +31,7 @@ At least 18 people have been killed in Guatemala, including a dozen on a bus tha
 Two light aircraft collided during an aerial race in England Saturday, killing two people, authorities said.
 
 ### [Former Hurricane Earl loses its tropical storm status after making landfall in Nova Scotia, Canada but left one person dead and a million people without power in Canada. ](/news/2010/09/4/former-hurricane-earl-loses-its-tropical-storm-status-after-making-landfall-in-nova-scotia-canada-but-left-one-person-dead-and-a-million-pe.md)
-_Context: Canadian, Hurricane Earl, Nova Scotia, tropical storm_
+_Context: Canada, Hurricane Earl, Nova Scotia, tropical storm_
 
 ### [Hundreds of people are believed to have died in the Democratic Republic of the Congo in river boat accidents. ](/news/2010/09/4/hundreds-of-people-are-believed-to-have-died-in-the-democratic-republic-of-the-congo-in-river-boat-accidents.md)
 _Context: Democratic Republic of the Congo, river boat_

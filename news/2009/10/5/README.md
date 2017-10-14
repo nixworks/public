@@ -13,7 +13,7 @@ _Context: Bangkok, Hua Hin_
 _Context: Samoa, the deadly tsunami_
 
 ### [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md)
-_Context: Canadian, Quebec_
+_Context: Canada, Quebec_
 
 ### [ Five people are killed in a suicide bomb attack at a United Nations World Food Programme office in Islamabad, Pakistan. ](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.md)
 An explosion apparently caused by a suicide bomber in the lobby of the World Food Program office in Islamabad killed at least five people.

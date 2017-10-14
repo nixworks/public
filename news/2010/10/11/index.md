@@ -34,13 +34,13 @@ _Context: Indonesia, West Papua, flood_
 _Context: 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010), hurricane_
 
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
-_Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, State of Palestine_
+_Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Palestinian_
 
 ### [China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-prize-is-awarded.md)
 _Context: China, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
-_Context: Canadian, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
+_Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
 
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.

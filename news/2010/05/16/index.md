@@ -25,7 +25,7 @@ _Context: Baghdad, Nuri al-Maliki, elections_
 _Context: Iran, Lula, Recep Tayyip Erdogan, Tehran_
 
 ### [Canadian fighter jets escort a Cathay Pacific airliner to land at Vancouver International Airport during a bomb alert and the passengers are removed. ](/news/2010/05/16/canadian-fighter-jets-escort-a-cathay-pacific-airliner-to-land-at-vancouver-international-airport-during-a-bomb-alert-and-the-passengers-are.md)
-_Context: Canadian, Cathay Pacific, Vancouver International Airport_
+_Context: Canada, Cathay Pacific, Vancouver International Airport_
 
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
 _Context: Barack Obama, Gaza Strip, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_

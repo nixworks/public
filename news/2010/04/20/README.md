@@ -25,7 +25,7 @@ _Context: Cairo_
 _Context: Omar al-Bashir, Sudan, post-election protests_
 
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
-_Context: Israel, State of Palestine, West Bank_
+_Context: Israel, Palestinian, West Bank_
 
 ### [The Yushu earthquake death toll rises to 2,046. ](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.md)
 Nearly 200 people still missing in Qinghai as government declares day of mourning.

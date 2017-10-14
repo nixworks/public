@@ -1,7 +1,7 @@
 ## [2007-11-17](/news/2007/11/17/index.md)
 
 ### [ War in Afghanistan: Two NATO Canadian soldiers and an interpreter are killed by a roadside bomb in Panjawi, Kandahar province. Three more soldiers are wounded. ](/news/2007/11/17/war-in-afghanistan-two-nato-canadian-soldiers-and-an-interpreter-are-killed-by-a-roadside-bomb-in-panjawi-kandahar-province-three-more-s.md)
-_Context: Canadian, Kandahar, NATO, Panjawi, War in Afghanistan (2001-present), interpreter, roadside bomb_
+_Context: Canada, Kandahar, NATO, Panjawi, War in Afghanistan (2001-present), interpreter, roadside bomb_
 
 ### [ 2007 Burmese anti-government protests: The State Peace and Development Council admits 15 people have died during the protests, while United Nations envoy Paulo Sergio Pinheiro meets with ministers and political prisoners, including Win Tin. ](/news/2007/11/17/2007-burmese-anti-government-protests-the-state-peace-and-development-council-admits-15-people-have-died-during-the-protests-while-united.md)
 _Context: 2007 Burmese anti-government protests, Paulo Srgio Pinheiro, State Peace and Development Council, United Nations, Win Tin, minister, political prisoner_

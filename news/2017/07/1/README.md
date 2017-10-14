@@ -25,7 +25,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 Clubgoers screamed and scrambled for cover as dozens of gunshots rang out during a rap concert in downtown Little Rock overnight, leaving 28 people injured from an 11-second melee that police said may be gang- related. 
 
 ### [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md)
-_Context: Canada Day, Canadian, Canadian Confederation, sesquicentennial_
+_Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 
 ### [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md)
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.

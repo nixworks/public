@@ -16,7 +16,7 @@ Four teenagers were killed and 48 others were injured after a tornado ripped thr
 _Context: Cuba, economy, productivity_
 
 ### [ The Prime Minister of Canada Stephen Harper apologises to tens of thousands of the aboriginal peoples of Canada for more than a century of abuses of First Nations, Inuit and Metis at residential schools set up to assimilate them into Canadian society. ](/news/2008/06/11/the-prime-minister-of-canada-stephen-harper-apologises-to-tens-of-thousands-of-the-aboriginal-peoples-of-canada-for-more-than-a-century-of.md)
-_Context: Canadian, Inuit, Metis, Native American, Prime Minister of Canada, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
+_Context: Canada, Inuit, Metis, Native American, Prime Minister of Canada, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
 
 ### [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md)
 _Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_

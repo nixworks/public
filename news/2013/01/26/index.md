@@ -31,7 +31,7 @@ _Context: Czech Republic, Czech presidential election, Karel Schwarzenberg, Milo
 In less than a year, Singapore will have a second by-election, as Prime Minister Lee Hsien Loong has decided to call for a by-election in Punggol East, less than two months after it fell vacant.. Read more at straitstimes.com.
 
 ### [Kathleen Wynne is elected as the leader of the ruling Ontario Liberal Party and will become the first female Premier of the Canadian province of Ontario and the first openly gay premier in Canadian history. ](/news/2013/01/26/kathleen-wynne-is-elected-as-the-leader-of-the-ruling-ontario-liberal-party-and-will-become-the-first-female-premier-of-the-canadian-provinc.md)
-_Context: Canadian, Kathleen Wynne, Ontario, Ontario Liberal Party, Premier, gay and bisexual men_
+_Context: Canada, Kathleen Wynne, Ontario, Ontario Liberal Party, Premier, gay and bisexual men_
 
 ## [Previous Day...](/news/2013/01/25/index.md)
 

@@ -40,7 +40,7 @@ _Context: Hungary, heat wave_
 _Context: Indonesia, Sulawesi island, flood, landslide_
 
 ### [ The 5 Bulgarian nurses and the Palestinian assistant, imprisoned in Libya for 8 years and that had been sentenced to death, in several trials based on allegations of having inoculated AIDS to children, are leaving Libya and returning back to Sofia with Mrs Ccilia Sarkozy who negotiated their liberation. ](/news/2007/07/24/the-5-bulgarian-nurses-and-the-palestinian-assistant-imprisoned-in-libya-for-8-years-and-that-had-been-sentenced-to-death-in-several-tria.md)
-_Context: AIDS, Bulgaria, Ccilia, HIV trial in Libya, Libya, Sofia, State of Palestine_
+_Context: AIDS, Bulgaria, Ccilia, HIV trial in Libya, Libya, Palestinian, Sofia_
 
 ## [Previous Day...](/news/2007/07/23/index.md)
 

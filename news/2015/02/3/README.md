@@ -34,7 +34,7 @@ Standard &amp; Poor’s $1.5 billion settlement today will let the world’s big
 An Argentine prosecutorfound dead in mysterious circumstances last month had drafted arequest that President Cristina Fernandez be arrested forconspiring to derail his probe into the deadly bombing of aJewish center, the investigator into his death said on Tuesday.
 
 ### [John Baird resigns as the Canadian Minister of Foreign Affairs. ](/news/2015/02/3/john-baird-resigns-as-the-canadian-minister-of-foreign-affairs.md)
-_Context: Canadian, John Baird, Minister of Foreign Affairs_
+_Context: Canada, John Baird, Minister of Foreign Affairs_
 
 ## [Previous Day...](/news/2015/02/2/index.md)
 

@@ -28,7 +28,7 @@ _Context: FBI, Mark Foley, United States, United States House of Representatives
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Canada's Meteorological Service issues a tropical storm warning for the Avalon Peninsula in southeastern Newfoundland, including the cities of Cape Race and St John's, due to Hurricane Isaac. ](/news/2006/10/2/canada-s-meteorological-service-issues-a-tropical-storm-warning-for-the-avalon-peninsula-in-southeastern-newfoundland-including-the-cities.md)
-_Context: Avalon Peninsula, Canadian, Cape Race, Meteorological Service, Newfoundland, St. John's, tropical storm warning_
+_Context: Avalon Peninsula, Canada, Cape Race, Meteorological Service, Newfoundland, St. John's, tropical storm warning_
 
 ## [Previous Day...](/news/2006/10/1/index.md)
 

@@ -8,8 +8,10 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/yorkers-explosive-expose-harvey-weinstein/story?id=50399286)
-2. [The New Yorker](https://www.newyorker.com/news/news-desk/from-aggressive-overtures-to-sexual-assault-harvey-weinsteins-accusers-tell-their-stories)
-2. [Cover Image](http://a.abcnews.com/images/Entertainment/weistein-5-gty-er-171010_16x9_992.jpg)
+2. [Fox News](http://www.foxnews.com/entertainment/2017/10/12/did-nbc-news-president-have-ties-to-harvey-weinstein-company-refuses-to-say.html)
+3. [The New York Times](https://www.nytimes.com/2017/10/11/business/media/nbc-news-harvey-weinstein.html)
+4. [The New Yorker](https://www.newyorker.com/news/news-desk/from-aggressive-overtures-to-sexual-assault-harvey-weinsteins-accusers-tell-their-stories)
+4. [Cover Image](http://a.abcnews.com/images/Entertainment/weistein-5-gty-er-171010_16x9_992.jpg)
 
 ### Related:
 

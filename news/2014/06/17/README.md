@@ -22,7 +22,7 @@ _Context: North Waziristan, Pakistan Air Force, War in North-West Pakistan_
 _Context: 2014 FIFA World Cup, Damaturu, Islamist insurgency in Nigeria, Nigeria, suicide bomber_
 
 ### [A tornado hits southern in Ontario, Canada causing extensive damage in the corridor from Angus to Barrie. ](/news/2014/06/17/a-tornado-hits-southern-in-ontario-canada-causing-extensive-damage-in-the-corridor-from-angus-to-barrie.md)
-_Context: Angus, Barrie, Canadian, Ontario_
+_Context: Angus, Barrie, Canada, Ontario_
 
 ### [Several other intense tornadoes touch down in Montana and northeast Nebraska](/news/2014/06/17/several-other-intense-tornadoes-touch-down-in-montana-and-northeast-nebraska.md)
 ### [South African wild fires kill seven people, five in Kokstad in KwaZulu-Natal and two in the Abaqulusi Local Municipality, as well as destroying thousands of hectares of forest and grazing land. ](/news/2014/06/17/south-african-wild-fires-kill-seven-people-five-in-kokstad-in-kwazulu-natal-and-two-in-the-abaqulusi-local-municipality-as-well-as-destroy.md)

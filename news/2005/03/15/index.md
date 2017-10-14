@@ -21,7 +21,7 @@ _Context: Democratic Republic of Congo, International Criminal Court, civil war,
 ### [ The government of Italy announces that it will begin to withdraw its troops from Iraq in several months. ](/news/2005/03/15/the-government-of-italy-announces-that-it-will-begin-to-withdraw-its-troops-from-iraq-in-several-months.md)
 _Context: Iraq_
 
-### [ Thousands of protesters demonstrate violently outside parliament against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja ](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-outside-parliament-against-rising-prices-and-high-tax-increases-some-of-them-call-for-resign.md)
+### [ Thousands of protesters demonstrate violently outside parliament in Niger against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja ](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-outside-parliament-in-niger-against-rising-prices-and-high-tax-increases-some-of-them-call-f.md)
 _Context: Mamadou Tandja, tax_
 
 ### [ In Zimbabwe, new electoral court rules that jailed opposition politician Roy Bennett, member of the Movement for Democratic Change, can take part of parliamentary elections on March 31. ](/news/2005/03/15/in-zimbabwe-new-electoral-court-rules-that-jailed-opposition-politician-roy-bennett-member-of-the-movement-for-democratic-change-can-tak.md)

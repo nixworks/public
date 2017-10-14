@@ -10,7 +10,7 @@ _Context: French Quarter, George W. Bush, New Orleans, Louisiana, U.S. Federal E
 _Context: Clinton Global Initiative, New York City_
 
 ### [ The Supreme court of Israel rejects the opinion of International Court of Justice for the removal of Israeli West Bank barrier, but calls on part of the wall to be re-routed so as not to encroach on Palestinian lands. The world court had called the barrier illegal and ordered the wall be torn down. ](/news/2005/09/15/the-supreme-court-of-israel-rejects-the-opinion-of-international-court-of-justice-for-the-removal-of-israeli-west-bank-barrier-but-calls-o.md)
-_Context: International Court of Justice, Israel, State of Palestine, Supreme Court, barrier_
+_Context: International Court of Justice, Israel, Palestinian, Supreme Court, barrier_
 
 ### [ Conflict in Iraq: At least 26 Iraqi police die following two car bombs in the Baghdad. Elsewhere, 3 Shia pilgrims are shot dead by a passenger in a passing car traveling to Karbala, two Iraqi police members are killed near Kirkuk and three civil servants die following an attack on the Ministry of Industry in East Baghdad. ](/news/2005/09/15/conflict-in-iraq-at-least-26-iraqi-police-die-following-two-car-bombs-in-the-baghdad-elsewhere-3-shia-pilgrims-are-shot-dead-by-a-passen.md)
 _Context: Baghdad, Conflict in Iraq, Iraqi Police, Karbala, Kirkuk, Shia, car bomb, civil servant, drive-by shooting_

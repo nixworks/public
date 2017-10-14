@@ -34,7 +34,7 @@ _Context: Admiralty, Hong Kong_
 _Context: Andrew Little, David Cunliffe, Labour Party, elected_
 
 ### [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md)
-_Context: Canadian, Gulf Coast, Keystone XL, Senator, Texas, oil sands_
+_Context: Canada, Gulf Coast, Keystone XL, Senator, Texas, oil sands_
 
 ## [Previous Day...](/news/2014/11/17/index.md)
 

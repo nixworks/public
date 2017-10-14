@@ -28,7 +28,7 @@ _Context: 2010 Africa Cup of Nations, Angola, France, Johannesburg, Kodjovi Obil
 A former president of Bosnia accused of war crimes was arrested today at Heathrow airport as he tried to leave the country.
 
 ### [The Palestinian cabinet moves its weekly meeting from Ramallah to Hebron in a symbolic protest at the decision by Israel to add Hebron's Cave of the Patriarchs and Rachel's Tomb in Bethlehem to its list of national heritage sites. ](/news/2010/03/1/the-palestinian-cabinet-moves-its-weekly-meeting-from-ramallah-to-hebron-in-a-symbolic-protest-at-the-decision-by-israel-to-add-hebron-s-cav.md)
-_Context: Bethlehem, Cave of the Patriarchs, Hebron, Israel, Rachel's Tomb, Ramallah, State of Palestine_
+_Context: Bethlehem, Cave of the Patriarchs, Hebron, Israel, Palestinian, Rachel's Tomb, Ramallah_
 
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes in The Hague. ](/news/2010/03/1/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-in-the-hague.md)
 Former Bosnian Serb leader Radovan Karadzic is expected to begin outlining his defence when his genocide trial at The Hague resumes today. - New Zealand Herald

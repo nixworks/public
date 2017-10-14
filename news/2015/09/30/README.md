@@ -31,7 +31,7 @@ Tropical Storm Joaquin is expected to strengthen while moving north of the East 
 The strongest earthquake of the year struck the Groningen province at 6:05 p.m. on Wednesday, according to Dutch meteorological agency KNMI. The earthquake measured 3.1 on the Richter Scale, with an epicentre near Hellum, about 20 kilometers east of the city of Groningnen.
 
 ### [Mahmoud Abbas, the President of the Palestinian Authority, states that Palestine will no longer abide by the Oslo accords and claims that Israel has not been complying with them. ](/news/2015/09/30/mahmoud-abbas-the-president-of-the-palestinian-authority-states-that-palestine-will-no-longer-abide-by-the-oslo-accords-and-claims-that-is.md)
-_Context: Israel, Mahmoud Abbas, Oslo accords, President of the Palestinian Authority, State of Palestine_
+_Context: Israel, Mahmoud Abbas, Oslo accords, Palestinian, President of the Palestinian Authority_
 
 ### [The flag of the State of Palestine is raised above the grounds of the United Nations Headquarters in New York for the first time. ](/news/2015/09/30/the-flag-of-the-state-of-palestine-is-raised-above-the-grounds-of-the-united-nations-headquarters-in-new-york-for-the-first-time.md)
 U.N. members voted earlier this month to allow the Palestinian and Vatican flags to fly.

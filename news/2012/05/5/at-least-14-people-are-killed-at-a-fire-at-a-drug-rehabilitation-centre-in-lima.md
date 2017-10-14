@@ -21,5 +21,5 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima has killed 1
 
 ### Changes:
 
-1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _2017-10-12 03:41:46 (First version)_
+1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _2017-10-13 03:41:46 (First version)_
 1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _(Current version)_

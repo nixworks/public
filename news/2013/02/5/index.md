@@ -28,7 +28,7 @@ Some 10,000 women and girls entered Magdalene laundries since 1922 with more tha
 _Context: 2012 Delhi gang rape case, India, Pranab Mukherjee, President of India, death, death penalty_
 
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: California, Forestville, Sonoma County, United States_
+_Context: California, Forestville, Sonoma, United States_
 
 ### [Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. ](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicide-in-johns-creek-georgia-united-states.md)
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.

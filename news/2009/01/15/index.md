@@ -16,7 +16,7 @@ _Context: International Year of Astronomy, Paris, UNESCO, opening ceremony_
 _Context: Airbus A320, Hudson River, New York City, US Airways, US Airways Flight 1549, ditches_
 
 ### [ A sprinkler incident at a Toronto, Ontario, Canada hydro power station sparks a major power outage in a huge swath in the City's west end affecting more than 250,000 people. ](/news/2009/01/15/a-sprinkler-incident-at-a-toronto-ontario-canada-hydro-power-station-sparks-a-major-power-outage-in-a-huge-swath-in-the-city-s-west-end-a.md)
-_Context: Canadian, Toronto, Ontario_
+_Context: Canada, Toronto, Ontario_
 
 ### [ NASA announces that methane in Mars' atmosphere "could be produced either by geological activity or by life." ](/news/2009/01/15/nasa-announces-that-methane-in-mars-atmosphere-could-be-produced-either-by-geological-activity-or-by-life.md)
 _Context: Mars, Mars' atmosphere, NASA, geologists, methane_

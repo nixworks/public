@@ -12,4 +12,5 @@
 
 ### Related:
 
-1. [ The scandal about U.S. torture in Iraq widens as "The New Yorker" reports about guards setting dogs against naked prisoners. ](/news/2004/05/9/the-scandal-about-u-s-torture-in-iraq-widens-as-the-new-yorker-reports-about-guards-setting-dogs-against-naked-prisoners.md) _Context: The New Yorker_
+1. [A report by Ronan Farrow published in "The New Yorker" alleges that Weinstein had sexually assaulted or harassed 13 women, and raped three of them. ](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.md) _Context: The New Yorker_
+2. [ The scandal about U.S. torture in Iraq widens as "The New Yorker" reports about guards setting dogs against naked prisoners. ](/news/2004/05/9/the-scandal-about-u-s-torture-in-iraq-widens-as-the-new-yorker-reports-about-guards-setting-dogs-against-naked-prisoners.md) _Context: The New Yorker_

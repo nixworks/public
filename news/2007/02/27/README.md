@@ -10,7 +10,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 _Context: California, Roman Catholic Diocese of San Diego, bankruptcy, civil lawsuit, priest, sexual abuse_
 
 ### [ Canada's House of Commons votes not to extend provisions of its anti-terrorism legislation that allows for preventative arrests and forced testimony. ](/news/2007/02/27/canada-s-house-of-commons-votes-not-to-extend-provisions-of-its-anti-terrorism-legislation-that-allows-for-preventative-arrests-and-forced.md)
-_Context: Canadian, Canadian House of Commons_
+_Context: Canada, Canadian House of Commons_
 
 ### [ After rumours that authorities were going to raise interest rates in an attempt to curb inflation, the SSE Composite Index of the Shanghai Stock Exchange tumbles 9% from unexpected selloffs, the largest drop in 10 years, triggering major drops in worldwide stock markets. ](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.md)
 _Context: Shanghai Composite Index, Shanghai Stock Exchange_

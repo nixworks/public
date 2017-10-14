@@ -37,7 +37,7 @@ _Context: Iran, Mahmoud Ahmadinejad, President, nuclear program_
 _Context: African Union, Guinea, Moussa Dadis Camara_
 
 ### [ Rwandan man Dsir Munyaneza is given a life sentence in Canada for his role in the Rwandan genocide under the Crimes Against Humanity and War Crimes Act. ](/news/2009/10/29/rwandan-man-desire-munyaneza-is-given-a-life-sentence-in-canada-for-his-role-in-the-rwandan-genocide-under-the-crimes-against-humanity-and.md)
-_Context: Canadian, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
+_Context: Canada, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
 
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
 _Context: Los Angeles, North Hollywood, United States, synagogue_

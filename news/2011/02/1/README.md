@@ -37,7 +37,7 @@ _Context: Iran's own constitution, Iranian human rights, United States, Zahra Ba
 _Context: North Korea, South Korea, Yeonpyeong Island, attack_
 
 ### [Palestine is recognised within its 1967 borders by Suriname.](/news/2011/02/1/palestine-is-recognised-within-its-1967-borders-by-suriname.md)
-_Context: State of Palestine, Suriname, officially recognises_
+_Context: Palestinian, Suriname, officially recognises_
 
 ### [U.S. soldier Bradley Manning, the alleged whistleblower who is thought to have revealed secret U.S. government documents to the international public, is reported to be held in solitary confinement awaiting trial by the United States for seven months now, treatment which the United Nations deems a form of torture when used for such prolonged periods. ](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.md)
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.

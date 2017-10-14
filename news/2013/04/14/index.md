@@ -25,7 +25,7 @@ Venezuelans have been voting to choose a successor to late President Hugo Chavez
 _Context: Croatia, EU, European Parliament, MP, country's first ever vote, formal entry of Croatia_
 
 ### [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md)
-_Context: Canadian, Justin Trudeau, Liberal Party's, Pierre Trudeau, Prime Minister of Canada_
+_Context: Canada, Justin Trudeau, Liberal Party's, Pierre Trudeau, Prime Minister of Canada_
 
 ## [Previous Day...](/news/2013/04/13/index.md)
 

@@ -1,10 +1,10 @@
 ## [2005-12-7](/news/2005/12/7/index.md)
 
 ### [ Canadian Prime Minister Paul Martin addresses the Montreal conference on climate change, and is critical of the United States's stance on the issue. Martin's allegedly "undiplomatic" comments&mdash;"there is such a thing as a global conscience, and now is the time to listen to it"&mdash;reportedly anger Vice President Dick Cheney. ](/news/2005/12/7/canadian-prime-minister-paul-martin-addresses-the-montreal-conference-on-climate-change-and-is-critical-of-the-united-states-s-stance-on-t.md)
-_Context: Canadian, Dick Cheney, Paul Martin, Prime Minister of Canada, U.S. Vice President, United States, climate change, diplomatic_
+_Context: Canada, Dick Cheney, Paul Martin, Prime Minister of Canada, U.S. Vice President, United States, climate change, diplomatic_
 
 ### [ The third President of Singapore, Chengara Veetil Devan Nair, passes away in Canada at the age of 82. ](/news/2005/12/7/the-third-president-of-singapore-chengara-veetil-devan-nair-passes-away-in-canada-at-the-age-of-82.md)
-_Context: Canadian, Chengara Veetil Devan Nair, president_
+_Context: Canada, Chengara Veetil Devan Nair, president_
 
 ### [ Two people are wounded in Malawi, which is facing serious food shortages, following clashes between police and people trying to buy cornmeal. ](/news/2005/12/7/two-people-are-wounded-in-malawi-which-is-facing-serious-food-shortages-following-clashes-between-police-and-people-trying-to-buy-cornmea.md)
 _Context: Malawi, cornmeal, serious food shortages_

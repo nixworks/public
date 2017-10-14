@@ -34,7 +34,7 @@ _Context: Bombay House, India, Mumbai, Tata Group_
 Thieves tapping into aMexican fuel pipeline triggered a large diesel fuel spill southof the border city of Tijuana in Baja California state onWednesday, authorities said.
 
 ### [Two small planes (took off from Langley Regional Airport) collide mid-air near Mission, British Columbia, in western Canada, with at least one person dead. ](/news/2011/02/9/two-small-planes-took-off-from-langley-regional-airport-collide-mid-air-near-mission-british-columbia-in-western-canada-with-at-least-o.md)
-_Context: Canadian, Langley Regional Airport, Mission, British Columbia_
+_Context: Canada, Langley Regional Airport, Mission, British Columbia_
 
 ### [An explosion occurs in Allentown, Pennsylvania, United States, resulting in two people being missing. ](/news/2011/02/9/an-explosion-occurs-in-allentown-pennsylvania-united-states-resulting-in-two-people-being-missing.md)
 Five people -- including a 4-month-old boy -- have died in Allentown&apos;s massive gas explosion and fire, authorities confirmed at a Thursday afternoon news conferece.

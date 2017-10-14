@@ -1,7 +1,7 @@
 ## [1999-07-17](/news/1999/07/17/index.md)
 
 ### [ The Pabok Regional County Municipality in Quebec, Canada is renamed to Le Rocher-Perce after the Perce Rock.](/news/1999/07/17/the-pabok-regional-county-municipality-in-quebec-canada-is-renamed-to-le-rocher-perca-c-after-the-perca-c-rock.md)
-_Context: Canadian, Le Rocher-Perce, Perce Rock, Quebec_
+_Context: Canada, Le Rocher-Perce, Perce Rock, Quebec_
 
 ### [ Studio Ghibli releases the animated film "My Neighbors the Yamadas".](/news/1999/07/17/studio-ghibli-releases-the-animated-film-my-neighbors-the-yamadas.md)
 _Context: My Neighbors the Yamadas, Studio Ghibli_

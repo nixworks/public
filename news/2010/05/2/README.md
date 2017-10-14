@@ -19,7 +19,7 @@ _Context: EU, Greek, International Monetary Fund, economically troubled euro-zon
 _Context: Democratic Republic of the Congo, Uganda, United Nations_
 
 ### [After Iran's selection to the Commission on the Status of Women, a United Nations panel on women's rights, Canada cites "serious concerns" about Iran's participation in the panel and Iran's human-rights record. ](/news/2010/05/2/after-iranas-selection-to-the-commission-on-the-status-of-women-a-united-nations-panel-on-womenas-rights-canada-cites-aserious-conce.md)
-_Context: Canadian, Commission on the Status of Women, Iran, Iranian human rights, United Nations, women's rights_
+_Context: Canada, Commission on the Status of Women, Iran, Iranian human rights, United Nations, women's rights_
 
 ### [Hizbul Islam members enter Harardhere in Somalia, and meet no resistance; they promise to enter other towns in the region. ](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.md)
 Hizbul Islam members enter the pirate base of Haradheere, residents say.

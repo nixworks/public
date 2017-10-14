@@ -1,7 +1,7 @@
 ## [2008-08-10](/news/2008/08/10/index.md)
 
 ### [ Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. ](/news/2008/08/10/massive-explosions-at-a-propane-facility-just-before-4-a-m-erupt-in-the-toronto-canada-community-of-downsview-resulting-in-the-evacuatio.md)
-_Context: Canadian, Downsview, Highway 401, Toronto, propane_
+_Context: Canada, Downsview, Highway 401, Toronto, propane_
 
 ### [ Monsoon rains in India kill at least 40 people with flooding heaviest in Andhra Pradesh with flooding in the capital Hyderabad killing 14 people. ](/news/2008/08/10/monsoon-rains-in-india-kill-at-least-40-people-with-flooding-heaviest-in-andhra-pradesh-with-flooding-in-the-capital-hyderabad-killing-14-p.md)
 _Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_

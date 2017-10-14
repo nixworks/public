@@ -34,7 +34,7 @@ _Context: Gran Telescopio Canarias, Juan Carlos I, reflecting telescope_
 Afghan President Hamid Karzai, setting out his election manifesto, vowed on Friday to make foreign troops sign a framework governing how they operate in a bid to limit civilians casualties.
 
 ### [ Canada's national rail service, Via Rail, cancels train service due to a strike by its engineer workers. ](/news/2009/07/24/canada-s-national-rail-service-via-rail-cancels-train-service-due-to-a-strike-by-its-engineer-workers.md)
-_Context: Canadian, Via Rail, strike_
+_Context: Canada, Via Rail, strike_
 
 ### [ FBI and IRS agents arrests 44 people, including five rabbis, two New Jersey state legislators, and three mayors in Operation Bid Rig. ](/news/2009/07/24/fbi-and-irs-agents-arrests-44-people-including-five-rabbis-two-new-jersey-state-legislators-and-three-mayors-in-operation-bid-rig.md)
 _Context: FBI, Internal Revenue Service, New Jersey, Operation Bid Rig, mayors, rabbi_

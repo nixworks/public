@@ -43,7 +43,7 @@ _Context: Foreign Minister, Israel, Syria, Walid Muallem_
 _Context: Alan Johnston, BBC, Gaza Strip_
 
 ### [ War in Afghanistan: Six Canadian soldiers were killed by a roadside bomb in the Panjwaii district. ](/news/2007/07/4/war-in-afghanistan-six-canadian-soldiers-were-killed-by-a-roadside-bomb-in-the-panjwaii-district.md)
-_Context: Canadian, Panjwaii, War in Afghanistan (2001-present)_
+_Context: Canada, Panjwaii, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2007/07/3/index.md)
 

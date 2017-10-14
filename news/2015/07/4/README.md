@@ -28,7 +28,7 @@ BERLIN (AFP) - The historic vineyards, wine cellars and champagne houses where t
 _Context: Wenling, Zhejiang province_
 
 ### [ A wildfire in the Canadian province of Saskatchewan forces 8,000 people from their homes. ](/news/2015/07/4/a-wildfire-in-the-canadian-province-of-saskatchewan-forces-8-000-people-from-their-homes.md)
-_Context: Canadian, Saskatchewan_
+_Context: Canada, Saskatchewan_
 
 ### [ A South Korean navy officer is charged with leaking confidential information to China. ](/news/2015/07/4/a-south-korean-navy-officer-is-charged-with-leaking-confidential-information-to-china.md)
 _Context: South Korean navy_

@@ -21,11 +21,11 @@ Black-clad anarchists protesting at the G20 summit have smashed storefronts and 
 
 ### Related:
 
-1. [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md) _Context: Canadian, G20 summit_
-2. [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md) _Context: Canadian, G20 summit_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Canadian_
-4. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canadian_
-5. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canadian_
+1. [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md) _Context: Canada, G20 summit_
+2. [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md) _Context: Canada, G20 summit_
+3. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
+4. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
+5. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
 
 ### Changes:
 

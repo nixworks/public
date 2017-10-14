@@ -67,7 +67,7 @@ _Context: EU, Labour Party, May Day, Michael D. Higgins, Republic of Ireland, TD
 Foreign diplomats complain to the US government about the decision by several US banks to end services for diplomatic missions.
 
 ### [Guyana formally recognizes Palestine as an independent state as part of its "long-standing and unwavering solidarity with, and commitment to, the just and legitimate aspirations of the people of Palestine for the exercise of their right to self-determination and to achieve a homeland of their own, independent, free, prosperous and at peace", a foreign ministry statement says. ](/news/2011/01/14/guyana-formally-recognizes-palestine-as-an-independent-state-as-part-of-its-long-standing-and-unwavering-solidarity-with-and-commitment-to.md)
-_Context: Guyana, State of Palestine_
+_Context: Guyana, Palestinian_
 
 ### [South Africa's chief rabbi Warren Goldstein criticises a controversial petition launched by three Jewish Capetonians calling for Archbishop Emeritus and Nobel Peace laureate Desmond Tutu to be axed as patron of two Holocaust centers. ](/news/2011/01/14/south-africa-s-chief-rabbi-warren-goldstein-criticises-a-controversial-petition-launched-by-three-jewish-capetonians-calling-for-archbishop.md)
 _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_

@@ -28,7 +28,7 @@ _Context: Baikonur Cosmodrome, Kazakhstan, Venus, Venus Express_
 _Context: 2005 United States elections, Arnold Schwarzenegger, California special election, De Baca County, New Mexico, Governor of California, ballot propositions, misappropriation, recall referendum, sexual harassment, sheriff_
 
 ### [ Judith Miller, controversial reporter for The New York Times, announces her retirement. ](/news/2005/11/9/judith-miller-controversial-reporter-for-the-new-york-times-announces-her-retirement.md)
-_Context: Judith Miller, the New York Times_
+_Context: Judith Miller, The New York Times_
 
 ## [Previous Day...](/news/2005/11/8/index.md)
 

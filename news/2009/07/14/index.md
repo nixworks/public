@@ -34,7 +34,7 @@ _Context: Cuba, United States, wet feet, dry feet policy_
 _Context: Lithuanian parliament, President, minors, propaganda_
 
 ### [ Canada imposes visa requirements to come into effect on July 14 on travellers from Mexico and the Czech Republic after a big jump in refugee claims from these two countries. ](/news/2009/07/14/canada-imposes-visa-requirements-to-come-into-effect-on-july-14-on-travellers-from-mexico-and-the-czech-republic-after-a-big-jump-in-refuge.md)
-_Context: Canadian, Czech Republic, Mexico, refugee, visa-free travel_
+_Context: Canada, Czech Republic, Mexico, refugee, visa-free travel_
 
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)
 _Context: Egypt, Egyptian President, Hosni Mubarak_
