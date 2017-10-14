@@ -1,6 +1,6 @@
 ## [2017-10-14](/news/2017/10/14/index.md)
 
-### [More than 30 people are killed when a explosive filled lorry detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/more-than-30-people-are-killed-when-a-explosive-filled-lorry-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
+### [More than 30 people are killed when a lorry filled with explosives detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/more-than-30-people-are-killed-when-a-lorry-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
 The death toll is expected to rise after an explosives-laden truck detonated in Mogadishu.
 
 ### [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behaviour. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md)
