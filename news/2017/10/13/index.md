@@ -9,7 +9,7 @@ The regulator was criticised for proposing changes to UK listing rules to accomm
 ### [U.S.-based electric automobile maker Tesla fires 400 employees. ](/news/2017/10/13/u-s-based-electric-automobile-maker-tesla-fires-400-employees.md)
 Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this week, including associates, team leaders and supervisors, a former employee told Reuters on Friday.
 
-### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz. "Peanuts" features the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-peanuts-features.md)
+### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz (1922-2000); his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-1922-2000-his-wi.md)
 Every four seconds an area of forest the size of a football field is being destroyed by the blazes.
 
 ### [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md)
