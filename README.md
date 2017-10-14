@@ -6,11 +6,20 @@ _Context: Apple Inc., Human rights in the Philippines, Philippine Drug War, apps
 ### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-gbp1-5.md)
 The regulator was criticised for proposing changes to UK listing rules to accommodate the oil giant.
 
-### [The Santa Rosa home of "Peanuts" creator Charles M. Schulz is among those burned to the ground in the wildfires that tore up the California Wine Country. "Peanuts" features the beloved characters Snoopy and Charlie Brown. ](/news/2017/10/13/the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-is-among-those-burned-to-the-ground-in-the-wildfires-that-tore-up-the-california.md)
+### [U.S.-based electric automobile maker Tesla fires 400 employees. ](/news/2017/10/13/u-s-based-electric-automobile-maker-tesla-fires-400-employees.md)
+Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this week, including associates, team leaders and supervisors, a former employee told Reuters on Friday.
+
+### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz. "Peanuts" features the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-peanuts-features.md)
 Every four seconds an area of forest the size of a football field is being destroyed by the blazes.
+
+### [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md)
+Only two chicks survived in a colony of 36,000 in a &quot;catastrophic&quot; breeding season in east Antarctica.
 
 ### [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md)
 U.S. President Donald Trump struck a blow against the 2015 Iran nuclear agreement on Friday in defiance of other world powers, choosing not to certify that Tehran is complying with the deal and warning he might ultimately terminate it.
+
+### [U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. ](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.md)
+Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +32,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md)
 Joshua Boyle and his wife and their children have been rescued after spending five years in captivity held by a Taliban-linked group in Afghanistan.
 
-### [As had been previously reported on October 9, Japan's third-biggest steelmaker, Kobe Steel, now admits to further falsification of product data. Steel wire products did not meet the specifications requested by customers. ](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.md)
+### [As had been previously reported on October 9, Japan's third-biggest steelmaker, Kobe Steel, now admits to further falsification of product data. Steel wire products did not meet the specifications requested by customers. The scandal now affects about 500 customer companies. ](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.md)
 Crisis-hit Kobe Steel Ltd (5406.T) said on Friday its steel division has also falsely labeled products, the latest in a string of revelations confirming widespread cheating at the firm that has engulfed its global customers.
 
 ### [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.md)
