@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/14/index.md)
 
+### [More than 30 people are killed when a explosive filled lorry detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/more-than-30-people-are-killed-when-a-explosive-filled-lorry-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
+The death toll is expected to rise after an explosives-laden truck detonated in Mogadishu.
+
 ### [A small-scale study has determined that psilocybin mushrooms, that contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-that-contain-the-drug-psilocybin-can-treat-depression.md)
 Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression, a study suggests.
 
@@ -11,10 +14,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/13/index.md)
 
-### [A group of civil society organizations has demanded that Apple Inc remove from its apps store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-has-demanded-that-apple-inc-remove-from-its-apps-store-games-it-said-violated-the-tech-firmas-guide.md)
-_Context: Apple Inc, Human rights in the Philippines, Philippine Drug War, apps_
+### [A group of 131 civil organizations with known ties to drug use urge Apple Inc. to stop sponsoring apps that relate to the Philippine Drug War. ](/news/2017/10/13/a-group-of-131-civil-organizations-with-known-ties-to-drug-use-urge-apple-inc-to-stop-sponsoring-apps-that-relate-to-the-philippine-drug-wa.md)
+_Context: Apple Inc., Human rights in the Philippines, Philippine Drug War, apps_
 
-### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-agbp1-5.md)
+### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-gbp1-5.md)
 The regulator was criticised for proposing changes to UK listing rules to accommodate the oil giant.
 
 ### [U.S.-based electric automobile maker Tesla fires 400 employees. ](/news/2017/10/13/u-s-based-electric-automobile-maker-tesla-fires-400-employees.md)
@@ -23,7 +26,7 @@ Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this 
 ### [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz (1922-2000); his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-1922-2000-his-wi.md)
 Every four seconds an area of forest the size of a football field is being destroyed by the blazes.
 
-### [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md)
+### [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md)
 Only two chicks survived in a colony of 36,000 in a &quot;catastrophic&quot; breeding season in east Antarctica.
 
 ### [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md)
@@ -32,7 +35,7 @@ U.S. President Donald Trump struck a blow against the 2015 Iran nuclear agreemen
 ### [U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. ](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.md)
 Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.
 
-### [Police in Chimaltenango, Guatemala capture Angel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md)
+### [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md)
 He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
 
 ---
@@ -60,7 +63,7 @@ Hours after the US says it is pulling out of the UN cultural agency, Israel says
 ### [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md)
 Forces in New York and London look into allegations against movie mogul Harvey Weinstein.
 
-### [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority , along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md)
+### [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md)
 The agreement allows the Palestinian Authority to run the embattled coastal strip, but leaves several thorny issues unresolved.
 
 ### [U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. The order does not replace Obamacare. ](/news/2017/10/12/u-s-president-donald-trump-signs-an-executive-order-allowing-the-sale-of-health-insurance-plans-that-are-exempt-from-some-obamacare-regulat.md)

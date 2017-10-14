@@ -1,6 +1,6 @@
 ### [2017-10-13](/news/2017/10/13/index.md)
 
-# Police in Chimaltenango, Guatemala capture Angel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. 
+# Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. 
 
 He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
 
