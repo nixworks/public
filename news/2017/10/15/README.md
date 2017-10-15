@@ -6,5 +6,8 @@ For the first time, an elected president is due to peacefully hand over power.
 ### [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md)
 Voting is underway in Austria’s parliamentary election. Embattled Chancellor Christian Kern looks set to lose to the Conservative Peoples Party led by 31 year-old
 
+### [Iraqi forces advance into Kurdish held territory around the city of Kirkuk. However, neither side has reported any military clashes. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-however-neither-side-has-reported-any-military-clashes.md)
+Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.
+
 ## [Previous Day...](/news/2017/10/14/index.md)
 
