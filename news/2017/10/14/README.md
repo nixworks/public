@@ -1,6 +1,6 @@
 ## [2017-10-14](/news/2017/10/14/index.md)
 
-### [At least 189 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/at-least-189-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
+### [At least 231 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/at-least-231-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
 A bomb blast witnessed in Somalia&#x27;s capital has killed 189, making it the deadliest single attack ever in the Horn of Africa nation, police said Sunday.
 
 ### [The Syrian Democratic Forces carry out a deal to evacuate dozens of ISIL militants from Raqqa to Deir ez-Zor. ](/news/2017/10/14/the-syrian-democratic-forces-carry-out-a-deal-to-evacuate-dozens-of-isil-militants-from-raqqa-to-deir-ez-zor.md)
