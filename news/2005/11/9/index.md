@@ -10,7 +10,7 @@ _Context: Amir Peretz, Israeli Labor Party, Shimon Peres_
 _Context: Azahari Husin, Bali bombings, East Java, Indonesia_
 
 ### [ 2005 Amman bombings: Three coordinated attacks on the Grand Hyatt Hotel, Radisson SAS Hotel, and Days Inn in the Jordanian capital of Amman kill at least 57 people and injure 115 others, mostly Westerners. Abu Musab al-Zarqawi later claims responsibility. ](/news/2005/11/9/2005-amman-bombings-three-coordinated-attacks-on-the-grand-hyatt-hotel-radisson-sas-hotel-and-days-inn-in-the-jordanian-capital-of-amman.md)
-_Context: 2005 Amman bombings, Abu Musab al-Zarqawi, Amman, Days Inn, Grand Hyatt Hotel, Jordan, Radisson SAS Hotel, Westerners_
+_Context: 2005 Amman bombings, Abu Musab al-Zarqawi, Amman, Days Inn, Hyatt, Jordan, Radisson SAS Hotel, Westerners_
 
 ### [ Archaeologists report that two lines of a Phoenician or Hebrew alphabet on a stone dating to the 10th century BCE were discovered in July in Tel Zayit tell in Israel. The discovery suggests that literacy existed in ancient Israel earlier than had been thought.](/news/2005/11/9/archaeologists-report-that-two-lines-of-a-phoenician-or-hebrew-alphabet-on-a-stone-dating-to-the-10th-century-bce-were-discovered-in-july-i.md)
 _Context: Archaeologists, Hebrew, Israel, Phoenician, Tel Zayit, ancient Israel, literates, tell_

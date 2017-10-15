@@ -21,5 +21,5 @@ Albanians were voting in legislative elections seen as crucial for the European 
 
 ### Changes:
 
-1. [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md) _2017-10-13 03:29:23 (First version)_
+1. [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md) _2017-10-14 03:28:55 (First version)_
 1. [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md) _(Current version)_

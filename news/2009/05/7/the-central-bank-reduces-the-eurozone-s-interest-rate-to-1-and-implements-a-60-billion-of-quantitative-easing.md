@@ -21,5 +21,5 @@
 
 1. [ The Bank of England freezes interest rates at 0.5% and will implement PS50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-aps50-billion-of-quantitative-easing.md) _2017-08-25 03:24:30 (First version)_
 2. [ The Central Bank reduces the Eurozone's interest rate to 1% and implements -60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-60-billion-of-quantitative-easing.md) _2017-08-27 03:24:21 (Update)_
-3. [ The Bank of England freezes interest rates at 0.5% and will implement GBP50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-agbp50-billion-of-quantitative-easing.md) _2017-10-13 03:28:47 (Update)_
+3. [ The Bank of England freezes interest rates at 0.5% and will implement GBP50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-agbp50-billion-of-quantitative-easing.md) _2017-10-14 03:28:22 (Update)_
 3. [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md) _(Current version)_

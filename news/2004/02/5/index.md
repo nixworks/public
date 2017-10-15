@@ -10,7 +10,7 @@ _Context: Linux, SCO Group, SCO v. IBM, Unix, copyright infringement_
 _Context: IAC, Inventing a Better Future, United Nations, science, technology_
 
 ### [ Carmine Caridi is expelled from the Academy of Motion Picture Arts and Sciences (the "Academy" in the Academy Awards) by vote after having been found to have leaked hundreds of screeners over the past five years to Russell Sprague in Chicago.](/news/2004/02/5/carmine-caridi-is-expelled-from-the-academy-of-motion-picture-arts-and-sciences-the-academy-in-the-academy-awards-by-vote-after-having.md)
-_Context: Academy Awards, Carmine Caridi, Chicago, Motion Picture Academy, Russell Sprague, screener_
+_Context: Academy Awards, Academy of Motion Picture Arts and Sciences, Carmine Caridi, Chicago, Russell Sprague, screener_
 
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan publicly admits illegally transferring nuclear secrets to Iran, Libya and North Korea. Following a written apology from Khan, President Pervez Musharraf issues a formal pardon.](/news/2004/02/5/pakistani-nuclear-scientist-abdul-qadeer-khan-publicly-admits-illegally-transferring-nuclear-secrets-to-iran-libya-and-north-korea-follow.md)
 _Context: Abdul Qadeer Khan, Iran, Libya, North Korea, Pervez Musharraf, nuclear_

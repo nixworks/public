@@ -25,7 +25,7 @@ Irish author Colum McCann wins the International Impac Dublin Literary Award for
 Peruvian Nobel laureate Mario Vargas Llosa criticises authoritarian governments while on an academic tour of China.
 
 ### [The Academy of Motion Picture Arts and Sciences changes the rules regarding the Academy Award for Best Picture at the 84th Academy Awards, allowing anywhere from five to ten nominees, provided that each receives a minimum of 5% of the nominating votes. ](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.md)
-_Context: 2012 Academy Awards, Academy Award for Best Picture, Motion Picture Academy_
+_Context: 2012 Academy Awards, Academy Award for Best Picture, Academy of Motion Picture Arts and Sciences_
 
 ### [Dexter Isaac, a convicted killer, claims responsibility for an attempted assassination of rapper Tupac Shakur in 1994. ](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.md)
 _Context: Tupac Shakur, rapper_
