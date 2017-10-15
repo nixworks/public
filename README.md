@@ -3,6 +3,9 @@
 ### [Voters in Kyrgyzstan go to the polls to elect a new President, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md)
 For the first time, an elected president is due to peacefully hand over power.
 
+### [Voters in Austria go to the polls for a legislative election. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-for-a-legislative-election.md)
+Voting is underway in Austria’s parliamentary election. Embattled Chancellor Christian Kern looks set to lose to the Conservative Peoples Party led by 31 year-old
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
