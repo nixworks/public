@@ -14,8 +14,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/14/index.md)
 
-### [More than 85 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/more-than-85-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
-The death toll is expected to rise after an explosives-laden truck detonated in Mogadishu.
+### [At least 189 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu. ](/news/2017/10/14/at-least-189-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu.md)
+A bomb blast witnessed in Somalia&#x27;s capital has killed 189, making it the deadliest single attack ever in the Horn of Africa nation, police said Sunday.
 
 ### [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behaviour. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md)
 The Board of Directors of the Academy of Motion Picture Arts and Sciences has stripped disgraced mogul Harvey Weinstein of his membership in the organization. The move comes after a New York Times report that alleged decades of sexual misbehavior by Weinstein, and a New Yorker story that brought mor...
