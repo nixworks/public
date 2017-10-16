@@ -15,6 +15,9 @@ Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki p
 ### [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md)
 _Context: Australia, Cybercrime, Joint Strike Fighter program_
 
+### [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md)
+Caitlan Coleman, Joshua Boyle and three children freed after couple were abducted by Taliban-linked group in Afghanistan and had children in captivity
+
 ### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
 _Context: 2007, Alberto Fujimori, Ministry of Justice, Pedro Pablo Kuczynski, Peruvian, Politics of Peru, corruption, human rights violations, tongue cancer_
 
