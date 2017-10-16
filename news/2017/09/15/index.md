@@ -4,7 +4,7 @@
 Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
 
 ### [Jamaican Violet Mosse-Brown, the world's oldest person, dies in Montego Bay at age 117. ](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.md)
-_Context: Montego Bay, Violet Mosse-Brown, world's oldest person_
+_Context: Montego Bay, Oldest living people, Violet Mosse-Brown, world's oldest person_
 
 ### [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md)
 The California Assembly passed a package of bills Thursday that aim to address the state’s housing affordability crisis.

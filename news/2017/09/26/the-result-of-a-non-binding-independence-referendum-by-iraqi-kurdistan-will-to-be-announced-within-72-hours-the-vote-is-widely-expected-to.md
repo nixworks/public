@@ -18,7 +18,7 @@ Turkey and Iran, traditional foes, have established common ground in Iraq, Syria
 2. [The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. ](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-that-they-won-the-referendum-by-over-92-of-the-vote.md) _Context: Iraqi Kurdistan independence referendum, 2017, Kurdish_
 3. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraqi Kurdistan independence referendum, 2017, Kurdish_
 4. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iraqi Kurdistan independence referendum, 2017, Kurdish_
-5. [Iraqi forces advance into Kurdish held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Kurdish_
+5. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Kurdish_
 
 ### Changes:
 

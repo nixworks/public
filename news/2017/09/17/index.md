@@ -13,7 +13,7 @@ A strong storm killed eight people and injured at least 67 in western Romania on
 _Context: 2017 Atlantic hurricane season, Hurricane Irma, Hurricane Maria_
 
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md)
-_Context: British Airways, Paris Charles de Gaulle Airport_
+_Context: British Airways, Crime in France, Paris Charles de Gaulle Airport_
 
 ### [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md)
 Long queues form outside polling stations to vote in the seat vacated by former PM Nawaz Sharif.

@@ -1,6 +1,6 @@
 ### [2017-09-21](/news/2017/09/21/index.md)
 
-#  China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. 
+# China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. 
 
 
 

@@ -1,6 +1,6 @@
 ### [2017-10-15](/news/2017/10/15/index.md)
 
-# Iraqi forces advance into Kurdish held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. 
+# Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. 
 
 Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.
 
@@ -22,4 +22,4 @@ Iraqi forces began moving at midnight on Sunday toward oil fields and an importa
 ### Changes:
 
 1. [Iraqi forces advance into Kurdish held territory around the city of Kirkuk. However, neither side has reported any military clashes. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-however-neither-side-has-reported-any-military-clashes.md) _2017-10-16 00:30:05 (First version)_
-1. [Iraqi forces advance into Kurdish held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _(Current version)_
+1. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _(Current version)_

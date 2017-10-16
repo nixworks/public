@@ -28,10 +28,10 @@ Why is Donald Trump backing an establishment favourite against an anti-establish
 _Context:  Russian President, Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
 
 ### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
-_Context: Chuck Rosenberg, Drug Enforcement Administration_
+_Context: Chuck Rosenberg, Drug Enforcement Administration, Trump administration_
 
 ### [Africa's Great Green Wall is successfully reversing desertification. ](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.md)
-_Context: Great Green Wall, desertification_
+_Context: Great Green Wall, Green wall, desertification_
 
 ## [Previous Day...](/news/2017/09/25/index.md)
 

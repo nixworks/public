@@ -16,7 +16,7 @@ Kenneth James Gleason accused of killing homeless man, dishwasher walking to wor
 Police discover a mass of documents directly related to the banned independence referendum.
 
 ### [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md)
-_Context: Apple Inc., iOS 11, iPad, iPhone_
+_Context: Apple Inc., Mobile operating system, iOS 11, iPad, iPhone_
 
 ## [Previous Day...](/news/2017/09/18/index.md)
 
