@@ -12,6 +12,7 @@ Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
 
+### [Wildfires in Spain and Portugal kill at least 31 people. [http:--www.bbc.com-news-world-europe-41634125 (BBC) ]](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-http-www-bbc-com-news-world-europe-41634125-bbc.md)
 ### [ Russian president signs decree to implement UNSC sanctions on North Korea ](/news/2017/10/16/russian-president-signs-decree-to-implement-unsc-sanctions-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 
