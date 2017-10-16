@@ -12,7 +12,10 @@ Iraqi forces move on Kurdish-controlled areas, weeks after the region voted to s
 ### [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md)
 Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
 
-### [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md)
+### [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md)
+_Context: Damascus, Israeli Air Force, Lebanese, S-200, Spillover of the Syrian Civil War, Syria, reconnaissance_
+
+### [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical Hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
 
 ### [Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. ](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.md)

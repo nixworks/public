@@ -1,14 +1,15 @@
 ### [2017-10-16](/news/2017/10/16/index.md)
 
-# Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. 
+# Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical Hurricane Ophelia is forecasted to make landfall on the island. 
 
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
 
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205643742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9F0F4)
+1. [BBC](http://www.bbc.co.uk/news/uk-41627442)
+2. [Reuters](http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205643742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9F0F4)
 
 ### Related:
 
@@ -21,4 +22,4 @@ Ireland closed schools and hospitals on Monday and warned people to stay indoors
 ### Changes:
 
 1. [Schools and hospitals are closed in Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-the-island.md) _2017-10-16 12:30:06 (First version)_
-1. [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md) _(Current version)_
+1. [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical Hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md) _(Current version)_
