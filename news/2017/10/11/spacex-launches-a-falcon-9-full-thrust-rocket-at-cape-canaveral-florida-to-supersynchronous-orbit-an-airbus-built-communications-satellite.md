@@ -1,6 +1,6 @@
 ### [2017-10-11](/news/2017/10/11/index.md)
 
-# SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's a third time when a Falcon 9 first stage is re-used. 
+# SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. 
 
 
 

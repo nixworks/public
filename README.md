@@ -6,8 +6,14 @@ Somalis reacted to a devastating bomb attack on Saturday by marching and donatin
 ### [Iraqi government forces have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. ](/news/2017/10/16/iraqi-government-forces-have-captured-key-installations-outside-the-disputed-city-of-kirkuk-from-kurdish-fighters.md)
 Iraqi forces move on Kurdish-controlled areas, weeks after the region voted to secede from Iraq.
 
+### [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md)
+Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
+
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-post-tropical-hurricane-ophelia-is-forecasted-to-make-landfall-on-th.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
+
+### [Researchers discover a vulnerability in the WPA2 protocol, leaving devices running Microsoft Windows, Mac OS, iOS, Android, Linux and OpenBSD operating systems vulnerable to attack over wireless connections. ](/news/2017/10/16/researchers-discover-a-vulnerability-in-the-wpa2-protocol-leaving-devices-running-microsoft-windows-mac-os-ios-android-linux-and-openbs.md)
+KRACK attack allows other nasties, including connection hijacking and malicious injection.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
