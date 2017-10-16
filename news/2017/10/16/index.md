@@ -1,6 +1,6 @@
 ## [2017-10-16](/news/2017/10/16/index.md)
 
-### [Somalis reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabab. ](/news/2017/10/16/somalis-reacted-to-a-devastating-bomb-attack-on-saturday-by-marching-to-demonstrate-their-anger-at-the-presence-of-al-shabab.md)
+### [Somalis reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabaab. ](/news/2017/10/16/somalis-reacted-to-a-devastating-bomb-attack-on-saturday-by-marching-to-demonstrate-their-anger-at-the-presence-of-al-shabaab.md)
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
 
 ### [Iraqi government forces have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. ](/news/2017/10/16/iraqi-government-forces-have-captured-key-installations-outside-the-disputed-city-of-kirkuk-from-kurdish-fighters.md)
