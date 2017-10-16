@@ -33,9 +33,6 @@ Regional president, Carles Puigdemont, to set out independence plans for first t
 ### [The Cook County Board of Commissioners' Finance Committee, which includes Chicago, repeals the tax approved in November 2016 on soft drinks and other sugary beverages. ](/news/2017/10/10/the-cook-county-board-of-commissioners-finance-committee-which-includes-chicago-repeals-the-tax-approved-in-november-2016-on-soft-drinks.md)
 A Chicago-area tax on soft drinks and other sugary beverages that angered some consumers and merchants was headed for repeal after a pivotal government vote on Tuesday to end it.
 
-### [California's governor, Jerry Brown, signs a law that lowers the penalty for exposing partners to HIV (the virus that causes AIDS) from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status. ](/news/2017/10/10/californiaas-governor-jerry-brown-signs-a-law-that-lowers-the-penalty-for-exposing-partners-to-hiv-the-virus-that-causes-aids-from-a-f.md)
-California’s governor, Jerry Brown, on Friday signed a law that lowers the penalty for exposing partners to HIV from a felony to a misdemeanor, which includes those who donate blood without informing the center about their HIV status.
-
 ### [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md)
 Nasa leader says will not take part in the October 26 election.
 
