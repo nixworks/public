@@ -15,5 +15,5 @@
 
 ### Changes:
 
-1. [ Susan Sontag died of cancer, at age 71.](/news/2004/12/28/susan-sontag-died-of-cancer-at-age-71.md) _2017-10-14 03:17:39 (First version)_
+1. [ Susan Sontag died of cancer, at age 71.](/news/2004/12/28/susan-sontag-died-of-cancer-at-age-71.md) _2017-10-15 03:17:35 (First version)_
 1. [ Jerry Orbach died of cancer, at age 69.](/news/2004/12/28/jerry-orbach-died-of-cancer-at-age-69.md) _(Current version)_

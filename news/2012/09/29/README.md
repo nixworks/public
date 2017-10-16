@@ -1,7 +1,7 @@
 ## [2012-09-29](/news/2012/09/29/index.md)
 
 ### [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coordi.md)
-_Context: AMISOM, Al-Shabaab, Battle of Kismayo, Kismayo, Somali Civil War, Somalia army soldiers, Somalian_
+_Context: AMISOM, Al-Shabaab, Battle of Kismayo, Kismayo, Somali Civil War, Somalia, Somalia army soldiers_
 
 ### [Syrian Civil War: Fire rages through the Souq of the Ancient City of Aleppo, a World Heritage Site. ](/news/2012/09/29/syrian-civil-war-fire-rages-through-the-souq-of-the-ancient-city-of-aleppo-a-world-heritage-site.md)
 A vast and well-preserved labyrinth of storehouses, schools and courtyards in Aleppo was damaged on Saturday as fierce clashes between security forces and insurgents continued.

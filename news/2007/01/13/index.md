@@ -1,7 +1,7 @@
 ## [2007-01-13](/news/2007/01/13/index.md)
 
 ### [ War in Somalia: Martial law is declared in Somalia. ](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.md)
-_Context: Somalian, martial law, two years of helping_
+_Context: Somalia, martial law, two years of helping_
 
 ### [ The energy dispute between Russia and Belarus is resolved after about 10 hours of negotiations between Russian Prime Minister Mikhail Fradkov and his Belarusian counterpart, Sergey Sidorsky. ](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.md)
 _Context: Belarus, Mikhail Fradkov, Russia, Sergey Sidorsky, energy dispute_

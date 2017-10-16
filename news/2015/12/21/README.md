@@ -37,7 +37,7 @@ Sen. Lindsey Graham spent seven months pushing his fellow Republicans toward a m
 Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allegations from several women, has resigned from parliament.
 
 ### [President Massoud Barzani of Iraqi Kurdistan instructs senior party officials to work on preparations for holding a referendum to decide whether to secede from Iraq, a long-standing Kurdish aspiration. ](/news/2015/12/21/president-massoud-barzani-of-iraqi-kurdistan-instructs-senior-party-officials-to-work-on-preparations-for-holding-a-referendum-to-decide-whe.md)
-_Context: Future Iraqi Kurdistan independence referendum, Iraqi Kurdistan, Massoud Barzani_
+_Context: Future Iraqi Kurdistan independence referendum, Kurdish, Massoud Barzani_
 
 ## [Previous Day...](/news/2015/12/20/index.md)
 

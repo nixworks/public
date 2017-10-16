@@ -1,7 +1,7 @@
 ## [2016-08-21](/news/2016/08/21/index.md)
 
 ### [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md)
-_Context: Al-Shabaab, Galkayo, Puntland, Somalian, War in Somalia (2009-present)_
+_Context: Al-Shabaab, Galkayo, Puntland, Somalia, War in Somalia (2009-present)_
 
 ### [The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-levant-is-suspected.md)
 _Context: Gaziantep bombing, ISIL_

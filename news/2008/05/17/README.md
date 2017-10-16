@@ -13,7 +13,7 @@ _Context: George W. Bush, Palestinian state, U.S. President, resettlement_
 _Context: Morgan Tsvangarai, Zimbabwe, assassinated, presidential election, runoff election_
 
 ### [ Islamic Courts Union rebels claim to have captured the town of Jilib in Somalia. ](/news/2008/05/17/islamic-courts-union-rebels-claim-to-have-captured-the-town-of-jilib-in-somalia.md)
-_Context: Islamic Courts Union, Jilib, Somalian_
+_Context: Islamic Courts Union, Jilib, Somalia_
 
 ### [ 2008 Sichuan earthquake: China recommends the evacuation of seriously injured people from Beichuan due to concerns about rising water levels of a lake in the area. ](/news/2008/05/17/2008-sichuan-earthquake-china-recommends-the-evacuation-of-seriously-injured-people-from-beichuan-due-to-concerns-about-rising-water-level.md)
 Forty-six seriously injured people needed to be evacuated immediately in Beichuan, at the epicenter of the Sichuan quake, where the water level of a lake is rising rapidly and may burst at any time, Xinhua news agency reported, quoting warnings from soldiers at the site.

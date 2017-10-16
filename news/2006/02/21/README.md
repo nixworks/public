@@ -1,7 +1,7 @@
 ## [2006-02-21](/news/2006/02/21/index.md)
 
 ### [ 33 people are killed and dozens are wounded amidst fighting between the Alliance for the Restoration of Peace and Counter-Terrorism and Islamic Court in Daynille, Mogadishu, Somalia. ](/news/2006/02/21/33-people-are-killed-and-dozens-are-wounded-amidst-fighting-between-the-alliance-for-the-restoration-of-peace-and-counter-terrorism-and-isl.md)
-_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Daynille, Mogadishu, Somalian_
+_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Daynille, Mogadishu, Somalia_
 
 ### [ Enron: The High Court in London rules that three bankers may be extradited to the United States to face trial on Enron-related charges. The three, David Bermingham, Gary Mulgrew and Giles Darby, former executives at Royal Bank of Scotland Group PLC unit Greenwich NatWest, had argued unsuccessfully that since the majority of the alleged offenses took place in Britain, any trial should be held in that country. ](/news/2006/02/21/enron-the-high-court-in-london-rules-that-three-bankers-may-be-extradited-to-the-united-states-to-face-trial-on-enron-related-charges-the.md)
 _Context: Enron, Greenwich NatWest, High Court, Royal Bank of Scotland_

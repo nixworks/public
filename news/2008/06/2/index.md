@@ -22,7 +22,7 @@ _Context: IAEA, Syria, United States, chemical weapons facilities_
 _Context: Africa, Djibouti, Somali Civil War, United Nations Security Council_
 
 ### [ The United Nations Security Council unanimously passes a declaration allowing foreign naval vessels to enter Somali territorial waters to deal with pirates. ](/news/2008/06/2/the-united-nations-security-council-unanimously-passes-a-declaration-allowing-foreign-naval-vessels-to-enter-somali-territorial-waters-to-d.md)
-_Context: Somali pirates, Somalian, United Nations, United Nations Security Council, maritime forces_
+_Context: Somali pirates, Somalia, United Nations, United Nations Security Council, maritime forces_
 
 ## [Previous Day...](/news/2008/06/1/index.md)
 

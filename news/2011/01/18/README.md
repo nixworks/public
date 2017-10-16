@@ -49,7 +49,7 @@ _Context: Sri Lanka_
 _Context:  Russian President, Dmitry Medvedev, East Jerusalem, West Bank_
 
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
-_Context: Puntland, Somalian_
+_Context: Puntland, Somalia_
 
 ### [Chinese President Hu Jintao begins a four-day state visit to the United States. ](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.md)
 Chinese President Hu Jintao kicks off a four-day US visit with a rare private dinner at the White House with President Barack Obama.

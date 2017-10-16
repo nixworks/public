@@ -7,7 +7,7 @@ _Context: U.S. Federal Reserve, United States, housing crisis_
 U.S. crude oil futures rosemore than $3 a barrel to a record over $120 on Monday asweakness in the dollar and renewed tensions with Iran spurredbuying.
 
 ### [ Somalian troops open fire killing at least two people during food riots in Mogadishu. ](/news/2008/05/5/somalian-troops-open-fire-killing-at-least-two-people-during-food-riots-in-mogadishu.md)
-_Context: Mogadishu, Somalian_
+_Context: Mogadishu, Somalia_
 
 ### [ Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. ](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.md)
 _Context: Cyclone Nargis, Myanmar_

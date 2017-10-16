@@ -10,7 +10,7 @@ Skirmish with Maoists took place at around 2.30am when a composite squad of BSF 
 Palestinian boy and his sister killed in retaliatory airstrike by Israel
 
 ### [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md)
-_Context: Iraqi Kurdistan, Kurdistan Workers' Party, Turkey-PKK conflict (2015-present), Turkish Air Force_
+_Context: Kurdish, Kurdistan Workers' Party, Turkey-PKK conflict (2015-present), Turkish Air Force_
 
 ### [Jaysh al-Nasr rebels say they have shot down a fighter jet over the Hama Governorate in western Syria. The Syrian Observatory for Human Rights confirmed the shoot down, saying a rebel group had brought down the jet by firing two heat-seeking missiles. A pro-government source acknowledged that a MiG-21 warplane went down over Kafr Nabudah, but said it was due to "technical difficulties", denying it had been shot down. ](/news/2016/03/12/jaysh-al-nasr-rebels-say-they-have-shot-down-a-fighter-jet-over-the-hama-governorate-in-western-syria-the-syrian-observatory-for-human-righ.md)
 Rebels shot down a Syrian government warplane over western Syria on Saturday, rebels and a military source said, although there were conflicting accounts on whether it had been brought down by a missile or anti-aircraft guns. The Syrian military source said militants had targeted a warplane while it

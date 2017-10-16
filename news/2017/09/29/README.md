@@ -1,7 +1,7 @@
 ## [2017-09-29](/news/2017/09/29/index.md)
 
 ### [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md)
-_Context: Al-Shabaab, Mogadishu, Somalian, War in Somalia, soldiers_
+_Context: Al-Shabaab, Mogadishu, Somalia, War in Somalia, soldiers_
 
 ### [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md)
 Twenty-two were killed and over 30 seriously injured in a rush-hour stampede in Mumbai this morning, when a crowd tried to leave a narrow railway bridge connecting two stations after heavy rain. Heart-wrenching visuals showed a crush of bodies on the bridge, straining against the railing. Screams we...

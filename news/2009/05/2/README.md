@@ -28,7 +28,7 @@ _Context: Mohmand Agency, Pakistan, Pakistan army, Taliban, War in North-West Pa
 _Context: China, Cross-Strait relations, Taiwan, financial investment_
 
 ### [ The bulk carrier MV "Ariana" is hijacked by Somali pirates in the Indian Ocean. ](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali-pirates-in-the-indian-ocean.md)
-_Context: Indian Ocean, MV, Somali pirates, Somalian, bulk carrier, pirate_
+_Context: Indian Ocean, MV, Somali pirates, Somalia, bulk carrier, pirate_
 
 ## [Previous Day...](/news/2009/05/1/index.md)
 

@@ -1,7 +1,7 @@
 ## [2008-12-21](/news/2008/12/21/index.md)
 
 ### [ China's People's Liberation Army Navy deploys three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to join the Combined Task Force 150 in fighting Somali piracy. ](/news/2008/12/21/china-s-people-s-liberation-army-navy-deploys-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-join-the-c.md)
-_Context: China, Combined Task Force 150, Gulf of Aden, People's Liberation Army Navy, Somali pirates, Somalian, destroyer, replenishment oiler, warships_
+_Context: China, Combined Task Force 150, Gulf of Aden, People's Liberation Army Navy, Somali pirates, Somalia, destroyer, replenishment oiler, warships_
 
 ### [ The winning design for the replacement of the iconic Routemaster double-decker bus is announced by London mayor Boris Johnson. ](/news/2008/12/21/the-winning-design-for-the-replacement-of-the-iconic-routemaster-double-decker-bus-is-announced-by-london-mayor-boris-johnson.md)
 _Context: Boris Johnson, London, Mayor of London, Routemaster, double decker bus, winning design_

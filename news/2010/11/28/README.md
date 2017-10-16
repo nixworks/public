@@ -29,7 +29,7 @@ Heavy snow is still falling across much of Scotland and north-east England, afte
 Heavy falls of snow in some parts of the country have disrupted road, rail, bus and air transport.
 
 ### [Ugandan President Yoweri Museveni becomes the first foreign leader to visit the Somali capital Mogadishu in 20 years. ](/news/2010/11/28/ugandan-president-yoweri-museveni-becomes-the-first-foreign-leader-to-visit-the-somali-capital-mogadishu-in-20-years.md)
-_Context: Mogadishu, Somalian, Uganda, Yoweri Museveni_
+_Context: Mogadishu, Somalia, Uganda, Yoweri Museveni_
 
 ### [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md)
 _Context: African Union, EU, Libya, Omar al-Bashir, Sudan, Tripoli_

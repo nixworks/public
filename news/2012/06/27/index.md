@@ -34,7 +34,7 @@ A massive wildfire has swept through a residential area of Colorado&#039;s secon
 _Context: Orange County, Florida, Orange Lake Resort_
 
 ### [The Somali president urges everyone to donate funds to Somalia to help combat pirates. ](/news/2012/06/27/the-somali-president-urges-everyone-to-donate-funds-to-somalia-to-help-combat-pirates.md)
-_Context: Somali pirates, Somalian_
+_Context: Somali pirates, Somalia_
 
 ### [Former Pennsylvania State Representative Stephen Stetler is convicted of all six counts in his corruption case. ](/news/2012/06/27/former-pennsylvania-state-representative-stephen-stetler-is-convicted-of-all-six-counts-in-his-corruption-case.md)
 _Context: Pennsylvania, Stephen Stetler_

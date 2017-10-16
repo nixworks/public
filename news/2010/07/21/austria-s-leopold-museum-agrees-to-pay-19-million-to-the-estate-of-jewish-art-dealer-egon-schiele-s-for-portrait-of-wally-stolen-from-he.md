@@ -18,7 +18,7 @@ A 12-year dispute has ended with an agreement that a 1912 oil painting will be r
 2. [ Nazi Officer Ladislav Niznansky is acquitted of charges relating to three massacres of Slovaks during World War II. ](/news/2005/12/19/nazi-officer-ladislav-niznansky-is-acquitted-of-charges-relating-to-three-massacres-of-slovaks-during-world-war-ii.md) _Context: Nazism, World War II_
 3. [ An Italian military tribunal in La Spezia has sentenced 10 German former Nazi officers "in absentia" to life imprisonment for their role in a World War II massacre of 560 civilians in the Tuscan village of Sant'Anna di Stazzema. ](/news/2005/06/22/an-italian-military-tribunal-in-la-spezia-has-sentenced-10-german-former-nazi-officers-in-absentia-to-life-imprisonment-for-their-role-in.md) _Context: Nazism, World War II_
 4. [ John Gudenus of the Austrian Freedom Party causes controversy when he questions the existence of Nazi gas chambers and later leaves the party. ](/news/2005/04/27/john-gudenus-of-the-austrian-freedom-party-causes-controversy-when-he-questions-the-existence-of-nazi-gas-chambers-and-later-leaves-the-par.md) _Context: Austria, Nazism_
-5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: World War II_
+5. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _Context: Austria_
 
 ### Changes:
 

@@ -25,7 +25,7 @@ The Bloody Sunday killings were unjustified and unjustifiable, the Prime Ministe
 _Context: North Korea, Permanent Representative, Sin Son Ho, United Nations Security Council, sinking_
 
 ### [Islamist gunmen in Somalia shoot two people dead and detain 10 others who were watching a televised FIFA World Cup match; a member of one group later said watching the World Cup is anti-Islamic. ](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.md)
-_Context: 2010 FIFA World Cup, Islamist, Somalian_
+_Context: 2010 FIFA World Cup, Islamist, Somalia_
 
 ### [The leaders of Ireland's two main political parties, Fianna Fail and Fine Gael, come under fire. Irish Taoiseach Brian Cowen faces a motion of no confidence in Dail Eireann, his second in just over a year. Leader of the Opposition, Enda Kenny, who sacked his deputy leader yesterday to prevent a potential coup, faces further revolt from his party as nine more members of his frontbench call on him to resign. ](/news/2010/06/15/the-leaders-of-ireland-s-two-main-political-parties-fianna-fa-il-and-fine-gael-come-under-fire-irish-taoiseach-brian-cowen-faces-a-motion.md)
 Nine members of the Fine Gael frontbench have said they do not have confidence in Enda Kenny to lead their party.

@@ -10,7 +10,7 @@ _Context: 1,4-butanediol, China, China, United States, toy_
 _Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San Francisco Bay Bridge, container ship, states of emergency_
 
 ### [ At least 40 people die in Mogadishu in heavy fighting between Ethiopian forces and Somalian Islamist insurgents. ](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.md)
-_Context: Ethiopia, Islamist, Mogadishu, Somalian_
+_Context: Ethiopia, Islamist, Mogadishu, Somalia_
 
 ### [ Ugandan Lord's Resistance Army chief Joseph Kony tells peace negotiator Norbert Mao that Vincent Otti, his former deputy, is not dead as rumored, but is under house arrest for espionage. ](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.md)
 _Context: Joseph Kony, Lord's Resistance Army, Norbert Mao, Uganda, Vincent Otti, house arrest, negotiation, spy_

@@ -22,7 +22,7 @@ In a startling turn against its former ally, Rwanda has arrested Congo rebel lea
 _Context: Belgium, an attack, day-care center, stabbed_
 
 ### [ The 30-man crew of Chinese cargo ship "Zhenhua 4" receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)
-_Context: $, China, Gulf of Aden, Somali pirates, Somalian, cargo ship_
+_Context: $, China, Gulf of Aden, Somali pirates, Somalia, cargo ship_
 
 ### [ The United Kingdom enters a recession. ](/news/2009/01/23/the-united-kingdom-enters-a-recession.md)
 _Context: United Kingdom, recession_

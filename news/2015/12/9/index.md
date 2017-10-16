@@ -16,7 +16,7 @@ Vladimir Putin has said he hopes nuclear warheads will not be needed to deal wit
 Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karabakh region for the first time in more than 20 years, the rebel defence ministry said, as Armenia arrested a former army officer accused of spying for its archfoe. Armenia and Azerbaijan fought a bloody conflict over the d...
 
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Iraq, Iraqi Civil War (2014-present), Iraqi Kurdistan, Turkey_
+_Context: Iraq, Iraqi Civil War (2014-present), Kurdish, Turkey_
 
 ### [Angela Merkel is named as "Time"'s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md)
 _Context: Angela Merkel, Person of the Year, Time_

@@ -49,7 +49,7 @@ _Context: China, Japan_
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Somalian, Uganda, United Kingdom, terrorism_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, Uganda, United Kingdom, terrorism_
 
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
 _Context: Air India Flight 182, Narita International Airport, perjury_

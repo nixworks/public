@@ -1,6 +1,6 @@
 ## [2017-10-13](/news/2017/10/13/index.md)
 
-### [A group of civil society organizations has demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-has-demanded-that-apple-inc-remove-from-its-app-store-games-it-said-violated-the-tech-firm-s-guideli.md)
+### [A group of civil society organizations, some with known ties to drugs, have demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-some-with-known-ties-to-drugs-have-demanded-that-apple-inc-remove-from-its-app-store-games-it-said.md)
 _Context: App Store, Apple Inc., Human rights in the Philippines, Philippine Drug War_
 
 ### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-gbp1-5.md)

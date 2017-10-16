@@ -4,7 +4,7 @@
 _Context: 2007 attack, Bilal Abdullah, Glasgow International Airport, London, West End_
 
 ### [ President of Somalia Abdullahi Yusuf Ahmed names former Interior Minister Mohamoud Mohamed Gacmodhere as Prime Minister, but incumbent PM Nur Hassan Hussein is supported in a parliamentary vote, requiring a confidence motion before Ahmed could replace Hussein. ](/news/2008/12/16/president-of-somalia-abdullahi-yusuf-ahmed-names-former-interior-minister-mohamoud-mohamed-gacmodhere-as-prime-minister-but-incumbent-pm-n.md)
-_Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somalian, no confidence_
+_Context: Abdullahi Yusuf Ahmed, Interior Minister, Mohamoud Mohamed Gacmodhere, Nur Hassan Hussein, President, Prime Minister of Somalia, Somalia, no confidence_
 
 ### [ The United States consumer price index fell in November by 1.9% on a non-seasonally adjusted basis, the U.S. Labor Department reports, the biggest decline since the nadir of the Great Depression in January 1932. ](/news/2008/12/16/the-united-states-consumer-price-index-fell-in-november-by-1-9-on-a-non-seasonally-adjusted-basis-the-u-s-labor-department-reports-the.md)
 _Context: Great Depression, United States, United States Department of Labor, consumer price index_

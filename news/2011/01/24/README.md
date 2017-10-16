@@ -37,7 +37,7 @@ _Context: China, Shandong_
 _Context: Southwestern China, freezing-rain_
 
 ### [The United Nations calls for the international community to increase support to Somalia as the country approaches the twentieth anniversary since the start of its civil war. ](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.md)
-_Context: Somali Civil War, Somalian, United Nations, international community_
+_Context: Somali Civil War, Somalia, United Nations, international community_
 
 ### [Peru recognises Palestine "as a free and sovereign state". ](/news/2011/01/24/peru-recognises-palestine-as-a-free-and-sovereign-state.md)
 Lima government does not recognize 1967 borders; Israel fears European countries will be next in line to recognize Palestinian state.

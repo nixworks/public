@@ -13,7 +13,7 @@ _Context: Blackwater Worldwide, Department of State, United States, civilian con
 _Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
-_Context: Al-Shabaab, Baidoa, Somalian, Transitional Federal Government_
+_Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
 
 ### [ United Nations Secretary-General Ban Ki-moon announces an investigation into Israel's attack on the U.N.'s Gaza Strip headquarters. ](/news/2009/01/30/united-nations-secretary-general-ban-ki-moon-announces-an-investigation-into-israel-s-attack-on-the-u-n-s-gaza-strip-headquarters.md)
 Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.

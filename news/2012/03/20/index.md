@@ -7,7 +7,7 @@ REUTERS - Troops in Myanmar have murdered, tortured and raped civilians since fi
 _Context: Iraq, wave of terror attacks_
 
 ### [Militants attack Somalia's presidential palace in Mogadishu for the second night running. ](/news/2012/03/20/militants-attack-somalia-s-presidential-palace-in-mogadishu-for-the-second-night-running.md)
-_Context: Mogadishu, Somalian, Villa Somalia_
+_Context: Mogadishu, Somalia, Villa Somalia_
 
 ### ["John Carter" records one of the biggest losses in cinema history, forcing Disney to take a $200 million writedown. ](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.md)
 Walt Disney expects to lose $200m (£126m) on its movie John Carter, making it one of the biggest flops in cinema history.

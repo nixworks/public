@@ -1,7 +1,7 @@
 ## [2008-08-23](/news/2008/08/23/index.md)
 
 ### [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
-_Context: Elasha, Somalian, War in Somalia (2006-09)_
+_Context: Elasha, Somalia, War in Somalia (2006-09)_
 
 ### [ A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md)
 _Context: Khyber Pakhtunkhwa, Swat, Pakistan, War in North-West Pakistan_

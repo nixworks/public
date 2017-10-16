@@ -1,7 +1,7 @@
 ## [2015-05-5](/news/2015/05/5/index.md)
 
 ### [Curtis Culwell Center attack: ISIS claims responsibility for the attack on an exhibition of drawings of the Prophet Muhammad in the American city of Garland, Texas. One of the suspects was previously interrogated and surveilled by the FBI having visited Somalia, and both suspects praised ISIS in social media. ](/news/2015/05/5/curtis-culwell-center-attack-isis-claims-responsibility-for-the-attack-on-an-exhibition-of-drawings-of-the-prophet-muhammad-in-the-american.md)
-_Context: Curtis Culwell Center attack, Garland, Texas, ISIL, ISIS, Muhammad, Somalian_
+_Context: Curtis Culwell Center attack, Garland, Texas, ISIL, ISIS, Muhammad, Somalia_
 
 ### [Indonesia permanently bans domestic workers from employment in the Middle East citing "many problems" regarding "labor norms and human rights violations". ](/news/2015/05/5/indonesia-permanently-bans-domestic-workers-from-employment-in-the-middle-east-citing-many-problems-regarding-labor-norms-and-human-right.md)
 Jakarta angry over the recent execution of two Indonesian women found guilty of murder in Saudi Arabia

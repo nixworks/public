@@ -13,7 +13,7 @@ The Iraqi journalist who threw his shoes at President George W Bush has appeared
 _Context: Blackwater Worldwide, Department of State, civilian contractor_
 
 ### [ The United Nations passes a resolution authorizing foreign countries to conduct military raids on land or by sea in pursuit of Somali pirates. ](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.md)
-_Context: Somali pirates, Somalian, United Nations_
+_Context: Somali pirates, Somalia, United Nations_
 
 ## [Previous Day...](/news/2008/12/16/index.md)
 

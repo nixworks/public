@@ -22,7 +22,7 @@ _Context: Israel, Israeli police, Jerusalem, Palestinian, bulldozer, militant, p
 _Context: Bank of England, GBP, UK economy, United Kingdom, quantitative easing_
 
 ### [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md)
-_Context: Egypt, MV, Somali pirates, Somalian_
+_Context: Egypt, MV, Somali pirates, Somalia_
 
 ## [Previous Day...](/news/2009/03/4/index.md)
 

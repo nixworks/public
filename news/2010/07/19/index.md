@@ -7,7 +7,7 @@ A Greek investigative journalist is shot dead outside his home in Athens in an a
 Human rights group accuses Khartoum of using torture and abuse to quell political dissent
 
 ### [Several people are killed in a clash between Somali fighters and government forces in the capital Mogadishu. ](/news/2010/07/19/several-people-are-killed-in-a-clash-between-somali-fighters-and-government-forces-in-the-capital-mogadishu.md)
-_Context: Mogadishu, Somalian_
+_Context: Mogadishu, Somalia_
 
 ### [75-year-old author Alan Shadrake is arrested in Singapore while promoting his book about the use of the death penalty. He is charged with criminal defamation and faces two years imprisonment. ](/news/2010/07/19/75-year-old-author-alan-shadrake-is-arrested-in-singapore-while-promoting-his-book-about-the-use-of-the-death-penalty-he-is-charged-with-cr.md)
 The British author of a book that seeks to expose &quot;disturbing truths&quot; about Singapore&#039;s use of the death penalty has been arrested on charges of criminal defamation.

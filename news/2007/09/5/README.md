@@ -2,7 +2,7 @@
 
 ### [ Apple released a new selection of iPods, creating an "iPod touch," updating the "nano," and re-branding the "classic" iPods.](/news/2007/09/5/apple-released-a-new-selection-of-ipods-creating-an-ipod-touch-updating-the-nano-and-re-branding-the-classic-ipods.md)
 ### [ A battle between Somali police and insurgents in Mogadishu results in six casualties. ](/news/2007/09/5/a-battle-between-somali-police-and-insurgents-in-mogadishu-results-in-six-casualties.md)
-_Context: Mogadishu, Somalian_
+_Context: Mogadishu, Somalia_
 
 ### [ A Congressional committee has voted to remove the President of the Senate of Brazil Renan Calheiros as a result of a corruption scandal. ](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.md)
 _Context: Brazilian Senate, Congress, Renan Calheiros_

@@ -49,7 +49,7 @@ Last week’s four-day annual plenary meeting of the diamond-regulating Kimberle
 _Context: Barack Obama, U.S. President, UN Security Council_
 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
-_Context: Obama Administration, Somalian, Yemen bomb attacks_
+_Context: Obama Administration, Somalia, Yemen bomb attacks_
 
 ### [Israel has revealed plans to build nearly 1,300 housing units for Jewish settlers in east Jerusalem. ](/news/2010/11/8/israel-has-revealed-plans-to-build-nearly-1-300-housing-units-for-jewish-settlers-in-east-jerusalem.md)
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.

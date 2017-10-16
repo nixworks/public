@@ -21,5 +21,5 @@
 
 ### Changes:
 
-1. [At least eight people are killed and 44 injured after a bus carrying Czech tourists crashes in Croatia. ](/news/2012/06/23/at-least-eight-people-are-killed-and-44-injured-after-a-bus-carrying-czech-tourists-crashes-in-croatia.md) _2017-10-14 03:41:32 (First version)_
+1. [At least eight people are killed and 44 injured after a bus carrying Czech tourists crashes in Croatia. ](/news/2012/06/23/at-least-eight-people-are-killed-and-44-injured-after-a-bus-carrying-czech-tourists-crashes-in-croatia.md) _2017-10-15 03:41:58 (First version)_
 1. [At least 51 people are injured after a bus carrying pensioners crashes in Ireland. ](/news/2012/06/23/at-least-51-people-are-injured-after-a-bus-carrying-pensioners-crashes-in-ireland.md) _(Current version)_

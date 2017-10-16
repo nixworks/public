@@ -19,7 +19,7 @@ _Context: China, Chinese human rights, government_
 _Context: Gaza Strip, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
 
 ### [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http:--www.telegraph.co.uk-news-worldnews-africaandindianocean-somalia-5149000-US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md)
-_Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalian, United States, United States House of Representatives_
+_Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalia, United States, United States House of Representatives_
 
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)
 _Context: Georgian, President of Georgia, Saakashvili, Tbilisi, protest_

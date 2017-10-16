@@ -25,7 +25,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, government_
 _Context: Afghanistan, Russia, Russian Government, United States, United States military personnel, nonlethal equipment_
 
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: Egypt, MV, Somali pirates, Somalian, ransom_
+_Context: Egypt, MV, Somali pirates, Somalia, ransom_
 
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
 Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off Hawaii. The ship hit sand approximately half mile off one of Honolulu

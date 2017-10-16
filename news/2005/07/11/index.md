@@ -46,7 +46,7 @@ _Context: Port-of-Spain, Trinidad and Tobago_
 _Context: Brazil, JoGBPo Batista Ramos da Silva, Liberal Front Party_
 
 ### [ In Somalia, gunmen kill prominent peace activist Abdulkadir Yahya Ali ](/news/2005/07/11/in-somalia-gunmen-kill-prominent-peace-activist-abdulkadir-yahya-ali.md)
-_Context: Abdulkadir Yahya Ali, Somalian_
+_Context: Abdulkadir Yahya Ali, Somalia_
 
 ## [Previous Day...](/news/2005/07/10/index.md)
 

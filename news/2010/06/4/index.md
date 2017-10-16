@@ -4,7 +4,7 @@
 About 50 people are continuing to blockade the Israeli embassy in Dublin today in protest at Israel&rsquo;s policies on Gaza.
 
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
-_Context: Ahlu Sunnah Waljama, Islamist, Somalian_
+_Context: Ahlu Sunnah Waljama, Islamist, Somalia_
 
 ### [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
 The BBC apologises for airing a radio play about a murderer featuring gunshots, a day after the shootings in Cumbria.

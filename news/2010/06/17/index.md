@@ -38,7 +38,7 @@ _Context: 2010 FIFA World Cup_
 First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Iraq, Iraqi Kurdistan, Kurdistan Workers' Party, Turkey, disarm_
+_Context: Iraq, Kurdish, Kurdistan Workers' Party, Turkey, disarm_
 
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
 _Context: New York City, Times Square bomber_

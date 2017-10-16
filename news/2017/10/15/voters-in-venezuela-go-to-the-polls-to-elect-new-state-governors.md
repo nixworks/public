@@ -20,5 +20,5 @@ Polls suggest opposition could win more than half of 23 gubernatorial elections 
 
 ### Changes:
 
-1. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _2017-10-15 23:30:06 (First version)_
+1. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _2017-10-16 00:30:06 (First version)_
 1. [Voters in Venezuela go to the polls to elect new state governors. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors.md) _(Current version)_

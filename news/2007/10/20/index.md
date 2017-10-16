@@ -28,7 +28,7 @@ _Context: Mandalay, Myanmar, September 26, State Peace and Development Council, 
 _Context: France, France's national railway company, Nicolas Sarkozy, President of France, strike, welfare reform_
 
 ### [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md)
-_Context: Bashar al-Assad, Iraq, Iraqi Kurdistan, Jalal Talabani, Kurdistan Workers' Party, President, President of Iraq, Syria, Turkey_
+_Context: Bashar al-Assad, Iraq, Jalal Talabani, Kurdish, Kurdistan Workers' Party, President, President of Iraq, Syria, Turkey_
 
 ### [ Mikhail Gorbachev founds a new political party in Russia, called Union of Social-Democrats. ](/news/2007/10/20/mikhail-gorbachev-founds-a-new-political-party-in-russia-called-union-of-social-democrats.md)
 _Context: Mikhail Gorbachev, Russia, Union of Social-Democrats, political party_

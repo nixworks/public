@@ -4,7 +4,7 @@
 _Context: Eastern Province, Saudi Arabia, Shia, Terrorism in Saudi Arabia_
 
 ### [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md)
-_Context: Iraqi Civil War (2014-present), Iraqi Kurdistan_
+_Context: Iraqi Civil War (2014-present), Kurdish_
 
 ### [Mexico launches a wholesale telecoms network tender on this day. ](/news/2016/01/29/mexico-launches-a-wholesale-telecoms-network-tender-on-this-day.md)
 Mexico will on Friday launch a long-delayed tender for one of the largest infrastructure projects under President Enrique Pena Nieto, a wholesale telecoms network that will cover most of the country. The project, which was meant to be up and running by 2014, is part of a sweeping telecoms reform

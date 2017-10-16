@@ -37,7 +37,7 @@ Thousands of demonstrators demand an end to the religious-based political system
 _Context: Philippines, Quezon City_
 
 ### [The Spanish Navy captures eight suspected pirates off the Somalia coast. ](/news/2010/04/25/the-spanish-navy-captures-eight-suspected-pirates-off-the-somalia-coast.md)
-_Context: Somalian, Spanish Navy_
+_Context: Somalia, Spanish Navy_
 
 ### [The Ladies in White are stopped from marching in Havana but stand silently instead. ](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.md)
 _Context: Havana, Ladies in White_

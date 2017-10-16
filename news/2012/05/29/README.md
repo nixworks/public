@@ -4,7 +4,7 @@
 Japan and Turkey join 11 countries in concerted move over massacre as Annan says country has reached tipping point.
 
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
-_Context: Sheikh Sharif Ahmed, Somalian_
+_Context: Sheikh Sharif Ahmed, Somalia_
 
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_

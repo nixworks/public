@@ -10,7 +10,7 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 _Context: Baghdad, Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: Al-Shabaab, President of Somalia, Somalian, War in Somalia (2009-present)_
+_Context: Al-Shabaab, President of Somalia, Somalia, War in Somalia (2009-present)_
 
 ### [Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. ](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.md)
 Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, after minutes from the last Federal Reserve meeting showed policymakers have started to detail how the central bank will end its easy monetary policy.

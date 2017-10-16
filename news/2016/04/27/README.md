@@ -49,7 +49,7 @@ Share this on WhatsApp
 _Context: MINURSO, Morocco, United Nations Security Council_
 
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
-_Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_
+_Context: Iraq, Iraqi Civil War, Kurdish, Shi'ite, Tuz Khurmato_
 
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
 _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_

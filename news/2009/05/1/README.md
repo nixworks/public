@@ -19,7 +19,7 @@ _Context: Allied Irish Banks, executives, resign_
 _Context: David Souter, Justice, United States, United States Supreme Court_
 
 ### [ The Portuguese frigate "Corte-Real" confiscates explosives from Somali pirates during an attempted hijacking. ](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.md)
-_Context: Corte-Real, Portugal, Somali pirates, Somalian, explosives, frigate, pirate_
+_Context: Corte-Real, Portugal, Somali pirates, Somalia, explosives, frigate, pirate_
 
 ## [Previous Day...](/news/2009/04/30/index.md)
 

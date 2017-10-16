@@ -1,7 +1,7 @@
 ## [2010-12-20](/news/2010/12/20/index.md)
 
 ### [7 people are killed in a roadside bomb and shooting incident in the Somali capital Mogadishu. ](/news/2010/12/20/7-people-are-killed-in-a-roadside-bomb-and-shooting-incident-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalian_
+_Context: Mogadishu, Somalia_
 
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
 _Context: Kenya, Nairobi, Somali_

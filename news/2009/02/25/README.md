@@ -46,7 +46,7 @@ _Context: Japan, export_
 _Context: China, Chinese human rights, Department of State, United States_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
-_Context: Al-Shabaab, Somali Civil War, Somalian, radical Islamists, terrorism_
+_Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_
 
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels. ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
 _Context: Mexico, United States, drug cartel_

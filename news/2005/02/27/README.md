@@ -19,7 +19,7 @@ _Context: Associated Press, Dennis Rader, District Attorney, Nola Foulston, Sedg
 _Context: 2004 Indian Ocean earthquake, Archaeological Survey of India, India, Mahabalipuram, Tamil Nadu_
 
 ### [ In Somalia, some cabinet ministers and warlords denounce government proposals to deploy foreign peacekeepers ](/news/2005/02/27/in-somalia-some-cabinet-ministers-and-warlords-denounce-government-proposals-to-deploy-foreign-peacekeepers.md)
-_Context: Somalian_
+_Context: Somalia_
 
 ### [ In Togo, police clash with protesters who denounce selection of Abass Bonfoh to replace Faure Gnassingb as an interim president. Opposition protesters support former parliamentary speaker Fambare Ouattara Natchaba ](/news/2005/02/27/in-togo-police-clash-with-protesters-who-denounce-selection-of-abass-bonfoh-to-replace-faure-gnassingbe-as-an-interim-president-oppositio.md)
 _Context: Abass Bonfoh, Fambare Ouattara Natchaba, Faure Gnassingb, Togo_

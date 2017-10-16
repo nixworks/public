@@ -1,7 +1,7 @@
 ## [2010-12-2](/news/2010/12/2/index.md)
 
 ### [About 8,000 African Union troops from Burundi and Uganda are deployed to the Somali capital Mogadishu, the scene of heavy fighting this week. ](/news/2010/12/2/about-8-000-african-union-troops-from-burundi-and-uganda-are-deployed-to-the-somali-capital-mogadishu-the-scene-of-heavy-fighting-this-week.md)
-_Context: African Union, Burundi, Mogadishu, Somalian, Uganda_
+_Context: African Union, Burundi, Mogadishu, Somalia, Uganda_
 
 ### [Representatives of the Philippines government and the National Democratic Front resume peace talks in Hong Kong. ](/news/2010/12/2/representatives-of-the-philippines-government-and-the-national-democratic-front-resume-peace-talks-in-hong-kong.md)
 Representatives of the Philippines government and the long-running communist insurgency are meeting in Hong Kong to find a way to reopen peace talks.

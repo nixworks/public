@@ -10,7 +10,7 @@ Three people were killed and a dozen injured in four separate bomb blasts in Tha
 ISIS claims responsibility for bomb attack against Italian consulate in Cairo
 
 ### [At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-mogadishu.md)
-_Context: Mogadishu, Somalian, War in Somalia (2009-present)_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present)_
 
 ### [A truce brokered by the United Nations due to last for the remainder of Ramadan is broken within an hour with both sides exchanging blame. ](/news/2015/07/11/a-truce-brokered-by-the-united-nations-due-to-last-for-the-remainder-of-ramadan-is-broken-within-an-hour-with-both-sides-exchanging-blame.md)
 _Context: Ramadan, Saudi-led intervention in Yemen (2015-present), United Nations, Yemeni Crisis, truce_

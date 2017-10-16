@@ -10,7 +10,7 @@ _Context: Palestinian, Palestinian state, Pope, Pope Benedict XVI, resume negoti
 _Context: EUR, European Commission, Intel Corporation, anti-competitive practices, fine_
 
 ### [ The United Nations reports that Somalia is experiencing its worst drought since the 1990s. ](/news/2009/05/13/the-united-nations-reports-that-somalia-is-experiencing-its-worst-drought-since-the-1990s.md)
-_Context: 1990s, Somalian, United Nations, drought_
+_Context: 1990s, Somalia, United Nations, drought_
 
 ### [ Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. ](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.md)
 _Context: Sri Lanka, Sri Lankan Civil War, aerial shells, hospital, ordnance, war zone_

@@ -13,7 +13,7 @@ Yemeni President Ali Abdullah Saleh rejected an opposition plan for him to step 
 Protesters in Alexandria enter state security headquarters, saying officers destroyed documents to cover up past abuses.
 
 ### [Fifty-three African Union peacekeepers were killed in fighting in Somalia. ](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.md)
-_Context: African Union, Somalian_
+_Context: African Union, Somalia_
 
 ### [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md)
 _Context: Broadway, OSHA, Spider-Man: Turn Off the Dark, occupational safety and health_

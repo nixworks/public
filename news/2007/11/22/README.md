@@ -40,7 +40,7 @@ _Context: Bangladesh, aid agencies, cyclone Sidr_
 _Context: Dagestan, Farid Babayev, Makhachkala, Russia, Yabloko, politician_
 
 ### [ Nur Hassan Hussein, head of the Somali Red Crescent and former policeman, is named the new Prime Minister of Somalia. ](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.md)
-_Context: Nur Hassan Hussein, Prime Minister of Somalia, Red Crescent, Somalian, policeman_
+_Context: Nur Hassan Hussein, Prime Minister of Somalia, Red Crescent, Somalia, policeman_
 
 ### [ Despite talks between the transport workers, the management and the government, the November 2007 strikes in France continue for a ninth day. ](/news/2007/11/22/despite-talks-between-the-transport-workers-the-management-and-the-government-the-november-2007-strikes-in-france-continue-for-a-ninth-da.md)
 _Context: government, management, public-sector strikes, transport, worker_

@@ -28,7 +28,7 @@ _Context: Parliament, President of Zimbabwe, Robert Mugabe, Zimbabwe_
 _Context: Hilary Mantel, Man Booker Prize, Wolf Hall_
 
 ### [ Somalia's State Minister for Defence Sheikh Yusuf Mohammad Siad is detained by security forces in Uganda. Siad's detention was originally reported as a kidnapping. ](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.md)
-_Context: Sheikh Yusuf Mohammad Siad, Somalian, Uganda, kidnapped_
+_Context: Sheikh Yusuf Mohammad Siad, Somalia, Uganda, kidnapped_
 
 ## [Previous Day...](/news/2009/10/5/index.md)
 

@@ -10,7 +10,7 @@ Eleven Kurdish rebels, a soldier and three members of a Kurdish militia, part of
 At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 ### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
-_Context: President, Sharif Ahmed, Somalian_
+_Context: President, Sharif Ahmed, Somalia_
 
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
 Hundreds of thousands of Senegalese are expected at ceremonies to mourn the leader of the Mouride Islamic sect.

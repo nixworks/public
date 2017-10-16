@@ -31,7 +31,7 @@ _Context: Jandola, Pakistan, Taliban, suicide bombing_
 _Context: Mississippi, United States, tornado_
 
 ### [ Somali pirates hijack ships from the Isle of Man, Greece, and the Seychelles, while three other ships escape. ](/news/2009/03/26/somali-pirates-hijack-ships-from-the-isle-of-man-greece-and-the-seychelles-while-three-other-ships-escape.md)
-_Context: Greek, Isle of Man, Seychelles, Somali pirates, Somalian, ship_
+_Context: Greek, Isle of Man, Seychelles, Somali pirates, Somalia, ship_
 
 ### [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md)
 14 people have been killed and four injured after a bus collided with a truck and burst into flames east of Moscow.

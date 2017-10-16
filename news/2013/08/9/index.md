@@ -25,7 +25,7 @@ _Context: Control Yuan, Jinshan Nuclear Power Plant, Taiwan, Taiwan Power Compan
 _Context: Connecticut, East Haven, Rockwell Turbo Commander, turboprop_
 
 ### [An Ethiopian Air Force cargo plane carrying ammunition for international forces fighting Islamist militants in Somalia crashes and catches fire on landing at the Aden Adde International Airport in Mogadishu, killing four of the six crewmembers. ](/news/2013/08/9/an-ethiopian-air-force-cargo-plane-carrying-ammunition-for-international-forces-fighting-islamist-militants-in-somalia-crashes-and-catches-f.md)
-_Context: Aden Adde International Airport, Ethiopian Air Force, Mogadishu, Somalian_
+_Context: Aden Adde International Airport, Ethiopian Air Force, Mogadishu, Somalia_
 
 ### [Mexican drug lord Rafael Caro Quintero, who was convicted for the 1985 murder of U.S. Drug Enforcement Administration Enrique Camarena, is ordered released from prison. ](/news/2013/08/9/mexican-drug-lord-rafael-caro-quintero-who-was-convicted-for-the-1985-murder-of-u-s-drug-enforcement-administration-enrique-camarena-is-o.md)
 Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique Camarena overturned by court

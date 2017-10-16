@@ -10,7 +10,7 @@ _Context: Beit Hanoun November 2006 incident, Gaza Strip, Israel, United Nations
 _Context: Aung San Suu Kyi, Ibrahim Gambari, Myanmar, United Nations_
 
 ### [ Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-government.md)
-_Context: Somalian_
+_Context: Somalia_
 
 ### [ Iraq insurgency: At least eight people are killed and thirty injured in two simultaneous explosions in Baghdad, Iraq. ](/news/2006/11/11/iraq-insurgency-at-least-eight-people-are-killed-and-thirty-injured-in-two-simultaneous-explosions-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq, explosion, insurgents_

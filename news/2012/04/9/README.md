@@ -4,7 +4,7 @@
 Al-Jadeed TV cameraman Ali Shaaban was killed Monday at a border crossing in the area of Wadi Khaled, north Lebanon, security sources said. Al-Jadeed blamed the Syrian army for the incident.
 
 ### [At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. ](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.md)
-_Context: Baidoa, Somalian_
+_Context: Baidoa, Somalia_
 
 ### [German Health Minister Daniel Bahr tells "Die Welt" that the Israeli government's declaration of Gunter Grass as "persona non grata" in reaction to his poem "What Must Be Said" is "exaggerated". Meanwhile, a sculpture celebrating freedom of speech in Gottingen is daubed in red paint telling the recipient of the 1999 Nobel Prize in Literature to "shut your mouth". ](/news/2012/04/9/german-health-minister-daniel-bahr-tells-die-welt-that-the-israeli-government-s-declaration-of-ga1-4nter-grass-as-persona-non-grata-in-rea.md)
 _Context: Daniel Bahr, Die Welt, Gottingen, Gunter Grass, Nobel Prize in Literature, What Must Be Said, freedom of speech, persona non-grata_

@@ -4,7 +4,7 @@
 _Context: California, KOVR-TV / CBS 13, heat wave, heat wave_
 
 ### [ Somalia's interim government unravels as at least 20 government members resign, most being parliament members, accusing the country's virtually powerless government of failing to bring peace. ](/news/2006/07/27/somalia-s-interim-government-unravels-as-at-least-20-government-members-resign-most-being-parliament-members-accusing-the-country-s-virtu.md)
-_Context: Somalian, resign_
+_Context: Somalia, resign_
 
 ### [ The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.](/news/2006/07/27/the-three-main-militia-groups-in-the-troubled-dr-congo-eastern-province-of-ituri-have-agreed-to-lay-down-arms-and-begin-integrating-into-th.md)
 _Context: Democratic Republic of the Congo, Ituri_

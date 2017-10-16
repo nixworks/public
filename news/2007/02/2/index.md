@@ -4,7 +4,7 @@
 _Context: Catania football violence, Italy_
 
 ### [ Ali Hassan Al Majeed, commonly known as Chemical Ali, admits he ordered Iraqi troops to engage in genocide against the Kurds of Iraqi Kurdistan. He says the "emptying" of villages was justified because the Kurds assisted Iran forces in the Iran-Iraq war. ](/news/2007/02/2/ali-hassan-al-majeed-commonly-known-as-chemical-ali-admits-he-ordered-iraqi-troops-to-engage-in-genocide-against-the-kurds-of-iraqi-kurdi.md)
-_Context: Ali Hassan Al Majeed, Iran, Iran-Iraq War, Iraqi Kurdistan, Iraqi troops, Kurd, genocide_
+_Context: Ali Hassan Al Majeed, Iran, Iran-Iraq War, Iraqi troops, Kurd, Kurdish, genocide_
 
 ### [ Palestinian factional violence: Hamas and its rival Fatah renew their truce when violence broke off again after the initial ceasefire. ](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-rival-fatah-renew-their-truce-when-violence-broke-off-again-after-the-initial-ceasefire.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: China, Hu Jintao, Sudan, UN, economic sanction, paramount leader_
 
 ### [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md)
-_Context: Mogadishu, Mortar, Somalian, two years of helping_
+_Context: Mogadishu, Mortar, Somalia, two years of helping_
 
 ### [ Martti Ahtisaari unveils a United Nations plan for the final status of Kosovo. Serbian leaders denounced the proposal. ](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

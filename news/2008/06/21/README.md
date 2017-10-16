@@ -7,7 +7,7 @@ _Context: Algeria, France, French nuclear power technology_
  A NATO base in Afghanistan and a local army compound were attacked from across the border with Pakistan on Saturday, the force said. 
 
 ### [ An employee for the United Nations High Commissioner for Refugees in Somalia is kidnapped. ](/news/2008/06/21/an-employee-for-the-united-nations-high-commissioner-for-refugees-in-somalia-is-kidnapped.md)
-_Context: Kidnap, Somalian, United Nations High Commissioner for Refugees_
+_Context: Kidnap, Somalia, United Nations High Commissioner for Refugees_
 
 ### [ The Government of the Central African Republic signs a peace deal with two rebel groups which promises amnesty for rebel soldiers. ](/news/2008/06/21/the-government-of-the-central-african-republic-signs-a-peace-deal-with-two-rebel-groups-which-promises-amnesty-for-rebel-soldiers.md)
 _Context: Central African Republic, amnesty_

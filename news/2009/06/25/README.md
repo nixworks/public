@@ -10,7 +10,7 @@ Farrah Fawcett , who soared to fame as a national sex symbol in the late 1970s o
 A mourning ceremony for protestors who have died in Iran&#39;s post-election turmoil has been called off.
 
 ### [ Campaigning begins for a legislative election in Iraqi Kurdistan. ](/news/2009/06/25/campaigning-begins-for-a-legislative-election-in-iraqi-kurdistan.md)
-_Context: Iraqi Kurdistan, legislative_
+_Context: Kurdish, legislative_
 
 ### [ Venezuela and the United States say they will restore their ambassadors. ](/news/2009/06/25/venezuela-and-the-united-states-say-they-will-restore-their-ambassadors.md)
 Venezuela and the United States said yesterday they will restore their ambassadors more than nine months after president Hugo&hellip;

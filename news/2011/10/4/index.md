@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [At least 130 people are killed in a car bombing in the Somali capital Mogadishu. ](/news/2011/10/4/at-least-130-people-are-killed-in-a-car-bombing-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalian, car bombing_
+_Context: Mogadishu, Somalia, car bombing_
 
 ### [Regulators in the European Union are close to making a formal announcement that they object to a proposed merger of NYSE Euronext with Deutsche Boerse AG, according to an anonymous source cited by Reuters. ](/news/2011/10/4/regulators-in-the-european-union-are-close-to-making-a-formal-announcement-that-they-object-to-a-proposed-merger-of-nyse-euronext-with-deuts.md)
 EU regulators are set toformally object to the proposed merger of Deutsche Boerse(DB1Gn.DE) and NYSE Euronext this week, a source withknowledge of the case said on Tuesday.

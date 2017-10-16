@@ -16,7 +16,7 @@ National polls scheduled for January in doubt as Tariq al-Hashemi objects to key
 _Context: Australian Prime Minister, Church of Scientology, Kevin Rudd, Nick Xenophon_
 
 ### [ According to the 2009 Corruption Perceptions Index, Somalia is the most corrupt of 180 countries surveyed, and New Zealand is the least corrupt. ](/news/2009/11/18/according-to-the-2009-corruption-perceptions-index-somalia-is-the-most-corrupt-of-180-countries-surveyed-and-new-zealand-is-the-least-cor.md)
-_Context: Corruption Perceptions Index, Somalian_
+_Context: Corruption Perceptions Index, Somalia_
 
 ### [ Four people are killed after a bomb left over from the Vietnam War explodes as they try to remove explosive material in southern Tay Ninh Province. ](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.md)
 _Context: Tay Ninh Province, Vietnam War_

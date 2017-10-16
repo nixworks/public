@@ -4,7 +4,7 @@
 The UN says government troops in the Democratic Republic of Congo might have committed rapes and murders in an area recently attacked by rebels.
 
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: Save the Children, Somalian, United Kingdom_
+_Context: Save the Children, Somalia, United Kingdom_
 
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
 _Context: 5th Stryker Brigade Combat Team, Afghanistan, U.S. soldiers, court-martial_

@@ -10,7 +10,7 @@ _Context: Economy of the United States, International Monetary Fund, yuan_
 _Context: Aitutaki, Cook Islands, Cyclone Pat_
 
 ### [Somalia's state minister for defence Yusuf Mohammed Siad survives an attempt on his life from a suicide bomber in Mogadishu. ](/news/2010/02/15/somalia-s-state-minister-for-defence-yusuf-mohammed-siad-survives-an-attempt-on-his-life-from-a-suicide-bomber-in-mogadishu.md)
-_Context: Mogadishu, Somalian, Yusuf Mohammed Siad_
+_Context: Mogadishu, Somalia, Yusuf Mohammed Siad_
 
 ### [A Naxalite attack on an army camp in West Bengal kills 24 Indian soldiers, with many more reported missing. ](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.md)
 _Context: India, Naxalite, attack on an army camp_

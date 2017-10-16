@@ -4,7 +4,7 @@
 _Context: Opus Dei, Roman Catholic, Ruth Kelly, United Kingdom, homosexuality_
 
 ### [ The Mogadishu Islamic Courts and the Alliance for the Restoration of Peace and Counter-Terrorism declare a cease-fire after 57 people are killed, and 103 are wounded, mostly civilians, in the Somalian capital of Mogadishu. ](/news/2006/05/9/the-mogadishu-islamic-courts-and-the-alliance-for-the-restoration-of-peace-and-counter-terrorism-declare-a-cease-fire-after-57-people-are-k.md)
-_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Mogadishu, Mogadishu Islamic Courts, Somalian_
+_Context: Alliance for the Restoration of Peace and Counter-Terrorism, Mogadishu, Mogadishu Islamic Courts, Somalia_
 
 ### [ The world's largest annual trade show for the computer and video games industry, the Electronic Entertainment Expo (E), is held in Los Angeles. ](/news/2006/05/9/the-world-s-largest-annual-trade-show-for-the-computer-and-video-games-industry-the-electronic-entertainment-expo-e3-is-held-in-los-ang.md)
 _Context: Electronic Entertainment Expo, Los Angeles, trade show, video game_

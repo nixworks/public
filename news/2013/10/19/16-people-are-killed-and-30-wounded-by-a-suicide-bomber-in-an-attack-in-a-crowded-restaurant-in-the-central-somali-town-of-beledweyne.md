@@ -12,11 +12,11 @@ A suicide bomber killed at least 16 people on Saturday in an attack on a cafe in
 
 ### Related:
 
-1. [An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19-people.md) _Context: Beledweyne, Somalian_
-2. [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md) _Context: Beledweyne, Somalian_
-3. [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md) _Context: Beledweyne, Somalian_
-4. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Somalian_
-5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Somalian_
+1. [An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19-people.md) _Context: Beledweyne, Somalia_
+2. [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md) _Context: Beledweyne, Somalia_
+3. [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md) _Context: Beledweyne, Somalia_
+4. [At least 231 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-231-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Somalia_
+5. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Somalia_
 
 ### Changes:
 

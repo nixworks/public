@@ -31,7 +31,7 @@ _Context: MP, MPs expenses, United Kingdom_
 A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand over interview notes on the Real IRA to the PSNI.
 
 ### [ A suicide bomber detonated an explosives-laden vehicle at the Medina Hotel in Beledweyne, Somalia, killing 10 people. Among the dead is Omar Hashi Aden, Somalia's Security Minister. ](/news/2009/06/18/a-suicide-bomber-detonated-an-explosives-laden-vehicle-at-the-medina-hotel-in-beledweyne-somalia-killing-10-people-among-the-dead-is-oma.md)
-_Context: Beledweyne, Omar Hashi Aden, Somalian_
+_Context: Beledweyne, Omar Hashi Aden, Somalia_
 
 ### [ Several Al-Qaeda militants are killed by a Malian army offensive near the Algerian border. ](/news/2009/06/18/several-al-qaeda-militants-are-killed-by-a-malian-army-offensive-near-the-algerian-border.md)
 Mali’s army on Tuesday attacked an al-Qaeda base near the Algerian border, killing several militants, security sources said, nearly two weeks after the group said it had killed a British hostage.
