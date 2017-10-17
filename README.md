@@ -1,7 +1,7 @@
-## [News](/news/2017/10/18/index.md)
+## [News](/news/2017/10/17/index.md)
 
-### [jimmy Wales is deafeted by little ones degenarating-regenerating the world-Universe with winds-wings of total change:The heavens are no place for any one here;we all go to the soil;We made many surfur on surface before as sinners-blasphemers and jihadists of our fate-faith]] 41.223.141.83 (talk) 09:52, 17 October 2017 (UTC)](/news/2017/10/18/jimmy-wales-is-deafeted-by-little-ones-degenarating-regenerating-the-world-universe-with-winds-wings-of-total-change-the-heavens-are-no-plac.md)
-_Context: 41.223.141.83, degenarating/regenerating, talk, winds/wings, world/Universe_
+### [Battle of Raqqa](/news/2017/10/17/battle-of-raqqa.md)
+_Context: Battle of Raqqa, Syrian Civil War_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -53,9 +53,6 @@ Voting is underway in Austria’s parliamentary election. Embattled Chancellor C
 
 ### [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md)
 _Context: Venezuela, Venezuelan regional elections, 2017, socialist party_
-
-### [Rains in Bangalore worsen with rains reaching 1666mm.{{cn}}](/news/2017/10/15/rains-in-bangalore-worsen-with-rains-reaching-1666mm-cn.md)
-_Context: Bangalore_
 
 ---
 
