@@ -21,8 +21,8 @@ Ireland closed schools and hospitals on Monday and warned people to stay indoors
 ### [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 
-### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event, GW170817, coincided with a short gamma ray burst detected by the Fermi Gamma-ray Space Telescope, leading to immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
-_Context: Fermi Gamma-ray Space Telescope, GW170817, Gravitational-wave astronomy, Hubble space telescope, LIGO, VIRGO, neutron stars, short gamma ray burst_
+### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
+And thousands of astronomers found the aftermath of the merger in the sky
 
 ### [Researchers discover a vulnerability in the WPA2 protocol, leaving devices running Microsoft Windows, Mac OS, iOS, Android, Linux and OpenBSD operating systems vulnerable to attack over wireless connections. ](/news/2017/10/16/researchers-discover-a-vulnerability-in-the-wpa2-protocol-leaving-devices-running-microsoft-windows-mac-os-ios-android-linux-and-openbs.md)
 KRACK attack allows other nasties, including connection hijacking and malicious injection.
@@ -47,7 +47,7 @@ Voting is underway in Austria’s parliamentary election. Embattled Chancellor C
 ### [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md)
 _Context: Venezuela, Venezuelan regional elections, 2017, socialist party_
 
-### [Rains in Bangalore worsen with rains reaching 1666mm](/news/2017/10/15/rains-in-bangalore-worsen-with-rains-reaching-1666mm.md)
+### [Rains in Bangalore worsen with rains reaching 1666mm.{{cn}}](/news/2017/10/15/rains-in-bangalore-worsen-with-rains-reaching-1666mm-cn.md)
 _Context: Bangalore_
 
 ---

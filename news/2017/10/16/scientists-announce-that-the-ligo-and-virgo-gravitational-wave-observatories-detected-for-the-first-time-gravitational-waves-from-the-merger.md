@@ -1,13 +1,15 @@
 ### [2017-10-16](/news/2017/10/16/index.md)
 
-# Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event, GW170817, coincided with a short gamma ray burst detected by the Fermi Gamma-ray Space Telescope, leading to immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. 
+# Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. 
 
-
+And thousands of astronomers found the aftermath of the merger in the sky
 
 
 ### Source:
 
 1. [LIGO press release](https://www.ligo.caltech.edu/page/press-release-gw170817)
+2. [The Verge](https://www.theverge.com/2017/10/16/16471616/gravitational-waves-ligo-virgo-neutron-stars-merger-multi-messenger-astronomy)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/FaSIZSq9trFCVcy8T1IT4qiOV8U=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9469703/NSIllustration__CREDIT__NSF_LIGO_Sonoma_State_University_A_Simonnet_sized.jpg)
 
 ### Related:
 
@@ -20,4 +22,4 @@
 ### Changes:
 
 1. [The LIGO and VIRGO gravitational wave observatories detect for the first time gravitational waves from the merger of two neutron stars. The event GW170817, coinciding with a short gamma ray burst detected by the Fermi Gamma-ray Space Telescope, lead to immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/the-ligo-and-virgo-gravitational-wave-observatories-detect-for-the-first-time-gravitational-waves-from-the-merger-of-two-neutron-stars-the.md) _2017-10-16 21:30:06 (First version)_
-1. [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event, GW170817, coincided with a short gamma ray burst detected by the Fermi Gamma-ray Space Telescope, leading to immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md) _(Current version)_
+1. [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md) _(Current version)_
