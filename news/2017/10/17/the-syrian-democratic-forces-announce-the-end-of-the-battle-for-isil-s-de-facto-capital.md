@@ -1,13 +1,13 @@
 ### [2017-10-17](/news/2017/10/17/index.md)
 
-# The Syrian Democratic Forces announce the end of the battle for ISIL's de-facto capital. 
+# The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. 
 
 After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
 
 
 ### Sources:
 
-1. [Aljazeera](http://www.aljazeera.com/indepth/features/2017/10/sdf-captures-syria-raqqa-city-isil-171013110014050.html)
+1. [Al Jazeera](http://www.aljazeera.com/indepth/features/2017/10/sdf-captures-syria-raqqa-city-isil-171013110014050.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2017/10/17/ec79146b26384025abfdf96c533465b1_18.jpg)
 
 ### Related:

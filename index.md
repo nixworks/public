@@ -1,7 +1,10 @@
 ## [News](/news/2017/10/17/index.md)
 
-### [The Syrian Democratic Forces announce the end of the battle for ISIL's de-facto capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
+### [The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
 After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
+
+### [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md)
+_Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -14,7 +17,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
 Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
 
-### [Somalis reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabaab. ](/news/2017/10/16/somalis-reacted-to-a-devastating-bomb-attack-on-saturday-by-marching-to-demonstrate-their-anger-at-the-presence-of-al-shabaab.md)
+### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
 
 ### [Iraqi government forces have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. ](/news/2017/10/16/iraqi-government-forces-have-captured-key-installations-outside-the-disputed-city-of-kirkuk-from-kurdish-fighters.md)
