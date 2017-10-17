@@ -1,4 +1,15 @@
-## [News](/news/2017/10/16/index.md)
+## [News](/news/2017/10/18/index.md)
+
+### [jimmy Wales is deafeted by little ones degenarating-regenerating the world-Universe with winds-wings of total change:The heavens are no place for any one here;we all go to the soil;We made many surfur on surface before as sinners-blasphemers and jihadists of our fate-faith]] 41.223.141.83 (talk) 09:52, 17 October 2017 (UTC)](/news/2017/10/18/jimmy-wales-is-deafeted-by-little-ones-degenarating-regenerating-the-world-universe-with-winds-wings-of-total-change-the-heavens-are-no-plac.md)
+_Context: 41.223.141.83, degenarating/regenerating, talk, winds/wings, world/Universe_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/16/index.md)
 
 ### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
 Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
@@ -27,13 +38,9 @@ And thousands of astronomers found the aftermath of the merger in the sky
 ### [Researchers discover a vulnerability in the WPA2 protocol, leaving devices running Microsoft Windows, Mac OS, iOS, Android, Linux and OpenBSD operating systems vulnerable to attack over wireless connections. ](/news/2017/10/16/researchers-discover-a-vulnerability-in-the-wpa2-protocol-leaving-devices-running-microsoft-windows-mac-os-ios-android-linux-and-openbs.md)
 KRACK attack allows other nasties, including connection hijacking and malicious injection.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/15/index.md)
+## [Day Before Yesterday](/news/2017/10/15/index.md)
 
 ### [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md)
 Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.
@@ -52,23 +59,7 @@ _Context: Bangalore_
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/14/index.md)
-
-### [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md)
-A bomb blast witnessed in Somalia&#x27;s capital has killed 189, making it the deadliest single attack ever in the Horn of Africa nation, police said Sunday.
-
-### [The Syrian Democratic Forces carry out a deal to evacuate dozens of ISIL militants from Raqqa to Deir ez-Zor. ](/news/2017/10/14/the-syrian-democratic-forces-carry-out-a-deal-to-evacuate-dozens-of-isil-militants-from-raqqa-to-deir-ez-zor.md)
-_Context: Battle of Raqqa (2017), Deir ez-Zor, ISIL, Raqqa, Syrian Democratic Forces_
-
-### [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-several.md)
-Producer Harvey Weinstein has been kicked out of the motion picture academy following allegations of sexual assault and harassment. Which leads to the question: Who&apos;s next?
-
-### [A small-scale study has determined that psilocybin mushrooms, which contain the drug psilocybin, can treat depression. ](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-which-contain-the-drug-psilocybin-can-treat-depression.md)
-Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression, a study suggests.
-
----
-
-## [Previous Day...](/news/2017/10/13/index.md)
+## [Previous Day...](/news/2017/10/14/index.md)
 
 ---
 
