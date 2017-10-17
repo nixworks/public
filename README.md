@@ -9,6 +9,9 @@ _Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
 ### [The Iraqi Army and allied militias continue to seize Kurdish held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md)
 The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.
 
+### [The chief of Amazon Studios, Roy Price, resigns amid reports that he harassed a producer and ignored an allegation by an actress of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/the-chief-of-amazon-studios-roy-price-resigns-amid-reports-that-he-harassed-a-producer-and-ignored-an-allegation-by-an-actress-of-sexual-a.md)
+_Context: Amazon Studios, Harvey Weinstein, Roy Price, allegation_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -35,7 +38,7 @@ _Context: Damascus, Israeli Air Force, Lebanese, S-200, Spillover of the Syrian 
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
 
-### [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md)
+### [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 
 ### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
