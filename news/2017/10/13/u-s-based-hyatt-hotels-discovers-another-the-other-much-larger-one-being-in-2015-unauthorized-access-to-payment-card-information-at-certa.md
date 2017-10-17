@@ -5,7 +5,7 @@
 Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-hyatt-hotels-cyber/hyatt-hotels-discovers-card-data-breach-at-41-properties-idUSKBN1CH2WP)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171012&t=2&i=1205265396&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9B1UC)

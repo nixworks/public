@@ -5,10 +5,15 @@
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 
 
-### Source:
+### Sources:
 
 1. [TASS](http://tass.com/politics/970972)
 1. [Cover Image](https://cdn1.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20171016/1179442.jpg)
+
+### Changes:
+
+1. [Russian president signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2017-10-16 19:30:06 (First version)_
+1. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +22,3 @@ The decree refers to the resolution adopted on November 30, 2016, as a response 
 3. [The Cabinet of Japan imposes sanctions on various companies in China and Namibia for their business relations with North Korea. ](/news/2017/08/25/the-cabinet-of-japan-imposes-sanctions-on-various-companies-in-china-and-namibia-for-their-business-relations-with-north-korea.md) _Context: North Korea, sanctions_
 4. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Russian president, Vladimir Putin_
 5. [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md) _Context: Russian president, Vladimir Putin_
-
-### Changes:
-
-1. [Russian president signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _2017-10-16 19:30:06 (First version)_
-1. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _(Current version)_

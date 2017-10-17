@@ -5,7 +5,7 @@
 MORRIS PLAINS, N.J., Oct. 10, 2017 /PRNewswire/ -- Honeywell (NYSE: HON) today announced the results of its...
 
 
-### Source:
+### Sources:
 
 1. [PR Newswire](http://www.prnewswire.com/news-releases/honeywell-announces-planned-portfolio-changes-300533696.html)
 1. [Cover Image](http://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg  )

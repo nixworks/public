@@ -5,7 +5,7 @@
 Iraqi forces move on Kurdish-controlled areas, weeks after the region voted to secede from Iraq.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-41637791)
 2. [BBC](http://www.bbc.com/news/world-middle-east-41631697)

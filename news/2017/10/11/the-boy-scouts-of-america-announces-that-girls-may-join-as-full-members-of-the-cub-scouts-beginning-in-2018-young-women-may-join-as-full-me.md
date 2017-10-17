@@ -5,7 +5,7 @@
  NEW YORK (AP) — In its latest momentous policy shift, the Boy Scouts of America will admit girls into the Cub Scouts starting next year and establish a new program for older girls
 
 
-### Source:
+### Sources:
 
 1. [AP](https://apnews.com/7f690adec7ad45d2a9469baac8e90ac7)
 1. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:6dc28594ff5d4545b66f838957b6064b/800.jpeg)

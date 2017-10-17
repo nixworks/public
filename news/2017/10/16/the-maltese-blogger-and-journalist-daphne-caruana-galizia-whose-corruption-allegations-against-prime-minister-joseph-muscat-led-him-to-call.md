@@ -5,7 +5,7 @@
 Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
 
 
-### Source:
+### Sources:
 
 1. [Politico.eu](http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/)
 2. [Times of Malta](https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575)

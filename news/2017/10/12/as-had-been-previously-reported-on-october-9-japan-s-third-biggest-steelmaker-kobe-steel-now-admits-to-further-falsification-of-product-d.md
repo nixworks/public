@@ -5,7 +5,7 @@
 Crisis-hit Kobe Steel Ltd (5406.T) said on Friday its steel division has also falsely labeled products, the latest in a string of revelations confirming widespread cheating at the firm that has engulfed its global customers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-41607008)
 2. [Reuters](http://www.reuters.com/article/us-kobe-steel-scandal/kobe-steels-cheating-engulfs-more-divisions-shares-resume-slide-idUSKBN1CI097)

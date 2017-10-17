@@ -5,7 +5,7 @@
 A Chicago-area tax on soft drinks and other sugary beverages that angered some consumers and merchants was headed for repeal after a pivotal government vote on Tuesday to end it.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/health/2017/10/10/report-knowingly-exposing-others-to-hiv-will-no-longer-be-felony-in-california.html)
 2. [Reuters](https://www.reuters.com/article/us-illinois-tax-soda/chicago-area-tax-on-sugary-drinks-on-way-out-after-vote-idUSKBN1CF2YF)

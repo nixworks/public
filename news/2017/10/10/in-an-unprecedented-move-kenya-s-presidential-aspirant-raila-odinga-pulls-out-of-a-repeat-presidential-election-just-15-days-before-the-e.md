@@ -5,7 +5,7 @@
 Nasa leader says will not take part in the October 26 election.
 
 
-### Source:
+### Sources:
 
 1. [Business Daily Africa](http://www.businessdailyafrica.com/news/Raila-withdraws-repeat-polls/539546-4133540-eoyyua/index.html)
 1. [Cover Image](http://www.businessdailyafrica.com/image/view/-/4133562/medRes/1776777/-/ck1y96z/-/raila+odinga.jpg)

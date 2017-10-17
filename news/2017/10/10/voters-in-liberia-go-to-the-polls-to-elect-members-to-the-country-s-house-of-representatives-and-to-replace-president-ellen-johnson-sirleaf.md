@@ -5,7 +5,7 @@
 Candidates to replace Ellen Johnson Sirleaf include Prince Johnson, a former rebel leader who ordered killing of ex-president
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/oct/10/liberia-general-election-ellen-johnson-sirleaf-prince-johnson)
 1. [Cover Image](https://i.guim.co.uk/img/media/d6ba0798f92975c560134c1dbd543a86389eda7c/0_332_4546_2728/master/4546.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=74ad7b8452b25eb7a4ed0e79b55114d5)

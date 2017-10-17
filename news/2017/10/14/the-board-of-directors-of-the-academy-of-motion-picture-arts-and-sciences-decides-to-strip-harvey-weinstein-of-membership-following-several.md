@@ -5,10 +5,15 @@
 Producer Harvey Weinstein has been kicked out of the motion picture academy following allegations of sexual assault and harassment. Which leads to the question: Who&apos;s next?
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/movies/la-et-mn-harvey-weinstein-film-academy-20171014-story.html)
 1. [Cover Image](http://www.trbimg.com/img-59e2b3c6/turbine/la-et-mn-harvey-weinstein-film-academy-20171014)
+
+### Changes:
+
+1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md) _2017-10-15 20:30:05 (First version)_
+1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-several.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +22,3 @@ Producer Harvey Weinstein has been kicked out of the motion picture academy foll
 3. [A report by Ronan Farrow published in "The New Yorker" alleges that Weinstein had sexually assaulted or harassed 13 women, and raped three of them. ](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.md) _Context: Harvey Weinstein sexual misconduct allegations_
 4. [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are "American Sniper", "Birdman", "Boyhood", "The Grand Budapest Hotel", "The Imitation Game", "Selma", "The Theory of Everything", and "Whiplash". ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md) _Context: Academy of Motion Picture Arts and Sciences_
 5. [The Academy of Motion Picture Arts and Sciences changes the rules regarding the Academy Award for Best Picture at the 84th Academy Awards, allowing anywhere from five to ten nominees, provided that each receives a minimum of 5% of the nominating votes. ](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.md) _Context: Academy of Motion Picture Arts and Sciences_
-
-### Changes:
-
-1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following a series of allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-a-series.md) _2017-10-15 20:30:05 (First version)_
-1. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-several.md) _(Current version)_

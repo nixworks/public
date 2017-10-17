@@ -5,10 +5,15 @@
 For the first time, an elected president is due to peacefully hand over power.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-41625540)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1831E/production/_98320199_kyrg.jpg)
+
+### Changes:
+
+1. [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md) _2017-10-14 09:30:06 (First version)_
+1. [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +22,3 @@ For the first time, an elected president is due to peacefully hand over power.
 3. [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md) _Context: Almazbek Atambayev, president_
 4. [Voters in Kyrgyzstan go to the polls for a Presidential election with Almazbek Atambayev winning in a landslide. ](/news/2011/10/30/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-with-almazbek-atambayev-winning-in-a-landslide.md) _Context: Almazbek Atambayev, Kyrgyzstan_
 5. [Kyrgyzstan's interim leader Roza Otunbayeva is officially sworn in as President. ](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.md) _Context: Kyrgyzstan, president_
-
-### Changes:
-
-1. [Voters in Kyrgyzstan go to the polls to elect a new President. Former Prime Ministers Temir Sariyev, mrbek Babanov, and Sooronbay Jeenbekov are in contention to become the Kyrgyz head of state. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-former-prime-ministers-temir-sariyev-omurbek-babanov-and-sooronbay-jeenbeko.md) _2017-10-14 09:30:06 (First version)_
-1. [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md) _(Current version)_

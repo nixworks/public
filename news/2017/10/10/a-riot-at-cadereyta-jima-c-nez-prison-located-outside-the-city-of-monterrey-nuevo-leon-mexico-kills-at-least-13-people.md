@@ -5,7 +5,7 @@
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-mexico-violence/at-least-13-killed-during-prison-fight-in-northern-mexico-idUSKBN1CG061)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171011&t=2&i=1204993994&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9A0AG)

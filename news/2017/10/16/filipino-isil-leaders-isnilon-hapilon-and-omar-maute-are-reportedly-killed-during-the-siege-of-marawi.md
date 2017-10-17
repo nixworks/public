@@ -5,7 +5,7 @@
 Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN](http://news.abs-cbn.com/news/10/16/17/terrorists-isnilon-hapilon-omar-maute-killed-in-marawi-battle)
 1. [Cover Image](https://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/10/16/101617_mautes.jpg)

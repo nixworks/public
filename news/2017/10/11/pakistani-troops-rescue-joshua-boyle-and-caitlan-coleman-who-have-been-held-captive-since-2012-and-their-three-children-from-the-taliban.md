@@ -5,7 +5,7 @@
 Caitlan Coleman, Joshua Boyle and three children freed after couple were abducted by Taliban-linked group in Afghanistan and had children in captivity
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/oct/12/pakistan-rescues-canadian-american-family-hostages-haqqani)
 1. [Cover Image](https://i.guim.co.uk/img/media/8717958dfa0bbf34cd911d6b327bb797b15dad62/258_0_1942_1165/master/1942.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cd867908b1c36817cadd74adee1cfd8e)

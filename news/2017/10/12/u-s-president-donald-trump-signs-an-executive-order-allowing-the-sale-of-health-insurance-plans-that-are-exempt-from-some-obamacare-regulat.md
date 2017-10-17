@@ -5,7 +5,7 @@
 The new action would make it easier for Americans to buy stripped-down, cheaper polices.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-41599532)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8D5C/production/_98288163_6c4382f0-0d46-48df-ad2c-864957eca1dc.jpg)

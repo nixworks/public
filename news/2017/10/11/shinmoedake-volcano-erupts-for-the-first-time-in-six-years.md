@@ -5,7 +5,7 @@
 Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki prefectures erupted early Wednesday, marking its first such activity in abou
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times](https://www.japantimes.co.jp/news/2017/10/11/national/kyushus-shinmoedake-volcano-blows-stack-first-time-six-years/#.Wd4thVuPJaQ)
 1. [Cover Image](https://www.japantimes.co.jp/wp-content/uploads/2017/10/n-eruption-c-20171012-870x562.jpg)

@@ -5,7 +5,7 @@
 Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this week, including associates, team leaders and supervisors, a former employee told Reuters on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-tesla-jobs/tesla-fired-hundreds-of-employees-in-past-week-idUSKBN1CJ00L)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171014&t=2&i=1205452243&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9D01X)

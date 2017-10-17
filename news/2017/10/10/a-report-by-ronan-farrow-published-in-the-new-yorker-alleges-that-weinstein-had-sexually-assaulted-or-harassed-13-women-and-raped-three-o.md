@@ -5,7 +5,7 @@
 &quot;They thought remaining silent could jeopardize the next woman,&quot; Farrow said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/yorkers-explosive-expose-harvey-weinstein/story?id=50399286)
 2. [Fox News](http://www.foxnews.com/entertainment/2017/10/12/did-nbc-news-president-have-ties-to-harvey-weinstein-company-refuses-to-say.html)

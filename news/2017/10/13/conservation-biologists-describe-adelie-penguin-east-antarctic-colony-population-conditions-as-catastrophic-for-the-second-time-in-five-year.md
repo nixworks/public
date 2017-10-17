@@ -5,10 +5,15 @@
 Only two chicks survived in a colony of 36,000 in a &quot;catastrophic&quot; breeding season in east Antarctica.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-41608722)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/174F7/production/_98297459_penguinbbc.jpg)
+
+### Changes:
+
+1. [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md) _2017-10-14 19:30:06 (First version)_
+1. [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +22,3 @@ Only two chicks survived in a colony of 36,000 in a &quot;catastrophic&quot; bre
 3. [Japan announces plans to resume whaling in the Antarctic during the southern hemisphere summer. Commercial whaling has been banned for over 30 years by the International Whaling Commission. ](/news/2015/06/22/japan-announces-plans-to-resume-whaling-in-the-antarctic-during-the-southern-hemisphere-summer-commercial-whaling-has-been-banned-for-over.md) _Context: Antarctic_
 4. [The United Nations International Court of Justice rules that Japan's Antarctic whaling program is not scientific but commercial and forbids grants of further permits. ](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.md) _Context: Antarctic_
 5. [Prince Harry and his "Walking with the Wounded" team reach the South Pole after three weeks trekking in the Antarctic. ](/news/2013/12/13/prince-harry-and-his-walking-with-the-wounded-team-reach-the-south-pole-after-three-weeks-trekking-in-the-antarctic.md) _Context: Antarctic_
-
-### Changes:
-
-1. [Conservation biologists describe Adelie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-ada-c-lie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-yea.md) _2017-10-14 19:30:06 (First version)_
-1. [Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. ](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.md) _(Current version)_

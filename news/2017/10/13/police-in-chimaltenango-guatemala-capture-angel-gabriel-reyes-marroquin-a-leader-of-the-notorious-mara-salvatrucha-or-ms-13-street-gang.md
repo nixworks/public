@@ -5,7 +5,7 @@
 He was reportedly wanted in connection with a gun attack on a hospital in which seven died.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://bbcspain.localizer.co/news/world-latin-america-40959833)
 2. [BBC](http://www.bbc.com/news/world-latin-america-41619802)

@@ -5,7 +5,7 @@
 An Su-24 military aircraft has crashed at Khmeimim Airbase in Syria after overshooting the runway, the Russian Defense Ministry reports. The crew has been killed.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/406201-su24-crash-syria-killed/)
 2. [i24 News](http://www.i24news.tv/en/news/international/middle-east/157377-171010-russian-jet-crashes-in-syria-crew-killed-agencies)

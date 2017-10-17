@@ -5,7 +5,7 @@
 Therapy that targets disease-causing mutations could become the first of its kind approved for use in the United States.
 
 
-### Source:
+### Sources:
 
 1. [MIT Technology Review](https://www.technologyreview.com/s/609075/fda-vote-sets-stage-for-gene-therapys-future/)
 2. [Nature](http://www.nature.com/news/fda-advisers-back-gene-therapy-for-rare-form-of-blindness-1.22819)

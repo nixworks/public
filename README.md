@@ -1,7 +1,7 @@
 ## [News](/news/2017/10/17/index.md)
 
-### [Battle of Raqqa](/news/2017/10/17/battle-of-raqqa.md)
-_Context: Battle of Raqqa, Syrian Civil War_
+### [The Syrian Democratic Forces announce the end of the battle for ISIL's de-facto capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
+After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

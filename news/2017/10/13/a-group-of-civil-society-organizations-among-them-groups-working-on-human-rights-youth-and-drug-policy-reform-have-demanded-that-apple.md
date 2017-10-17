@@ -5,7 +5,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-philippines-drugs-apple-apps/activists-urge-apple-to-drop-apps-that-play-up-philippine-drugs-war-idUSKBN1CI13Z)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20171013&t=2&i=1205399254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9C0N2)
