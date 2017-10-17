@@ -6,7 +6,7 @@ After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and 
 ### [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md)
 _Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
 
-### [The Iraqi Army and allied militias continue to seize Iraqi Kurdistan territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-iraqi-kurdistan-territory-taking-over-several-key-cities-including-khanaqin-near-the-i.md)
+### [The Iraqi Army and allied militias continue to seize Kurdish held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md)
 The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.
 
 ## Opinion
