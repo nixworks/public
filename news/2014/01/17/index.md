@@ -7,7 +7,7 @@ _Context: Bangkok_
 At least three persons were killed and 15 others injured today when a blast hit a passenger train, derailing its seven coaches in central Pakistan. The blast derailed coaches of the Khushhal Khan Khattak Express train, two of which were overturned,
 
 ### [A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md)
-_Context: Arsal, Lebanon_
+_Context: Arsal, Lebanese_
 
 ### [Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md)
 _Context: Kabul, suicide bombing_

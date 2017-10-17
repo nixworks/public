@@ -13,7 +13,7 @@ Three Egyptian policemen were killed on Monday when masked men attacked a checkp
 _Context: Sadad, Syria_
 
 ### [Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/two-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of-the-syrian-government-and-the-lebanese.md)
-_Context: Lebanon, Tripoli, Lebanon_
+_Context: Lebanese, Tripoli, Lebanon_
 
 ### [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md)
 _Context: Gaza Strip_

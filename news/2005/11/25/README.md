@@ -22,7 +22,7 @@ _Context: 2015, Bougainville Island, Carteret Atoll, Papua New Guinea_
 _Context: 1968, European Footballer of the Year, George Best, Northern Ireland_
 
 ### [ Arab-Israeli conflict: Israel hands over the bodies of three Hezbollah militants its Defence Forces killed earlier in the week to the Lebanese Government. ](/news/2005/11/25/arabaisraeli-conflict-israel-hands-over-the-bodies-of-three-hezbollah-militants-its-defence-forces-killed-earlier-in-the-week-to-the-leb.md)
-_Context: Arab-Israeli conflict, Hezbollah, Israel, Lebanon, government_
+_Context: Arab-Israeli conflict, Hezbollah, Israel, Lebanese, government_
 
 ### [ Reporters Without Borders voice concerns over the Al Jazeera bombing memo and their shock over the reporting ban placed by the UK government on the issue. ](/news/2005/11/25/reporters-without-borders-voice-concerns-over-the-al-jazeera-bombing-memo-and-their-shock-over-the-reporting-ban-placed-by-the-uk-governmen.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

@@ -22,7 +22,7 @@ _Context: Bulgaria, Cecilia Sarkozy, Colonel, France, HIV trial in Libya, Libya,
 Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nationalise royal property in a Budget presented to Parliament that deals a major blow to the embattled monarch.
 
 ### [ The Lebanese army has resumed shelling Fatah al-Islam positions inside the Nahr al-Bared refugee camp near Tripoli. All of the refugees have left the camp after recent fighting. ](/news/2007/07/12/the-lebanese-army-has-resumed-shelling-fatah-al-islam-positions-inside-the-nahr-al-bared-refugee-camp-near-tripoli-all-of-the-refugees-hav.md)
-_Context: Fatah al-Islam, Lebanon, Nahr al-Bared, Tripoli, Lebanon, army, refugee camp_
+_Context: Fatah al-Islam, Lebanese, Nahr al-Bared, Tripoli, Lebanon, army, refugee camp_
 
 ### [ A Philippines ferry, the MV "Blue Water Princess", sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being-de.md)
 _Context: Luzon, Philippines, ferry_

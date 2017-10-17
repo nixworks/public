@@ -7,7 +7,7 @@ _Context: George W. Bush, Real ID Act_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A Katyusha rocket hits the northern Israeli town of Shlomi, damaging a bakery but no injuries. The rocket appears to have been launched from within Lebanon while Israel celebrated its 57th Independence Day. ](/news/2005/05/11/a-katyusha-rocket-hits-the-northern-israeli-town-of-shlomi-damaging-a-bakery-but-no-injuries-the-rocket-appears-to-have-been-launched-fro.md)
-_Context: Independence Day, Israel, Katyusha, Lebanon, Shlomi, rocket_
+_Context: Independence Day, Israel, Katyusha, Lebanese, Shlomi, rocket_
 
 ### [ Justice officials in Kuwait, with assistance from United Nations war crimes expert Sharif Basyouni, complete an indictment against Saddam Hussein and several former Iraqi officials for crimes against humanity during the 1990 invasion of Kuwait. ](/news/2005/05/11/justice-officials-in-kuwait-with-assistance-from-united-nations-war-crimes-expert-sharif-basyouni-complete-an-indictment-against-saddam-h.md)
 _Context: Gulf War, Iraq, Kuwait, Saddam Hussein, Sharif Basyouni, United Nations, war crime_

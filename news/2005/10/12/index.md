@@ -19,7 +19,7 @@ _Context: China, Fei Junlong, Nie Haisheng, Shenzhou 6, Shenzhou spacecraft, fly
 _Context: Iraqi Islamic Party, Sunni Muslim, in the vote held, proposed Iraqi constitution_
 
 ### [ Syria's interior minister, Ghazi Kanaan, who was head of the country's military intelligence in neighboring Lebanon for nearly 20 years, has committed suicide. ](/news/2005/10/12/syria-s-interior-minister-ghazi-kanaan-who-was-head-of-the-country-s-military-intelligence-in-neighboring-lebanon-for-nearly-20-years-ha.md)
-_Context: Ghazi Kanaan, Lebanon, Syria_
+_Context: Ghazi Kanaan, Lebanese, Syria_
 
 ## [Previous Day...](/news/2005/10/11/index.md)
 

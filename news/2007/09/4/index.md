@@ -34,7 +34,7 @@ _Context: Assembly of Experts, Hashemi Rafsanjani, President_
 _Context: Ali Hassan al-Majid, Hussein Rashid al-Tikriti, Iraq, Sultan Hashim al-Tai_
 
 ### [ 2007 Lebanon conflict: Lebanon's Defense Minister Elias al-Murr claims that at least 222 Fatah al-Islam militants were killed during the struggle. ](/news/2007/09/4/2007-lebanon-conflict-lebanon-s-defense-minister-elias-al-murr-claims-that-at-least-222-fatah-al-islam-militants-were-killed-during-the-st.md)
-_Context: 2007 Lebanon conflict, Elias al-Murr, Fatah al-Islam, Lebanon_
+_Context: 2007 Lebanon conflict, Elias al-Murr, Fatah al-Islam, Lebanese_
 
 ### [ 2007 Pacific Hurricane season: Tropical Storm Henriette becomes Hurricane Henriette on its way to Baja California. ](/news/2007/09/4/2007-pacific-hurricane-season-tropical-storm-henriette-becomes-hurricane-henriette-on-its-way-to-baja-california.md)
 _Context: 2007 Pacific hurricane season, Baja California_

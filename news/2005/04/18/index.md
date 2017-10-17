@@ -46,7 +46,7 @@ _Context: Andres Manuel Lopez Obrador_
 _Context: Asif Zardari, Pakistan, Pakistan Peoples Party_
 
 ### [ Former Lebanese minister Bassel Fleihan dies of wounds he received in the bombing that killed Rafik Hariri. [http:--www.dailystar.com.lb-article.asp?edition_id=1&categ_id=2&article_id=14393 (Daily Star)] [http:--www.alertnet.org-thenews-newsdesk-L18443532.htm (Reuters AlertNet)] [http:--edition.cnn.com-2005-WORLD-meast-04-18-lebanon.death.ap- (CNN)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/former-lebanese-minister-bassel-fleihan-dies-of-wounds-he-received-in-the-bombing-that-killed-rafik-hariri-http-www-dailystar-com-lb-ar.md)
-_Context: Bassel Fleihan, Lebanon, Rafik Hariri_
+_Context: Bassel Fleihan, Lebanese, Rafik Hariri_
 
 ### [ Spain returns Rabei Osman Ahmed, who had been extradited as a prime suspect in the Madrid bombings, to Italian custody. ](/news/2005/04/18/spain-returns-rabei-osman-ahmed-who-had-been-extradited-as-a-prime-suspect-in-the-madrid-bombings-to-italian-custody.md)
 _Context: 2004 Madrid train bombings, Rabei Osman Ahmed_

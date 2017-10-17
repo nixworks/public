@@ -10,7 +10,7 @@ _Context: 1999-2002 economic crisis, Argentina, December 2001 riots, Fernando de
 _Context: Discovery, Florida, Harmony module, International Space Station, Kennedy Space Center, STS-120, Space Shuttle, United States_
 
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
-_Context: Kyrgyzstan, President, President, constitutional changes in a referendum_
+_Context: Kyrgyzstan, President, constitutional changes in a referendum, president_
 
 ### [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.date=December 2007 ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-date-december-2007.md)
 _Context: Karachi, Pakistan, Prime Minister, Shaukat Aziz, suicide bombings_

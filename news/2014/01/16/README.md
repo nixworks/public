@@ -4,7 +4,7 @@
 Five people are injured in a series of Israeli air raids on the Gaza Strip after rockets are fired towards Ashkelon in southern Israel, reports say.
 
 ### [A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-border.md)
-_Context: Hermel, Hezbollah, Lebanon, Syria_
+_Context: Hermel, Hezbollah, Lebanese, Syria_
 
 ### [TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md)
 _Context: Department of Defense, Iraq War, Iraqi, TMZ, United States Marines_

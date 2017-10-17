@@ -10,7 +10,7 @@ _Context: Aung San Suu Kyi, Burma, State Peace and Development Council_
 _Context: Hong Kong, Indian Ocean, Somali pirates, Somalia, oil tanker, rocket-propelled grenades_
 
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
-_Context: Hezbollah, Lebanon, Prime Minister, Saad Hariri, unity_
+_Context: Hezbollah, Lebanese, Prime Minister, Saad Hariri, unity_
 
 ### [ The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntorial-runoff-election-between-governor-benigno-fitial-and-c.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, runoff election_

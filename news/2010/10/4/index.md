@@ -79,7 +79,7 @@ THE ISRAELI supreme court yesterday rejected an appeal by Mairead Maguire agains
 Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he goes on trial accused of inciting hatred.
 
 ### [Syria issues arrest warrants for more than 30 people accused of misleading an investigation into the 2005 assassination of Lebanon's former prime minister Rafic Hariri. ](/news/2010/10/4/syria-issues-arrest-warrants-for-more-than-30-people-accused-of-misleading-an-investigation-into-the-2005-assassination-of-lebanon-s-former.md)
-_Context: Lebanon, Rafic Hariri, Syria_
+_Context: Lebanese, Rafic Hariri, Syria_
 
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)
 _Context: Mahendra Chaudhry, Prime Minister, bail_

@@ -19,7 +19,7 @@ _Context: Moscow, Semion Mogilevich, organized crime from Russia_
 _Context: 2008, Dennis Kucinich, Ohio, United States House of Representatives_
 
 ### [ An explosion in a Beirut suburb (Hazmiyeh) kills Lebanon's top anti-terror investigating officer and his driver. ](/news/2008/01/25/an-explosion-in-a-beirut-suburb-hazmiyeh-kills-lebanon-s-top-anti-terror-investigating-officer-and-his-driver.md)
-_Context: Beirut, Lebanon_
+_Context: Beirut, Lebanese_
 
 ### [ A fire at the Monte Carlo Resort and Casino in Las Vegas, Nevada causes the entire building to be evacuated. ](/news/2008/01/25/a-fire-at-the-monte-carlo-resort-and-casino-in-las-vegas-nevada-causes-the-entire-building-to-be-evacuated.md)
 _Context: Las Vegas Strip, Monte Carlo Resort and Casino, Nevada_

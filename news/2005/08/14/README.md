@@ -7,7 +7,7 @@ _Context: Askar Akayev, Kurmanbek Bakiyev, Kyrgyzstan_
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 ### [ Time magazine cites United States military intelligence documents that an Iranian-backed Iraqi insurgent network, led by Abu Mustafa al-Sheibani, had introduced a bomb design based on Iranian-backed Lebanese militia Hizbollah plans in last eight months. ](/news/2005/08/14/time-magazine-cites-united-states-military-intelligence-documents-that-an-iranian-backed-iraqi-insurgent-network-led-by-abu-mustafa-al-she.md)
-_Context: Abu Mustafa al-Sheibani, Hizbollah, Iran, Iraqi insurgency, Lebanon, Time, military intelligence, militia_
+_Context: Abu Mustafa al-Sheibani, Hizbollah, Iran, Iraqi insurgency, Lebanese, Time, military intelligence, militia_
 
 ### [ U.S. forces in Iraq raid a warehouse in Mosul. They uncover a suspected chemical weapons factory. ](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.md)
 _Context: Mosul, U.S.-led troops, chemical weapon, factory_

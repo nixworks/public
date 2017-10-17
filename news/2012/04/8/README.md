@@ -13,7 +13,7 @@ _Context: Kaduna, Nigeria, car bomb_
 Israeli and German politicians weigh in on uproar over Nobel laureate&#8217;s poem
 
 ### [Rescuers search for possible survivors of the 2012 Siachen Glacier avalanche that hit a Pakistani Army base and has buried up to 135 people, near the disputed Siachen Glacier. ](/news/2012/04/8/rescuers-search-for-possible-survivors-of-the-2012-siachen-glacier-avalanche-that-hit-a-pakistani-army-base-and-has-buried-up-to-135-people.md)
-_Context: 2012 Siachen Glacier avalanche, Pakistani Army, Siachen Glacier_
+_Context: 2012 Siachen Glacier avalanche, Pakistani troops, Siachen Glacier_
 
 ### [The President of Pakistan Asif Ali Zardari arrives in India on the first visit by a Pakistani President in seven years. ](/news/2012/04/8/the-president-of-pakistan-asif-ali-zardari-arrives-in-india-on-the-first-visit-by-a-pakistani-president-in-seven-years.md)
 President Asif Ali Zardari of Pakistan holds &quot;friendly&quot; talks with Indian Prime Minister Manmohan Singh on a rare visit to India.

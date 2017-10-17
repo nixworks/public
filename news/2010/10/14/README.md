@@ -19,7 +19,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 _Context: George Clooney, Omar al-Bashir, UN peace messenger, conflict_
 
 ### [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irania.md)
-_Context: Benjamin Netanyahu, Hezbollah, Iran, Iranian President, Lebanon, Mahmoud Ahmadinejad_
+_Context: Benjamin Netanyahu, Hezbollah, Iran, Iranian President, Lebanese, Mahmoud Ahmadinejad_
 
 ### [A new border gate opens on the divided island of Cyprus, providing a seventh crossing point between the Turkish-controlled TRNC and the southern part of the country. ](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.md)
 _Context: Cyprus, TRNC_

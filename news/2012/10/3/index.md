@@ -4,7 +4,7 @@
 _Context: Hatay Province, Syria, Turkish police, choice, refugee camp, refugees from Syria_
 
 ### [Several blasts strike an arms stockpile in the Hezbollah-controlled Bekaa Valley in Lebanon. ](/news/2012/10/3/several-blasts-strike-an-arms-stockpile-in-the-hezbollah-controlled-bekaa-valley-in-lebanon.md)
-_Context: Bekaa Valley, Hezbollah, Lebanon_
+_Context: Bekaa Valley, Hezbollah, Lebanese_
 
 ### [Riot police in Iran clash with protestors demonstrating against the collapse of the country's currency, the rial. ](/news/2012/10/3/riot-police-in-iran-clash-with-protestors-demonstrating-against-the-collapse-of-the-country-s-currency-the-rial.md)
 Police have reportedly fired tear gas to disperse demonstrators as they protested against the collapse of rial.

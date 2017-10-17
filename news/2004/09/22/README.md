@@ -10,7 +10,7 @@ _Context: UN Security Council, reforming the United Nations_
 _Context: CIA, Director, Porter Goss, United States Senate, White House, nomination_
 
 ### [ The Republic of Ireland's telecommunications regulator, ComReg, announces that, starting on October 4, it will suspend direct-dial telephone] services to thirteen island nations and dependencies, in order to counter telephone dialer scams which have cost some customers thousands of euros. ](/news/2004/09/22/the-republic-of-ireland-s-telecommunications-regulator-comreg-announces-that-starting-on-october-4-it-will-suspend-direct-dial-telephon.md)
-_Context: ComReg, EUR, Republic of Ireland, telecommunications, territory_
+_Context: ComReg, EUR, Ireland, telecommunications, territory_
 
 ### [ The United States Air Force military drops all espionage charges against the Syrian-American airman after he pleads guilty to four lesser charges. The judge criticizes the prosecution for improperly handling key evidence and for failing to correct the mistranslation of a crucial document. ](/news/2004/09/22/the-united-states-air-force-military-drops-all-espionage-charges-against-the-syrian-american-airman-after-he-pleads-guilty-to-four-lesser-c.md)
 _Context: Syria, airman, evidence, spy_

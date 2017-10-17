@@ -10,10 +10,10 @@ _Context: Prince Rainier, heart failure, renal failure, ventilator_
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Tikrit_
 
 ### [ Two people die following a bomb in a shopping centre in a Christian area of North Beirut, Lebanon. The two are believed to have been foreign workers. ](/news/2005/03/23/two-people-die-following-a-bomb-in-a-shopping-centre-in-a-christian-area-of-north-beirut-lebanon-the-two-are-believed-to-have-been-foreig.md)
-_Context: Beirut, Christian, Lebanon_
+_Context: Beirut, Christian, Lebanese_
 
 ### [ In Lebanon, Michel Abu Arraj, a judge investigating the murder of Rafik Hariri, asks to step down from the case prior to public announcement of the results of the United Nations investigation. ](/news/2005/03/23/in-lebanon-michel-abu-arraj-a-judge-investigating-the-murder-of-rafik-hariri-asks-to-step-down-from-the-case-prior-to-public-announcemen.md)
-_Context: Lebanon, Michel Abu Arraj, Rafik Hariri, United Nations_
+_Context: Lebanese, Michel Abu Arraj, Rafik Hariri, United Nations_
 
 ### [ Israel announces that it will ban Palestinians from the West Bank and Gaza Strip from entering Israel during the upcoming Purim holiday. ](/news/2005/03/23/israel-announces-that-it-will-ban-palestinians-from-the-west-bank-and-gaza-strip-from-entering-israel-during-the-upcoming-purim-holiday.md)
 Israel has banned the entry of Palestinians from the West Bank and Gaza during this week&#39;s celebration of the Jewish Purim holiday. 

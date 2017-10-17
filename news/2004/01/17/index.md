@@ -1,7 +1,7 @@
 ## [2004-01-17](/news/2004/01/17/index.md)
 
 ### [ Planned NASA servicing missions for the Hubble Space Telescope are cancelled. Safety concerns are cited as the main reason behind the decision.](/news/2004/01/17/planned-nasa-servicing-missions-for-the-hubble-space-telescope-are-cancelled-safety-concerns-are-cited-as-the-main-reason-behind-the-decis.md)
-_Context: Hubble Space Telescope_
+_Context: Hubble space telescope_
 
 ### [ Human cloning: Fertility expert Dr. Panos Zavos claims to have successfully transplanted a two-week-old embryo into a 35-year-old woman. He said he had not done the act anywhere where "the spirit of the law" was against such a procedure.](/news/2004/01/17/human-cloning-fertility-expert-dr-panos-zavos-claims-to-have-successfully-transplanted-a-two-week-old-embryo-into-a-35-year-old-woman-he.md)
 _Context: Panos Zavos, cloned human_

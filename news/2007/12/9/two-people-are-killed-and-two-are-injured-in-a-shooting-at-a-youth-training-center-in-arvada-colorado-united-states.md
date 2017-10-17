@@ -19,5 +19,5 @@
 
 ### Changes:
 
-1. [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md) _2017-10-15 03:25:05 (First version)_
+1. [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md) _2017-10-16 03:25:01 (First version)_
 1. [ Two people are killed and two are injured in a shooting at a youth training center in Arvada Colorado, United States. ](/news/2007/12/9/two-people-are-killed-and-two-are-injured-in-a-shooting-at-a-youth-training-center-in-arvada-colorado-united-states.md) _(Current version)_

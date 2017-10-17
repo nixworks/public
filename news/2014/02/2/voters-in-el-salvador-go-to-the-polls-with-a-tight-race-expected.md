@@ -22,5 +22,5 @@ MEXICO CITY — Salvadorans vote Sunday in a presidential election that may give
 
 1. [Salvadoran presidential election, 2014:Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/salvadoran-presidential-election-2014-pvoters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md) _2017-08-25 03:39:57 (First version)_
 2. [Salvadoran presidential election, 2014:: Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/salvadoran-presidential-election-2014-voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md) _2017-08-27 03:40:15 (Update)_
-3. [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _2017-10-15 03:46:35 (Update)_
+3. [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md) _2017-10-16 03:46:57 (Update)_
 3. [Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md) _(Current version)_

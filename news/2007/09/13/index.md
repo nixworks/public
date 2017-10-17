@@ -4,7 +4,7 @@
 _Context: Miami_
 
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: $, Earth, Google, Moon, Spaceflight, gigabyte_
+_Context: $, Earth, Google, Moon, gigabyte, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
 _Context: 2007, Atlantic Ocean, Caribbean_
@@ -16,7 +16,7 @@ _Context: African Union, Darfur, Ethiopia, Sudan, United Nations_
 _Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
 
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
-_Context: Islamabad, Pakistani Army, Terbella Ghazi_
+_Context: Islamabad, Pakistani troops, Terbella Ghazi_
 
 ### [ Pakistan Cabinet unanimously decides to re-elect President Pervez Musharraf in uniform from the present assemblies. ](/news/2007/09/13/pakistan-cabinet-unanimously-decides-to-re-elect-president-pervez-musharraf-in-uniform-from-the-present-assemblies.md)
 _Context: Pakistan, Pervez Musharraf, forming a government_

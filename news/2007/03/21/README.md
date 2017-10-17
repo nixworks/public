@@ -28,7 +28,7 @@ _Context:  Insurgency in Somalia, Ethiopia, Ethiopian army, Mogadishu, Somalia, 
 _Context: Army, Batticaloa, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 
 ### [ President of Russia Vladimir Putin declares a national day of mourning after three separate disasters kill at least 173 people in three days: the Ulyanovskaya Mine disaster, the crash of UT Air Flight 471 and a fire in a retirement home. ](/news/2007/03/21/president-of-russia-vladimir-putin-declares-a-national-day-of-mourning-after-three-separate-disasters-kill-at-least-173-people-in-three-day.md)
-_Context:  Russian President, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national mourning, retirement home_
+_Context: Russian president, UT Air Flight 471, Ulyanovskaya Mine disaster, Vladimir Putin, national mourning, retirement home_
 
 ## [Previous Day...](/news/2007/03/20/index.md)
 

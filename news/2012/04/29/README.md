@@ -13,7 +13,7 @@ _Context: Burma_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Lebanon confiscates a shipment of arms and ammunition meant for Syrian rebels and arrests 11 crewmembers. ](/news/2012/04/29/lebanon-confiscates-a-shipment-of-arms-and-ammunition-meant-for-syrian-rebels-and-arrests-11-crewmembers.md)
-_Context: Lebanon, Syria_
+_Context: Lebanese, Syria_
 
 ### [At least seven people die following a bus crash in Japan's Gunma Prefecture north of Tokyo. ](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.md)
 _Context: Gunma Prefecture, Japan, Tokyo_

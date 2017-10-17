@@ -19,7 +19,7 @@ An earthquake on Ischia leaves at least one person dead, with reports of others 
 Dresnok was among a handful of American servicemen to desert after the Korean war and was loyal to Kim Jong-un
 
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
-_Context: Sanctions against North Korea, United Nations, chemical weapons_
+_Context: United Nations, chemical weapons, sanctions_
 
 ### [After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
 _Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, teenager killed_

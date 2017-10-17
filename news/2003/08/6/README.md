@@ -16,7 +16,7 @@ _Context: Liberia, United States military_
 _Context: Iran, North Korea, Tehran, nuclear weapon_
 
 ### [ Real IRA leader Michael McKevitt is convicted in the Republic of Ireland's Special Criminal Court of two terrorist offences, "directing terrorism" and "membership of an illegal organisation". One of the key witnesses was David Rupert, an FBI agent who posed as a member of the Real IRA to get close to McKevitt. The three judges of the SCC will sentence McKevitt later.](/news/2003/08/6/real-ira-leader-michael-mckevitt-is-convicted-in-the-republic-of-ireland-s-special-criminal-court-of-two-terrorist-offences-directing-ter.md)
-_Context: David Rupert, FBI, Michael McKevitt, Real IRA, Republic of Ireland, Special Criminal Court, terrorism_
+_Context: David Rupert, FBI, Ireland, Michael McKevitt, Real IRA, Special Criminal Court, terrorism_
 
 ## [Previous Day...](/news/2003/08/5/index.md)
 

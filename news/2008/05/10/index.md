@@ -19,7 +19,7 @@ _Context: Alexander Zelin, NATO, Russia_
 _Context: Muqtada al-Sadr_
 
 ### [ The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md)
-_Context: Fuad Saniora, Hezbollah, Lebanon, Prime Minister, coup_
+_Context: Fuad Saniora, Hezbollah, Lebanese, Prime Minister, coup_
 
 ### [ Ninawa campaign: The Iraqi Army launched a major operation in the northern city of Mosul against al-Qaeda and its allies. ](/news/2008/05/10/ninawa-campaign-the-iraqi-army-launched-a-major-operation-in-the-northern-city-of-mosul-against-al-qaeda-and-its-allies.md)
 _Context: Iraqi Army, Mosul, Ninawa campaign, al-Qaeda_

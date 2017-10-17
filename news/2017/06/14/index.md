@@ -43,7 +43,7 @@ At least three people were killed and two injured when a man dressed in a UPS un
 Tim Farron has resigned as leader of the Liberal Democrats, following a furore over his beliefs concerning gay sex. The politician admitted some of his comments concerning the matter could have been wiser – when asked if homosexuality is a sin he had previously responded: “We are all sinners.”...
 
 ### [Leo Varadkar becomes the first gay Taoiseach of the Republic of Ireland. ](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.md)
-_Context: Government of Ireland, Leo Varadkar, Republic of Ireland, Taoiseach, gay_
+_Context: Government of Ireland, Ireland, Leo Varadkar, Taoiseach, gay_
 
 ### [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md)
 Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.

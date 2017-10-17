@@ -10,7 +10,7 @@ _Context: Facebook, IPO, Massachusetts, Morgan Stanley, Securities Division, sub
 AT LEAST 14 people have been killed and about 30 injured when a passenger train collided with a stationary goods train in southern India.
 
 ### [A military court in Lebanon releases anti-Syrian government activist Shadi al-Moulawi after his arrest sparked violent clashes that killed eight people. ](/news/2012/05/22/a-military-court-in-lebanon-releases-anti-syrian-government-activist-shadi-al-moulawi-after-his-arrest-sparked-violent-clashes-that-killed-e.md)
-_Context: Lebanon, Shadi al-Moulawi, Syria_
+_Context: Lebanese, Shadi al-Moulawi, Syria_
 
 ### [The trial begins in Mauritius of two hotel workers accused of murdering Irish woman Michaela McAreavey while she honeymooned on the island in 2011. ](/news/2012/05/22/the-trial-begins-in-mauritius-of-two-hotel-workers-accused-of-murdering-irish-woman-michaela-mcareavey-while-she-honeymooned-on-the-island-i.md)
 The family of John McAreavey has appealed for privacy and cautioned members of the media about reporting the trial of two hotel workers accused of the murder of his wife, Michaela.

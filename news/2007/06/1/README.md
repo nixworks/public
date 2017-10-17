@@ -19,7 +19,7 @@ _Context: Jack Kevorkian, doctors, prison, suicide_
 _Context: Alan Johnston, BBC, Kidnap, Middle East, Palestinian Army of Islam, video_
 
 ### [ 2007 North Lebanon conflict: Fighting resumes at the Nahr el-Bared camp between the Lebanese Army and Fatah al-Islam. ](/news/2007/06/1/2007-north-lebanon-conflict-fighting-resumes-at-the-nahr-el-bared-camp-between-the-lebanese-army-and-fatah-al-islam.md)
-_Context: 2007 North Lebanon conflict, Fatah al-Islam, Lebanon, Nahr el-Bared_
+_Context: 2007 North Lebanon conflict, Fatah al-Islam, Lebanese, Nahr el-Bared_
 
 ### [ Thousands of South African public sector workers go on strike for a 12% pay raise for the second Friday in a row. ](/news/2007/06/1/thousands-of-south-african-public-sector-workers-go-on-strike-for-a-12-pay-raise-for-the-second-friday-in-a-row.md)
 _Context: South Africa, public sector_

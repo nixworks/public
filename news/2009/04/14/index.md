@@ -7,7 +7,7 @@ _Context: North Korea, nuclear program, six-party talks_
 _Context: Boulogne-sur-Mer, Common Fisheries Policy, Dunkirk, France, blockade, fishing boat_
 
 ### [ Somali pirates hijack the merchant vessels "Irene" of Greece and "Sea Horse" of Lebanon. ](/news/2009/04/14/somali-pirates-hijack-the-merchant-vessels-irene-of-greece-and-sea-horse-of-lebanon.md)
-_Context: ''Irene'', ''Sea Horse'', Greek, Lebanon, MV, Somali pirates, Somalia_
+_Context: ''Irene'', ''Sea Horse'', Greek, Lebanese, MV, Somali pirates, Somalia_
 
 ### [ The Camel Reproduction Center in Dubai, United Arab Emirates, announces the birth of Injaz, the first cloned camel. ](/news/2009/04/14/the-camel-reproduction-center-in-dubai-united-arab-emirates-announces-the-birth-of-injaz-the-first-cloned-camel.md)
 The ambitious desert emirate of Dubai has claimed another first, this time in the science of cloning camels.

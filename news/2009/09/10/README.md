@@ -16,7 +16,7 @@ _Context: Gabon, disputed presidential election_
 _Context: Dubai, Metro System, metro line_
 
 ### [ Prime Minister-designate Saad Hariri steps aside in Lebanon. ](/news/2009/09/10/prime-minister-designate-saad-hariri-steps-aside-in-lebanon.md)
-_Context: Lebanese Prime Minister, Lebanon, Saad Hariri_
+_Context: Lebanese, Lebanese Prime Minister, Saad Hariri_
 
 ### [ At least five girls are killed and 30 other students injured in a stampede at a state-run school in the Indian capital, New Delhi. ](/news/2009/09/10/at-least-five-girls-are-killed-and-30-other-students-injured-in-a-stampede-at-a-state-run-school-in-the-indian-capital-new-delhi.md)
 Five girls have been killed in a stampede at a school in the Indian capital, New Delhi.

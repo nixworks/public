@@ -16,7 +16,7 @@ _Context: Flight 945, Iran, Iran Air, Mashad, Tu-154_
 _Context: EU, Israeli-Palestinian conflict, Middle East, roadmap for peace_
 
 ### [ Spain approves plans to deploy 1,100 troops to Lebanon as part of a UN peacekeeping force. ](/news/2006/09/1/spain-approves-plans-to-deploy-1-100-troops-to-lebanon-as-part-of-a-un-peacekeeping-force.md)
-_Context: Lebanon, Spain, UN_
+_Context: Lebanese, Spain, UN_
 
 ### [ The Japanese Vice Minister of Economy, Trade and Industry, Takao Kitabata, says Japan has enough petroleum reserves to prevent an oil crisis if economic sanctions are imposed on Iran over its nuclear program. Japan is almost entirely dependent on the Middle East for its oil and imports 15 percent of its total oil consumption from Iran.](/news/2006/09/1/the-japanese-vice-minister-of-economy-trade-and-industry-takao-kitabata-says-japan-has-enough-petroleum-reserves-to-prevent-an-oil-crisi.md)
 _Context: Iran, Japan, Middle East, Minister of Economy, Trade and Industry, Takao Kitabata, crude oil, nuclear program, sanctions_

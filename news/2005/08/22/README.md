@@ -7,7 +7,7 @@ _Context: Iraq, proposed Iraqi constitution_
 _Context: 1996 Summer Olympics, Atlanta, Centennial Olympic Park bombing, Eric Rudolph, life imprisonment, parole_
 
 ### [ A large explosion injures several people in Beirut, Lebanon. ](/news/2005/08/22/a-large-explosion-injures-several-people-in-beirut-lebanon.md)
-_Context: Beirut, Lebanon_
+_Context: Beirut, Lebanese_
 
 ### [ The Piano Man has been identified and sent back home to Bavaria, Germany. ](/news/2005/08/22/the-piano-man-has-been-identified-and-sent-back-home-to-bavaria-germany.md)
 _Context: Bavaria, Germany, Piano Man_

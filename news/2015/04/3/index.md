@@ -16,7 +16,7 @@ _Context: Saudi Arabia, Tawahi, Yemeni Crisis (2011-present)_
 Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nuclear deal &#39;would threaten survival of Israel, bolster Iran&#39;s nuclear program and pave way path to bomb.&#39;
 
 ### [ Plaintiffs withdraw a lawsuit against Google that had asserted that it was illegally tying its licensing of the Android operating system to the favorable treatment of Google apps. ](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.md)
-_Context: Android devices, Google, mobile app_
+_Context: Android, Google, mobile app_
 
 ### [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-and.md)
 A rescued sailor who was adrift in the Atlantic Ocean for two months says he survived on rainwater he collected and fish he caught.

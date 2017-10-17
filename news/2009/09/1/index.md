@@ -31,7 +31,7 @@ The Chilean government will subsidize the purchase of more fuel-efficient trucks
 _Context: EU, bans the manufacture or import, compact fluorescent lamp, incandescent light bulb_
 
 ### [ The Pakistani Army claims to have killed at least 20 suspected militants in clashes across north-west Pakistan. ](/news/2009/09/1/the-pakistani-army-claims-to-have-killed-at-least-20-suspected-militants-in-clashes-across-north-west-pakistan.md)
-_Context: Pakistan, Pakistani Army_
+_Context: Pakistan, Pakistani troops_
 
 ### [ An outbreak of diarrhoea in Orissa, India, kills at least 26 people and hospitalises 237. ](/news/2009/09/1/an-outbreak-of-diarrhoea-in-orissa-india-kills-at-least-26-people-and-hospitalises-237.md)
 _Context: India, Orissa State, diarrhoea_

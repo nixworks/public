@@ -58,7 +58,7 @@ A small number of children in California have contracted polio-like illnesses si
 _Context: Australia, Darling Downs, Queensland Museum, goblin spider_
 
 ### [Nokia unveils Nokia X, an Android-based smartphone, at the Mobile World Congress in Barcelona. ](/news/2014/02/24/nokia-unveils-nokia-x-an-android-based-smartphone-at-the-mobile-world-congress-in-barcelona.md)
-_Context: Android devices, Mobile World Congress, Nokia, Nokia X, smartphone_
+_Context: Android, Mobile World Congress, Nokia, Nokia X, smartphone_
 
 ### [A 4.4-billion-year-old crystal from Western Australia has been confirmed as the oldest fragment of Earth's crust. ](/news/2014/02/24/a-4-4-billion-year-old-crystal-from-western-australia-has-been-confirmed-as-the-oldest-fragment-of-earth-s-crust.md)
 _Context: Western Australia_

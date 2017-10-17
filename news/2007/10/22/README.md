@@ -34,7 +34,7 @@ _Context: Fakaofo, Tokelauan self-determination referendum_
 _Context: $, EUR_
 
 ### [ The 2007 Kyrgyzstani constitutional referendum is approved by about 75% of voters. President of Kyrgyzstan Kurmanbek Bakiyev dissolves the parliament and announces a snap legislative election will take place in December 2007, which he will contest with his newly founded party Ak Zhol. ](/news/2007/10/22/the-2007-kyrgyzstani-constitutional-referendum-is-approved-by-about-75-of-voters-president-of-kyrgyzstan-kurmanbek-bakiyev-dissolves-the.md)
-_Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum, parliament, snap legislative election_
+_Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, constitutional changes in a referendum, parliament, president, snap legislative election_
 
 ### [ At least 25 killed when Tamil Tiger fighters attack a Sri Lankan air force base in the Anuradhapura district with heavy fighting reported. ](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.md)
 _Context: Anuradhapura, Sri Lanka, Tamil Tiger, air force_

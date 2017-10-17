@@ -16,7 +16,7 @@ _Context: 2004 Summer Olympics, International Olympic Committee, Jacques Rogge_
 _Context: Dick Cheney, George W. Bush, National Convention, Republican, U.S. Vice President, protests_
 
 ### [ The Lebanese Cabinet, under Syrian pressure and despite widespread opposition, votes to modify the constitution to allow President mile Lahoud a second term in office. Patriarch Sfeir states "we have completely lost sovereignty of our territory and our independence and freedom in choosing our rulers and deciding our own affairs." ](/news/2004/08/29/the-lebanese-cabinet-under-syrian-pressure-and-despite-widespread-opposition-votes-to-modify-the-constitution-to-allow-president-emile-la.md)
-_Context: Lebanon, Syria_
+_Context: Lebanese, Syria_
 
 ### [ The British Royal Society, with 68 other organizations, urges the UN to ban reproductive but not therapeutic use of the technology in response to a US bid to ban human cloning altogether. ](/news/2004/08/29/the-british-royal-society-with-68-other-organizations-urges-the-un-to-ban-reproductive-but-not-therapeutic-use-of-the-technology-in-respo.md)
 _Context: Royal Society_

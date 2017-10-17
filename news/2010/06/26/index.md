@@ -28,7 +28,7 @@ _Context: Gaza Strip, Israel, Norway, West Bank_
 The chilled Tropika that Salama al-Kishawi proudly serves guests in his office tastes, unusually for a processed juice, of real oranges – especially refreshing on a 35C midsummer day in Gaza. But the flagship product of the Gaza Juice Factory has a significance that goes way beyond its taste.
 
 ### [Iranian lawmakers protesting at Israel's blockade of Gaza say they will travel to the area on an aid ship from Lebanon. ](/news/2010/06/26/iranian-lawmakers-protesting-at-israel-s-blockade-of-gaza-say-they-will-travel-to-the-area-on-an-aid-ship-from-lebanon.md)
-_Context: Gaza Strip, Iran, Israel, Lebanon_
+_Context: Gaza Strip, Iran, Israel, Lebanese_
 
 ### [The Vatican's Secretary of State Cardinal Tarcisio Bertone criticizes Belgian police participating in raids against child sex abuse. ](/news/2010/06/26/the-vatican-s-secretary-of-state-cardinal-tarcisio-bertone-criticizes-belgian-police-participating-in-raids-against-child-sex-abuse.md)
 The Vatican says the detention of priests in a Belgian inquiry into alleged child abuse was worse than the Communist era.

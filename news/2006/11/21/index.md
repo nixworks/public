@@ -10,7 +10,7 @@ _Context: 1986, Olof Palme, Swedish, prime minister_
 _Context: Den Helder, Dutch, North Sea, Texel, hypothermia, offshore oil platform, power outage_
 
 ### [ Lebanese Minister of Industry and Maronite Christian Pierre Gemayel is assassinated by a gunman in Beirut. ](/news/2006/11/21/lebanese-minister-of-industry-and-maronite-christian-pierre-gemayel-is-assassinated-by-a-gunman-in-beirut.md)
-_Context: Beirut, Lebanon, Maronite Christian, Pierre Amine Gemayel, assassinated_
+_Context: Beirut, Lebanese, Maronite Christian, Pierre Amine Gemayel, assassinated_
 
 ### [ President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki announce plans to meet next week to discuss security issues in Iraq. ](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.md)
 _Context: George W. Bush, Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S. President_

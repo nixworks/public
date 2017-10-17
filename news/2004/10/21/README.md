@@ -4,7 +4,7 @@
 _Context: Thomas DeMarse, University of Florida, neuron_
 
 ### [ Lebanese President mile Lahoud names staunch pro-Syrian politician Omar Karami as Prime Minister following Rafic Hariri's resignation on October 20, 2004. Karami, Prime Minister from 1990 to 1992, was forced to resign in 1992. ](/news/2004/10/21/lebanese-president-emile-lahoud-names-staunch-pro-syrian-politician-omar-karami-as-prime-minister-following-rafic-hariri-s-resignation-on-o.md)
-_Context: Lebanon, Omar Karami, Rafic Hariri, Syria, mile Lahoud_
+_Context: Lebanese, Omar Karami, Rafic Hariri, Syria, mile Lahoud_
 
 ### [ Abu Ghraib prisoner abuse: The US Army sentences Staff Sergeant Ivan Frederick to eight years in prison for sexually and physically abusing detainees at Abu Ghraib prison. ](/news/2004/10/21/abu-ghraib-prisoner-abuse-the-us-army-sentences-staff-sergeant-ivan-frederick-to-eight-years-in-prison-for-sexually-and-physically-abusing.md)
 _Context: Abu Ghraib prison, Abu Ghraib prisoner abuse, Ivan Frederick, U.S. soldiers, staff sergeant_

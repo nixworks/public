@@ -40,7 +40,7 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 _Context: Juno mission, Jupiter, NASA_
 
 ### [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md)
-_Context: Android devices, Apple Inc., Beijing, Check Point, China, Computer security, HummingBad, India, malware_
+_Context: Android, Apple Inc., Beijing, Check Point, China, Computer security, HummingBad, India, malware_
 
 ## [Previous Day...](/news/2016/07/4/index.md)
 

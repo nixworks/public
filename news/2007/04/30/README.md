@@ -19,7 +19,7 @@ _Context: Blues and Royals, British Army, General, Iraq, Prince Harry, Richard D
 _Context: Governor of Virginia, Timothy Kaine, massacre_
 
 ### [ Israeli PM Ehud Olmert is criticised by the Winograd Commission for taking Israel to war in Lebanon last year "hastily". ](/news/2007/04/30/israeli-pm-ehud-olmert-is-criticised-by-the-winograd-commission-for-taking-israel-to-war-in-lebanon-last-year-hastily.md)
-_Context: Ehud Olmert, Israel, Lebanon, mishandling of the 2006 Lebanon war, war_
+_Context: Ehud Olmert, Israel, Lebanese, mishandling of the 2006 Lebanon war, war_
 
 ### [ An indoor smoking ban comes into effect in Northern Ireland, three years after the Republic of Ireland. ](/news/2007/04/30/an-indoor-smoking-ban-comes-into-effect-in-northern-ireland-three-years-after-the-republic-of-ireland.md)
 A smoking ban in enclosed public places has come into effect in Northern Ireland.

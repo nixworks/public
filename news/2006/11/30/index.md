@@ -25,7 +25,7 @@ _Context: Sudan, clashes_
 _Context: 2007 presidential election, Nicolas Sarkozy, President of France, minister of the interior_
 
 ### [ Hezbollah-led Lebanon opposition groups call for protests on Friday in an effort to bring down the Government, ](/news/2006/11/30/hezbollah-led-lebanon-opposition-groups-call-for-protests-on-friday-in-an-effort-to-bring-down-the-government.md)
-_Context: Hezbollah, Lebanon_
+_Context: Hezbollah, Lebanese_
 
 ### [ A meeting between the President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki in Jordan is cancelled. A classified Bush administration memo critical of the ability of al-Maliki to bring sectarian conflict under control had previously been published in "The New York Times". In a later meeting, they decided that Iraq should not be divided into semi-autonomous zones. ](/news/2006/11/30/a-meeting-between-the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-in-jordan-is-cancelled.md)
 _Context: George W. Bush, George W. Bush administration, Iraq Prime Minister, Jordan, Nouri al-Maliki, The New York Times, U.S. President, sectarian conflict_

@@ -19,7 +19,7 @@ _Context: Hollywood, Screenwriter, Writers Guild of America, residuals_
 _Context: 2007 general election, Alvaro Colom, Guatemala, President of Guatemala_
 
 ### [ Google and the Open Handset Alliance announce the Android operating system, a joint effort in handheld computing. ](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.md)
-_Context: Android devices, Google, Open Handset Alliance, handheld computing_
+_Context: Android, Google, Open Handset Alliance, handheld computing_
 
 ### [ The number of people in southern Mexico displaced by the 2007 Tabasco flood nears a million ](/news/2007/11/5/the-number-of-people-in-southern-mexico-displaced-by-the-2007-tabasco-flood-nears-a-million.md)
 _Context: 2007 Tabasco flood, Mexico_

@@ -7,7 +7,7 @@ _Context: Chad, China, Taiwan, maintaining official relations, relations_
 _Context: Defenders of Human Rights Center, Iran, Nobel Peace Prize, Shirin Ebadi, nongovernmental organization_
 
 ### [ Iranian Foreign Ministry spokesman Hamid Reza Asefi calls for the "formation of an international investigation committee to probe the ongoing atrocities of the Zionist regime in Lebanon, and to prosecute and punish the ones responsible for these catastrophes." ](/news/2006/08/5/iranian-foreign-ministry-spokesman-hamid-reza-asefi-calls-for-the-formation-of-an-international-investigation-committee-to-probe-the-ongoi.md)
-_Context: Israel, Lebanon_
+_Context: Israel, Lebanese_
 
 ### [ The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbollah.md)
 _Context: France, Hezbollah, Israel, UN, US$_

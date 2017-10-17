@@ -7,7 +7,7 @@ _Context: Baltic Way, Baltic states, Soviet_
 _Context: Bamako, Mali, marriage, women equal rights_
 
 ### [ 26 men accused of plotting attacks on tourist resorts and ships in the Suez Canal on behalf of Lebanon's Hezbollah group go on trial in an Egyptian security court. ](/news/2009/08/23/26-men-accused-of-plotting-attacks-on-tourist-resorts-and-ships-in-the-suez-canal-on-behalf-of-lebanon-s-hezbollah-group-go-on-trial-in-an.md)
-_Context: Egypt, Hezbollah, Lebanon, Suez Canal_
+_Context: Egypt, Hezbollah, Lebanese, Suez Canal_
 
 ### [ Thousands of people are evacuated as forest fires reach the outskirts of the Greek capital, Athens. ](/news/2009/08/23/thousands-of-people-are-evacuated-as-forest-fires-reach-the-outskirts-of-the-greek-capital-athens.md)
 A huge wildfire fanned by strong winds cut a swathe of destruction near Athens, burning houses, razing large patches of forest and sending thousands fleeing their homes.

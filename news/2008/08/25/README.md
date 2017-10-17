@@ -22,7 +22,7 @@ _Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority Preside
 _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_
 
 ### [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md)
-_Context:  Russian President, Abkhazia, Federal Assembly, Federation Council, Georgian, Russia, South Ossetia_
+_Context: Abkhazia, Federal Assembly, Federation Council, Georgian, Russia, Russian president, South Ossetia_
 
 ## [Previous Day...](/news/2008/08/24/index.md)
 

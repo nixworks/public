@@ -19,7 +19,7 @@ _Context: Cape Town, South Africa, train crash_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Lebanese Environment Minister Yaacoub Sarraf, a Christian allied with Hezbollah, joins the rank of five other cabinet members who resigned on November 11, 2006. The cabinet later unanmously approved a UN-proposed international tribunal to try suspects over the assassination of Prime Minister Rafik Hariri in February 2005. ](/news/2006/11/13/lebanese-environment-minister-yaacoub-sarraf-a-christian-allied-with-hezbollah-joins-the-rank-of-five-other-cabinet-members-who-resigned.md)
-_Context: February 2005, Lebanon, Rafik Hariri, Yaacoub Sarraf_
+_Context: February 2005, Lebanese, Rafik Hariri, Yaacoub Sarraf_
 
 ### [ In a major development for the Free Software movement, Sun Microsystems releases the Java programming language under the GNU General Public Licence. ](/news/2006/11/13/in-a-major-development-for-the-free-software-movement-sun-microsystems-releases-the-java-programming-language-under-the-gnu-general-public.md)
 _Context: Free Software, GNU General Public Licence, Java, Sun Microsystems_

@@ -1,7 +1,7 @@
 ## [2007-06-21](/news/2007/06/21/index.md)
 
 ### [ Lebanon declares victory over Fatah al-Islam, an Al Qaeda-linked group, after a month-long battle at a Palestinian refugee camp. ](/news/2007/06/21/lebanon-declares-victory-over-fatah-al-islam-an-al-qaeda-linked-group-after-a-month-long-battle-at-a-palestinian-refugee-camp.md)
-_Context: 2007 Lebanon conflict, Fatah al-Islam, Lebanon, al-Qaeda, refugee_
+_Context: 2007 Lebanon conflict, Fatah al-Islam, Lebanese, al-Qaeda, refugee_
 
 ### [ Inflation in Zimbabwe reaches 9,000%, the highest in the world. ](/news/2007/06/21/inflation-in-zimbabwe-reaches-9-000-the-highest-in-the-world.md)
 _Context: Zimbabwe, dollar_

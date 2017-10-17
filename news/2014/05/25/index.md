@@ -16,7 +16,7 @@ The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zh
 _Context: Mahmoud Abbas, Palestinian President, Pope Francis, President, Shimon Peres, Vatican City_
 
 ### [Lebanese security forces arrest Islamist militant leader Omar Bakri Muhammad. ](/news/2014/05/25/lebanese-security-forces-arrest-islamist-militant-leader-omar-bakri-muhammad.md)
-_Context: Lebanon, Omar Bakri Muhammad, radical Islamists_
+_Context: Lebanese, Omar Bakri Muhammad, radical Islamists_
 
 ### [Voters in Colombia go to the polls for the first round in the presidential election. Opposition candidate Oscar Ivan Zuluaga wins a plurality of votes and will face the incumbent Juan Manuel Santos in the second round. ](/news/2014/05/25/voters-in-colombia-go-to-the-polls-for-the-first-round-in-the-presidential-election-opposition-candidate-ascar-iva-n-zuluaga-wins-a-plural.md)
 _Context: Colombia, Juan Manuel Santos, Oscar Ivan Zuluaga_

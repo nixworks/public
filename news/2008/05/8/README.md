@@ -22,7 +22,7 @@ _Context: Russia, United States, military attach_
 Lithuania&#39;s parliament has ratified the European Union&#39;s Lisbon Treaty.
 
 ### [ 2008 unrest in Lebanon: Gunbattles erupt in Beirut as the government of Lebanon cracks down on Hezbollah. Two people are killed and eight injured in the fighting. ](/news/2008/05/8/2008-unrest-in-lebanon-gunbattles-erupt-in-beirut-as-the-government-of-lebanon-cracks-down-on-hezbollah-two-people-are-killed-and-eight-i.md)
-_Context: 2008 unrest in Lebanon, Beirut, Hezbollah, Lebanon_
+_Context: 2008 unrest in Lebanon, Beirut, Hezbollah, Lebanese_
 
 ### [ The 2008 Summer Olympics torch relay reaches the peak of Mount Everest. ](/news/2008/05/8/the-2008-summer-olympics-torch-relay-reaches-the-peak-of-mount-everest.md)
 _Context: 2008 Summer Olympics torch relay, Mount Everest_

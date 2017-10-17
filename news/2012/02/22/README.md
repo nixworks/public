@@ -22,7 +22,7 @@ A commuter train crash at a station in the Argentine capital Buenos Aires kills 
 _Context: Arizona, California, U.S. Marine, helicopter_
 
 ### [Azerbaijan's National Security Ministry says it has uncovered a terrorist plot aimed at Jewish targets organized by a non-state group linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2012/02/22/azerbaijan-s-national-security-ministry-says-it-has-uncovered-a-terrorist-plot-aimed-at-jewish-targets-organized-by-a-non-state-group-linked.md)
-_Context: Azerbaijan, Hezbollah, Iran, Iranian Revolutionary guards, Lebanon_
+_Context: Azerbaijan, Hezbollah, Iran, Iranian Revolutionary guards, Lebanese_
 
 ### [The International Atomic Energy Agency states that Iran has denied inspectors access to the Parchin military site where it believes that suspicious nuclear activities may be taking place. ](/news/2012/02/22/the-international-atomic-energy-agency-states-that-iran-has-denied-inspectors-access-to-the-parchin-military-site-where-it-believes-that-sus.md)
 IAEA head says Tehran refused to allow its inspectors to visit the Parchin weapons development complex.

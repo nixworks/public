@@ -22,7 +22,7 @@ _Context: Basque Parliament, Juan Jos Ibarretxe_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Lebanon, victorious anti-Syria coalition demands resignation of pro-Syrian president mile Lahoud. They hold him responsible for assassinations of opposition figures ](/news/2005/06/23/in-lebanon-victorious-anti-syria-coalition-demands-resignation-of-pro-syrian-president-emile-lahoud-they-hold-him-responsible-for-assassi.md)
-_Context: Lebanon, Syria, mile Lahoud_
+_Context: Lebanese, Syria, mile Lahoud_
 
 ### [ In Malawi, parliament debates about possible impeachment of president Bingu wa Mutharika. United Democratic Party accuses him for violation of the constitution and misusing public funds. Debate is interrupted when the speaker of the house Rodwell Munyenyembe collapses. ](/news/2005/06/23/in-malawi-parliament-debates-about-possible-impeachment-of-president-bingu-wa-mutharika-united-democratic-party-accuses-him-for-violation.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

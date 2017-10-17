@@ -22,7 +22,7 @@ _Context: Hugo Chvez, President, Radio Caracas Television, Venezuela_
 _Context: Samsun, Thousands gather, Turkey_
 
 ### [ Battle of Nahr al-Bared: Fighting breaks out between Fatah al-Islam militants and Lebanese soldiers at the Nahr al-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/20/battle-of-nahr-al-bared-fighting-breaks-out-between-fatah-al-islam-militants-and-lebanese-soldiers-at-the-nahr-al-bared-refugee-camp-in-tr.md)
-_Context: Battle of Nahr al-Bared, Fatah al-Islam, Lebanon, Nahr al-Bared, Tripoli, Lebanon, refugee, soldier_
+_Context: Battle of Nahr al-Bared, Fatah al-Islam, Lebanese, Nahr al-Bared, Tripoli, Lebanon, refugee, soldier_
 
 ### [ David Hicks returns from Guantnamo Bay to his home state of South Australia. He will serve the remaining seven months of his sentence for providing material support for terrorism at Yatala Labour Prison. ](/news/2007/05/20/david-hicks-returns-from-guantanamo-bay-to-his-home-state-of-south-australia-he-will-serve-the-remaining-seven-months-of-his-sentence-for.md)
 _Context: David Hicks, Guantanamo Bay, South Australia, Yatala Labour Prison_

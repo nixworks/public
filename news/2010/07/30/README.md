@@ -34,7 +34,7 @@ _Context: Al Gore, Portland, Oregon, U.S. Vice President, masseuse_
 _Context: Armenia, California, Central Bank of the Republic of Turkey, Turkey, U.S. federal court, Ziraat Bankasi, damages, genocide of Armenians_
 
 ### [Syrian President Bashar al-Assad, Saudi King Abdullah, and Qatari Emir Sheikh Hamad bin Khalifa al-Thani visit Lebanon amid reports that the Special Tribunal for Lebanon will indict members of Hezbollah ](/news/2010/07/30/syrian-president-bashar-al-assad-saudi-king-abdullah-and-qatari-emir-sheikh-hamad-bin-khalifa-al-thani-visit-lebanon-amid-reports-that-the.md)
-_Context: Abdullah, Bashar al-Assad, Hezbollah, King, Lebanon, President, Qatar, Qatar Emir, Saudi Arabia, Sheikh Hamad bin Khalifa Al Thani, Special Tribunal for Lebanon, Syria_
+_Context: Abdullah, Bashar al-Assad, Hezbollah, King, Lebanese, President, Qatar, Qatar Emir, Saudi Arabia, Sheikh Hamad bin Khalifa Al Thani, Special Tribunal for Lebanon, Syria_
 
 ### [Vanuatu marks thirty years of independence. ](/news/2010/07/30/vanuatu-marks-thirty-years-of-independence.md)
 The Australian government is about to hand over a special gift to Vanuatu on its 30th Anniversary of Independence now being celebrated in the country.

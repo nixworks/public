@@ -10,7 +10,7 @@ _Context: Galina Starovoitova, St. Petersburg_
 _Context: Delhi, Sansar Chand, poachers, tiger_
 
 ### [ In Lebanon, former Minister of Finance, Fouad Siniora is appointed prime minister.](/news/2005/06/30/in-lebanon-former-minister-of-finance-fouad-siniora-is-appointed-prime-minister.md)
-_Context: Fouad Siniora, Lebanon, Prime Minister_
+_Context: Fouad Siniora, Lebanese, Prime Minister_
 
 ### [ The Sudanese government releases jailed Islamist leader Hassan Al-Turabi and lifts a ban of his Popular Congress Party. He was detained for plotting a coup](/news/2005/06/30/the-sudanese-government-releases-jailed-islamist-leader-hassan-al-turabi-and-lifts-a-ban-of-his-popular-congress-party-he-was-detained-for.md)
 _Context: Hassan al-Turabi, Popular Congress Party, Sudan, coup_

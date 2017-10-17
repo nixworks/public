@@ -58,7 +58,7 @@ A Marine shot and killed two fellow Marines at a barracks near Washington, D.C.,
 Burma imposes a state of emergency in the town of Meiktila following three days of communal violence between Buddhists and Muslims.
 
 ### [Najib Mikati announces his resignation as Prime Minister of Lebanon. ](/news/2013/03/22/najib-mikati-announces-his-resignation-as-prime-minister-of-lebanon.md)
-_Context: Lebanon, Najib Mikati, Prime Minister_
+_Context: Lebanese, Najib Mikati, Prime Minister_
 
 ### [Several Ministers and Australian Labor Party figures resign or are sacked following a leadership spill including Simon Crean, Martin Ferguson, Chris Bowen, Kim Carr, Richard Marles, Ed Husic and Joel Fitzgibbon. ](/news/2013/03/22/several-ministers-and-australian-labor-party-figures-resign-or-are-sacked-following-a-leadership-spill-including-simon-crean-martin-ferguso.md)
 _Context: Chris Bowen, Ed Husic, Joel Fitzgibbon, Kim Carr, Labor Party, Martin Ferguson, Richard Marles, Simon Crean, leadership spill_

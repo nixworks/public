@@ -34,7 +34,7 @@ Lawyers for Wikileaks founder welcome prosecutor’s decision to interview Assan
 Gamers are being targeted with a computer virus that stops them playing their favourite titles unless they pay a ransom.
 
 ### [NASA reports that scientists using the Hubble Space Telescope have found a salty ocean lurking beneath the surface of Jupiter's largest moon, Ganymede. ](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.md)
-_Context: Ganymede, Hubble Space Telescope, Jupiter, NASA, salty_
+_Context: Ganymede, Hubble space telescope, Jupiter, NASA, salty_
 
 ## [Previous Day...](/news/2015/03/12/index.md)
 

@@ -1,7 +1,7 @@
 ## [2013-12-27](/news/2013/12/27/index.md)
 
 ### [A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-former-ambassador-to-the-u-s-mohamad-ch.md)
-_Context: Beirut, Central District, Lebanon, Mohamad Chatah, car bomb, explodes_
+_Context: Beirut, Central District, Lebanese, Mohamad Chatah, car bomb, explodes_
 
 ### [Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md)
 At least 11 people, including six soldiers, are killed by a remote-controlled bomb in a restaurant in the Somali capital Mogadishu, witnesses say.

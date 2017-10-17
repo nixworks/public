@@ -28,7 +28,7 @@ _Context: Pontin's, United Kingdom_
 President Barack Obama will nominate a state bank regulator to be director of the U.S. agency that oversees mortgage giants Fannie Mae FNMA.OB and Freddie Mac FMCC.OB, the White House said on Friday.
 
 ### [Bing Search for Android now available in market. ](/news/2010/11/12/bing-search-for-android-now-available-in-market.md)
-_Context: Android devices, Bing Search_
+_Context: Android, Bing Search_
 
 ### [The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-hospitals-overflow-and-space-an.md)
 The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti which has now claimed 724 lives.
@@ -64,7 +64,7 @@ The trial starts of eight officers charged with the murder of prominent human ri
 _Context: Hassan Bamoum, Yemen_
 
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
-_Context: Lebanon, Omar Bakri Muhammad, life imprisonment_
+_Context: Lebanese, Omar Bakri Muhammad, life imprisonment_
 
 ### [Transparency International names Poddala Jayantha, Sergei Magnitsky and Gregory Ngbwa Minsta as joint winners of a global award for integrity. ](/news/2010/11/12/transparency-international-names-poddala-jayantha-sergei-magnitsky-and-gregory-ngbwa-minsta-as-joint-winners-of-a-global-award-for-integrit.md)
 A Sri Lankan journalist, a Russian lawyer and a Gabonese activist are commended by anti-corruption watchdog Transparency International.

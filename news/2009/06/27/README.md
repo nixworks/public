@@ -10,7 +10,7 @@ _Context: Air France, Brazil, crash of Air France Flight 447_
 _Context: Bangkok, Royal Thai Government, Thailand, red shirt_
 
 ### [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md)
-_Context: Lebanese Prime Minister, Lebanon, Saad Hariri_
+_Context: Lebanese, Lebanese Prime Minister, Saad Hariri_
 
 ### [ The Taliban claim responsibility for a suicide attack in Pakistan-administered Kashmir which killed two soldiers. ](/news/2009/06/27/the-taliban-claim-responsibility-for-a-suicide-attack-in-pakistan-administered-kashmir-which-killed-two-soldiers.md)
 _Context: Kashmir, Pakistan-administered Kashmir, Taliban_

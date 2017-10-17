@@ -4,7 +4,7 @@
 _Context: Mohammad Khatami, Muqtada al-Sadr, Shia, Sunni, legislative election_
 
 ### [ Arab-Israeli conflict: A French officer, working for the United Nations, is killed by shelling in the disputed Shebaa Farms area of Southern Lebanon. Israeli planes and artillery had been firing on suspected Hezbollah positions in the area in retaliation for Hezbollah's attack which killed an Israeli officer. ](/news/2005/01/9/arabaisraeli-conflict-a-french-officer-working-for-the-united-nations-is-killed-by-shelling-in-the-disputed-shebaa-farms-area-of-south.md)
-_Context: Arab-Israeli conflict, Hezbollah, Lebanon, Shebaa farms, United Nations_
+_Context: Arab-Israeli conflict, Hezbollah, Lebanese, Shebaa farms, United Nations_
 
 ### [ After a 66% turnout and extended hours, an exit poll shows Mahmoud Abbas winning the Palestinian presidential election with two-thirds of the vote and challenger Mustafa Barghouti getting 19.7%. ](/news/2005/01/9/after-a-66-turnout-and-extended-hours-an-exit-poll-shows-mahmoud-abbas-winning-the-palestinian-presidential-election-with-two-thirds-of-t.md)
 _Context: Mahmoud Abbas, Mustafa Barghouti, Palestinian presidential election_

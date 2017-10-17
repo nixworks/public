@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Taliban insurgents attack a Pakistani military post in Jogi with the Pakistani Army suffering seven casualties and another 10 soldiers killed. ](/news/2012/01/31/taliban-insurgents-attack-a-pakistani-military-post-in-jogi-with-the-pakistani-army-suffering-seven-casualties-and-another-10-soldiers-kille.md)
-_Context: Jogi, Pakistan, Pakistani Army, Taliban_
+_Context: Jogi, Pakistan, Pakistani troops, Taliban_
 
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
 The Kunduz Province authorities say that a woman, 22, was strangled by her husband and mother-in-law three months after she gave birth to a third girl.

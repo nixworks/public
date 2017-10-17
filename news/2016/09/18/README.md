@@ -4,7 +4,7 @@
 At least 17 soldiers have been killed, while 4 militants were shot dead by Indian forces.
 
 ### [Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. ](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-near-the-city-of-peshawar.md)
-_Context: Pakistani Army, Peshawar, War in North-West Pakistan_
+_Context: Pakistani troops, Peshawar, War in North-West Pakistan_
 
 ### [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md)
 Australian aircraft were involved in a US-led coalition operation which killed dozens of Syrian soldiers who were apparently mistaken for Islamic State fighters, the Defence Department has confirmed.

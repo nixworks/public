@@ -4,7 +4,7 @@
 French forces say they have entered Kidal in northern Mali, the last major town they have yet to secure in their drive against Islamist militants.
 
 ### [Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/israeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md)
-_Context: Hezbollah, Israeli forces, Lebanon, Syria, convoy_
+_Context: Hezbollah, Israeli forces, Lebanese, Syria, convoy_
 
 ### [Two people are killed in clashes between protesters and police on the edge of Cairo's Tahrir Square. ](/news/2013/01/30/two-people-are-killed-in-clashes-between-protesters-and-police-on-the-edge-of-cairo-s-tahrir-square.md)
 Two people in Egypt are fatally shot in dawn clashes between protesters and police on the edge of Tahrir Square in Cairo, medics say.

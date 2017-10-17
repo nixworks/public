@@ -16,7 +16,7 @@ _Context: Al-Dujail trial, Awad Hamed al-Bandar_
 _Context: Portsmouth, United Kingdom_
 
 ### [ A United Nations investigation headed by Detlev Mehlis has found that high-ranking members of the Syrian and Lebanese governments were involved in the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/10/21/a-united-nations-investigation-headed-by-detlev-mehlis-has-found-that-high-ranking-members-of-the-syrian-and-lebanese-governments-were-invo.md)
-_Context: Detlev Mehlis, Lebanese Prime Minister, Lebanon, Rafik Hariri, Syria, United Nations, assassinated_
+_Context: Detlev Mehlis, Lebanese, Lebanese Prime Minister, Rafik Hariri, Syria, United Nations, assassinated_
 
 ### [ A ceremony is held in Portsmouth, UK, to commemorate the 200th anniversary of the Battle of Trafalgar; other events include the Queen Elizabeth II lighting one of many nationwide beacons. ](/news/2005/10/21/a-ceremony-is-held-in-portsmouth-uk-to-commemorate-the-200th-anniversary-of-the-battle-of-trafalgar-other-events-include-the-queen-eliza.md)
 _Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, United Kingdom, beacon_

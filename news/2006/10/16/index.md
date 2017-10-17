@@ -1,7 +1,7 @@
 ## [2006-10-16](/news/2006/10/16/index.md)
 
 ### [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md)
-_Context: After 48 rounds of voting, Belgium, General Assembly, Guatemala, Indonesia, Italy, Latin America and the Caribbean, Security Council, South Africa, United Nations, Venezuela_
+_Context: After 48 rounds of voting, Belgium, General Assembly, Guatemala, Indonesia, Italy, Latin America and the Caribbean, South Africa, UNSC, United Nations, Venezuela_
 
 ### [ United Nations Secretary-General Kofi Annan condemns movement by Eritrea of 1,500 troops and 14 tanks into the UNMEE-monitored Temporary Security Zone with Ethiopia as a "major breach" of the ceasefire agreement that ended the Eritrean-Ethiopian War. ](/news/2006/10/16/united-nations-secretary-general-kofi-annan-condemns-movement-by-eritrea-of-1-500-troops-and-14-tanks-into-the-unmee-monitored-temporary-se.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

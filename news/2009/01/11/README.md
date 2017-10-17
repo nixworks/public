@@ -1,7 +1,7 @@
 ## [2009-01-11](/news/2009/01/11/index.md)
 
 ### [ Russian President Dmitry Medvedev criticizes Prime Minister Vladimir Putin's government for not acting quickly enough to deal with the current financial crisis. ](/news/2009/01/11/russian-president-dmitry-medvedev-criticizes-prime-minister-vladimir-putin-s-government-for-not-acting-quickly-enough-to-deal-with-the-curr.md)
-_Context:  Russian President, Dmitry Medvedev, Prime Minister of Russia, Russia, Russian Government, Vladimir Putin, current economic crisis_
+_Context: Dmitry Medvedev, Prime Minister of Russia, Russia, Russian Government, Russian president, Vladimir Putin, current economic crisis_
 
 ### [ European Union monitors arrive to ensure that Russia restarts its natural-gas delivery to Europe. ](/news/2009/01/11/european-union-monitors-arrive-to-ensure-that-russia-restarts-its-natural-gas-delivery-to-europe.md)
 _Context: EU, Europe, Russia, natural gas, restarts_

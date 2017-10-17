@@ -34,7 +34,7 @@ CARACAS: Venezuela is sending 15,000 soldiers to the border with Colombia, sayin
 For the first time two Australian researchers have painstakingly pieced together the stories of the dead from a French battlefield. Paola Totaro reports.
 
 ### [ Lebanon's political opposition agrees to join a unity government under Prime Minister designate Saad Hariri. ](/news/2009/11/7/lebanon-s-political-opposition-agrees-to-join-a-unity-government-under-prime-minister-designate-saad-hariri.md)
-_Context: Lebanon, Saad Hariri_
+_Context: Lebanese, Saad Hariri_
 
 ### [ Luigi Esposito, one of Italy's 30 most wanted men, is detained at a villa in Naples. ](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.md)
 Italian police say they have arrested one of the country&#039;s leading organised crime figures, Luigi Esposito, in the southern city of Naples.

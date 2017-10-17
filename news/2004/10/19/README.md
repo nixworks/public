@@ -7,7 +7,7 @@ _Context: Alexander Lukashenko, Anatoly Lebedko, Minsk, Monday's referendum, pol
 _Context: Democratic, George W. Bush, Hassan Rowhani, John Kerry, Republican, Supreme National Security Council of Iran, U.S. President_
 
 ### [ An unknown militant group kidnaps Margaret Hassan, head of the international charity CARE International, in Baghdad, Iraq. Ms. Hassan holds British, Irish and Iraqi citizenship. ](/news/2004/10/19/an-unknown-militant-group-kidnaps-margaret-hassan-head-of-the-international-charity-care-international-in-baghdad-iraq-ms-hassan-holds.md)
-_Context: Baghdad, CARE International, Margaret Hassan, Republic of Ireland, charity_
+_Context: Baghdad, CARE International, Ireland, Margaret Hassan, charity_
 
 ### [ British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-al-masri-with-16-crimes-including-encouraging-the-murder-of-non-muslims-http-www-reuters.md)
 _Context: Abu Hamza al-Masri, police_

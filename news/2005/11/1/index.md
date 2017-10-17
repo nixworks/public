@@ -10,7 +10,7 @@ _Context: Democratic, Harry Reid, Iraq War, United States, United States Senate,
 _Context: Pluto, moons_
 
 ### [ The United Nations Security Council passed a UNSC resolution (S-RES-1636 (2005)) which requests urgently and forcefully Syria's full cooperation with the investigation into the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/11/1/the-united-nations-security-council-passed-a-unsc-resolution-s-res-1636-2005-which-requests-urgently-and-forcefully-syria-s-full-cooper.md)
-_Context: Lebanon, Prime Minister, Rafik Hariri, Syria, UNSC resolution, United Nations Security Council, assassinated_
+_Context: Lebanese, Prime Minister, Rafik Hariri, Syria, UNSC resolution, United Nations Security Council, assassinated_
 
 ### [ Zanzibar's ruling Chama Cha Mapinduzi party and President Amani Abeid Karume are declared re-elected in a disputed election. Police clashed with opposition supporters, leaving 9 dead. ](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.md)
 _Context: Amani Abeid Karume, Chama Cha Mapinduzi, President, Zanzibar_

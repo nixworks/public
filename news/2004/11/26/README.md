@@ -34,7 +34,7 @@ _Context: Aceh, President of Indonesia, Susilo Bambang Yudhoyono, separatist_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Pakistani army states they find no evidence Osama bin Laden is hiding in the mainly tribal border with Afghanistan after combing through the area. ](/news/2004/11/26/the-pakistani-army-states-they-find-no-evidence-osama-bin-laden-is-hiding-in-the-mainly-tribal-border-with-afghanistan-after-combing-throug.md)
-_Context: Afghanistan, Osama bin Laden, Pakistani Army, tribe_
+_Context: Afghanistan, Osama bin Laden, Pakistani troops, tribe_
 
 ### [ A man kills eight and injures four people with a knife at a Chinese high school in Ruzhou, Henan. ](/news/2004/11/26/a-man-kills-eight-and-injures-four-people-with-a-knife-at-a-chinese-high-school-in-ruzhou-henan.md)
 _Context: Henan, Ruzhou_

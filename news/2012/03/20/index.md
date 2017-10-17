@@ -31,7 +31,7 @@ Another bout of torrential rain is forecast to hit Northland tomorrow, as the No
 At least 15 people die after a train hits a vehicle carrying passengers at a level crossing in the north Indian state of Uttar Pradesh, officials say.
 
 ### [A Pakistani parliamentary committee calls for an end to NATO drone strikes and an apology for an air strike in November 2011 that killed 24 Pakistani Army soldiers. ](/news/2012/03/20/a-pakistani-parliamentary-committee-calls-for-an-end-to-nato-drone-strikes-and-an-apology-for-an-air-strike-in-november-2011-that-killed-24.md)
-_Context: NATO, Pakistani Army, Parliament's_
+_Context: NATO, Pakistani troops, Parliament's_
 
 ### [Ross Mirkarimi, the head of the Sheriff's Department in the US city of San Francisco is put on probation for three years for false imprisonment of his wife on New Years Eve 2011. ](/news/2012/03/20/ross-mirkarimi-the-head-of-the-sheriff-s-department-in-the-us-city-of-san-francisco-is-put-on-probation-for-three-years-for-false-imprisonm.md)
 _Context: New Years Eve, Ross Mirkarimi, San Franciscan sheriff deputies, San Francisco, California, captivity_

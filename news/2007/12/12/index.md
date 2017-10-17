@@ -10,7 +10,7 @@ The International Olympic Committee ended the once stellar Olympic career of U.S
 _Context: Merck & Co., Pennsylvania, recall, sterilization, vaccine_
 
 ### [ The Lebanese armed forces' chief of operations, General Franois al-Hajj, is killed in a bomb attack in Beirut. ](/news/2007/12/12/the-lebanese-armed-forces-chief-of-operations-general-francois-al-hajj-is-killed-in-a-bomb-attack-in-beirut.md)
-_Context: Beirut, Franois al-Hajj, Lebanese Armed Forces, Lebanon_
+_Context: Beirut, Franois al-Hajj, Lebanese, Lebanese Armed Forces_
 
 ### [ Russia orders the British Council to suspend the majority of its Russian operations by January 2008. ](/news/2007/12/12/russia-orders-the-british-council-to-suspend-the-majority-of-its-russian-operations-by-january-2008.md)
 _Context: British Council, Russia_

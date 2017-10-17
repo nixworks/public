@@ -10,7 +10,7 @@ _Context: Chad, Idriss Deby, Sudan, war_
 _Context: 2012 Summer Olympics, IOC, London_
 
 ### [ Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. ](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings-around-uranus-using-the-hubble-space-telescope.md)
-_Context: Hubble Space Telescope, Moon, Uranus, ring system_
+_Context: Hubble space telescope, Moon, Uranus, ring system_
 
 ### [ Lech Kaczynski was sworn in as President of the Republic of Poland. ](/news/2005/12/23/lech-kaczyaski-was-sworn-in-as-president-of-the-republic-of-poland.md)
 _Context: Lech Kaczynski, Polish, President_

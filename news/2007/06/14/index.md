@@ -19,7 +19,7 @@ The Taoiseach has said that a new Fianna Fáil face will be appointed to a senio
 _Context: Michael Barrymore, Stuart Lubbock, swimming pool_
 
 ### [ Lebanon prepares to bury anti-Syrian parliamentarian Walid Eido and nine others killed in yesterday's bombing, with a national day of mourning declared. ](/news/2007/06/14/lebanon-prepares-to-bury-anti-syrian-parliamentarian-walid-eido-and-nine-others-killed-in-yesterday-s-bombing-with-a-national-day-of-mourn.md)
-_Context: Lebanese lawmakers, Lebanon, Walid Eido, anti-Syrian, bomb, national mourning_
+_Context: Lebanese, Lebanese lawmakers, Walid Eido, anti-Syrian, bomb, national mourning_
 
 ### [ Iraq War: Three Sunni mosques near Baghdad are burned in apparent retaliation for the latest Al-Askari Mosque bombing. ](/news/2007/06/14/iraq-war-three-sunni-mosques-near-baghdad-are-burned-in-apparent-retaliation-for-the-latest-al-askari-mosque-bombing.md)
 _Context: Baghdad, Iraq War, Sunni, latest Al-Askari Mosque bombing, mosque_

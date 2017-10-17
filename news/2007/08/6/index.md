@@ -7,7 +7,7 @@ _Context: Ahmet Necdet Sezer, Prime Minister, Recep Tayyip Erdogan, Turkish Pres
 _Context: Brazil, Mexico, PEMEX, Petrobras, natural gas, oil_
 
 ### [ The Lebanese government claim that the police have killed Abu Hureira, the second in command of Fatah al-Islam. ](/news/2007/08/6/the-lebanese-government-claim-that-the-police-have-killed-abu-hureira-the-second-in-command-of-fatah-al-islam.md)
-_Context: Abu Hureira, Fatah al-Islam, Lebanon_
+_Context: Abu Hureira, Fatah al-Islam, Lebanese_
 
 ### [ Trinidad Chief Magistrate Sherman McNicolls orders the extradition of three men to the United States to face charges of involvement in a terrorist attack on John F. Kennedy Airport. ](/news/2007/08/6/trinidad-chief-magistrate-sherman-mcnicolls-orders-the-extradition-of-three-men-to-the-united-states-to-face-charges-of-involvement-in-a-te.md)
 A ruling by a judge in Trinidad brings three men one step closer to Brooklyn and the charges that they conspired to attack Kennedy International Airport. 

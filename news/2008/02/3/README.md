@@ -4,7 +4,7 @@
 _Context: Boris Tadic, President, Serbian presidential election, 2008_
 
 ### [ Israeli forces open fire on Lebanon in the Wazzani River area resulting in one death and one injury. ](/news/2008/02/3/israeli-forces-open-fire-on-lebanon-in-the-wazzani-river-area-resulting-in-one-death-and-one-injury.md)
-_Context: Israel, Lebanon_
+_Context: Israel, Lebanese_
 
 ### [ War in Chad (2005-present): Battles rage in Adre near the Sudanese border. ](/news/2008/02/3/war-in-chad-2005apresent-battles-rage-in-adra-c-near-the-sudanese-border.md)
 _Context: Adre, Sudan, War in Chad (2005-present)_

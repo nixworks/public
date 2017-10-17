@@ -43,7 +43,7 @@ Tens of thousands of Yemenis demonstrate in the capital, Sanaa, calling on Presi
 _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
 
 ### [Lebanese prime minister Najib Mikati begins consultations on forming a new government. ](/news/2011/01/27/lebanese-prime-minister-najib-mikati-begins-consultations-on-forming-a-new-government.md)
-_Context: Lebanon, Najib Mikati_
+_Context: Lebanese, Najib Mikati_
 
 ### [Burma faces criticism at the United Nations Human Rights Council over its human rights record. ](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.md)
 _Context: Burma, Human Rights Council, human rights record_

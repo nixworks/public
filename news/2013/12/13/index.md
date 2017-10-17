@@ -22,7 +22,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 _Context: Beyonc, self-titled_
 
 ### [Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. ](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.md)
-_Context: Android devices, Electronic Frontier Foundation, Google, software_
+_Context: Android, Electronic Frontier Foundation, Google, software_
 
 ### [The storm spreads to Egypt with some Cairo suburbs seeing snowfall. Local news reports claimed it was the capital's first snowfall in 112 years. Night temperatures are expected to drop as low as 2C - 36F. ](/news/2013/12/13/the-storm-spreads-to-egypt-with-some-cairo-suburbs-seeing-snowfall-local-news-reports-claimed-it-was-the-capital-s-first-snowfall-in-112-ye.md)
 A regional cold snap spreads to Egypt, with some Cairo suburbs seeing snowfall for the first time in years, a weather official says.

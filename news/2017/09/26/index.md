@@ -25,7 +25,7 @@ Turkey and Iran, traditional foes, have established common ground in Iraq, Syria
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
 
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
-_Context:  Russian President, Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
+_Context: Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian president, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
 
 ### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
 _Context: Chuck Rosenberg, Drug Enforcement Administration, Trump administration_

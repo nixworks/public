@@ -22,7 +22,7 @@ _Context: Fin Whale, Iceland, International Whaling Commission , hunt_
 _Context: Darfur, Jan Pronk, Sudan, United Nations, blog_
 
 ### [ Israeli defense minister Amir Peretz says flights over Lebanon will continue until UN Security Council Resolution 1701 is fully implemented. ](/news/2006/10/22/israeli-defense-minister-amir-peretz-says-flights-over-lebanon-will-continue-until-un-security-council-resolution-1701-is-fully-implemented.md)
-_Context: Amir Peretz, Israel, Lebanon, UN Security Council Resolution 1701, defense minister_
+_Context: Amir Peretz, Israel, Lebanese, UN Security Council Resolution 1701, defense minister_
 
 ### [ Michael Schumacher, seven times Formula One World Champion, retires from the sport. ](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.md)
 _Context: 2008 Formula One Drivers' Championship, Formula One, Michael Schumacher_

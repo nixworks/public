@@ -38,7 +38,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 _Context: David Cameron, Gordon Brown, Liberal Democrats, Nick Clegg_
 
 ### [As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. ](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.md)
-_Context: Kazakhstan, Kurmanbek Bakiyev, Kyrgyzstan, President, popular protests_
+_Context: Kazakhstan, Kurmanbek Bakiyev, Kyrgyzstan, popular protests, president_
 
 ### [Vote counting begins in Sudan after the five-day landmark multi-party election. ](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.md)
 _Context: Sudan, post-election protests_

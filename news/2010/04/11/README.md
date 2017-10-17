@@ -25,7 +25,7 @@ _Context: Israel, Palestinians, West Bank_
 _Context: China, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
 
 ### [Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. ](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.md)
-_Context: Kurmanbek Bakiyev, Kyrgyzstan, President, the recent unrest_
+_Context: Kurmanbek Bakiyev, Kyrgyzstan, president, the recent unrest_
 
 ### [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md)
 _Context: Eugene Terre'Blanche, South Africa, homosexuality_

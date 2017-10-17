@@ -7,7 +7,7 @@ More than 90 people have been killed in a suicide bomb attack claimed by al-Qaed
 _Context: Colombia, FARC, Venezuela_
 
 ### [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md)
-_Context: Bashar al-Assad, Beirut, Lebanon, President, Syria_
+_Context: Bashar al-Assad, Beirut, Lebanese, President, Syria_
 
 ### [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md)
 _Context: Australia, Qantas_

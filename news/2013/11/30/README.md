@@ -1,7 +1,7 @@
 ## [2013-11-30](/news/2013/11/30/index.md)
 
 ### [Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/six-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between-neighborhoods-which-support-rival-sides.md)
-_Context: Lebanon, Tripoli, Lebanon_
+_Context: Lebanese, Tripoli, Lebanon_
 
 ### [American actor Paul Walker ("The Fast and the Furious" franchise) is one of two killed in a car accident after attending a charity event in Santa Clarita, California. ](/news/2013/11/30/american-actor-paul-walker-the-fast-and-the-furious-franchise-is-one-of-two-killed-in-a-car-accident-after-attending-a-charity-event-in.md)
 Actor Paul Walker, best known for the Fast and Furious movies, is killed in a fiery car crash in California.

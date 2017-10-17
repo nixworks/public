@@ -52,7 +52,7 @@ _Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensi
 _Context: Gaza Strip, Hamas, Israel_
 
 ### [ Israel suggests peace talks with Lebanon to end the 60-year Israeli-Lebanese conflict. ](/news/2008/06/18/israel-suggests-peace-talks-with-lebanon-to-end-the-60-year-israeli-lebanese-conflict.md)
-_Context: Israel, Israeli-Lebanese conflict, Lebanon_
+_Context: Israel, Israeli-Lebanese conflict, Lebanese_
 
 ### [ Sweden votes in favour of the FRA law, allowing all e-mails and phone calls to be monitored. ](/news/2008/06/18/sweden-votes-in-favour-of-the-fra-law-allowing-all-e-mails-and-phone-calls-to-be-monitored.md)
 _Context: FRA law, Swedish, e-mail_

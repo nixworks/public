@@ -4,7 +4,7 @@
 _Context: Ethiopia, Islamic Courts Union, Somali Civil War, Somalia, fight Ethiopian forces_
 
 ### [ Kyrgyz Prime Minister Felix Kulov resigns, automatically dismissing the Ministers of the Kyrgyz government, after political parties throughout the country called on him to resign. Deputy Prime Minister Daniar Usenov says President Kurmanbek Bakiyev should dissolve the Parliament and hold elections. ](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.md)
-_Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, Kyrgyz government, President_
+_Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, Kyrgyz government, president_
 
 ### [ Kazakh President Nursultan Nazarbayev condemns the Iranian government for acting "as the center of growing insecurity in Asia" by supporting terrorism, weapons and drug trafficking, the spread of weapons of mass destruction, and illegal migration. The Foreign Ministry later says news agencies misquoted him. ](/news/2006/12/19/kazakh-president-nursultan-nazarbayev-condemns-the-iranian-government-for-acting-as-the-center-of-growing-insecurity-in-asia-by-supportin.md)
 _Context: Kazakh President, Nursultan Nazarbayev's, Tehran, drug trafficking, terrorism, weapons of mass destruction_

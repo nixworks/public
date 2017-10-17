@@ -49,7 +49,7 @@ North Korean state media on Sunday confirmed the country has a new military chie
 The London Mayor says he did not want to go against David Cameron but after &quot;a great deal of heartache&quot; felt he had no choice.
 
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)
-_Context: Ashraf Rifi, Hezbollah, Lebanon_
+_Context: Ashraf Rifi, Hezbollah, Lebanese_
 
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
 _Context: EU, Emil Dimitriev, Macedonian, Macedonian parliamentary election, 2016, Prime Minister, United States_

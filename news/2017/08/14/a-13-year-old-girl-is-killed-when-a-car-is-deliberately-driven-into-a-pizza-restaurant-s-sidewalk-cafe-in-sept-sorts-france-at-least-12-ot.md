@@ -16,8 +16,8 @@
 1. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
 2. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
 3. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
-4. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
-5. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _Context: France_
+4. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md) _Context: Crime in France_
+5. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
 
 ### Changes:
 

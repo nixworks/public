@@ -7,7 +7,7 @@ _Context: Guatemala, Maya, San Antonio Senahu, mudslide_
 _Context: Leon Trotsky, Mexico, murder_
 
 ### [ A United Nations investigation has concluded that Rafik Hariri, the former Prime Minister of Lebanon, was killed by a truck bomb. ](/news/2005/06/17/a-united-nations-investigation-has-concluded-that-rafik-hariri-the-former-prime-minister-of-lebanon-was-killed-by-a-truck-bomb.md)
-_Context: Lebanon, Prime Minister, Rafik Hariri, United Nations, truck bomb_
+_Context: Lebanese, Prime Minister, Rafik Hariri, United Nations, truck bomb_
 
 ### [ Controversial Pakistani scientist AQ Khan is said to be stable after suffering a heart attack. ](/news/2005/06/17/controversial-pakistani-scientist-aq-khan-is-said-to-be-stable-after-suffering-a-heart-attack.md)
 _Context: Abdul Qadeer Khan, Pakistan_

@@ -22,7 +22,7 @@ _Context: Croatia, United Kingdom, Zagreb, capital, embassies, letter bomb_
 _Context: 7th Heaven, The WB_
 
 ### [ One person dies following an apparent grenade explosion at the Kuwait information office in the Lebanese capital Beirut. ](/news/2005/09/19/one-person-dies-following-an-apparent-grenade-explosion-at-the-kuwait-information-office-in-the-lebanese-capital-beirut.md)
-_Context: Beirut, Kuwait, Lebanon, capital_
+_Context: Beirut, Kuwait, Lebanese, capital_
 
 ### [ North Korea agrees to drop all nuclear weapons programs and return "at an early date" to the Nuclear Non-Proliferation Treaty. ](/news/2005/09/19/north-korea-agrees-to-drop-all-nuclear-weapons-programs-and-return-at-an-early-date-to-the-nuclear-non-proliferation-treaty.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

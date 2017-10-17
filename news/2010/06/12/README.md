@@ -7,7 +7,7 @@ _Context: Arkansas, floods_
 Ethiopia rejects claim by rebel group that government forces killed 71 civilians.
 
 ### [Roza Otunbayeva, Kyrgyzstan's interim president, asks Russia to send troops to quell ethnic violence in the southern city of Osh. ](/news/2010/06/12/roza-otunbayeva-kyrgyzstan-s-interim-president-asks-russia-to-send-troops-to-quell-ethnic-violence-in-the-southern-city-of-osh.md)
-_Context: Kyrgyzstan, Osh, President, Roza Otunbayeva, Russia_
+_Context: Kyrgyzstan, Osh, Roza Otunbayeva, Russia, president_
 
 ### [The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. ](/news/2010/06/12/the-first-anniversary-since-the-disputed-presidential-election-which-retained-mahmoud-ahmadinejad-passes-relatively-quietly-after-the-oppo.md)
 Opposition cancels rallies after preemptive arrests, threats.

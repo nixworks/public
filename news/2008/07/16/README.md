@@ -4,7 +4,7 @@
 _Context: Egypt, Marsa Matrouh_
 
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)
-_Context:  Russian President, Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Yukos_
+_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Russian president, Yukos_
 
 ### [ The United States Senate agrees to triple funding for the President's Emergency Plan for AIDS Relief to $48 billion. ](/news/2008/07/16/the-united-states-senate-agrees-to-triple-funding-for-the-president-s-emergency-plan-for-aids-relief-to-48-billion.md)
 _Context: President's Emergency Plan for AIDS Relief, United States Senate_
@@ -19,7 +19,7 @@ Scuffles broke out between policemen and striking transport workers who at about
 _Context: LTTE, Mannar, Northern Province, Sri Lankan military_
 
 ### [ Hezbollah transfers the bodies of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for the Lebanese convicted murderer Samir Kuntar, four other Hezbollah militants captured by Israel during the 2006 Lebanon War (Khaled Zidan, Maher Kurani, Mohammed Sarur and Hussein Suleiman), and the bodies of 200 Lebanese and Palestinians.](/news/2008/07/16/hezbollah-transfers-the-bodies-of-captured-israeli-soldiers-ehud-goldwasser-and-eldad-regev-in-exchange-for-the-lebanese-convicted-murder.md)
-_Context: Ehud Goldwasser, Eldad Regev, Hezbollah, Israel, Israeli-Lebanese war of 2006, Lebanon, Samir Kuntar, transfers_
+_Context: Ehud Goldwasser, Eldad Regev, Hezbollah, Israel, Israeli-Lebanese war of 2006, Lebanese, Samir Kuntar, transfers_
 
 ### [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-aft.md)
 _Context: Anglican Communion, Canterbury, GAFCON, Lambeth Conference, bishop_

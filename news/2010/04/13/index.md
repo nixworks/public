@@ -22,7 +22,7 @@ Israel on Tuesday night issued an urgent warning of impending terrorist attacks 
 _Context: Islamic Jihad Movement in Palestine, Israel_
 
 ### [A group of Lebanese politicians play a match of association football to commemorate the 35th anniversary of the Lebanese Civil War. ](/news/2010/04/13/a-group-of-lebanese-politicians-play-a-match-of-association-football-to-commemorate-the-35th-anniversary-of-the-lebanese-civil-war.md)
-_Context: Lebanese Civil War, Lebanon, association football_
+_Context: Lebanese, Lebanese Civil War, association football_
 
 ### [The body of Poland's First Lady, Maria Kaczynska, is flown to Warsaw to lie in state alongside that of her husband, President Lech Kaczynski. Poland has seen an outpouring of grief since the couple and scores of other senior Polish officials died in a plane crash in western Russia on Saturday. ](/news/2010/04/13/the-body-of-poland-s-first-lady-maria-kaczyaska-is-flown-to-warsaw-to-lie-in-state-alongside-that-of-her-husband-president-lech-kaczyas.md)
 _Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, Polish, Russia, Warsaw_

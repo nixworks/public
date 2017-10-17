@@ -13,7 +13,7 @@ _Context: 2004 Indian Ocean earthquake, Aftershock, Indonesia, Malaysia, North S
 _Context: Israel, disengagement plan, parliament in Israel, referendum_
 
 ### [ Lebanese officials state that 2000 Syrian troops have left the country ](/news/2005/03/28/lebanese-officials-state-that-2000-syrian-troops-have-left-the-country.md)
-_Context: Lebanon, Syria_
+_Context: Lebanese, Syria_
 
 ### [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about GBP2,000 or $3,600) for blasphemy because of their 2003 exhibition "Caution! Religion". ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-gbp2-000-or-3-600-for-blasp.md)
 _Context: Caution! Religion, GBP, Lyudmila Vasilovskaya, Moscow, Russian ruble, Yuri Samodurov, blasphemy_

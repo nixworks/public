@@ -13,7 +13,7 @@ _Context: Afghanistan, Kandahar Province, NATO_
 _Context: Afghanistan, Kandahar, Kandahar massacre, United States_
 
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
-_Context:  Russian President, Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Syria, UN_
+_Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russian president, Syria, UN_
 
 ### [Barack Obama, the President of the United States, begins a three day visit to South Korea amidst rising tension in North Asia about proposed missile tests by North Korea. ](/news/2012/03/25/barack-obama-the-president-of-the-united-states-begins-a-three-day-visit-to-south-korea-amidst-rising-tension-in-north-asia-about-proposed.md)
 US President Barack Obama visits the Demilitarised Zone (DMZ) separating the Koreas, amid rising tensions over a planned rocket launch by the North.

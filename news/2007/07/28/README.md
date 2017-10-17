@@ -22,7 +22,7 @@ _Context: Islamabad, Lal Masjid, Pakistan, suicide bombing_
 An Indian doctor freed from jail after Australia dropped terrorism charges against him will be leaving Australia on Saturday after receiving the go-ahead from immigration officials, his lawyer said.
 
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)
-_Context: Bernard Kouchner, Fouad Siniora, France, Lebanon, Prime Minister, Syria_
+_Context: Bernard Kouchner, Fouad Siniora, France, Lebanese, Prime Minister, Syria_
 
 ### [ Rwanda abolishes capital punishment. ](/news/2007/07/28/rwanda-abolishes-capital-punishment.md)
 _Context: Rwanda, capital punishment_

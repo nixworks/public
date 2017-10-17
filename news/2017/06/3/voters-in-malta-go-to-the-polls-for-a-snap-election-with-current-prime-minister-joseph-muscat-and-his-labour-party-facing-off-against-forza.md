@@ -13,10 +13,10 @@
 ### Related:
 
 1. [Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who-are-projected-to-win-54-9-of-th.md) _Context: Forza Nazzjonali, Joseph Muscat, Labour Party, Maltese general election, 2017, Simon Busuttil_
-2. [Voters in Malta go to the polls for a general election with polls showing the Labour Party set to win government. ](/news/2013/03/9/voters-in-malta-go-to-the-polls-for-a-general-election-with-polls-showing-the-labour-party-set-to-win-government.md) _Context: Labour Party, Malta_
-3. [ Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of Alfred Sant. ](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.md) _Context: Joseph Muscat, Malta_
-4. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: Malta_
-5. [The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. ](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window-on-the-maltese-island-of-gozo-collapses-due-to-a-storm.md) _Context: Malta_
+2. [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md) _Context: Joseph Muscat, Maltese general election, 2017_
+3. [Voters in Malta go to the polls for a general election with polls showing the Labour Party set to win government. ](/news/2013/03/9/voters-in-malta-go-to-the-polls-for-a-general-election-with-polls-showing-the-labour-party-set-to-win-government.md) _Context: Labour Party, Malta_
+4. [ Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of Alfred Sant. ](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.md) _Context: Joseph Muscat, Malta_
+5. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: Malta_
 
 ### Changes:
 

@@ -7,7 +7,7 @@ _Context: American Samoa, Pacific Ocean, Samoa, Savai'i, cyclone, states of emer
 _Context: ECOWAS, Nigeria, Togo, coup_
 
 ### [ The United States recalls its ambassador to Syria, Margaret Scobey, in protest of alleged Syrian involvement in the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/02/15/the-united-states-recalls-its-ambassador-to-syria-margaret-scobey-in-protest-of-alleged-syrian-involvement-in-the-assassination-of-former.md)
-_Context: Lebanese Prime Minister, Lebanon, Margaret Scobey, Rafik Hariri, Syria, ambassador, assassinated_
+_Context: Lebanese, Lebanese Prime Minister, Margaret Scobey, Rafik Hariri, Syria, ambassador, assassinated_
 
 ### [ At least 209 people die in a mining disaster in Fuxin City, in China's north-eastern Liaoning province. During the first nine months of 2004, an average of 15 people died every day in China's mines. ](/news/2005/02/15/at-least-209-people-die-in-a-mining-disaster-in-fuxin-city-in-china-s-north-eastern-liaoning-province-during-the-first-nine-months-of-200.md)
 _Context: 2004, China, Fuxin City, Liaoning, mine, province_

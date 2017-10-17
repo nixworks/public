@@ -25,7 +25,7 @@ _Context: Afghanistan, Lashkar Gah, Nepal, Taliban, defects_
 A row erupts in the US over the ownership of a gay teenage database of one million people after its publishers went bankrupt.
 
 ### [One death and three injuries result from a stampede during pulling of Ratha-Yatra chariots in Puri, India. ](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.md)
-_Context: Puri, Ratha-Yatra, stampede_
+_Context: Human stampede, Puri, Ratha-Yatra_
 
 ### [Los Angeles police in the United States review a recording of actor and director Mel Gibson allegedly verbally abusing his ex-girlfriend, Oksana Grigorieva. ](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.md)
 US police say they are evaluating claims that Hollywood star Mel Gibson allegedly hit ex-girlfriend Oksana Grigorieva.

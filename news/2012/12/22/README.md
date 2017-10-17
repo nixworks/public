@@ -10,7 +10,7 @@ Indian police use tear gas, water cannon and batons to disperse protesters march
 A suicide bomber kills at least eight people, including a key provincial minister, at a political rally in the Pakistani city of Peshawar.
 
 ### [Hundreds of people in the Republic of Ireland queue before dawn for Christmas food parcels. ](/news/2012/12/22/hundreds-of-people-in-the-republic-of-ireland-queue-before-dawn-for-christmas-food-parcels.md)
-_Context: Christmas, Republic of Ireland_
+_Context: Christmas, Ireland_
 
 ### [The Police Service of Northern Ireland says that an incident at the home of one of its officers in Bangor, County Down, on Wednesday night was an attempt to murder him. ](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.md)
 Police have said that an incident at the home of a police officer in Bangor, County Down, was an attempt to murder him.

@@ -28,7 +28,7 @@ _Context: Bali, Japan_
 _Context: same-sex marriage in Virginia_
 
 ### [A new government is formed in Lebanon after 10-months of gridlock, Tammam Salam is elected to be Prime Minister. ](/news/2014/02/15/a-new-government-is-formed-in-lebanon-after-10-months-of-gridlock-tammam-salam-is-elected-to-be-prime-minister.md)
-_Context: Lebanon, Prime Minister, Tammam Salam_
+_Context: Lebanese, Prime Minister, Tammam Salam_
 
 ### [Judicial reforms are passed in the Turkish parliament after 20 hours and a brawl in the chamber. ](/news/2014/02/15/judicial-reforms-are-passed-in-the-turkish-parliament-after-20-hours-and-a-brawl-in-the-chamber.md)
 _Context: Turkish parliament_

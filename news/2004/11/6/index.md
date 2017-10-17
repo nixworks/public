@@ -25,7 +25,7 @@ _Context: Bouak, Cte d'Ivoire, Yamoussoukro, military, peacekeepers_
 _Context: CASTOR, Sbastien Briat_
 
 ### [ Arab-Israeli Conflict: The Lebanese Militant group, Hezbollah, has flown a reconnaissance drone over Israeli territory for the first time. ](/news/2004/11/6/arab-israeli-conflict-the-lebanese-militant-group-hezbollah-has-flown-a-reconnaissance-drone-over-israeli-territory-for-the-first-time.md)
-_Context: Arab-Israeli conflict, Hezbollah, Israel, Lebanon, drone, reconnaissance_
+_Context: Arab-Israeli conflict, Hezbollah, Israel, Lebanese, drone, reconnaissance_
 
 ### [ Burt Rutan of Scaled Composites is officially awarded the Ansari X Prize for the first privately funded space flight. ](/news/2004/11/6/burt-rutan-of-scaled-composites-is-officially-awarded-the-ansari-x-prize-for-the-first-privately-funded-space-flight.md)
 _Context: Ansari X Prize, Burt Rutan, Scaled Composites_

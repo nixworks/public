@@ -13,7 +13,7 @@ _Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, Nove
 _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ronnie O'Sullivan_
 
 ### [ Kyrgyz people go to the polls to vote on a constitutional referendum called by President Kurmanbek Bakiyev. ](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.md)
-_Context: Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum_
+_Context: Kurmanbek Bakiyev, Kyrgyzstan, constitutional changes in a referendum, president_
 
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
 _Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear weapon_

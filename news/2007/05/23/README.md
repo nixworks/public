@@ -10,7 +10,7 @@ _Context: Iraq War, captured U.S. soldiers, manhunt_
 _Context: May 28, Radio Caracas Television, Supreme Court, Venezuela_
 
 ### [ Lebanon's Defence Minister Elias Murr issues an ultimatum to Fatah al-Islam militants in the Nahr el-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/23/lebanon-s-defence-minister-elias-murr-issues-an-ultimatum-to-fatah-al-islam-militants-in-the-nahr-el-bared-refugee-camp-in-tripoli-lebanon.md)
-_Context: Elias Murr, Fatah al-Islam, Lebanon, Nahr el-Bared, Tripoli, Lebanon_
+_Context: Elias Murr, Fatah al-Islam, Lebanese, Nahr el-Bared, Tripoli, Lebanon_
 
 ### [ At least 27 people die as a wall collapses in a bar in Tirupur in the South Indian state of Tamil Nadu. ](/news/2007/05/23/at-least-27-people-die-as-a-wall-collapses-in-a-bar-in-tirupur-in-the-south-indian-state-of-tamil-nadu.md)
 _Context: South India, Tamil Nadu, Tirupur, state_

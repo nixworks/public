@@ -7,7 +7,7 @@ Congress formally tallies the results of the 2008 presidential election, certify
 _Context: 2008 Mumbai attacks, Ajmal Amir, India, Mahmud Ali Durrani, Mumbai, National Security Advisor, Pakistan_
 
 ### [ Several rockets fired from Lebanon strike the Israeli city of Nahariya. Hezbollah denies responsibility for the attack. ](/news/2009/01/8/several-rockets-fired-from-lebanon-strike-the-israeli-city-of-nahariya-hezbollah-denies-responsibility-for-the-attack.md)
-_Context: Hezbollah, Israel, Lebanon, Nahariya, rocket_
+_Context: Hezbollah, Israel, Lebanese, Nahariya, rocket_
 
 ### [ The Bank of England cuts interest rates to 1.5 percent, its lowest level in its 315-year history. ](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.md)
 _Context: Bank of England, interest rate_

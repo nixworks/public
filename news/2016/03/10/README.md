@@ -1,7 +1,7 @@
 ## [2016-03-10](/news/2016/03/10/index.md)
 
 ### [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md)
-_Context: Lebanese Armed Forces, Lebanon, Ras Baalbek, Syria, Syrian Civil War spillover in Lebanon_
+_Context: Lebanese, Lebanese Armed Forces, Ras Baalbek, Syria, Syrian Civil War spillover in Lebanon_
 
 ### [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md)
 Up to 100 militants die in Herat during latest insurrection against group’s leader, further complicating peace efforts

@@ -10,7 +10,7 @@ _Context: Prince Caspian, The Chronicles of Narnia: The Lion, the Witch and the 
 _Context: Arnold Schwarzenegger, December 13, Governor of California, PST, Stanley Williams, United States Supreme Court, clemency_
 
 ### [ Gebran Tueni, a prominent Lebanese anti-Syrian member of parliament and managing editor of the leading liberal An-Nahar newspaper, has been killed in a car bomb attack in Beirut. He had spent months in Paris because of security concerns, reportedly only returning to Lebanon on Sunday. Another An-Nahar journalist, the anti-Syrian writer Samir Kassir, was killed in a car bomb in June. ](/news/2005/12/12/gebran-tueni-a-prominent-lebanese-anti-syrian-member-of-parliament-and-managing-editor-of-the-leading-liberal-an-nahar-newspaper-has-been.md)
-_Context: An-Nahar, Beirut, Gebran Tueni, Lebanon, Samir Kassir, Syria, terrorism_
+_Context: An-Nahar, Beirut, Gebran Tueni, Lebanese, Samir Kassir, Syria, terrorism_
 
 ### [ ASEAN Summit begins in Kuala Lumpur, Malaysia. ](/news/2005/12/12/asean-summit-begins-in-kuala-lumpur-malaysia.md)
 _Context: ASEAN Summit, Kuala Lumpur, Malaysia_

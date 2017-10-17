@@ -1,7 +1,7 @@
 ## [2012-07-7](/news/2012/07/7/index.md)
 
 ### [The Lebanese army in Wadi Khaled is placed on alert after rockets from Syria kill two people in its territory. ](/news/2012/07/7/the-lebanese-army-in-wadi-khaled-is-placed-on-alert-after-rockets-from-syria-kill-two-people-in-its-territory.md)
-_Context: Lebanese Armed Forces, Lebanon, Syria, Wadi Khaled_
+_Context: Lebanese, Lebanese Armed Forces, Syria, Wadi Khaled_
 
 ### [Jaime Garcia Marquez tells his students that his brother Gabriel Garcia Marquez, the Colombian writer and recipient of the 1982 Nobel Prize for Literature, suffers from dementia that has ended his writing career. ](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.md)
 The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laureate is suffering from dementia and has stopped writing.

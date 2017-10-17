@@ -11,5 +11,5 @@
 
 ### Changes:
 
-1. [A Chinese fishing boat capsizes during a scuffle with a South Korean coastguard ship, leaving one dead and two missing. ](/news/2010/12/18/a-chinese-fishing-boat-capsizes-during-a-scuffle-with-a-south-korean-coastguard-ship-leaving-one-dead-and-two-missing.md) _2017-10-15 03:36:40 (First version)_
+1. [A Chinese fishing boat capsizes during a scuffle with a South Korean coastguard ship, leaving one dead and two missing. ](/news/2010/12/18/a-chinese-fishing-boat-capsizes-during-a-scuffle-with-a-south-korean-coastguard-ship-leaving-one-dead-and-two-missing.md) _2017-10-16 03:36:41 (First version)_
 1. [A PRC fishing boat collided with a South Korea coastguard ship causing an incident near Eocheong island ](/news/2010/12/18/a-prc-fishing-boat-collided-with-a-south-korea-coastguard-ship-causing-an-incident-near-eocheong-island.md) _(Current version)_

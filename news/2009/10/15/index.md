@@ -7,7 +7,7 @@ The President has signed the bill reconciling the Lisbon Treaty with the Constit
 _Context: David Bahati, HIV, Uganda, gay sex, homosexuality_
 
 ### [ The U.N. General Assembly elects Bosnia and Herzegovina, Brazil, Gabon, Lebanon and Nigeria to the U.N. Security Council as non-veto-holding members. ](/news/2009/10/15/the-u-n-general-assembly-elects-bosnia-and-herzegovina-brazil-gabon-lebanon-and-nigeria-to-the-u-n-security-council-as-non-veto-holdin.md)
-_Context: Bosnia and Herzegovina, Brazil, Gabon, Lebanon, Nigeria, U.N. General Assembly, U.N. Security Council, veto_
+_Context: Bosnia and Herzegovina, Brazil, Gabon, Lebanese, Nigeria, U.N. General Assembly, U.N. Security Council, veto_
 
 ### [ Narges Kalhor, the daughter of a senior adviser to President of Iran Mahmoud Ahmadinejad, applies for asylum in Germany. ](/news/2009/10/15/narges-kalhor-the-daughter-of-a-senior-adviser-to-president-of-iran-mahmoud-ahmadinejad-applies-for-asylum-in-germany.md)
 The daughter of a senior adviser to Iranian President Mahmoud Ahmadinejad has applied for asylum in Germany after receiving warnings she could be in danger if she returns home because of her critical stance on Iran.

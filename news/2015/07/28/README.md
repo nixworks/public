@@ -28,7 +28,7 @@ _Context: Libya, Saif al-Islam Gaddafi, in absentia_
 _Context: Santa Cruz, California_
 
 ### [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md)
-_Context: 2015 Clinton Correctional Facility escape, Richard Matt, contraband, felony, misdemeanor_
+_Context: 2015 Clinton Correctional Facility escape, Richard Matt, contraband, felons, misdemeanor_
 
 ### [Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md)
 _Context: 1Malaysia Development Berhad, Malaysia, Muhyiddin Yassin, Najib Razak_

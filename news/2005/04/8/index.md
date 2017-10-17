@@ -19,7 +19,7 @@ Defense, Internal Security Ministers recommend transferring Gush Katif houses to
 _Context: Manchester, cancer_
 
 ### [ In an interview with the Financial Times, a Hezbollah leader announces that the group would be willing to discuss potential disarmament after Israel withdraws from the Shebaa Farms. Lebanon and Syria maintain that the Shebaa Farms are Lebanese territory, while the rest of the world community insists that the farms are part of the Golan Heights, thus part of Syrian territory occupied by Israel. [http:--news.ft.com-cms-s-b54a17a8-a781-11d9-9744-00000e2511c8.html (Financial Times)] [http:--www.haaretz.com-hasen-spages-562751.html (Haaretz)] (Link dead as of 22:29, 14 January 2007 (UTC))](/news/2005/04/8/in-an-interview-with-the-financial-times-a-hezbollah-leader-announces-that-the-group-would-be-willing-to-discuss-potential-disarmament-aft.md)
-_Context: Financial Times, Golan Heights, Hezbollah, Israel, Lebanon, Shebaa farms, Syria_
+_Context: Financial Times, Golan Heights, Hezbollah, Israel, Lebanese, Shebaa farms, Syria_
 
 ### [ Presidential elections begin in Djibouti. Incumbent president Ismail Omar Guelleh is the only candidate. ](/news/2005/04/8/presidential-elections-begin-in-djibouti-incumbent-president-ismail-omar-guelleh-is-the-only-candidate.md)
 _Context: Djibouti, Ismail Omar Guelleh_

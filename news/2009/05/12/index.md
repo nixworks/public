@@ -16,7 +16,7 @@ _Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Governm
 _Context: Human Rights Council, United Nations, United States_
 
 ### [ The Space Shuttle "Atlantis" begins the final servicing mission to the Hubble Space Telescope.](/news/2009/05/12/the-space-shuttle-atlantis-begins-the-final-servicing-mission-to-the-hubble-space-telescope.md)
-_Context: Hubble Space Telescope, Space Shuttle, Space Shuttle Atlantis, completes_
+_Context: Hubble space telescope, Space Shuttle, Space Shuttle Atlantis, completes_
 
 ## [Previous Day...](/news/2009/05/11/index.md)
 

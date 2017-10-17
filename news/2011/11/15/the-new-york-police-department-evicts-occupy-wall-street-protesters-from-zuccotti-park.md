@@ -20,5 +20,5 @@ Occupy Wall Street protesters can no longer camp at their original protest site,
 
 ### Changes:
 
-1. [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md) _2017-10-15 03:40:14 (First version)_
+1. [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md) _2017-10-16 03:40:26 (First version)_
 1. [The New York Police Department evicts Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-evicts-occupy-wall-street-protesters-from-zuccotti-park.md) _(Current version)_

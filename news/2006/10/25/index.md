@@ -13,7 +13,7 @@ _Context: CITIC Group of Beijing, Kazakhstan, Nations Energy Company, crude oil_
 _Context: London, National Health Service, Royal Free Hospital, United Kingdom, face transplant_
 
 ### [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md)
-_Context: AMIA bombing, Argentina, Hezbollah, Iran, Jew, Lebanon, militia_
+_Context: AMIA bombing, Argentina, Hezbollah, Iran, Jew, Lebanese, militia_
 
 ### [ The United States Federal Reserve keeps its benchmark interest rate at 5.25 percent for a third month and reiterates that officials are relying on lower energy prices and slowing growth to reduce inflation. ](/news/2006/10/25/the-united-states-federal-reserve-keeps-its-benchmark-interest-rate-at-5-25-percent-for-a-third-month-and-reiterates-that-officials-are-rel.md)
 _Context: United States Federal Reserve, inflation, interest rate_

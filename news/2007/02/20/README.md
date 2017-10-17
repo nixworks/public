@@ -7,7 +7,7 @@ _Context: African Union, Somalia, United Nations Security Council_
 _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 
 ### [ Felix Kulov, former Prime Minister of Kyrgyzstan, breaks his political alliance with President Kurmanbek Bakiyev. Kulov forms the United Front for a Worthy Future for Kyrgyzstan with Ar-Namys and other political parties. ](/news/2007/02/20/felix-kulov-former-prime-minister-of-kyrgyzstan-breaks-his-political-alliance-with-president-kurmanbek-bakiyev-kulov-forms-the-united-fr.md)
-_Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, President, Prime Minister, United Front For A Worthy Future For Kyrgyzstan_
+_Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, Prime Minister, United Front For A Worthy Future For Kyrgyzstan, president_
 
 ### [ President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
 _Context: Mahmoud Ahmadinejad, President, nuclear program_

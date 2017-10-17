@@ -13,7 +13,7 @@ _Context: India_
 _Context: Discovery, NASA, STS-114_
 
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)
-_Context: Lebanon, Samir Geagea, militia_
+_Context: Lebanese, Samir Geagea, militia_
 
 ### [ South Korean ambassador to the US, Hong Seok-Hyun, resigns for alleged involvement with slush fund scandal of illegal donations during a presidential campaign in 1997 ](/news/2005/07/26/south-korean-ambassador-to-the-us-hong-seok-hyun-resigns-for-alleged-involvement-with-slush-fund-scandal-of-illegal-donations-during-a-pr.md)
 _Context: Hong Seok-Hyun, slush fund_

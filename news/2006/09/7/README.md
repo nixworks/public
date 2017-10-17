@@ -16,7 +16,7 @@ _Context: Belgium, Bloed, Bodem, Eer en Trouw, destabilizing the country, far ri
 _Context: DoD Directive 2310, unlawful combatant_
 
 ### [Israel says it will lift its air and sea blockade of Lebanon. ](/news/2006/09/7/israel-says-it-will-lift-its-air-and-sea-blockade-of-lebanon.md)
-_Context: Israel, Lebanon, blockade, war_
+_Context: Israel, Lebanese, blockade, war_
 
 ### [Tony Blair announces that he will step down as Prime Minister of the United Kingdom within 12 months but declines to give an exact date for his departure. ](/news/2006/09/7/tony-blair-announces-that-he-will-step-down-as-prime-minister-of-the-united-kingdom-within-12-months-but-declines-to-give-an-exact-date-for.md)
 _Context: Prime Minister, Tony Blair_

@@ -25,7 +25,7 @@ _Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalia, Uni
 _Context: Georgian, President of Georgia, Saakashvili, Tbilisi, protest_
 
 ### [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. [http:--www.latimes.com-news-nationworld-world-la-fg-lebanon-ambush14-2009apr14,0,3527611.story "(Los Angeles Times)"]](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley-http-www-latimes-com-news-nationworld-world-l.md)
-_Context: Baalbek, Beqaa Valley, Ground Forces, Lebanon, soldier_
+_Context: Baalbek, Beqaa Valley, Ground Forces, Lebanese, soldier_
 
 ### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. [http:--www.miamiherald.com-news-politics-AP-story-997719.html "(Miami Herald)"]](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba-http-www-miamiherald-com-news-politics-ap-story-997719-ht.md)
 _Context: Cuba, Cuba - United States relations, United States, United States embargo against Cuba, United States federal government_

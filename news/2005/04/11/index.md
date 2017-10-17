@@ -7,7 +7,7 @@ _Context: Holocaust, Holocaust and Remembrance Center, Karl Plagge, Nazism, Righ
 _Context: Hindu, India, Madhya Pradesh, dam, pilgrims_
 
 ### [ Hezbollah, the Lebanese political and militant organisation, flies another unmanned drone plane over Israel. Hezbollah claims the ""reconnaissance mission"" was in retaliation for alleged Israeli violations of Lebanese Airspace. Israel quickly retaliates by sending jets to fly at a low altitude over southern Lebanon and caused sonic booms. ](/news/2005/04/11/hezbollah-the-lebanese-political-and-militant-organisation-flies-another-unmanned-drone-plane-over-israel-hezbollah-claims-the-reconna.md)
-_Context: Hezbollah, Israel, Lebanon, drone, reconnaissance, sonic boom_
+_Context: Hezbollah, Israel, Lebanese, drone, reconnaissance, sonic boom_
 
 ### [ The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. ](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.md)
 _Context: Organization of American States, election of a new secretary general, stalemate_
@@ -16,7 +16,7 @@ _Context: Organization of American States, election of a new secretary general, 
 _Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli Prime Minister, Israeli settlement, Texas, U.S. President, USA, United States_
 
 ### [ Tulip Revolution: The Parliament of Kyrgyzstan finally approves the resignation of deposed President Askar Akayev. ](/news/2005/04/11/tulip-revolution-the-parliament-of-kyrgyzstan-finally-approves-the-resignation-of-deposed-president-askar-akayev.md)
-_Context: Askar Akayev, Kyrgyzstan, President, Tulip Revolution, resignation_
+_Context: Askar Akayev, Kyrgyzstan, Tulip Revolution, president, resignation_
 
 ### [ 2005 anti-Japanese demonstrations: 20,000 protesters marching in two cities in southern Guangdong province objecting to a recently amended Japanese schoolbook which allegedly glosses over Japan's imperialist past. ([http:--www.cnn.com-2005-WORLD-asiapcf-04-10-china.japan.protest-index.html CNN])](/news/2005/04/11/2005-anti-japanese-demonstrations-20-000-protesters-marching-in-two-cities-in-southern-guangdong-province-objecting-to-a-recently-amended.md)
 _Context: Empire of Japan, Guangdong, Japan, Japanese history textbooks controversy, protest_

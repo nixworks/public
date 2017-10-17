@@ -4,7 +4,7 @@
 _Context: Afghanistan, CH-47 Chinook, Canadian, Helmand Province, International Security Assistance Force, NATO, Taliban, UK, US$_
 
 ### [ The United Nations Security Council establishes an international tribunal to try suspects in the killings of Lebanese political figures including the former Prime Minister Rafik Hariri. ](/news/2007/05/30/the-united-nations-security-council-establishes-an-international-tribunal-to-try-suspects-in-the-killings-of-lebanese-political-figures-inc.md)
-_Context: Lebanon, Prime Minister, Rafik Hariri, Special Tribunal for Lebanon, United Nations Security Council_
+_Context: Lebanese, Prime Minister, Rafik Hariri, Special Tribunal for Lebanon, United Nations Security Council_
 
 ### [ Thailand's Constitutional Court clears the Democrat Party of electoral fraud, but finds former Prime Minister Thaksin Shinawatra's Thai Rak Thai party guilty of bribery and rules it must be disbanded. ](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.md)
 Thai judges ordered the party of ousted Prime Minister Thaksin Shinawatra disbanded on Wednesday after it was found guilty of breaking election laws.

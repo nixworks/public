@@ -22,7 +22,7 @@ _Context: Germany, Heike Hanada, Weimar, architect, central library, competition
 _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarara, Rwandan Genocide, mayor_
 
 ### [ United Nations Secretary-General Ban Ki-moon holds talks with Lebanese political leaders, trying to break an impasse over the election of the next President. ](/news/2007/11/16/united-nations-secretary-general-ban-ki-moon-holds-talks-with-lebanese-political-leaders-trying-to-break-an-impasse-over-the-election-of-t.md)
-_Context: Ban Ki-moon, Lebanon, President of Lebanon, United Nations, United Nations Secretary-General, political leader, standoff_
+_Context: Ban Ki-moon, Lebanese, President of Lebanon, United Nations, United Nations Secretary-General, political leader, standoff_
 
 ### [ The German train driver strike enters its third day. ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
 _Context: Germany, strike, train driver_

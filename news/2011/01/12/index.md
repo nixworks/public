@@ -37,7 +37,7 @@ _Context: President, Tunisia, Zine El Abidine Ben Ali_
 Officials say the 60 per cent benchmark needed to validate secession referendum has been met by fourth day of voting.
 
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)
-_Context: Government, Hezbollah, Lebanese Prime Minister, Lebanon, Saad Hariri_
+_Context: Government, Hezbollah, Lebanese, Lebanese Prime Minister, Saad Hariri_
 
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
 _Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, U.S. President, United States House of Representatives_

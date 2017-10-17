@@ -7,7 +7,7 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 _Context: India, West Bengal, a powerful storm_
 
 ### [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md)
-_Context: Kurmanbek Bakiyev, Kyrgyzstan, President, Roza Otunbayeva, the recent unrest_
+_Context: Kurmanbek Bakiyev, Kyrgyzstan, Roza Otunbayeva, president, the recent unrest_
 
 ### [Eruption in glacier volcano Eyjafjallajokull, Iceland, enters a new phase, causing local evacuations. ](/news/2010/04/14/eruption-in-glacier-volcano-eyjafjallajapkull-iceland-enters-a-new-phase-causing-local-evacuations.md)
 _Context: Eyjafjallajokull, Iceland_

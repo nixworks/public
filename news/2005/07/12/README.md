@@ -25,7 +25,7 @@ _Context: Barcelona, Spain_
 _Context: European Court of Justice, vitamin_
 
 ### [ In Lebanon, a bomb explosion injures pro-Syrian defence minister Elias Murr. ](/news/2005/07/12/in-lebanon-a-bomb-explosion-injures-pro-syrian-defence-minister-elias-murr.md)
-_Context: Elias Murr, Lebanon, Syria_
+_Context: Elias Murr, Lebanese, Syria_
 
 ### [ In France, bus company Transports Schiocchet Excursions sues a group of cleaning women for operating a carpool using their own cars, on the ground of "unfair competition". ](/news/2005/07/12/in-france-bus-company-transports-schiocchet-excursions-sues-a-group-of-cleaning-women-for-operating-a-carpool-using-their-own-cars-on-the.md)
 _Context: France, Transports Schiocchet Excursions, carpool_

@@ -14,11 +14,11 @@ Syrian troops clashed with rebels in the city of Aleppo for a second day Saturda
 
 ### Related:
 
-1. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria_
-2. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria_
-3. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
-4. [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _Context: Aleppo, Syria_
-5. [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: Aleppo, Syria_
+1. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Damascus, Syria_
+2. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria_
+3. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria_
+4. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
+5. [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md) _Context: Aleppo, Syria_
 
 ### Changes:
 

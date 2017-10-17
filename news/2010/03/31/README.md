@@ -34,7 +34,7 @@ _Context: Google, Vietnam, bauxite_
 _Context: China, Taiwan, Yahoo!_
 
 ### [Lines of "green wall" are built along the desert district in Yanchi county, Ningxia Hui autonomous region to defend against desertification. ](/news/2010/03/31/lines-of-green-wall-are-built-along-the-desert-district-in-yanchi-county-ningxia-hui-autonomous-region-to-defend-against-desertification.md)
-_Context: Ningxia Hui, Yanchi, desertification, green wall_
+_Context: Green wall, Ningxia Hui, Yanchi, desertification_
 
 ## [Previous Day...](/news/2010/03/30/index.md)
 

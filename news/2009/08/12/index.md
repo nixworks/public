@@ -40,7 +40,7 @@ Tongan Transport Minister Paul Karalus has resigned, six days after the sinking 
 _Context: Angela Merkel, Chancellor, Christian Democratic Union, Germany, Vera Lengsfeld_
 
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
-_Context: Lebanon, Lubna al-Hussein, Sudan_
+_Context: Lebanese, Lubna al-Hussein, Sudan_
 
 ### [ Diego Len Montoya Snchez, Norte Valle Cartel leader, pleads guilty to drug, murder and racketeering charges. ](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.md)
 _Context: Diego Len Montoya Snchez, Norte Valle Cartel, murder, racketeering_

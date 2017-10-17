@@ -25,7 +25,7 @@ US Secretary of State John Kerry discusses Iran and ties with Israel on a visit 
 Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday after clashes following funeral prayers for four Christians killed in sectarian clashes.
 
 ### [Eric Ding Si Yang, a Singaporean businessman, is charged with corruption for offering free sex to three Lebanese football referees to induce them to fix a match in the AFC Cup. ](/news/2013/04/7/eric-ding-si-yang-a-singaporean-businessman-is-charged-with-corruption-for-offering-free-sex-to-three-lebanese-football-referees-to-induce.md)
-_Context: AFC Cup, Lebanon, Singapore, association football, corruption, free sex, match fixing, referees_
+_Context: AFC Cup, Lebanese, Singapore, association football, corruption, free sex, match fixing, referees_
 
 ### [Rehtaeh Parsons, a 17-year-old Canadian gang-rape victim from Halifax, Novia Scotia, is taken off of life support and dies three days after a suicide attempt. Parson's claimed to have been raped when she was 15, she had been bullied ever since the alleged incident; officials with the Royal Canadian Mounted Police and the justice system are deciding whether to file charges. ](/news/2013/04/7/rehtaeh-parsons-a-17-year-old-canadian-gang-rape-victim-from-halifax-novia-scotia-is-taken-off-of-life-support-and-dies-three-days-after.md)
 _Context: Canada, Halifax, Novia Scotia, Rehtaeh Parsons, Royal Canadian Mounted Police, gang rape, life support, suicide_

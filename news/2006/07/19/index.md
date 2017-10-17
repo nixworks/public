@@ -13,7 +13,7 @@ _Context: Ben Bernanke, United States Federal Reserve, United States Senate, inf
 Indian bloggers have reacted with anger and confusion, accusing the government of censorship and demanding to know why their sites have been jammed.
 
 ### [ Hostilities between Israel and Hezbollah militants in Lebanon must stop immediately, UN Secretary General Kofi Annan has said.](/news/2006/07/19/hostilities-between-israel-and-hezbollah-militants-in-lebanon-must-stop-immediately-un-secretary-general-kofi-annan-has-said.md)
-_Context: Hezbollah, Israel, Kofi Annan, Lebanon, UN_
+_Context: Hezbollah, Israel, Kofi Annan, Lebanese, UN_
 
 ### [ At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and-the-west-bank.md)
 _Context: Gaza Strip, Palestinians, West Bank_

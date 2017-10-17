@@ -22,7 +22,7 @@ Two crew and four passengers evacuated by helicopter after fire forces Amsterdam
 Thousands of people in eastern El Salvador are leaving their homes as the Chaparrastique volcano spews hot ash and smoke into the air.
 
 ### [Saudi Arabia pledges US$3 billion to Lebanon to help strengthen their military. ](/news/2013/12/29/saudi-arabia-pledges-us-3-billion-to-lebanon-to-help-strengthen-their-military.md)
-_Context: Lebanon, Saudi Arabia, military_
+_Context: Lebanese, Saudi Arabia, military_
 
 ## [Previous Day...](/news/2013/12/28/index.md)
 

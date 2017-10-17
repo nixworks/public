@@ -52,7 +52,7 @@ Indonesia is out of the race to host the 2022 World Cup, FIFA says.
 _Context: Large Hadron Collider_
 
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Amnesty International, Lebanon, Saudi Arabia_
+_Context: Abdullah, Amnesty International, Lebanese, Saudi Arabia_
 
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
 _Context: Colombia, Johnny Hurtado_

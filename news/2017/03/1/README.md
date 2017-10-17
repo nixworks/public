@@ -7,7 +7,7 @@ _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 Investors bet big on U.S. stocks, giving the market its biggest one-day gain in nearly four months and pushing the major indexes to record highs. The Dow Jones industrial average topped 21,000
 
 ### [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md)
-_Context: EU, Georgia-European Union relations, Georgian, Republic of Ireland, United Kingdom, member states_
+_Context: EU, Georgia-European Union relations, Georgian, Ireland, United Kingdom, member states_
 
 ### [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md)
 Russia and China have vetoed a UN Security Council proposal that would have banned the supply of helicopters to the Syrian government, and blacklisted eleven Syrian military commanders over allegations of toxic gas attacks.

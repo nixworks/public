@@ -13,7 +13,7 @@ _Context: Bikini Atoll, Enewetak, Marshall Islands, U.S. nuclear tests, United S
 _Context: Baghdad, Iraq, Reuters, United States military personnel, WikiLeaks, releases a video_
 
 ### [The Centers for Disease Control and Prevention is currently attempting to gauge the risk of the recently-discovered XMRV virus, linked to rare forms of prostate cancer and chronic fatigue syndrome, to the blood donation supply. ](/news/2010/04/5/the-centers-for-disease-control-and-prevention-is-currently-attempting-to-gauge-the-risk-of-the-recently-discovered-xmrv-virus-linked-to-ra.md)
-_Context: Centers for Disease Control and Prevention, XMRV, chronic fatigue syndrome, donate blood, prostate cancer_
+_Context: Centers for Disease Control and Prevention, XMRV, blood donation, chronic fatigue syndrome, prostate cancer_
 
 ### [Iran invites 60 countries to a two-day nuclear disarmament conference in Tehran on April 17&ndash;18, entitled "Nuclear energy for everyone, nuclear arms for no one". China says it will attend the conference which invites "the world to disarm and prevent proliferation". ](/news/2010/04/5/iran-invites-60-countries-to-a-two-day-nuclear-disarmament-conference-in-tehran-on-april-17-ndash-18-entitled-nuclear-energy-for-everyone.md)
 Tehran says China will be among nations attending planned disarmament conference.

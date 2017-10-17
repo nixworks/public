@@ -22,7 +22,7 @@ President Tsakhiagiin Elbegdorj cites cases of innocent people given death penal
 Eight Irish people were among crew rescued from a sinking racing yacht after it struck rocks in Indonesian waters.
 
 ### [A man is held in custody in Ireland after threatening that there was a bomb on board a transatlantic flight which had to land in an emergency at Shannon Airport. ](/news/2010/01/14/a-man-is-held-in-custody-in-ireland-after-threatening-that-there-was-a-bomb-on-board-a-transatlantic-flight-which-had-to-land-in-an-emergenc.md)
-_Context: Republic of Ireland, Shannon Airport_
+_Context: Ireland, Shannon Airport_
 
 ### [Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. ](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.md)
 Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played down the impact of the Iris Robinson scandal on&hellip;

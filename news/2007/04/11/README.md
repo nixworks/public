@@ -40,7 +40,7 @@ _Context: Macau, North Korea, United States_
 _Context: North Korea_
 
 ### [ Protestors gather in Bishkek, Kyrgyzstan, to call for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.md)
-_Context: Bishkek, Kurmanbek Bakiyev, Kyrgyzstan, President_
+_Context: Bishkek, Kurmanbek Bakiyev, Kyrgyzstan, president_
 
 ### [ Premier of the People's Republic of China Wen Jiabao arrives in Japan for a summit visit that could help improve bilateral relations. He is the first Chinese Premier to visit Japan in almost seven years. ](/news/2007/04/11/premier-of-the-people-s-republic-of-china-wen-jiabao-arrives-in-japan-for-a-summit-visit-that-could-help-improve-bilateral-relations-he-is.md)
 _Context: Japan, Premier of the People's Republic of China, Wen Jiabao, bilateral relations_

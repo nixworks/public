@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraq, Iraq War, U.S. Marine, United States military_
 
 ### [ UN Security Council election: The contest between Guatemala and Venezuela for a seat on the United Nations Security Council remains stalemated after a second day of voting. ](/news/2006/10/17/un-security-council-election-the-contest-between-guatemala-and-venezuela-for-a-seat-on-the-united-nations-security-council-remains-stalema.md)
-_Context: After 48 rounds of voting, Guatemala, Security Council, United Nations, Venezuela_
+_Context: After 48 rounds of voting, Guatemala, UNSC, United Nations, Venezuela_
 
 ### [ The population of the United States reaches 300 million people. ](/news/2006/10/17/the-population-of-the-united-states-reaches-300-million-people.md)
 Census figures show that for first time in history, married couples are in the minority. In the second in a series on America at 300 million, guests discuss the culture shift and how it is affecting Americans.

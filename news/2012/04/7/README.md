@@ -7,7 +7,7 @@ Facility shut down after forces loyal to sacked air force chief surround Sanaa a
 _Context: Burma, Internal conflict in Burma, Karen National Union, President of Burma, Thein Sein_
 
 ### [An avalanche buries about 130 Pakistani Army soldiers near the Siachen Glacier in the Himalayas near the border with India. ](/news/2012/04/7/an-avalanche-buries-about-130-pakistani-army-soldiers-near-the-siachen-glacier-in-the-himalayas-near-the-border-with-india.md)
-_Context: Himalaya, India, Pakistani Army, Siachen Glacier, avalanche_
+_Context: Himalaya, India, Pakistani troops, Siachen Glacier, avalanche_
 
 ### [Hamas executes three men (of whom one was convicted of collaborating with Israel) in the Gaza Strip. ](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, Israel_

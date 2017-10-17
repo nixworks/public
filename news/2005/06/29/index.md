@@ -16,7 +16,7 @@ _Context: Franco, Galicia, Manuel Fraga, Spain_
 _Context: Belgium, Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_
 
 ### [ Hezbollah shells Israeli positions with mortars and rockets in the disputed Shebaa farms, wounding five soldiers and killing one, The Israeli military shelled areas around several villages in southern Lebanon and planes launched missiles. Israel intends to file a complaint against Lebanon and UNIFIL for failing to prevent aggression by Hezbollah.](/news/2005/06/29/hezbollah-shells-israeli-positions-with-mortars-and-rockets-in-the-disputed-shebaa-farms-wounding-five-soldiers-and-killing-one-the-israe.md)
-_Context: Hezbollah, Lebanon, Shebaa farms, UN peacekeeper_
+_Context: Hezbollah, Lebanese, Shebaa farms, UN peacekeeper_
 
 ### [ UN special envoy Anna Tibaijuka meets Robert Mugabe in Zimbabwe, discussing about a recent urban crackdown that has left 300.000 people homeless](/news/2005/06/29/un-special-envoy-anna-tibaijuka-meets-robert-mugabe-in-zimbabwe-discussing-about-a-recent-urban-crackdown-that-has-left-300-000-people-hom.md)
 _Context: Anna Tibaijuka, Robert Mugabe, United Nations, Zimbabwe_

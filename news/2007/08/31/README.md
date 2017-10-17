@@ -13,7 +13,7 @@ _Context: Guanica, Guayanilla Bay, Puerto Rico_
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_
 
 ### [ U.S. Democratic Party fundraiser Norman Hsu surrenders to the San Mateo County sheriff's office on a 15-year-old felony warrant. ](/news/2007/08/31/u-s-democratic-party-fundraiser-norman-hsu-surrenders-to-the-san-mateo-county-sheriff-s-office-on-a-15-year-old-felony-warrant.md)
-_Context: Democratic, Norman Hsu, San Mateo County, felony, sheriff, warrant_
+_Context: Democratic, Norman Hsu, San Mateo County, felons, sheriff, warrant_
 
 ### [ Twelve Chileans including a Catholic priest are charged for alleged involvement in death squads during the rule of General Augusto Pinochet. ](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.md)
 _Context: Augusto Pinochet, Catholic, Chile, death squad, priest_

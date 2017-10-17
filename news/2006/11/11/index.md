@@ -19,7 +19,7 @@ _Context: Baghdad, Iraq, explosion, insurgents_
 _Context: Papua New Guinea, earthquake_
 
 ### [ Five Shiite ministers resign from the cabinet of Lebanon, complicating the situation for Prime Minister Fouad Siniora. ](/news/2006/11/11/five-shiite-ministers-resign-from-the-cabinet-of-lebanon-complicating-the-situation-for-prime-minister-fouad-siniora.md)
-_Context: Fouad Siniora, Lebanese Prime Minister, Lebanon, Shi'a, cabinet_
+_Context: Fouad Siniora, Lebanese, Lebanese Prime Minister, Shi'a, cabinet_
 
 ## [Previous Day...](/news/2006/11/10/index.md)
 

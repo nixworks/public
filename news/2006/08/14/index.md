@@ -7,7 +7,7 @@ _Context: Gaza Strip, Israel, Palestinian Islamic Jihad_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime-minister-ehud-olmert-has-told-p.md)
-_Context: Ehud Olmert, Hezbollah, Israel, Lebanon, Prime Minister, parliament in Israel_
+_Context: Ehud Olmert, Hezbollah, Israel, Lebanese, Prime Minister, parliament in Israel_
 
 ## [Previous Day...](/news/2006/08/13/index.md)
 

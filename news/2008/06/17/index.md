@@ -25,7 +25,7 @@ _Context: 1988, 1989, Otaku, Tokyo, Tsutomu Miyazaki, cannibal, capital punishme
 Still short 2 million tents, it must also rebuild homes and jobs for 5 million.
 
 ### [ Lebanese security officials say that clashes between pro-government and anti-government lead to three deaths in the villages of Taalabaya and Saadnayel in eastern Lebanon. ](/news/2008/06/17/lebanese-security-officials-say-that-clashes-between-pro-government-and-anti-government-lead-to-three-deaths-in-the-villages-of-taalabaya-a.md)
-_Context: Lebanon_
+_Context: Lebanese_
 
 ### [ The Korean Confederation of Trade Unions calls a one day strike for July 2 in protest at the President of South Korea Lee Myung-bak's economic reform plans. ](/news/2008/06/17/the-korean-confederation-of-trade-unions-calls-a-one-day-strike-for-july-2-in-protest-at-the-president-of-south-korea-lee-myung-bak-s-econo.md)
 _Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, President of South Korea_

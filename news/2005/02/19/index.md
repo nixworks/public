@@ -22,7 +22,7 @@ _Context: Cold War, Jimmy Carter, Seawolf class submarine, USD, USS Jimmy Carter
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 ### [ The UN Secretary General, Kofi Annan, is sending a team of experts to Lebanon to investigate the killing of the former prime minister, Rafik Hariri. ](/news/2005/02/19/the-un-secretary-general-kofi-annan-is-sending-a-team-of-experts-to-lebanon-to-investigate-the-killing-of-the-former-prime-minister-rafi.md)
-_Context: Kofi Annan, Lebanon, Rafik Hariri_
+_Context: Kofi Annan, Lebanese, Rafik Hariri_
 
 ### [ Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.md)
 _Context: Northern Bank, Police Service of Northern Ireland_

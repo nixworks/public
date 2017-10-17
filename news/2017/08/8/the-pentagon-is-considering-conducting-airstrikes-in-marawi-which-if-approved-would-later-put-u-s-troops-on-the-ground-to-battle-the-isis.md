@@ -13,10 +13,10 @@ The strikes would likely be conducted by drones, and would be part of an officia
 ### Related:
 
 1. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: Marawi, Maute group, Philippines_
-2. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Philippines_
-3. [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md) _Context: Marawi, Maute group_
-4. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: Marawi, Maute group_
-5. [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md) _Context: Marawi, Philippines_
+2. [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md) _Context: Battle of Marawi, Marawi_
+3. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Philippines_
+4. [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md) _Context: Marawi, Maute group_
+5. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: Marawi, Maute group_
 
 ### Changes:
 

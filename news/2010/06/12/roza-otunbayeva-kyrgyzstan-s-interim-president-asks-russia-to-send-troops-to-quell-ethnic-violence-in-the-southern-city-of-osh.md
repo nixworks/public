@@ -18,11 +18,11 @@
 
 ### Related:
 
-1. [Kyrgyzstan's interim leader Roza Otunbayeva is officially sworn in as President. ](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.md) _Context: Kyrgyzstan, President, Roza Otunbayeva_
+1. [Kyrgyzstan's interim leader Roza Otunbayeva is officially sworn in as President. ](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.md) _Context: Kyrgyzstan, Roza Otunbayeva, president_
 2. [Interim Kyrgyzstan leader Roza Otunbayeva visits Osh and says the death toll from her country's worst ethnic clashes in two decades could be 2,000. ](/news/2010/06/18/interim-kyrgyzstan-leader-roza-otunbayeva-visits-osh-and-says-the-death-toll-from-her-country-s-worst-ethnic-clashes-in-two-decades-could-be.md) _Context: Kyrgyzstan, Osh, Roza Otunbayeva_
-3. [Gunfire disrupts a rally in support of former President of Kyrgyzstan Kurmanbek Bakiyev in the southern city of Osh. ](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-president-of-kyrgyzstan-kurmanbek-bakiyev-in-the-southern-city-of-osh.md) _Context: Kyrgyzstan, Osh, President_
-4. [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md) _Context: Kyrgyzstan, President, Roza Otunbayeva_
-5. [Voters in Kyrgyzstan go to the polls to elect a new President, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md) _Context: Kyrgyzstan, President_
+3. [Gunfire disrupts a rally in support of former President of Kyrgyzstan Kurmanbek Bakiyev in the southern city of Osh. ](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-president-of-kyrgyzstan-kurmanbek-bakiyev-in-the-southern-city-of-osh.md) _Context: Kyrgyzstan, Osh, president_
+4. [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md) _Context: Kyrgyzstan, Roza Otunbayeva, president_
+5. [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md) _Context: Kyrgyzstan, president_
 
 ### Changes:
 

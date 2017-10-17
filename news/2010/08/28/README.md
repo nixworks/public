@@ -19,7 +19,7 @@ _Context: International Criminal Court, Kenya, Omar al-Bashir, Sudan, Sudanese P
 _Context: Democratic Republic of the Congo, Rwanda, United Nations, war crime_
 
 ### [Iran answers Lebanon's call to help fund the Lebanese Army after the United States threatened to cut off funds following the 2010 Adaisseh incident.[http:--www.almanar.com.lb-newssite-NewsDetails.aspx?id=152077&language=en]](/news/2010/08/28/iran-answers-lebanon-s-call-to-help-fund-the-lebanese-army-after-the-united-states-threatened-to-cut-off-funds-following-the-2010-adaisseh-i.md)
-_Context: 2010 Adaisseh incident, Iran, Lebanese Army, Lebanon, call_
+_Context: 2010 Adaisseh incident, Iran, Lebanese, Lebanese Army, call_
 
 ### [Mount Sinabung in Sumatra, Indonesia, erupts. Thousands of people evacuated.[http:--www.thejakartapost.com-news-2010-08-29-mount-sinabung-sumatra-erupts.html (The Jakarta Post)] (Wikinews)](/news/2010/08/28/mount-sinabung-in-sumatra-indonesia-erupts-thousands-of-people-evacuated-http-www-thejakartapost-com-news-2010-08-29-mount-sinabung-su.md)
 _Context: (Wikinews), Indonesia, Sinabung, Sumatra_

@@ -19,7 +19,7 @@ Opposition challenger Kolinda Grabar-Kitarovic becomes the first female presiden
 _Context: Mahinda Rajapaksa, Sri Lanka, Sri Lankan presidential election, 2015, government_
 
 ### [Public photographs become available of SpaceX's Falcon 9 rocket after the experimental recovery attempt of the first stage fails and crash-lands on a floating platform in the SpaceX CRS-5 resupply mission. ](/news/2015/01/11/public-photographs-become-available-of-spacex-s-falcon-9-rocket-after-the-experimental-recovery-attempt-of-the-first-stage-fails-and-crash-l.md)
-_Context: Falcon 9, SpaceX, SpaceX CRS-5, fails, floating platform, reusable main-stage booster_
+_Context: Falcon 9, SpaceX, SpaceX CRS-5, fails, first stage is re-used, floating platform_
 
 ## [Previous Day...](/news/2015/01/10/index.md)
 

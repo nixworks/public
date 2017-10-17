@@ -25,7 +25,7 @@ _Context: Amasya, Turkey, hunger strike_
 Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wednesday forced a civilian Syrian aircraft to land in Ankara — an event that is likely to cement political ties among Syria, Rus
 
 ### [A U.S. appeals court has overturned a district court order that had banned the sale of Samsung's Galaxy Nexus in the US, delivering a winning round for Google's Android against Apple Inc.. ](/news/2012/10/11/a-u-s-appeals-court-has-overturned-a-district-court-order-that-had-banned-the-sale-of-samsung-s-galaxy-nexus-in-the-us-delivering-a-winnin.md)
-_Context: Android devices, Apple Inc., Galaxy Nexus, Google, Samsung_
+_Context: Android, Apple Inc., Galaxy Nexus, Google, Samsung_
 
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)
 A man who wore a T-shirt with offensive comments referring to the killing of two police officers in Greater Manchester is jailed.

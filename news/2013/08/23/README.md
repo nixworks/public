@@ -13,7 +13,7 @@ Officials in Iraq say at least 26 people have been killed by a suicide bomber wh
 UN troops in DR Congo launch an offensive on M23 rebels after shelling on Goma killed civilians in the city, a UN spokesman tells the BBC.
 
 ### [Israeli warplanes strike Na'ameh, Lebanon in response to rocket attacks. ](/news/2013/08/23/israeli-warplanes-strike-na-ameh-lebanon-in-response-to-rocket-attacks.md)
-_Context: Israel, Lebanon, Na'ameh_
+_Context: Israel, Lebanese, Na'ameh_
 
 ### [Real estate developers are reported to have severely damaged the UNESCO world heritage site of Cyrene, Libya. ](/news/2013/08/23/real-estate-developers-are-reported-to-have-severely-damaged-the-unesco-world-heritage-site-of-cyrene-libya.md)
 &#x00A0;Local&#x20;residents&#x20;recently&#x20;destroyed&#x20;part&#x20;of&#x20;the&#x20;Cyrene&#x20;necropolis,&#x20;an&#x20;ancient&#x20;Greek&#x20;city&#x20;in&#x20;north-eastern&#x20;Libya,&#x20;to&#x20;make&#x20;way&#x20;for&#x20;houses&#x20;and&#x20;shops.&#x20;Our

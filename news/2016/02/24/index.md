@@ -34,7 +34,7 @@ _Context: Tornadoes of 2016, Waverly, Virginia, tornado_
 _Context: Antarctica, Aurora Australis, Australia, Australian Antarctic Division_
 
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanon, Qatar, Saudi Arabia, United Arab Emirates_
+_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi Arabia, United Arab Emirates_
 
 ### [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md)
 JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility have been subjected to mistreatment, and in some cases torture, two Israeli human rights groups alleged on Wednesday. In new bloodshed Wednesday, Israeli troops accidentally shot and killed a fellow soldier as they thwart...

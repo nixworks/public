@@ -25,7 +25,7 @@ _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, 
 _Context: Coahuila, Mexico, Saltillo, car accident_
 
 ### [ United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robinson-and-deputy-first-mi.md)
-_Context: Barack Obama, Brian Cowen, Martin McGuinness, Northern Ireland, Peter Robinson, Republic of Ireland, Taoiseach, U.S. President, United States, White House, deputy First Minister of Northern Ireland_
+_Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, Taoiseach, U.S. President, United States, White House, deputy First Minister of Northern Ireland_
 
 ## [Previous Day...](/news/2009/03/16/index.md)
 

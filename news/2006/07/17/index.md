@@ -16,7 +16,7 @@ _Context: Baghdad, Iraq, Mahmoudiya_
 _Context: Hezbollah, Israel, Kofi Annan, Middle East, Palestinian, Tony Blair, United Nations Security Council_
 
 ### [ Israel has rebuffed a UN call for an international monitoring force to be deployed in Lebanon as it continued to attack the country.](/news/2006/07/17/israel-has-rebuffed-a-un-call-for-an-international-monitoring-force-to-be-deployed-in-lebanon-as-it-continued-to-attack-the-country.md)
-_Context: Israel, Lebanon, UN_
+_Context: Israel, Lebanese, UN_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains)](/news/2006/07/17/israeli-palestinian-conflict-operation-summer-rains.md)
 _Context: Israeli-Palestinian conflict, Operation Summer Rains_

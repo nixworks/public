@@ -52,7 +52,7 @@ A traditional smoking ceremony welcomed politicians to Canberra ahead of the off
 _Context: North Korea, Pyongyang, Workers' Party of Korea_
 
 ### [The President of Russia Dmitry Medvedev fires the Mayor of Moscow Yuri Luzhkov with first Deputy Mayor Vladimir Resin appointed as acting Mayor. ](/news/2010/09/28/the-president-of-russia-dmitry-medvedev-fires-the-mayor-of-moscow-yuri-luzhkov-with-first-deputy-mayor-vladimir-resin-appointed-as-acting-ma.md)
-_Context:  Russian President, Dmitry Medvedev, Mayor of Moscow, Vladimir Resin, Yuri Luzhkov_
+_Context: Dmitry Medvedev, Mayor of Moscow, Russian president, Vladimir Resin, Yuri Luzhkov_
 
 ### [Ed Miliband, the new leader of the UK's Labour Party, makes his first major speech at the party's Annual Conference in Manchester telling delegates that his "new generation" will return the party to power. ](/news/2010/09/28/ed-miliband-the-new-leader-of-the-uk-s-labour-party-makes-his-first-major-speech-at-the-party-s-annual-conference-in-manchester-telling-de.md)
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.

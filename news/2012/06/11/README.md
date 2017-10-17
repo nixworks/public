@@ -28,7 +28,7 @@ _Context: Istanbul, Madonna_
 During another New Zealand show, the Mother Monster responds to a shot Madonna fired during her show Tel Aviv.
 
 ### [A pan-Arab satellite television channel, Al Mayadeen ("The Squares" in Arabic), is launched in Lebanon that is speculated to be a mouthpiece for Iran and Hezbollah. ](/news/2012/06/11/a-pan-arab-satellite-television-channel-al-mayadeen-the-squares-in-arabic-is-launched-in-lebanon-that-is-speculated-to-be-a-mouthpiece.md)
-_Context: Al Mayadeen, Hezbollah, Iran, Lebanon, pan-Arab_
+_Context: Al Mayadeen, Hezbollah, Iran, Lebanese, pan-Arab_
 
 ### [Dangote Cement opens a new line of production at its Obajana facility in the Kogi State, making the plant the largest in Sub-Sahara Africa and one of the largest in the world. ](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.md)
 _Context: Dangote Cement, Kogi state_

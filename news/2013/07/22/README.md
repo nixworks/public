@@ -19,7 +19,7 @@ A Boeing 737 is left with its nose resting against the runway at LaGuardia airpo
 Pope Francis is flying to Brazil for his first foreign trip, where millions of young Catholics are expected to greet him at a festival amid high security.
 
 ### [The United Nations High Commissioner for Refugees states that there are approximately 625,000 refugees from the Syrian civil war living in Lebanon. ](/news/2013/07/22/the-united-nations-high-commissioner-for-refugees-states-that-there-are-approximately-625-000-refugees-from-the-syrian-civil-war-living-in-l.md)
-_Context: Lebanon, Syrian Civil War, United Nations High Commissioner for Refugees_
+_Context: Lebanese, Syrian Civil War, United Nations High Commissioner for Refugees_
 
 ### [The European Union announces the addition of the military wing of Hezbollah to its official list of terrorist organizations. ](/news/2013/07/22/the-european-union-announces-the-addition-of-the-military-wing-of-hezbollah-to-its-official-list-of-terrorist-organizations.md)
 _Context: EU, the military wing of Hezbollah_

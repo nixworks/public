@@ -1,7 +1,7 @@
 ## [2006-12-3](/news/2006/12/3/index.md)
 
 ### [ The protests in Lebanon led by Hezbollah last for a third day. ](/news/2006/12/3/the-protests-in-lebanon-led-by-hezbollah-last-for-a-third-day.md)
-_Context: Hezbollah, Lebanon_
+_Context: Hezbollah, Lebanese_
 
 ### [ Venezuela holds elections, with incumbent president Hugo Chvez facing a challenge from Manuel Rosales, Governor of the western state of Zulia. With 78% of votes counted by the National Electoral Council, Chvez wins with 61% over 38% for Rosales. ](/news/2006/12/3/venezuela-holds-elections-with-incumbent-president-hugo-chavez-facing-a-challenge-from-manuel-rosales-governor-of-the-western-state-of-zu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

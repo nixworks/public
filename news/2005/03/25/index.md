@@ -4,7 +4,7 @@
 _Context: Evolution, Imax, Volcanoes of the Deep Sea, film, theatrically_
 
 ### [ Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted President Askar Akayev remains defiant. [http:--www.alertnet.org-thenews-newsdesk-L25245723.htm (Reuters)] Looters ransack the capital city of Bishkek following the protests. ](/news/2005/03/25/kyrgyz-opposition-leader-kurmanbek-bakiyev-is-named-interim-president-of-kyrgyzstan-while-ousted-president-askar-akayev-remains-defiant.md)
-_Context: Askar Akayev, Bishkek, Kurmanbek Bakiyev, President, capital, illegally taken out, protest_
+_Context: Askar Akayev, Bishkek, Kurmanbek Bakiyev, capital, illegally taken out, president, protest_
 
 ### [ Doctors at a Monaco hospital call the condition of Prince Rainier III "worrying" and are unsure if he will recover from heart and renal failure. He remains on a ventilator. ](/news/2005/03/25/doctors-at-a-monaco-hospital-call-the-condition-of-prince-rainier-iii-worrying-and-are-unsure-if-he-will-recover-from-heart-and-renal-fai.md)
 _Context: Monaco, Prince Rainier, heart failure, renal failure, ventilator_

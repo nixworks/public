@@ -7,7 +7,7 @@ _Context: Saddam Hussein, UTC, executed_
 _Context: Barajas Airport, Madrid, Spain, bomb exploding_
 
 ### [ The Supreme Council of Kyrgyzstan votes 50 to 1 in favor of amendments to the Constitution giving greater power to the executive branch after President Kurmanbek Bakiyev accuses Parliamentarians of "sabotaging" the political process. The President will now have the power to appoint and dismiss the Prime Minister and his cabinet and regional governors. The SNB, the domestic intelligence organization, will report to the President, not the legislature. ](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.md)
-_Context: Kurmanbek Bakiyev, President, Prime Minister, Supreme Council, constitution, executive branch_
+_Context: Kurmanbek Bakiyev, Prime Minister, Supreme Council, constitution, executive branch, president_
 
 ### [ At least 500 people are feared to have drowned after the ferry "Senopati Nusantara" travelling between the port of Kumai on the Indonesian island of Borneo to Semarang on Java sank during a storm. ](/news/2006/12/30/at-least-500-people-are-feared-to-have-drowned-after-the-ferry-senopati-nusantara-travelling-between-the-port-of-kumai-on-the-indonesian.md)
 _Context: Borneo's, Indonesia, Java, Kumai, ferry ''Senopati Nusantara''_

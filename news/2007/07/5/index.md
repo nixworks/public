@@ -43,7 +43,7 @@ _Context: Alexander Litvinenko, Andrei Lugovoi, Russia, Russia's constitution, U
 _Context: Iraqis, Jordanian population, University of Jordan, country's economic problems, sanctuary_
 
 ### [ On the 25th anniversary of their captivity, the Iranian government announces that Iranian diplomats Seyyed Mohsen Mousavi, Ahmad Motevasselian, Kazem Akhavan and Taghi Rastegar Moghaddam are still alive and being held in Israeli jails. The men were captured in 1982 in Lebanon. ](/news/2007/07/5/on-the-25th-anniversary-of-their-captivity-the-iranian-government-announces-that-iranian-diplomats-seyyed-mohsen-mousavi-ahmad-motevassel.md)
-_Context: 1982, Iran, Israel, Lebanon, diplomatic_
+_Context: 1982, Iran, Israel, Lebanese, diplomatic_
 
 ### [ Eleven people are injured after a London Underground train derails, leaving hundreds of passengers trapped in an east London tunnel. ](/news/2007/07/5/eleven-people-are-injured-after-a-london-underground-train-derails-leaving-hundreds-of-passengers-trapped-in-an-east-london-tunnel.md)
 _Context: London, London Underground_

@@ -4,7 +4,7 @@
 Russian MPs propose new laws that would make it easier for Russia to incorporate parts of Ukraine and to fast-track Russian citizenship.
 
 ### [Syrian air strikes near the Lebanese border town of Arsal killed three people. ](/news/2014/02/28/syrian-air-strikes-near-the-lebanese-border-town-of-arsal-killed-three-people.md)
-_Context: Arsal, Lebanon, Syria_
+_Context: Arsal, Lebanese, Syria_
 
 ### [The Swedish Academy announces that Swedish writer Klas Ostergren is appointed new member, succeeding late art critic Ulf Linde on seat No. 11. ](/news/2014/02/28/the-swedish-academy-announces-that-swedish-writer-klas-astergren-is-appointed-new-member-succeeding-late-art-critic-ulf-linde-on-seat-no.md)
 _Context: Klas Ostergren, Swedish Academy, Ulf Linde, seat No. 11_

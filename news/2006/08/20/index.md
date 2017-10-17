@@ -7,7 +7,7 @@ _Context: Democratic Republic of the Congo, Jean-Pierre Bemba, Joseph Kabila, pr
 _Context: Afghanistan, Taliban insurgency_
 
 ### [ UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation. ](/news/2006/08/20/un-secretary-general-kofi-annan-has-expressed-deep-concern-over-saturday-s-israeli-commando-raid-deep-inside-lebanon-calling-it-a-truce-vi.md)
-_Context: Israel, Kofi Annan, Lebanon, Secretary General, UN_
+_Context: Israel, Kofi Annan, Lebanese, Secretary General, UN_
 
 ### [ The first named storm to form in the Central North Pacific basin since the 2002 Pacific hurricane season, Tropical Storm Ioke, forms and threatens Johnston Island and the Johnston Atoll National Wildlife Refuge. ](/news/2006/08/20/the-first-named-storm-to-form-in-the-central-north-pacific-basin-since-the-2002-pacific-hurricane-season-tropical-storm-ioke-forms-and-th.md)
 _Context: 2002 Pacific hurricane season, Johnston Island, National Wildlife Refuge, Tropical Storm Ioke_

@@ -10,7 +10,7 @@ _Context: India, Mumbai_
 _Context: Afghanistan, Helmand Province, Taliban, ambush_
 
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
-_Context: France, Lebanon, United Nations, United Nations Security Council_
+_Context: France, Lebanese, United Nations, United Nations Security Council_
 
 ### [ Interpol issues warrants for the arrest of Saddam Hussein's eldest daughter Raghad Hussein and his first wife Sajida Khairalla Tulfa for providing support to Iraqi insurgents. ](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.md)
 Iraqi officials would not discuss the specific charges against Raghad Saddam Hussein and her mother, Sajida Khairalla Tulfa.
@@ -19,7 +19,7 @@ Iraqi officials would not discuss the specific charges against Raghad Saddam Hus
 _Context: David B. Chalmers, Jr, Texas, United Nations, oil, oil-for-food, wire fraud_
 
 ### [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md)
-_Context:  Russian President, Central Asia, China, Russia, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
+_Context: Central Asia, China, Russia, Russian president, Shanghai Cooperation Organisation, Ural Mountains, Vladimir Putin, war games_
 
 ### [ A Nile boat sinks off the northern Egyptian town of Beni Suef with dozens feared missing. ](/news/2007/08/17/a-nile-boat-sinks-off-the-northern-egyptian-town-of-beni-suef-with-dozens-feared-missing.md)
 A Nile boat has sunk off the south Egyptian town of Beni Suef and police sources say they believe dozens of people could be missing.

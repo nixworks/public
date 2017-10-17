@@ -13,7 +13,7 @@ A federal judge ruled Thursday that the government&#8217;s warrantless wiretappi
 _Context: John Mark Karr, JonBent Ramsey_
 
 ### [ Lebanese troops deploy south of the Litani River in Lebanon as part of the ceasefire agreement ](/news/2006/08/17/lebanese-troops-deploy-south-of-the-litani-river-in-lebanon-as-part-of-the-ceasefire-agreement.md)
-_Context: Lebanon, Litani River_
+_Context: Lebanese, Litani River_
 
 ### [ Tungurahua, an active stratovolcano in Ecuador, erupts, spewing out pyroclastic flows, shooting volcanic ash six kilometres into the air and forcing the evacuation of thousands of people. At least one person is killed and another 60 people missing. ](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

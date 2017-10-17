@@ -25,7 +25,7 @@ The Age 404 Page
 _Context: AWB Limited, Australia, Cole Inquiry, Iraq, Parliament, Saddam Hussein_
 
 ### [ In a poll conducted by the U.S. Agency for Development, following President Kurmanbek Bakiyev's signing of the controversial, new Constitution of Kyrgyzstan, 62% of Kyrgyz citizens believe the country is moving in the right direction. ](/news/2006/11/24/in-a-poll-conducted-by-the-u-s-agency-for-development-following-president-kurmanbek-bakiyev-s-signing-of-the-controversial-new-constitut.md)
-_Context: Kurmanbek Bakiyev, President, constitution_
+_Context: Kurmanbek Bakiyev, constitution, president_
 
 ### [ Maximo V. Soliven, O.B. Montessori Center chairman and veteran publisher and writer of the Philippine Star, dies of cardiac and respiratory arrest in Japan. ](/news/2006/11/24/maximo-v-soliven-o-b-montessori-center-chairman-and-veteran-publisher-and-writer-of-the-philippine-star-dies-of-cardiac-and-respiratory.md)
 _Context: Maximo V. Soliven, O.B. Montessori Center, Philippine Star_

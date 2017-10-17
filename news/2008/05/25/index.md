@@ -19,7 +19,7 @@ _Context: 2008 Cannes Film Festival, Entre les murs, Laurent Cantet, Palme d'Or_
 Former Malawian president Bakili Muluzi was arrested in connection with an alleged coup plot as he returned home from Britain on Sunday, his lawyer said.
 
 ### [ Michel Suleiman is elected as President of the Republic of Lebanon. ](/news/2008/05/25/michel-suleiman-is-elected-as-president-of-the-republic-of-lebanon.md)
-_Context: Lebanon, Michel Suleiman, President_
+_Context: Lebanese, Michel Suleiman, President_
 
 ### [ China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md)
 The official death toll rose to more than 65,000, Chinese state media said, as rescuers prepared to dynamite and drain a lake caused by landslides.

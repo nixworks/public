@@ -4,7 +4,7 @@
 CNN HAS apologised for printing a story on its website that incorrectly accused The Irish Times of printing faked naked photographs&hellip;
 
 ### [ Irish Independent Member of Parliament Noel Grealish withdraws his support for the country's government over the issue of pay cuts in the public sector. The move reduces the administration of Taoiseach Brian Cowen to a minority government. ](/news/2009/12/5/irish-independent-member-of-parliament-noel-grealish-withdraws-his-support-for-the-country-s-government-over-the-issue-of-pay-cuts-in-the-p.md)
-_Context: Brian Cowen, Independent, Noel Grealish, Republic of Ireland, TD, Taoiseach, country's government, minority government, public sector_
+_Context: Brian Cowen, Independent, Ireland, Noel Grealish, TD, Taoiseach, country's government, minority government, public sector_
 
 ### [ More than one million tickets for the 2010 FIFA World Cup in South Africa go on sale globally. ](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.md)
 _Context: 2010 FIFA World Cup_
@@ -22,7 +22,7 @@ _Context: 2009 United Nations Climate Change Conference, Copenhagen_
 _Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [ Russian President Dmitry Medvedev declares a national day of mourning on December 7 following a nightclub fire which resulted in 109 deaths yesterday. ](/news/2009/12/5/russian-president-dmitry-medvedev-declares-a-national-day-of-mourning-on-december-7-following-a-nightclub-fire-which-resulted-in-109-deaths.md)
-_Context:  Russian President, Dmitry Medvedev, national mourning, nightclub fire_
+_Context: Dmitry Medvedev, Russian president, national mourning, nightclub fire_
 
 ### [ Guinea's vice-president and defence minister Sekouba Konat of the ruling National Council for Democracy and Development takes charge of the country after leader Moussa Dadis Camara was shot in an assassination attempt. ](/news/2009/12/5/guinea-s-vice-president-and-defence-minister-sekouba-konate-of-the-ruling-national-council-for-democracy-and-development-takes-charge-of-th.md)
 _Context: Guinea, Moussa Dadis Camara, Skouba Konat, junta_

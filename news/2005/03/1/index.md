@@ -25,7 +25,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 _Context: Indonesia, fuel_
 
 ### [ In Lebanon, opposition leaders call for the protest to continue even when the government has resigned. New protests demand that all Syrian troops leave the country ](/news/2005/03/1/in-lebanon-opposition-leaders-call-for-the-protest-to-continue-even-when-the-government-has-resigned-new-protests-demand-that-all-syrian.md)
-_Context: Lebanon, Syria_
+_Context: Lebanese, Syria_
 
 ### [ Malaysia begins to round up illegal immigrants after a 4-month amnesty ](/news/2005/03/1/malaysia-begins-to-round-up-illegal-immigrants-after-a-4-month-amnesty.md)
 _Context: Malaysia, illegal immigrant_

@@ -7,7 +7,7 @@ A gunman killed an Israeli soldier and wounded at least 11 other people at a bus
 _Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
 
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
-_Context: China's_
+_Context: Economy of China_
 
 ### [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md)
 _Context: Aetna, Humana_

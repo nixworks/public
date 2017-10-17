@@ -4,7 +4,7 @@
 _Context: Barack Obama, Chicago, Democratic, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S. President, United States, United States Senate, corruption, pay-to-play, seat_
 
 ### [ Almost 1,400 workers are laid off in the Republic of Ireland as a result of the 2008 Irish pork crisis. ](/news/2008/12/9/almost-1-400-workers-are-laid-off-in-the-republic-of-ireland-as-a-result-of-the-2008-irish-pork-crisis.md)
-_Context: 2008 Irish pork crisis, Republic of Ireland_
+_Context: 2008 Irish pork crisis, Ireland_
 
 ### [ Sony Corporation announces plans to cut 8,000 jobs and close 10% of its manufacturing plants. ](/news/2008/12/9/sony-corporation-announces-plans-to-cut-8-000-jobs-and-close-10-of-its-manufacturing-plants.md)
 _Context: Sony_

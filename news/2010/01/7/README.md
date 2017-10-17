@@ -25,7 +25,7 @@ _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister
 _Context: China, Taiwan, United States_
 
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
-_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Knock, Norway, Oslo, Paris, Republic of Ireland_
+_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Ireland, Knock, Norway, Oslo, Paris_
 
 ### [The governments of Australia and New Zealand announce an investigation into an incident where a boat belonging to the anti-whaling group Sea Shepherd Conservation Society was damaged in a confrontation with a Japanese ship in the Southern Ocean. ](/news/2010/01/7/the-governments-of-australia-and-new-zealand-announce-an-investigation-into-an-incident-where-a-boat-belonging-to-the-anti-whaling-group-sea.md)
 Australia joined New Zealand on Thursday in investigating a clash between an anti-whaling protesters and Japanese whalers, but refused to send a patrol ship to Antarctic waters as activists promised a &quot;whale war&quot;.

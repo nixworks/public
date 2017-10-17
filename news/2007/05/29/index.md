@@ -7,7 +7,7 @@ _Context: George W. Bush, Robert Zoellick, US Deputy Secretary of State, US Pres
 _Context: Justice, Ledbetter v. Goodyear, Ruth Bader Ginsburg, United States Supreme Court, dissent_
 
 ### [ Heavy fighting resumes between the Lebanese army and al Qaeda linked militants at the Nahr el-Bared refugee camp. ](/news/2007/05/29/heavy-fighting-resumes-between-the-lebanese-army-and-al-qaeda-linked-militants-at-the-nahr-el-bared-refugee-camp.md)
-_Context: Lebanon, Nahr el-Bared, al-Qaeda, refugee_
+_Context: Lebanese, Nahr el-Bared, al-Qaeda, refugee_
 
 ### [ United States health officials quarantine a man who may have exposed passengers on two transatlantic flights to extensively drug resistant tuberculosis. ](/news/2007/05/29/united-states-health-officials-quarantine-a-man-who-may-have-exposed-passengers-on-two-transatlantic-flights-to-extensively-drug-resistant.md)
 _Context: United States, extensively drug resistant tuberculosis, quarantine, transatlantic flight_

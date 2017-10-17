@@ -13,7 +13,7 @@ _Context: Alan Mulally, Bill Ford, Boeing Commercial Airlines, CEO, Ford Motor C
 Lebanese troops moved on Tuesday into a town wrecked by Israel&#8217;s war with Hezbollah, as U.N. Secretary-General Kofi Annan said he hoped for word on the lifting of an Israeli blockade on Lebanon within two days.
 
 ### [ In Lebanon, a roadside bomb seriously wounds Lt. Col. Samir Shehade, a Lebanese police officer and kills four of his aides. Shehade was involved in the August 2005 arrest of four pro-Syrian Lebanese generals, on suspicion of involvement in the February 2005 assassination of former Lebanese PM Rafik Hariri. ](/news/2006/09/5/in-lebanon-a-roadside-bomb-seriously-wounds-lt-col-samir-shehade-a-lebanese-police-officer-and-kills-four-of-his-aides-shehade-was-inv.md)
-_Context: February 2005 assassination, Lebanon, Lt. Col., Rafik Hariri, Samir Shehade, Syria_
+_Context: February 2005 assassination, Lebanese, Lt. Col., Rafik Hariri, Samir Shehade, Syria_
 
 ### [ Pakistan has signed a truce with pro-Taliban militants on the Afghanistan border agreeing to withdraw most Pakistani troops in exchange for the militants' promise not to support cross-border violence. ](/news/2006/09/5/pakistan-has-signed-a-truce-with-pro-taliban-militants-on-the-afghanistan-border-agreeing-to-withdraw-most-pakistani-troops-in-exchange-for.md)
 _Context: Afghanistan, Pakistan, Taliban_

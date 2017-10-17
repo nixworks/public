@@ -13,7 +13,7 @@ _Context: $, Clay Mathematics Institute, Louis de Branges de Bourcia, Riemann hy
 _Context: Department of State, Patterns of Global Terrorism, terrorism_
 
 ### [ A polling organization announces that there is broad support in the U.S. state of California for a November ballot measure to limit the effect of the "three strikes" sentencing law. The Field Poll shows the measure, which would impose the 25-years-to-life only if the third felony is a serious or violent crime, is supported by 76% of those asked, opposed by 14 percent. ](/news/2004/06/10/a-polling-organization-announces-that-there-is-broad-support-in-the-u-s-state-of-california-for-a-november-ballot-measure-to-limit-the-eff.md)
-_Context: California, Field Poll, felony, gunmen_
+_Context: California, Field Poll, felons, gunmen_
 
 ### [ Turkey releases four Kurdish prisoners. ](/news/2004/06/10/turkey-releases-four-kurdish-prisoners.md)
 _Context: Kurdish, Turkey, prison_

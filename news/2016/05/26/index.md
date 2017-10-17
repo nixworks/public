@@ -1,7 +1,7 @@
 ## [2016-05-26](/news/2016/05/26/index.md)
 
 ### [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md)
-_Context: Al-Karmah, Fallujah, Iraqi Civil War, Iraqi and allied forces, Operation Breaking Terrorism, Popular Mobilization Forces, Shi'ite_
+_Context: Al-Karmah, Fallujah, Iraqi Civil War, Iraqi government forces, Operation Breaking Terrorism, Popular Mobilization Forces, Shi'ite_
 
 ### [Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. ](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.md)
 _Context: Archaeologists, Aristotle, Stagira_

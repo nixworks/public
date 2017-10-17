@@ -19,7 +19,7 @@ _Context: Almazbek Atambayev, Kyrgyzstan, presidential election_
 _Context: East Africa, Internet, SEACOM underwater cable, broadband_
 
 ### [ Ireland's Dublin Area Rapid Transit (DART) celebrates its twenty-fifth anniversary. ](/news/2009/07/23/ireland-s-dublin-area-rapid-transit-dart-celebrates-its-twenty-fifth-anniversary.md)
-_Context: Dublin Area Rapid Transit, Republic of Ireland_
+_Context: Dublin Area Rapid Transit, Ireland_
 
 ### [ The FBI arrests 30 officials and rabbis in the U.S. state of New Jersey as part of a public corruption and international money laundering probe called Operation Bid Rig. Authorities also search a synagogue and remove several boxes. ](/news/2009/07/23/the-fbi-arrests-30-officials-and-rabbis-in-the-u-s-state-of-new-jersey-as-part-of-a-public-corruption-and-international-money-laundering-p.md)
 Arrests include Assemblyman Daniel Van Pelt, Hoboken Mayor Peter Cammarano, Secaucus Mayor Dennis Elwell and Jersey City Deputy Mayor Leona Beldini

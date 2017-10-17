@@ -13,7 +13,7 @@ _Context: 2004 Atlantic hurricane season, Gonaves, Haiti, Hurricane Jeanne_
 The singer formerly known as Cat Stevens returned to Britain on Thursday, saying he was &#8220;totally shocked&#8221; that he was barred from entering the United States on security grounds.
 
 ### [ Syria begins a "phased redeployment" of its forces in Lebanon (currently estimated at 20,000 troops), moving about 1,000 troops out of bases south of Beirut; it is not clear whether they will be redeployed in Lebanon or Syria. Earlier this month, UN Security Council Resolution 1559, drafted by the United States and France, called for all foreign troops to leave Lebanon. ](/news/2004/09/21/syria-begins-a-phased-redeployment-of-its-forces-in-lebanon-currently-estimated-at-20-000-troops-moving-about-1-000-troops-out-of-base.md)
-_Context: Beirut, Lebanon, Syria, UN Security Council Resolution 1559_
+_Context: Beirut, Lebanese, Syria, UN Security Council Resolution 1559_
 
 ### [ Defying a recent United Nations resolution, Iran announces that it will continue converting 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride, a requirement for producing nuclear power plant fuel, but which some fear might be used to build nuclear weapons. ](/news/2004/09/21/defying-a-recent-united-nations-resolution-iran-announces-that-it-will-continue-converting-37-tons-33-600-kg-of-yellowcake-uranium-into.md)
 _Context: Iran, Iran's nuclear program, United Nations, nuclear power plants, nuclear programme, uranium, uranium hexafluoride, yellowcake_

@@ -10,7 +10,7 @@ _Context: Iraq, United Nations, botulinum, lab, weapons of mass destruction, wea
 _Context: 2003 California recall, Arnold Schwarzenegger, California, Hitler, gubernatorial elections_
 
 ### [ General Wesley Clark suggests that members of the Bush administration may be liable to criminal charges in connection with the Iraq war. Clark alleges that the plans for the 2003 invasion of Iraq, and other interventions in the Middle East (possibly including Lebanon and Syria), pre-dated the inauguration of the President and that the reasons for the war were misleadingly presented to the US people.](/news/2003/10/3/general-wesley-clark-suggests-that-members-of-the-bush-administration-may-be-liable-to-criminal-charges-in-connection-with-the-iraq-war-cl.md)
-_Context: 2003 invasion of Iraq, George W. Bush, Iraq, Lebanon, Middle East, Syria, Wesley Clark_
+_Context: 2003 invasion of Iraq, George W. Bush, Iraq, Lebanese, Middle East, Syria, Wesley Clark_
 
 ### [ Evo Morales said that Gonzalo Sanchez de Lozada, president of Bolivia, may be preparing a coup. (in Spanish)](/news/2003/10/3/evo-morales-said-that-gonzalo-sa-nchez-de-lozada-president-of-bolivia-may-be-preparing-a-coup-in-spanish.md)
 _Context: Bolivia, Evo Morales, Gonzalo Sanchez de Lozada, coup_

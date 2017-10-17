@@ -22,7 +22,7 @@ _Context: Arnold Schwarzenegger, George W. Bush, Tony Blair, U.S. President, car
 _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 
 ### [ The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-54-lebanese-civilians-many-of.md)
-_Context: Israel, Lebanon, UN Security Council, civilians_
+_Context: Israel, Lebanese, UN Security Council, civilians_
 
 ### [ John Howard announces that he intends to stay on as Prime Minister of Australia until the 2007 election which he plans to contest as Leader of the Liberal Party of Australia. ](/news/2006/07/31/john-howard-announces-that-he-intends-to-stay-on-as-prime-minister-of-australia-until-the-2007-election-which-he-plans-to-contest-as-leader.md)
 _Context: Australian Prime Minister, John Howard, Liberal Party_

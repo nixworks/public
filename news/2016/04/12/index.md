@@ -40,7 +40,7 @@ _Context: Enel, Iran, Iran - Italy relations, Italian Prime Minister, Italy, Mat
 Bolivia is looking to Russian defense firms to revamp its aging military arsenal over the next decade.
 
 ### [ Australian "60 Minutes" reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. ](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-her-crew-are-reportedly-facing-kidnapping-charges-in-lebanon-following-a-bungled-child-reco.md)
-_Context: Australian ''60 Minutes'', Lebanon, Tara Brown, kidnapped_
+_Context: Australian ''60 Minutes'', Lebanese, Tara Brown, kidnapped_
 
 ### [ Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-three.md)
 _Context: 2016 Brussels bombings, Belgium, Brussels, November 2015 Paris Attacks_

@@ -4,7 +4,7 @@
 _Context: Airbus A330-301, Antipolo, Rizal, Manila, Ninoy Aquino International Airport, Philippine Airlines Flight 812, Philippines, Real, Quezon, flight attendant, parachute_
 
 ### [Israel withdraws IDF troops from southern Lebanon after 18 years.](/news/2000/05/25/israel-withdraws-idf-troops-from-southern-lebanon-after-18-years.md)
-_Context: Lebanon_
+_Context: Lebanese_
 
 ## [Previous Day...](/news/2000/05/24/index.md)
 

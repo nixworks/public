@@ -7,7 +7,7 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 _Context: Iran, Mina Ahadi, adultery, halt executions_
 
 ### [Lebanese Ayatollah Mohammad Hussein Fadlallah dies suddenly in Beirut. ](/news/2010/07/4/lebanese-ayatollah-mohammad-hussein-fadlallah-dies-suddenly-in-beirut.md)
-_Context: Ayatollah, Beirut, Lebanon, Mohammad Hussein Fadlallah_
+_Context: Ayatollah, Beirut, Lebanese, Mohammad Hussein Fadlallah_
 
 ### [At least 15 people are killed and 48 are injured after the driver of a runaway bus smashes into a concrete wall in the Philippines. ](/news/2010/07/4/at-least-15-people-are-killed-and-48-are-injured-after-the-driver-of-a-runaway-bus-smashes-into-a-concrete-wall-in-the-philippines.md)
 FIFTEEN people have been killed and 48 others injured after the brakes of an overloaded bus failed and it slammed into a concrete fence while careening down a curve in the central Philippines.

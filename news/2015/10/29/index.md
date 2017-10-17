@@ -46,7 +46,7 @@ _Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United St
 _Context: District of Columbia, Lockheed, National Press Club, South Korea, South Korean Defense Minister, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, U.S. military, United States_
 
 ### [The carrier USS "Ronald Reagan", during a military exercise with South Korea in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes, according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin. ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-figh.md)
-_Context:  Russian President, Cold War, F/A-18 Hornet, IHS Jane's Defence Weekly, Russia, South Korea, USS ''Ronald Reagan'', United States Navy, Vladimir Putin, international waters, the sea, warplanes_
+_Context: Cold War, F/A-18 Hornet, IHS Jane's Defence Weekly, Russia, Russian president, South Korea, USS ''Ronald Reagan'', United States Navy, Vladimir Putin, international waters, the sea, warplanes_
 
 ### [China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md)
 China decides to end its decades-long policy of allowing couples to have only one child, increasing the number permitted to two.

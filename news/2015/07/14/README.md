@@ -1,7 +1,7 @@
 ## [2015-07-14](/news/2015/07/14/index.md)
 
 ### [At least 27 people are killed in a stampede at the Godavari Maha Pushkaram Hindu festival in the Indian state of Andhra Pradesh. ](/news/2015/07/14/at-least-27-people-are-killed-in-a-stampede-at-the-godavari-maha-pushkaram-hindu-festival-in-the-indian-state-of-andhra-pradesh.md)
-_Context: Andhra Pradesh, Godavari Maha Pushkaram, Hindu, stampede_
+_Context: Andhra Pradesh, Godavari Maha Pushkaram, Hindu, Human stampede_
 
 ### [A helicopter belonging to the National Iranian Oil Company (NIOC) with four people on board (two crew members, a patient, and a person accompanying the patient) crashes in the Persian Gulf. ](/news/2015/07/14/a-helicopter-belonging-to-the-national-iranian-oil-company-nioc-with-four-people-on-board-two-crew-members-a-patient-and-a-person-accom.md)
 _Context: NIOC, Persian Gulf_

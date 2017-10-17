@@ -4,7 +4,7 @@
 _Context: Canada, Heritage Front, Wolfgang Droege, white supremacist_
 
 ### [ Omar Karami resigns his position as the Prime Minister of Lebanon after he fails to form a government. Without a government to call them, no elections can take place in Lebanon. Elections are due this May. ](/news/2005/04/13/omar-karami-resigns-his-position-as-the-prime-minister-of-lebanon-after-he-fails-to-form-a-government-without-a-government-to-call-them-n.md)
-_Context: Lebanon, Omar Karami, Prime Minister, form of government_
+_Context: Lebanese, Omar Karami, Prime Minister, form of government_
 
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
 _Context: 2007, Bulgaria, EU, European Parliament, Romania_

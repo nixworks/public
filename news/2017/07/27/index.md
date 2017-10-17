@@ -10,7 +10,7 @@ _Context: Chantiers de l'Atlantique, Fincantieri, France, Italian Minister of Ec
 A new study suggest the devices may help smokers stub out the habit.
 
 ### [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md)
-_Context:  Russian President, Permanent Representative of Russia, Russia and the United Nations, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
+_Context: Permanent Representative of Russia, Russia and the United Nations, Russian president, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
 
 ### [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md)
 Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.

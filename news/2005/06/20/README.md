@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Caliph, Cologne, Metin Kaplan, Turkey, mausoleum of Kemal Ataturk, radical Islamists_
 
 ### [ Cedar Revolution: The Anti-Syrian bloc of Saad al-Hariri captured control of the Lebanese Legislature in the Lebanese general election of 2005, winning 72 of the 128 available seats. ](/news/2005/06/20/cedar-revolution-the-anti-syrian-bloc-of-saad-al-hariri-captured-control-of-the-lebanese-legislature-in-the-lebanese-general-election-of-2.md)
-_Context: Cedar Revolution, Lebanese general election of 2005, Lebanon, Legislature, Saad al-Hariri, Syria_
+_Context: Cedar Revolution, Lebanese, Lebanese general election of 2005, Legislature, Saad al-Hariri, Syria_
 
 ### [ A Suicide bomber in Iraq kills 13 policemen, and injured more than 100 people, in the city of Irbil, northern Iraq. ](/news/2005/06/20/a-suicide-bomber-in-iraq-kills-13-policemen-and-injured-more-than-100-people-in-the-city-of-irbil-northern-iraq.md)
 _Context: Iraq, Iraqi Police, Irbil, suicide bomber_

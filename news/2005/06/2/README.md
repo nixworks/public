@@ -7,7 +7,7 @@ _Context: Amazon rainforest, Brazil, illegal logging_
 _Context: False Killer Whale, Western Australia, mass beaching_
 
 ### [ In Lebanon, bomb kills journalist Samir Qasir, who had been critical of Syria ](/news/2005/06/2/in-lebanon-bomb-kills-journalist-samir-qasir-who-had-been-critical-of-syria.md)
-_Context: Lebanon, Samir Qasir, Syria_
+_Context: Lebanese, Samir Qasir, Syria_
 
 ### [ In Niger, 200 protesters march in the capital Niamey to demand that government alleviate the food shortage ](/news/2005/06/2/in-niger-200-protesters-march-in-the-capital-niamey-to-demand-that-government-alleviate-the-food-shortage.md)
 _Context: Niamey, Niger_

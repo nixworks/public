@@ -31,7 +31,7 @@ _Context: Alaska, Exxon Valdez oil spill, Prince William Sound_
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 ### [Foreign journalists in China say their emails have been hacked, as Google pulls out of launching its Android mobile phones. ](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.md)
-_Context: Android devices, Google_
+_Context: Android, Google_
 
 ### [Bulgarian European Commission nominee Rumiana Jeleva steps down as candidate and minister. ](/news/2010/01/19/bulgarian-european-commission-nominee-rumiana-jeleva-steps-down-as-candidate-and-minister.md)
 _Context: Bulgaria, European Commission, Rumiana Jeleva, candidate, minister_

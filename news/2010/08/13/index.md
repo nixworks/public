@@ -52,7 +52,7 @@ President Barack Obama signs into law a bill to increase security along the US-M
 Officials in Sierra Leone ask for the return of diamonds allegedly given by Charles Taylor to supermodel Naomi Campbell.
 
 ### [Lebanon cancels an Iranian made television series about Jesus after complaints from Christian leaders and the public. ](/news/2010/08/13/lebanon-cancels-an-iranian-made-television-series-about-jesus-after-complaints-from-christian-leaders-and-the-public.md)
-_Context: Christian, Iran, Jesus, Lebanon_
+_Context: Christian, Iran, Jesus, Lebanese_
 
 ### [Rosatom, Russia's nuclear energy corporation announces that it will start loading fuel for the Bushehr Nuclear Power Plant Iran's first nuclear power plant from August 21. ](/news/2010/08/13/rosatom-russia-s-nuclear-energy-corporation-announces-that-it-will-start-loading-fuel-for-the-bushehr-nuclear-power-plant-iran-s-first-nucl.md)
 Iran is set to acquire its first civilian nuclear power plant following Russia’s announcement on Friday that atomic fuel will be loaded in the facility from August 21. Sergei Novikov, the spokesman fo

@@ -16,7 +16,7 @@ The disease has infected more than 1,000 people in one of the worst outbreaks fo
 _Context: Francisco Carle Airport, Jauja, Peruvian Airlines Flight 112_
 
 ### [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md)
-_Context: EU, Georgia-European Union relations, Georgian, Republic of Ireland, United Kingdom, member states_
+_Context: EU, Georgia-European Union relations, Georgian, Ireland, United Kingdom, member states_
 
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
 _Context: Article 50 of the Treaty on European Union, EU, European Council, Prime Minister, Theresa May, United Kingdom, signs a letter invoking, the UK leaves the EU_

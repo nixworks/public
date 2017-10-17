@@ -49,7 +49,7 @@ _Context: Andhra Pradesh, Elamanchili, India, Nakapalli, Payakaraopeta, Rambilli
 _Context: Schmalkalden_
 
 ### [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md)
-_Context:  Russian President, Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, rival territorial claims_
+_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian president, rival territorial claims_
 
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
 _Context: Kenya, poachers_

@@ -4,7 +4,7 @@
 By Michael Flaherty and Supantha MukherjeeActivist hedge fund Starboard Value LP moved on Thursday to overthrow the entire board of Yahoo Inc (
 
 ### [Lebanese daily newspaper "As-Safir" ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falling.md)
-_Context: As-Safir, Hezbollah, Lebanon_
+_Context: As-Safir, Hezbollah, Lebanese_
 
 ### [Australian infrastructure and transport minister Darren Chester says in a statement that debris recovered this month in Mozambique was highly likely to be from the missing Malaysia Airlines flight. ](/news/2016/03/24/australian-infrastructure-and-transport-minister-darren-chester-says-in-a-statement-that-debris-recovered-this-month-in-mozambique-was-highl.md)
 _Context: Australia, Darren Chester, Malaysia Airlines, Malaysia Airlines Flight 370, Mozambique_

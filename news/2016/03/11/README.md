@@ -28,7 +28,7 @@ _Context: Kim Jong-un, North Korea, its nuclear weapons program, leader_
 The report alleges that government forces are permitted to rape women in lieu of wages.
 
 ### [The Arab League declares the Lebanon-based Shiite group Hezbollah a terrorist organization. ](/news/2016/03/11/the-arab-league-declares-the-lebanon-based-shiite-group-hezbollah-a-terrorist-organization.md)
-_Context: Arab League, Hezbollah, Lebanon_
+_Context: Arab League, Hezbollah, Lebanese_
 
 ### [The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. ](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.md)
 _Context: Arab League, Ibrahim al-Jaafari, Iraq, Saudi Arabia_

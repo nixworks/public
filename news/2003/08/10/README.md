@@ -19,7 +19,7 @@ _Context: Charles G. Taylor, Liberia, Monrovia, war criminal_
 _Context: BBC, Conservative Party, Dr David Kelly, Iain Duncan Smith, Prime Minister, Tony Blair, Walter Mitty_
 
 ### [ A 16-year-old Israeli was killed and five people were injured in Hezbollah shelling of the northern Israeli town of Shlomi. Israeli planes attacked Hezbollah targets in Lebanon in response. Some sources claim Hezbollah's attack was a response to Israel's car-bomb assassination of Hezbollah member Ali Hussein Saleh in Beirut on August 3 in which two passersby were injured.](/news/2003/08/10/a-16-year-old-israeli-was-killed-and-five-people-were-injured-in-hezbollah-shelling-of-the-northern-israeli-town-of-shlomi-israeli-planes.md)
-_Context: Ali Hussein Saleh, Hezbollah, Israel, Lebanon_
+_Context: Ali Hussein Saleh, Hezbollah, Israel, Lebanese_
 
 ### [ While retired South African Archbishop Desmond Tutu and his successor, Archbishop Njongonkulu Winston Ndungane, fail to see what "all the fuss" is over the ordination of a gay bishop, other African Anglicans suggest that their churches may sever relations with the American dioceses that supported the election of a gay priest as bishop if what they called the "path of deviation" is not changed.](/news/2003/08/10/while-retired-south-african-archbishop-desmond-tutu-and-his-successor-archbishop-njongonkulu-winston-ndungane-fail-to-see-what-all-the-f.md)
 _Context: Desmond Tutu, Njongonkulu Winston Ndungane, gay, schism_
