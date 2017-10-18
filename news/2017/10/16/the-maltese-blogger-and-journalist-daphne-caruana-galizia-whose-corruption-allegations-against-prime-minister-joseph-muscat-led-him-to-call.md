@@ -8,7 +8,7 @@ Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a 
 ### Sources:
 
 1. [Politico.eu](http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/)
-2. [Times of Malta](https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575)
+2. [The Times of Malta](https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575)
 2. [Cover Image](https://cdn-attachments.timesofmalta.com/f582f7af1ad07d40cfb8f9e2613ee40141d63991-1508168969-59e4d509-620x348.jpg)
 
 ### Related:
