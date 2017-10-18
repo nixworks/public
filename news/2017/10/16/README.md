@@ -1,8 +1,5 @@
 ## [2017-10-16](/news/2017/10/16/index.md)
 
-### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
-Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
-
 ### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
 
@@ -20,6 +17,9 @@ Ireland closed schools and hospitals on Monday and warned people to stay indoors
 
 ### [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
+
+### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
+Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
 
 ### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
 And thousands of astronomers found the aftermath of the merger in the sky

@@ -1,7 +1,7 @@
 ## [2017-10-18](/news/2017/10/18/index.md)
 
-### [jimmy Wales is deafeted by little ones degenarating-regenerating the world-Universe with winds-wings of total change:The heavens are no place for any one here;we all go to the soil;We made many surfur on surface before as sinners-blasphemers and jihadists of our fate-faith]] 41.223.141.83 (talk) 09:52, 17 October 2017 (UTC)](/news/2017/10/18/jimmy-wales-is-deafeted-by-little-ones-degenarating-regenerating-the-world-universe-with-winds-wings-of-total-change-the-heavens-are-no-plac.md)
-_Context: 41.223.141.83, degenarating/regenerating, talk, winds/wings, world/Universe_
+### [Party leader and Chinese President Xi Jinping is addressing more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-is-addressing-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-we.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
 
 ## [Previous Day...](/news/2017/10/17/index.md)
 

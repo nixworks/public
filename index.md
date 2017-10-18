@@ -1,16 +1,7 @@
-## [News](/news/2017/10/17/index.md)
+## [News](/news/2017/10/18/index.md)
 
-### [The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
-After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
-
-### [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md)
-_Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
-
-### [The Iraqi Army and allied militias continue to seize Kurdish held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md)
-The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.
-
-### [The chief of Amazon Studios, Roy Price, resigns amid reports that he harassed a producer and ignored an allegation by an actress of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/the-chief-of-amazon-studios-roy-price-resigns-amid-reports-that-he-harassed-a-producer-and-ignored-an-allegation-by-an-actress-of-sexual-a.md)
-_Context: Amazon Studios, Harvey Weinstein, Roy Price, allegation_
+### [Party leader and Chinese President Xi Jinping is addressing more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-is-addressing-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-we.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -18,10 +9,29 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/10/16/index.md)
+## [Yesterday](/news/2017/10/17/index.md)
 
-### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
-Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
+### [The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
+After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
+
+### [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md)
+_Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
+
+### [The Iraqi Army and allied militias continue to seize Kurdish-held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md)
+The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.
+
+### [The chief of Amazon Studios, Roy Price, resigns amid reports that he harassed a producer and ignored an allegation by an actress of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/the-chief-of-amazon-studios-roy-price-resigns-amid-reports-that-he-harassed-a-producer-and-ignored-an-allegation-by-an-actress-of-sexual-a.md)
+_Context: Amazon Studios, Harvey Weinstein, Roy Price, allegation_
+
+### [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md)
+Demonstrators demanding major anti-corruption reforms vow to stay put, setting up tents in Kiev.
+
+### [A federal judge in Hawaii blocks enforcement of the latest version of President Donald Trump's travel ban. ](/news/2017/10/17/a-federal-judge-in-hawaii-blocks-enforcement-of-the-latest-version-of-president-donald-trump-s-travel-ban.md)
+_Context: Donald Trump_
+
+---
+
+## [Day Before Yesterday](/news/2017/10/16/index.md)
 
 ### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
@@ -41,6 +51,9 @@ Ireland closed schools and hospitals on Monday and warned people to stay indoors
 ### [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 
+### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
+Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
+
 ### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
 And thousands of astronomers found the aftermath of the merger in the sky
 
@@ -49,23 +62,7 @@ KRACK attack allows other nasties, including connection hijacking and malicious 
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/15/index.md)
-
-### [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md)
-Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.
-
-### [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md)
-For the first time, an elected president is due to peacefully hand over power.
-
-### [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md)
-Voting is underway in Austria’s parliamentary election. Embattled Chancellor Christian Kern looks set to lose to the Conservative Peoples Party led by 31 year-old
-
-### [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md)
-_Context: Venezuela, Venezuelan regional elections, 2017, socialist party_
-
----
-
-## [Previous Day...](/news/2017/10/14/index.md)
+## [Previous Day...](/news/2017/10/15/index.md)
 
 ---
 
