@@ -1,16 +1,7 @@
-## [News](/news/2017/10/18/index.md)
+## [News](/news/2017/10/19/index.md)
 
-### [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md)
-Brigadier general of the Republican Guard and the commander of operations in Deir al-Zor, Issam
-
-### [A workplace shooting in Edgewood, Maryland kills three people and injures two. The suspect, Radee Labeeb Prince, is at large and believed to have shot another man in Wilmington, Delaware hours later. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-maryland-kills-three-people-and-injures-two-the-suspect-radee-labeeb-prince-is-at-large-and-believed-to.md)
-_Context: Edgewood, Maryland, Wilmington, Delaware_
-
-### [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
-
-### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
-Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
+### [ Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails.md)
+_Context: CEST, Carles Puigdemont, Catalonian President, Catalonian government, GMT, Mariano Rajoy, Spanish Prime Minister, autonomy, secession_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -18,7 +9,26 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/10/17/index.md)
+## [Yesterday](/news/2017/10/18/index.md)
+
+### [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md)
+Brigadier general of the Republican Guard and the commander of operations in Deir al-Zor, Issam
+
+### [A workplace shooting in Edgewood, Maryland, United States, results in the deaths of three people and injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-maryland-united-states-results-in-the-deaths-of-three-people-and-injures-two-the-suspect-radee-labeeb.md)
+_Context: Crime in Maryland, Delaware, Edgewood, Maryland, Newark, United States, Wilmington_
+
+### [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
+
+### [The Quebec National Assembly passes legislation banning Muslim women wearing the veil to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-muslim-women-wearing-the-veil-to-receive-or-give-public-services-including-riding-p.md)
+Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
+
+### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
+Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
+
+---
+
+## [Day Before Yesterday](/news/2017/10/17/index.md)
 
 ### [The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
 After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and the Levant fighters are defeated. 
@@ -40,38 +50,7 @@ _Context: Donald Trump_
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/16/index.md)
-
-### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
-Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
-
-### [Iraqi government forces have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. ](/news/2017/10/16/iraqi-government-forces-have-captured-key-installations-outside-the-disputed-city-of-kirkuk-from-kurdish-fighters.md)
-Iraqi forces move on Kurdish-controlled areas, weeks after the region voted to secede from Iraq.
-
-### [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md)
-Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
-
-### [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md)
-_Context: Damascus, Israeli Air Force, Lebanese, S-200, Spillover of the Syrian Civil War, Syria, reconnaissance_
-
-### [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md)
-Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
-
-### [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md)
-The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
-
-### [The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. ](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-caruana-galizia-whose-corruption-allegations-against-prime-minister-joseph-muscat-led-him-to-call.md)
-Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...
-
-### [Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. ](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gravitational-wave-observatories-detected-for-the-first-time-gravitational-waves-from-the-merger.md)
-And thousands of astronomers found the aftermath of the merger in the sky
-
-### [Researchers discover a vulnerability in the WPA2 protocol, leaving devices running Microsoft Windows, Mac OS, iOS, Android, Linux and OpenBSD operating systems vulnerable to attack over wireless connections. ](/news/2017/10/16/researchers-discover-a-vulnerability-in-the-wpa2-protocol-leaving-devices-running-microsoft-windows-mac-os-ios-android-linux-and-openbs.md)
-KRACK attack allows other nasties, including connection hijacking and malicious injection.
-
----
-
-## [Previous Day...](/news/2017/10/15/index.md)
+## [Previous Day...](/news/2017/10/16/index.md)
 
 ---
 
