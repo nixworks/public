@@ -23,9 +23,6 @@ _Context: Crime in Maryland, Delaware, Edgewood, Maryland, Newark, United States
 ### [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
 
-### [The Quebec National Assembly passes legislation banning Muslim women wearing the veil to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-muslim-women-wearing-the-veil-to-receive-or-give-public-services-including-riding-p.md)
-Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
-
 ### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
 Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
 
