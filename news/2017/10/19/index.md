@@ -1,5 +1,8 @@
 ## [2017-10-19](/news/2017/10/19/index.md)
 
+### [ At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-th.md)
+The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out an army camp in the southern Kandahar province.
+
 ### [ Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails.md)
 _Context: 2017 Spanish constitutional crisis, CEST, Carles Puigdemont, Catalonian President, Catalonian government, GMT, Mariano Rajoy, Spanish Prime Minister, autonomy, secession_
 

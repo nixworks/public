@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/19/index.md)
 
+### [ At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-th.md)
+The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out an army camp in the southern Kandahar province.
+
 ### [ Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails.md)
 _Context: 2017 Spanish constitutional crisis, CEST, Carles Puigdemont, Catalonian President, Catalonian government, GMT, Mariano Rajoy, Spanish Prime Minister, autonomy, secession_
 
@@ -16,6 +19,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md)
 Brigadier general of the Republican Guard and the commander of operations in Deir al-Zor, Issam
+
+### [A 2017 experimental novel "Lincoln in the Bardo" by American writer George Saunders wins the 2017 Man Booker Prize. ](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.md)
+The US author is awarded the £50,000 prize for his first full-length novel, Lincoln in the Bardo.
 
 ### [A workplace shooting in Edgewood, Maryland, United States, results in the deaths of three people and injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-maryland-united-states-results-in-the-deaths-of-three-people-and-injures-two-the-suspect-radee-labeeb.md)
 _Context: Crime in Maryland, Delaware, Edgewood, Maryland, Newark, United States, Wilmington_
