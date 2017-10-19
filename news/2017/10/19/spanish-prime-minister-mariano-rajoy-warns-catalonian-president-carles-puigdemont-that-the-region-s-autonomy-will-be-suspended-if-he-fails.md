@@ -2,13 +2,14 @@
 
 #  Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). 
 
-
+Prime Minister Mariano Rajoy announced he will set in motion the so-called constitutional &quot;nuclear option&quot; on Saturday, which would strip the region of autonomy.
 
 
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-41675105)
-1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/13021/production/_98375877_395bd7be-5b26-4417-8b53-aaf346a7b177.jpg)
+2. [Vox](https://www.vox.com/world/2017/10/19/16502872/spain-catalonia-conflict)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/qeJcvefNR2NXpLwLMNvY2yceziQ=/0x0:5341x2796/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9493495/856129632.jpg)
 
 ### Related:
 

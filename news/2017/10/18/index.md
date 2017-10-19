@@ -9,8 +9,8 @@ The US author is awarded the £50,000 prize for his first full-length novel, Lin
 ### [A workplace shooting in Edgewood, Maryland, United States, results in the deaths of three people and injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-maryland-united-states-results-in-the-deaths-of-three-people-and-injures-two-the-suspect-radee-labeeb.md)
 _Context: Crime in Maryland, Delaware, Edgewood, Maryland, Newark, United States, Wilmington_
 
-### [Party leader and Chinese President Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/party-leader-and-chinese-president-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-next-week.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Chinese President, Xi Jinping_
+### [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, China, General Secretary, Party, Xi Jinping, leader_
 
 ### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
 Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
