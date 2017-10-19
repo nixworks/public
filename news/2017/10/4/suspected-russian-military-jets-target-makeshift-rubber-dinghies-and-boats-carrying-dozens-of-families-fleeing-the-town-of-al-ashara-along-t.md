@@ -5,7 +5,7 @@
 At least 60 civilians were killed trying to flee heavy fighting in Deir Ezzor province, war monitor says
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/rights-group-condemns-attacks-syrian-hospitals-170928072406051.html)
 2. [CNBC](https://www.cnbc.com/2017/10/04/russia-says-is-attacks-in-syria-come-from-location-near-us-forces.html)

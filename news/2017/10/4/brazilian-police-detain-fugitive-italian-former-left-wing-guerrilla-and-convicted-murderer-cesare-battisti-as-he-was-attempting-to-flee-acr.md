@@ -5,7 +5,7 @@
 Brazilian police detained Cesare Battisti, an Italian former left-wing guerrilla convicted of murder in his country, on Wednesday as he was attempting to cross the border into Bolivia, a federal police spokesman said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-brazil-italy-battisti/brazilian-police-detain-italian-fugitive-battisti-idUSKBN1C92QO?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171004&t=2&i=1204165245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED931ST)
