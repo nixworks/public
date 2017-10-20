@@ -3,7 +3,7 @@
 ### [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md)
 Brigadier general of the Republican Guard and the commander of operations in Deir al-Zor, Issam
 
-### [A 2017 experimental novel "Lincoln in the Bardo" by American writer George Saunders wins the 2017 Man Booker Prize. ](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.md)
+### [A 2017 experimental novel, "Lincoln in the Bardo" by American writer George Saunders, wins the 2017 Man Booker Prize. ](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.md)
 The US author is awarded the £50,000 prize for his first full-length novel, Lincoln in the Bardo.
 
 ### [A workplace shooting in Edgewood, United States, kills three and critically injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-united-states-kills-three-and-critically-injures-two-the-suspect-radee-labeeb-prince-flees-to-neighbor.md)

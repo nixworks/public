@@ -1,6 +1,6 @@
 ### [2017-10-20](/news/2017/10/20/index.md)
 
-# The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the de facto capital of ISIL. 
+# The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the "de facto" capital of ISIL. 
 
 
 
@@ -12,7 +12,7 @@
 ### Changes:
 
 1. [The Syrian Democratic Forces announce the "total liberation" of Raqqa, the de facto capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-the-de-facto-capital-of-isil.md) _2017-10-20 16:30:05 (First version)_
-1. [The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the de facto capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-previously-the-de-facto-capital-of-isil.md) _(Current version)_
+1. [The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the "de facto" capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-previously-the-de-facto-capital-of-isil.md) _(Current version)_
 
 ### Related:
 
