@@ -15,6 +15,9 @@ _Context: Damascus, Israeli Air Force, Lebanese, S-200, Spillover of the Syrian 
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.
 
+### [Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. ](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.md)
+At least 31 people are dead in Portugal and three in Spain as dozens of wildfires spread.
+
 ### [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md)
 The decree refers to the resolution adopted on November 30, 2016, as a response to Pyongyang&#039;s missile and nuclear tests
 

@@ -8,9 +8,8 @@ Ireland closed schools and hospitals on Monday and warned people to stay indoors
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-41627442)
-2. [BBC](http://www.bbc.com/news/world-europe-41634125)
-3. [Reuters](http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA)
-3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205643742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9F0F4)
+2. [Reuters](http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205643742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9F0F4)
 
 ### Changes:
 
