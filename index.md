@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/20/index.md)
 
-### [The Syrian Democratic Forces announce the "total liberation" of Raqqa, the de facto capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-the-de-facto-capital-of-isil.md)
+### [The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the de facto capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-previously-the-de-facto-capital-of-isil.md)
 _Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democratic Forces_
 
 ### [Voters in the Czech Republic go to the polls to elect the members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-the-members-of-the-chamber-of-deputies.md)
