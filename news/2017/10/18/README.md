@@ -15,5 +15,8 @@ _Context: 19th National Congress of the Communist Party of China, Beijing, China
 ### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
 Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
 
+### [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md)
+Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
+
 ## [Previous Day...](/news/2017/10/17/index.md)
 
