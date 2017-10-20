@@ -5,7 +5,7 @@
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-vanuatu-volcano/dunkirk-style-evacuation-as-vanuatu-volcano-pollutes-drinking-water-idUSKCN1C6141)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203655688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED900TC)

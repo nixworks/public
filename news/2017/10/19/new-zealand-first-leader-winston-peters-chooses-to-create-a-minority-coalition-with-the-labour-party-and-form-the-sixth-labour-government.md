@@ -1,6 +1,6 @@
 ### [2017-10-19](/news/2017/10/19/index.md)
 
-#  New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. 
+# New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. 
 
 The decision has been made.
 
@@ -14,7 +14,7 @@ The decision has been made.
 ### Changes:
 
 1. [ Winston Peters of New Zealand First chooses to create a coalition with the Labour Party and form the sixth Labour government. ](/news/2017/10/19/winston-peters-of-new-zealand-first-chooses-to-create-a-coalition-with-the-labour-party-and-form-the-sixth-labour-government.md) _2017-10-19 23:30:06 (First version)_
-1. [ New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. ](/news/2017/10/19/new-zealand-first-leader-winston-peters-chooses-to-create-a-minority-coalition-with-the-labour-party-and-form-the-sixth-labour-government.md) _(Current version)_
+1. [New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. ](/news/2017/10/19/new-zealand-first-leader-winston-peters-chooses-to-create-a-minority-coalition-with-the-labour-party-and-form-the-sixth-labour-government.md) _(Current version)_
 
 ### Related:
 

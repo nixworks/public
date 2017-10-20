@@ -5,7 +5,7 @@
 Justin Trudeau congratulates 38-year-old Sikh lawyer on election to lead New Democratic party into 2019 federal election
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/oct/02/canadas-jagmeet-singh-becomes-first-non-white-politician-to-lead-major-party)
 1. [Cover Image](https://i.guim.co.uk/img/media/d3343a0b56e63bf355d785a2e4ede5d0210da017/68_226_3381_2029/master/3381.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5f044b9c8f05437df256afa1349bcfea)

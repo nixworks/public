@@ -5,7 +5,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-monarch-airlines-licence/britains-monarch-airlines-goes-bust-leaving-thousands-stranded-idUSKCN1C70FQ?il=0)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20171002&t=2&i=1203754997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED910G0)

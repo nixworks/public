@@ -5,7 +5,7 @@
 At least 337 people have been injured in clashes as police try to stop Catalonia&#039;s illegal independence poll, authorities say.
 
 
-### Source:
+### Sources:
 
 1. [AP](https://apnews.com/5341651334024917ad52c0cfa96c3cfd/%22Yes%22-side-wins-Catalonia-independence-vote-marred-by-chaos)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-41461032)

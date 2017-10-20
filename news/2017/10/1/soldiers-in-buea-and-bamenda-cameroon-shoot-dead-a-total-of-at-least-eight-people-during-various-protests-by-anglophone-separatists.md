@@ -5,7 +5,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-cameroon-politics/at-least-eight-dead-amid-cameroon-anglophone-protests-idUSKCN1C61R6?il=0)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203694742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED9018G)
