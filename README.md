@@ -35,14 +35,14 @@ The US author is awarded the £50,000 prize for his first full-length novel, Lin
 ### [A workplace shooting in Edgewood, United States, kills three and critically injures two. The suspect, Radee Labeeb Prince, flees to neighboring Delaware, where he allegedly shoots a man in Wilmington hours later, before his capture in Newark. ](/news/2017/10/18/a-workplace-shooting-in-edgewood-united-states-kills-three-and-critically-injures-two-the-suspect-radee-labeeb-prince-flees-to-neighbor.md)
 _Context: Crime in Maryland, Delaware, Edgewood, Newark, United States, Wilmington_
 
+### [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md)
+Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
+
 ### [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, China, General Secretary, Party, Xi Jinping, leader_
 
 ### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
 Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
-
-### [The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. ](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.md)
-Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
 
 ---
 
