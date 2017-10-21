@@ -2,13 +2,13 @@
 
 # At least two people are dead and twelve missing after a landslide on the Malaysian tourist island of Penang. 
 
-Tanjung Bungah (Malaysia) (AFP) - Two workers were found dead and 12 others were missing Saturday after a landslide at a construction site on the popular Malaysian tourist island of Penang, officials said.
+A landslide at a construction site in northern Malaysia on Saturday killed three foreign workers, with rescuers searching for 11 others feared trapped in the mud and rubble, officials said.
 
 
 ### Sources:
 
-1. [AFP via Yahoo! News](https://au.news.yahoo.com/a/37562313/fourteen-feared-dead-in-malaysian-landslide/)
-1. [Cover Image](https://s.yimg.com/iu/api/res/1.2/AsI5v6aN6qsk03aABbF7wQ--~D/cm90YXRlPWF1dG87Zmk9ZmlsbDtweG9mZj0wO3B5b2ZmPTA7YXBwaWQ9eXZpZGVv/https://s.yimg.com/ea/img/-/171021/59eaf2982a540_f6810dbf6bde044a39957752f5685fecdae538f6.jpg)
+1. [CBC.ca](http://www.cbc.ca/news/world/malaysia-landslide-1.4365760)
+1. [Cover Image](https://i.cbc.ca/1.4365761.1508587811!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/malaysia-landslide.jpg)
 
 ### Related:
 
