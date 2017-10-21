@@ -24,7 +24,7 @@ Body found at site in southern Patagonia region where indigenous rights activist
 ### [Iraqi forces complete the takeover of Kirkuk Governorate, which is outside the autonomous zone accorded by the Constitution of Iraq. Grand Ayatollah Ali al-Sistani calls for the state to protect Kurds in northern Iraq. ](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.md)
 Iraqi forces on Friday took control of the last district in the oil-rich province of Kirkuk still in the hands of Kurdish Peshmerga fighters following a three-hour battle, security sources said.
 
-### [The Prime Minister of Spain, Mariano Rajoy, activates the article 155 of the Constitution of Spain. This will make Catalonia under the direct control of the State, removing the regional Government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-the-article-155-of-the-constitution-of-spain-this-will-make-catalonia-under-the-direc.md)
+### [The Prime Minister of Spain, Mariano Rajoy, activates Article 155 of the Constitution of Spain. This will make Catalonia under the direct control of the State, removing the regional Government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-article-155-of-the-constitution-of-spain-this-will-make-catalonia-under-the-direct-co.md)
 Mariano Rajoy, in an unexpectedly forceful move, said Madrid would take control of the independence-minded region, pushing out its separatist administration.
 
 ## Opinion
@@ -41,8 +41,8 @@ _Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democrat
 ### [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md)
 Some 60 people are killed as worshippers are targeted in two separate attacks on mosques.
 
-### [More than fifty members of the Egyptian Armed Forces have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-m.md)
-_Context: Egyptian Armed Forces, Hasm Movement, Insurgency in Egypt (2013-present), Islam_
+### [Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.md)
+_Context: Egyptian Police, Hasm Movement, Insurgency in Egypt (2013-present), Islam_
 
 ### [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md)
 Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.
