@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/21/index.md)
 
+### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the sixth deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-sixth-deadliest-terror-attack-worldwide.md)
+_Context: October 2017 Mogadishu bombings, Somalia, War in Somalia, sixth deadliest terror attack_
+
 ### [A helicopter carrying five people crashes into Kenya's Lake Nakuru. ](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.md)
 NAIROBI, Kenya Oct 21 - A chopper believed to have five people on board crashed into Lake Nakuru moments after take –off from the town. There was no immedi - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
