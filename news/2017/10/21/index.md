@@ -15,5 +15,8 @@ Tanjung Bungah (Malaysia) (AFP) - Two workers were found dead and 12 others were
 ### [Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. ](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.md)
 Body found at site in southern Patagonia region where indigenous rights activist Santiago Maldonado, 28, was last seen
 
+### [Iraqi forces complete the takeover of Kirkuk Governorate, which is outside the autonomous zone accorded by the Constitution of Iraq. Grand Ayatollah Ali al-Sistani calls for the state to protect Kurds in northern Iraq. ](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.md)
+Iraqi forces on Friday took control of the last district in the oil-rich province of Kirkuk still in the hands of Kurdish Peshmerga fighters following a three-hour battle, security sources said.
+
 ## [Previous Day...](/news/2017/10/20/index.md)
 
