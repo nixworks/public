@@ -6,8 +6,8 @@ _Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democrat
 ### [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md)
 Some 60 people are killed as worshippers are targeted in two separate attacks on mosques.
 
-### [More than fifty members of the Egyptian Armed Forces have died with Islamic militants from the Hasm movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-ha.md)
-_Context: Egyptian Armed Forces, Hasm movement, Islam_
+### [More than fifty members of the Egyptian Armed Forces have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/more-than-fifty-members-of-the-egyptian-armed-forces-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-m.md)
+_Context: Egyptian Armed Forces, Hasm Movement, Insurgency in Egypt (2013-present), Islam_
 
 ### [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md)
 Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.
