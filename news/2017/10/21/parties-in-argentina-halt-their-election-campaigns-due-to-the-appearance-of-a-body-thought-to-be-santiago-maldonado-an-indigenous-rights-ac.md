@@ -1,6 +1,6 @@
 ### [2017-10-21](/news/2017/10/21/index.md)
 
-# Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who dissapeared at the beginning of August 2017. 
+# Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. 
 
 Body found at site in southern Patagonia region where indigenous rights activist Santiago Maldonado, 28, was last seen
 
