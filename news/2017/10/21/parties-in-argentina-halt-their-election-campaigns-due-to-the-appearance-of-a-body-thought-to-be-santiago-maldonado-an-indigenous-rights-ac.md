@@ -1,0 +1,19 @@
+### [2017-10-21](/news/2017/10/21/index.md)
+
+# Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who dissapeared at the beginning of August 2017. 
+
+Body found at site in southern Patagonia region where indigenous rights activist Santiago Maldonado, 28, was last seen
+
+
+### Sources:
+
+1. [The Guardian](https://www.theguardian.com/world/2017/oct/18/argentina-body-found-midterm-election-campaign)
+1. [Cover Image](https://i.guim.co.uk/img/media/6acd3e77238d72178484a2d361177ae61da8bf66/0_172_5153_3092/master/5153.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=20234cfccfc1526d58730ff5230b175a)
+
+### Related:
+
+1. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
+2. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
+3. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_
+4. [A 6.2 magnitude earthquake strikes northwest Argentina, near Chilecito in La Rioja Province. No reports of damages or injuries. ](/news/2016/11/13/a-6-2-magnitude-earthquake-strikes-northwest-argentina-near-chilecito-in-la-rioja-province-no-reports-of-damages-or-injuries.md) _Context: Argentina_
+5. [Five people are dead and five are in hospital after taking ecstasy at an Argentine version of the Time Warp Festival featuring electronic music acts. ](/news/2016/04/16/five-people-are-dead-and-five-are-in-hospital-after-taking-ecstasy-at-an-argentine-version-of-the-time-warp-festival-featuring-electronic-mu.md) _Context: Argentina_
