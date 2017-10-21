@@ -6,6 +6,9 @@ _Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democrat
 ### [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md)
 Some 60 people are killed as worshippers are targeted in two separate attacks on mosques.
 
+### [At least two people are dead and twelve missing after a landslide on the Malaysian tourist island of Penang. ](/news/2017/10/20/at-least-two-people-are-dead-and-twelve-missing-after-a-landslide-on-the-malaysian-tourist-island-of-penang.md)
+Tanjung Bungah (Malaysia) (AFP) - Two workers were found dead and 12 others were missing Saturday after a landslide at a construction site on the popular Malaysian tourist island of Penang, officials said.
+
 ### [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md)
 Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.
 
