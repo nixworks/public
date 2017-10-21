@@ -3,6 +3,9 @@
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
 _Context: October 2017 Mogadishu bombings, Somalia, War in Somalia, fifth-deadliest terror attack_
 
+### [On a base in western Niger, gunmen coming from Mali kill 13 gendarmes and injure five. ](/news/2017/10/21/on-a-base-in-western-niger-gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five.md)
+Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes and wounded five more in an attack on their base in western Niger, security sources said on Saturday.
+
 ### [A helicopter carrying five people crashes into Kenya's Lake Nakuru. ](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.md)
 NAIROBI, Kenya Oct 21 - A chopper believed to have five people on board crashed into Lake Nakuru moments after take –off from the town. There was no immedi - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
