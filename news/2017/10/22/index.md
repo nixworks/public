@@ -9,7 +9,7 @@ Slovenian incumbent Borut Pahor is poised to win the first round of a presidenti
 ### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonado's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-recent-confirmation-of-pro-mapuche-a.md)
 Tests confirm body is Santiago Maldonado, an activist missing since a security forces raid in August
 
-### [Lombard autonomy referendum, 2017;Set on the same day, two regions of Italy hold non-binding referendums aimed to decide whether the citizen want greater autonomy or not. ](/news/2017/10/22/lombard-autonomy-referendum-2017-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-the-citizen.md)
+### [Lombard autonomy referendum, 2017;Set on the same day, two regions of Italy hold non-binding referendums aimed to decide whether citizens want greater autonomy or not. ](/news/2017/10/22/lombard-autonomy-referendum-2017-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizens-wa.md)
 Central government says the polls are unnecessary but they are permitted under the constitution.
 
 ## [Previous Day...](/news/2017/10/21/index.md)
