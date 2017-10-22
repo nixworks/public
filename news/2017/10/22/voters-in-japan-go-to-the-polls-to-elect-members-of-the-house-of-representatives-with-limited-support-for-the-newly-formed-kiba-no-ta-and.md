@@ -8,8 +8,7 @@ Millions are voting in the election, which was called by Prime Minister Shinzo A
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-41711369)
-2. [New York Times](https://nyti.ms/2gVN79s)
-2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C5AA/production/_98420605_6bce2622-4f75-4ac2-8199-65399bce1974.jpg)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C5AA/production/_98420605_6bce2622-4f75-4ac2-8199-65399bce1974.jpg)
 
 ### Related:
 
