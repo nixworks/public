@@ -5,7 +5,7 @@
 At least 30 people were killed when two buses collided in a head-on crash in Pakistan. Police said speeding on a dangerous curve seemed to be the cause of the accident in the Rahim Yar Khan district on Monday. Women and children are among the dead and another 69 are thought to be injured. Deadly road accidents are common in Pakistan, mainly because of bad road infrastructure and reckless driving habits. Pakistan&amp;#39;s Prime Minister Nawaz Sharif expressed &quot;deep grief and sorrow over the loss of precious lives&quot;. 
 
 
-### Source:
+### Sources:
 
 1. [ITV News](http://www.itv.com/news/update/2016-10-17/at-least-30-killed-in-head-on-bus-crash-in-pakistan/)
 1. [Cover Image](http://news-assets.sn.itv.com/image/file/1121814/img.jpg)

@@ -1,11 +1,11 @@
 ### [2016-10-17](/news/2016/10/17/index.md)
 
-# Circuit Court Judge Debra Nelson in Seminole County, Florida, sentences Matthew Apperson, convicted by a jury last month of second-degree attempted murder, to 20 years in prison for shooting at George Zimmerman, who had shot and killed unarmed black teenager Trayvon Martin in February 2012. 
+# Circuit Court Judge Debra Nelson in Seminole County, Florida, sentences Matthew Apperson, convicted by a jury last month of second-degree attempted murder, to 20 years in prison for shooting at George Zimmerman, who had shot and killed unarmed Trayvon Martin in February 2012. 
 
 A Florida man was sentenced to 20 years in prison on Monday for shooting at George Zimmerman, who had shot and killed unarmed black teenager Trayvon Martin in 2012 in a case that garnered national attention, prosecutors said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-florida-zimmerman-idUSKBN12H1S2)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157807762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G0Y3)

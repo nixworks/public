@@ -5,7 +5,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-basf-blast-fire-idUSKBN12H12R)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157814556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G18T)

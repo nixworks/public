@@ -5,7 +5,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-37685985)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10942/production/_91960976_2836fc9e-ae9e-4454-a72e-a5b245ae913d.jpg)
