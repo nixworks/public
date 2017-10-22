@@ -17,7 +17,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 
 ### Related:
 
-1. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Insurgency in the Maghreb, Mali, Niger_
+1. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Mali, Niger_
 2. [A Nigerian warplane involved in operations within Mali crashes in Niger, killing two pilots. ](/news/2013/05/7/a-nigerian-warplane-involved-in-operations-within-mali-crashes-in-niger-killing-two-pilots.md) _Context: Mali, Niger_
 3. [Cheaper new meningitis vaccinations reduce cases in Africa, with Burkina Faso, Mali and Niger recording the lowest number of cases. ](/news/2011/06/9/cheaper-new-meningitis-vaccinations-reduce-cases-in-africa-with-burkina-faso-mali-and-niger-recording-the-lowest-number-of-cases.md) _Context: Mali, Niger_
 4. [French authorities seek to make contact with Al-Qaeda in the Islamic Maghreb over the kidnapping of five French nationals and two others in Niger, now believed to have been taken to northern Mali. ](/news/2010/09/23/french-authorities-seek-to-make-contact-with-al-qaeda-in-the-islamic-maghreb-over-the-kidnapping-of-five-french-nationals-and-two-others-in.md) _Context: Mali, Niger_
