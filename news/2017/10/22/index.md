@@ -1,6 +1,6 @@
 ## [2017-10-22](/news/2017/10/22/index.md)
 
-### [A Palestinian man in the occupied West Bank was arrested and questioned for a few hours by Israeli police after Facebook wrongly translated his Arabic-language message saying "good morning" into Modern Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-was-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-wrongly-translated.md)
+### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Modern Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
 The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
 
 ### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
