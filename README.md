@@ -3,10 +3,10 @@
 ### [Voters in Japan go to the polls to elect members of the House of Representatives. With limited support for the newly formed Kibo no To and Constitutional Democratic parties, opinion polls predict that the right-wing Liberal Democratic Party's Shinzo Abe, who called the snap election, will remain Prime Minister. ](/news/2017/10/22/voters-in-japan-go-to-the-polls-to-elect-members-of-the-house-of-representatives-with-limited-support-for-the-newly-formed-kiba-no-ta-and.md)
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
 
-### [Voters in Slovenia go to the polls to elect the President of Slovenia. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the-president-of-slovenia-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will.md)
+### [Voters in Slovenia go to the polls to elect their President. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md)
 Slovenian incumbent Borut Pahor is poised to win the first round of a presidential election, potentially becoming the first in 15 years, by fighting off a candidate who’s vowed to oust the country’s ruling elite.
 
-### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonaldo's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-recent-confirmation-of-pro-mapuche-a.md)
+### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonado's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-recent-confirmation-of-pro-mapuche-a.md)
 Tests confirm body is Santiago Maldonado, an activist missing since a security forces raid in August
 
 ## Opinion
@@ -26,6 +26,9 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 ### [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md)
 _Context: War in Afghanistan (2001-present), suicide bomber_
 
+### [Storm Brian, the third windstorm of the season, causes severe flash flooding in southern Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-southern-ireland-and-coastal-flooding-in-parts-of-england-an.md)
+Gusts of 78mph hit Wales, although the storm has not been as bad as was feared, forecasters say.
+
 ### [A helicopter carrying five people crashes into Kenya's Lake Nakuru. ](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.md)
 NAIROBI, Kenya Oct 21 - A chopper believed to have five people on board crashed into Lake Nakuru moments after take –off from the town. There was no immedi - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
@@ -44,7 +47,7 @@ Body found at site in southern Patagonia region where indigenous rights activist
 ### [Iraqi forces complete the takeover of Kirkuk Governorate, which is outside the autonomous zone accorded by the Constitution of Iraq. Grand Ayatollah Ali al-Sistani calls for the state to protect Kurds in northern Iraq. ](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.md)
 Iraqi forces on Friday took control of the last district in the oil-rich province of Kirkuk still in the hands of Kurdish Peshmerga fighters following a three-hour battle, security sources said.
 
-### [The Prime Minister of Spain, Mariano Rajoy, activates Article 155 of the Constitution of Spain. This will make Catalonia under the direct control of the State, removing the regional Government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-article-155-of-the-constitution-of-spain-this-will-make-catalonia-under-the-direct-co.md)
+### [The Prime Minister of Spain, Mariano Rajoy, activates Article 155 of the Constitution of Spain. This will put Catalonia under the direct control of the central government, removing the regional government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-article-155-of-the-constitution-of-spain-this-will-put-catalonia-under-the-direct-con.md)
 Mariano Rajoy, in an unexpectedly forceful move, said Madrid would take control of the independence-minded region, pushing out its separatist administration.
 
 ---

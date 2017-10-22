@@ -1,6 +1,6 @@
 ### [2017-10-22](/news/2017/10/22/index.md)
 
-# Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonaldo's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. 
+# Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonado's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. 
 
 Tests confirm body is Santiago Maldonado, an activist missing since a security forces raid in August
 
