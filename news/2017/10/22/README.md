@@ -1,0 +1,13 @@
+## [2017-10-22](/news/2017/10/22/index.md)
+
+### [Voters in Japan go to the polls to elect members of the House of Representatives. With limited support for the newly formed Kibo no To and Constitutional Democratic parties, opinion polls predict that the right-wing Liberal Democratic Party's Shinzo Abe, who called the snap election, will remain Prime Minister. ](/news/2017/10/22/voters-in-japan-go-to-the-polls-to-elect-members-of-the-house-of-representatives-with-limited-support-for-the-newly-formed-kiba-no-ta-and.md)
+Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
+
+### [Voters in Slovenia go to the polls to elect the President of Slovenia. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the-president-of-slovenia-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will.md)
+Slovenian incumbent Borut Pahor is poised to win the first round of a presidential election, potentially becoming the first in 15 years, by fighting off a candidate who’s vowed to oust the country’s ruling elite.
+
+### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonaldo's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-recent-confirmation-of-pro-mapuche-a.md)
+Tests confirm body is Santiago Maldonado, an activist missing since a security forces raid in August
+
+## [Previous Day...](/news/2017/10/21/index.md)
+

@@ -18,6 +18,9 @@ A landslide at a construction site in northern Malaysia on Saturday killed three
 ### [The death toll from an outbreak of plague in Madagascar nears 100. So far, there have been 911 cases recorded. ](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.md)
 The Red Cross warns that the growing stigma attached to the plague in Madagascar could undermine efforts to contain the outbreak, which has caused the deaths of close to 100 people.
 
+### [The ANO movement of billionaire Andrej Babis wins a sizeable plurality of seats in the Chamber of Deputies, but falls short of a majority. ](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.md)
+Andrej Babis, the billionaire leader of an anti-establishment party, is expected to become prime minister of the Czech Republic after mainstream parties fall short.
+
 ### [Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. ](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.md)
 Body found at site in southern Patagonia region where indigenous rights activist Santiago Maldonado, 28, was last seen
 

@@ -1,4 +1,21 @@
-## [News](/news/2017/10/21/index.md)
+## [News](/news/2017/10/22/index.md)
+
+### [Voters in Japan go to the polls to elect members of the House of Representatives. With limited support for the newly formed Kibo no To and Constitutional Democratic parties, opinion polls predict that the right-wing Liberal Democratic Party's Shinzo Abe, who called the snap election, will remain Prime Minister. ](/news/2017/10/22/voters-in-japan-go-to-the-polls-to-elect-members-of-the-house-of-representatives-with-limited-support-for-the-newly-formed-kiba-no-ta-and.md)
+Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
+
+### [Voters in Slovenia go to the polls to elect the President of Slovenia. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the-president-of-slovenia-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will.md)
+Slovenian incumbent Borut Pahor is poised to win the first round of a presidential election, potentially becoming the first in 15 years, by fighting off a candidate who’s vowed to oust the country’s ruling elite.
+
+### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. Recent confirmation of pro-Mapuche activist Santiago Maldonaldo's death is thought to weaken the presidentially incumbent Cambiemos party's chances, and strengthen the political return of the Front for Victory's former President Cristina Fernandez de Kirchner. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-recent-confirmation-of-pro-mapuche-a.md)
+Tests confirm body is Santiago Maldonado, an activist missing since a security forces raid in August
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/21/index.md)
 
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
 _Context: October 2017 Mogadishu bombings, Somalia, War in Somalia, fifth-deadliest terror attack_
@@ -18,6 +35,9 @@ A landslide at a construction site in northern Malaysia on Saturday killed three
 ### [The death toll from an outbreak of plague in Madagascar nears 100. So far, there have been 911 cases recorded. ](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.md)
 The Red Cross warns that the growing stigma attached to the plague in Madagascar could undermine efforts to contain the outbreak, which has caused the deaths of close to 100 people.
 
+### [The ANO movement of billionaire Andrej Babis wins a sizeable plurality of seats in the Chamber of Deputies, but falls short of a majority. ](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.md)
+Andrej Babis, the billionaire leader of an anti-establishment party, is expected to become prime minister of the Czech Republic after mainstream parties fall short.
+
 ### [Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. ](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.md)
 Body found at site in southern Patagonia region where indigenous rights activist Santiago Maldonado, 28, was last seen
 
@@ -27,13 +47,9 @@ Iraqi forces on Friday took control of the last district in the oil-rich provinc
 ### [The Prime Minister of Spain, Mariano Rajoy, activates Article 155 of the Constitution of Spain. This will make Catalonia under the direct control of the State, removing the regional Government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-article-155-of-the-constitution-of-spain-this-will-make-catalonia-under-the-direct-co.md)
 Mariano Rajoy, in an unexpectedly forceful move, said Madrid would take control of the independence-minded region, pushing out its separatist administration.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/20/index.md)
+## [Day Before Yesterday](/news/2017/10/20/index.md)
 
 ### [The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the "de facto" capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-previously-the-de-facto-capital-of-isil.md)
 _Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democratic Forces_
@@ -48,36 +64,14 @@ _Context: Egyptian Police, Hasm Movement, Insurgency in Egypt (2013-present), Is
 Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.
 
 ### [Voters in the Czech Republic go to the polls to elect new members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-new-members-of-the-chamber-of-deputies.md)
-_Context: Chamber of Deputies, Czech Republic, Czech legislative election_
+_Context: Chamber of Deputies, Czech Republic, Czech legislative election, 2017_
 
 ### [The European Union heads of state prepare to start negotiations on a future UK-EU trade agreement in December, depending on progress with the financial "exit bill" negotiations by then. ](/news/2017/10/20/the-european-union-heads-of-state-prepare-to-start-negotiations-on-a-future-ukaeu-trade-agreement-in-december-depending-on-progress-with.md)
 British Prime Minister Theresa May won a modest reprieve in stalled Brexit talks on Friday, with European Union leaders signaling their readiness to move the negotiations forward in the coming months.
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/19/index.md)
-
-### [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md)
-The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out an army camp in the southern Kandahar province.
-
-### [The United States Africa Command sends a team to Niger to investigate an October 4 ambush which killed four U.S. soldiers. ](/news/2017/10/19/the-united-states-africa-command-sends-a-team-to-niger-to-investigate-an-october-4-ambush-which-killed-four-u-s-soldiers.md)
-Defense officials are careful not to call the inquiry an investigation, but admit they simply don’t know what happened Oct. 4 when four U.S. soldiers died.
-
-### [Two people are arrested and five people suffer minor injuries at the University of Florida during protests of Richard B. Spencer's speech at an event there. ](/news/2017/10/19/two-people-are-arrested-and-five-people-suffer-minor-injuries-at-the-university-of-florida-during-protests-of-richard-b-spencer-s-speech-at.md)
-The event comes after his planned Charlottesville rally led to violence.
-
-### [Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails-t.md)
-Prime Minister Mariano Rajoy announced he will set in motion the so-called constitutional &quot;nuclear option&quot; on Saturday, which would strip the region of autonomy.
-
-### [New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. ](/news/2017/10/19/new-zealand-first-leader-winston-peters-chooses-to-create-a-minority-coalition-with-the-labour-party-and-form-the-sixth-labour-government.md)
-The decision has been made.
-
-### [Scientists studying flying insects in nature reserves and protected areas of western Germany report a decline of more than 75% of the population in about three decades. ](/news/2017/10/19/scientists-studying-flying-insects-in-nature-reserves-and-protected-areas-of-western-germany-report-a-decline-of-more-than-75-of-the-popula.md)
-In western Germany, populations of flying insects have fallen by around 80 percent in the last three decades.
-
----
-
-## [Previous Day...](/news/2017/10/18/index.md)
+## [Previous Day...](/news/2017/10/19/index.md)
 
 ---
 
