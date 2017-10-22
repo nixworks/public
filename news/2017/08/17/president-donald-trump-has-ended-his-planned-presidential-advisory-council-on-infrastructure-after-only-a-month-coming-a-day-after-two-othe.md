@@ -5,11 +5,17 @@
 President Donald Trump will not move forward with a planned Advisory Council on Infrastructure, a person familiar with the matter said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-08-17/trump-is-said-to-abandon-plan-for-council-on-infrastructure)
 2. [CNN](https://www.cnn.com/2017/08/17/politics/trump-ends-council-on-infrastructure/index.html)
 2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSDBaTNHyzUE/v0/1200x787.jpg)
+
+### Changes:
+
+1. [Pesident Donald Trump has ended plans for an Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils were scrapped. No reason was given. ](/news/2017/08/17/pesident-donald-trump-has-ended-plans-for-an-advisory-council-on-infrastructure-after-only-a-month-coming-a-day-after-two-other-advisory-co.md) _2017-08-18 10:30:04 (First version)_
+2. [Presidency of Donald Trump: President Donald Trump has ended his planned Presidential Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils, the Strategic and Policy Forum and the American Manufacturing Council, were scrapped. No reason was given. ](/news/2017/08/17/presidency-of-donald-trump-president-donald-trump-has-ended-his-planned-presidential-advisory-council-on-infrastructure-after-only-a-month.md) _2017-08-27 03:48:49 (Update)_
+2. [President Donald Trump has ended his planned Presidential Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils, the Strategic and Policy Forum and the American Manufacturing Council, were scrapped. No reason was given. ](/news/2017/08/17/president-donald-trump-has-ended-his-planned-presidential-advisory-council-on-infrastructure-after-only-a-month-coming-a-day-after-two-othe.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +24,3 @@ President Donald Trump will not move forward with a planned Advisory Council on 
 3. [United States President Donald Trump announces that he intends to seek an investigation into possible voter fraud from last year's election. ](/news/2017/01/25/united-states-president-donald-trump-announces-that-he-intends-to-seek-an-investigation-into-possible-voter-fraud-from-last-year-s-election.md) _Context: Donald Trump, Trump administration, U.S. President_
 4. [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md) _Context: Donald Trump, Trump administration, U.S. President_
 5. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Donald Trump, U.S. President_
-
-### Changes:
-
-1. [Pesident Donald Trump has ended plans for an Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils were scrapped. No reason was given. ](/news/2017/08/17/pesident-donald-trump-has-ended-plans-for-an-advisory-council-on-infrastructure-after-only-a-month-coming-a-day-after-two-other-advisory-co.md) _2017-08-18 10:30:04 (First version)_
-2. [Presidency of Donald Trump: President Donald Trump has ended his planned Presidential Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils, the Strategic and Policy Forum and the American Manufacturing Council, were scrapped. No reason was given. ](/news/2017/08/17/presidency-of-donald-trump-president-donald-trump-has-ended-his-planned-presidential-advisory-council-on-infrastructure-after-only-a-month.md) _2017-08-27 03:48:49 (Update)_
-2. [President Donald Trump has ended his planned Presidential Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils, the Strategic and Policy Forum and the American Manufacturing Council, were scrapped. No reason was given. ](/news/2017/08/17/president-donald-trump-has-ended-his-planned-presidential-advisory-council-on-infrastructure-after-only-a-month-coming-a-day-after-two-othe.md) _(Current version)_

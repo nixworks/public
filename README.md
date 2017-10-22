@@ -1,5 +1,8 @@
 ## [News](/news/2017/10/22/index.md)
 
+### [A Palestinian man in the occupied West Bank was arrested and questioned for a few hours by Israeli police after Facebook wrongly translated his Arabic-language message saying "good morning" into the Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-was-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-wrongly-translated.md)
+The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
+
 ### [Voters in Japan go to the polls to elect members of the House of Representatives. With limited support for the newly formed Kibo no To and Constitutional Democratic parties, opinion polls predict that the right-wing Liberal Democratic Party's Shinzo Abe, who called the snap election, will remain Prime Minister. ](/news/2017/10/22/voters-in-japan-go-to-the-polls-to-elect-members-of-the-house-of-representatives-with-limited-support-for-the-newly-formed-kiba-no-ta-and.md)
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
 

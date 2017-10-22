@@ -30,7 +30,7 @@ President Donald Trump will not move forward with a planned Advisory Council on 
 ### [Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist website "The Daily Stormer", after The "Daily Stormer" claimed that the company supported their cause. "The Daily Stormer" website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-website-the-daily-stormer-after-the-daily-stormer-claim.md)
 Cloudflare said claims that it secretly supported The Daily Stormer site were the last straw.
 
-### [A gravitational wave signal called GW170817 is observed by the LIGO-Virgo-collaboration. A Neutron star collision triggered the gravitational waves which "also created heavy elements such as gold, platinum and lead. ](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-observed-by-the-ligo-virgo-collaboration-a-neutron-star-collision-triggered-the-gravitationa.md)
+### [A gravitational wave signal called GW170817 is observed by the LIGO-Virgo-collaboration. A Neutron star collision triggered the gravitational waves which "also created heavy elements such as gold, platinum and lead". ](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-observed-by-the-ligo-virgo-collaboration-a-neutron-star-collision-triggered-the-gravitationa.md)
 _Context: GW170817, LIGO, Neutron star, VIRGO, gravitational wave_
 
 ## [Previous Day...](/news/2017/08/16/index.md)
