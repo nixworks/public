@@ -48,7 +48,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 ### [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md)
 _Context: War in Afghanistan (2001-present), suicide bomber_
 
-### [Storm Brian, the third windstorm of the season, causes severe flash flooding in southern Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-southern-ireland-and-coastal-flooding-in-parts-of-england-an.md)
+### [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md)
 Gusts of 78mph hit Wales, although the storm has not been as bad as was feared, forecasters say.
 
 ### [A helicopter carrying five people crashes into Kenya's Lake Nakuru. ](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.md)
