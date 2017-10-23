@@ -1,6 +1,6 @@
 ### [2017-10-22](/news/2017/10/22/index.md)
 
-# A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire in the United Kingdom. 
+# A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire, in the United Kingdom. 
 
 A retail park in Nuneaton was in lockdown for more than four hours while a gunman held two male members of staff hostage.
 

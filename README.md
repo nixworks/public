@@ -1,9 +1,23 @@
-## [News](/news/2017/10/22/index.md)
+## [News](/news/2017/10/23/index.md)
+
+### [Typhoon Lan makes landfall in the Shizuoka Prefecture of Japan, causing at least two deaths and 10 injuries. ](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.md)
+A powerful typhoon ripped into central Japan early Monday, leaving 2 dead and more than 10 injured, hours after millions struggled to the polls for a national election.&nbsp; 
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/22/index.md)
+
+### [A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. ](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.md)
+A suicide bomber killed 13 other people in the northeast Nigerian city of Maiduguri on Sunday, a police official said, the deadliest attack in over a month as the conflict with Boko Haram stretches into its ninth year.
 
 ### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Modern Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
 The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
 
-### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
+### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire, in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
 A retail park in Nuneaton was in lockdown for more than four hours while a gunman held two male members of staff hostage.
 
 ### [Shinzo Abe is reelected Prime Minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds "super majority" in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-asuper-maj.md)
@@ -18,13 +32,9 @@ Tests confirm body is Santiago Maldonado, an activist missing since a security f
 ### [Lombard autonomy referendum, 2017 and Set on the same day, two regions of Italy hold non-binding referendums aimed to decide whether citizens want greater autonomy or not. ](/news/2017/10/22/lombard-autonomy-referendum-2017-and-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizen.md)
 Central government says the polls are unnecessary but they are permitted under the constitution.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/21/index.md)
+## [Day Before Yesterday](/news/2017/10/21/index.md)
 
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
 _Context: October 2017 Mogadishu bombings, Somalia, War in Somalia, fifth-deadliest terror attack_
@@ -61,29 +71,7 @@ Mariano Rajoy, in an unexpectedly forceful move, said Madrid would take control 
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/20/index.md)
-
-### [The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the "de facto" capital of ISIL. ](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total-liberation-of-raqqa-previously-the-de-facto-capital-of-isil.md)
-_Context: Battle of Raqqa (2017), ISIL, Raqqa, Syrian Civil War, Syrian Democratic Forces_
-
-### [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md)
-Some 60 people are killed as worshippers are targeted in two separate attacks on mosques.
-
-### [Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. ](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.md)
-_Context: Egyptian Police, Hasm Movement, Insurgency in Egypt (2013-present), Islam_
-
-### [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md)
-Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.
-
-### [Voters in the Czech Republic go to the polls to elect new members of the Chamber of Deputies. ](/news/2017/10/20/voters-in-the-czech-republic-go-to-the-polls-to-elect-new-members-of-the-chamber-of-deputies.md)
-_Context: Chamber of Deputies, Czech Republic, Czech legislative election, 2017_
-
-### [The European Union heads of state prepare to start negotiations on a future UK-EU trade agreement in December, depending on progress with the financial "exit bill" negotiations by then. ](/news/2017/10/20/the-european-union-heads-of-state-prepare-to-start-negotiations-on-a-future-ukaeu-trade-agreement-in-december-depending-on-progress-with.md)
-British Prime Minister Theresa May won a modest reprieve in stalled Brexit talks on Friday, with European Union leaders signaling their readiness to move the negotiations forward in the coming months.
-
----
-
-## [Previous Day...](/news/2017/10/19/index.md)
+## [Previous Day...](/news/2017/10/20/index.md)
 
 ---
 
