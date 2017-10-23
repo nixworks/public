@@ -6,7 +6,7 @@ The builder&#039;s morning took a turn for the worse after his Arabic post was w
 ### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
 A retail park in Nuneaton was in lockdown for more than four hours while a gunman held two male members of staff hostage.
 
-### [Voters in Japan go to the polls to elect members of the House of Representatives. With limited support for the newly formed Kibo no To and Constitutional Democratic parties, opinion polls predict that the right-wing Liberal Democratic Party's Shinzo Abe, who called the snap election, will remain Prime Minister. ](/news/2017/10/22/voters-in-japan-go-to-the-polls-to-elect-members-of-the-house-of-representatives-with-limited-support-for-the-newly-formed-kiba-no-ta-and.md)
+### [Shinzo Abe is reelected Prime Minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds "super majority" in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-asuper-maj.md)
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
 
 ### [Voters in Slovenia go to the polls to elect their President. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by actor Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md)
