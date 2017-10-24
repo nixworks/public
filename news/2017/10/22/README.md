@@ -3,13 +3,13 @@
 ### [A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. ](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.md)
 A suicide bomber killed 13 other people in the northeast Nigerian city of Maiduguri on Sunday, a police official said, the deadliest attack in over a month as the conflict with Boko Haram stretches into its ninth year.
 
-### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Modern Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
+### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
 The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
 
 ### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire, in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
 A retail park in Nuneaton was in lockdown for more than four hours while a gunman held two male members of staff hostage.
 
-### [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds "super majority" in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-asuper-maj.md)
+### [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajorit.md)
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
 
 ### [Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md)
