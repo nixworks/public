@@ -13,7 +13,7 @@ _Context: Crime in Maryland, Delaware, Edgewood, Newark, United States, Wilmingt
 Law requires individuals to uncover their faces when receiving public services, including riding public buses. 
 
 ### [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, China, General Secretary, Party, Xi Jinping, leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, China, Communist Party, General Secretary, Xi Jinping, leader_
 
 ### [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md)
 Ukrainian riot police clash with Maidan-style protesters at camp in Kiev, tear gas reportedly deployed. 
