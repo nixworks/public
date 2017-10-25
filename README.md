@@ -6,6 +6,9 @@ After more than 70 years, Filipino veterans who fought side by side with the Ame
 ### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
 Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
 
+### [One man was killed and three other people were injured in an explosion in Kiev. Ukrainian MP Igor Mosiychuk was reportedly among the injured. ](/news/2017/10/25/one-man-was-killed-and-three-other-people-were-injured-in-an-explosion-in-kiev-ukrainian-mp-igor-mosiychuk-was-reportedly-among-the-injured.md)
+One man was killed and four others injured in a blast in central Kiev, according to Ukraine&#039;s Interior Ministry. An MP and his driver are among the victims of the explosion, which is being treated by investigators as an “act of terrorism.”
+
 ### [The discovery of a comet with a record high eccentricity, C-2017 U1 (PANSTARRS), is announced. It may be the first known example of an interstellar comet. ](/news/2017/10/25/the-discovery-of-a-comet-with-a-record-high-eccentricity-c-2017-u1-panstarrs-is-announced-it-may-be-the-first-known-example-of-an-inter.md)
 _Context: C/2017 U1 (PANSTARRS), interstellar comet_
 
