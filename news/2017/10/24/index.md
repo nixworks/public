@@ -9,6 +9,9 @@ _Context: Banking in the United States, Mike Pence, Vice President_
 ### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
 Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
 
+### [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks in Russia, Ukraine, and has been detected throughout the world. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-in-russia-ukraine.md)
+Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
+
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, leader_
 
