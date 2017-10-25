@@ -1,13 +1,7 @@
-## [News](/news/2017/10/24/index.md)
+## [News](/news/2017/10/25/index.md)
 
-### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
-_Context: EBA regulator, EU, European Commission, United States, Volcker Rule, too big to fail, trading activities_
-
-### [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to increase his grip on power, which may elevate him to the level of party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-increase-his-grip-on-power-whic.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, China's President, Communist Party, Mao Zedong, Xi Jinping_
-
-### [United States Senator Jeff Flake announces that he will not run again in 2018. ](/news/2017/10/24/united-states-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md)
-The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
+### [A comet with a record high velocity, C-2017 U1 (PANSTARRS), is announced. It may be the first known example of an interstellar comet. ](/news/2017/10/25/a-comet-with-a-record-high-velocity-c-2017-u1-panstarrs-is-announced-it-may-be-the-first-known-example-of-an-interstellar-comet.md)
+_Context: C/2017 U1 (PANSTARRS), interstellar comet_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -15,7 +9,26 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/10/23/index.md)
+## [Yesterday](/news/2017/10/24/index.md)
+
+### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
+_Context: EBA regulator, EU, European Commission, United States, Volcker Rule, too big to fail, trading activities_
+
+### [Vice President Mike Pence casts the tie-breaking vote late against repealing a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-against-repealing-a-rule-that-would-have-made-it-easier-for-americans-to-sue-thei.md)
+_Context: Banking in the United States, Mike Pence, Vice President_
+
+### [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to become its most influential leader since party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-become-its-most-influential-lead.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, China's President, Communist Party, Mao Zedong, Xi Jinping_
+
+### [Republican Senator Jeff Flake, a vocal critic of the Trump administration, announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-a-vocal-critic-of-the-trump-administration-announces-that-he-will-not-run-again-in-2018.md)
+The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
+
+### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Uranium One to purchase Rosatom. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ur.md)
+Intelligence Committee chairman who stepped aside from Russia probe to examine Obama-era uranium deal
+
+---
+
+## [Day Before Yesterday](/news/2017/10/23/index.md)
 
 ### [The Philippines Armed Forces declares an end to military operations in the southern city of Marawi after 5 months of fighting. ](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.md)
 _Context: Battle of Marawi, Marawi, Philippines Armed Forces_
@@ -28,32 +41,7 @@ A powerful typhoon ripped into central Japan early Monday, leaving 2 dead and mo
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/22/index.md)
-
-### [A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. ](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.md)
-A suicide bomber killed 13 other people in the northeast Nigerian city of Maiduguri on Sunday, a police official said, the deadliest attack in over a month as the conflict with Boko Haram stretches into its ninth year.
-
-### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
-The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
-
-### [A gunman holds two staff members hostage at a bowling alley in Nuneaton, Warwickshire, in the United Kingdom. ](/news/2017/10/22/a-gunman-holds-two-staff-members-hostage-at-a-bowling-alley-in-nuneaton-warwickshire-in-the-united-kingdom.md)
-A retail park in Nuneaton was in lockdown for more than four hours while a gunman held two male members of staff hostage.
-
-### [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajorit.md)
-Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
-
-### [Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md)
-Slovenian incumbent Borut Pahor is poised to win the first round of a presidential election, potentially becoming the first in 15 years, by fighting off a candidate who’s vowed to oust the country’s ruling elite.
-
-### [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.md)
-President Mauricio Macri&rsquo;s governing coalition won strong support in early results from Sunday&rsquo;s congressional elections and appeared headed to its first legislative majority since he took office in 2015.
-
-### [Lombard autonomy referendum, 2017 and Set on the same day, two regions of Italy hold non-binding referendums aimed to decide whether citizens want greater autonomy or not. ](/news/2017/10/22/lombard-autonomy-referendum-2017-and-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizen.md)
-Central government says the polls are unnecessary but they are permitted under the constitution.
-
----
-
-## [Previous Day...](/news/2017/10/21/index.md)
+## [Previous Day...](/news/2017/10/22/index.md)
 
 ---
 
