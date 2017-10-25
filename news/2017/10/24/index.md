@@ -3,7 +3,7 @@
 ### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
 _Context: EBA regulator, EU, Economy of the European Union, European Commission, United States, Volcker Rule, too big to fail, trading activities_
 
-### [Vice President Mike Pence casts the tie-breaking vote late against repealing a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-against-repealing-a-rule-that-would-have-made-it-easier-for-americans-to-sue-thei.md)
+### [Vice President Mike Pence casts the tie-breaking vote late Tuesday night to repeal a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.md)
 _Context: Banking in the United States, Mike Pence, Vice President_
 
 ### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
