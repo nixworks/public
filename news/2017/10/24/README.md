@@ -6,6 +6,9 @@ _Context: EBA regulator, EU, European Commission, United States, Volcker Rule, t
 ### [Vice President Mike Pence casts the tie-breaking vote late against repealing a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-against-repealing-a-rule-that-would-have-made-it-easier-for-americans-to-sue-thei.md)
 _Context: Banking in the United States, Mike Pence, Vice President_
 
+### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
+Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
+
 ### [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to become its most influential leader since party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-become-its-most-influential-lead.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, China's President, Communist Party, Mao Zedong, Xi Jinping_
 
