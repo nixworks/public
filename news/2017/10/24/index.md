@@ -9,8 +9,8 @@ _Context: Banking in the United States, Mike Pence, Vice President_
 ### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
 Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
 
-### [The week-long Communist Party congress in Beijing draws to an end, with China's President Xi Jinping set to become its most influential leader since party founder Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-china-s-president-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, China's President, Communist Party, Mao Zedong, Xi Jinping_
+### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
+_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, leader_
 
 ### [Republican Senator Jeff Flake, a vocal critic of the Trump administration, announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-a-vocal-critic-of-the-trump-administration-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
