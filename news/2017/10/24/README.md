@@ -15,7 +15,7 @@ _Context: 19th National Congress of the Communist Party of China, Beijing, China
 ### [Republican Senator Jeff Flake, a vocal critic of the Trump administration, announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-a-vocal-critic-of-the-trump-administration-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
 
-### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Uranium One to purchase Rosatom. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ur.md)
+### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Uranium One. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.md)
 Intelligence Committee chairman who stepped aside from Russia probe to examine Obama-era uranium deal
 
 ## [Previous Day...](/news/2017/10/23/index.md)
