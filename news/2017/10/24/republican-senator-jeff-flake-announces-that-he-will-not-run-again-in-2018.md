@@ -1,6 +1,6 @@
 ### [2017-10-24](/news/2017/10/24/index.md)
 
-# Republican Senator Jeff Flake, announces that he will not run again in 2018. 
+# Republican Senator Jeff Flake announces that he will not run again in 2018. 
 
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
 
@@ -14,7 +14,7 @@ The Arizona lawmaker was one of the most vulnerable Republican senators up for r
 
 1. [United States Senator Jeff Flake announces that he will not run again in 2018. ](/news/2017/10/24/united-states-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md) _2017-10-25 00:30:05 (First version)_
 2. [Republican Senator Jeff Flake, a vocal critic of the Trump administration, announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-a-vocal-critic-of-the-trump-administration-announces-that-he-will-not-run-again-in-2018.md) _2017-10-25 13:30:05 (Update)_
-2. [Republican Senator Jeff Flake, announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md) _(Current version)_
+2. [Republican Senator Jeff Flake announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md) _(Current version)_
 
 ### Related:
 
