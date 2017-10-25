@@ -12,7 +12,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, leader_
 
-### [Republican Senator Jeff Flake announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md)
+### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
 
 ### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Uranium One. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.md)

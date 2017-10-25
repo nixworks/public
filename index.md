@@ -3,7 +3,7 @@
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
 
-### [Crown Prince Mohammed bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammed-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
+### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
 Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
 
 ### [The discovery of a comet with a record high eccentricity, C-2017 U1 (PANSTARRS), is announced. It may be the first known example of an interstellar comet. ](/news/2017/10/25/the-discovery-of-a-comet-with-a-record-high-eccentricity-c-2017-u1-panstarrs-is-announced-it-may-be-the-first-known-example-of-an-inter.md)
@@ -29,7 +29,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
 _Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, leader_
 
-### [Republican Senator Jeff Flake announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-announces-that-he-will-not-run-again-in-2018.md)
+### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
 
 ### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Uranium One. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.md)
