@@ -15,5 +15,8 @@ An accident between a train and an off-road military lorry in the southern coast
 ### [At least two Catalan officials defect from the ruling Junts pel S party as Catalan president Carles Puigdemont cancels a speech regarding snap elections. Puigdemont plans to draw back from declaring independence from Spain. ](/news/2017/10/26/at-least-two-catalan-officials-defect-from-the-ruling-junts-pel-si-party-as-catalan-president-carles-puigdemont-cancels-a-speech-regarding-s.md)
 Catalan President Carles Puigdemont may call regional elections this week, rather than declaring independence from Spain, as authorities in Madrid finalize plans to oust his rebel administration, according to two people familiar with his thinking.
 
+### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
+The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.
+
 ## [Previous Day...](/news/2017/10/25/index.md)
 

@@ -15,6 +15,9 @@ An accident between a train and an off-road military lorry in the southern coast
 ### [At least two Catalan officials defect from the ruling Junts pel S party as Catalan president Carles Puigdemont cancels a speech regarding snap elections. Puigdemont plans to draw back from declaring independence from Spain. ](/news/2017/10/26/at-least-two-catalan-officials-defect-from-the-ruling-junts-pel-si-party-as-catalan-president-carles-puigdemont-cancels-a-speech-regarding-s.md)
 Catalan President Carles Puigdemont may call regional elections this week, rather than declaring independence from Spain, as authorities in Madrid finalize plans to oust his rebel administration, according to two people familiar with his thinking.
 
+### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
+The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -25,6 +28,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
+
+### [Floodings in Burgas Province, Bulgaria claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
+Three people have died after torrential rains on 24th of October triggered floodings in the South-East Bulgarian district of Burgas. An elderly person from the village of Polski izvor has drowned.
 
 ### [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md)
 Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into Communist charter and sets him on course for indefinite spell in power
