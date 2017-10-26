@@ -3,13 +3,16 @@
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
 
+### [At the National Congress of the Communist Party of China, Xi Jinping assumed his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought was written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumed-his-second-term-as-general-secretary-china-s-paramount-leader.md)
+Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into Communist charter and sets him on course for indefinite spell in power
+
 ### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
 Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
 
-### [One man was killed and three other people were injured in an explosion in Kiev. Ukrainian MP Igor Mosiychuk was reportedly among the injured. ](/news/2017/10/25/one-man-was-killed-and-three-other-people-were-injured-in-an-explosion-in-kiev-ukrainian-mp-igor-mosiychuk-was-reportedly-among-the-injured.md)
+### [An explosion in Kiev, which investigators are treating as an "act of terrorism", kills one man and injures four others. Ukrainian MP Igor Mosiychuk and his driver are among the injured. ](/news/2017/10/25/an-explosion-in-kiev-which-investigators-are-treating-as-an-aact-of-terrorisma-kills-one-man-and-injures-four-others-ukrainian-mp-igo.md)
 One man was killed and four others injured in a blast in central Kiev, according to Ukraine&#039;s Interior Ministry. An MP and his driver are among the victims of the explosion, which is being treated by investigators as an “act of terrorism.”
 
-### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It may be the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-may-be-the-first-known-example-of-an-interstellar.md)
+### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It is almost certainly the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-is-almost-certainly-the-first-known-example-of-an.md)
 _Context: A/2017 U1, interstellar object_
 
 ## Opinion
@@ -33,7 +36,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
 
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, leader_
+_Context: Beijing, Communist Party of China, General Secretary, Mao Zedong, National Congress, Party Chairman, Xi Jinping, paramount leader_
 
 ### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
