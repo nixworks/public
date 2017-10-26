@@ -3,6 +3,9 @@
 ### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)
 Twitter on Thursday announced that it was banning all advertisements on the service from the Russian news agencies RT and Sputnik effective immediately.
 
+### [NFL ratings continue to crater as new numbers reveal a massive two-year decline. ](/news/2017/10/26/nfl-ratings-continue-to-crater-as-new-numbers-reveal-a-massive-two-year-decline.md)
+The NFL used to be the golden goose for television networks, and their ratings. However, new numbers show that the league has gone from
+
 ### [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md)
 An explosion at a fireworks factory in an area west of Indonesia&#039;s capital Jakarta kills 23 people, authorities say.
 
