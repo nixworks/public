@@ -5,7 +5,7 @@
 If confirmed, capture would mean only area of Iraq that remains under Islamic State control is stretch along Syrian border
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/oct/05/iraqi-army-claims-recapture-islamic-state-isis-held-areas-hawija)
 1. [Cover Image](https://i.guim.co.uk/img/media/8d99d5006a5ec3a02664062b16c8261350d1f03d/0_257_3849_2309/master/3849.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9485d9b0997d65200410a30f4e69b8fa)

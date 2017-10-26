@@ -5,7 +5,7 @@
 The firm says &quot;changed circumstances&quot; led to the decision to abandon the controversial projects.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-41488956)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14AAE/production/_98145648_hi042201578.jpg)
