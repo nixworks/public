@@ -5,6 +5,11 @@
 
 
 
+### Changes:
+
+1. [A big flooding in Burgas Province, Bulgaria, took 3 victims, 1 woman is still missing.date=October 2017](/news/2017/10/25/a-big-flooding-in-burgas-province-bulgaria-took-3-victims-1-woman-is-still-missing-date-october-2017.md) _2017-10-26 15:30:05 (First version)_
+1. [A big flooding in Burgas Province, Bulgaria, took 3 victims, 1 woman is still missing.](/news/2017/10/25/a-big-flooding-in-burgas-province-bulgaria-took-3-victims-1-woman-is-still-missing.md) _(Current version)_
+
 ### Related:
 
 1. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Bulgaria_
