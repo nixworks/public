@@ -1,4 +1,15 @@
-## [News](/news/2017/10/25/index.md)
+## [News](/news/2017/10/26/index.md)
+
+### [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 27 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-27-and-injures-35.md)
+An explosion at a fireworks factory in an area west of Indonesia&#039;s capital Jakarta kills 23 people, authorities say.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/25/index.md)
 
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
@@ -9,19 +20,15 @@ Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into
 ### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
 Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
 
-### [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard. He, his driver and another man are injured.](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-he.md)
+### [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard. He, his driver and another man are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-he.md)
 A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an apparent bombing attack that his party called an assassination attempt.
 
 ### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It is almost certainly the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-is-almost-certainly-the-first-known-example-of-an.md)
 _Context: A/2017 U1, interstellar object_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/24/index.md)
+## [Day Before Yesterday](/news/2017/10/24/index.md)
 
 ### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
 _Context: EBA regulator, EU, Economy of the European Union, European Commission, United States, Volcker Rule, too big to fail, trading activities_
@@ -46,20 +53,7 @@ Intelligence Committee chairman who stepped aside from Russia probe to examine O
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/23/index.md)
-
-### [The Philippines Armed Forces declares an end to military operations in the southern city of Marawi after 5 months of fighting. ](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.md)
-_Context: Battle of Marawi, Marawi, Philippines Armed Forces_
-
-### [The Palmyra Coordination Committee reports that 67 bodies, victims of summary execution by ISIL, were found in Al-Qaryatayn in the Homs Governorate in central Syria. ](/news/2017/10/23/the-palmyra-coordination-committee-reports-that-67-bodies-victims-of-summary-execution-by-isil-were-found-in-al-qaryatayn-in-the-homs-gove.md)
-_Context: Al-Qaryatayn, Homs Governorate, ISIL, Syrian Civil War_
-
-### [Typhoon Lan makes landfall in the Shizuoka Prefecture of Japan, causing at least two deaths and 10 injuries. ](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.md)
-A powerful typhoon ripped into central Japan early Monday, leaving 2 dead and more than 10 injured, hours after millions struggled to the polls for a national election.&nbsp; 
-
----
-
-## [Previous Day...](/news/2017/10/22/index.md)
+## [Previous Day...](/news/2017/10/23/index.md)
 
 ---
 
