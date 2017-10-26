@@ -3,7 +3,7 @@
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
 
-### [Floodings in Burgas Province, Bulgaria claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
+### [Floodings in Burgas Province, Bulgaria, claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
 Three people have died after torrential rains on 24th of October triggered floodings in the South-East Bulgarian district of Burgas. An elderly person from the village of Polski izvor has drowned.
 
 ### [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md)

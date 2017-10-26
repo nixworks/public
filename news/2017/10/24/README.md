@@ -13,7 +13,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
 
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: Beijing, Communist Party of China, General Secretary, Mao Zedong, National Congress, Party Chairman, Xi Jinping, paramount leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party of China, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, paramount leader_
 
 ### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.

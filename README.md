@@ -1,9 +1,6 @@
 ## [News](/news/2017/10/26/index.md)
 
-### [Multiple victims of the shooting are driven offline after receiving death threats by conspiracy theorists accusing them of being "paid actors". ](/news/2017/10/26/multiple-victims-of-the-shooting-are-driven-offline-after-receiving-death-threats-by-conspiracy-theorists-accusing-them-of-being-paid-actor.md)
-Those who lived to describe the mass shooting face flood of abuse on social media accusing them of being actors, as hoax claims flourish on YouTube
-
-### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusionthat both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusion-that-both-attempted-to-interfere-with.md)
+### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)
 Twitter on Thursday announced that it was banning all advertisements on the service from the Russian news agencies RT and Sputnik effective immediately.
 
 ### [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md)
@@ -12,7 +9,7 @@ An explosion at a fireworks factory in an area west of Indonesia&#039;s capital 
 ### [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md)
 An accident between a train and an off-road military lorry in the southern coastal municipality of Raseborg has killed four people. New reports say that eight military conscripts were involved in the crash, three of whom of died and four were injured. The fourth victim was a passenger on the train.
 
-### [At least two Catalan officials defect from the ruling Junts pel S party as Catalan president Carles Puigdemont cancels a speech regarding snap elections. Puigdemont plans to draw back from declaring independence from Spain. ](/news/2017/10/26/at-least-two-catalan-officials-defect-from-the-ruling-junts-pel-si-party-as-catalan-president-carles-puigdemont-cancels-a-speech-regarding-s.md)
+### [At least two Catalan officials defect from the ruling Junts pel Si party as Catalan president Carles Puigdemont cancels a speech regarding snap elections. Puigdemont plans to draw back from declaring independence from Spain. ](/news/2017/10/26/at-least-two-catalan-officials-defect-from-the-ruling-junts-pel-sa-party-as-catalan-president-carles-puigdemont-cancels-a-speech-regarding.md)
 Catalan President Carles Puigdemont may call regional elections this week, rather than declaring independence from Spain, as authorities in Madrid finalize plans to oust his rebel administration, according to two people familiar with his thinking.
 
 ### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
@@ -29,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
 
-### [Floodings in Burgas Province, Bulgaria claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
+### [Floodings in Burgas Province, Bulgaria, claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
 Three people have died after torrential rains on 24th of October triggered floodings in the South-East Bulgarian district of Burgas. An elderly person from the village of Polski izvor has drowned.
 
 ### [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md)
@@ -61,7 +58,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
 
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: Beijing, Communist Party of China, General Secretary, Mao Zedong, National Congress, Party Chairman, Xi Jinping, paramount leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party of China, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, paramount leader_
 
 ### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
