@@ -9,8 +9,8 @@ Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremi
 ### [One man was killed and three other people were injured in an explosion in Kiev. Ukrainian MP Igor Mosiychuk was reportedly among the injured. ](/news/2017/10/25/one-man-was-killed-and-three-other-people-were-injured-in-an-explosion-in-kiev-ukrainian-mp-igor-mosiychuk-was-reportedly-among-the-injured.md)
 One man was killed and four others injured in a blast in central Kiev, according to Ukraine&#039;s Interior Ministry. An MP and his driver are among the victims of the explosion, which is being treated by investigators as an “act of terrorism.”
 
-### [The discovery of a comet with a record high eccentricity, C-2017 U1 (PANSTARRS), is announced. It may be the first known example of an interstellar comet. ](/news/2017/10/25/the-discovery-of-a-comet-with-a-record-high-eccentricity-c-2017-u1-panstarrs-is-announced-it-may-be-the-first-known-example-of-an-inter.md)
-_Context: C/2017 U1 (PANSTARRS), interstellar comet_
+### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It may be the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-may-be-the-first-known-example-of-an-interstellar.md)
+_Context: A/2017 U1, interstellar object_
 
 ## [Previous Day...](/news/2017/10/24/index.md)
 

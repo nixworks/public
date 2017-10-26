@@ -9,8 +9,8 @@ Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremi
 ### [One man was killed and three other people were injured in an explosion in Kiev. Ukrainian MP Igor Mosiychuk was reportedly among the injured. ](/news/2017/10/25/one-man-was-killed-and-three-other-people-were-injured-in-an-explosion-in-kiev-ukrainian-mp-igor-mosiychuk-was-reportedly-among-the-injured.md)
 One man was killed and four others injured in a blast in central Kiev, according to Ukraine&#039;s Interior Ministry. An MP and his driver are among the victims of the explosion, which is being treated by investigators as an “act of terrorism.”
 
-### [The discovery of a comet with a record high eccentricity, C-2017 U1 (PANSTARRS), is announced. It may be the first known example of an interstellar comet. ](/news/2017/10/25/the-discovery-of-a-comet-with-a-record-high-eccentricity-c-2017-u1-panstarrs-is-announced-it-may-be-the-first-known-example-of-an-inter.md)
-_Context: C/2017 U1 (PANSTARRS), interstellar comet_
+### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It may be the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-may-be-the-first-known-example-of-an-interstellar.md)
+_Context: A/2017 U1, interstellar object_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,7 +29,7 @@ _Context: Banking in the United States, Mike Pence, Vice President_
 ### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
 Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
 
-### [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks in Russia, Ukraine, and has been detected throughout the world. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-in-russia-ukraine.md)
+### [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md)
 Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
 
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
