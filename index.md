@@ -1,4 +1,15 @@
-## [News](/news/2017/10/26/index.md)
+## [News](/news/2017/10/27/index.md)
+
+### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)
+The Turnbull Government has lost its one-seat majority after the High Court ruled Deputy Prime Minister Barnaby Joyce&#039;s election invalid because of his New Zealand citizenship. Follow live.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/26/index.md)
 
 ### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)
 Twitter on Thursday announced that it was banning all advertisements on the service from the Russian news agencies RT and Sputnik effective immediately.
@@ -6,7 +17,7 @@ Twitter on Thursday announced that it was banning all advertisements on the serv
 ### [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md)
 An explosion at a fireworks factory in an area west of Indonesia&#039;s capital Jakarta kills 23 people, authorities say.
 
-### [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md)
+### [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md)
 An accident between a train and an off-road military lorry in the southern coastal municipality of Raseborg has killed four people. New reports say that eight military conscripts were involved in the crash, three of whom of died and four were injured. The fourth victim was a passenger on the train.
 
 ### [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md)
@@ -18,16 +29,12 @@ Catalan President Carles Puigdemont may call regional elections this week, rathe
 ### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
 The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.
 
-### [U.S. President Donald Trump orders the release of nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 but witholds the release of others citing national security concerns. ](/news/2017/10/26/u-s-president-donald-trump-orders-the-release-of-nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-but-w.md)
+### [ Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump.md)
 Some 2,800 files on the assassination are declassified, but the president withholds some others.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2017/10/25/index.md)
+## [Day Before Yesterday](/news/2017/10/25/index.md)
 
 ### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
@@ -41,7 +48,7 @@ Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into
 ### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
 Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
 
-### [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard. He, his driver and another man are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-he.md)
+### [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and another woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md)
 A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an apparent bombing attack that his party called an assassination attempt.
 
 ### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It is almost certainly the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-is-almost-certainly-the-first-known-example-of-an.md)
@@ -49,32 +56,7 @@ _Context: A/2017 U1, interstellar object_
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/24/index.md)
-
-### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
-_Context: EBA regulator, EU, Economy of the European Union, European Commission, United States, Volcker Rule, too big to fail, trading activities_
-
-### [Vice President Mike Pence casts the tie-breaking vote late Tuesday night to repeal a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.md)
-_Context: Banking in the United States, Mike Pence, Vice President_
-
-### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
-Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
-
-### [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md)
-Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
-
-### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party of China, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, paramount leader_
-
-### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
-The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.
-
-### [Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Canada-based Uranium One. ](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.md)
-Intelligence Committee chairman who stepped aside from Russia probe to examine Obama-era uranium deal
-
----
-
-## [Previous Day...](/news/2017/10/23/index.md)
+## [Previous Day...](/news/2017/10/24/index.md)
 
 ---
 

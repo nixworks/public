@@ -1,6 +1,6 @@
 ### [2017-10-26](/news/2017/10/26/index.md)
 
-# Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. 
+# Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry in Raseborg, Finland. 
 
 An accident between a train and an off-road military lorry in the southern coastal municipality of Raseborg has killed four people. New reports say that eight military conscripts were involved in the crash, three of whom of died and four were injured. The fourth victim was a passenger on the train.
 
@@ -13,7 +13,7 @@ An accident between a train and an off-road military lorry in the southern coast
 ### Changes:
 
 1. [Four people (three conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-with-an-off.md) _2017-10-26 16:30:05 (First version)_
-1. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry (Sisu SA-150) in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _(Current version)_
+1. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _(Current version)_
 
 ### Related:
 
