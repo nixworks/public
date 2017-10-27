@@ -1,6 +1,6 @@
 ### [2017-10-25](/news/2017/10/25/index.md)
 
-# A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and another woman are injured. 
+# A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and a woman are injured. 
 
 A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an apparent bombing attack that his party called an assassination attempt.
 
@@ -14,7 +14,7 @@ A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an appare
 
 1. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Igor Mosiychuk, kills his bodyguard. He, his driver and another man are injured.](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-igor-mosiychuk-kills-his-bodyguard-he.md) _2017-10-26 07:30:05 (First version)_
 2. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard. He, his driver and another man are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-he.md) _2017-10-27 00:30:05 (Update)_
-2. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and another woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md) _(Current version)_
+2. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and a woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md) _(Current version)_
 
 ### Related:
 
