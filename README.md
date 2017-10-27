@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/27/index.md)
 
-### [The Parliament of Catalonia votes and starts the "constituent" process to declare independence from the Kingdom of Spain. (](/news/2017/10/27/the-parliament-of-catalonia-votes-and-starts-the-constituent-process-to-declare-independence-from-the-kingdom-of-spain.md)
+### [The Parliament of Catalonia votes and starts the "constituent" process to declare independence from the Kingdom of Spain. The Senate of Spain votes to permit direct rule according to article 155 of the Spanish Constitution. ](/news/2017/10/27/the-parliament-of-catalonia-votes-and-starts-the-constituent-process-to-declare-independence-from-the-kingdom-of-spain-the-senate-of-spai.md)
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.
 
 ### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)
