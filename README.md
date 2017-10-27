@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/27/index.md)
 
-### [The Parliament of Catalonia votes and starts a "constituent" process towards independence from the Kingdom of Spain. The Senate of Spain votes to permit direct rule according to article 155 of the Spanish Constitution. ](/news/2017/10/27/the-parliament-of-catalonia-votes-and-starts-a-constituent-process-towards-independence-from-the-kingdom-of-spain-the-senate-of-spain-vot.md)
+### [Catalonia declares independence from Spain. ](/news/2017/10/27/catalonia-declares-independence-from-spain.md)
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.
 
 ### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)
@@ -20,7 +20,7 @@ Twitter on Thursday announced that it was banning all advertisements on the serv
 ### [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md)
 An explosion at a fireworks factory in an area west of Indonesia&#039;s capital Jakarta kills 23 people, authorities say.
 
-### [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military lorry in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md)
+### [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md)
 An accident between a train and an off-road military lorry in the southern coastal municipality of Raseborg has killed four people. New reports say that eight military conscripts were involved in the crash, three of whom of died and four were injured. The fourth victim was a passenger on the train.
 
 ### [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md)
