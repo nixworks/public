@@ -7,8 +7,9 @@ The Turnbull Government has lost its one-seat majority after the High Court rule
 
 ### Sources:
 
-1. [ABC](http://www.abc.net.au/news/2017-10-27/live-blog-high-court-delivers-judgement-on-citizenship-seven/9085032)
-1. [Cover Image](http://www.abc.net.au/news/image/9080966-1x1-700x700.jpg)
+1. [9 News](http://www.9news.com.au/national/2017/10/27/14/21/citizenship-seven-barnaby-joyce-high-court-booted-from-parliament)
+2. [ABC](http://www.abc.net.au/news/2017-10-27/live-blog-high-court-delivers-judgement-on-citizenship-seven/9085032)
+2. [Cover Image](http://www.abc.net.au/news/image/9080966-1x1-700x700.jpg)
 
 ### Related:
 
