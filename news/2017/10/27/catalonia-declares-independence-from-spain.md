@@ -13,7 +13,7 @@ The move comes as the Spanish government is on the brink of imposing direct rule
 4. [NPR](http://www.npr.org/sections/thetwo-way/2017/10/27/560357561/spains-prime-minister-asks-for-direct-rule-authority-over-catalonia)
 5. [Reuters](http://www.reuters.com/article/uk-global-forex/euro-poised-for-worst-week-in-2017-on-dovish-ecb-catalonia-vote-idUSKBN1CW01U)
 6. [Reuters](https://www.reuters.com/article/us-spain-politics-catalonia-independence/catalan-parliament-declares-independence-from-spain-idUSKBN1CW1WO)
-7. [Reuters](https://www.reuters.com/article/us-spain-politics-catalonia-rajoy/spains-rajoy-sacks-catalan-government-calls-snap-election-idUSKBN1CW2OC?il=0)
+7. [Reuters](https://www.reuters.com/article/us-spain-politics-catalonia/spain-sacks-catalan-government-after-independence-declaration-idUSKBN1CW0VF?il=0)
 7. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4F38/production/_98508202_mediaitem98508199.jpg)
 
 ### Related:
