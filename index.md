@@ -1,5 +1,11 @@
 ## [News](/news/2017/10/27/index.md)
 
+### [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md)
+It accuses the International Criminal Court of deliberately targeting Africans for prosecution.
+
+### [The United States releases a list of 39 Russian military companies and intelligence agencies targeted by economic sanctions under the Countering America's Adversaries Through Sanctions Act. ](/news/2017/10/27/the-united-states-releases-a-list-of-39-russian-military-companies-and-intelligence-agencies-targeted-by-economic-sanctions-under-the-counte.md)
+Compiles list of companies and people U.S. companies can&rsquo;t do business with under sanctions measure passed by Congress in August
+
 ### [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md)
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.
 
