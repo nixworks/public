@@ -6,6 +6,9 @@ It accuses the International Criminal Court of deliberately targeting Africans f
 ### [The United States releases a list of 39 Russian military companies and intelligence agencies targeted by economic sanctions under the Countering America's Adversaries Through Sanctions Act. ](/news/2017/10/27/the-united-states-releases-a-list-of-39-russian-military-companies-and-intelligence-agencies-targeted-by-economic-sanctions-under-the-counte.md)
 Compiles list of companies and people U.S. companies can&rsquo;t do business with under sanctions measure passed by Congress in August
 
+### [A federal grand jury approves the first charges from special counsel Robert Mueller's investigation into Russia's interference in the 2016 federal elections. The charges are sealed by a court order. More information about the charges and people involved is expected as soon as Monday. ](/news/2017/10/27/a-federal-grand-jury-approves-the-first-charges-from-special-counsel-robert-mueller-s-investigation-intoa-russia-s-interference-in-the-2016.md)
+A federal grand jury in Washington, D.C., has reportedly approved the first charges in special counsel Robert Mueller’s investigation into Russia&#039;s meddling in the 2016 election.
+
 ### [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md)
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.
 

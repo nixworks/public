@@ -5,19 +5,11 @@
 The bill is expected to face fierce resistance from congressional Democrats and immigrant rights groups.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/2017/08/02/541104795/trump-to-unveil-legislation-limiting-legal-immigration)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/02/trump-gop-senators-to-introduce-bill-to-slash-legal-immigration-levels/)
 2. [Cover Image](https://media.npr.org/assets/img/2017/08/02/ap_17171520532821_wide-4f9bab96fd7949fb6689342905ac806c522e55f4.jpg?s=1400)
-
-### Related:
-
-1. [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md) _Context: United States, immigrants_
-2. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Donald Trump, United States_
-3. [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md) _Context: United States, immigrants_
-4. [U.S. President Donald Trump signs an executive order re-establishing the National Space Council, which was disbanded in 1993. ](/news/2017/06/30/u-s-president-donald-trump-signs-an-executive-order-re-establishing-the-national-space-council-which-was-disbanded-in-1993.md) _Context: Donald Trump, United States_
-5. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _Context: Donald Trump, Immigration policy of Donald Trump_
 
 ### Changes:
 
@@ -27,3 +19,11 @@ The bill is expected to face fierce resistance from congressional Democrats and 
 4. [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the ''Reforming American Immigration for Strong Employment Act of 2017'' (RAISE Act), a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-reforming-american-immigration-for-s.md) _2017-08-03 18:30:05 (Update)_
 5. [Immigration policy of Donald Trump: United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/immigration-policy-of-donald-trump-united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-ra.md) _2017-08-27 03:48:45 (Update)_
 5. [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md) _(Current version)_
+
+### Related:
+
+1. [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md) _Context: Donald Trump, Immigration policy of Donald Trump_
+2. [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md) _Context: United States, immigrants_
+3. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Donald Trump, United States_
+4. [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md) _Context: United States, immigrants_
+5. [U.S. President Donald Trump signs an executive order re-establishing the National Space Council, which was disbanded in 1993. ](/news/2017/06/30/u-s-president-donald-trump-signs-an-executive-order-re-establishing-the-national-space-council-which-was-disbanded-in-1993.md) _Context: Donald Trump, United States_

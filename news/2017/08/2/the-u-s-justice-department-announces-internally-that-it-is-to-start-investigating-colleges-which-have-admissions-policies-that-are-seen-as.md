@@ -5,7 +5,7 @@
 What is affirmative action? Why is this a big deal? Is the Trump report true?
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/affirmative-action-college-admissions-explained-645482)
 2. [The New York Times](https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html)

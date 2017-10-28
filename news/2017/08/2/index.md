@@ -3,9 +3,6 @@
 ### [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md)
 A suicide bomb attack killed two American troops in Afghanistan on Wednesday as they were traveling in a convoy near the airport in the southern city of Kandahar, the U.S. military said, in a strike claimed by the Taliban insurgency.
 
-### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http:--www.abc.net.au-news-2017-08-03-prince-philip-queen-elizabeth-royal-husband-retires-8769254 ("ABC News (Australia)")]](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
-_Context: British royal consorts, Prince Philip, Duke of Edinburgh_
-
 ### [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md)
 What is affirmative action? Why is this a big deal? Is the Trump report true?
 
@@ -18,7 +15,7 @@ _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression E
 ### [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md)
 The technique could prevent deadly diseases being passed down the generations.
 
-### [President of the United States Donald Trump signs the Countering America's Adversaries Through Sanctions Act. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-the-countering-americaas-adversaries-through-sanctions-act-prime-minister-of-russia-dmi.md)
+### [President of the United States Donald Trump signs the Countering America's Adversaries Through Sanctions Act. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-the-countering-america-s-adversaries-through-sanctions-act-prime-minister-of-russia-dmitr.md)
 U.S. President Donald Trump grudgingly signed into law new sanctions against Russia on Wednesday, a move Moscow said amounted to a full-scale trade war and an end to hopes for better ties with the Trump administration.
 
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
