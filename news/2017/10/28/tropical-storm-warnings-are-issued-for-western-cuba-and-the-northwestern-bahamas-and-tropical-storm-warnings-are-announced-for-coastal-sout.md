@@ -1,6 +1,6 @@
 ### [2017-10-28](/news/2017/10/28/index.md)
 
-# Tropical storm warnings are issued for western Cuba and the northwestern Bahamas, and tropical storm warnings are announced for coastal South Florida in the U.S., as a strengthening Tropical Depression 18 treks north-northeast with maximum sustained winds at 35 mph (55 kh-h). 
+# Tropical storm warnings are issued for western Cuba and the northwestern Bahamas, and tropical storm warnings are announced for coastal South Florida in the U.S., as a strengthening Tropical Storm Philippe treks north-northeast with maximum sustained winds at 35 mph (55 kh-h). 
 
 
 
