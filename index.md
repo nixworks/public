@@ -1,4 +1,15 @@
-## [News](/news/2017/10/27/index.md)
+## [News](/news/2017/10/28/index.md)
+
+### [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md)
+_Context: Althing, Iceland, Icelandic parliamentary election, 2017_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/27/index.md)
 
 ### [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md)
 It accuses the International Criminal Court of deliberately targeting Africans for prosecution.
@@ -15,13 +26,9 @@ The move comes as the Spanish government is on the brink of imposing direct rule
 ### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election. ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)
 The Turnbull Government has lost its one-seat majority after the High Court ruled Deputy Prime Minister Barnaby Joyce&#039;s election invalid because of his New Zealand citizenship. Follow live.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/26/index.md)
+## [Day Before Yesterday](/news/2017/10/26/index.md)
 
 ### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)
 Twitter on Thursday announced that it was banning all advertisements on the service from the Russian news agencies RT and Sputnik effective immediately.
@@ -46,29 +53,7 @@ Some 2,800 files on the assassination are declassified, but the president withho
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/25/index.md)
-
-### [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md)
-After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.
-
-### [Floodings in Burgas Province, Bulgaria, claim 3 victims. ](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.md)
-Three people have died after torrential rains on 24th of October triggered floodings in the South-East Bulgarian district of Burgas. An elderly person from the village of Polski izvor has drowned.
-
-### [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md)
-Rare accolade puts Xi’s Thought on Socialism with Chinese Characteristics into Communist charter and sets him on course for indefinite spell in power
-
-### [Crown Prince Mohammad bin Salman of Saudi Arabia announces that a majority of Saudis want a return to moderate Islam. 70% of the kingdom is made up of residents under the age of 30 who welcome the idea of new reforms. ](/news/2017/10/25/crown-prince-mohammad-bin-salman-of-saudi-arabia-announces-that-a-majority-of-saudis-want-a-return-to-moderate-islam-70-of-the-kingdom-is.md)
-Crown Prince Mohammed bin Salman vows to &quot;eradicate the remnants of extremism very soon&quot;.
-
-### [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and a woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md)
-A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an apparent bombing attack that his party called an assassination attempt.
-
-### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It is almost certainly the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-is-almost-certainly-the-first-known-example-of-an.md)
-_Context: A/2017 U1, interstellar object_
-
----
-
-## [Previous Day...](/news/2017/10/24/index.md)
+## [Previous Day...](/news/2017/10/25/index.md)
 
 ---
 
