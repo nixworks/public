@@ -1,6 +1,6 @@
 ### [2017-10-27](/news/2017/10/27/index.md)
 
-# A federal grand jury approves the first charges from special counsel Robert Mueller's investigation into Russia's interference in the 2016 federal elections. The charges are sealed by a court order. More information about the charges and people involved is expected as soon as Monday. 
+# A federal grand jury approves the first charges from special counsel Robert Mueller's investigation into Russia's interference in the 2016 federal elections. The charges are sealed by a court order. 
 
 A federal grand jury in Washington, D.C., has reportedly approved the first charges in special counsel Robert Mueller’s investigation into Russia&#039;s meddling in the 2016 election.
 
