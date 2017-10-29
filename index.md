@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/28/index.md)
 
-### [Two car bombs kill at least 17 people, mostly policemen, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-17-people-mostly-policemen-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-similar-att.md)
+### [Two car bombs kill at least 17 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-17-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
 _Context: 28 October 2017 Mogadishu bombings, Al-Shabaab, Mogadishu, Somalia, a similar attack_
 
 ### [At least 19 people are killed and 16 others are injured when a bus skids off the road in the Dhading District and falls into the Trishuli River in central Nepal. ](/news/2017/10/28/at-least-19-people-are-killed-and-16-others-are-injured-when-a-bus-skids-off-the-road-in-the-dhading-district-and-falls-into-the-trishuli-ri.md)
@@ -22,6 +22,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/10/27/index.md)
+
+### [President Nursultan Nazarbayev of Kazakhstan announces that the Kazakh language will begin using a Latin script, rather than the current Cyrillic script. ](/news/2017/10/27/president-nursultan-nazarbayev-of-kazakhstan-announces-that-the-kazakh-language-will-begin-using-a-latin-script-rather-than-the-current-cyr.md)
+_Context: Cyrillic script, Kazakh alphabets, Kazakh language, Nursultan Nazarbayev_
 
 ### [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md)
 It accuses the International Criminal Court of deliberately targeting Africans for prosecution.
