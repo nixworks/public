@@ -9,8 +9,8 @@ _Context: Dhading District, Nepal, Trishuli River_
 ### [Tropical storm warnings are issued for western Cuba and the northwestern Bahamas, and tropical storm warnings are announced for coastal South Florida in the U.S., as a strengthening Tropical Storm Philippe treks north-northeast with maximum sustained winds at 35 mph (55 km-h). ](/news/2017/10/28/tropical-storm-warnings-are-issued-for-western-cuba-and-the-northwestern-bahamas-and-tropical-storm-warnings-are-announced-for-coastal-sout.md)
 _Context: 2017 Atlantic hurricane season, Cuba, South Florida, Tropical Storm Philippe, northwestern Bahamas_
 
-### [A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM activists met by 700+ protesters. A second rally planned to take place in Murfreesboro, Tennessee, is cancelled. ](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-activists-met-by-700-protesters-a-second-rally-plann.md)
-_Context: "White Lives Matter", Murfreesboro, Tennessee, Shelbyville, Tennessee_
+### [A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM activists met by 700+ protesters. ](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-activists-met-by-700-protesters.md)
+_Context: "White Lives Matter", Shelbyville, Tennessee_
 
 ### [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md)
 _Context: Althing, Iceland, Icelandic parliamentary election, 2017_
@@ -63,7 +63,10 @@ Catalan President Carles Puigdemont may call regional elections this week, rathe
 ### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
 The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.
 
-### [ Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump.md)
+### [The Trump administration's Department of Justice settles two lawsuits which alleged that the Obama administration's Internal Revenue Service targeted conservative groups. ](/news/2017/10/26/the-trump-administration-s-department-of-justice-settles-two-lawsuits-which-alleged-that-the-obama-administration-s-internal-revenue-service.md)
+The government will pay millions of dollars in one settlement with hundreds of conservative groups and admit wrongdoing, though pay no damages, in another.
+
+### [Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump-o.md)
 Some 2,800 files on the assassination are declassified, but the president withholds some others.
 
 ---

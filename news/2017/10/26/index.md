@@ -18,7 +18,10 @@ Catalan President Carles Puigdemont may call regional elections this week, rathe
 ### [Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. ](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-cabinet-it-took-a-record-225-days-of-negotiations-to-form-the-government-composed-of-vvd-d66.md)
 The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.
 
-### [ Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump.md)
+### [The Trump administration's Department of Justice settles two lawsuits which alleged that the Obama administration's Internal Revenue Service targeted conservative groups. ](/news/2017/10/26/the-trump-administration-s-department-of-justice-settles-two-lawsuits-which-alleged-that-the-obama-administration-s-internal-revenue-service.md)
+The government will pay millions of dollars in one settlement with hundreds of conservative groups and admit wrongdoing, though pay no damages, in another.
+
+### [Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump-o.md)
 Some 2,800 files on the assassination are declassified, but the president withholds some others.
 
 ## [Previous Day...](/news/2017/10/25/index.md)
