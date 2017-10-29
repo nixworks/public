@@ -1,11 +1,11 @@
 ### [2016-04-9](/news/2016/04/9/index.md)
 
-# Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. 
+#  Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/04/10/sport/will-smith-former-saints-player-killed/index.html?eref=edition)
 

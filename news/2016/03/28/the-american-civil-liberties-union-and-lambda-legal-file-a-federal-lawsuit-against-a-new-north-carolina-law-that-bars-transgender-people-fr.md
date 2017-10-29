@@ -5,7 +5,7 @@
 SALEM, N.C. (Reuters) - Transgender people barred under a new North Carolina law from choosing bathrooms consistent with their gender identity filed a federal lawsuit on Monday, arguing the measure was discriminatory and threatened their personal safety.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-north-carolina-transgender-idUSKCN0WU15H)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128430796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R0JM)
