@@ -1,6 +1,6 @@
 ## [News](/news/2017/10/28/index.md)
 
-### [Two car bombs kill at least 17 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-17-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
+### [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
 _Context: 28 October 2017 Mogadishu bombings, Al-Shabaab, Mogadishu, Somalia, a similar attack_
 
 ### [At least 19 people are killed and 16 others are injured when a bus skids off the road in the Dhading District and falls into the Trishuli River in central Nepal. ](/news/2017/10/28/at-least-19-people-are-killed-and-16-others-are-injured-when-a-bus-skids-off-the-road-in-the-dhading-district-and-falls-into-the-trishuli-ri.md)
