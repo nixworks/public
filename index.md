@@ -14,7 +14,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/29/index.md)
 
-### [More than 2,000 people march in Myanmar's capital of Yangon to show support for the military, urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the Rohingya people). ](/news/2017/10/29/more-than-2-000-people-march-in-myanmar-s-capital-of-yangon-to-show-support-for-the-military-urging-the-military-to-secure-the-country-s-so.md)
+### [More than 2,000 people march in Yangon to show support for the military, urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the Rohingya people). ](/news/2017/10/29/more-than-2-000-people-march-in-yangon-to-show-support-for-the-military-urging-the-military-to-secure-the-country-s-sovereignty-protect-na.md)
 Thousands of people marched in Yangon on Sunday to show support for the military, which has come under heavy criticism over violence that has driven hundreds of thousands of Rohingya Muslims to flee from Rakhine state to neighboring Bangladesh. More than 2,000 army supporters, including...
 
 ### [Archives from Hewlett-Packard founders William Hewlett and David Packard are among those destroyed by fires in a Santa Rosa neighborhood. ](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.md)
