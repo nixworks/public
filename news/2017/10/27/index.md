@@ -12,7 +12,7 @@ Compiles list of companies and people U.S. companies can&rsquo;t do business wit
 ### [A federal grand jury approves the first charges from special counsel Robert Mueller's investigation into Russia's interference in the 2016 federal elections. The charges are sealed by a court order. ](/news/2017/10/27/a-federal-grand-jury-approves-the-first-charges-from-special-counsel-robert-mueller-s-investigation-intoa-russia-s-interference-in-the-2016.md)
 A federal grand jury in Washington, D.C., has reportedly approved the first charges in special counsel Robert Mueller’s investigation into Russia&#039;s meddling in the 2016 election.
 
-### [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md)
+### [Catalonia declares independence from Spain as the Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-the-catalan-republic.md)
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.
 
 ### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election. ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)

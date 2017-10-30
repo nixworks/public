@@ -11,11 +11,13 @@
 2. [Het Laatste Nieuws](https://www.hln.be/nieuws/binnenland/puigdemont-in-brussel-op-uitnodiging-van-n-va-druk-overleg-tussen-kabinetten-michel-jambon-en-francken~a99e8163/)
 3. [Reuters](http://www.reuters.com/article/us-spain-politics-catalonia/work-resumes-normally-in-catalonia-as-spain-enforces-direct-rule-idUSKBN1CZ0IP?il=0)
 4. [SFGATE](http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
-4. [Cover Image](https://images4.persgroep.net/rcs/4az2HfIcretngeVtkkExgUmDHyA/diocontent/114271156/_crop/0/95/1758/993/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
+5. [San Francisco Chronicle](http://www.sfchronicle.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
+6. [hln.be](https://www.hln.be/nieuws/binnenland/n-va-wij-hebben-puigdemont-niet-uitgenodigd~a346b42e/)
+6. [Cover Image](https://images3.persgroep.net/rcs/Mjjr9joKER0zK9eckNv0k3UmzzI/diocontent/114370199/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
 
 ### Related:
 
-1. [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md) _Context: 2017 Spanish constitutional crisis, Catalan Republic (2017)_
+1. [Catalonia declares independence from Spain as the Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-the-catalan-republic.md) _Context: 2017 Spanish constitutional crisis, Catalan Republic (2017)_
 2. [Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails-t.md) _Context: 2017 Spanish constitutional crisis, Catalan government_
 3. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: 2017 Spanish constitutional crisis_
 4. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: 2017 Spanish constitutional crisis_
