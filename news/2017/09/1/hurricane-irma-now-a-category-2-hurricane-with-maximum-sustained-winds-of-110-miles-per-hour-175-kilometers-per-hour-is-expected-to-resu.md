@@ -5,7 +5,7 @@
 What you need to know about Irma&#039;s threat next week.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/08/31/us/hurricane-irma-forecast-weather/index.html)
 2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/011449.shtml)
@@ -18,4 +18,4 @@ What you need to know about Irma&#039;s threat next week.
 2. [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md) _Context: 2017 Atlantic hurricane season, Leeward Islands_
 3. [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md) _Context: 2017 Atlantic hurricane season, Leeward Islands_
 4. [The U.S. National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and a weak or nonexistent El Nino. ](/news/2017/05/25/the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-atlantic-hurricane-season-the-fo.md) _Context: 2017 Atlantic hurricane season, Caribbean_
-5. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: 2017 Atlantic hurricane season_
+5. [Tropical storm warnings are issued for western Cuba and the northwestern Bahamas, and tropical storm warnings are announced for coastal South Florida in the U.S., as a strengthening Tropical Storm Philippe treks north-northeast with maximum sustained winds at 35 mph (55 km-h). ](/news/2017/10/28/tropical-storm-warnings-are-issued-for-western-cuba-and-the-northwestern-bahamas-and-tropical-storm-warnings-are-announced-for-coastal-sout.md) _Context: 2017 Atlantic hurricane season_

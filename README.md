@@ -1,10 +1,7 @@
-## [News](/news/2017/10/29/index.md)
+## [News](/news/2017/10/30/index.md)
 
-### [More than 2,000 people march in Yangon to show support for the military, urging the military to secure sovereignty, protect the national security and stop the illegal intruders, referring to the Rohingya. ](/news/2017/10/29/more-than-2-000-people-march-in-yangon-to-show-support-for-the-military-urging-the-military-to-secure-sovereignty-protect-the-national-sec.md)
-Thousands of people marched in Yangon on Sunday to show support for the military, which has come under heavy criticism over violence that has driven hundreds of thousands of Rohingya Muslims to flee from Rakhine state to neighboring Bangladesh. More than 2,000 army supporters, including...
-
-### [Massoud Barzani, the President of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md)
-Massud Barzani, the president of the autonomous Kurdish region in Iraq, told a closed-door session of parliament Sunday he was stepping down amid the fallout from a controversial independence referendum.
+### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
+Families will be allowed into three stadiums in the latest move towards giving women more freedom.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -12,7 +9,23 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/10/28/index.md)
+## [Yesterday](/news/2017/10/29/index.md)
+
+### [More than 2,000 people march in Myanmar's capital of Yangon to show support for the military, urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the Rohingya people). ](/news/2017/10/29/more-than-2-000-people-march-in-myanmar-s-capital-of-yangon-to-show-support-for-the-military-urging-the-military-to-secure-the-country-s-so.md)
+Thousands of people marched in Yangon on Sunday to show support for the military, which has come under heavy criticism over violence that has driven hundreds of thousands of Rohingya Muslims to flee from Rakhine state to neighboring Bangladesh. More than 2,000 army supporters, including...
+
+### [A pick-up truck's collision with a horse-drawn buggy kills three preteen children and injures six other passengers in Bushnell Township, Michigan. Police say their injuries are life-threatening. ](/news/2017/10/29/a-pick-up-truck-s-collision-with-a-horse-drawn-buggy-kills-three-preteen-children-and-injures-six-other-passengers-in-bushnell-township-mic.md)
+SHERIDAN, Mich. -- Three children died and six other people were seriously injured when a pickup truck hit a horse-drawn buggy near Sheridan on Sunday morning. The accident occurred at 8:34 a.m. Sunday on East Condensery Road near Townhall Road in Evergreen Township near Sheridan, which is located i...
+
+### [Massoud Barzani, the President of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md)
+Massud Barzani, the president of the autonomous Kurdish region in Iraq, told a closed-door session of parliament Sunday he was stepping down amid the fallout from a controversial independence referendum.
+
+### [Hundreds of thousands of supporters for a unified Spain gather in Barcelona, the capital and largest city of Catalonia, in one of the biggest shows of force against Catalan independence. ](/news/2017/10/29/hundreds-of-thousands-of-supporters-for-a-unified-spain-gather-in-barcelona-the-capital-and-largest-city-of-catalonia-in-one-of-the-bigges.md)
+The marchers backed unity with Spain and demanded the arrest of Catalan leaders.
+
+---
+
+## [Day Before Yesterday](/news/2017/10/28/index.md)
 
 ### [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
 _Context: 28 October 2017 Mogadishu bombings, Al-Shabaab, Mogadishu, Somalia, a similar attack_
@@ -31,29 +44,7 @@ _Context: Althing, Iceland, Icelandic parliamentary election, 2017_
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/27/index.md)
-
-### [President Nursultan Nazarbayev of Kazakhstan announces that the Kazakh language will begin using a Latin script, rather than the current Cyrillic script. ](/news/2017/10/27/president-nursultan-nazarbayev-of-kazakhstan-announces-that-the-kazakh-language-will-begin-using-a-latin-script-rather-than-the-current-cyr.md)
-_Context: Cyrillic script, Kazakh alphabets, Kazakh language, Nursultan Nazarbayev_
-
-### [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md)
-It accuses the International Criminal Court of deliberately targeting Africans for prosecution.
-
-### [The United States releases a list of 39 Russian military companies and intelligence agencies targeted by economic sanctions under the Countering America's Adversaries Through Sanctions Act. ](/news/2017/10/27/the-united-states-releases-a-list-of-39-russian-military-companies-and-intelligence-agencies-targeted-by-economic-sanctions-under-the-counte.md)
-Compiles list of companies and people U.S. companies can&rsquo;t do business with under sanctions measure passed by Congress in August
-
-### [A federal grand jury approves the first charges from special counsel Robert Mueller's investigation into Russia's interference in the 2016 federal elections. The charges are sealed by a court order. ](/news/2017/10/27/a-federal-grand-jury-approves-the-first-charges-from-special-counsel-robert-mueller-s-investigation-intoa-russia-s-interference-in-the-2016.md)
-A federal grand jury in Washington, D.C., has reportedly approved the first charges in special counsel Robert Mueller’s investigation into Russia&#039;s meddling in the 2016 election.
-
-### [Catalonia declares independence from Spain as Catalan Republic. ](/news/2017/10/27/catalonia-declares-independence-from-spain-as-catalan-republic.md)
-The move comes as the Spanish government is on the brink of imposing direct rule on the region.
-
-### [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election. ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md)
-The Turnbull Government has lost its one-seat majority after the High Court ruled Deputy Prime Minister Barnaby Joyce&#039;s election invalid because of his New Zealand citizenship. Follow live.
-
----
-
-## [Previous Day...](/news/2017/10/26/index.md)
+## [Previous Day...](/news/2017/10/27/index.md)
 
 ---
 

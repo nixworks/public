@@ -5,9 +5,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/life-style/health/antidepressants-found-great-lakes-region-fish-brains-article-1.3458750)
+
+### Changes:
+
+1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-human-antidepressants-concentrations-in-10-kinds-o.md) _2017-09-01 22:30:05 (First version)_
+1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +21,3 @@
 3. [ An advisory panel to the U.S. Food and Drug Administration (FDA), by a vote of 15-8, recommends that warnings be added to antidepressants, stating that the medications can be linked to suicidal behavior in some children. The FDA is not required to follow the recommendations of its advisory panels, but usually does so. ](/news/2004/09/14/an-advisory-panel-to-the-u-s-food-and-drug-administration-fda-by-a-vote-of-15a8-recommends-that-warnings-be-added-to-antidepressants.md) _Context: antidepressant_
 4. [ Experts conclude that dioxin probably killed off the trout in the Great Lakes.](/news/2003/11/9/experts-conclude-that-dioxin-probably-killed-off-the-trout-in-the-great-lakes.md) _Context: Great Lakes_
 5. [ An article in the November issue of J. Climate argues that global warming will bring more snow to the Eastern Great Lakes region.](/news/2003/11/5/an-article-in-the-november-issue-of-j-climate-argues-that-global-warming-will-bring-more-snow-to-the-eastern-great-lakes-region.md) _Context: Great Lakes_
-
-### Changes:
-
-1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-human-antidepressants-concentrations-in-10-kinds-o.md) _2017-09-01 22:30:05 (First version)_
-1. [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md) _(Current version)_
