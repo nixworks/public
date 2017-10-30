@@ -10,7 +10,7 @@ _Context: Dhading District, Nepal, Trishuli River_
 _Context: 2017 Atlantic hurricane season, Cuba, South Florida, Tropical Storm Philippe, northwestern Bahamas_
 
 ### [A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM protestors met by 700+ counter-protesters. ](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.md)
-_Context: "White Lives Matter", Shelbyville, Tennessee_
+_Context: "White Lives Matter", Black Lives Matter, Shelbyville, Tennessee_
 
 ### [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md)
 _Context: Althing, Iceland, Icelandic parliamentary election, 2017_

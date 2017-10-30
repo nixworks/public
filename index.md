@@ -3,6 +3,9 @@
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
 Families will be allowed into three stadiums in the latest move towards giving women more freedom.
 
+### [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged to a record high in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-to-a-record-high-in-2016-according-to-the-world-meteorological.md)
+_Context: Carbon dioxide in Earth's atmosphere, Earth's atmosphere, World Meteorological Organization, carbon dioxide_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -20,7 +23,7 @@ The papers of William Hewlett and David Packard chronicling the birth of Silicon
 ### [A pick-up truck crashes into a Amish horse-drawn buggy, killing three preteen children and injuring six other passengers in Bushnell Township, Michigan. Police say their injuries are life-threatening. ](/news/2017/10/29/a-pick-up-truck-crashes-into-a-amish-horse-drawn-buggy-killing-three-preteen-children-and-injuring-six-other-passengers-in-bushnell-townshi.md)
 SHERIDAN, Mich. -- Three children died and six other people were seriously injured when a pickup truck hit a horse-drawn buggy near Sheridan on Sunday morning. The accident occurred at 8:34 a.m. Sunday on East Condensery Road near Townhall Road in Evergreen Township near Sheridan, which is located i...
 
-### [Massoud Barzani, the President of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md)
+### [Massoud Barzani, the president of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md)
 Massud Barzani, the president of the autonomous Kurdish region in Iraq, told a closed-door session of parliament Sunday he was stepping down amid the fallout from a controversial independence referendum.
 
 ### [Hundreds of thousands of supporters for a unified Spain gather in Barcelona, the capital and largest city of Catalonia, in one of the biggest shows of force against Catalan independence. ](/news/2017/10/29/hundreds-of-thousands-of-supporters-for-a-unified-spain-gather-in-barcelona-the-capital-and-largest-city-of-catalonia-in-one-of-the-bigges.md)
@@ -40,7 +43,7 @@ _Context: Dhading District, Nepal, Trishuli River_
 _Context: 2017 Atlantic hurricane season, Cuba, South Florida, Tropical Storm Philippe, northwestern Bahamas_
 
 ### [A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM protestors met by 700+ counter-protesters. ](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.md)
-_Context: "White Lives Matter", Shelbyville, Tennessee_
+_Context: "White Lives Matter", Black Lives Matter, Shelbyville, Tennessee_
 
 ### [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md)
 _Context: Althing, Iceland, Icelandic parliamentary election, 2017_
