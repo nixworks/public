@@ -8,9 +8,10 @@
 ### Sources:
 
 1. [Eldiario](http://www.eldiario.es/politica/Puigdemont-Belgica-justicia-euroorden-detencion_0_702730131.html)
-2. [Reuters](http://www.reuters.com/article/us-spain-politics-catalonia/work-resumes-normally-in-catalonia-as-spain-enforces-direct-rule-idUSKBN1CZ0IP?il=0)
-3. [SFGATE](http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
-3. [Cover Image](http://images.eldiario.es/catalunyaplural/Carles-Puigdemont-President-Generalitat-Catalunya_EDIIMA20170927_0844_3.jpg)
+2. [Het Laatste Nieuws](https://www.hln.be/nieuws/binnenland/puigdemont-in-brussel-op-uitnodiging-van-n-va-druk-overleg-tussen-kabinetten-michel-jambon-en-francken~a99e8163/)
+3. [Reuters](http://www.reuters.com/article/us-spain-politics-catalonia/work-resumes-normally-in-catalonia-as-spain-enforces-direct-rule-idUSKBN1CZ0IP?il=0)
+4. [SFGATE](http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
+4. [Cover Image](https://images4.persgroep.net/rcs/4az2HfIcretngeVtkkExgUmDHyA/diocontent/114271156/_crop/0/95/1758/993/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
 
 ### Related:
 
