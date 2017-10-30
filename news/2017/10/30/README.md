@@ -12,6 +12,9 @@ Peter Madsen says he dismembered the Swedish journalist aboard his submarine but
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
 Families will be allowed into three stadiums in the latest move towards giving women more freedom.
 
+### [The U.S. District Court for the District of Columbia blocks President Donald Trump's proposed ban on new transgender recruits in the U.S. military. ](/news/2017/10/30/the-u-s-district-court-for-the-district-of-columbia-blocks-president-donald-trump-s-proposed-ban-on-new-transgender-recruits-in-the-u-s-mi.md)
+A federal court has blocked President Trump in part from changing the military&#039;s transgender policy as a case against his ban works its way through court.
+
 ### [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.md)
 _Context: Carbon dioxide in Earth's atmosphere, Earth's atmosphere, World Meteorological Organization, carbon dioxide_
 
