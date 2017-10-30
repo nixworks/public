@@ -6,6 +6,9 @@ _Context: 2017 Special Counsel investigation, Donald Trump presidential campaign
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
 _Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
 
+### [ Danish inventor Peter Madsen admits to dismembering Swedish journalist Kim Wall's body. ](/news/2017/10/30/danish-inventor-peter-madsen-admits-to-dismembering-swedish-journalist-kim-wall-s-body.md)
+Peter Madsen says he dismembered the Swedish journalist aboard his submarine but denies killing her.
+
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
 Families will be allowed into three stadiums in the latest move towards giving women more freedom.
 
