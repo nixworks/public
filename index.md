@@ -1,10 +1,13 @@
 ## [News](/news/2017/10/30/index.md)
 
-### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
-Families will be allowed into three stadiums in the latest move towards giving women more freedom.
+### [Paul Manafort and Rick Gates surrender to the F.B.I. after being charged on 12 counts, among which conspiracy, money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-being-charged-on-12-counts-among-which-conspiracy-money-laundering-and-failing.md)
+_Context: 2017 Special Counsel investigation, F.B.I., Paul Manafort, Rick Gates, conspiracy, foreign agent, money laundering_
 
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
-_Context: 2017 Spanish constitutional crisis, Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
+_Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
+
+### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
+Families will be allowed into three stadiums in the latest move towards giving women more freedom.
 
 ### [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged to a record high in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-to-a-record-high-in-2016-according-to-the-world-meteorological.md)
 _Context: Carbon dioxide in Earth's atmosphere, Earth's atmosphere, World Meteorological Organization, carbon dioxide_
@@ -23,7 +26,7 @@ Thousands of people marched in Yangon on Sunday to show support for the military
 ### [Archives from Hewlett-Packard founders William Hewlett and David Packard are among those destroyed by fires in a Santa Rosa neighborhood. ](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.md)
 The papers of William Hewlett and David Packard chronicling the birth of Silicon Valley are no more.
 
-### [A pick-up truck crashes into a Amish horse-drawn buggy, killing three preteen children and injuring six other passengers in Bushnell Township, Michigan. Police say their injuries are life-threatening. ](/news/2017/10/29/a-pick-up-truck-crashes-into-a-amish-horse-drawn-buggy-killing-three-preteen-children-and-injuring-six-other-passengers-in-bushnell-townshi.md)
+### [A pick-up truck crashes into an Amish horse-drawn buggy, killing three preteen children and injuring six other passengers in Bushnell Township, Michigan. Police say the survivors' injuries are life-threatening. ](/news/2017/10/29/a-pick-up-truck-crashes-into-an-amish-horse-drawn-buggy-killing-three-preteen-children-and-injuring-six-other-passengers-in-bushnell-townsh.md)
 SHERIDAN, Mich. -- Three children died and six other people were seriously injured when a pickup truck hit a horse-drawn buggy near Sheridan on Sunday morning. The accident occurred at 8:34 a.m. Sunday on East Condensery Road near Townhall Road in Evergreen Township near Sheridan, which is located i...
 
 ### [Massoud Barzani, the president of the Kurdistan Region in Iraq since 2005, announces that he steps down after November 1. The Iraqi Kurdistan Parliament now has to redistribute the authorities of the presidency. ](/news/2017/10/29/massoud-barzani-the-president-of-the-kurdistan-region-in-iraq-since-2005-announces-that-he-steps-down-after-november-1-the-iraqi-kurdista.md)
