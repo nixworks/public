@@ -24,5 +24,8 @@ The government will pay millions of dollars in one settlement with hundreds of c
 ### [Nearly 3,000 files related to the assassination of President John F. Kennedy in 1963 have been released, while U.S. President Donald Trump orders others to be withheld citing national security concerns. The documents were scheduled for release today in a 1992 law. ](/news/2017/10/26/nearly-3-000-files-related-to-the-assassination-of-president-john-f-kennedy-in-1963-have-been-released-while-u-s-president-donald-trump-o.md)
 Some 2,800 files on the assassination are declassified, but the president withholds some others.
 
+### [Voters in Kenya go to the polls following the annulment of the results in the Kenyan general election. The President of Kenya Uhuru Kenyatta wins with a 98% majority following an opposition boycott. ](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.md)
+Incumbent President Uhuru Kenyatta wins 98 per cent of the vote in a repeat presidential election in Kenya, the electoral commission says.
+
 ## [Previous Day...](/news/2017/10/25/index.md)
 

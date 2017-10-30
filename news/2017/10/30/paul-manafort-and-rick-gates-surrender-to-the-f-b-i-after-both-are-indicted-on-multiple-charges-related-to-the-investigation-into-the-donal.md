@@ -1,6 +1,6 @@
 ### [2017-10-30](/news/2017/10/30/index.md)
 
-# Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men - who respectively served as manager and deputy manager of the campaign from March to August 2016 - are being charged on twelve counts, among which include conspiracy against the U.S., money laundering and failing to register as foreign agents. 
+# Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, among which include conspiracy against the U.S., money laundering and failing to register as foreign agents. 
 
 
 
@@ -13,7 +13,7 @@
 ### Changes:
 
 1. [Paul Manafort and Rick Gates surrender to the F.B.I. after being charged on 12 counts, among which conspiracy, money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-being-charged-on-12-counts-among-which-conspiracy-money-laundering-and-failing.md) _2017-10-30 15:30:04 (First version)_
-1. [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men - who respectively served as manager and deputy manager of the campaign from March to August 2016 - are being charged on twelve counts, among which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-related-to-the-investigation-into-the-donal.md) _(Current version)_
+1. [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, among which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-related-to-the-investigation-into-the-donal.md) _(Current version)_
 
 ### Related:
 
