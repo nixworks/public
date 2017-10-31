@@ -1,7 +1,8 @@
 ## [News](/news/2017/10/31/index.md)
 
-### [ A tunnel under construction at North Korea's nuclear test site collapsed and as many as 100-200 workers could have been killed. ](/news/2017/10/31/a-a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapsed-and-as-many-as-100a200-workers-could-have-been-killed.md)
-### [A court in India has convicted two men of raping a 10-year-old girl who gave birth to a baby girl in August. ](/news/2017/10/31/a-court-in-india-has-convicted-two-men-of-raping-a-10-year-old-girl-who-gave-birth-to-a-baby-girl-in-august.md)
+### [A tunnel under construction at North Korea's nuclear test site collapsed and as many as 200 workers have been killed. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapsed-and-as-many-as-200-workers-have-been-killed.md)
+_Context: North Korea, nuclear test site_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
