@@ -7,7 +7,7 @@ Mughrabi and Dan Williams
 A convoy from the United Nations and Syrian Arab Red Crescent entered towns in the besieged Damascus suburb of eastern Ghouta on Monday, bringing aid to 40,000 people for the first time since June 2016, the United Nations said.
 
 ### [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-stemming-from-the-investigation-into-the-do.md)
-_Context: 2017 Special Counsel investigation, Donald Trump presidential campaign, F.B.I., Paul Manafort, Rick Gates, conspiracy against the U.S., foreign agent, money laundering_
+A timeline in the George Papadopoulos case.
 
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
 _Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_

@@ -13,7 +13,8 @@ The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out 
 ### Changes:
 
 1. [ At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-th.md) _2017-10-20 07:30:05 (First version)_
-1. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _(Current version)_
+2. [At least 43 Afghan cock soliders are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-cock-soliders-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-i.md) _2017-10-31 10:30:04 (Update)_
+2. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _(Current version)_
 
 ### Related:
 

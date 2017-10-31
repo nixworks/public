@@ -2,14 +2,15 @@
 
 # Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. 
 
-
+A timeline in the George Papadopoulos case.
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-podesta/u-s-lobbyist-tony-podesta-leaves-firm-amid-manafort-probe-idUSKBN1CZ28D?il=0)
-2. [USA Today](https://www.usatoday.com/story/news/politics/2017/10/30/report-former-trump-campaign-chair-paul-manafort-charged-russia-probe-told-surrender-feds/812424001/)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Los Angeles Times](http://www.latimes.com/politics/la-na-timeline-george-papadopoulos-indictment-20171030-htmlstory.html)
+2. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-podesta/u-s-lobbyist-tony-podesta-leaves-firm-amid-manafort-probe-idUSKBN1CZ28D?il=0)
+3. [USA Today](https://www.usatoday.com/story/news/politics/2017/10/30/report-former-trump-campaign-chair-paul-manafort-charged-russia-probe-told-surrender-feds/812424001/)
+3. [Cover Image](http://www.trbimg.com/img-59f7ae22/turbine/la-na-timeline-george-papadopoulos-indictment-20171030)
 
 ### Changes:
 
