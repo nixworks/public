@@ -1,4 +1,13 @@
-## [News](/news/2017/10/30/index.md)
+## [News](/news/2017/10/31/index.md)
+
+### [A fast-track court in India has convicted two men of raping a 10-year-old girl who gave birth to a baby girl in August. ](/news/2017/10/31/a-fast-track-court-in-india-has-convicted-two-men-of-raping-a-10-year-old-girl-who-gave-birth-to-a-baby-girl-in-august.md)
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/10/30/index.md)
 
 ### [The IDF destroys a partly-completed tunnel beneath the Gaza Strip border near the town of Khan Yunis, killing seven Hamas militants. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-beneath-the-gaza-strip-border-near-the-town-of-khan-yunis-killing-seven-hamas-militants.md)
 Mughrabi and Dan Williams
@@ -6,7 +15,7 @@ Mughrabi and Dan Williams
 ### [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md)
 A convoy from the United Nations and Syrian Arab Red Crescent entered towns in the besieged Damascus suburb of eastern Ghouta on Monday, bringing aid to 40,000 people for the first time since June 2016, the United Nations said.
 
-### [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-related-to-the-investigation-into-the-donal.md)
+### [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-stemming-from-the-investigation-into-the-do.md)
 _Context: 2017 Special Counsel investigation, Donald Trump presidential campaign, F.B.I., Paul Manafort, Rick Gates, conspiracy against the U.S., foreign agent, money laundering_
 
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
@@ -24,13 +33,9 @@ A federal court has blocked President Trump in part from changing the military&#
 ### [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.md)
 _Context: Carbon dioxide in Earth's atmosphere, Earth's atmosphere, World Meteorological Organization, carbon dioxide_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/10/29/index.md)
+## [Day Before Yesterday](/news/2017/10/29/index.md)
 
 ### [More than 2,000 people march in Yangon to show support for the military, urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the Rohingya people). ](/news/2017/10/29/more-than-2-000-people-march-in-yangon-to-show-support-for-the-military-urging-the-military-to-secure-the-country-s-sovereignty-protect-na.md)
 Thousands of people marched in Yangon on Sunday to show support for the military, which has come under heavy criticism over violence that has driven hundreds of thousands of Rohingya Muslims to flee from Rakhine state to neighboring Bangladesh. More than 2,000 army supporters, including...
@@ -52,26 +57,7 @@ The marchers backed unity with Spain and demanded the arrest of Catalan leaders.
 
 ---
 
-## [Day Before Yesterday](/news/2017/10/28/index.md)
-
-### [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md)
-_Context: 28 October 2017 Mogadishu bombings, Al-Shabaab, Mogadishu, Somalia, a similar attack_
-
-### [At least 19 people are killed and 16 others are injured when a bus skids off the road in the Dhading District and falls into the Trishuli River in central Nepal. ](/news/2017/10/28/at-least-19-people-are-killed-and-16-others-are-injured-when-a-bus-skids-off-the-road-in-the-dhading-district-and-falls-into-the-trishuli-ri.md)
-_Context: Dhading District, Nepal, Trishuli River_
-
-### [Tropical storm warnings are issued for western Cuba and the northwestern Bahamas, and tropical storm warnings are announced for coastal South Florida in the U.S., as a strengthening Tropical Storm Philippe treks north-northeast with maximum sustained winds at 35 mph (55 km-h). ](/news/2017/10/28/tropical-storm-warnings-are-issued-for-western-cuba-and-the-northwestern-bahamas-and-tropical-storm-warnings-are-announced-for-coastal-sout.md)
-_Context: 2017 Atlantic hurricane season, Cuba, South Florida, Tropical Storm Philippe, northwestern Bahamas_
-
-### [A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM protestors met by 700+ counter-protesters. ](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.md)
-_Context: "White Lives Matter", Black Lives Matter, Shelbyville, Tennessee_
-
-### [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md)
-_Context: Althing, Iceland, Icelandic parliamentary election, 2017_
-
----
-
-## [Previous Day...](/news/2017/10/27/index.md)
+## [Previous Day...](/news/2017/10/28/index.md)
 
 ---
 
