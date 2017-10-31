@@ -1,6 +1,6 @@
 ## [2017-10-19](/news/2017/10/19/index.md)
 
-### [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md)
+### [At least 43 Afghan cock soliders are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-cock-soliders-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-i.md)
 The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out an army camp in the southern Kandahar province.
 
 ### [The United States Africa Command sends a team to Niger to investigate an October 4 ambush which killed four U.S. soldiers. ](/news/2017/10/19/the-united-states-africa-command-sends-a-team-to-niger-to-investigate-an-october-4-ambush-which-killed-four-u-s-soldiers.md)

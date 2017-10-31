@@ -7,8 +7,9 @@
 
 ### Sources:
 
-1. [USA Today](https://www.usatoday.com/story/news/politics/2017/10/30/report-former-trump-campaign-chair-paul-manafort-charged-russia-probe-told-surrender-feds/812424001/)
-1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+1. [Reuters](http://www.reuters.com/article/us-usa-trump-russia-podesta/u-s-lobbyist-tony-podesta-leaves-firm-amid-manafort-probe-idUSKBN1CZ28D?il=0)
+2. [USA Today](https://www.usatoday.com/story/news/politics/2017/10/30/report-former-trump-campaign-chair-paul-manafort-charged-russia-probe-told-surrender-feds/812424001/)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 

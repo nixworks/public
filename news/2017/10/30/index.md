@@ -1,5 +1,11 @@
 ## [2017-10-30](/news/2017/10/30/index.md)
 
+### [The IDF destroys a partly-completed tunnel beneath the Gaza Strip border near the town of Khan Yunis, killing seven Hamas militants. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-beneath-the-gaza-strip-border-near-the-town-of-khan-yunis-killing-seven-hamas-militants.md)
+Mughrabi and Dan Williams
+
+### [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md)
+A convoy from the United Nations and Syrian Arab Red Crescent entered towns in the besieged Damascus suburb of eastern Ghouta on Monday, bringing aid to 40,000 people for the first time since June 2016, the United Nations said.
+
 ### [Paul Manafort and Rick Gates surrender to the F.B.I. after both are indicted on multiple charges related to the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f-b-i-after-both-are-indicted-on-multiple-charges-related-to-the-investigation-into-the-donal.md)
 _Context: 2017 Special Counsel investigation, Donald Trump presidential campaign, F.B.I., Paul Manafort, Rick Gates, conspiracy against the U.S., foreign agent, money laundering_
 

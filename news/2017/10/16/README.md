@@ -3,9 +3,6 @@
 ### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.
 
-### [Iraqi government forces have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. ](/news/2017/10/16/iraqi-government-forces-have-captured-key-installations-outside-the-disputed-city-of-kirkuk-from-kurdish-fighters.md)
-Iraqi forces move on Kurdish-controlled areas, weeks after the region voted to secede from Iraq.
-
 ### [Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. ](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.md)
 Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
 
