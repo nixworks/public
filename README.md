@@ -1,10 +1,10 @@
 ## [News](/news/2017/10/31/index.md)
 
-### [Multiple people are killed in lower Manhattan as a truck plows through bikers. ](/news/2017/10/31/multiple-people-are-killed-in-lower-manhattan-as-a-truck-plows-through-bikers.md)
+### [ Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, holding two guns, later found to be a paintball gun and a pellet gun, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pick-up-truck-drives-through-a-bike-path-along-west-side-high.md)
 A man in a pickup truck killed seven people when he drove onto the West Side bike path in lower Manhattan Tuesday afternoon &#8212; and then shouted “Allahu Akbar” as he got out of the car with fak…
 
-### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
-_Context: North Korea, nuclear test site_
+### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
+_Context: North Korea, North Korea tunnel collapse, nuclear test site_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +23,7 @@ A convoy from the United Nations and Syrian Arab Red Crescent entered towns in t
 ### [Paul Manafort and Rick Gates surrender to the FBI after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-fbi-after-both-are-indicted-on-multiple-charges-stemming-from-the-investigation-into-the-donal.md)
 A timeline in the George Papadopoulos case.
 
-### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
+### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
 _Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
 
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)

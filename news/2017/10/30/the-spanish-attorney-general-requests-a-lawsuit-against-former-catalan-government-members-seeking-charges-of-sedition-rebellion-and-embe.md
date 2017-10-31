@@ -1,6 +1,6 @@
 ### [2017-10-30](/news/2017/10/30/index.md)
 
-# The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. 
+# The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. 
 
 
 
@@ -8,12 +8,11 @@
 ### Sources:
 
 1. [7sur7](http://www.7sur7.be/7s7/fr/40422/Referendum-en-Catalogne/article/detail/3296928/2017/10/30/Carles-Puigdemont-a-Bruxelles-la-N-VA-dement-l-avoir-invite.dhtml)
-2. [Eldiario](http://www.eldiario.es/politica/Puigdemont-Belgica-justicia-euroorden-detencion_0_702730131.html)
+2. [El Diario](http://www.eldiario.es/politica/Puigdemont-Belgica-justicia-euroorden-detencion_0_702730131.html)
 3. [Het Laatste Nieuws](https://www.hln.be/nieuws/binnenland/puigdemont-in-brussel-op-uitnodiging-van-n-va-druk-overleg-tussen-kabinetten-michel-jambon-en-francken~a99e8163/)
 4. [Reuters](http://www.reuters.com/article/us-spain-politics-catalonia/work-resumes-normally-in-catalonia-as-spain-enforces-direct-rule-idUSKBN1CZ0IP?il=0)
-5. [SFGATE](http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
-6. [San Francisco Chronicle](http://www.sfchronicle.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
-6. [Cover Image](http://static1.7sur7.be/static/photo/2017/3/4/6/20171030170128/media_xll_10100061.jpg)
+5. [San Francisco Chronicle](http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php)
+5. [Cover Image](http://static1.7sur7.be/static/photo/2017/3/4/6/20171030170128/media_xll_10100061.jpg)
 
 ### Related:
 

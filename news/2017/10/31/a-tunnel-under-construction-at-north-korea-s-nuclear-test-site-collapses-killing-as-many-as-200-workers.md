@@ -1,6 +1,6 @@
 ### [2017-10-31](/news/2017/10/31/index.md)
 
-# A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers 
+# A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. 
 
 
 
@@ -14,7 +14,7 @@
 1. [ A tunnel under construction at North Korea's nuclear test site collapsed and as many as 100-200 workers could have been killed.[http:--m.yna.co.kr-mob2-en-contents_en.jsp?cid=AEN20171031012000315&domain=3&ctype=A&site=0400000000]](/news/2017/10/31/a-a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapsed-and-as-many-as-100a200-workers-could-have-been-killed-http-m.md) _2017-10-31 14:30:05 (First version)_
 2. [ A tunnel under construction at North Korea's nuclear test site collapsed and as many as 100-200 workers could have been killed. ](/news/2017/10/31/a-a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapsed-and-as-many-as-100a200-workers-could-have-been-killed.md) _2017-10-31 19:30:05 (Update)_
 3. [A tunnel under construction at North Korea's nuclear test site collapsed and as many as 200 workers have been killed. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapsed-and-as-many-as-200-workers-have-been-killed.md) _2017-10-31 21:30:05 (Update)_
-3. [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md) _(Current version)_
+3. [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md) _(Current version)_
 
 ### Related:
 
