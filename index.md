@@ -3,6 +3,9 @@
 ### [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md)
 _Context: Houthi, Saada Governorate, Sahar District, Saudi, Saudi Arabian-led intervention in Yemen, Yemen_
 
+### [Two tankers explode in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-tankers-explode-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md)
+At least 15 people were killed and 27 wounded when fuel tankers exploded in the town of Charikar, northwest of the Afghan capital Kabul on Wednesday, destroying a nearby bus, residents and officials said.
+
 ### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md)
 Visitors will not be allowed to scale the iconic monolith because of indigenous sensitivities.
 
@@ -32,10 +35,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/10/31/index.md)
 
-### [Eight people are killed and at least 11 others injured when a man in a rented pickup truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pickup-truck-drives-through-a-bike-path-along-west-side-highwa.md)
+### [Eight people are killed and at least 11 others injured when a man in a rented pickup truck drives down a bike path along the West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pickup-truck-drives-down-a-bike-path-along-the-west-side-highw.md)
 A man in a pickup truck killed seven people when he drove onto the West Side bike path in lower Manhattan Tuesday afternoon &#8212; and then shouted “Allahu Akbar” as he got out of the car with fak…
 
-### [A suicide-bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md)
+### [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md)
 A suicide bomber in the Afghan capital Kabul killed as many as eight people and wounded many others, most of whom appeared to be workers leaving their offices at the start of the evening rush hour, witnesses and officials said on Tuesday.
 
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)

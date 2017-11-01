@@ -1,6 +1,6 @@
 ### [2017-10-31](/news/2017/10/31/index.md)
 
-# A suicide-bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. 
+# A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. 
 
 A suicide bomber in the Afghan capital Kabul killed as many as eight people and wounded many others, most of whom appeared to be workers leaving their offices at the start of the evening rush hour, witnesses and officials said on Tuesday.
 
