@@ -1,5 +1,8 @@
 ## [2017-11-1](/news/2017/11/1/index.md)
 
+### [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md)
+_Context: Houthi, Saada Governorate, Sahar District, Saudi, Saudi Arabian-led intervention in Yemen, Yemen_
+
 ### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md)
 Visitors will not be allowed to scale the iconic monolith because of indigenous sensitivities.
 
@@ -17,6 +20,9 @@ _Context: 2017 Australian parliamentary eligibility crisis, President of the Aus
 
 ### [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md)
 The French President, Emmanuel Macron, has declared the country&#039;s state of emergency will end tomorrow on 1 November, almost two years after the 2015 Paris attacks. Mr Macron formally signed a sweeping counterterrorism law to replace the state of emergency, which is meant to give police more to...
+
+### [Michael Fallon resigns as the United Kingdom's Secretary of State for Defence amid controversy over reports he touched a female journalist inappropriately in 2002. ](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.md)
+Defence Secretary Sir Michael Fallon resigns, saying past personal behaviour is &quot;not acceptable now&quot;.
 
 ## [Previous Day...](/news/2017/10/31/index.md)
 
