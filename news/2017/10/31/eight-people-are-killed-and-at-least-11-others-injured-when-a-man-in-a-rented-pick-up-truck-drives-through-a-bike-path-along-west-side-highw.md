@@ -1,6 +1,6 @@
 ### [2017-10-31](/news/2017/10/31/index.md)
 
-# Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Habibullaevic Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. 
+# Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. 
 
 A man in a pickup truck killed seven people when he drove onto the West Side bike path in lower Manhattan Tuesday afternoon &#8212; and then shouted “Allahu Akbar” as he got out of the car with fak…
 
@@ -16,7 +16,7 @@ A man in a pickup truck killed seven people when he drove onto the West Side bik
 ### Changes:
 
 1. [ Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Habibullaevic Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pick-up-truck-drives-through-a-bike-path-along-west-side-high.md) _2017-11-01 07:30:05 (First version)_
-1. [Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Habibullaevic Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pick-up-truck-drives-through-a-bike-path-along-west-side-highw.md) _(Current version)_
+1. [Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pick-up-truck-drives-through-a-bike-path-along-west-side-highw.md) _(Current version)_
 
 ### Related:
 
