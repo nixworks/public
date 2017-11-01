@@ -3,6 +3,9 @@
 ### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md)
 Visitors will not be allowed to scale the iconic monolith because of indigenous sensitivities.
 
+### [Michael Oreskes resigns from his position as senior vice president of news at NPR because of "inappropriate behavior" after two journalists accuse him of sexual harassment. ](/news/2017/11/1/michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-because-of-inappropriate-behavior-after-two-journalists.md)
+NPR put executive Michael Oreskes on leave after the Washington Post reported decades-old allegations of sexual harassment against two journalists while working at the New York Times.
+
 ### [A Belgian lawyer representing Carles Puigdemont announced that his client would not be returning to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announced-that-his-client-would-not-be-returning-to-spain-to-answer-charges-against-him-spa.md)
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
 
