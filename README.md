@@ -9,6 +9,9 @@ _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
 ### [President of the Australian Senate, Stephen Parry, announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. ](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.md)
 _Context: 2017 Australian parliamentary eligibility crisis, President of the Australian Senate, Stephen Parry_
 
+### [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by president Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md)
+The French President, Emmanuel Macron, has declared the country&#039;s state of emergency will end tomorrow on 1 November, almost two years after the 2015 Paris attacks. Mr Macron formally signed a sweeping counterterrorism law to replace the state of emergency, which is meant to give police more to...
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
