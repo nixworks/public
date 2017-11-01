@@ -3,6 +3,9 @@
 ### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md)
 Visitors will not be allowed to scale the iconic monolith because of indigenous sensitivities.
 
+### [A Belgian lawyer representing Carles Puigdemont announced that his client would not be returning to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announced-that-his-client-would-not-be-returning-to-spain-to-answer-charges-against-him-spa.md)
+The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
+
 ### [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
 _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
 
@@ -45,7 +48,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ## [Day Before Yesterday](/news/2017/10/30/index.md)
 
-### [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md)
+### [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md)
 Mughrabi and Dan Williams
 
 ### [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md)

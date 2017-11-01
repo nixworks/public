@@ -1,6 +1,6 @@
 ### [2017-10-30](/news/2017/10/30/index.md)
 
-# The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. several more died in the rescue efforts. 
+# The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. 
 
 Mughrabi and Dan Williams
 
@@ -13,7 +13,7 @@ Mughrabi and Dan Williams
 ### Changes:
 
 1. [The IDF destroys a partly-completed tunnel beneath the Gaza Strip border near the town of Khan Yunis, killing seven Hamas militants. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-beneath-the-gaza-strip-border-near-the-town-of-khan-yunis-killing-seven-hamas-militants.md) _2017-10-31 17:30:05 (First version)_
-1. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _(Current version)_
+1. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _(Current version)_
 
 ### Related:
 

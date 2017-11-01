@@ -1,6 +1,6 @@
 ## [2017-10-30](/news/2017/10/30/index.md)
 
-### [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md)
+### [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md)
 Mughrabi and Dan Williams
 
 ### [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md)
