@@ -21,5 +21,8 @@ Facebook, Google and Twitter lawyers tell a Senate committee they plan to be mor
 ### [The Latino Victory Fund withdraws an anti-Ed Gillespie political advertisement because of scenes which loosely resemble a recent terror attack in New York City. The ad was originally meant to improve Ralph Northam's standing with minority voters. ](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.md)
 Private polling showed the Democratic candidate with soft support among Latinos in Virginia.
 
+### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
+_Context: California, Minotaur-C, Planet Labs, Vandenberg Air Force Base_
+
 ## [Previous Day...](/news/2017/10/30/index.md)
 
