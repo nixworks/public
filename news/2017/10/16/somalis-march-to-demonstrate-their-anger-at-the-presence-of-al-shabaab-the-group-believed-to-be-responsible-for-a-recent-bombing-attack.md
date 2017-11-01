@@ -8,7 +8,9 @@ Somalis reacted to a devastating bomb attack on Saturday by marching and donatin
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/av/world-africa-41632656/mogadishu-somalis-protest-against-al-shabab)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/60CE/production/_98328742_p05k28sx.jpg)
+2. [BBC](http://www.bbc.com/news/business-41637791)
+3. [BBC](http://www.bbc.com/news/world-middle-east-41631697)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/60CE/production/_98328742_p05k28sx.jpg)
 
 ### Related:
 

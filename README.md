@@ -33,7 +33,7 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 _Context: North Korea, North Korea tunnel collapse, nuclear test site_
 
 ### [A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. ](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-utah-leaves-one-student-dead-a-suspect-is-taken-into-custody.md)
-_Context: University of Utah_
+_Context: Crime in Utah, University of Utah_
 
 ### [At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. ](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.md)
 Police officers swarmed a Riverside elementary school classroom where a parent had taken a teacher hostage, ending an hours-long standoff.
@@ -44,8 +44,8 @@ Facebook, Google and Twitter lawyers tell a Senate committee they plan to be mor
 ### [The Latino Victory Fund withdraws an anti-Ed Gillespie political advertisement because of scenes which loosely resemble a recent terror attack in New York City. The ad was originally meant to improve Ralph Northam's standing with minority voters. ](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.md)
 Private polling showed the Democratic candidate with soft support among Latinos in Virginia.
 
-### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: California, Minotaur-C, Planet Labs, Vandenberg Air Force Base_
+### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
+_Context: 2017 in spaceflight, California, Minotaur-C, Planet Labs, Vandenberg Air Force Base_
 
 ---
 
