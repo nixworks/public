@@ -6,6 +6,9 @@ Visitors will not be allowed to scale the iconic monolith because of indigenous 
 ### [A Belgian lawyer representing Carles Puigdemont announced that his client would not be returning to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announced-that-his-client-would-not-be-returning-to-spain-to-answer-charges-against-him-spa.md)
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
 
+### [A car accident involving at least 14 vehicles results in at least 3 deaths in Barrie, Ontario. Death toll is expected to rise. ](/news/2017/11/1/a-car-accident-involving-at-least-14-vehicles-results-in-at-least-3-deaths-in-barrie-ontario-death-toll-is-expected-to-rise.md)
+Three people are confirmed dead after a fiery crash involving at least 14 vehicles on Highway 400 south of Barrie and Ontario Provincial Police are warning that the death toll could rise.
+
 ### [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
 _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
 
