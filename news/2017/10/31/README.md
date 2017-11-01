@@ -3,6 +3,9 @@
 ### [Eight people are killed and at least 11 others injured when a man in a rented pick-up truck drives through a bike path along West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as an Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pick-up-truck-drives-through-a-bike-path-along-west-side-highw.md)
 A man in a pickup truck killed seven people when he drove onto the West Side bike path in lower Manhattan Tuesday afternoon &#8212; and then shouted “Allahu Akbar” as he got out of the car with fak…
 
+### [A suicide-bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md)
+A suicide bomber in the Afghan capital Kabul killed as many as eight people and wounded many others, most of whom appeared to be workers leaving their offices at the start of the evening rush hour, witnesses and officials said on Tuesday.
+
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
 _Context: North Korea, North Korea tunnel collapse, nuclear test site_
 
