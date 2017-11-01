@@ -9,6 +9,9 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
 _Context: North Korea, North Korea tunnel collapse, nuclear test site_
 
+### [A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. ](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.md)
+A fatal, 14-vehicle pileup that killed at least three people and left Highway 400 about an hour north of Toronto littered with &quot;tangled, twisted metal&quot; may have been caused by an inattentive transport truck driver, police say.
+
 ### [A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. ](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-utah-leaves-one-student-dead-a-suspect-is-taken-into-custody.md)
 _Context: Crime in Utah, University of Utah_
 

@@ -9,16 +9,13 @@ NPR put executive Michael Oreskes on leave after the Washington Post reported de
 ### [A Belgian lawyer representing Carles Puigdemont announced that his client would not be returning to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announced-that-his-client-would-not-be-returning-to-spain-to-answer-charges-against-him-spa.md)
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
 
-### [A car accident involving at least 14 vehicles results in at least 3 deaths in Barrie, Ontario. Death toll is expected to rise. ](/news/2017/11/1/a-car-accident-involving-at-least-14-vehicles-results-in-at-least-3-deaths-in-barrie-ontario-death-toll-is-expected-to-rise.md)
-Three people are confirmed dead after a fiery crash involving at least 14 vehicles on Highway 400 south of Barrie and Ontario Provincial Police are warning that the death toll could rise.
-
 ### [Shinzo Abe has been officially re-elected as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-has-been-officially-re-elected-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
 _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
 
 ### [President of the Australian Senate, Stephen Parry, announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. ](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.md)
 _Context: 2017 Australian parliamentary eligibility crisis, President of the Australian Senate, Stephen Parry_
 
-### [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by president Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md)
+### [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md)
 The French President, Emmanuel Macron, has declared the country&#039;s state of emergency will end tomorrow on 1 November, almost two years after the 2015 Paris attacks. Mr Macron formally signed a sweeping counterterrorism law to replace the state of emergency, which is meant to give police more to...
 
 ## Opinion
@@ -37,6 +34,9 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
 _Context: North Korea, North Korea tunnel collapse, nuclear test site_
+
+### [A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. ](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.md)
+A fatal, 14-vehicle pileup that killed at least three people and left Highway 400 about an hour north of Toronto littered with &quot;tangled, twisted metal&quot; may have been caused by an inattentive transport truck driver, police say.
 
 ### [A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. ](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-utah-leaves-one-student-dead-a-suspect-is-taken-into-custody.md)
 _Context: Crime in Utah, University of Utah_
