@@ -8,9 +8,10 @@ A man in a pickup truck killed seven people when he drove onto the West Side bik
 ### Sources:
 
 1. [AP](https://apnews.com/aa83dfe6157f4214a5e92efaba4142c9)
-2. [New York Post](http://nypost.com/2017/10/31/several-people-shot-in-downtown-manhattan/)
-3. [UPI](https://www.upi.com/Top_News/US/2017/10/31/New-York-truck-crash-that-killed-8-treated-as-terrorism/7791509478474/?utm_source=fp&utm_campaign=ls&utm_medium=1)
-3. [Cover Image](https://thenypost.files.wordpress.com/2017/10/171031-manhattan-crash-index.jpg?quality=90&amp;strip=all&amp;w=1200)
+2. [NBC News](https://www.nbcnews.com/storyline/nyc-terrorist-attack/least-one-person-dead-incident-lower-manhattan-n816166?cid=eml_nbn_20171031)
+3. [New York Post](http://nypost.com/2017/10/31/several-people-shot-in-downtown-manhattan/)
+4. [UPI](https://www.upi.com/Top_News/US/2017/10/31/New-York-truck-crash-that-killed-8-treated-as-terrorism/7791509478474/?utm_source=fp&utm_campaign=ls&utm_medium=1)
+4. [Cover Image](https://thenypost.files.wordpress.com/2017/10/171031-manhattan-crash-index.jpg?quality=90&amp;strip=all&amp;w=1200)
 
 ### Related:
 
