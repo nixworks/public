@@ -1,6 +1,6 @@
 ### [2017-11-1](/news/2017/11/1/index.md)
 
-# A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order an European Arrest Warrant if Puigdemont fails to appear in court. 
+# A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order a European Arrest Warrant if Puigdemont fails to appear in court. 
 
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
 
@@ -13,7 +13,7 @@ The ousted Catalan leader, who is currently in Belgium, has been called to answe
 ### Changes:
 
 1. [A Belgian lawyer representing Carles Puigdemont announced that his client would not be returning to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announced-that-his-client-would-not-be-returning-to-spain-to-answer-charges-against-him-spa.md) _2017-11-01 23:30:05 (First version)_
-1. [A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order an European Arrest Warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.md) _(Current version)_
+1. [A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order a European Arrest Warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.md) _(Current version)_
 
 ### Related:
 
