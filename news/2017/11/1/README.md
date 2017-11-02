@@ -6,14 +6,17 @@ _Context: Houthi, Saada Governorate, Sahar District, Saudi, Saudi Arabian-led in
 ### [Two fuel tankers are bombed in the Afghanistani town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghanistani-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md)
 At least 15 people were killed and 27 wounded when fuel tankers exploded in the town of Charikar, northwest of the Afghan capital Kabul on Wednesday, destroying a nearby bus, residents and officials said.
 
-### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru in Australia's Northern Territory, from October 2019, due to Indigenous concerns over tourist behavior. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-in-australia-s-northern-territory-from-october-20.md)
-Visitors will not be allowed to scale the iconic monolith because of indigenous sensitivities.
+### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru, sacred to the Anangu people, in Australia's Northern Territory, from October 2019, due to Indigenous concerns over respect for the sacred site and for the safety of tourists. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-sacred-to-the-anangu-people-in-australia-s-north.md)
+_Context: Indigenous, Northern Territory, Uluru, Uluru-Kata Tjuta National Park_
 
-### [Michael Oreskes resigns from his position as senior vice president of news at NPR because of "inappropriate behavior" after two journalists accuse him of sexual harassment. ](/news/2017/11/1/michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-because-of-inappropriate-behavior-after-two-journalists.md)
+### [Citing "inappropriate behavior", Michael Oreskes resigns from his position as senior vice president of news at NPR after three journalists accuse him of sexual harassment. ](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.md)
 NPR put executive Michael Oreskes on leave after the Washington Post reported decades-old allegations of sexual harassment against two journalists while working at the New York Times.
 
 ### [A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order an arrest warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.md)
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
+
+### [A gunman opens fire in a suburban Denver, Colorado Wal-Mart, killing two people and seriously injuring one. ](/news/2017/11/1/a-gunman-opens-fire-in-a-suburban-denver-colorado-wal-mart-killing-two-people-and-seriously-injuring-one.md)
+At least three people were killed in a shooting inside a Walmart store on Wednesday in suburban Denver, where police said they had not yet taken anyone into custody.
 
 ### [Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
 _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
