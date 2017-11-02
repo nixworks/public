@@ -3,5 +3,8 @@
 ### [A Bethlehem art installation (by anonymous artist Banksy) celebrates the 100th anniversary of the Balfour Declaration. ](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-celebrates-the-100th-anniversary-of-the-balfour-declaration.md)
 Palestinian flag raised at event in Bethlehem held in week of centenary of declaration promising UK assistance in creation of Jewish homeland
 
+### [At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. ](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boiler-explosion-at-a-coal-fired-power-plant-in-uttar-pradesh-state-india.md)
+_Context: 2017 NTPC power plant explosion, coal-fired power plant_
+
 ## [Previous Day...](/news/2017/11/1/index.md)
 
