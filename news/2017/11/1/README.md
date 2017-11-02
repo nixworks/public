@@ -15,8 +15,8 @@ NPR put executive Michael Oreskes on leave after the Washington Post reported de
 ### [A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order an European Arrest Warrant if Puigdemont fails to appear in court. ](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.md)
 The ousted Catalan leader, who is currently in Belgium, has been called to answer charges in Madrid.
 
-### [A gunman opens fire in a suburban Denver, Colorado Wal-Mart, killing two people and seriously injuring one. ](/news/2017/11/1/a-gunman-opens-fire-in-a-suburban-denver-colorado-wal-mart-killing-two-people-and-seriously-injuring-one.md)
-At least three people were killed in a shooting inside a Walmart store on Wednesday in suburban Denver, where police said they had not yet taken anyone into custody.
+### [A gunman opens fire in a Wal-Mart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-wal-mart-in-thornton-colorado-killing-three-people.md)
+Two men and a woman were killed in a shooting inside a suburban Denver Walmart on Wednesday night that forced customers to either hide or flee.
 
 ### [Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
 _Context: Japanese general election, 2017, Prime Minister of Japan, Shinzo Abe_
