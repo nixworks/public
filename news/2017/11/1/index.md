@@ -30,5 +30,8 @@ The French President, Emmanuel Macron, has declared the country&#039;s state of 
 ### [Michael Fallon resigns as the United Kingdom's Secretary of State for Defence amid controversy over reports he touched a female journalist inappropriately in 2002. ](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.md)
 Defence Secretary Sir Michael Fallon resigns, saying past personal behaviour is &quot;not acceptable now&quot;.
 
+### [The U.S. Environmental Protection Agency reports weed killer dicamba, used in fields with genetically modified crops, has damaged more than 3.6 million acres of normal soybean crops in 25 states this year. ](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-weed-killer-dicamba-used-in-fields-with-genetically-modified-crops-has-damaged-more-than.md)
+The herbicide dicamba is intended for soybeans and cotton crops that have been genetically modified. But other crops on nearby fields are suffering.
+
 ## [Previous Day...](/news/2017/10/31/index.md)
 

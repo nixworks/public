@@ -6,9 +6,6 @@ Palestinian flag raised at event in Bethlehem held in week of centenary of decla
 ### [At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. ](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boiler-explosion-at-a-coal-fired-power-plant-in-uttar-pradesh-state-india.md)
 _Context: 2017 NTPC power plant explosion, coal-fired power plant_
 
-### [Sam Clovis, a former Trump campaign official connected to the FBI's Russia investigation, withdraws his name from consideration to be the Department of Agriculture's Undersecretary for Research, Education and Economics. ](/news/2017/11/2/sam-clovis-a-former-trump-campaign-official-connected-to-the-fbi-s-russia-investigation-withdraws-his-name-from-consideration-to-be-the-de.md)
-Sam Clovis has withdrawn his name from consideration as the president’s pick to be the Department of Agriculture’s chief scientist.
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -46,6 +43,9 @@ The French President, Emmanuel Macron, has declared the country&#039;s state of 
 
 ### [Michael Fallon resigns as the United Kingdom's Secretary of State for Defence amid controversy over reports he touched a female journalist inappropriately in 2002. ](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.md)
 Defence Secretary Sir Michael Fallon resigns, saying past personal behaviour is &quot;not acceptable now&quot;.
+
+### [The U.S. Environmental Protection Agency reports weed killer dicamba, used in fields with genetically modified crops, has damaged more than 3.6 million acres of normal soybean crops in 25 states this year. ](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-weed-killer-dicamba-used-in-fields-with-genetically-modified-crops-has-damaged-more-than.md)
+The herbicide dicamba is intended for soybeans and cotton crops that have been genetically modified. But other crops on nearby fields are suffering.
 
 ---
 
