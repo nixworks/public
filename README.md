@@ -9,6 +9,15 @@ Iraqi forces have entered al-Qaim, one of the last remaining territories in the 
 ### [United States president Donald Trump's first daughter, Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-ivanka-visits-japan.md)
 The first daughter speaks at a government-organized women&rsquo;s conference in Tokyo.
 
+### [Spain issues an arrest warrant against Catalan Republic president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-catalan-republic-president-carles-puigdemont.md)
+The sacked regional president went to Belgium shortly after Spain imposed direct rule.
+
+### [United States soldier Bowe Bergdahl gets convicted and is dishonorably discharged but escapes imprisonment. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-and-is-dishonorably-discharged-but-escapes-imprisonment.md)
+The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.
+
+### [Zimbabwe convicts an American citizen trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-convicts-an-american-citizen-trying-to-overthrow-the-regime-of-robert-mugabe.md)
+_Context: American, Human rights in Zimbabwe, Robert Mugabe, Zimbabwe_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.

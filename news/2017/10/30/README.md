@@ -10,7 +10,7 @@ A convoy from the United Nations and Syrian Arab Red Crescent entered towns in t
 A timeline in the George Papadopoulos case.
 
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
-_Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
+_Context: 2017 Spanish constitutional crisis, Catalan Republic, Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
 
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
 Families will be allowed into three stadiums in the latest move towards giving women more freedom.
