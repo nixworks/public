@@ -9,5 +9,8 @@ Powell is known for his centrist ideas and experience in the Federal Reserve.
 ### [At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. ](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boiler-explosion-at-a-coal-fired-power-plant-in-uttar-pradesh-state-india.md)
 _Context: 2017 NTPC power plant explosion, coal-fired power plant_
 
+### [Opposition leader Katrn Jakobsdttir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katrin-jakobsdottir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-the.md)
+Icelandic Left Green Movement leader Katrin Jakobsdottir has been given a mandate to explore a governing coalition from President Gudni Th. Johannesson.
+
 ## [Previous Day...](/news/2017/11/1/index.md)
 
