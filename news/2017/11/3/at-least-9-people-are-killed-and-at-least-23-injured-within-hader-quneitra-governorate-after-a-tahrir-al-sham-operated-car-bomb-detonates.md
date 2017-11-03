@@ -1,6 +1,6 @@
 ### [2017-11-3](/news/2017/11/3/index.md)
 
-#  At least 9 people are killed and at least 23 injured within Hader, Quneitra Governorate after a Tahrir al-Sham operated car bomb detonates inside the town.
+#  At least 9 people are killed and at least 23 injured within Hader, Quneitra Governorate after a Tahrir al-Sham operated car bomb detonates inside the town. 
 
 
 
