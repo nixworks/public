@@ -7,7 +7,7 @@
 
 ### Sources:
 
-1. [Deutch-Welle via USA Today](https://www.usatoday.com/story/news/world/2017/11/01/australia-bans-tourists-climbing-iconic-rock-uluru/820174001/)
+1. [Deutsch-Welle via USA Today](https://www.usatoday.com/story/news/world/2017/11/01/australia-bans-tourists-climbing-iconic-rock-uluru/820174001/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Changes:
