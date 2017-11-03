@@ -7,8 +7,9 @@
 
 ### Sources:
 
-1. [Sputnik International](https://sputniknews.com/middleeast/201711031058777870-syrian-army-last-daesh-remnants/)
-1. [Cover Image](https://cdn5.img.sputniknews.com/images/105774/05/1057740521.jpg)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-nusra-blast/nine-killed-by-nusra-front-car-bomb-in-southwest-syria-state-media-idUSKBN1D30XQ?il=0)
+2. [Sputnik International](https://sputniknews.com/middleeast/201711031058777870-syrian-army-last-daesh-remnants/)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
