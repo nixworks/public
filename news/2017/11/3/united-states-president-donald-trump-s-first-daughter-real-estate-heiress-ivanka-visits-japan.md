@@ -7,7 +7,8 @@ The first daughter speaks at a government-organized women&rsquo;s conference in 
 
 ### Sources:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/japan-is-all-abuzz-about-the-arrival-of-a-trump-ivanka-trump/2017/11/02/a60041ee-bf1c-11e7-9294-705f80164f6e_story.html)
+1. [The New York Times](https://www.nytimes.com/2017/11/03/world/asia/ivanka-trump-japan.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/japan-is-all-abuzz-about-the-arrival-of-a-trump-ivanka-trump/2017/11/02/a60041ee-bf1c-11e7-9294-705f80164f6e_story.html)
 
 ### Related:
 
