@@ -6,7 +6,7 @@ _Context: Deir ez-Zor, ISIL, Syrian Arab Army, Syrian Civil War_
 ### [The Iraqi Armed Forces entered the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-entered-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by.md)
 Iraqi forces have entered al-Qaim, one of the last remaining territories in the country still held by Islamic State militants, the Joint Operations Command said on Friday.
 
-### [United States president Donald Trump's first daughter, Ivanka, visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-first-daughter-ivanka-visits-japan.md)
+### [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md)
 The first daughter speaks at a government-organized women&rsquo;s conference in Tokyo.
 
 ### [Spain issues an arrest warrant against Catalan Republic president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-catalan-republic-president-carles-puigdemont.md)
