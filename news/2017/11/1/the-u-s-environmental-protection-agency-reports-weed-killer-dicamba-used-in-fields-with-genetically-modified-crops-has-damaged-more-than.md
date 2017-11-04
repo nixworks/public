@@ -7,7 +7,7 @@ The herbicide dicamba is intended for soybeans and cotton crops that have been g
 
 ### Sources:
 
-1. [The New York Times](https://www.nytimes.com/2017/11/01/business/soybeans-pesticide.html?emc=edit_th_20171102&nl=todaysheadlines&nlid=11553763&module=ArrowsNav&contentCollection=Business%20Day&action=keypress&region=FixedLeft&pgtype=article)
+1. [The New York Times](https://www.nytimes.com/2017/11/01/business/soybeans-pesticide.html)
 1. [Cover Image](https://static01.nyt.com/images/2017/11/02/business/02PESTICIDE1/02PESTICIDE1-facebookJumbo.jpg)
 
 ### Related:
