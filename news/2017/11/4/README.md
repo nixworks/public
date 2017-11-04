@@ -3,7 +3,7 @@
 ### [Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, with no resulting injuries or damage.](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-wit.md)
 _Context: Houthi, King Khalid International Airport , Riyadh, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, ballistic missile_
 
-### [Typhoon Damrey kills 17 people in Vietnam days before the country hosts APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-17-people-in-vietnam-days-before-the-country-hosts-apec-vietnam-2017.md)
+### [Typhoon Damrey kills 17 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-17-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md)
 _Context: 2017 Pacific typhoon season, APEC Vietnam 2017, Vietnam_
 
 ### [The United States will end the so-called temporary protected status program (TPS) for more than 300,000 refugees from several countries: El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-so-called-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-several-countries-el.md)
