@@ -1,6 +1,6 @@
 ### [2017-11-4](/news/2017/11/4/index.md)
 
-# An offer made by New Zealand prime minister Jacinda Adern to resettle refugees stuck in the Manus Regional Processing Centre might be rejected by Australia leader Malcolm Turnbull. The processing center has triggered a humanitarian crisis and protests in Australian cities. 
+# An offer made by New Zealand prime minister Jacinda Adern to resettle refugees stuck in the Manus Regional Processing Centre might be rejected by Australia leader Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. 
 
 The New Zealand PM has said she would raise the situation on Manus Island with Mr Turnbull when they meet.
 
