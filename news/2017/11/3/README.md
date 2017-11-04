@@ -22,7 +22,7 @@ The sacked regional president went to Belgium shortly after Spain imposed direct
 The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.
 
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
-_Context: American, Human rights in Zimbabwe, Robert Mugabe, Zimbabwe_
+_Context: Human rights in Zimbabwe, Robert Mugabe, United States, Zimbabwe_
 
 ## [Previous Day...](/news/2017/11/2/index.md)
 
