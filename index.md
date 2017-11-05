@@ -6,8 +6,8 @@ The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels
 ### [The death toll in Vietnam from Typhoon Damrey reaches 27. Another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
 A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
 
-### [Multiple people have been shot dead at a Baptist church in the south Texas town of Sutherland Springs, Texas. ](/news/2017/11/5/multiple-people-have-been-shot-dead-at-a-baptist-church-in-the-south-texas-town-of-sutherland-springs-texas.md)
-_Context: Baptist, Sutherland Springs, Texas, south Texas_
+### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-27-people-and-injuring-30-others.md)
+At least 27 people were killed and around 27 injured in a Texas church shooting Sunday morning, law enforcement sources told ABC News. The alleged shooter is dead, and it appears there is no longer an active threat at the First Baptist Church in Sutherland Springs, about 40 miles southeast of San An...
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
