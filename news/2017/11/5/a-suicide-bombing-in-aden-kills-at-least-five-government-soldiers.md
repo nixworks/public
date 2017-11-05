@@ -1,13 +1,13 @@
 ### [2017-11-5](/news/2017/11/5/index.md)
 
-# A suicide bombing in Aden kills at least five government soldiers.
+# A suicide bombing in Aden kills at least five government soldiers. 
 
 The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 
 
 
 ### Sources:
 
-1. [Aljazeera](http://www.aljazeera.com/news/2017/11/aden-troops-killed-attack-government-security-hq-171105075340768.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/11/aden-troops-killed-attack-government-security-hq-171105075340768.html)
 
 ### Related:
 

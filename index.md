@@ -1,6 +1,6 @@
 ## [News](/news/2017/11/5/index.md)
 
-### [A suicide bombing in Aden kills at least five government soldiers.](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md)
+### [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md)
 The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 
 
 ### [The death toll in Vietnam from Typhoon Damrey reaches 27. Another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
@@ -29,7 +29,7 @@ The New Zealand PM has said she would raise the situation on Manus Island with M
 ### [The United States contemplates reimposing sanctions against Myanmar over alleged abuses against the Rohingya people. ](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.md)
 U.S. lawmakers proposed sanctions on Friday against Myanmar’s military, in some of the strongest efforts yet by Washington to pressure the southeast Asian nation to end abusive treatment of its Rohing
 
-### [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammed bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md)
+### [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md)
 Saudi Arabia&#x27;s newly formed anti-corruption commission arrested 10 princes and dozens of former government ministers on Saturday, Saudi-owned Al Arabiya television reported, citing unnamed sources. The arrests came soon after the commission, headed by powerful Crown Prince Mohammed bin Salman, ...
 
 ### [The International Federation of Red Cross and Red Crescent Societies reports the discovery of several cases of fraud amounting to at least $6 million (GBP4.6 million) through overbilling and the "likely collusion" between a bank and former IFRC employees during the 2014-16 West African Ebola outbreak. ](/news/2017/11/4/the-international-federation-of-red-cross-and-red-crescent-societies-reports-the-discovery-of-several-cases-of-fraud-amounting-to-at-least.md)
