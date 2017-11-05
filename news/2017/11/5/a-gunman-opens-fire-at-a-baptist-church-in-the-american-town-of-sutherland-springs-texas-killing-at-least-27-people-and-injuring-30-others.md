@@ -2,11 +2,11 @@
 
 # A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. 
 
-At least 27 people were killed and around 27 injured in a Texas church shooting Sunday morning, law enforcement sources told ABC News. The alleged shooter is dead, and it appears there is no longer an active threat at the First Baptist Church in Sutherland Springs, about 40 miles southeast of San Antonio
+At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
 
 
 ### Sources:
 
-1. [ABC News America via Yahoo!](https://www.yahoo.com/gma/texas-church-scene-shooting-report-192705171--abc-news-topstories.html?soc_trk=gcm&soc_src=ecd5e8af-dc90-3332-9efb-d522bf6b8dfa&.tsrc=notification-brknews)
+1. [ABC News](http://abcnews.go.com/US/texas-church-scene-shooting-sunday-report/story?id=50945596)
 2. [BBC](http://www.bbc.com/news/world-us-canada-41880511)
-2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Lw3tZYX9YKKgbCgIWr4AvQ--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.abcnewsplus.com/7079ff68eca49283f315b7c55a7ce9bc)
+2. [Cover Image](http://a.abcnews.com/images/US/texas-church-shooting-ap-jt-171105_16x9_992.jpg)
