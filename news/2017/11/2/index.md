@@ -15,5 +15,11 @@ _Context: 2017 NTPC power plant explosion, coal-fired power plant_
 ### [Opposition leader Katrin Jakobsdottir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.md)
 Icelandic Left Green Movement leader Katrin Jakobsdottir has been given a mandate to explore a governing coalition from President Gudni Th. Johannesson.
 
+### [The Tapanuli orangutan is identified as a new species of great ape. ](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.md)
+Scientists identify new species of great ape, Pongo tapanuliensis or Tapanuli orangutan, but fear its survival is already in doubt as habitat under threat
+
+### [U.S. President Donald Trump's main social media account is suspended for 11 minutes. Twitter blames the incident on an employee and says it is "taking steps to prevent this from happening again." ](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.md)
+Company initially blamed human error for @realdonaldtrump account’s 11-minute outage but then revealed it was sabotaged by rogue worker
+
 ## [Previous Day...](/news/2017/11/1/index.md)
 
