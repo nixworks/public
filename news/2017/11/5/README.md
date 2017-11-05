@@ -9,6 +9,9 @@ _Context: Kirkuk, Shi'ite_
 ### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-27-people-and-injuring-30-others.md)
 At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
 
+### [The German newspaper "Suddeutsche Zeitung" publishes 13.4 million documents from the offshore law firm Appleby and various corporate services providers. ](/news/2017/11/5/the-german-newspaper-sa1-4ddeutsche-zeitung-publishes-13-4-million-documents-from-the-offshore-law-firm-appleby-and-various-corporate-servic.md)
+_Context: Appleby, Paradise Papers, Suddeutsche Zeitung, offshore_
+
 ### [The death toll in Vietnam from Typhoon Damrey reaches 27. Another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
 A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
 
