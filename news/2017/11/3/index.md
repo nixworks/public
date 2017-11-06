@@ -18,7 +18,7 @@ The first daughter speaks at a government-organized women&rsquo;s conference in 
 ### [Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.md)
 The sacked regional president went to Belgium shortly after Spain imposed direct rule.
 
-### [United States soldier Bowe Bergdahl gets convicted of desertion and is dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-of-desertion-and-is-dishonorably-discharged-but-is-not-imprisoned.md)
+### [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md)
 The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.
 
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
