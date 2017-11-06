@@ -15,6 +15,9 @@ A powerful typhoon battering Vietnam has killed at least 27 people and left 22 o
 ### [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md)
 Saudi Arabia said the crash happened as the prince was touring local projects 500 miles southwest of Riyadh.
 
+### [United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. ](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.md)
+The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs. A neighbor said the two men are neighbors and had ongoing problems.
+
 ### [Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. ](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.md)
 Ousted president of Catalonia and four former ministers await decision on extradition to Spain after 10-hour hearing
 

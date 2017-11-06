@@ -9,3 +9,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 1. [New York Daily News](http://www.nydailynews.com/news/politics/controversial-political-ad-pulled-new-york-terror-attack-article-1.3603015)
 2. [The Washington Post](https://www.washingtonpost.com/local/virginia-politics/new-anti-gillespie-ad-sparked-by-worries-about-northams-appeal-to-minorities/2017/10/31/94867870-be59-11e7-8444-a0d4f04b89eb_story.html)
+
+### Related:
+
+1. [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md) _Context: Virginia_

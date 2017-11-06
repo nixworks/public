@@ -27,5 +27,8 @@ Saad al-Hariri resigns saying he fears an assassination plot, while also fiercel
 ### [Jan Lunter defeats Marian Kotleba in the Slovakian regional election held in the Banska Bystrica Region. Direction - Social Democracy loses four regions to center-right opposition candidates. ](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.md)
 _Context: Banska Bystrica Region, Direction - Social Democracy, Jan Lunter, Marian Kotleba, Slovak regional elections, 2017_
 
+### [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md)
+Hundreds of protesters took to the streets of downtown Los Angeles on Saturday to rail against the Trump administration and its policies, but the march was nothing like the huge demonstrations held across the country after last year’s presidential election. The group Refuse Fascism called for prot...
+
 ## [Previous Day...](/news/2017/11/3/index.md)
 
