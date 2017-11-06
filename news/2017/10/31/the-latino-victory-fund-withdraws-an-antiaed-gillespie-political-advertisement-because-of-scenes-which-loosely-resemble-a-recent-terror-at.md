@@ -9,7 +9,3 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 1. [New York Daily News](http://www.nydailynews.com/news/politics/controversial-political-ad-pulled-new-york-terror-attack-article-1.3603015)
 2. [The Washington Post](https://www.washingtonpost.com/local/virginia-politics/new-anti-gillespie-ad-sparked-by-worries-about-northams-appeal-to-minorities/2017/10/31/94867870-be59-11e7-8444-a0d4f04b89eb_story.html)
-
-### Related:
-
-1. [A new poll released by "The New York Times" and Siena College reveals that Democratic candidate Ralph Northam narrowly leads Republican Ed Gillespie. ](/news/2017/11/5/a-new-poll-released-by-the-new-york-times-and-siena-college-reveals-that-democratic-candidate-ralph-northam-narrowly-leads-republican-ed-g.md) _Context: Ed Gillespie, Ralph Northam, Virginia gubernatorial election, 2017_
