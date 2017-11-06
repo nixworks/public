@@ -29,14 +29,14 @@ A powerful typhoon battering Vietnam has killed at least 27 people and left 22 o
 ### [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md)
 Saudi Arabia said the crash happened as the prince was touring local projects 500 miles southwest of Riyadh.
 
-### [United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. ](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.md)
-The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs. A neighbor said the two men are neighbors and had ongoing problems.
-
 ### [Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. ](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.md)
 Ousted president of Catalonia and four former ministers await decision on extradition to Spain after 10-hour hearing
 
 ### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas in the San Antonio area, killing at least 26 people and injuring many others. The 26-year-old gunman was shot and killed. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.md)
 At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
+
+### [United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. ](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.md)
+The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs. A neighbor said the two men are neighbors and had ongoing problems.
 
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md)
 _Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
@@ -54,7 +54,7 @@ Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with
 ### [Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md)
 _Context: 2017 Pacific typhoon season, APEC Vietnam 2017, Typhoon Damrey, Vietnam_
 
-### [The United States will end the so-called temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-so-called-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-ho.md)
+### [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md)
 The Department of Homeland Security is expected to make an announcement next Monday to decide the fate of Hondurans, Salvadorans, Nicaraguans and Haitians whose TPS status is set to expire in early January.
 
 ### [An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. ](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.md)
