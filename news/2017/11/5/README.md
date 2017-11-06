@@ -27,5 +27,8 @@ At least 27 people were killed and 27 injured in a mass shooting at a church in 
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte, stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against.md)
 _Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
 
+### [At least 260 protesters against Vladimir Putin are arrested in Moscow. The protests are linked to the nationalist movement founded by Vyacheslav Maltsev, which is banned in Russia. ](/news/2017/11/5/at-least-260-protesters-against-vladimir-putin-are-arrested-in-moscow-the-protests-are-linked-to-the-nationalist-movement-founded-by-vyache.md)
+The protesters are believed to be linked to nationalist politician Vyacheslav Maltsev.
+
 ## [Previous Day...](/news/2017/11/4/index.md)
 
