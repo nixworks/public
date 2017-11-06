@@ -1,25 +1,7 @@
-## [News](/news/2017/11/5/index.md)
+## [News](/news/2017/11/6/index.md)
 
-### [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md)
-The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 
-
-### [Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. ](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.md)
-_Context: Iraqi Civil War, Kirkuk, Shi'ite_
-
-### [The German newspaper "Suddeutsche Zeitung" publishes 13.4 million documents from the offshore law firm Appleby and various corporate services providers. ](/news/2017/11/5/the-german-newspaper-sa1-4ddeutsche-zeitung-publishes-13-4-million-documents-from-the-offshore-law-firm-appleby-and-various-corporate-servic.md)
-Hundreds of journalists have begun publishing articles based on a massive document leak from two companies that specialize in offshore accounts.
-
-### [The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
-A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
-
-### [Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. ](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.md)
-Ousted president of Catalonia and four former ministers await decision on extradition to Spain after 10-hour hearing
-
-### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 25 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-25-people-and-injuring-30-others.md)
-At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
-
-### [Human rights activists and opponents of Philippines president Rodrigo Duterte, stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against.md)
-_Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
+### [ U.S. President Donald Trump is in Japan. ](/news/2017/11/6/u-s-president-donald-trump-is-in-japan.md)
+_Context: Donald Trump, Japan_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -27,7 +9,38 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/11/4/index.md)
+## [Yesterday](/news/2017/11/5/index.md)
+
+### [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md)
+The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 
+
+### [Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. ](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.md)
+_Context: Iraqi Civil War, Kirkuk, Shi'ite_
+
+### [Journalists start reporting on the contents of 13.4 million documents leaked from the offshore law firm Appleby, along with business registries in 19 tax jurisdictions that reveal offshore financial activities of politicians, celebrities, corporate giants and business leaders. The German newspaper "Suddeutsche Zeitung" had previously obtained the documents and shared them with the International Consortium of Investigative Journalists. ](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.md)
+The leak, called the Paradise Papers, centers on an offshore law firm that has helped obscure the wealth of multinational companies and the superrich.
+
+### [The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
+A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
+
+### [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md)
+Saudi Arabia said the crash happened as the prince was touring local projects 500 miles southwest of Riyadh.
+
+### [Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. ](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.md)
+Ousted president of Catalonia and four former ministers await decision on extradition to Spain after 10-hour hearing
+
+### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas in the San Antonio area, killing at least 26 people and injuring many others. The 26-year-old gunman was shot and killed. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.md)
+At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
+
+### [A new poll released by "The New York Times" and Siena College reveals that Democratic candidate Ralph Northam narrowly leads Republican Ed Gillespie. ](/news/2017/11/5/a-new-poll-released-by-the-new-york-times-and-siena-college-reveals-that-democratic-candidate-ralph-northam-narrowly-leads-republican-ed-g.md)
+The race has divided voters along demographic lines highly reminiscent of last November’s election.
+
+### [Human rights activists and opponents of Philippines president Rodrigo Duterte, stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against.md)
+_Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
+
+---
+
+## [Day Before Yesterday](/news/2017/11/4/index.md)
 
 ### [Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, according to Saudi officials, with no resulting injuries or damage.](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.md)
 Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with a ballistic missile for the first time.
@@ -58,35 +71,7 @@ _Context: Banska Bystrica Region, Direction - Social Democracy, Jan Lunter, Mari
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/3/index.md)
-
-### [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md)
-_Context: Deir ez-Zor, ISIL, Siege of Deir ez-Zor (2014-17), Syrian Army, Syrian Civil War, complete liberation_
-
-### [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md)
-Iraqi forces have entered al-Qaim, one of the last remaining territories in the country still held by Islamic State militants, the Joint Operations Command said on Friday.
-
-### [The United States launches airstrikes against Islamic State in Somalia for the first time. The United States Africa Command says "several terrorists" were killed in the strikes, which took place in coordination with Somalia's government. ](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.md)
-The US military for the first time has conducted two air strikes against Isis group fighters in Somalia. A US official said the strikes were carried out in northeastern Somalia, with the first around midnight local time and the second later in the morning. The official was not authorised to discuss ...
-
-### [Netflix announces that it will no longer be working with American actor Kevin Spacey who plays Frank Underwood on the U.S. version of "House of Cards". ](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-working-with-american-actor-kevin-spacey-who-plays-frank-underwood-on-the-u-s-version-of-house.md)
-A GRIM demise appears to be in the works for Frank Underwood, after Netflix today confirmed it will no longer work with Kevin Spacey.
-
-### [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md)
-The first daughter speaks at a government-organized women&rsquo;s conference in Tokyo.
-
-### [Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.md)
-The sacked regional president went to Belgium shortly after Spain imposed direct rule.
-
-### [United States soldier Bowe Bergdahl gets convicted of desertion and is dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-gets-convicted-of-desertion-and-is-dishonorably-discharged-but-is-not-imprisoned.md)
-The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.
-
-### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
-_Context: Human rights in Zimbabwe, Robert Mugabe, United States, Zimbabwe_
-
----
-
-## [Previous Day...](/news/2017/11/2/index.md)
+## [Previous Day...](/news/2017/11/3/index.md)
 
 ---
 
