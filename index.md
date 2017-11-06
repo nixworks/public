@@ -4,16 +4,22 @@
 The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 
 
 ### [Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. ](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.md)
-_Context: Kirkuk, Shi'ite_
-
-### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 27 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-27-people-and-injuring-30-others.md)
-At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
+_Context: Iraqi Civil War, Kirkuk, Shi'ite_
 
 ### [The German newspaper "Suddeutsche Zeitung" publishes 13.4 million documents from the offshore law firm Appleby and various corporate services providers. ](/news/2017/11/5/the-german-newspaper-sa1-4ddeutsche-zeitung-publishes-13-4-million-documents-from-the-offshore-law-firm-appleby-and-various-corporate-servic.md)
-_Context: Appleby, Paradise Papers, Suddeutsche Zeitung, offshore_
+Hundreds of journalists have begun publishing articles based on a massive document leak from two companies that specialize in offshore accounts.
 
-### [The death toll in Vietnam from Typhoon Damrey reaches 27. Another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
+### [The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
 A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
+
+### [Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. ](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.md)
+Ousted president of Catalonia and four former ministers await decision on extradition to Spain after 10-hour hearing
+
+### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas, killing at least 25 people and injuring 30 others. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-killing-at-least-25-people-and-injuring-30-others.md)
+At least 27 people were killed and 27 injured in a mass shooting at a church in rural Texas this morning, a law enforcement official told ABC News. The alleged shooter, who has not been identified, is dead, and there is no longer an active threat at the First Baptist Church in Sutherland Springs,...
+
+### [Human rights activists and opponents of Philippines president Rodrigo Duterte, stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against.md)
+_Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -55,7 +61,7 @@ _Context: Banska Bystrica Region, Direction - Social Democracy, Jan Lunter, Mari
 ## [Day Before Yesterday](/news/2017/11/3/index.md)
 
 ### [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md)
-_Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War_
+_Context: Deir ez-Zor, ISIL, Siege of Deir ez-Zor (2014-17), Syrian Army, Syrian Civil War, complete liberation_
 
 ### [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md)
 Iraqi forces have entered al-Qaim, one of the last remaining territories in the country still held by Islamic State militants, the Joint Operations Command said on Friday.
