@@ -3,11 +3,11 @@
 ### [Panic has gripped the Indian capital, Delhi, as residents woke up to a blanket of thick grey smog on Tuesday. ](/news/2017/11/7/panic-has-gripped-the-indian-capital-delhi-as-residents-woke-up-to-a-blanket-of-thick-grey-smog-on-tuesday.md)
 _Context: Air quality in Delhi, Delhi, India_
 
-### [Saudi Arabia's Crown Prince Mohammed bin Salman has accused Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammed-bin-salman-has-accused-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-i.md)
-_Context: Prince Mohammed bin Salman, Saudi Arabia, Yemen, Yemeni crisis_
+### [Saudi Arabia's Crown Prince Mohammad bin Salman has accused Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-has-accused-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-i.md)
+_Context: Iran, Mohammad bin Salman, Saudi Arabia, Yemen, Yemeni Crisis (2011-present)_
 
-### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md)
-_Context: 2017 North Korea crisis, Donald Trump, South Korea, South Korea-United States relations_
+### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korean-crisis.md)
+North Korea’s crippling nuclear test site is turning the area into a “wasteland” where “deformed babies” are being born and 80 percent of vegetation dies off due to nuclear radiation, nearly two dozen defectors told a South Korean newspaper Monday.
 
 ### [Syria signs the Paris Agreement. ](/news/2017/11/7/syria-signs-the-paris-agreement.md)
 Syria’s decision means America will be the only country outside the landmark deal if it follows through with Donald Trump’s vow to leave
@@ -33,7 +33,7 @@ Most of the daily information we see on the mainstream media today is the news e
 _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
-_Context: 2017 North Korea crisis, Donald Trump, Japan, Japan-United States relations_
+_Context: 2017 North Korean crisis, Donald Trump, Japan, Japan-United States relations_
 
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
