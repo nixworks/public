@@ -20,10 +20,10 @@ _Context: 2017 North Korea crisis, Donald Trump, Japan, Japan-United States rela
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
 
-### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
+### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
 
-### [Grace Mugabe acclaims the office of Vice President after her husband, Zimbabwe President Robert Mugabe, sacks the previous officeholder. The public and the media widely perceives Grace as the natural successor to Robert after his death. ](/news/2017/11/6/grace-mugabe-acclaims-the-office-of-vice-president-after-her-husband-zimbabwe-president-robert-mugabe-sacks-the-previous-officeholder-the.md)
+### [Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. ](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.md)
 Dismissal of Emmerson Mnangagwa, seen as likely successor to Zimbabwe’s president, paves way for Grace Mugabe to take over
 
 ---
