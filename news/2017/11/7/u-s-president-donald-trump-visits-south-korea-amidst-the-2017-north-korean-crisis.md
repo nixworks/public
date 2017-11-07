@@ -2,14 +2,12 @@
 
 # U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. 
 
-North Korea’s crippling nuclear test site is turning the area into a “wasteland” where “deformed babies” are being born and 80 percent of vegetation dies off due to nuclear radiation, nearly two dozen defectors told a South Korean newspaper Monday.
+
 
 
 ### Sources:
 
 1. [CNN](http://www.cnn.com/2017/11/06/politics/trump-asia-south-korea-latest/index.html)
-2. [Fox News](http://www.foxnews.com/world/2017/11/07/north-koreas-nuclear-test-site-causing-deformed-babies-killing-vegetation-defectors-say.html)
-2. [Cover Image](//a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/10/30/0/0/694940094001_5629871572001_5629855169001-vs.jpg?ve=1)
 
 ### Changes:
 
