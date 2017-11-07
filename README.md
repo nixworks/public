@@ -7,6 +7,9 @@ _Context: Air quality in Delhi_
 ### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md)
 _Context: 2017 North Korea crisis, Donald Trump, South Korea, South Korea-United States relations_
 
+### [Former millionairess Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. The case had been considered high-profile in the country. ](/news/2017/11/7/former-millionairess-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-hus.md)
+Chisako Kakehi, 70, was found guilty of fatally poisoning her elderly partners for insurance payouts.
+
 ### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
 Here are all the details on a question that only comes up every 20 years.
 
@@ -27,7 +30,7 @@ _Context: 2017 North Korea crisis, Donald Trump, Japan, Japan-United States rela
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
 
-### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
+### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
 
 ### [Left-Green Movement leader Katrin Jakobsdottir fails to form a government after the breakdown of talks with her proposed four-party coalition. ](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.md)

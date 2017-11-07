@@ -7,6 +7,9 @@ _Context: Air quality in Delhi_
 ### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md)
 _Context: 2017 North Korea crisis, Donald Trump, South Korea, South Korea-United States relations_
 
+### [Former millionairess Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. The case had been considered high-profile in the country. ](/news/2017/11/7/former-millionairess-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-hus.md)
+Chisako Kakehi, 70, was found guilty of fatally poisoning her elderly partners for insurance payouts.
+
 ### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
 Here are all the details on a question that only comes up every 20 years.
 
