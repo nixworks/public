@@ -4,6 +4,9 @@
 _Context: Air quality in Delhi_
 
 ### [Saudi Arabia's Crown Prince Mohammed bin Salman has accused Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammed-bin-salman-has-accused-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-i.md)
+### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korea crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korea-crisis.md)
+_Context: 2017 North Korea crisis, Donald Trump, South Korea, South Korea-United States relations_
+
 ### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
 Here are all the details on a question that only comes up every 20 years.
 
