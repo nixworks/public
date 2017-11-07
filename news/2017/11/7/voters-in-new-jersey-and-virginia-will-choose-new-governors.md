@@ -2,14 +2,15 @@
 
 # Voters in New Jersey and Virginia will choose new governors. 
 
-Mayor de Blasio is sending teams of translators hired by City Hall to help Russian and Haitian immigrants cast their ballots Tuesday — despite red flags raised by an Elections commissioner since th…
+Here are all the details on a question that only comes up every 20 years.
 
 
 ### Sources:
 
-1. [CNN](http://www.cnn.com/2017/11/04/politics/2017-election-readers-guide-virginia-new-jersey-governor/index.html)
-2. [New York Post](http://nypost.com/2017/11/05/de-blasio-sending-translators-to-help-people-vote-in-election/)
-2. [Cover Image](https://thenypost.files.wordpress.com/2017/11/elections_ny_primaries_148813019.jpg?quality=90&amp;strip=all&amp;w=1200)
+1. [Business Insider](http://www.businessinsider.com/new-york-constitutional-convention-vote-pros-cons-2017-11)
+2. [CNN](http://www.cnn.com/2017/11/04/politics/2017-election-readers-guide-virginia-new-jersey-governor/index.html)
+3. [patch.com](https://patch.com/new-york/new-york-city/2017-new-york-constitutional-convention-vote-what-you-need-know)
+3. [Cover Image](https://cdn20.patch.com/users/22965231/20171020/040035/styles/T800x600/public/processed_images/img_4576-1508528607-5923.jpg)
 
 ### Related:
 

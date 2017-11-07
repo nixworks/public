@@ -1,7 +1,7 @@
 ## [News](/news/2017/11/7/index.md)
 
 ### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
-Mayor de Blasio is sending teams of translators hired by City Hall to help Russian and Haitian immigrants cast their ballots Tuesday — despite red flags raised by an Elections commissioner since th…
+Here are all the details on a question that only comes up every 20 years.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -11,17 +11,20 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/11/6/index.md)
 
-### [Investors are reacting poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-are-reacting-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md)
+### [Investors react poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md)
 _Context: 2017 Saudi Arabian anti-corruption arrests, Alwaleed bin Talal_
 
-### [U.S. President Donald Trump visits Japan. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan.md)
-_Context: Donald Trump, Japan, Japan-United States relations_
+### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
+_Context: 2017 North Korea crisis, Donald Trump, Japan, Japan-United States relations_
 
-### [Saudi Arabia proclaimed that Lebanon declared war on the country. ](/news/2017/11/6/saudi-arabia-proclaimed-that-lebanon-declared-war-on-the-country.md)
+### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
 
-### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of Somali Americans allegedly abusing the Diversity Immigrant Visa. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-somali-americans-allegedly-abusing-the-diversity-i.md)
+### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa. The Trump Administration earlier said it plans to scrap the policy. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
+
+### [Grace Mugabe acclaims the office of Vice President after her husband, Zimbabwe President Robert Mugabe, sacks the previous officeholder. The public and the media widely perceives Grace as the natural successor to Robert after his death. ](/news/2017/11/6/grace-mugabe-acclaims-the-office-of-vice-president-after-her-husband-zimbabwe-president-robert-mugabe-sacks-the-previous-officeholder-the.md)
+Dismissal of Emmerson Mnangagwa, seen as likely successor to Zimbabwe’s president, paves way for Grace Mugabe to take over
 
 ---
 
