@@ -12,7 +12,7 @@ _Context: Iran, Mohammad bin Salman, Saudi Arabia, Yemen, Yemeni Crisis (2011-pr
 ### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korean-crisis.md)
 _Context: 2017 North Korean crisis, Donald Trump, South Korea, South Korea-United States relations_
 
-### [Syria signs the Paris Agreement. ](/news/2017/11/7/syria-signs-the-paris-agreement.md)
+### [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-leave-on-november-4-20.md)
 Syria’s decision means America will be the only country outside the landmark deal if it follows through with Donald Trump’s vow to leave
 
 ### [Former millionairess Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. The case had been considered high-profile in the country. ](/news/2017/11/7/former-millionairess-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-hus.md)
