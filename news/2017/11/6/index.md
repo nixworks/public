@@ -1,7 +1,7 @@
 ## [2017-11-6](/news/2017/11/6/index.md)
 
-### [Investors react poorly to the arrest of Saudi billionaire Prince Alwaleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-alwaleed-bin-talal-one-of-the-world-s-wealthiest-men.md)
-_Context: 2017 Saudi Arabian anti-corruption arrests, Alwaleed bin Talal_
+### [Investors react poorly to the arrest of Saudi billionaire Prince Al-Waleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-al-waleed-bin-talal-one-of-the-world-s-wealthiest-men.md)
+_Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
 _Context: 2017 North Korea crisis, Donald Trump, Japan, Japan-United States relations_
