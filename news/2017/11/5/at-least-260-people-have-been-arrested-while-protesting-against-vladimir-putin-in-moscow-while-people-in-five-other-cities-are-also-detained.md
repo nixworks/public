@@ -1,6 +1,6 @@
 ### [2017-11-5](/news/2017/11/5/index.md)
 
-# At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the Artpodgotovka movement founded by Vyacheslav Maltsev. 
+# At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the banned nationalist movement founded by Vyacheslav Maltsev. 
 
 The protesters are believed to be linked to nationalist politician Vyacheslav Maltsev.
 

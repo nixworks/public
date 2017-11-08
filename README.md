@@ -9,10 +9,10 @@ North Korea’s crippling nuclear test site is turning the area into a “wastel
 ### [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md)
 _Context: Iran, Mohammad bin Salman, Saudi Arabia, Yemen, Yemeni Crisis (2011-present)_
 
-### [U.S. President Donald Trump visits South Korea amidst the 2017 North Korean crisis. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-the-2017-north-korean-crisis.md)
-_Context: 2017 North Korean crisis, Donald Trump, South Korea, South Korea-United States relations_
+### [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md)
+_Context: Donald Trump, South Korea, South Korea-United States relations, crisis with North Korea_
 
-### [Syria signs the Paris Agreement. This makes the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020.](/news/2017/11/7/syria-signs-the-paris-agreement-this-makes-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-novemb.md)
+### [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-no.md)
 Syria’s decision means America will be the only country outside the landmark deal if it follows through with Donald Trump’s vow to leave
 
 ### [Former millionairess Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. The case had been considered high-profile in the country. ](/news/2017/11/7/former-millionairess-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-hus.md)
@@ -33,13 +33,16 @@ Most of the daily information we see on the mainstream media today is the news e
 _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
-_Context: 2017 North Korean crisis, Donald Trump, Japan, Japan-United States relations_
+_Context: Donald Trump, Japan, Japan-United States relations, crisis with North Korea_
 
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
 
 ### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
+
+### [Solomon Islands Prime Minister Manasseh Sogavare is narrowly ousted in a vote of no confidence by 27 to 23 votes. ](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.md)
+It was third time unlucky for Manasseh Sogavare on Monday night as he was ousted as the Solomon Islands prime minister in a vote of no confidence.
 
 ### [Left-Green Movement leader Katrin Jakobsdottir fails to form a government after the breakdown of talks with her proposed four-party coalition. ](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.md)
 Four parties had been in discussions over forming only the country&#039;s second left-led government in more than 70 years.
@@ -78,7 +81,7 @@ The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs.
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md)
 _Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
 
-### [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the Artpodgotovka movement founded by Vyacheslav Maltsev. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md)
+### [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the banned nationalist movement founded by Vyacheslav Maltsev. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md)
 The protesters are believed to be linked to nationalist politician Vyacheslav Maltsev.
 
 ---

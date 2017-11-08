@@ -4,13 +4,16 @@
 _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
-_Context: 2017 North Korean crisis, Donald Trump, Japan, Japan-United States relations_
+_Context: Donald Trump, Japan, Japan-United States relations, crisis with North Korea_
 
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
 _Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
 
 ### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
+
+### [Solomon Islands Prime Minister Manasseh Sogavare is narrowly ousted in a vote of no confidence by 27 to 23 votes. ](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.md)
+It was third time unlucky for Manasseh Sogavare on Monday night as he was ousted as the Solomon Islands prime minister in a vote of no confidence.
 
 ### [Left-Green Movement leader Katrin Jakobsdottir fails to form a government after the breakdown of talks with her proposed four-party coalition. ](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.md)
 Four parties had been in discussions over forming only the country&#039;s second left-led government in more than 70 years.

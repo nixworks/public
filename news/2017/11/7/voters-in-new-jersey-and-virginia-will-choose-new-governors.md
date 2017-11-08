@@ -9,8 +9,9 @@ Here are all the details on a question that only comes up every 20 years.
 
 1. [Business Insider](http://www.businessinsider.com/new-york-constitutional-convention-vote-pros-cons-2017-11)
 2. [CNN](http://www.cnn.com/2017/11/04/politics/2017-election-readers-guide-virginia-new-jersey-governor/index.html)
-3. [patch.com](https://patch.com/new-york/new-york-city/2017-new-york-constitutional-convention-vote-what-you-need-know)
-3. [Cover Image](https://cdn20.patch.com/users/22965231/20171020/040035/styles/T800x600/public/processed_images/img_4576-1508528607-5923.jpg)
+3. [The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-mayoral-race-jenny-durkan-cary-moon/)
+4. [patch.com](https://patch.com/new-york/new-york-city/2017-new-york-constitutional-convention-vote-what-you-need-know)
+4. [Cover Image](https://cdn20.patch.com/users/22965231/20171020/040035/styles/T800x600/public/processed_images/img_4576-1508528607-5923.jpg)
 
 ### Related:
 
