@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.html)
+* [JSON](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.json)
+* [XML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. 

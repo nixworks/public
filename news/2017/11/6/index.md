@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/11/6/index.html)
+* [JSON](2017/11/6/index.json)
+* [XML](2017/11/6/index.xml)
 ## [2017-11-6](/news/2017/11/6/index.md)
 
 ### [Investors react poorly to the arrest of Saudi billionaire Prince Al-Waleed bin Talal, one of the world's wealthiest men. ](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-billionaire-prince-al-waleed-bin-talal-one-of-the-world-s-wealthiest-men.md)

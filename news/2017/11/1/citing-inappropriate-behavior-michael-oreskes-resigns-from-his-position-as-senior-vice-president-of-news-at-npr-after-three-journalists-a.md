@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.html)
+* [JSON](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.json)
+* [XML](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # Citing "inappropriate behavior", Michael Oreskes resigns from his position as senior vice president of news at NPR after three journalists accuse him of sexual harassment. 

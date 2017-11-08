@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.html)
+* [JSON](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.json)
+* [XML](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Jan Lunter defeats Marian Kotleba in the Slovakian regional election held in the Banska Bystrica Region. Direction - Social Democracy loses four regions to center-right opposition candidates. 

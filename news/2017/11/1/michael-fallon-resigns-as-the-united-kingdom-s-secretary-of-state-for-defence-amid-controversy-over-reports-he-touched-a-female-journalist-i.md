@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.html)
+* [JSON](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.json)
+* [XML](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # Michael Fallon resigns as the United Kingdom's Secretary of State for Defence amid controversy over reports he touched a female journalist inappropriately in 2002. 

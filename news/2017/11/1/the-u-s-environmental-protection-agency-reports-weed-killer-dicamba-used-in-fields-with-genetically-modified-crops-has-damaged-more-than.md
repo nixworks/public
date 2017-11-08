@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-weed-killer-dicamba-used-in-fields-with-genetically-modified-crops-has-damaged-more-than.html)
+* [JSON](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-weed-killer-dicamba-used-in-fields-with-genetically-modified-crops-has-damaged-more-than.json)
+* [XML](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-weed-killer-dicamba-used-in-fields-with-genetically-modified-crops-has-damaged-more-than.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # The U.S. Environmental Protection Agency reports weed killer dicamba, used in fields with genetically modified crops, has damaged more than 3.6 million acres of normal soybean crops in 25 states this year. 

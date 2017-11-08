@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.html)
+* [JSON](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.json)
+* [XML](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. 

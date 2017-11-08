@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.html)
+* [JSON](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.json)
+* [XML](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # Solomon Islands Prime Minister Manasseh Sogavare is narrowly ousted in a vote of no confidence by 27 to 23 votes. 

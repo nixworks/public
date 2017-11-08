@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.html)
+* [JSON](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.json)
+* [XML](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # A suicide bombing in Aden kills at least five government soldiers. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.html)
+* [JSON](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.json)
+* [XML](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # A significant US federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." 

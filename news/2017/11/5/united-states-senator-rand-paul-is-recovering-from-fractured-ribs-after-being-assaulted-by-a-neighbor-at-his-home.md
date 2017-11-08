@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.html)
+* [JSON](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.json)
+* [XML](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. 

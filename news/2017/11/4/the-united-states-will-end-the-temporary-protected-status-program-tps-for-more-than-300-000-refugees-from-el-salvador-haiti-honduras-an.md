@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.html)
+* [JSON](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.json)
+* [XML](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. 

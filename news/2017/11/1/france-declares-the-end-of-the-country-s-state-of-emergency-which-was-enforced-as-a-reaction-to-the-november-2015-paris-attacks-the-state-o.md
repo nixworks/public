@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.html)
+* [JSON](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.json)
+* [XML](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. 

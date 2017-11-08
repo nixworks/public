@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.html)
+* [JSON](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.json)
+* [XML](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. 

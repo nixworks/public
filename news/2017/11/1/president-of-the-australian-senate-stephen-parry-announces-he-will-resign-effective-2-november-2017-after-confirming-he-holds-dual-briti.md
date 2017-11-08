@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.html)
+* [JSON](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.json)
+* [XML](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # President of the Australian Senate, Stephen Parry, announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. 

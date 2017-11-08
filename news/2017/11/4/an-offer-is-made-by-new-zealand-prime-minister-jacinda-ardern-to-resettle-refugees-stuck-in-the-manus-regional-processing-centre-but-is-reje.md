@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.html)
+* [JSON](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.json)
+* [XML](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/11/5/index.html)
+* [JSON](2017/11/5/index.json)
+* [XML](2017/11/5/index.xml)
 ## [2017-11-5](/news/2017/11/5/index.md)
 
 ### [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md)

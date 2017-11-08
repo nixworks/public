@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.html)
+* [JSON](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.json)
+* [XML](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # A gunman opens fire in a Walmart in Thornton, Colorado, killing three people. 

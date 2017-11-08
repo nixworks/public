@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.html)
+* [JSON](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.json)
+* [XML](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.xml)
 ### [2017-11-7](/news/2017/11/7/index.md)
 
 # A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. 

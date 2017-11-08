@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/11/3/index.html)
+* [JSON](2017/11/3/index.json)
+* [XML](2017/11/3/index.xml)
 ## [2017-11-3](/news/2017/11/3/index.md)
 
 ### [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md)

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.html)
+* [JSON](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.json)
+* [XML](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. 

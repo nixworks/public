@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.html)
+* [JSON](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.json)
+* [XML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # The United States launches airstrikes against Islamic State in Somalia for the first time. The United States Africa Command says "several terrorists" were killed in the strikes, which took place in coordination with Somalia's government. 

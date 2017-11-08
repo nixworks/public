@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.html)
+* [JSON](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.json)
+* [XML](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. 

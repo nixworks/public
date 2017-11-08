@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.html)
+* [JSON](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.json)
+* [XML](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. 

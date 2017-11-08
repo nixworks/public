@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/11/7/index.html)
+* [JSON](2017/11/7/index.json)
+* [XML](2017/11/7/index.xml)
 ## [2017-11-7](/news/2017/11/7/index.md)
 
 ### [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md)
@@ -15,10 +21,10 @@ _Context: Donald Trump, South Korea, South Korea-United States relations, crisis
 ### [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-no.md)
 Syria’s decision means America will be the only country outside the landmark deal if it follows through with Donald Trump’s vow to leave
 
-### [Former millionairess Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. The case had been considered high-profile in the country. ](/news/2017/11/7/former-millionairess-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-hus.md)
+### [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md)
 Chisako Kakehi, 70, was found guilty of fatally poisoning her elderly partners for insurance payouts.
 
-### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
+### [Voters in New Jersey and Virginia chose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.md)
 Maps and results in the New Jersey general elections for governor, the state legislature and several mayorships. 
 
 ## [Previous Day...](/news/2017/11/6/index.md)

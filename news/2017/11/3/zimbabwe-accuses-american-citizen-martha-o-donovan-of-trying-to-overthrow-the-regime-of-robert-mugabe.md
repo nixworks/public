@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.html)
+* [JSON](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.json)
+* [XML](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.html)
+* [JSON](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.json)
+* [XML](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # The United States contemplates reimposing sanctions against Myanmar over alleged abuses against the Rohingya people. 

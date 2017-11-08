@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.html)
+* [JSON](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.json)
+* [XML](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas in the San Antonio area, killing at least 26 people and injuring many others. The 26-year-old gunman is later found dead in his car from a self-inflicted gunshot wound. 

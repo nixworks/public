@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.html)
+* [JSON](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.json)
+* [XML](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. 

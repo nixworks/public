@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.html)
+* [JSON](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.json)
+* [XML](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # Saudi Arabia says Lebanon has declared war against it through acts of aggression. 

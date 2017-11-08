@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.html)
+* [JSON](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.json)
+* [XML](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. 

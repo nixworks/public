@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.html)
+* [JSON](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.json)
+* [XML](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-fails-to-form-a-government-after-the-breakdown-of-talks-with-her-proposed-four-party-coalit.xml)
 ### [2017-11-6](/news/2017/11/6/index.md)
 
 # Left-Green Movement leader Katrin Jakobsdottir fails to form a government after the breakdown of talks with her proposed four-party coalition. 

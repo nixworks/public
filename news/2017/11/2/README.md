@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/11/2/index.html)
+* [JSON](2017/11/2/index.json)
+* [XML](2017/11/2/index.xml)
 ## [2017-11-2](/news/2017/11/2/index.md)
 
 ### [According to the Syrian Observatory for Human Rights, the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces. Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ](/news/2017/11/2/according-to-the-syrian-observatory-for-human-rights-the-city-of-deir-ez-zor-has-largely-been-cleared-of-isis-fighters-by-the-syrian-armed.md)

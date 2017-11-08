@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.html)
+* [JSON](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.json)
+* [XML](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. 

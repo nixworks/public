@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-working-with-american-actor-kevin-spacey-who-plays-frank-underwood-on-the-u-s-version-of-house.html)
+* [JSON](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-working-with-american-actor-kevin-spacey-who-plays-frank-underwood-on-the-u-s-version-of-house.json)
+* [XML](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-working-with-american-actor-kevin-spacey-who-plays-frank-underwood-on-the-u-s-version-of-house.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # Netflix announces that it will no longer be working with American actor Kevin Spacey who plays Frank Underwood on the U.S. version of "House of Cards". 

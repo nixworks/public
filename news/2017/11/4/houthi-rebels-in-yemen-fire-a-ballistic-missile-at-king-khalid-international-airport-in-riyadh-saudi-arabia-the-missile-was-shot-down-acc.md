@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.html)
+* [JSON](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.json)
+* [XML](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-at-king-khalid-international-airport-in-riyadh-saudi-arabia-the-missile-was-shot-down-acc.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, according to Saudi officials, with no resulting injuries or damage.

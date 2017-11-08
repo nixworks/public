@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.html)
+* [JSON](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.json)
+* [XML](/news/2017/11/5/secessionist-catalan-leader-carles-puigdemont-surrenders-to-belgian-police.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # Secessionist Catalan leader Carles Puigdemont surrenders to Belgian police. 

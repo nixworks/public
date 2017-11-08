@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.html)
+* [JSON](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.json)
+* [XML](/news/2017/11/1/a-belgian-lawyer-representing-carles-puigdemont-announces-his-client-will-not-return-to-spain-to-answer-charges-against-him-spanish-prosecu.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # A Belgian lawyer representing Carles Puigdemont announces his client will not return to Spain to answer charges against him. Spanish prosecutors could order a European Arrest Warrant if Puigdemont fails to appear in court. 

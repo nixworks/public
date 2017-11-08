@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.html)
+* [JSON](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.json)
+* [XML](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # United States president Donald Trump's daughter Ivanka visits Japan. 

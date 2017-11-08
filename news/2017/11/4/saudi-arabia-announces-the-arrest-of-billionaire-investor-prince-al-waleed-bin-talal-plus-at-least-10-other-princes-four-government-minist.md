@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.html)
+* [JSON](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.json)
+* [XML](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.html)
+* [JSON](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.json)
+* [XML](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. 

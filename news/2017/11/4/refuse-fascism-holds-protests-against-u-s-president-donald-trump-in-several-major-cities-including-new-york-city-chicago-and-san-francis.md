@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.html)
+* [JSON](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.json)
+* [XML](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. 
