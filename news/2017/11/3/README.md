@@ -24,8 +24,8 @@ The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is d
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
 _Context: Human rights in Zimbabwe, Robert Mugabe, United States, Zimbabwe_
 
-### [Climate change is "real." ](/news/2017/11/3/climate-change-is-real.md)
-_Context: Climate change, real_
+### [A significant US federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.md)
+_Context: Climate change, US federal government, greenhouse gases, human activities_
 
 ## [Previous Day...](/news/2017/11/2/index.md)
 
