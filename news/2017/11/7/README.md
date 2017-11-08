@@ -16,9 +16,9 @@ North Korea’s crippling nuclear test site is turning the area into a “wastel
 _Context: Iran, Mohammad bin Salman, Saudi Arabia, Yemen, Yemeni Crisis (2011-present)_
 
 ### [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md)
-_Context: Donald Trump, South Korea, South Korea-United States relations, crisis with North Korea_
+_Context: Donald Trump, North Korea, South Korea, South Korea-United States relations, U.S. President, crisis_
 
-### [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on November 4, 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-no.md)
+### [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md)
 Syria’s decision means America will be the only country outside the landmark deal if it follows through with Donald Trump’s vow to leave
 
 ### [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md)
