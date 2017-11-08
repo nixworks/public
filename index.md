@@ -19,7 +19,7 @@ Syria’s decision means America will be the only country outside the landmark d
 Chisako Kakehi, 70, was found guilty of fatally poisoning her elderly partners for insurance payouts.
 
 ### [Voters in New Jersey and Virginia will choose new governors. ](/news/2017/11/7/voters-in-new-jersey-and-virginia-will-choose-new-governors.md)
-Here are all the details on a question that only comes up every 20 years.
+Maps and results in the New Jersey general elections for governor, the state legislature and several mayorships. 
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

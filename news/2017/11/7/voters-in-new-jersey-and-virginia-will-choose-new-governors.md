@@ -2,7 +2,7 @@
 
 # Voters in New Jersey and Virginia will choose new governors. 
 
-Here are all the details on a question that only comes up every 20 years.
+Maps and results in the New Jersey general elections for governor, the state legislature and several mayorships. 
 
 
 ### Sources:
@@ -10,9 +10,13 @@ Here are all the details on a question that only comes up every 20 years.
 1. [ABC News](http://abcnews.go.com/Health/wireStory/maine-oks-medicaid-expansion-kind-referendum-51006981)
 2. [Business Insider](http://www.businessinsider.com/new-york-constitutional-convention-vote-pros-cons-2017-11)
 3. [CNN](http://www.cnn.com/2017/11/04/politics/2017-election-readers-guide-virginia-new-jersey-governor/index.html)
-4. [The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-mayoral-race-jenny-durkan-cary-moon/)
-5. [patch.com](https://patch.com/new-york/new-york-city/2017-new-york-constitutional-convention-vote-what-you-need-know)
-5. [Cover Image](https://cdn20.patch.com/users/22965231/20171020/040035/styles/T800x600/public/processed_images/img_4576-1508528607-5923.jpg)
+4. [The New York Times](https://www.nytimes.com/elections/results/new-jersey-general-elections)
+5. [The New York Times](https://www.nytimes.com/elections/results/new-york-general-elections)
+6. [The New York Times](https://www.nytimes.com/elections/results/utah-house-special-election)
+7. [The New York Times](https://www.nytimes.com/elections/results/virginia-governor-election-gillespie-northam)
+8. [The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-mayoral-race-jenny-durkan-cary-moon/)
+9. [patch.com](https://patch.com/new-york/new-york-city/2017-new-york-constitutional-convention-vote-what-you-need-know)
+9. [Cover Image](https://int.nyt.com/applications/elections/2017/assets/images/general-NJ.png)
 
 ### Related:
 
