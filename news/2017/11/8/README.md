@@ -6,7 +6,7 @@
 * [XML](2017/11/8/index.xml)
 ## [2017-11-8](/news/2017/11/8/index.md)
 
-### [The Syrian army and its allies capture Albu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-albu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md)
+### [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md)
 The Syrian army, fighting alongside Lebanon&#39;s Hezbollah, has seized the last urban hub held by the &quot;Islamic State&quot; in Syria. With IS effectively wiped out, the war in Syria may enter a new phase.
 
 ### [Former U.S. TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts, in 2016, when her son was 18 years old. ](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.md)
