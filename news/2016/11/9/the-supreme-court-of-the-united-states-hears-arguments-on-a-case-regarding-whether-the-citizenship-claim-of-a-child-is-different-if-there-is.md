@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/11/9/the-supreme-court-of-the-united-states-hears-arguments-on-a-case-regarding-whether-the-citizenship-claim-of-a-child-is-different-if-there-is.html)
+* [JSON](/news/2016/11/9/the-supreme-court-of-the-united-states-hears-arguments-on-a-case-regarding-whether-the-citizenship-claim-of-a-child-is-different-if-there-is.json)
+* [XML](/news/2016/11/9/the-supreme-court-of-the-united-states-hears-arguments-on-a-case-regarding-whether-the-citizenship-claim-of-a-child-is-different-if-there-is.xml)
 ### [2016-11-9](/news/2016/11/9/index.md)
 
 # The Supreme Court of the United States hears arguments on a case regarding whether the citizenship claim of a child is different if there is an unmarried father versus an unmarried mother who is a U.S. citizen. 
@@ -5,7 +11,7 @@
 Only hours after Donald Trump was declared the winner in last night’s presidential election, it was business as usual in at least one Washington institution: the Supreme Court of the United States. With the seat left open by the death of Justice Antonin Scalia still vacant, presumably to be filled w
 
 
-### Source:
+### Sources:
 
 1. [Scotus blog](http://www.scotusblog.com/2016/11/argument-analysis-searching-for-a-remedy-for-constitutional-violation-on-citizenship/#more-248507)
 
