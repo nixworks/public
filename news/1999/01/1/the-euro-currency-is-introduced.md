@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/1999/01/1/the-euro-currency-is-introduced.html)
+* [JSON](/news/1999/01/1/the-euro-currency-is-introduced.json)
+* [XML](/news/1999/01/1/the-euro-currency-is-introduced.xml)
 ### [1999-01-1](/news/1999/01/1/index.md)
 
 #  The euro currency is introduced.

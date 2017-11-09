@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/1999/01/1/fernando-henrique-cardoso-takes-office-as-president-of-brazil-for-the-second-time.html)
+* [JSON](/news/1999/01/1/fernando-henrique-cardoso-takes-office-as-president-of-brazil-for-the-second-time.json)
+* [XML](/news/1999/01/1/fernando-henrique-cardoso-takes-office-as-president-of-brazil-for-the-second-time.xml)
 ### [1999-01-1](/news/1999/01/1/index.md)
 
 #  Fernando Henrique Cardoso takes office as President of Brazil for the second time.
