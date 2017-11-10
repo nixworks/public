@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.html)
+* [JSON](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.json)
+* [XML](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. 
@@ -5,7 +11,7 @@
 Russian blogger turned opposition figure Aleksey Navalny has been found guilty of repeatedly violating the law by organizing unauthorized public events, meetings or protests. He is now to be placed under administrative arrest for 20 days.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/politics/405477-navalny-arrest-unathorized-rallies/)
 2. [Reuters](https://www.reuters.com/article/us-russia-politics-navalny/kremlin-critic-navalny-jailed-for-third-time-this-year-idUSKCN1C72CX)

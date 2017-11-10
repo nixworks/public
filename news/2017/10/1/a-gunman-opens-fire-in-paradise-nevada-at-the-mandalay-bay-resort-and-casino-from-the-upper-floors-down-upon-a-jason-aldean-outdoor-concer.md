@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/1/a-gunman-opens-fire-in-paradise-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-concer.html)
+* [JSON](/news/2017/10/1/a-gunman-opens-fire-in-paradise-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-concer.json)
+* [XML](/news/2017/10/1/a-gunman-opens-fire-in-paradise-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-concer.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # A gunman opens fire in Paradise, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 59 people dead and 527 others injured. Authorities believe the lone gunman is dead. 
@@ -20,5 +26,6 @@ In addition to the two fatalities, hospital officials said at least 24 people ha
 
 ### Related:
 
-1. [The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-garden-arena-in-paradise-nevada.md) _Context: Paradise, Nevada_
-2. [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md) _Context: Paradise, Nevada_
+1. [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md) _Context: 2017 Las Vegas shooting_
+2. [The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-garden-arena-in-paradise-nevada.md) _Context: Paradise, Nevada_
+3. [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md) _Context: Paradise, Nevada_

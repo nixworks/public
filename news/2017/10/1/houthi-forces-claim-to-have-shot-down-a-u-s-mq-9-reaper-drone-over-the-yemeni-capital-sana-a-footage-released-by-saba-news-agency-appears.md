@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.html)
+* [JSON](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.json)
+* [XML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. 

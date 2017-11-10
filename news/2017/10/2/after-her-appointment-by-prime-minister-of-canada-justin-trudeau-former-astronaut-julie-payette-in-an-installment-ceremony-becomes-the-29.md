@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.html)
+* [JSON](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.json)
+* [XML](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canada-justin-trudeau-former-astronaut-julie-payette-in-an-installment-ceremony-becomes-the-29.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/payette-governor-general-investiture-1.4313299)
 1. [Cover Image](https://i.cbc.ca/1.4316652.1506960318!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/gov-gen-payette-20171002.jpg)

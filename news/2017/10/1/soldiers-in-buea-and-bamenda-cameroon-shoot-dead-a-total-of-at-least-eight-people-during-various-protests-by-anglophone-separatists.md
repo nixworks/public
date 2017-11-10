@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.html)
+* [JSON](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.json)
+* [XML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. 

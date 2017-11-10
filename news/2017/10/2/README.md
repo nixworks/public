@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/10/2/index.html)
+* [JSON](2017/10/2/index.json)
+* [XML](2017/10/2/index.xml)
 ## [2017-10-2](/news/2017/10/2/index.md)
 
 ### [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md)

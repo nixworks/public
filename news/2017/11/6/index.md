@@ -13,7 +13,7 @@ _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 _Context: Donald Trump, Japan, Japan-United States relations, crisis_
 
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
-_Context: Foreign relations of Lebanon, Lebanon, Saudi Arabia_
+_Context: 2017 Lebanon-Saudi Arabia dispute, Lebanon, Saudi Arabia_
 
 ### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)
 Individuals who pretended to be a family and arrived in the U.S. through the diversity visa program face civil complaints seeking their denaturalization.
