@@ -6,7 +6,7 @@
 * [XML](2017/11/9/index.xml)
 ## [2017-11-9](/news/2017/11/9/index.md)
 
-### [Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries are not resumed, a senior UN official has warned. ](/news/2017/11/9/yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-are-not-resumed-a-senior-un-official-has-war.md)
+### [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md)
 The Saudi-led coalition must lift its blockade on aid entering Yemen, a senior UN official says.
 
 ### [Five anonymous women accuse comedian Louis C.K. of sexually inappropriate behavior. The production company for C.K.'s new film "I Love You, Daddy" cancels its New York premiere. ](/news/2017/11/9/five-anonymous-women-accuse-comedian-louis-c-k-of-sexually-inappropriate-behavior-the-production-company-for-c-k-s-new-film-i-love-you.md)
