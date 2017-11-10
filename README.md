@@ -6,10 +6,10 @@
 * [XML](/index.xml)
 ## [News](/news/2017/11/10/index.md)
 
-### [ Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently Saudi Arabia declared that a missile attack on its airport from Yemen is "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md)
+### [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently Saudi Arabia declared that a missile attack on its airport from Yemen is "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md)
 Governments of three Gulf states urge citizens to leave &#39;as soon as possible&#39; and warn against travelling to Lebanon.
 
-### [ Hezbollah declares the resignation of Prime Minister Saad Hariri invalid. Hariri has been detained in Saudi Arabia (presumably in Riyadh) for several days. The Saudi government is accused of pressuring Hariri to resign in the first place. ](/news/2017/11/10/hezbollah-declares-the-resignation-of-prime-minister-saad-hariri-invalid-hariri-has-been-detained-in-saudi-arabia-presumably-in-riyadh-f.md)
+### [Hezbollah declares the resignation of Prime Minister Saad Hariri invalid. Hariri has been detained in Saudi Arabia (presumably in Riyadh) for several days. The Saudi government is accused of pressuring Hariri to resign in the first place. ](/news/2017/11/10/hezbollah-declares-the-resignation-of-prime-minister-saad-hariri-invalid-hariri-has-been-detained-in-saudi-arabia-presumably-in-riyadh-fo.md)
 Shia group&#39;s head accuses Saudi Arabia of trying to stir sectarian tensions in Lebanon by forcing Hariri&#39;s resignation.
 
 ## Opinion
@@ -32,7 +32,7 @@ Attorney general says 201 people are being held for questioning, some of them re
 ### [Pope Francis issues a directive banning the sale of most tobacco in Vatican City as of January 1, 2018, because of its unhealthy attributes. A 2015 book stated the papal city netted $11 million (L8.7 million) per year from these sales. ](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.md)
 “The Holy See cannot contribute to an activity that clearly damages the health of people,” said Vatican spokesperson, Greg Burke. The sale of tobacco in the Vatican amounts to about $11 million a year in profits, but &quot;no profit can be legitimate if it puts lives at risk,” he said.
 
-### [Four women accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct. Some Republican politicians distance themselves from Moore, who has denied the allegations. ](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-some-republican-politicians-distance-th.md)
+### [Four women (who were between the ages of 14 and 18 at the time of the alleged incidents) accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct. The allegations state that, during a period from the 1970s and early 1980s, Moore - who was in his 30s at the time - had or attempted to engage in inappropriate sexual contact with each of the three accusers, who say he did not force them into a relationship or having non-consensual sexual contact. Some Republican politicians distance themselves from Moore, who has vehemently denied the allegations, accusing it of being a plot by "The Washington Post" (which published the story) and the Democratic Party to derail his special election campaign against Democrat Doug Jones. ](/news/2017/11/9/four-women-who-were-between-the-ages-of-14-and-18-at-the-time-of-the-alleged-incidents-accuse-roy-moore-a-former-alabama-judge-and-u-s-s.md)
 GOP senators call on Moore to drop out of race as aides say report that he had inappropriate sexual contact with a 14-year-old girl when he was 32 is ‘fake news’
 
 ---
