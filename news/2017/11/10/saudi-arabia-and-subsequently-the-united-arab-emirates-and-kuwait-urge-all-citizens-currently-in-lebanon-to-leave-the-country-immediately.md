@@ -14,8 +14,9 @@ Governments of three Gulf states urge citizens to leave &#39;as soon as possible
 ### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2017/11/saudi-arabia-issues-travel-alert-lebanon-171109143454070.html)
-2. [NPR](https://www.npr.org/sections/thetwo-way/2017/11/09/563032122/saudi-arabia-tells-its-citizens-to-leave-lebanon-and-its-not-completely-clear-wh)
-2. [Cover Image](https://media.npr.org/assets/img/2017/11/09/gettyimages-872014578_wide-5186a59c2d97a028b398cda620d3c95d435921a2.jpg?s=1400)
+2. [BBC](http://www.bbc.com/news/world-middle-east-41937439)
+3. [NPR](https://www.npr.org/sections/thetwo-way/2017/11/09/563032122/saudi-arabia-tells-its-citizens-to-leave-lebanon-and-its-not-completely-clear-wh)
+3. [Cover Image](https://media.npr.org/assets/img/2017/11/09/gettyimages-872014578_wide-5186a59c2d97a028b398cda620d3c95d435921a2.jpg?s=1400)
 
 ### Related:
 
