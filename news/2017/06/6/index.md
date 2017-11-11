@@ -1,10 +1,16 @@
+
+### Formats:
+
+* [HTML](2017/06/6/index.html)
+* [JSON](2017/06/6/index.json)
+* [XML](2017/06/6/index.xml)
 ## [2017-06-6](/news/2017/06/6/index.md)
 
 ### [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md)
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
 
 ### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's "de facto" Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
-_Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States military personnel_
+_Context: American-led intervention in Syria, Battle of Raqqa (2017), Islamic State of Iraq and the Levant, Raqqa, Syrian Democratic Forces, United States military personnel_
 
 ### [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md)
 The Philippines has partially lifted the ban on overseas Filipino workers (OFWs) going to Qatar

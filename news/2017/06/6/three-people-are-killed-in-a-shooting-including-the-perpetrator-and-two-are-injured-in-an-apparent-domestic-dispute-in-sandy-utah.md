@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.html)
+* [JSON](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.json)
+* [XML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. 
@@ -5,7 +11,7 @@
 Boy who died went to elementary school blocks from where violence unfolded, police say
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/sandy-utah-shooting-leaves-two-adults-kindergartner-dead-live-updates/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/06/07/32484107-ebed-4b34-89ff-9296f24febec/1aaa.jpg)
