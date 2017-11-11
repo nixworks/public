@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2016/04/22/index.html)
+* [JSON](2016/04/22/index.json)
+* [XML](2016/04/22/index.xml)
 ## [2016-04-22](/news/2016/04/22/index.md)
 
 ### [The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and-the-sulu-archi.md)
@@ -43,7 +49,7 @@ Tropical Cyclone Amos was upgraded to a category three on Friday night, and was 
 MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical plant wrecked by a huge explosion this week on Mexico&#039;s southeastern Gulf coast, raising the death toll to 28, the state oil company said Friday…
 
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, EU, Mayor of London, United Kingdom withdrawal from the European Union, United States_
+_Context: Barack Obama, Boris Johnson, European Union, Mayor of London, United Kingdom withdrawal from the European Union, United States_
 
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
 The US House of Representatives’ Foreign Affairs Committee on Wednesday unanimously passed a resolution reaffirming the Taiwan Relations Act (TRA) and the “six assurances” as the “cornerstone of US-Taiwan relations.”
@@ -70,16 +76,13 @@ Five people died in what appeared to be a pair of domestic-related shootings in 
 RICHMOND, Va. (AP) — More than 200,000 convicted felons will be able to cast ballots in the swing state of Virginia in November under a sweeping executive order Gov. Terry McAuliffe announced Friday. The Democrat said…
 
 ### [The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. ](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.md)
-_Context: 2016 Macedonian protests, EU, Macedonian_
+_Context: 2016 Macedonian protests, European Union, Macedonian_
 
 ### [Thousands of Sudanese students take to the streets around the University of Kordofan in Khartoum and other parts of the country to protest the recent killing of students last Monday. Security forces opened fire on a peaceful protest, killing many students after they attempted to nominate pro-opposition candidates for their campus elections. ](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.md)
 Amnesty International calls for investigation into death of Abubakar Hassan during march in North Kordofan
 
 ### [Mexican President Enrique Pena Nieto proposes legalizing marijuana for medical purposes and easing limits for personal use of the drug. He said he would be sending a bill to the Congress to increase the amount users can legally carry from the current five grams to 28 (0.18-1oz). The news comes just two days after he addressed the United Nations General Assembly at a special session on drug policy and is seen as a chance to re-think the current strategy of fighting drug-trafficking, especially in Mexico where the fighting has killed tens of thousands of people. ](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.md)
 Mexican President Enrique Pena Nieto proposes legalising marijuana for medical purposes and easing restrictions for personal use of the drug.
-
-### [The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.md)
-_Context: Philippine general election, 2016, a massive breach on its database_
 
 ### [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600 mi2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2.md)
 It’s at the mouth of the Amazon River. 

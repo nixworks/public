@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.html)
+* [JSON](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.json)
+* [XML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # A warehouse storing chemicals and fuel catches fire in the Chinese city of Jingjiang resulting in an unknown number of casualties. 
@@ -5,7 +11,7 @@
 A warehouse storing chemicals and fuel exploded and caught fire in the eastern Chinese city of Jingjiang on Friday, media reports said, with possible casualties unknown.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/chemical-blast-rocks/2722022.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/2722042/1461303038000/large16x9/640/360/chemical-explosion.jpg)

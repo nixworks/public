@@ -4,12 +4,23 @@
 * [HTML](/index.html)
 * [JSON](/index.json)
 * [XML](/index.xml)
-## [News](/news/2017/11/10/index.md)
+## [News](/news/2017/11/11/index.md)
+
+### [The Turnbull Government loses its parliamentary majority, after Liberal Party MP John Alexander resigns from the Australian House of Representatives due to likely holding British dual citizenship. ](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.md)
+British authorities were unable to cover any evidence to support MP&#039;s repeated assurances he was not a dual citizen.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/11/10/index.md)
 
 ### [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md)
 The driver of the car was arrested after the apparently deliberate attack outside a college.
 
-### [France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kazak.md)
+### [France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kazak.md)
 A cloud of radioactive pollution spread over Europe after a possible &quot;accident&quot; at a nuclear facility in Russia or Kazakhstan, French nuclear safety officials confirmed on Friday.
 
 ### [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md)
@@ -18,19 +29,12 @@ Governments of three Gulf states urge citizens to leave &#39;as soon as possible
 ### [Pope Francis, at the start of a two-day nuclear disarmament conference at Vatican City, says countries should not stockpile nuclear weapons even for the purpose of deterrence. ](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.md)
 _Context: Dicastery for Promoting Integral Human Development, Pope Francis, nuclear disarmament, stockpile nuclear weapons_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/11/9/index.md)
+## [Day Before Yesterday](/news/2017/11/9/index.md)
 
 ### [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md)
 The Saudi-led coalition must lift its blockade on aid entering Yemen, a senior UN official says.
-
-### [Five anonymous women accuse comedian Louis C.K. of sexually inappropriate behavior. The production company for C.K.'s new film "I Love You, Daddy" cancels its New York premiere. ](/news/2017/11/9/five-anonymous-women-accuse-comedian-louis-c-k-of-sexually-inappropriate-behavior-the-production-company-for-c-k-s-new-film-i-love-you.md)
-Five women came forward to the New York Times, including two female comics who say CK masturbated in front of them, following rumors of his misconduct
 
 ### [Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. ](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-100bn-agbp76bn-has-been-misused-through-systemic-corruption-and-embezzlement-in-recent-deca.md)
 Attorney general says 201 people are being held for questioning, some of them reportedly at a luxury hotel.
@@ -43,26 +47,7 @@ GOP senators call on Moore to drop out of race as aides say report that he had i
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/8/index.md)
-
-### [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md)
-The Syrian army, fighting alongside Lebanon&#39;s Hezbollah, has seized the last urban hub held by the &quot;Islamic State&quot; in Syria. With IS effectively wiped out, the war in Syria may enter a new phase.
-
-### [Former U.S. TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts, in 2016, when her son was 18 years old. ](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.md)
-_Context: Heather Unruh, Kevin Spacey, Kevin Spacey sexual assault allegations, Nantucket, Massachusetts_
-
-### [Colombian authorities seize 12 tons of cocaine, worth an estimated $360 million, from the Clan del Golfo and make four arrests. ](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.md)
-_Context: Clan del Golfo, Illegal drug trade in Colombia, cocaine_
-
-### [British politician Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.md)
-Theresa May loses second cabinet minister in a week as pro-Brexit international development secretary departs
-
-### [U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md)
-Carl Icahn has been subpoenaed by U.S. prosecutors in New York over his role advising President Donald Trump on a federal biofuels program.
-
----
-
-## [Previous Day...](/news/2017/11/7/index.md)
+## [Previous Day...](/news/2017/11/8/index.md)
 
 ---
 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.html)
+* [JSON](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.json)
+* [XML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # The Sandiganbayan court clears former Philippines president Gloria Macapagal Arroyo in the national broadband corruption scandal. 
@@ -5,7 +11,7 @@
 Manila Standard | Defining The News
 
 
-### Source:
+### Sources:
 
 1. [The Standard](http://thestandard.com.ph/news/-main-stories/top-stories/216406/gloria-cleared-in-zte-mess.html)
 1. [Cover Image](http://thestandard.com.ph/panel/_files/images/default/default-thumb.jpg)

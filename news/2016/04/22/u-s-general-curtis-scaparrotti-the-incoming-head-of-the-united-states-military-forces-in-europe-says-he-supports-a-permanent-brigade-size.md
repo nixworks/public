@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.html)
+* [JSON](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.json)
+* [XML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. 
@@ -5,9 +11,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/scaparotti-nato-commander-russia-ukraine/27689193.html)
+
+### Changes:
+
+1. [NATO-Russia relations: Cold War II: U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia-s expanded and assertive actions. ](/news/2016/04/22/nato-russia-relations-cold-war-ii-u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-say.md) _2017-08-27 03:45:46 (First version)_
+1. [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +27,3 @@
 3. [At the 52nd Munich Security Conference in Germany, NATO Secretary-General Jens Stoltenberg says that NATO and Russia are "not in a cold-war situation but also not in the partnership that we established at the end of the Cold War" while the Russian Prime Minister Dmitry Medvedev says tensions between Russia and NATO have sent the world spiralling into a "new Cold War", blaming U.S. and European leaders for the souring of relations with Russia. He also rejected accusations that Russian warplanes have bombed civilians in Syria, saying it is "just not true". ](/news/2016/02/13/at-the-52nd-munich-security-conference-in-germany-nato-secretary-general-jens-stoltenberg-says-that-nato-and-russia-are-not-in-a-cold-war.md) _Context: Cold War II, Russia, United States_
 4. [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md) _Context: Russia, United States, United States military personnel_
 5. [ Russia warns the United States to halt its missile defense system in central Europe in order to continue further talks. ](/news/2007/06/9/russia-warns-the-united-states-to-halt-its-missile-defense-system-in-central-europe-in-order-to-continue-further-talks.md) _Context: Europe, Russia, United States_
-
-### Changes:
-
-1. [NATO-Russia relations: Cold War II: U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia-s expanded and assertive actions. ](/news/2016/04/22/nato-russia-relations-cold-war-ii-u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-say.md) _2017-08-27 03:45:46 (First version)_
-1. [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md) _(Current version)_

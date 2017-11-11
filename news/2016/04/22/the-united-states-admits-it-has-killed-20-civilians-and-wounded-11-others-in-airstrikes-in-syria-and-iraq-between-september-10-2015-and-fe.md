@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.html)
+* [JSON](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.json)
+* [XML](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The United States admits it has killed 20 civilians and wounded 11 others in airstrikes in Syria and Iraq between September 10, 2015, and February 2, 2016. 
@@ -5,7 +11,7 @@
 The United States military revealed Friday that it has killed 20 civilians and wounded 11 others in recent airstrikes in Syria and Iraq.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/04/22/US-military-admits-killing-20-more-civilians-in-airstrikes/7921461351760/?spt=hs&or=tn_us)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7921461351760/2016/1/f5cbdec1a3bceee4f2b91320563daeaf/v1.5/US-military-admits-killing-20-more-civilians-in-airstrikes.jpg)

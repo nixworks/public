@@ -9,9 +9,6 @@
 ### [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md)
 The Saudi-led coalition must lift its blockade on aid entering Yemen, a senior UN official says.
 
-### [Five anonymous women accuse comedian Louis C.K. of sexually inappropriate behavior. The production company for C.K.'s new film "I Love You, Daddy" cancels its New York premiere. ](/news/2017/11/9/five-anonymous-women-accuse-comedian-louis-c-k-of-sexually-inappropriate-behavior-the-production-company-for-c-k-s-new-film-i-love-you.md)
-Five women came forward to the New York Times, including two female comics who say CK masturbated in front of them, following rumors of his misconduct
-
 ### [Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. ](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-100bn-agbp76bn-has-been-misused-through-systemic-corruption-and-embezzlement-in-recent-deca.md)
 Attorney general says 201 people are being held for questioning, some of them reportedly at a luxury hotel.
 

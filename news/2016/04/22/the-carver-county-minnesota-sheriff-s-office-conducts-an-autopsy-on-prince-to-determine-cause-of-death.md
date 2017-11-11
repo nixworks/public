@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.html)
+* [JSON](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.json)
+* [XML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Carver County, Minnesota Sheriff's office conducts an autopsy on Prince to determine cause of death. 
@@ -5,7 +11,7 @@
 Roy and Jill Serjeant
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-people-prince-autopsy-idUSKCN0XJ1RG)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134157685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3L116)

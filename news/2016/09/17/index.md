@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2016/09/17/index.html)
+* [JSON](2016/09/17/index.json)
+* [XML](2016/09/17/index.xml)
 ## [2016-09-17](/news/2016/09/17/index.md)
 
 ### [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md)
@@ -10,7 +16,7 @@ Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released l
 The FBI said it was &quot;unaware of any known threat&quot; to public safety
 
 ### [A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-officer-shoots-dead-the-perpetra.md)
-_Context: 2016 Minnesota mall stabbing, Crossroads Center, St. Cloud, Minnesota_
+_Context: Crossroads Center, St. Cloud, Minnesota, St. Cloud, Minnesota mall stabbing_
 
 ### [President of the European Council Donald Tusk states that the UK could begin its formal process of withdrawing from the European Union early next year, after a meeting with Prime Minister Theresa May last week. ](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.md)
 The president of the European Council says British PM Theresa May told him she could trigger the Brexit process by February.

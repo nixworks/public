@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.html)
+* [JSON](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.json)
+* [XML](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # China's National Space Administration says it is working on a program to land a rover on Mars by 2020. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_SPACE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

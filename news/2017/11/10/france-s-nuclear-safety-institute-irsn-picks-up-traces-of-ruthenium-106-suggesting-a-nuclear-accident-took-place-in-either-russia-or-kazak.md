@@ -6,7 +6,7 @@
 * [XML](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kazak.xml)
 ### [2017-11-10](/news/2017/11/10/index.md)
 
-# France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan. 
+# France's nuclear safety institute, IRSN picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. 
 
 A cloud of radioactive pollution spread over Europe after a possible &quot;accident&quot; at a nuclear facility in Russia or Kazakhstan, French nuclear safety officials confirmed on Friday.
 
