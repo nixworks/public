@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.html)
+* [JSON](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.json)
+* [XML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. 

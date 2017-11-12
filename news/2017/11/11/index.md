@@ -6,7 +6,7 @@
 * [XML](2017/11/11/index.xml)
 ## [2017-11-11](/news/2017/11/11/index.md)
 
-### [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
+### [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-in-iraq-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
 
 ### [ISIS regains control of Abu Kamal. ](/news/2017/11/11/isis-regains-control-of-abu-kamal.md)
@@ -17,6 +17,9 @@ DANANG: In a major breakthrough, trade ministers from 11 Pacific Rim countries s
 
 ### [The Turnbull Government loses its parliamentary majority, after Liberal Party MP John Alexander resigns from the Australian House of Representatives due to likely holding British dual citizenship. ](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.md)
 British authorities were unable to cover any evidence to support MP&#039;s repeated assurances he was not a dual citizen.
+
+### [An estimated 60,000 nationalists march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-march-through-warsaw-disrupting-celebrations-of-poland-s-national-independence-day.md)
+WARSAW, Poland (CNN) -- Tens of thousands of nationalist protesters disrupted Poland&#039;s independence day events Saturday, waving flags and burning flares as they marched down the streets of Warsaw. Demonstrators carried banners that read &quot;White Europe, Europe must be white,&quot; and &quot;...
 
 ## [Previous Day...](/news/2017/11/10/index.md)
 

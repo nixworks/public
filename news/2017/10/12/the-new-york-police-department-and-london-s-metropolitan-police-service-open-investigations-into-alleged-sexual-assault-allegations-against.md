@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.html)
+* [JSON](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.json)
+* [XML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. 

@@ -6,7 +6,7 @@
 * [XML](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.xml)
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-# After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. 
+# After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. 
 
 
 
@@ -23,7 +23,7 @@
 4. [After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. [http:--www.aljazeera.com-news-2017-08-thousands-demand-killings-duterte-drug-war-170821124440845.html (''al-Jazeera'')];Science and technology](/news/2017/08/21/after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers-p.md) _2017-08-25 08:30:03 (Update)_
 5. [Philippine Drug War: After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/philippine-drug-war-after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-th.md) _2017-08-25 22:30:04 (Update)_
 6. [Philippine Drug War: After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/philippine-drug-war-after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines.md) _2017-08-27 17:30:04 (Update)_
-6. [After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md) _(Current version)_
+6. [After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md) _(Current version)_
 
 ### Related:
 

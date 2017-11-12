@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/12/a-panel-of-external-experts-to-the-u-s-food-and-drug-administration-unanimously-vote-that-the-benefits-of-the-gene-replacement-treatment-ma.html)
+* [JSON](/news/2017/10/12/a-panel-of-external-experts-to-the-u-s-food-and-drug-administration-unanimously-vote-that-the-benefits-of-the-gene-replacement-treatment-ma.json)
+* [XML](/news/2017/10/12/a-panel-of-external-experts-to-the-u-s-food-and-drug-administration-unanimously-vote-that-the-benefits-of-the-gene-replacement-treatment-ma.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # A panel of external experts to the U.S. Food and Drug Administration unanimously vote that the benefits of the gene replacement treatment made by Spark Therapeutics of Philadelphia, Pennsylvania, called voretigene neparvovec (trade name, Luxturna), which treats Leber's congenital amaurosis (LCA), a form of hereditary blindness, outweigh its risks. The treatment, which targets a specific disease-causing mutation, is designed to treat individuals who have two mutated copies of a gene called "RPE65" and consists of a virus injected into the eye loaded with a normal copy of the "RPE65" gene. Further, this technique utilizing adeno-associated virus as a vector may, in the future, be used for the treatment of heart disease and also mutations other than LCA, including some cancers. 

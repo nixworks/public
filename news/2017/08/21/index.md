@@ -27,8 +27,11 @@ Dresnok was among a handful of American servicemen to desert after the Korean wa
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
 _Context: United Nations, chemical weapons, sanctioning_
 
-### [After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
+### [After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
 _Context: EDSA, Philippine Catholic Church, Philippines, drug crackdown, teenager killed_
+
+### [Virginia Governor Terry McAuliffe calls for arrests related to the beating of a black counterprotester by white supremacists during the Unite the Right rally. (](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.md)
+Gov. Terry McAuliffe &ldquo;wants to see arrests and prosecutions&rdquo; in the brutal beating of a black Charlottesville man by white supremacists on Aug. 12 amid violent protests.
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.html)
+* [JSON](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.json)
+* [XML](/news/2017/10/12/as-had-been-previously-reported-on-october-9-japan-s-third-biggest-steelmaker-kobe-steel-now-admits-to-further-falsification-of-product-d.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # As had been previously reported on October 9, Japan's third-biggest steelmaker, Kobe Steel, now admits to further falsification of product data. Steel wire products did not meet the specifications requested by customers. The scandal now affects about 500 customer companies. 

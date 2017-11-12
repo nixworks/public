@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/10/12/index.html)
+* [JSON](2017/10/12/index.json)
+* [XML](2017/10/12/index.xml)
 ## [2017-10-12](/news/2017/10/12/index.md)
 
 ### [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md)
@@ -20,6 +26,9 @@ Hours after the US says it is pulling out of the UN cultural agency, Israel says
 
 ### [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md)
 Forces in New York and London look into allegations against movie mogul Harvey Weinstein.
+
+### [DeAndre Harris, a black man beaten by white supremacists during the Unite the Right rally, turns himself in to Charlottesville after he is served an arrest warrant for an alleged attack on a white supremacist during the same rally. ](/news/2017/10/12/deandre-harris-a-black-man-beaten-by-white-supremacists-during-the-unite-the-right-rally-turns-himself-in-to-charlottesville-after-he-is-s.md)
+DeAndre Harris, who was set upon at the Charlottesville rally, turns himself in to be charged.
 
 ### [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md)
 The agreement allows the Palestinian Authority to run the embattled coastal strip, but leaves several thorny issues unresolved.
