@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.html)
+* [JSON](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.json)
+* [XML](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.xml)
 ### [2017-06-8](/news/2017/06/8/index.md)
 
 # The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. 
@@ -5,10 +11,17 @@
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/policy/finance/337004-house-passes-sweeping-bill-to-strip-post-recession-banking-rules)
 1. [Cover Image](http://thehill.com/sites/default/files/ryanpaul_050217gn6_lead.jpg)
+
+### Changes:
+
+1. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations.md) _2017-06-08 22:30:07 (First version)_
+2. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected-t.md) _2017-06-09 10:30:05 (Update)_
+3. [115th United States Congress: The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/115th-united-states-congress-the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-t.md) _2017-08-27 03:48:27 (Update)_
+3. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +30,3 @@ Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.
 3. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: United States House of Representatives_
 4. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: United States House of Representatives_
 5. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: United States House of Representatives_
-
-### Changes:
-
-1. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations.md) _2017-06-08 22:30:07 (First version)_
-2. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected-t.md) _2017-06-09 10:30:05 (Update)_
-3. [115th United States Congress: The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/115th-united-states-congress-the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-t.md) _2017-08-27 03:48:27 (Update)_
-3. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _(Current version)_

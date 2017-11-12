@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/06/8/index.html)
+* [JSON](2017/06/8/index.json)
+* [XML](2017/06/8/index.xml)
 ## [2017-06-8](/news/2017/06/8/index.md)
 
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
@@ -23,9 +29,6 @@ _Context: Verizon Wireless, Yahoo!_
 
 ### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md)
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
-
-### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. [http:--www.bbc.com-news-world-africa-40199270 (BBC)], [https:--www.enca.com-south-africa-knysna-toddler-dies-on-birthday (ENCA)], [https:--www.rte.ie-news-world-2017-0608-881071-south_africa- (RTE)], [http:--www.aljazeera.com-news-2017-06-storm-kills-displaces-thousands-cape-town-170608052748704.html (Al Jazeera)], [https:--www.nytimes.com-2017-06-07-world-africa-south-africa-cape-town-storm-fires.html "(The New York Times)"]](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
-_Context: Cape Town, Garden Route, Knysna Local Municipality, South Africa, Wildfires in South Africa_
 
 ### [The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse. Endo is evaluating its options. ](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharmaceutical-manufacturer-endo-international-plc-to-withdraw-its-long-lasting-12-hours-opioid.md)
 _Context: Endo International plc, Food and Drug Administration, Opana ER, Opioid epidemic_
