@@ -6,6 +6,9 @@
 * [XML](2017/11/11/index.xml)
 ## [2017-11-11](/news/2017/11/11/index.md)
 
+### [The Iraqi Armed Forces launched offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launched-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
+Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
+
 ### [22 police agents are wounded in Brussels when celebrations for Morocco's football world cup qualification turn violent. ](/news/2017/11/11/22-police-agents-are-wounded-in-brussels-when-celebrations-for-morocco-s-football-world-cup-qualification-turn-violent.md)
 _Context: Brussels, Morocco, football world cup_
 
