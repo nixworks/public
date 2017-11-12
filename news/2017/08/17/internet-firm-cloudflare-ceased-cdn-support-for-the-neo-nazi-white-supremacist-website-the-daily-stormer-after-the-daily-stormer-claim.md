@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-website-the-daily-stormer-after-the-daily-stormer-claim.html)
+* [JSON](/news/2017/08/17/internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-website-the-daily-stormer-after-the-daily-stormer-claim.json)
+* [XML](/news/2017/08/17/internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-website-the-daily-stormer-after-the-daily-stormer-claim.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist website "The Daily Stormer", after The "Daily Stormer" claimed that the company supported their cause. "The Daily Stormer" website had already lost web-hosting services by the domain register GoDaddy and Google 

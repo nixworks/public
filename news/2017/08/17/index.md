@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/08/17/index.html)
+* [JSON](2017/08/17/index.json)
+* [XML](2017/08/17/index.xml)
 ## [2017-08-17](/news/2017/08/17/index.md)
 
 ### [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md)
@@ -13,7 +19,7 @@ The destroyer was damaged in a collision off Japan in June, in which seven sailo
 It features a Chinese actor in a turban and fake beard, mockingly assuming an Indian accent.
 
 ### [The South African Police Service issues a red alert at the country's borders to prevent First Lady of Zimbabwe Grace Mugabe from leaving the country. She is wanted on charges of "assault with intent to cause grievous bodily harm" on a 20-year-old woman in a hotel room in Johannesburg. ](/news/2017/08/17/the-south-african-police-service-issues-a-red-alert-at-the-country-s-borders-to-prevent-first-lady-of-zimbabwe-grace-mugabe-from-leaving-the.md)
-_Context: First Lady of Zimbabwe, Grace Mugabe, Johannesburg, South Africa-Zimbabwe relations, South African Police Service_
+_Context: First Lady of Zimbabwe, Grace, Johannesburg, South Africa-Zimbabwe relations, South African Police Service_
 
 ### [At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. ](/news/2017/08/17/at-least-25-people-are-killed-and-48-are-arrested-by-the-philippine-national-police-manila-police-district-in-consecutive-anti-drug-operatio.md)
 AT least 25 suspected criminals were killed in simultaneous police operations in Manila over 24 hours, an official said Thursday. Chief Superintendent Joel Napoleon Coronel, director of the Manila Police District (MPD), clarified that in the 40 separate operations that started at 7 a.m. on Wednesday...

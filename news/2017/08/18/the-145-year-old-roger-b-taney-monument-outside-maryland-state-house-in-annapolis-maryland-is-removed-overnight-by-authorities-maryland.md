@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.html)
+* [JSON](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.json)
+* [XML](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.xml)
 ### [2017-08-18](/news/2017/08/18/index.md)
 
 # The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. 
@@ -5,10 +11,15 @@
 Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-protests-statues-idUSKCN1AY0UC)
 1. [Cover Image](https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Removal of monuments and memorials: The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/removal-of-monuments-and-memorials-the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed.md) _2017-08-27 03:48:49 (First version)_
+1. [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +28,3 @@ Maryland authorities took down a statue on Friday of a 19th century chief justic
 3. [Maryland Governor Larry Hogan reveals that he has advanced stage lymphoma. ](/news/2015/06/22/maryland-governor-larry-hogan-reveals-that-he-has-advanced-stage-lymphoma.md) _Context: Larry Hogan_
 4. [2015 Baltimore riots: The Governor of Maryland, Larry Hogan, rescinds a state of emergency imposed following the riots prompted by the death of Freddie Gray. ](/news/2015/05/6/2015-baltimore-riots-the-governor-of-maryland-larry-hogan-rescinds-a-state-of-emergency-imposed-following-the-riots-prompted-by-the-death.md) _Context: Larry Hogan_
 5. [The Anne Arundel County, Maryland Fire Department states that six people remain unaccounted for after a fire destroys a mansion in Annapolis, Maryland. The home is the residence of Don Pyle, the CEO of Reston, Virginia-based ScienceLogic. ](/news/2015/01/19/the-anne-arundel-county-maryland-fire-department-states-that-six-people-remain-unaccounted-for-after-a-fire-destroys-a-mansion-in-annapolis.md) _Context: Annapolis, Maryland_
-
-### Changes:
-
-1. [Removal of monuments and memorials: The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/removal-of-monuments-and-memorials-the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed.md) _2017-08-27 03:48:49 (First version)_
-1. [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md) _(Current version)_

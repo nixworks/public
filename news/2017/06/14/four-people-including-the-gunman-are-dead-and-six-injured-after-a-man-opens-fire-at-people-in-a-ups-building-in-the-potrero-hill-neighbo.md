@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.html)
+* [JSON](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.json)
+* [XML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. 
@@ -5,11 +11,17 @@
 At least three people were killed and two injured when a man dressed in a UPS uniform let loose a barrage of gunfire Wednesday morning at the delivery company’s building in the Potrero Hill area of San Francisco, officials said. In addition to the three dead, the gunman shot himself in the head when confronted by police inside the building and later died, Assistant Police Chief Toney Chaplin said. Near the emergency room door, a woman in jeans and a sweatshirt who declined to give her name said she was waiting for news from doctors about the condition of her father, who she said was a UPS employee. A man in a brown UPS uniform who said he had been inside the four-story building when the gunfire broke out said at least three people had been shot. Several people believed to be UPS employees stood on the rooftop parking area at the building with their hands raised, apparently to indicate they were not involved and needed assistance. A man who lives a half block from the UPS center and who identified himself only as “Chino” said he saw several people, their bodies covered with blood, dragged from the building by uniformed officers or firefighters and loaded into ambulances. Dozens of police cars, sheriff’s cars and fire department vehicles were in the area, along with several ambulances. At least 350 people work at the sprawling UPS building, which is a package sorting and delivery center. The federal Bureau of Alcohol, Tobacco, Firearms and Explosives was sending a team to the crime scene to help in the investigation. UPS officials also issued a statement saying that police “have control of the facility” and that “the company is cooperating with law enforcement.”
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-san-francisco-shooting-downtown-20170614-story.html)
 2. [San Francisco Chronicle](http://www.sfchronicle.com/bayarea/article/Police-swarm-UPS-building-in-SF-on-report-of-11219519.php)
 2. [Cover Image](http://ww3.hdnux.com/photos/61/73/47/13089274/5/rawImage.jpg)
+
+### Changes:
+
+1. [At least two people are dead and several are injured after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/at-least-two-people-are-dead-and-several-are-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighborhood-of.md) _2017-06-14 19:30:07 (First version)_
+2. [UPS shooting in San Francisco: Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/ups-shooting-in-san-francisco-four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-build.md) _2017-08-27 03:48:28 (Update)_
+2. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +30,3 @@ At least three people were killed and two injured when a man dressed in a UPS un
 3. [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md) _Context: California, San Francisco_
 4. [The father of Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While generally free of liability under U.S. law which provides a legal "safe harbor" for content posted, this case targets the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-in.md) _Context: California, San Francisco_
 5. [Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. ](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.md) _Context: California, San Francisco_
-
-### Changes:
-
-1. [At least two people are dead and several are injured after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/at-least-two-people-are-dead-and-several-are-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighborhood-of.md) _2017-06-14 19:30:07 (First version)_
-2. [UPS shooting in San Francisco: Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/ups-shooting-in-san-francisco-four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-build.md) _2017-08-27 03:48:28 (Update)_
-2. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _(Current version)_

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.html)
+* [JSON](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.json)
+* [XML](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. 
@@ -5,10 +11,17 @@
 Tim Farron has resigned as leader of the Liberal Democrats, following a furore over his beliefs concerning gay sex. The politician admitted some of his comments concerning the matter could have been wiser – when asked if homosexuality is a sin he had previously responded: “We are all sinners.” After the matter refused to go away and surfaced again during the election campaign, Mr Farron said it had felt “impossible” to be both Lib Dem leader and a Christian.
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://www.independent.co.uk/news/uk/politics/tim-farron-resigns-liberal-democrats-leader-election-statement-announcement-a7790396.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/22/15/farron-manchester-1.jpg)
+
+### Changes:
+
+1. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on same-sex marriage in the United Kingdom. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-same-sex-marriage-in-the-uni.md) _2017-06-14 20:30:08 (First version)_
+2. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _2017-08-25 03:48:02 (Update)_
+3. [Aftermath of the United Kingdom general election, 2017: Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-united-kingdom-general-election-2017-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-hi.md) _2017-08-27 03:48:28 (Update)_
+3. [Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +30,3 @@ Tim Farron has resigned as leader of the Liberal Democrats, following a furore o
 3. [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md) _Context: Leader of the Liberal Democrats_
 4. [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md) _Context: last general election_
 5. [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md) _Context: last general election_
-
-### Changes:
-
-1. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on same-sex marriage in the United Kingdom. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-same-sex-marriage-in-the-uni.md) _2017-06-14 20:30:08 (First version)_
-2. [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _2017-08-25 03:48:02 (Update)_
-3. [Aftermath of the United Kingdom general election, 2017: Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-united-kingdom-general-election-2017-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-hi.md) _2017-08-27 03:48:28 (Update)_
-3. [Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md) _(Current version)_

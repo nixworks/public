@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/08/21/index.html)
+* [JSON](2017/08/21/index.json)
+* [XML](2017/08/21/index.xml)
 ## [2017-08-21](/news/2017/08/21/index.md)
 
 ### [Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-city-who-appeared-to.md)
@@ -19,10 +25,10 @@ An earthquake on Ischia leaves at least one person dead, with reports of others 
 Dresnok was among a handful of American servicemen to desert after the Korean war and was loyal to Kim Jong-un
 
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
-_Context: United Nations, chemical weapons, sanctions_
+_Context: United Nations, chemical weapons, sanctioning_
 
 ### [After the shooting of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
-_Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, teenager killed_
+_Context: EDSA, Philippine Catholic Church, Philippines, drug crackdown, teenager killed_
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_

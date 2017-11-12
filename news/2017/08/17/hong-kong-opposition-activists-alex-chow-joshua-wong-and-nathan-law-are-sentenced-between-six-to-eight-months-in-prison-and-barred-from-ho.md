@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.html)
+* [JSON](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.json)
+* [XML](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # Hong Kong opposition activists Alex Chow, Joshua Wong, and Nathan Law are sentenced between six to eight months in prison and barred from holding office until 2022 as the Hong Kong government imposes harsher punishments on the individuals for their role in the Umbrella Movement. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.html)
+* [JSON](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.json)
+* [XML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. 
@@ -21,7 +27,7 @@ The Islamic State later claimed responsibility for the attack, which Spanish aut
 ### Related:
 
 1. [Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-city-who-appeared-to.md) _Context: Barcelona, van attack_
-2. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: Barcelona_
-3. [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md) _Context: ISIL_
-4. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
-5. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _Context: Barcelona_
+2. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State of Iraq and the Levant_
+3. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: Islamic State of Iraq and the Levant_
+4. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Islamic State of Iraq and the Levant_
+5. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: Barcelona_

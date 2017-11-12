@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-observed-by-the-ligo-virgo-collaboration-a-neutron-star-collision-triggered-the-gravitationa.html)
+* [JSON](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-observed-by-the-ligo-virgo-collaboration-a-neutron-star-collision-triggered-the-gravitationa.json)
+* [XML](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-observed-by-the-ligo-virgo-collaboration-a-neutron-star-collision-triggered-the-gravitationa.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # A gravitational wave signal called GW170817 is observed by the LIGO-Virgo-collaboration. A Neutron star collision triggered the gravitational waves which "also created heavy elements such as gold, platinum and lead". 

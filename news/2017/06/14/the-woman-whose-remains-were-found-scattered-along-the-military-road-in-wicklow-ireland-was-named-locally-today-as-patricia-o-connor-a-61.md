@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.html)
+* [JSON](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.json)
+* [XML](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. 
@@ -5,20 +11,20 @@
 Irish police say they believe the woman was murdered in a house in south Dublin before being moved.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40276972)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C2DE/production/_96468894_rteimage1.jpg)
-
-### Related:
-
-1. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Ireland_
-2. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_
-3. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
-4. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Ireland_
-5. [The Irish Dail Eireann (parliament) fails to elect a new taoiseach (Prime Minister) with incumbent Enda Kenny carrying on as a caretaker. ](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.md) _Context: Ireland_
 
 ### Changes:
 
 1. [Killing of Patricia O'Connor: The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/killing-of-patricia-o-connor-the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-tod.md) _2017-08-27 03:48:29 (First version)_
 1. [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md) _(Current version)_
+
+### Related:
+
+1. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: Ireland_
+2. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Ireland_
+3. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_
+4. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
+5. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Ireland_

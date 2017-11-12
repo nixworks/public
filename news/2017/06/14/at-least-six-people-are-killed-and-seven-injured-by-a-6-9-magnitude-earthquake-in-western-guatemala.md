@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.html)
+* [JSON](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.json)
+* [XML](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. 
@@ -5,10 +11,15 @@
 GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude 6.9 earthquake that struck Wednesday in western Guatemala near the border with Mexico, Guatemala&#x27;s national emergency coordination agency reported.
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! News](https://www.yahoo.com/news/u-geological-survey-says-magnitude-6-9-earthquake-075752453.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/a11VTKvLwpa62XNpgh18NA--/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/908de33f1c1a44029577f747f6af9c7c.jpg)
+
+### Changes:
+
+1. [Earthquakes in Guatemala: At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/earthquakes-in-guatemala-at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _2017-08-27 03:48:29 (First version)_
+1. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +28,3 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 3. [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _Context: Guatemala_
 4. [A fire breaks out at an orphanage in San Jose Pinula, Guatemala after students protesting conditions including alleged sexual and physical abuse set fire to their bedding, killing at least 19 children. ](/news/2017/03/8/a-fire-breaks-out-at-an-orphanage-in-san-josa-c-pinula-guatemala-after-students-protesting-conditions-including-alleged-sexual-and-physical.md) _Context: Guatemala_
 5. [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 38 children. ](/news/2017/03/11/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-38-children.md) _Context: Guatemala_
-
-### Changes:
-
-1. [Earthquakes in Guatemala: At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/earthquakes-in-guatemala-at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _2017-08-27 03:48:29 (First version)_
-1. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _(Current version)_

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with-a.html)
+* [JSON](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with-a.json)
+* [XML](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with-a.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # The US Navy has announced that about a dozen sailors of the USS "Fitzgerald" are to be disciplined in the aftermath of the collision with a container ship last June, where 7 crew members died. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.html)
+* [JSON](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.json)
+* [XML](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
 # A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. 

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/05/12/index.html)
+* [JSON](2017/05/12/index.json)
+* [XML](2017/05/12/index.xml)
 ## [2017-05-12](/news/2017/05/12/index.md)
 
 ### [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the province of Balochistan, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.md)

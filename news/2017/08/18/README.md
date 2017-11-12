@@ -1,7 +1,13 @@
+
+### Formats:
+
+* [HTML](2017/08/18/index.html)
+* [JSON](2017/08/18/index.json)
+* [XML](2017/08/18/index.xml)
 ## [2017-08-18](/news/2017/08/18/index.md)
 
 ### [Catalan police in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/catalan-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-second-van-attack-the.md)
-_Context: Cambrils, Catalonia, police, van attack, van attack_
+_Context: Cambrils, Catalan, police, van attack, van attack_
 
 ### [At least two people are reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-two-people-are-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person.md)
 Several people were stabbed in the Finnish city of Turku, police said on Friday, adding they had shot at and arrested one person.

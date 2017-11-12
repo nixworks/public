@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.html)
+* [JSON](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.json)
+* [XML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. 
@@ -5,10 +11,16 @@
 The investigation has now reached high-ranking state officials.
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/flint-water-crisis/2017/06/14/charges-flint-water-crisis-nick-lyon/395267001/)
 2. [The Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2017/06/14/top-michigan-health-official-charged-with-manslaughter-in-flint-water-crisis/?utm_term=.a7a397fa55a6)
+
+### Changes:
+
+1. [Michigan Attorney General Bill Schuette charges five people, including the director of the state Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-state-department-of-health-and-human-services-wi.md) _2017-06-15 00:30:06 (First version)_
+2. [Flint water crisis: Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/flint-water-crisis-michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health.md) _2017-08-27 03:48:28 (Update)_
+2. [Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +29,3 @@ The investigation has now reached high-ranking state officials.
 3. [U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply. ](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.md) _Context: Flint water crisis, Legionnaires' disease_
 4. [: The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and 15 deaths from Legionnaires disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter.](/news/2014/04/21/the-american-city-of-flint-michigan-switches-its-water-source-to-the-flint-river-beginning-the-ongoing-flint-water-crisis-which-has-caus.md) _Context: Flint water crisis, Legionnaires' disease_
 5. [A Federal appeals court upholds the November 10 lower court order that Michigan must deliver bottled water or provide in-home filtration to all qualified residents affected by lead contamination in the city of Flint. ](/news/2016/12/16/a-federal-appeals-court-upholds-the-november-10-lower-court-order-that-michigan-must-deliver-bottled-water-or-provide-in-home-filtration-to.md) _Context: Flint water crisis_
-
-### Changes:
-
-1. [Michigan Attorney General Bill Schuette charges five people, including the director of the state Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-state-department-of-health-and-human-services-wi.md) _2017-06-15 00:30:06 (First version)_
-2. [Flint water crisis: Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/flint-water-crisis-michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health.md) _2017-08-27 03:48:28 (Update)_
-2. [Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.md) _(Current version)_
