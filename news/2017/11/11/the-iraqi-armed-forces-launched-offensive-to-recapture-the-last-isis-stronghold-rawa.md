@@ -14,7 +14,8 @@ Rawa is the last town remaining under IS control in Iraq after the fall of al-Qa
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-41953300)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B52C/production/_98708364_8ca16376-5ea7-4424-9234-d644029a67e4.jpg)
+2. [BBC](http://www.bbc.com/news/world-middle-east-41957092)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B52C/production/_98708364_8ca16376-5ea7-4424-9234-d644029a67e4.jpg)
 
 ### Related:
 

@@ -9,9 +9,6 @@
 ### [The Iraqi Armed Forces launched offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launched-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
 
-### [22 police agents are wounded in Brussels when celebrations for Morocco's football world cup qualification turn violent. ](/news/2017/11/11/22-police-agents-are-wounded-in-brussels-when-celebrations-for-morocco-s-football-world-cup-qualification-turn-violent.md)
-_Context: Brussels, Morocco, football world cup_
-
 ### [Trade ministers from 11 countries announce that they have agreed on "core elements" of the Trans-Pacific Partnership and plan to move forward with approving the trade agreement. ](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.md)
 DANANG: In a major breakthrough, trade ministers from 11 Pacific Rim countries said they reached a deal on Saturday to proceed with the free-trade Trans-Pacific Partnership (TPP) deal that was in doubt after US President Donald Trump abandoned it.
 
