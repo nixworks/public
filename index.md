@@ -6,10 +6,10 @@
 * [XML](/index.xml)
 ## [News](/news/2017/11/12/index.md)
 
-### [Boeing announced at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announced-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md)
+### [Boeing announces at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md)
 Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbus A380 order.
 
-### [An explosion ripped through an oil pipeline near the village of Buri in northern Bahrain. ](/news/2017/11/12/an-explosion-ripped-through-an-oil-pipeline-near-the-village-of-buri-in-northern-bahrain.md)
+### [An explosion rips through an oil pipeline near the village of Buri in northern Bahrain. ](/news/2017/11/12/an-explosion-rips-through-an-oil-pipeline-near-the-village-of-buri-in-northern-bahrain.md)
 An explosion ripped through the pipeline near the village of Buri in northern Bahrain.
 
 ## Opinion
@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/11/11/index.md)
 
-### [The Iraqi Armed Forces launched offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launched-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
+### [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
 
 ### [Trade ministers from 11 countries announce that they have agreed on "core elements" of the Trans-Pacific Partnership and plan to move forward with approving the trade agreement. ](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.md)
