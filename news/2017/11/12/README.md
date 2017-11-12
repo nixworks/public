@@ -6,6 +6,9 @@
 * [XML](2017/11/12/index.xml)
 ## [2017-11-12](/news/2017/11/12/index.md)
 
+### [Boeing announced at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announced-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md)
+Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbus A380 order.
+
 ### [An explosion ripped through an oil pipeline near the village of Buri in northern Bahrain. ](/news/2017/11/12/an-explosion-ripped-through-an-oil-pipeline-near-the-village-of-buri-in-northern-bahrain.md)
 An explosion ripped through the pipeline near the village of Buri in northern Bahrain.
 
