@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.html)
+* [JSON](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.json)
+* [XML](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. 
@@ -5,7 +11,7 @@
 Iran has remained within key limits on its nuclear activities imposed by its 2015 deal with world powers, a U.N. atomic watchdog report said on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://in.reuters.com/article/iran-nuclear-iaea-idINKCN1BB26T)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170831&t=2&i=1199426859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7U1A9)

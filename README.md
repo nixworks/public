@@ -6,11 +6,17 @@
 * [XML](/index.xml)
 ## [News](/news/2017/11/12/index.md)
 
+### [A grenade attack at a peace concert in Bangui, Central Africa Republic kills 7 and injuries 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-africa-republic-kills-7-and-injuries-20.md)
+_Context: Bangui, Central Africa Republic_
+
 ### [Boeing announces at the Dubai Airshow that Emirates (airline) would purchase 40 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-emirates-airline-would-purchase-40-787-dreamliners-with-a-list-value-of-us-15-billion.md)
 Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbus A380 order.
 
 ### [An explosion rips through an oil pipeline near the village of Buri in northern Bahrain. ](/news/2017/11/12/an-explosion-rips-through-an-oil-pipeline-near-the-village-of-buri-in-northern-bahrain.md)
 An explosion ripped through the pipeline near the village of Buri in northern Bahrain.
+
+### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
+At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -22,6 +28,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
+
+### [ISIS regains control of Abu Kamal. ](/news/2017/11/11/isis-regains-control-of-abu-kamal.md)
+ISIS recaptured Albu Kamal in eastern Syria on Saturday after a fierce fightback to save the last urban bastion of its collapsing &quot;caliphate&quot;.
 
 ### [Trade ministers from 11 countries announce that they have agreed on "core elements" of the Trans-Pacific Partnership and plan to move forward with approving the trade agreement. ](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.md)
 DANANG: In a major breakthrough, trade ministers from 11 Pacific Rim countries said they reached a deal on Saturday to proceed with the free-trade Trans-Pacific Partnership (TPP) deal that was in doubt after US President Donald Trump abandoned it.

@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/08/31/index.html)
+* [JSON](2017/08/31/index.json)
+* [XML](2017/08/31/index.xml)
 ## [2017-08-31](/news/2017/08/31/index.md)
 
 ### [Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. ](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.md)
@@ -25,7 +31,7 @@ Former military dictator has property confiscated as anti-terror court jails two
 A nurse says she was assaulted and illegally arrested by a Salt Lake City police detective for following a hospital policy that does not allow blood draws from unconscious patients.
 
 ### [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md)
-_Context: 19th National Congress, Communist Party of China, Politics of China_
+_Context: 19th National Congress of the Communist Party of China, Communist Party of China, Politics of China_
 
 ### [President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission. ](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.md)
 U.S. President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission, a person with knowledge of the matter said on Thursday.

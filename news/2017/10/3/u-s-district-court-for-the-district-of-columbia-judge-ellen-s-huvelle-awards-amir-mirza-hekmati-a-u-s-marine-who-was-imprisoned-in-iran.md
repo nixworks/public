@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.html)
+* [JSON](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.json)
+* [XML](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. 
@@ -5,9 +11,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/local/public-safety/us-judge-orders-iran-to-pay-63-million-to-ex-marine-tortured-imprisoned-four-years/2017/09/29/26aa9a0a-a54c-11e7-8cfe-d5b912fabc99_story.html)
+
+### Changes:
+
+1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-hekmati-a-u-s-marine-who-was-imprisoned-in-iran-as-a-f.md) _2017-10-03 21:30:07 (First version)_
+1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +27,3 @@
 3. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: Iran, Iran-United States relations_
 4. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _Context: Iran, Iran-United States relations_
 5. [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md) _Context: Iran, Iran-United States relations_
-
-### Changes:
-
-1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-hekmati-a-u-s-marine-who-was-imprisoned-in-iran-as-a-f.md) _2017-10-03 21:30:07 (First version)_
-1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _(Current version)_

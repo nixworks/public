@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.html)
+* [JSON](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.json)
+* [XML](/news/2017/10/3/former-president-of-iraq-jalal-talabani-dies-at-the-age-of-83-he-was-the-first-non-arab-president-of-iraq.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # Former President of Iraq, Jalal Talabani, dies at the age of 83. He was the first non-Arab president of Iraq. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-41486847)
 2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-kurds-talabani/kurdish-leader-and-ex-iraqi-president-jalal-talabani-dies-state-tv-idUSKCN1C81J6)

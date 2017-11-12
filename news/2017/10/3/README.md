@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/10/3/index.html)
+* [JSON](2017/10/3/index.json)
+* [XML](2017/10/3/index.xml)
 ## [2017-10-3](/news/2017/10/3/index.md)
 
 ### [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md)

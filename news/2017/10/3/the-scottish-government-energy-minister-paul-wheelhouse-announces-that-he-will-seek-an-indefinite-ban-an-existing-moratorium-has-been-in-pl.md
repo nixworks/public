@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.html)
+* [JSON](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.json)
+* [XML](/news/2017/10/3/the-scottish-government-energy-minister-paul-wheelhouse-announces-that-he-will-seek-an-indefinite-ban-an-existing-moratorium-has-been-in-pl.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # The Scottish Government Energy Minister Paul Wheelhouse announces that he will seek an indefinite ban (an existing moratorium has been in place since 2015) on crude oil recovery in Scotland by means of the process of hydraulic fracturing. 
@@ -5,7 +11,7 @@
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-41484153)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/122DC/production/_92306447_hi016736192.jpg)

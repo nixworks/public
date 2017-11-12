@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.html)
+* [JSON](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.json)
+* [XML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. 
@@ -5,7 +11,7 @@
 Former military dictator has property confiscated as anti-terror court jails two police officials in relation to 2007 assassination
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/aug/31/pakistan-benazir-bhutto-two-jailed)
 1. [Cover Image](https://i.guim.co.uk/img/media/ec7541230abc98691a83ee7694f8c9aff03af170/0_39_2380_1427/master/2380.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f0865bf5fb02e209e8a6f8708ed93017)

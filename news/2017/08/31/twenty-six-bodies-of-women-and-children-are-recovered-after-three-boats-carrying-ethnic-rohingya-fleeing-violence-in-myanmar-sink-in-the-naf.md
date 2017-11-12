@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/31/twenty-six-bodies-of-women-and-children-are-recovered-after-three-boats-carrying-ethnic-rohingya-fleeing-violence-in-myanmar-sink-in-the-naf.html)
+* [JSON](/news/2017/08/31/twenty-six-bodies-of-women-and-children-are-recovered-after-three-boats-carrying-ethnic-rohingya-fleeing-violence-in-myanmar-sink-in-the-naf.json)
+* [XML](/news/2017/08/31/twenty-six-bodies-of-women-and-children-are-recovered-after-three-boats-carrying-ethnic-rohingya-fleeing-violence-in-myanmar-sink-in-the-naf.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # Twenty-six bodies of women and children are recovered after three boats carrying ethnic Rohingya fleeing violence in Myanmar sink in the Naf River in Bangladesh's Cox's Bazar District. 
@@ -5,7 +11,7 @@
 Three boats carrying ethnic Rohingya fleeing violence in Myanmar capsized in Bangladesh and 26 bodies of women and children have been recovered, officials said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/boats-carrying-fleeing-rohingya-sink-in-bangladesh-26-dead/2017/08/31/5f5809e0-8eaf-11e7-9c53-6a169beb0953_story.html?utm_term=.b0d3254d4b90)
 

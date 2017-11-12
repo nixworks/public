@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.html)
+* [JSON](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.json)
+* [XML](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2017/08/31/investing/wells-fargo-fake-accounts/)
 1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170330100649-wells-fargo-magnifying-glass-investigation-780x439.jpg)
