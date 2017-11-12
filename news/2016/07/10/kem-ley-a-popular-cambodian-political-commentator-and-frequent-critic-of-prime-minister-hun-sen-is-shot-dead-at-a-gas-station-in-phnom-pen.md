@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/07/10/kem-ley-a-popular-cambodian-political-commentator-and-frequent-critic-of-prime-minister-hun-sen-is-shot-dead-at-a-gas-station-in-phnom-pen.html)
+* [JSON](/news/2016/07/10/kem-ley-a-popular-cambodian-political-commentator-and-frequent-critic-of-prime-minister-hun-sen-is-shot-dead-at-a-gas-station-in-phnom-pen.json)
+* [XML](/news/2016/07/10/kem-ley-a-popular-cambodian-political-commentator-and-frequent-critic-of-prime-minister-hun-sen-is-shot-dead-at-a-gas-station-in-phnom-pen.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Kem Ley, a popular Cambodian political commentator and frequent critic of Prime Minister Hun Sen, is shot dead at a gas station in Phnom Penh. 
@@ -5,7 +11,7 @@
 Kem Ley, a popular political commentator and frequent critic of Prime Minister Hun Sen, was shot dead at a Phnom Penh gas station on Sunday morning, according to military police.
 
 
-### Source:
+### Sources:
 
 1. [Cambodia Daily](https://www.cambodiadaily.com/news/popular-political-analyst-kem-ley-shot-dead-115246/)
 1. [Cover Image](https://www.cambodiadaily.com/cdfiles/wp-content/uploads/2016/07/21B3775.jpg)

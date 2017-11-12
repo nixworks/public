@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](2017/01/21/index.html)
+* [JSON](2017/01/21/index.json)
+* [XML](2017/01/21/index.xml)
 ## [2017-01-21](/news/2017/01/21/index.md)
 
 ### [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md)

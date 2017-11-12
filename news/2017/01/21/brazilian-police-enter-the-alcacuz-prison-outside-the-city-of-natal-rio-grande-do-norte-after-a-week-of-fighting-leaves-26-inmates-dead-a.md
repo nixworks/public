@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outside-the-city-of-natal-rio-grande-do-norte-after-a-week-of-fighting-leaves-26-inmates-dead-a.html)
+* [JSON](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outside-the-city-of-natal-rio-grande-do-norte-after-a-week-of-fighting-leaves-26-inmates-dead-a.json)
+* [XML](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outside-the-city-of-natal-rio-grande-do-norte-after-a-week-of-fighting-leaves-26-inmates-dead-a.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # Brazilian police enter the Alcacuz prison outside the city of Natal, Rio Grande do Norte, after a week of fighting leaves 26 inmates dead. At least 126 people have been killed in Brazil's prisons since the beginning of the year. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_BRAZIL_PRISON_KILLINGS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-01-21-18-42-30)
 

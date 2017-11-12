@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.html)
+* [JSON](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.json)
+* [XML](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. 
@@ -5,7 +11,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/suicide-bombers-blow-saudi-arabia-170121075722150.html)
 

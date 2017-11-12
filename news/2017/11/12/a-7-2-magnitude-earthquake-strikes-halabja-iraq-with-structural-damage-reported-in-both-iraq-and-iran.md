@@ -6,7 +6,7 @@
 * [XML](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-with-structural-damage-reported-in-both-iraq-and-iran.xml)
 ### [2017-11-12](/news/2017/11/12/index.md)
 
-# A 7.2 magnitude earthquake strikes Halabja, Iraq with structural damage reported in both Iraq and Iran. 
+# A 7.2 magnitude earthquake strikes Halabja, Iraq, with structural damage reported in both Iraq and Iran. 
 
 A strong earthquake hit large parts of northern Iraq and the capital Baghdad on Sunday, and also caused damage in villages across the border in Iran where state TV said at least six people had been killed.
 

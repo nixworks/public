@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.html)
+* [JSON](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.json)
+* [XML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Hamza bin Laden, the son of the slain Osama bin Laden, threatens a genocide against the United States to retaliate for his father's killing. 
@@ -5,7 +11,7 @@
 THE son of slain al Qaeda leader Osama bin Laden has threatened revenge against the United States for assassinating his father, according to an audio message posted online. 
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/world/north-america/osama-bin-ladens-son-threatens-revenge-against-us/news-story/e1b96dd266b71616ea881add3a6ada12)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/4f6e270b2ce871e69a91edee19413137)

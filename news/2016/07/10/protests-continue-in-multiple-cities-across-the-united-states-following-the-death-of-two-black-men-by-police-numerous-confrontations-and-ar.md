@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.html)
+* [JSON](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.json)
+* [XML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. 
@@ -5,20 +11,20 @@
 Protests against the shootings of two black men by police officers shut down main arteries in a number of U.S. cities on Saturday, leading to numerous arrests, scuffles and injuries in confrontations between police and demonstrators.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-usa-police-protests-idUSKCN0ZQ00O)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144851460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC690TX)
-
-### Related:
-
-1. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Shooting of Philando Castile, United States_
-2. [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md) _Context: Police, United States_
-3. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-4. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
 
 ### Changes:
 
 1. [Shooting of Alton Sterling and Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/shooting-of-alton-sterling-and-protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police.md) _2017-08-25 03:46:06 (First version)_
 1. [Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.md) _(Current version)_
+
+### Related:
+
+1. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Shooting of Philando Castile, United States_
+2. [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md) _Context: Police, United States_
+3. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: United States_
+4. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: United States_
+5. [The United States contemplates reimposing sanctions against Myanmar over alleged abuses against the Rohingya people. ](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.md) _Context: United States_

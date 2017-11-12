@@ -1,11 +1,17 @@
+
+### Formats:
+
+* [HTML](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.html)
+* [JSON](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.json)
+* [XML](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.xml)
 ### [2017-09-19](/news/2017/09/19/index.md)
 
-# Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km-h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. 
+# Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km-h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurrence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/190133.shtml)
 
