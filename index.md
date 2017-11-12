@@ -18,6 +18,9 @@ An explosion ripped through the pipeline near the village of Buri in northern Ba
 ### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
 At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
 
+### [A 7.2 magnitude earthquake strikes Halabja, Iraq with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-2-magnitude-earthquake-strikes-halabja-iraq-with-structural-damage-reported-in-both-iraq-and-iran.md)
+A strong earthquake hit large parts of northern Iraq and the capital Baghdad on Sunday, and also caused damage in villages across the border in Iran where state TV said at least six people had been killed.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
