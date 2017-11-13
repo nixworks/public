@@ -4,7 +4,18 @@
 * [HTML](/index.html)
 * [JSON](/index.json)
 * [XML](/index.xml)
-## [News](/news/2017/11/12/index.md)
+## [News](/news/2017/11/13/index.md)
+
+### [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4000-injured-the-death-toll-is-expected-to-rise-further-in-comi.md)
+The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/11/12/index.md)
 
 ### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)
 _Context: Bangui, Central African Republic_
@@ -24,13 +35,9 @@ At least 16 people died on Sunday when a tourist boat capsized in the southern I
 ### [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md)
 _Context: 2017 Costa Rica earthquake, Costa Rica, Jac, San Jos, magnitude_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/11/11/index.md)
+## [Day Before Yesterday](/news/2017/11/11/index.md)
 
 ### [The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
@@ -49,23 +56,7 @@ WARSAW, Poland (CNN) -- Tens of thousands of nationalist protesters disrupted Po
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/10/index.md)
-
-### [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md)
-The driver of the car was arrested after the apparently deliberate attack outside a college.
-
-### [France's nuclear safety institute (IRSN) picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.md)
-A cloud of radioactive pollution spread over Europe after a possible &quot;accident&quot; at a nuclear facility in Russia or Kazakhstan, French nuclear safety officials confirmed on Friday.
-
-### [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md)
-Governments of three Gulf states urge citizens to leave &#39;as soon as possible&#39; and warn against travelling to Lebanon.
-
-### [Pope Francis, at the start of a two-day nuclear disarmament conference at Vatican City, says countries should not stockpile nuclear weapons even for the purpose of deterrence. ](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.md)
-_Context: Dicastery for Promoting Integral Human Development, Pope Francis, nuclear disarmament, stockpile nuclear weapons_
-
----
-
-## [Previous Day...](/news/2017/11/9/index.md)
+## [Previous Day...](/news/2017/11/10/index.md)
 
 ---
 
