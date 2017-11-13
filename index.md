@@ -24,9 +24,6 @@ An explosion ripped through the pipeline near the village of Buri in northern Ba
 ### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
 At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
 
-### [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md)
-_Context: Costa Rica, Jac, San Jos, magnitude_
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -47,7 +44,7 @@ DANANG: In a major breakthrough, trade ministers from 11 Pacific Rim countries s
 ### [The Turnbull Government loses its parliamentary majority, after Liberal Party MP John Alexander resigns from the Australian House of Representatives due to likely holding British dual citizenship. ](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.md)
 British authorities were unable to cover any evidence to support MP&#039;s repeated assurances he was not a dual citizen.
 
-### [An estimated 60,000 nationalists march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-march-through-warsaw-disrupting-celebrations-of-poland-s-national-independence-day.md)
+### [An estimated 60,000 nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocaust-march-through-warsaw-disrupting-cel.md)
 WARSAW, Poland (CNN) -- Tens of thousands of nationalist protesters disrupted Poland&#039;s independence day events Saturday, waving flags and burning flares as they marched down the streets of Warsaw. Demonstrators carried banners that read &quot;White Europe, Europe must be white,&quot; and &quot;...
 
 ---

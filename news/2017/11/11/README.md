@@ -18,7 +18,7 @@ DANANG: In a major breakthrough, trade ministers from 11 Pacific Rim countries s
 ### [The Turnbull Government loses its parliamentary majority, after Liberal Party MP John Alexander resigns from the Australian House of Representatives due to likely holding British dual citizenship. ](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.md)
 British authorities were unable to cover any evidence to support MP&#039;s repeated assurances he was not a dual citizen.
 
-### [An estimated 60,000 nationalists march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-march-through-warsaw-disrupting-celebrations-of-poland-s-national-independence-day.md)
+### [An estimated 60,000 nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw, disrupting celebrations of Poland's National Independence Day. ](/news/2017/11/11/an-estimated-60-000-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocaust-march-through-warsaw-disrupting-cel.md)
 WARSAW, Poland (CNN) -- Tens of thousands of nationalist protesters disrupted Poland&#039;s independence day events Saturday, waving flags and burning flares as they marched down the streets of Warsaw. Demonstrators carried banners that read &quot;White Europe, Europe must be white,&quot; and &quot;...
 
 ## [Previous Day...](/news/2017/11/10/index.md)

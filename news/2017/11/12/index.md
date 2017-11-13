@@ -24,8 +24,5 @@ An explosion ripped through the pipeline near the village of Buri in northern Ba
 ### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
 At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
 
-### [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md)
-_Context: Costa Rica, Jac, San Jos, magnitude_
-
 ## [Previous Day...](/news/2017/11/11/index.md)
 
