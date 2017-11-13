@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.html)
+* [JSON](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.json)
+* [XML](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. 

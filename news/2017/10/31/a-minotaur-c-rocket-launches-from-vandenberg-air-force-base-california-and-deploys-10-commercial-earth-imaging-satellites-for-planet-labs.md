@@ -1,3 +1,9 @@
+
+### Formats:
+
+* [HTML](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.html)
+* [JSON](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.json)
+* [XML](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. 
