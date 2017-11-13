@@ -6,10 +6,10 @@
 * [XML](2017/11/11/index.xml)
 ## [2017-11-11](/news/2017/11/11/index.md)
 
-### [The Iraqi Armed Forces launch an offensive to recapture the last ISIS stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isis-stronghold-in-iraq-rawa.md)
+### [The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.md)
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.
 
-### [ISIS regains control of Abu Kamal. ](/news/2017/11/11/isis-regains-control-of-abu-kamal.md)
+### [ISIL regains control of Abu Kamal. ](/news/2017/11/11/isil-regains-control-of-abu-kamal.md)
 ISIS recaptured Albu Kamal in eastern Syria on Saturday after a fierce fightback to save the last urban bastion of its collapsing &quot;caliphate&quot;.
 
 ### [Trade ministers from 11 countries announce that they have agreed on "core elements" of the Trans-Pacific Partnership and plan to move forward with approving the trade agreement. ](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.md)
