@@ -9,7 +9,7 @@
 ### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)
 _Context: Bangui, Central African Republic_
 
-### [Hundreds of sexual abuse survivors and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood-california.md)
+### [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md)
 Survivors of sexual assault and harassment gather Sunday for the &quot;Me Too Survivors&apos; March&quot; in Hollywood.
 
 ### [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md)

@@ -9,11 +9,14 @@
 ### [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md)
 _Context: Border incidents involving North Korea, Korean Demilitarized Zone, Korean People's Army, North Korea, Panmunjom, South Korea, defects_
 
+### [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4-000-injured-the-death-toll-is-expected-to-rise-further-in-com.md)
+The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.
+
 ### [23 European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom, and non-NATO members Malta and Ireland opt out. ](/news/2017/11/13/23-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-portugal-an.md)
 _Context: Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence_
 
-### [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4000-injured-the-death-toll-is-expected-to-rise-further-in-comi.md)
-The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.
+### [The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. ](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.md)
+Months after the former guerrilla group formed a political party, the European Union on Monday removed Colombia&#8217;s FARC from the EU&#8217;s global list of terrorist organizations. The decision followed a&hellip;
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -26,7 +29,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)
 _Context: Bangui, Central African Republic_
 
-### [Hundreds of sexual abuse survivors and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-survivors-and-their-supporters-march-in-hollywood-california.md)
+### [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md)
 Survivors of sexual assault and harassment gather Sunday for the &quot;Me Too Survivors&apos; March&quot; in Hollywood.
 
 ### [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md)
