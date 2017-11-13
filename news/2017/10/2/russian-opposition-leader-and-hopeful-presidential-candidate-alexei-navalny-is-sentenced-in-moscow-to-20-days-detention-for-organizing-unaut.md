@@ -17,6 +17,11 @@ Russian blogger turned opposition figure Aleksey Navalny has been found guilty o
 2. [Reuters](https://www.reuters.com/article/us-russia-politics-navalny/kremlin-critic-navalny-jailed-for-third-time-this-year-idUSKCN1C72CX)
 2. [Cover Image](https://cdni.rt.com/files/2017.10/article/59d2aa8bfc7e93de578b4567.jpg)
 
+### Changes:
+
+1. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 dave days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-dave-days-detention-for-organizing.md) _2017-11-13 07:30:04 (First version)_
+1. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md) _(Current version)_
+
 ### Related:
 
 1. [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his-running-in-next-year-s-presidential.md) _Context: Alexei Navalny, Russia, Russian presidential election, 2018, unauthorized public meetings_
