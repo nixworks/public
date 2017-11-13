@@ -18,11 +18,11 @@ Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbu
 ### [A 7.3 magnitude earthquake strikes near Halabja, Iraq, killing at least 145 people and injuring more than 850 with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.md)
 A strong earthquake hit large parts of northern Iraq and the capital Baghdad on Sunday, and also caused damage in villages across the border in Iran where state TV said at least six people had been killed.
 
-### [An explosion rips through an oil pipeline near the village of Buri in northern Bahrain. ](/news/2017/11/12/an-explosion-rips-through-an-oil-pipeline-near-the-village-of-buri-in-northern-bahrain.md)
-An explosion ripped through the pipeline near the village of Buri in northern Bahrain.
-
 ### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
 At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
+
+### [Costa Rica is hit by a 6.5 magnitude earthquake at Jac near the capital San Jos. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaco-near-the-capital-san-jose-no-immediate-reports-of-casualties-or-damage.md)
+_Context: 2017 Costa Rica earthquake, Costa Rica, Jac, San Jos, magnitude_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
