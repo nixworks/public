@@ -9,10 +9,10 @@
 ### [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md)
 _Context: Border incidents involving North Korea, Korean Demilitarized Zone, Korean People's Army, North Korea, Panmunjom, South Korea, defects_
 
-### [The Moscow-based RT America television and online news service registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/the-moscow-based-rt-america-television-and-online-news-service-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-unite.md)
-_Context: Moscow, RT America, U.S. Department of Justice, foreign agent_
+### [The Russian backed RT America television and online news service registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/the-russian-backed-rt-america-television-and-online-news-service-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-uni.md)
+_Context: RT America, U.S. Department of Justice, foreign agent_
 
-### [The death toll from the earthquake in Iraq and Iran exceeds 300 with nearly 4,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-300-with-nearly-4-000-injured-the-death-toll-is-expected-to-rise-further-in-com.md)
+### [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md)
 The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.
 
 ### [23 European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom, and non-NATO members Malta and Ireland opt out. ](/news/2017/11/13/23-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-portugal-an.md)
