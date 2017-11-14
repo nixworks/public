@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-de
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
-# Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland opt out. 
+# Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-de
 
 1. [23 European Union countries sign a defence integration pact known as the "'Permanent Structured Cooperation"'. NATO members Denmark, Portugal and the United Kingdom, and non-NATO members Malta and Ireland opt out. ](/news/2017/11/13/23-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-portuga.md) _2017-11-13 16:30:05 (First version)_
 2. [23 European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland opt out. ](/news/2017/11/13/23-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-portugal-an.md) _2017-11-14 07:30:06 (Update)_
-2. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _(Current version)_
+2. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _(Current version)_
 
 ### Related:
 
