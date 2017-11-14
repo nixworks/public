@@ -6,7 +6,7 @@
 * [XML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-let-hundreds-of-islamic-state-fighters-and-their-families-including-some-of-isisas-most-notorious-mem.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
-# The BBC reveals that a secret deal let hundreds of Islamic State fighters and their families, including some of ISIS's "most notorious members," escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIS was made and that the evacuations took place.
+# The BBC reveals that a secret deal let hundreds of Islamic State fighters and their families, including some of ISIS's "most notorious members," escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIS was made and that the evacuations took place. 
 
 The BBC has uncovered details of a secret deal that let hundreds of IS fighters – including foreign militants - and their families escape from Raqqa in Syria. In exchange for freeing hostages, a convoy which stretched for miles, was able to leave the city freely - under the gaze of the US and UK-led coalition and Kurdish forces who control the city. 
 

@@ -7,7 +7,7 @@
 ## [News](/news/2017/11/14/index.md)
 
 ### [Thousands of Iranians have spent a second night outdoors in near-freezing temperatures after a devastating earthquake hit the west of the country. ](/news/2017/11/14/thousands-of-iranians-have-spent-a-second-night-outdoors-in-near-freezing-temperatures-after-a-devastating-earthquake-hit-the-west-of-the-co.md)
-_Context: 2017 Kermanshah earthquake_
+_Context: 2017 Iran-Iraq earthquake_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md)
 _Context: Border incidents involving North Korea, Korean Demilitarized Zone, Korean People's Army, North Korea, Panmunjom, South Korea, defects_
 
-### [The BBC reveals that a secret deal let hundreds of Islamic State fighters and their families, including some of ISIS's "most notorious members," escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIS was made and that the evacuations took place.](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-let-hundreds-of-islamic-state-fighters-and-their-families-including-some-of-isisas-most-notorious-mem.md)
+### [The BBC reveals that a secret deal let hundreds of Islamic State fighters and their families, including some of ISIS's "most notorious members," escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIS was made and that the evacuations took place. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-let-hundreds-of-islamic-state-fighters-and-their-families-including-some-of-isisas-most-notorious-mem.md)
 The BBC has uncovered details of a secret deal that let hundreds of IS fighters – including foreign militants - and their families escape from Raqqa in Syria. In exchange for freeing hostages, a convoy which stretched for miles, was able to leave the city freely - under the gaze of the US and UK-l...
 
 ### [The Russian backed RT America television and online news service registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/the-russian-backed-rt-america-television-and-online-news-service-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-uni.md)
