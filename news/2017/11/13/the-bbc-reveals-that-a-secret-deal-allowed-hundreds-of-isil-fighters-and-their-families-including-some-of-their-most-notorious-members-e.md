@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.html) [JSON](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.json) [XML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.xml) 
 
-* [HTML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.html)
-* [JSON](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.json)
-* [XML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
 # The BBC reveals that a secret deal allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. 

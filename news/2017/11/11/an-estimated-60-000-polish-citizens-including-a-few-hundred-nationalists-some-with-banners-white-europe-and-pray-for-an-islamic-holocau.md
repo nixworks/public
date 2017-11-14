@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.html) [JSON](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.json) [XML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.xml) 
 
-* [HTML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.html)
-* [JSON](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.json)
-* [XML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.xml)
 ### [2017-11-11](/news/2017/11/11/index.md)
 
 # An estimated 60,000 Polish citizens, including a few hundred nationalists, some with banners "White Europe" and "Pray for an Islamic Holocaust", march through Warsaw under an umbrella slogan of "We want God", on the annual Independence March during the celebrations of Poland's National Independence Day. 

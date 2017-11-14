@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.html) [JSON](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.json) [XML](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.xml) 
 
-* [HTML](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.html)
-* [JSON](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.json)
-* [XML](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.xml)
 ### [2017-11-14](/news/2017/11/14/index.md)
 
 # Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.html) [JSON](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.json) [XML](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.xml) 
 
-* [HTML](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.html)
-* [JSON](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.json)
-* [XML](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.xml)
 ### [2017-11-9](/news/2017/11/9/index.md)
 
 # A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. 

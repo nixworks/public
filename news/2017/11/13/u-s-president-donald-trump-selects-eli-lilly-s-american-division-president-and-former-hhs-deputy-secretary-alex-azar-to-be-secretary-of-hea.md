@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.html) [JSON](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.json) [XML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.xml) 
 
-* [HTML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.html)
-* [JSON](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.json)
-* [XML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
 # U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.html) [JSON](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.json) [XML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.xml) 
 
-* [HTML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.html)
-* [JSON](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.json)
-* [XML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.xml)
 ### [2017-11-11](/news/2017/11/11/index.md)
 
 # The Turnbull Government loses its parliamentary majority, after Liberal Party MP John Alexander resigns from the Australian House of Representatives due to likely holding British dual citizenship. 

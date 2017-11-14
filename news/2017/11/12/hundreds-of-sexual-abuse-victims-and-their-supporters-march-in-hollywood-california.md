@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.html) [JSON](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.json) [XML](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.xml) 
 
-* [HTML](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.html)
-* [JSON](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.json)
-* [XML](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.xml)
 ### [2017-11-12](/news/2017/11/12/index.md)
 
 # Hundreds of sexual abuse victims and their supporters march in Hollywood, California. 

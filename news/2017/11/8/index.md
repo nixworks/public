@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](2017/11/8/index.html) [JSON](2017/11/8/index.json) [XML](2017/11/8/index.xml) 
 
-* [HTML](2017/11/8/index.html)
-* [JSON](2017/11/8/index.json)
-* [XML](2017/11/8/index.xml)
 ## [2017-11-8](/news/2017/11/8/index.md)
 
 ### [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md)

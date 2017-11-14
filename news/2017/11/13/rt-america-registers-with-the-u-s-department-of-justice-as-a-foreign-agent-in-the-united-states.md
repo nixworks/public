@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.html) [JSON](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.json) [XML](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.xml) 
 
-* [HTML](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.html)
-* [JSON](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.json)
-* [XML](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
 # RT America registers with the U.S. Department of Justice as a foreign agent in the United States. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.html) [JSON](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.json) [XML](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.xml) 
 
-* [HTML](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.html)
-* [JSON](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.json)
-* [XML](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.xml)
 ### [2017-11-11](/news/2017/11/11/index.md)
 
 # The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. 

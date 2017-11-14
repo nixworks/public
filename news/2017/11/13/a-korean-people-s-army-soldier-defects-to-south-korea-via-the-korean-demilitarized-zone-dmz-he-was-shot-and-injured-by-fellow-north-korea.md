@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.html) [JSON](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.json) [XML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.xml) 
 
-* [HTML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.html)
-* [JSON](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.json)
-* [XML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
 # A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. 

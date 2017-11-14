@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](2017/11/10/index.html) [JSON](2017/11/10/index.json) [XML](2017/11/10/index.xml) 
 
-* [HTML](2017/11/10/index.html)
-* [JSON](2017/11/10/index.json)
-* [XML](2017/11/10/index.xml)
 ## [2017-11-10](/news/2017/11/10/index.md)
 
 ### [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md)

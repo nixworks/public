@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.html) [JSON](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.json) [XML](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.xml) 
 
-* [HTML](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.html)
-* [JSON](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.json)
-* [XML](/news/2017/11/11/trade-ministers-from-11-countries-announce-that-they-have-agreed-on-core-elements-of-the-trans-pacific-partnership-and-plan-to-move-forwar.xml)
 ### [2017-11-11](/news/2017/11/11/index.md)
 
 # Trade ministers from 11 countries announce that they have agreed on "core elements" of the Trans-Pacific Partnership and plan to move forward with approving the trade agreement. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.html) [JSON](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.json) [XML](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.xml) 
 
-* [HTML](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.html)
-* [JSON](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.json)
-* [XML](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.xml)
 ### [2017-11-13](/news/2017/11/13/index.md)
 
 # The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.html) [JSON](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.json) [XML](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.xml) 
 
-* [HTML](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.html)
-* [JSON](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.json)
-* [XML](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.xml)
 ### [2017-11-10](/news/2017/11/10/index.md)
 
 # Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. 

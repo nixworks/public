@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.html) [JSON](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.json) [XML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.xml) 
 
-* [HTML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.html)
-* [JSON](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.json)
-* [XML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.xml)
 ### [2017-11-9](/news/2017/11/9/index.md)
 
 # Pope Francis issues a directive banning the sale of most tobacco in Vatican City as of January 1, 2018, because of its unhealthy attributes. A 2015 book stated the papal city netted $11 million (GBP8.7 million) per year from these sales. 

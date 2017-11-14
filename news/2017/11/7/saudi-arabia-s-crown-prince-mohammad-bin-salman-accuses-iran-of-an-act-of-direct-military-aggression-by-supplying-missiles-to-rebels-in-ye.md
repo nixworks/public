@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.html) [JSON](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.json) [XML](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.xml) 
 
-* [HTML](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.html)
-* [JSON](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.json)
-* [XML](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.xml)
 ### [2017-11-7](/news/2017/11/7/index.md)
 
 # Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. 

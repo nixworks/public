@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](2017/11/9/index.html) [JSON](2017/11/9/index.json) [XML](2017/11/9/index.xml) 
 
-* [HTML](2017/11/9/index.html)
-* [JSON](2017/11/9/index.json)
-* [XML](2017/11/9/index.xml)
 ## [2017-11-9](/news/2017/11/9/index.md)
 
 ### [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md)

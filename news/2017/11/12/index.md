@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](2017/11/12/index.html) [JSON](2017/11/12/index.json) [XML](2017/11/12/index.xml) 
 
-* [HTML](2017/11/12/index.html)
-* [JSON](2017/11/12/index.json)
-* [XML](2017/11/12/index.xml)
 ## [2017-11-12](/news/2017/11/12/index.md)
 
 ### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)

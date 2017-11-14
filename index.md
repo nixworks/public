@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/index.html) [JSON](/index.json) [XML](/index.xml) 
 
-* [HTML](/index.html)
-* [JSON](/index.json)
-* [XML](/index.xml)
 ## [News](/news/2017/11/14/index.md)
 
 ### [Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. ](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.md)

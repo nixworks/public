@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.html) [JSON](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.json) [XML](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.xml) 
 
-* [HTML](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.html)
-* [JSON](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.json)
-* [XML](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.xml)
 ### [2017-11-8](/news/2017/11/8/index.md)
 
 # U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. 

@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.html) [JSON](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.json) [XML](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.xml) 
 
-* [HTML](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.html)
-* [JSON](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.json)
-* [XML](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.xml)
 ### [2017-11-12](/news/2017/11/12/index.md)
 
 # As the people of Equatorial Guinea vote in the legislative election, the government blocks access to the internet and bans private vehicles. Observers predict the Democratic Party of Equatorial Guinea will win the election. 

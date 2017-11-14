@@ -1,9 +1,6 @@
 
-### Formats:
+### Formats: [HTML](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.html) [JSON](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.json) [XML](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.xml) 
 
-* [HTML](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.html)
-* [JSON](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.json)
-* [XML](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.xml)
 ### [2017-11-8](/news/2017/11/8/index.md)
 
 # The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])
