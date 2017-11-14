@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.html) [JSON](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.json) [XML](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.xml) 
+Formats: [HTML](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.html)  [JSON](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.json)  [XML](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.xml)  
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 

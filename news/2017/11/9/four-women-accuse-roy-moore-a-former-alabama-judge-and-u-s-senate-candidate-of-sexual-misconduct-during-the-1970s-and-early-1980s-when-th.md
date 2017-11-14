@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.html) [JSON](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.json) [XML](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.xml) 
+Formats: [HTML](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.html)  [JSON](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.json)  [XML](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.xml)  
 
 ### [2017-11-9](/news/2017/11/9/index.md)
 

@@ -1,5 +1,5 @@
 
-### Formats: [HTML](2017/11/12/index.html) [JSON](2017/11/12/index.json) [XML](2017/11/12/index.xml) 
+Formats: [HTML](2017/11/12/index.html)  [JSON](2017/11/12/index.json)  [XML](2017/11/12/index.xml)  
 
 ## [2017-11-12](/news/2017/11/12/index.md)
 

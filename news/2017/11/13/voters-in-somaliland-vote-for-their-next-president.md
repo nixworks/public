@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.html) [JSON](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.json) [XML](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.xml) 
+Formats: [HTML](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.html)  [JSON](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.json)  [XML](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-president.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 

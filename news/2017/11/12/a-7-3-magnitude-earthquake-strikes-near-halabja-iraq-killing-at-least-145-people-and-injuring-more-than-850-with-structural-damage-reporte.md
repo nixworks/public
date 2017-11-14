@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.html) [JSON](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.json) [XML](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.xml) 
+Formats: [HTML](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.html)  [JSON](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.json)  [XML](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.xml)  
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 

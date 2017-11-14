@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.html) [JSON](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.json) [XML](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.xml) 
+Formats: [HTML](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.html)  [JSON](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.json)  [XML](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.xml)  
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 

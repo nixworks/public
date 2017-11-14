@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.html) [JSON](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.json) [XML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.xml) 
+Formats: [HTML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.html)  [JSON](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.json)  [XML](/news/2017/11/9/pope-francis-issues-a-directive-banning-the-sale-of-most-tobacco-in-vatican-city-as-of-january-1-2018-because-of-its-unhealthy-attributes.xml)  
 
 ### [2017-11-9](/news/2017/11/9/index.md)
 

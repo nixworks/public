@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.html)  [JSON](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.json)  [XML](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.xml)  
 
-* [HTML](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.html)
-* [JSON](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.json)
-* [XML](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist-banksy-satirizes-the-100th-anniversary-of-the-balfour-declaration.xml)
 ### [2017-11-2](/news/2017/11/2/index.md)
 
 # A Bethlehem art installation (by anonymous artist Banksy) satirizes the 100th anniversary of the Balfour Declaration. 

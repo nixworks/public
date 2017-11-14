@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.html) [JSON](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.json) [XML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.xml) 
+Formats: [HTML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.html)  [JSON](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.json)  [XML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-disarmament-conference-at-vatican-city-says-countries-should-not-stockpile-nuclear-weapons.xml)  
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.html)  [JSON](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.json)  [XML](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.xml)  
 
-* [HTML](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.html)
-* [JSON](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.json)
-* [XML](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-species-of-great-ape.xml)
 ### [2017-11-2](/news/2017/11/2/index.md)
 
 # The Tapanuli orangutan is identified as a new species of great ape. 

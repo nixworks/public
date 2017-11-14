@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.html) [JSON](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.json) [XML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.xml) 
+Formats: [HTML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.html)  [JSON](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.json)  [XML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notorious-members-e.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 

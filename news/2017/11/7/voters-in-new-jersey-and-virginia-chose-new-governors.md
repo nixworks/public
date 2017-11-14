@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.html) [JSON](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.json) [XML](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.xml) 
+Formats: [HTML](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.html)  [JSON](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.json)  [XML](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-governors.xml)  
 
 ### [2017-11-7](/news/2017/11/7/index.md)
 

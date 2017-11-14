@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.html) [JSON](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.json) [XML](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.xml) 
+Formats: [HTML](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.html)  [JSON](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.json)  [XML](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.xml)  
 
 ### [2017-11-7](/news/2017/11/7/index.md)
 

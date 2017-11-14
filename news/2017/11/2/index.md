@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2017/11/2/index.html)  [JSON](2017/11/2/index.json)  [XML](2017/11/2/index.xml)  
 
-* [HTML](2017/11/2/index.html)
-* [JSON](2017/11/2/index.json)
-* [XML](2017/11/2/index.xml)
 ## [2017-11-2](/news/2017/11/2/index.md)
 
 ### [According to the Syrian Observatory for Human Rights, the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces. Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ](/news/2017/11/2/according-to-the-syrian-observatory-for-human-rights-the-city-of-deir-ez-zor-has-largely-been-cleared-of-isis-fighters-by-the-syrian-armed.md)
@@ -17,6 +14,9 @@ Powell is known for his centrist ideas and experience in the Federal Reserve.
 
 ### [At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. ](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boiler-explosion-at-a-coal-fired-power-plant-in-uttar-pradesh-state-india.md)
 _Context: 2017 NTPC power plant explosion, coal-fired power plant_
+
+### [Judge Lamela sends preventive detention to eight of the ministers of the Government of Catalonia (Junqueras, Forn, Batet, Romeva, Mundo, Bassa, Rull, Turull) due to an alleged crime of sedition and rebellion. The ninth Santi Vila, minister of Enterprise and Knwoledge, leaves the jail the next day after payment of a bail, being the only one who was given this opportunity. ](/news/2017/11/2/judge-lamela-sends-preventive-detention-to-eight-of-the-ministers-of-the-government-of-catalonia-junqueras-forn-batet-romeva-munda3-ba.md)
+Eight sacked ministers are remanded in custody over the push for independence, prompting protests.
 
 ### [Opposition leader Katrin Jakobsdottir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. ](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.md)
 Icelandic Left Green Movement leader Katrin Jakobsdottir has been given a mandate to explore a governing coalition from President Gudni Th. Johannesson.

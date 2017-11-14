@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.html) [JSON](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.json) [XML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.xml) 
+Formats: [HTML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.html)  [JSON](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.json)  [XML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.xml)  
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 

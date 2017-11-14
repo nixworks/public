@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.html) [JSON](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.json) [XML](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.xml) 
+Formats: [HTML](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.html)  [JSON](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.json)  [XML](/news/2017/11/11/alibaba-group-makes-168-2-billion-yuan-25-3-billion-in-singles-day-sales.xml)  
 
 ### [2017-11-11](/news/2017/11/11/index.md)
 

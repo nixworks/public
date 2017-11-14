@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.html) [JSON](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.json) [XML](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.xml) 
+Formats: [HTML](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.html)  [JSON](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.json)  [XML](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 

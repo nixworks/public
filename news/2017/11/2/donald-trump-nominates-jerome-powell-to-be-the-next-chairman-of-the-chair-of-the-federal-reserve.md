@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.html)  [JSON](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.json)  [XML](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.xml)  
 
-* [HTML](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.html)
-* [JSON](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.json)
-* [XML](/news/2017/11/2/donald-trump-nominates-jerome-powell-to-be-the-next-chairman-of-the-chair-of-the-federal-reserve.xml)
 ### [2017-11-2](/news/2017/11/2/index.md)
 
 # Donald Trump nominates Jerome Powell to be the next chairman of the Chair of the Federal Reserve. 

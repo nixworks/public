@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.html) [JSON](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.json) [XML](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.xml) 
+Formats: [HTML](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.html)  [JSON](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.json)  [XML](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.xml)  
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 

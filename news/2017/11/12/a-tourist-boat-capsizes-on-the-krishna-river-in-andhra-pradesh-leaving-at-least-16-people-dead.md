@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.html) [JSON](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.json) [XML](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.xml) 
+Formats: [HTML](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.html)  [JSON](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.json)  [XML](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.xml)  
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 

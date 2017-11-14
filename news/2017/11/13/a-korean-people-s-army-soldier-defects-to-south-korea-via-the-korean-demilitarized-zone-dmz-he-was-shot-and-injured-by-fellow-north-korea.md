@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.html) [JSON](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.json) [XML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.xml) 
+Formats: [HTML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.html)  [JSON](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.json)  [XML](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 

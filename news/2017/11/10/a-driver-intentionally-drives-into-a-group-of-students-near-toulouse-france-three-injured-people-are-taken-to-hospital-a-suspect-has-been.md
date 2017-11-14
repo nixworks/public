@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.html) [JSON](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.json) [XML](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.xml) 
+Formats: [HTML](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.html)  [JSON](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.json)  [XML](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.xml)  
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 

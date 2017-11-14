@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.html)  [JSON](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.json)  [XML](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.xml)  
 
-* [HTML](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.html)
-* [JSON](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.json)
-* [XML](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-left-green-movement-receives-the-mandate-to-form-a-government-with-its-coalition-partners-th.xml)
 ### [2017-11-2](/news/2017/11/2/index.md)
 
 # Opposition leader Katrin Jakobsdottir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. 

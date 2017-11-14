@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.html) [JSON](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.json) [XML](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.xml) 
+Formats: [HTML](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.html)  [JSON](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.json)  [XML](/news/2017/11/13/thousands-of-yemenis-protest-a-blockade-on-yemen-led-by-a-saudi-arabian-coalition.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 

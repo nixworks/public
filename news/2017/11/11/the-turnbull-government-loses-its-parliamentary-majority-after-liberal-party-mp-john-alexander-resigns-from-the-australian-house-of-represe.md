@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.html) [JSON](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.json) [XML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.xml) 
+Formats: [HTML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.html)  [JSON](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.json)  [XML](/news/2017/11/11/the-turnbull-government-loses-its-parliamentary-majority-after-liberal-party-mp-john-alexander-resigns-from-the-australian-house-of-represe.xml)  
 
 ### [2017-11-11](/news/2017/11/11/index.md)
 

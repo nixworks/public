@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.html) [JSON](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.json) [XML](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.xml) 
+Formats: [HTML](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.html)  [JSON](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.json)  [XML](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.xml)  
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 

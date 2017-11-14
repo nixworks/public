@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/11/isil-regains-control-of-abu-kamal.html) [JSON](/news/2017/11/11/isil-regains-control-of-abu-kamal.json) [XML](/news/2017/11/11/isil-regains-control-of-abu-kamal.xml) 
+Formats: [HTML](/news/2017/11/11/isil-regains-control-of-abu-kamal.html)  [JSON](/news/2017/11/11/isil-regains-control-of-abu-kamal.json)  [XML](/news/2017/11/11/isil-regains-control-of-abu-kamal.xml)  
 
 ### [2017-11-11](/news/2017/11/11/index.md)
 

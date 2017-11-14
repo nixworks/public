@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.html)  [JSON](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.json)  [XML](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.xml)  
 
-* [HTML](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.html)
-* [JSON](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.json)
-* [XML](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.xml)
 ### [2017-11-2](/news/2017/11/2/index.md)
 
 # U.S. President Donald Trump's main social media account is suspended for 11 minutes. Twitter blames the incident on an employee and says it is "taking steps to prevent this from happening again." 

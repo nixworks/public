@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.html) [JSON](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.json) [XML](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.xml) 
+Formats: [HTML](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.html)  [JSON](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.json)  [XML](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.xml)  
 
 ### [2017-11-14](/news/2017/11/14/index.md)
 

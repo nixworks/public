@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.html) [JSON](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.json) [XML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.xml) 
+Formats: [HTML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.html)  [JSON](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.json)  [XML](/news/2017/11/11/an-estimated-60-000-polish-citizens-including-a-few-hundred-nationalists-some-with-banners-white-europe-and-pray-for-an-islamic-holocau.xml)  
 
 ### [2017-11-11](/news/2017/11/11/index.md)
 

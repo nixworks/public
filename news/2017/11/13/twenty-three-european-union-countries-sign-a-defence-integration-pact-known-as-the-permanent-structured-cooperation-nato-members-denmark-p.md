@@ -1,5 +1,5 @@
 
-### Formats: [HTML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.html) [JSON](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.json) [XML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.xml) 
+Formats: [HTML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.html)  [JSON](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.json)  [XML](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.xml)  
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
