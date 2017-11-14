@@ -11,7 +11,9 @@ The BBC has uncovered details of a secret deal that let hundreds of IS fighters 
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/resources/idt-sh/raqqas_dirty_secret)
-1. [Cover Image](https://news.files.bbci.co.uk/vj/live/idt-images/shorthand-raqqas_dirty_secret/976x500-FB-and-Twitter-shar_jd5j0.jpg)
+2. [Rudaw](http://www.rudaw.net/english/middleeast/syria/15102017)
+3. [The Guardian](https://www.theguardian.com/world/2017/oct/14/last-isis-fighters-in-raqqa-seek-deal-to-leave-former-capital-in-syria)
+3. [Cover Image](https://news.files.bbci.co.uk/vj/live/idt-images/shorthand-raqqas_dirty_secret/976x500-FB-and-Twitter-shar_jd5j0.jpg)
 
 ### Changes:
 
