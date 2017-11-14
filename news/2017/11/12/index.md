@@ -24,5 +24,8 @@ At least 16 people died on Sunday when a tourist boat capsized in the southern I
 ### [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md)
 _Context: 2017 Costa Rica earthquake, Costa Rica, Jaco, San Jose, magnitude_
 
+### [As the people of Equatorial Guinea vote in the legislative election, the government blocks access to the internet and bans private vehicles. Observers predict the Democratic Party of Equatorial Guinea will win the election. ](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.md)
+President Teodoro Obiang Nguema has been the country&#39;s president for 37 years. The party of Africa&#39;s longest serving leader was widely expected to win the vote.
+
 ## [Previous Day...](/news/2017/11/11/index.md)
 
