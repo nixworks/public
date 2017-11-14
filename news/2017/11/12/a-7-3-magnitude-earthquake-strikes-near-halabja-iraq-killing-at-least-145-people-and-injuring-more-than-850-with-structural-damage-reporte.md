@@ -16,7 +16,7 @@ A strong earthquake hit large parts of northern Iraq and the capital Baghdad on 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/11/12/7-2-magnitude-earthquake-jolts-iran-iraq-border-area-structural-damage-reported.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/11/northern-iraq-rocked-72-magnitude-earthquake-171112184114150.html)
 3. [Reuters](https://www.reuters.com/article/us-iraq-quake/earthquake-of-6-5-hits-large-parts-of-iraq-including-baghdad-iraqi-official-idUSKBN1DC0VZ)
-4. [Reuters²](http://www.reuters.com/article/us-iraq-quake/strong-earthquake-hits-iraq-and-iran-killing-at-least-145-idUSKBN1DC0VZ)
+4. [ReutersÂ²](http://www.reuters.com/article/us-iraq-quake/strong-earthquake-hits-iraq-and-iran-killing-at-least-145-idUSKBN1DC0VZ)
 5. [U.S. Geological Service](https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg#executive)
 5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
@@ -28,7 +28,7 @@ A strong earthquake hit large parts of northern Iraq and the capital Baghdad on 
 
 ### Related:
 
-1. [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md) _Context: 2017 Kermanshah earthquake, Iran, Iraq_
+1. [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md) _Context: 2017 Iran-Iraq earthquake, Iran, Iraq_
 2. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Iran, Iraq_
 3. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _Context: Iran, Iraq_
 4. [Saudi Arabia tells its partners in the Organization of Petroleum Exporting Countries that it will not attend a planned November 28 meeting in Vienna, out of unhappiness about intransigence from Iraq and Iran with regard to production cuts. ](/news/2016/11/25/saudi-arabia-tells-its-partners-in-the-organization-of-petroleum-exporting-countries-that-it-will-not-attend-a-planned-november-28-meeting-i.md) _Context: Iran, Iraq_
