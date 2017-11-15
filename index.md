@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/15/index.md)
 
+### [Flash floods on the outskirts of the Greek capital Athens kill at least 14 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-14-people-and-injure-dozens-more-after-a-severe-thunderstorm.md)
+Flash floods turn roads into raging torrents of mud and debris on the fringes of Greece&#039;s capital, killing at least 14 people.
+
 ### [Authorities discover the murdered wife of spree killer Kevin Janson Neal under the floorboards of their home, raising the death toll to six with ten others wounded in eight separate shootings. ](/news/2017/11/15/authorities-discover-the-murdered-wife-of-spree-killer-kevin-janson-neal-under-the-floorboards-of-their-home-raising-the-death-toll-to-six.md)
 Rancho Tehama Elementary School is closed until Thanksgiving in the wake of a shooting that injured a student and left four adults dead, as well as the gunman.
 
