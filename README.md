@@ -12,6 +12,9 @@ _Context: Florida, Seminole Heights, Tampa, Florida, serial killer_
 ### [Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. ](/news/2017/11/14/five-people-including-the-gunman-are-killed-and-several-others-injured-following-a-shooting-at-an-elementary-school-and-other-locations-on.md)
 Authorities said at least three people are dead following a shooting at an elementary school in Northern California on Tuesday morning.
 
+### [Soldiers directing traffic and at least 6 APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason.](/news/2017/11/14/soldiers-directing-traffic-and-at-least-6-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-attem.md)
+_Context: APCs, Constantino Chiwenga, Harare, Politics of Zimbabwe, ZANU-PF, treason_
+
 ---
 
 ## [Yesterday](/news/2017/11/13/index.md)
