@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/15/index.md)
 
+### [Authorities discover the murdered wife of spree killer Kevin Janson Neal under the floorboards of their home, raising the death toll to six with ten others wounded in eight separate shootings. ](/news/2017/11/15/authorities-discover-the-murdered-wife-of-spree-killer-kevin-janson-neal-under-the-floorboards-of-their-home-raising-the-death-toll-to-six.md)
+Rancho Tehama Elementary School is closed until Thanksgiving in the wake of a shooting that injured a student and left four adults dead, as well as the gunman.
+
 ### [Zimbabwe Defence Forces troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-defence-forces-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-ha.md)
 Military spokesman Maj Gen SB Moyo has addressed the nation after troops took over the state broadcaster ZBC. Read his statement in full
 
