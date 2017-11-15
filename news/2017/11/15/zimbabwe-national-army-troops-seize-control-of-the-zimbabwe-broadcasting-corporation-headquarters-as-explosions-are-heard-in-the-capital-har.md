@@ -5,14 +5,15 @@ Formats: [HTML](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-
 
 # Zimbabwe National Army troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. 
 
-Announcement by military on state broadcaster says President Robert Mugabe and family are safe but army is ‘targeting criminals around him’
+Military spokesman Maj Gen SB Moyo has addressed the nation after troops took over the state broadcaster ZBC. Read his statement in full
 
 
 ### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-zimbabwe-politics-broadcaster/soldiers-take-over-zimbabwe-state-broadcaster-zbc-staff-idUSKBN1DE36B?il=0)
-2. [The Guardian](https://www.theguardian.com/world/live/2017/nov/15/zimbabwe-army-control-harare-coup-robert-mugabe-live)
-2. [Cover Image](https://i.guim.co.uk/img/media/47c8535a4844ee5644d08801a98fb44cac53558f/203_439_2453_1472/master/2453.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5a65cf06c21b29c4da5abf8677536413)
+2. [The Guardian](https://www.theguardian.com/world/2017/nov/15/the-situation-has-moved-to-another-level-zimbabwe-army-statement-in-full)
+3. [The Guardian](https://www.theguardian.com/world/live/2017/nov/15/zimbabwe-army-control-harare-coup-robert-mugabe-live)
+3. [Cover Image](https://i.guim.co.uk/img/media/a6e980a0b613467456c49928343ee6614d3f6747/164_0_1402_842/master/1402.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6518dd2e0a7e00f780c95533f9568349)
 
 ### Related:
 
