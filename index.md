@@ -1,7 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/14/index.md)
+## [News](/news/2017/11/15/index.md)
+
+### [Zimbabwe National Army troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.md)
+Announcement by military on state broadcaster says President Robert Mugabe and family are safe but army is ‘targeting criminals around him’
+
+### [The outcome of the Australian Marriage Law Postal Survey is announced with 61.6% voting yes to allow same-sex marriage with 79.5% of Australian voters participating. ](/news/2017/11/15/the-outcome-of-the-australian-marriage-law-postal-survey-is-announced-with-61-6-voting-yes-to-allow-same-sex-marriage-with-79-5-of-austral.md)
+Join us for our live coverage of the same-sex marriage postal survey verdict.
+
+---
+
+## [Yesterday](/news/2017/11/14/index.md)
 
 ### [Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. ](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.md)
 _Context: 2017 Iran-Iraq earthquake_
@@ -12,12 +22,12 @@ _Context: Florida, Seminole Heights, Tampa, Florida, serial killer_
 ### [Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. ](/news/2017/11/14/five-people-including-the-gunman-are-killed-and-several-others-injured-following-a-shooting-at-an-elementary-school-and-other-locations-on.md)
 Authorities said at least three people are dead following a shooting at an elementary school in Northern California on Tuesday morning.
 
-### [Soldiers directing traffic and at least 6 APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason.](/news/2017/11/14/soldiers-directing-traffic-and-at-least-6-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-attem.md)
+### [Soldiers directing traffic and at least six APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason. ](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-att.md)
 _Context: APCs, Constantino Chiwenga, Harare, Politics of Zimbabwe, ZANU-PF, treason_
 
 ---
 
-## [Yesterday](/news/2017/11/13/index.md)
+## [Day Before Yesterday](/news/2017/11/13/index.md)
 
 ### [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md)
 _Context: Border incidents involving North Korea, Korean Demilitarized Zone, Korean People's Army, North Korea, Panmunjom, South Korea, defects_
@@ -48,32 +58,7 @@ Young&#x20;and&#x20;old,&#x20;desk&#x20;clerks&#x20;and&#x20;activists,&#x20;Yem
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/12/index.md)
-
-### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)
-_Context: Bangui, Central African Republic_
-
-### [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md)
-Survivors of sexual assault and harassment gather Sunday for the &quot;Me Too Survivors&apos; March&quot; in Hollywood.
-
-### [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md)
-Boeing strikes a Dreamliner deal as the Dubai Airshow awaits news of a key Airbus A380 order.
-
-### [A 7.3 magnitude earthquake strikes near Halabja, Iraq, killing at least 145 people and injuring more than 850 with structural damage reported in both Iraq and Iran. ](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja-iraq-killing-at-least-145-people-and-injuring-more-than-850-with-structural-damage-reporte.md)
-A strong earthquake hit large parts of northern Iraq and the capital Baghdad on Sunday, and also caused damage in villages across the border in Iran where state TV said at least six people had been killed.
-
-### [A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. ](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in-andhra-pradesh-leaving-at-least-16-people-dead.md)
-At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
-
-### [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md)
-_Context: 2017 Costa Rica earthquake, Costa Rica, Jaco, San Jose, magnitude_
-
-### [As the people of Equatorial Guinea vote in the legislative election, the government blocks access to the internet and bans private vehicles. Observers predict the Democratic Party of Equatorial Guinea will win the election. ](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.md)
-President Teodoro Obiang Nguema has been the country&#39;s president for 37 years. The party of Africa&#39;s longest serving leader was widely expected to win the vote.
-
----
-
-## [Previous Day...](/news/2017/11/11/index.md)
+## [Previous Day...](/news/2017/11/12/index.md)
 
 ---
 

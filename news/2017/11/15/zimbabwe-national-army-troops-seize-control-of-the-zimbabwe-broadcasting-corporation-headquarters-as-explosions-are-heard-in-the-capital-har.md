@@ -1,0 +1,23 @@
+
+Formats: [HTML](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.html)  [JSON](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.json)  [XML](/news/2017/11/15/zimbabwe-national-army-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-har.xml)  
+
+### [2017-11-15](/news/2017/11/15/index.md)
+
+# Zimbabwe National Army troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. 
+
+Announcement by military on state broadcaster says President Robert Mugabe and family are safe but army is ‘targeting criminals around him’
+
+
+### Sources:
+
+1. [Reuters](http://www.reuters.com/article/us-zimbabwe-politics-broadcaster/soldiers-take-over-zimbabwe-state-broadcaster-zbc-staff-idUSKBN1DE36B?il=0)
+2. [The Guardian](https://www.theguardian.com/world/live/2017/nov/15/zimbabwe-army-control-harare-coup-robert-mugabe-live)
+2. [Cover Image](https://i.guim.co.uk/img/media/47c8535a4844ee5644d08801a98fb44cac53558f/203_439_2453_1472/master/2453.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5a65cf06c21b29c4da5abf8677536413)
+
+### Related:
+
+1. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _Context: Harare, President, Robert Mugabe_
+2. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Harare, President, Robert Mugabe_
+3. [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md) _Context: Harare, Robert Mugabe_
+4. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: President, Robert Mugabe_
+5. [Zimbabwe President Robert Mugabe assigns all diamond mining operations to the newly formed, government-run Zimbabwe Consolidated Diamond Company, and orders eight foreign diamond mining companies from the country. ](/news/2016/02/22/zimbabwe-president-robert-mugabe-assigns-all-diamond-mining-operations-to-the-newly-formed-government-run-zimbabwe-consolidated-diamond-com.md) _Context: President, Robert Mugabe_
