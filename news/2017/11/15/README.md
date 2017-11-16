@@ -18,5 +18,8 @@ Military spokesman Maj Gen SB Moyo has addressed the nation after troops took ov
 ### [The outcome of the Australian Marriage Law Postal Survey is announced with 61.6% voting yes to allow same-sex marriage with 79.5% of Australian voters participating. ](/news/2017/11/15/the-outcome-of-the-australian-marriage-law-postal-survey-is-announced-with-61-6-voting-yes-to-allow-same-sex-marriage-with-79-5-of-austral.md)
 Join us for our live coverage of the same-sex marriage postal survey verdict.
 
+### [LIGO announced it detected the gravitational waves GW170608. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-gw170608.md)
+_Context: LIGO_
+
 ## [Previous Day...](/news/2017/11/14/index.md)
 
