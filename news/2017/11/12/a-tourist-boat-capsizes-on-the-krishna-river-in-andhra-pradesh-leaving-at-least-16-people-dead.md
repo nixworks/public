@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/12/a-tourist-boat-capsizes-on-the-krishna-river-in
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 
-# A tourist boat capsizes on the Krishna river in Andhra Pradesh, leaving at least 16 people dead. 
+# A tourist boat capsizes on the Krishna River in Andhra Pradesh, leaving at least 16 people dead. 
 
 At least 16 people died on Sunday when a tourist boat capsized in the southern Indian state of Andhra Pradesh, officials said.
 
