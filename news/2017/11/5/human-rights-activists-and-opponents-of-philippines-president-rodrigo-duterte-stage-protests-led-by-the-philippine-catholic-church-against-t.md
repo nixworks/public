@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.html)  [JSON](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.json)  [XML](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.xml)  
 
-* [HTML](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.html)
-* [JSON](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.json)
-* [XML](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. 

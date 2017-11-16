@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/15/index.html)  [JSON](2017/11/15/index.json)  [XML](201
 
 ## [2017-11-15](/news/2017/11/15/index.md)
 
+### ["Salvator Mundi", a long lost original painting by Leonardo da Vinci, is sold at auction Christie's in New York City for $450.3 million setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-long-lost-original-painting-by-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-450-3-million-sett.md)
+Christie’s sells long-lost Salvator Mundi, artwork billed as ‘biggest discovery of the 21st century’, for $400m plus auction house premium
+
 ### [Flash floods on the outskirts of the Greek capital Athens kill at least 14 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-14-people-and-injure-dozens-more-after-a-severe-thunderstorm.md)
 Flash floods turn roads into raging torrents of mud and debris on the fringes of Greece&#039;s capital, killing at least 14 people.
 

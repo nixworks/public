@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.html)  [JSON](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.json)  [XML](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.xml)  
 
-* [HTML](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.html)
-* [JSON](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.json)
-* [XML](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. 

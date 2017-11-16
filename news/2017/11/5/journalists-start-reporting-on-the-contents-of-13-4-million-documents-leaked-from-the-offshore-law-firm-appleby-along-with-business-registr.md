@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.html)  [JSON](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.json)  [XML](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.xml)  
 
-* [HTML](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.html)
-* [JSON](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.json)
-* [XML](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-13-4-million-documents-leaked-from-the-offshore-law-firm-appleby-along-with-business-registr.xml)
 ### [2017-11-5](/news/2017/11/5/index.md)
 
 # Journalists start reporting on the contents of 13.4 million documents leaked from the offshore law firm Appleby, along with business registries in 19 tax jurisdictions that reveal offshore financial activities of politicians, celebrities, corporate giants and business leaders. The German newspaper "Suddeutsche Zeitung" had previously obtained the documents and shared them with the International Consortium of Investigative Journalists. 
