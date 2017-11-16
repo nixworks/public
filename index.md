@@ -21,7 +21,7 @@ Join us for our live coverage of the same-sex marriage postal survey verdict.
 ### [High level statespersons from France, Germany and other nations speak at the 2017 United Nations Climate Change Conference in Bonn - Fiji. ](/news/2017/11/15/high-level-statespersons-from-france-germany-and-other-nations-speak-at-the-2017-united-nations-climate-change-conference-in-bonn-fiji.md)
 _Context: 2017 United Nations Climate Change Conference_
 
-### [LIGO announced it detected the gravitational waves GW170608. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-gw170608.md)
+### [LIGO announced it detected the gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announced-it-detected-the-gravitational-waves-from-the-merger-of-two-black-holes.md)
 _Context: LIGO_
 
 ---
