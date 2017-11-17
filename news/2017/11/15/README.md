@@ -22,7 +22,7 @@ Join us for our live coverage of the same-sex marriage postal survey verdict.
 _Context: 2017 United Nations Climate Change Conference, Bonn_
 
 ### [LIGO announces it has detected gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-waves-from-the-merger-of-two-black-holes.md)
-_Context: LIGO, black holes, gravitational waves_
+_Context: GW170608, LIGO, black holes, gravitational waves_
 
 ## [Previous Day...](/news/2017/11/14/index.md)
 

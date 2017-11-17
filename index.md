@@ -1,14 +1,30 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/16/index.md)
+## [News](/news/2017/11/17/index.md)
+
+### [Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales where he was originally buried. ](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia-is-returned-to-lake-mungo-in-outback-new-south-wales-where-he-was-originally-buried.md)
+_Context: Australia, Lake Mungo, Mungo Man, New South Wales_
+
+---
+
+## [Yesterday](/news/2017/11/16/index.md)
+
+### [Human Rights Watch (HRW) releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-hrw-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in.md)
+Human Rights Watch has released a report accusing Myanmar&#39;s army of further abuses against civilians. It says there has been systemic rape and sexual violence against Rohingya women and girls in Rakhine state.
+
+### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
+_Context: PDVSA, Venezuela_
+
+### [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md)
+_Context: Bob Menendez, Florida, U.S. Senator, ophthalmologist_
 
 ### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)
 PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of elections next year.
 
 ---
 
-## [Yesterday](/news/2017/11/15/index.md)
+## [Day Before Yesterday](/news/2017/11/15/index.md)
 
 ### ["Salvator Mundi", a painting generally attributed to Leonardo da Vinci, is sold at auction Christie's in New York City for US$450.3 million; setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-painting-generally-attributed-to-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-us-450-3-million.md)
 Christie’s sells long-lost Salvator Mundi, artwork billed as ‘biggest discovery of the 21st century’, for $400m plus auction house premium
@@ -29,27 +45,11 @@ Join us for our live coverage of the same-sex marriage postal survey verdict.
 _Context: 2017 United Nations Climate Change Conference, Bonn_
 
 ### [LIGO announces it has detected gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-waves-from-the-merger-of-two-black-holes.md)
-_Context: LIGO, black holes, gravitational waves_
+_Context: GW170608, LIGO, black holes, gravitational waves_
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/14/index.md)
-
-### [Thousands of Iranians are forced to spend a second night outdoors in near-freezing temperatures after an earthquake hit the country's western border with Iraq. ](/news/2017/11/14/thousands-of-iranians-are-forced-to-spend-a-second-night-outdoors-in-near-freezing-temperatures-after-an-earthquake-hit-the-country-s-wester.md)
-_Context: 2017 Iran-Iraq earthquake_
-
-### [Police in Florida link a fourth unsolved murder to an unknown serial killer targeting the Seminole Heights area of Tampa, Florida. ](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder-to-an-unknown-serial-killer-targeting-the-seminole-heights-area-of-tampa-florida.md)
-_Context: Florida, Seminole Heights, Tampa, Florida, serial killer_
-
-### [Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. ](/news/2017/11/14/five-people-including-the-gunman-are-killed-and-several-others-injured-following-a-shooting-at-an-elementary-school-and-other-locations-on.md)
-Authorities said at least three people are dead following a shooting at an elementary school in Northern California on Tuesday morning.
-
-### [Soldiers directing traffic and at least six APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party accused the general of treason. ](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apcs-have-been-spotted-around-harare-a-day-after-general-constantino-chiwenga-intervened-in-att.md)
-_Context: APCs, Constantino Chiwenga, Harare, Politics of Zimbabwe, ZANU-PF, treason_
-
----
-
-## [Previous Day...](/news/2017/11/13/index.md)
+## [Previous Day...](/news/2017/11/14/index.md)
 
 ---
 

@@ -15,7 +15,7 @@ The leak, called the Paradise Papers, centers on an offshore law firm that has h
 ### [The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md)
 A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.
 
-### [A helicopter crashes near Saudi Arabia's border with Yemen, killing the son of former Crown Prince of Saudi Arabia Muqrin bin Abdulaziz, Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-the-son-of-former-crown-prince-of-saudi-arabia-muqrin-bin-abdulaziz-pri.md)
+### [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md)
 Saudi Arabia said the crash happened as the prince was touring local projects 500 miles southwest of Riyadh.
 
 ### [A gunman opens fire at a Baptist church in the American town of Sutherland Springs, Texas in the San Antonio area, killing at least 26 people and injuring many others. The 26-year-old gunman is later found dead in his car from a self-inflicted gunshot wound. ](/news/2017/11/5/a-gunman-opens-fire-at-a-baptist-church-in-the-american-town-of-sutherland-springs-texas-in-the-san-antonio-area-killing-at-least-26-peopl.md)
@@ -30,7 +30,7 @@ The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs.
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md)
 _Context: Philippine Catholic Church, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, drug crackdown_
 
-### [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md)
+### [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the Artpodgotovka movement founded by Vyacheslav Maltsev. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md)
 The protesters are believed to be linked to nationalist politician Vyacheslav Maltsev.
 
 ## [Previous Day...](/news/2017/11/4/index.md)

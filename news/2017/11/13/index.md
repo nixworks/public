@@ -19,7 +19,7 @@ _Context: Denmark, European Union, Ireland, Malta, Military of the European Unio
 Months after the former guerrilla group formed a political party, the European Union on Monday removed Colombia&#8217;s FARC from the EU&#8217;s global list of terrorist organizations. The decision followed a&hellip;
 
 ### [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md)
-_Context: RT America, U.S. Department of Justice, foreign agent_
+_Context: RT America, Russia-United States relations, U.S. Department of Justice, foreign agent_
 
 ### [U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. ](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.md)
 _Context: Alex Azar, Cabinet of Donald Trump, Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price_
