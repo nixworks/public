@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia
 
 ### [2017-11-17](/news/2017/11/17/index.md)
 
-# Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales where he was originally buried. 
+# Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales, where he was originally buried. 
 
 
 
