@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/16/index.html)  [JSON](2017/11/16/index.json)  [XML](201
 
 ## [2017-11-16](/news/2017/11/16/index.md)
 
+### [Rival factions within the ruling Sudan People's Liberation Movement sign the "Declaration of Unification" in Cairo, Egypt. ](/news/2017/11/16/rival-factions-within-the-ruling-sudan-people-s-liberation-movement-sign-the-declaration-of-unification-in-cairo-egypt.md)
+_Context: Cairo, South Sudanese Civil War, Sudan People's Liberation Movement_
+
 ### [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md)
 Human Rights Watch has released a report accusing Myanmar&#39;s army of further abuses against civilians. It says there has been systemic rape and sexual violence against Rohingya women and girls in Rakhine state.
 
