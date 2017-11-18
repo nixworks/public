@@ -5,12 +5,14 @@ Formats: [HTML](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-
 
 # Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. 
 
-Human Rights Watch has released a report accusing Myanmar&#39;s army of further abuses against civilians. It says there has been systemic rape and sexual violence against Rohingya women and girls in Rakhine state.
+The Burmese military’s barbaric acts of violence have left countless women and girls brutally harmed and traumatized.
 
 
 ### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2017/11/hrw-systematic-rape-rohingya-myanmars-army-171116142607386.html)
+2. [Human Rights Watch](https://www.hrw.org/news/2017/11/16/burma-widespread-rape-rohingya-women-girls)
+2. [Cover Image](https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2017/201711asia_burma_main.jpg?itok=CQO4Nuhf)
 
 ### Changes:
 

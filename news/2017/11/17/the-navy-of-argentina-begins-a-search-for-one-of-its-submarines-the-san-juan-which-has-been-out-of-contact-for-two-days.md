@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-o
 
 ### [2017-11-17](/news/2017/11/17/index.md)
 
-#  The navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. 
+#  The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. 
 
 
 
@@ -15,4 +15,4 @@ Formats: [HTML](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-o
 ### Changes:
 
 1. [ The navy of Argentina begins a search for its submarine, San Juan, which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-its-submarine-san-juan-which-has-been-out-of-contact-for-two-days.md) _2017-11-17 23:30:04 (First version)_
-1. [ The navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md) _(Current version)_
+1. [ The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md) _(Current version)_

@@ -7,7 +7,7 @@ Formats: [HTML](2017/11/16/index.html)  [JSON](2017/11/16/index.json)  [XML](201
 _Context: Cairo, South Sudanese Civil War, Sudan People's Liberation Movement_
 
 ### [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md)
-Human Rights Watch has released a report accusing Myanmar&#39;s army of further abuses against civilians. It says there has been systemic rape and sexual violence against Rohingya women and girls in Rakhine state.
+The Burmese military’s barbaric acts of violence have left countless women and girls brutally harmed and traumatized.
 
 ### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
 _Context: Economy of Venezuela, PDVSA, Venezuela_

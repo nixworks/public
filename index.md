@@ -6,11 +6,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md)
 _Context: Iraqi Army, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Rawa_
 
-### [ The navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
-_Context: San Juan, navy of Argentina_
-
 ### [Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales, where he was originally buried. ](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia-is-returned-to-lake-mungo-in-outback-new-south-wales-where-he-was-originally-buried.md)
 _Context: 2017 in archaeology, Australia, Lake Mungo, Mungo Man, New South Wales_
+
+### [ The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
+_Context: Navy of Argentina, San Juan_
 
 ---
 
@@ -20,7 +20,7 @@ _Context: 2017 in archaeology, Australia, Lake Mungo, Mungo Man, New South Wales
 _Context: Cairo, South Sudanese Civil War, Sudan People's Liberation Movement_
 
 ### [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md)
-Human Rights Watch has released a report accusing Myanmar&#39;s army of further abuses against civilians. It says there has been systemic rape and sexual violence against Rohingya women and girls in Rakhine state.
+The Burmese military’s barbaric acts of violence have left countless women and girls brutally harmed and traumatized.
 
 ### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
 _Context: Economy of Venezuela, PDVSA, Venezuela_
