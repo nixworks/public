@@ -22,7 +22,7 @@ Military spokesman Maj Gen SB Moyo has addressed the nation after troops took ov
 
 ### Related:
 
-1. [Thousands of people celebrate the downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: 2017 Zimbabwean coup d'tat, Harare, Robert Mugabe_
+1. [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: 2017 Zimbabwean coup d'tat, Harare, Robert Mugabe_
 2. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _Context: Harare, President, Robert Mugabe_
 3. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Harare, President, Robert Mugabe_
 4. [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md) _Context: Harare, Robert Mugabe_

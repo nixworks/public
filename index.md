@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/18/index.md)
 
-### [Thousands of people celebrate the downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-downfall-of-robert-mugabe-in-the-streets-of-harare.md)
+### [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md)
 Pressure grows on the president to stand aside as thousands march to welcome the army takeover.
 
 ---

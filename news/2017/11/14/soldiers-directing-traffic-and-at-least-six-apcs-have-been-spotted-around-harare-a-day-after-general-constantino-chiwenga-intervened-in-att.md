@@ -21,7 +21,7 @@ Formats: [HTML](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apc
 ### Related:
 
 1. [Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. ](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.md) _Context: Politics of Zimbabwe_
-2. [Thousands of people celebrate the downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: Harare_
+2. [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: Harare_
 3. [Zimbabwe Defence Forces troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-defence-forces-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-ha.md) _Context: Harare_
 4. [Cambodian opposition leader Kem Sokha is arrested for alleged treason. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested-for-alleged-treason.md) _Context: treason_
 5. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Politics of Zimbabwe_
