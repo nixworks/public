@@ -18,5 +18,8 @@ _Context: Bob Menendez, Crime in the United States, Florida, U.S. Senator, ophth
 ### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)
 PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of elections next year.
 
+### [About 67% of Tonga's registered voters participate in the country's general election. ](/news/2017/11/16/about-67-of-tonga-s-registered-voters-participate-in-the-country-s-general-election.md)
+Nuku&#039;alofa, Tonga: 67% of registered Tongan voters turned out to cast their votes in the General Election 2017 held on November 16.
+
 ## [Previous Day...](/news/2017/11/15/index.md)
 

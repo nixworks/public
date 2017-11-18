@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/18/index.md)
 
+### [AC-DC guitarist and co-founder Malcolm Young dies of dementia at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-of-dementia-at-the-age-of-64-in-sydney.md)
+Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
+
 ### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the lyse Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-elysee-palace-in-paris.md)
 PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
 
@@ -43,6 +46,9 @@ _Context: Bob Menendez, Crime in the United States, Florida, U.S. Senator, ophth
 
 ### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)
 PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of elections next year.
+
+### [About 67% of Tonga's registered voters participate in the country's general election. ](/news/2017/11/16/about-67-of-tonga-s-registered-voters-participate-in-the-country-s-general-election.md)
+Nuku&#039;alofa, Tonga: 67% of registered Tongan voters turned out to cast their votes in the General Election 2017 held on November 16.
 
 ---
 
