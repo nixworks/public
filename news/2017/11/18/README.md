@@ -6,7 +6,10 @@ Formats: [HTML](2017/11/18/index.html)  [JSON](2017/11/18/index.json)  [XML](201
 ### [AC-DC guitarist and co-founder Malcolm Young dies of dementia at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-of-dementia-at-the-age-of-64-in-sydney.md)
 Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
 
-### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the lyse Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-elysee-palace-in-paris.md)
+### [The search continues in the South Atlantic for Argentine Navy submarine AR San Juan that has been missing since last Wednesday with 44 people on board. ](/news/2017/11/18/the-search-continues-in-the-south-atlantic-for-argentine-navy-submarine-ar-san-juan-that-has-been-missing-since-last-wednesday-with-44-peopl.md)
+_Context: Argentine Navy, South Atlantic, submarine_
+
+### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md)
 PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
 
 ### [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md)

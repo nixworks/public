@@ -20,7 +20,7 @@ Formats: [HTML](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apc
 
 ### Related:
 
-1. [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: Harare_
+1. [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md) _Context: 2017 Zimbabwean coup d'etat, Harare_
 2. [Zimbabwe Defence Forces troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. ](/news/2017/11/15/zimbabwe-defence-forces-troops-seize-control-of-the-zimbabwe-broadcasting-corporation-headquarters-as-explosions-are-heard-in-the-capital-ha.md) _Context: Harare_
 3. [Cambodian opposition leader Kem Sokha is arrested for alleged treason. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested-for-alleged-treason.md) _Context: treason_
 4. [Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". ](/news/2017/04/18/zambian-opposition-leader-and-presidential-election-runner-up-hakainde-hichilema-is-charged-with-treason-and-trying-to-overthrow-the-govern.md) _Context: treason_
