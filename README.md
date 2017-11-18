@@ -19,8 +19,11 @@ _Context: Iraqi Army, Iraqi Civil War (2014-present), Islamic State in Iraq and 
 ### [Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales, where he was originally buried. ](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia-is-returned-to-lake-mungo-in-outback-new-south-wales-where-he-was-originally-buried.md)
 _Context: 2017 in archaeology, Australia, Lake Mungo, Mungo Man, New South Wales_
 
-### [ The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
+### [The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
 _Context: Navy of Argentina, San Juan_
+
+### [At least five people are killed at a demonstration in Nairobi after supporters of Raila Odinga and members of the National Super Alliance clash with the Kenya Police. ](/news/2017/11/17/at-least-five-people-are-killed-at-a-demonstration-in-nairobi-after-supporters-of-raila-odinga-and-members-of-the-national-super-alliance-cl.md)
+_Context: Kenya Police, Nairobi, National Super Alliance, Raila Odinga_
 
 ---
 
