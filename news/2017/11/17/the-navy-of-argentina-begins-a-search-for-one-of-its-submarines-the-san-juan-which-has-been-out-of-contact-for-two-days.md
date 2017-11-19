@@ -19,4 +19,4 @@ Formats: [HTML](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-o
 
 ### Related:
 
-1. [The search continues in the South Atlantic for Argentine Navy submarine AR San Juan that has been missing since last Wednesday with 44 people on board. ](/news/2017/11/18/the-search-continues-in-the-south-atlantic-for-argentine-navy-submarine-ar-san-juan-that-has-been-missing-since-last-wednesday-with-44-peopl.md) _Context: Argentine Navy_
+1. [The Argentine Navy continues searching in the South Atlantic for the ARA San Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-san-juan-submarine-which-went-missing-on-15-november-2017.md) _Context: Argentine Navy_

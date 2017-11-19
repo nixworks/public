@@ -6,14 +6,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [AC-DC guitarist and co-founder Malcolm Young dies of dementia at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-of-dementia-at-the-age-of-64-in-sydney.md)
 Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
 
-### [The search continues in the South Atlantic for Argentine Navy submarine AR San Juan that has been missing since last Wednesday with 44 people on board. ](/news/2017/11/18/the-search-continues-in-the-south-atlantic-for-argentine-navy-submarine-ar-san-juan-that-has-been-missing-since-last-wednesday-with-44-peopl.md)
-_Context: Argentine Navy, South Atlantic, submarine_
+### [The Argentine Navy continues searching in the South Atlantic for the ARA San Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-san-juan-submarine-which-went-missing-on-15-november-2017.md)
+_Context: ARA San Juan, Argentine Navy, South Atlantic, submarine_
 
 ### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md)
 PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
 
 ### [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md)
 Pressure grows on the president to stand aside as thousands march to welcome the army takeover.
+
+### [Gerry Adams, the long term leader of Sinn Fein, announces that he will step down as party leader next year. ](/news/2017/11/18/gerry-adams-the-long-term-leader-of-sinn-fa-c-in-announces-that-he-will-step-down-as-party-leader-next-year.md)
+_Context: Gerry Adams, Politics of Northern Ireland, Sinn Fein_
 
 ---
 
