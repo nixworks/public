@@ -3,6 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/19/index.md)
 
+### [A policeman in Paris kills 3 people after being broken up with and then kills himself. ](/news/2017/11/19/a-policeman-in-paris-kills-3-people-after-being-broken-up-with-and-then-kills-himself.md)
+The 31-year-old used his service gun against his girlfriend, her family and passers-by near Paris.
+
+### [At least 15 people are killed in human stampedes over food in Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-human-stampedes-over-food-in-morocco.md)
+The incident occurred as a charity aid was distributing aid in the town of Sidi Boulaalam.
+
 ### [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-z.md)
 Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the deputy he dismissed two weeks ago
 
@@ -13,8 +19,8 @@ Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the d
 ### [AC-DC guitarist and co-founder Malcolm Young dies at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-at-the-age-of-64-in-sydney.md)
 Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
 
-### [The Argentine Navy continues searching in the South Atlantic for the ARA San Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-san-juan-submarine-which-went-missing-on-15-november-2017.md)
-_Context: ARA San Juan, Argentine Navy, South Atlantic, Submarine incidents, submarine_
+### [The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-juan-submarine-which-went-missing-on-15-november-2017.md)
+_Context: Argentine Navy, South Atlantic, Submarine incidents, submarine_
 
 ### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md)
 PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
