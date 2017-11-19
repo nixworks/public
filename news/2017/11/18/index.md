@@ -9,6 +9,9 @@ Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64
 ### [The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-juan-submarine-which-went-missing-on-15-november-2017.md)
 _Context: Argentine Navy, South Atlantic, Submarine incidents, submarine_
 
+### [A fire in an apartment in Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-an-apartment-in-beijing-kills-19-people-and-injures-8.md)
+_Context: Beijing_
+
 ### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md)
 PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
 
