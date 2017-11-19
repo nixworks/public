@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/18/index.md)
+## [News](/news/2017/11/19/index.md)
+
+### [President Robert Mugabe got fired as the leader of ZANU-PF and was replaced with Emmerson Mnangagwa, the former Vice President of Zimbabwe. ](/news/2017/11/19/president-robert-mugabe-got-fired-as-the-leader-of-zanuapf-and-was-replaced-with-emmerson-mnangagwa-the-former-vice-president-of-zimbabwe.md)
+Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the deputy he dismissed two weeks ago
+
+---
+
+## [Yesterday](/news/2017/11/18/index.md)
 
 ### [AC-DC guitarist and co-founder Malcolm Young dies of dementia at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-of-dementia-at-the-age-of-64-in-sydney.md)
 Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
@@ -23,7 +30,7 @@ _Context: Gerry Adams, Politics of Northern Ireland, Sinn Fein_
 
 ---
 
-## [Yesterday](/news/2017/11/17/index.md)
+## [Day Before Yesterday](/news/2017/11/17/index.md)
 
 ### [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md)
 _Context: Iraqi Army, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Rawa_
@@ -39,29 +46,7 @@ _Context: Kenya Police, Nairobi, National Super Alliance, Politics of Kenya, Rai
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/16/index.md)
-
-### [Rival factions within the ruling Sudan People's Liberation Movement sign the "Declaration of Unification" in Cairo, Egypt. ](/news/2017/11/16/rival-factions-within-the-ruling-sudan-people-s-liberation-movement-sign-the-declaration-of-unification-in-cairo-egypt.md)
-_Context: Cairo, South Sudanese Civil War, Sudan People's Liberation Movement_
-
-### [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md)
-The Burmese military’s barbaric acts of violence have left countless women and girls brutally harmed and traumatized.
-
-### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
-_Context: Economy of Venezuela, PDVSA, Venezuela_
-
-### [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md)
-_Context: Bob Menendez, Crime in the United States, Florida, U.S. Senator, ophthalmologist_
-
-### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)
-PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of elections next year.
-
-### [About 67% of Tonga's registered voters participate in the country's general election. ](/news/2017/11/16/about-67-of-tonga-s-registered-voters-participate-in-the-country-s-general-election.md)
-Nuku&#039;alofa, Tonga: 67% of registered Tongan voters turned out to cast their votes in the General Election 2017 held on November 16.
-
----
-
-## [Previous Day...](/news/2017/11/15/index.md)
+## [Previous Day...](/news/2017/11/16/index.md)
 
 ---
 
