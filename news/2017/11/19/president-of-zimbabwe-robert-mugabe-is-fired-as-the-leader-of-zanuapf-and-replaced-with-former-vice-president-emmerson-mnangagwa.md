@@ -11,8 +11,10 @@ Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the d
 ### Sources:
 
 1. [AP](https://apnews.com/128d320653244d4785465d455e5d08df/Zimbabwe's-Mugabe-resigning-after-37-years:-Official)
-2. [The Guardian](https://www.theguardian.com/world/2017/nov/19/zimbabwe-ruling-party-fires-robert-mugabe-as-leader)
-2. [Cover Image](https://i.guim.co.uk/img/media/b8a7671554d7235eab74df9027f2af95d1e59b86/0_75_4672_2803/master/4672.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=71d3de5e717c90e0ee26d0e96b8b921c)
+2. [Euronews](http://www.euronews.com/2017/11/19/robert-mugabe-refuses-to-resign-as-zimbabwes-president)
+3. [Financial Express](http://www.financialexpress.com/world-news/zimbabwean-president-robert-mugabe-clings-to-office-defies-resignation-expectations-in-tv-speech/939740/)
+4. [The Guardian](https://www.theguardian.com/world/2017/nov/19/zimbabwe-ruling-party-fires-robert-mugabe-as-leader)
+4. [Cover Image](https://i.guim.co.uk/img/media/b8a7671554d7235eab74df9027f2af95d1e59b86/0_75_4672_2803/master/4672.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=71d3de5e717c90e0ee26d0e96b8b921c)
 
 ### Changes:
 

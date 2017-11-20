@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/18/gerry-adams-the-long-term-leader-of-sinn-fa-c-i
 
 ### [2017-11-18](/news/2017/11/18/index.md)
 
-# Gerry Adams, the long term leader of Sinn Fein, announces that he will step down as party leader next year. 
+# Gerry Adams, the long-term leader of Sinn Fein, announces that he will step down as party leader next year. 
 
 
 
