@@ -9,5 +9,8 @@ _Context: Loyalty Islands, New Caledonia, South Pacific Ocean, Vanuatu, magnitud
 ### [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md)
 North Korea had been removed from the list under the George W. Bush administration in an attempt to salvage negotiations for a nuclear deal.
 
+### [After the United Kingdom withdrawal from the European Union referendum the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-th.md)
+_Context: Amsterdam, European Banking Authority, European Medicines Agency, London, Paris, United Kingdom withdrawal from the European Union_
+
 ## [Previous Day...](/news/2017/11/19/index.md)
 

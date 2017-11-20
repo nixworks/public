@@ -9,6 +9,9 @@ _Context: Loyalty Islands, New Caledonia, South Pacific Ocean, Vanuatu, magnitud
 ### [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md)
 North Korea had been removed from the list under the George W. Bush administration in an attempt to salvage negotiations for a nuclear deal.
 
+### [After the United Kingdom withdrawal from the European Union referendum the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-th.md)
+_Context: Amsterdam, European Banking Authority, European Medicines Agency, London, Paris, United Kingdom withdrawal from the European Union_
+
 ---
 
 ## [Yesterday](/news/2017/11/19/index.md)
@@ -22,7 +25,7 @@ The incident occurred as a charity aid was distributing aid in the town of Sidi 
 ### [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md)
 Eight candidates are standing, with ex-president Sebastián Piñera seen as a clear favourite.
 
-### [In the night to Monday, Free Democratic Party (FDP), which was supposed to form a government with CDU, CSU and Alliance 90-The Greens, announced that the party refuses further coalition negotiations. The main reasons for the failure were questions about the politics concerning migration and environment. ](/news/2017/11/19/in-the-night-to-monday-free-democratic-party-fdp-which-was-supposed-to-form-a-government-with-cdu-csu-and-alliance-90-the-greens-annou.md)
+### [The Free Democratic Party (FDP), which was in discussions over forming a government with the CDU, CSU and Alliance 90-The Greens, announced that the party refuses further coalition negotiations. The main reasons for the failure were questions about the politics concerning migration and environment. ](/news/2017/11/19/the-free-democratic-party-fdp-which-was-in-discussions-over-forming-a-government-with-the-cdu-csu-and-alliance-90-the-greens-announced.md)
 Chancellor Angela Merkel left facing prospect of forming minority government – or fresh elections – after FDP quits negotiations
 
 ### [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with former Vice President Emmerson Mnangagwa. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-former-vice-president-emmerson-mnangagwa.md)
