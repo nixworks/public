@@ -3,9 +3,6 @@ Formats: [HTML](2017/11/19/index.html)  [JSON](2017/11/19/index.json)  [XML](201
 
 ## [2017-11-19](/news/2017/11/19/index.md)
 
-### [A policeman in the French city of Sarcelles kills his girlfriend's father, two passers-by and himself after she ended their relationship. ](/news/2017/11/19/a-policeman-in-the-french-city-of-sarcelles-kills-his-girlfriend-s-father-two-passers-by-and-himself-after-she-ended-their-relationship.md)
-The 31-year-old used his service gun against his girlfriend, her family and passers-by near Paris.
-
 ### [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md)
 China has proposed a three-phase plan for resolving the Rohingya crisis, starting with a ceasefire, that has won the support of Myanmar and Bangladesh, the Foreign Ministry said.
 
@@ -20,6 +17,9 @@ Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the d
 
 ### [Charles Manson, the infamous former cult leader who ordered the murder of Sharon Tate and others, dies at age 83. ](/news/2017/11/19/charles-manson-the-infamous-former-cult-leader-who-ordered-the-murder-of-sharon-tate-and-others-dies-at-age-83.md)
 _Context: Charles Manson, Sharon Tate_
+
+### [A policeman in the French city of Sarcelles kills his girlfriend's father, two passers-by and himself after she ended their relationship. ](/news/2017/11/19/a-policeman-in-the-french-city-of-sarcelles-kills-his-girlfriend-s-father-two-passers-by-and-himself-after-she-ended-their-relationship.md)
+The 31-year-old used his service gun against his girlfriend, her family and passers-by near Paris.
 
 ## [Previous Day...](/news/2017/11/18/index.md)
 

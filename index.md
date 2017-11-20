@@ -3,15 +3,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/20/index.md)
 
+### [The Georgia Dome which had been used for the 1996 Summer Olympics is imploded. ](/news/2017/11/20/the-georgia-dome-which-had-been-used-for-the-1996-summer-olympics-is-imploded.md)
+The storied place came down without a hitch, making way for an open area next to the opulent Mercedes-Benz Stadium in Atlanta.
+
 ### [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledoniaas-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-c.md)
 _Context: Loyalty Islands, New Caledonia, South Pacific Ocean, Vanuatu, magnitude_
 
 ---
 
 ## [Yesterday](/news/2017/11/19/index.md)
-
-### [A policeman in the French city of Sarcelles kills his girlfriend's father, two passers-by and himself after she ended their relationship. ](/news/2017/11/19/a-policeman-in-the-french-city-of-sarcelles-kills-his-girlfriend-s-father-two-passers-by-and-himself-after-she-ended-their-relationship.md)
-The 31-year-old used his service gun against his girlfriend, her family and passers-by near Paris.
 
 ### [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md)
 China has proposed a three-phase plan for resolving the Rohingya crisis, starting with a ceasefire, that has won the support of Myanmar and Bangladesh, the Foreign Ministry said.
@@ -27,6 +27,9 @@ Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the d
 
 ### [Charles Manson, the infamous former cult leader who ordered the murder of Sharon Tate and others, dies at age 83. ](/news/2017/11/19/charles-manson-the-infamous-former-cult-leader-who-ordered-the-murder-of-sharon-tate-and-others-dies-at-age-83.md)
 _Context: Charles Manson, Sharon Tate_
+
+### [A policeman in the French city of Sarcelles kills his girlfriend's father, two passers-by and himself after she ended their relationship. ](/news/2017/11/19/a-policeman-in-the-french-city-of-sarcelles-kills-his-girlfriend-s-father-two-passers-by-and-himself-after-she-ended-their-relationship.md)
+The 31-year-old used his service gun against his girlfriend, her family and passers-by near Paris.
 
 ---
 
