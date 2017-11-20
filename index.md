@@ -25,6 +25,9 @@ Eight candidates are standing, with ex-president Sebastián Piñera seen as a cl
 ### [President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with former Vice President Emmerson Mnangagwa. ](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as-the-leader-of-zanuapf-and-replaced-with-former-vice-president-emmerson-mnangagwa.md)
 Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the deputy he dismissed two weeks ago
 
+### [Charles Manson, the infamous former cult leader who ordered the murder of Sharon Tate and others, dies at age 83. ](/news/2017/11/19/charles-manson-the-infamous-former-cult-leader-who-ordered-the-murder-of-sharon-tate-and-others-dies-at-age-83.md)
+_Context: Charles Manson, Sharon Tate_
+
 ---
 
 ## [Day Before Yesterday](/news/2017/11/18/index.md)
