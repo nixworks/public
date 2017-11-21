@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.html)  [JSON](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.json)  [XML](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.xml)  
+
 ### [2017-03-21](/news/2017/03/21/index.md)
 
 # Bruno Le Roux resigns as France's Minister of the Interior amid a jobs scandal involving two of his daughters. Using public funds, Bruno had hired his 15 and 16-year-old daughters as parliamentary assistants while he was serving as a deputy in the French National Assembly. 
@@ -5,7 +8,7 @@
 Bruno Le Roux gave parliamentary work to his daughters when they were teenagers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39346617)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/739B/production/_95259592_bruno2.jpg)

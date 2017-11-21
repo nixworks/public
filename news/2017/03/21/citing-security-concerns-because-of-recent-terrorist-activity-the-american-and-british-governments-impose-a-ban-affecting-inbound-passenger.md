@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.html)  [JSON](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.json)  [XML](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.xml)  
+
 ### [2017-03-21](/news/2017/03/21/index.md)
 
 # Citing security concerns because of recent terrorist activity, the American and British governments impose a ban affecting inbound-passengers flying from much of the Middle East and North Africa. The ban includes airplane cabin passenger-accessible items such as laptops, tablets, and other electronic devices which are larger than a smartphone. Larger such electronic devices will still be allowed on board in checked baggage which is thus more closely screened and passenger-inaccessible. 
@@ -5,7 +8,7 @@
 Airlines flying directly from eight countries to the U.S. must stop passengers from carrying almost all electronic devices into the cabin under new U.S. rules.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39333424)
 2. [CNN](http://money.cnn.com/2017/03/21/news/airline-electronics-ban-middle-east-africa/index.html?iid=hp-toplead-intl)
