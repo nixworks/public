@@ -1,7 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/20/index.md)
+## [News](/news/2017/11/21/index.md)
+
+### [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of nearly 40 years in office. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-nearly-40-years-i.md)
+Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of rule in the southern African country.
+
+### [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md)
+Boko Haram thought to be behind devastating attack in Adamawa state in north-east of country
+
+---
+
+## [Yesterday](/news/2017/11/20/index.md)
 
 ### [The U.S. Department of Justice files a lawsuit blocking the potential merger of AT&T and Time Warner. ](/news/2017/11/20/the-u-s-department-of-justice-files-a-lawsuit-blocking-the-potential-merger-of-at-t-and-time-warner.md)
 _Context: AT&T, Economy of the United States, Time Warner, U.S. Department of Justice_
@@ -23,7 +33,7 @@ _Context: Amsterdam, Brexit negotiations, European Banking Authority, European M
 
 ---
 
-## [Yesterday](/news/2017/11/19/index.md)
+## [Day Before Yesterday](/news/2017/11/19/index.md)
 
 ### [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md)
 China has proposed a three-phase plan for resolving the Rohingya crisis, starting with a ceasefire, that has won the support of Myanmar and Bangladesh, the Foreign Ministry said.
@@ -48,32 +58,7 @@ The 31-year-old used his service gun against his girlfriend, her family and pass
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/18/index.md)
-
-### [AC-DC guitarist and co-founder Malcolm Young dies at the age of 64 in Sydney. ](/news/2017/11/18/ac-dc-guitarist-and-co-founder-malcolm-young-dies-at-the-age-of-64-in-sydney.md)
-Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
-
-### [The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-juan-submarine-which-went-missing-on-15-november-2017.md)
-_Context: Argentine Navy, South Atlantic, submarine, submarine incident_
-
-### [A fire in an apartment in Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-an-apartment-in-beijing-kills-19-people-and-injures-8.md)
-_Context: Beijing_
-
-### [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md)
-PARIS: French President Emmanuel Macron welcomed Saad Hariri for talks Saturday, an AFP reporter said, hours after the Lebanese premier arrived from Saudi Arabia in the midst of a political crisis. Hariri, who made a resignation announcement on November 4 and has since fended off claims he was being...
-
-### [Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. ](/news/2017/11/18/thousands-of-people-celebrate-the-expected-downfall-of-robert-mugabe-in-the-streets-of-harare.md)
-Pressure grows on the president to stand aside as thousands march to welcome the army takeover.
-
-### [Gerry Adams, the long-term leader of Sinn Fein, announces that he will step down as party leader next year. ](/news/2017/11/18/gerry-adams-the-long-term-leader-of-sinn-fa-c-in-announces-that-he-will-step-down-as-party-leader-next-year.md)
-_Context: Gerry Adams, Politics of Northern Ireland, Sinn Fein_
-
-### [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an unspecified illness in Buenos Aires. The office is now vacant. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-unspecified-illness-in-buenos-aires-the-office-is-now-vacant.md)
-Spain&#39;s top prosecutor Jose Manuel Maza has died unexpectedly at the age of 66 while in Argentina for a conference. Maza had been leading the probe against members of Catalonia&#39;s ousted regional government.
-
----
-
-## [Previous Day...](/news/2017/11/17/index.md)
+## [Previous Day...](/news/2017/11/18/index.md)
 
 ---
 
