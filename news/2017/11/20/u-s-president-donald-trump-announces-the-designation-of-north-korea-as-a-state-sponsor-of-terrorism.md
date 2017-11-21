@@ -10,7 +10,7 @@ North Korea had been removed from the list under the George W. Bush administrati
 
 ### Sources:
 
-1. [New York Times](http://www.nytimes.com/2017/11/20/us/politics/north-korea-trump-terror.html)
+1. [The New York Times](http://www.nytimes.com/2017/11/20/us/politics/north-korea-trump-terror.html)
 1. [Cover Image](https://static01.nyt.com/images/2017/11/21/us/politics/21dc-korea/21dc-korea-facebookJumbo-v2.jpg)
 
 ### Changes:
