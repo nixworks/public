@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/22/the-board-of-transasia-airways-decides-to-dissolve-the-company-after-halting-flights-on-tuesday.html)  [JSON](/news/2016/11/22/the-board-of-transasia-airways-decides-to-dissolve-the-company-after-halting-flights-on-tuesday.json)  [XML](/news/2016/11/22/the-board-of-transasia-airways-decides-to-dissolve-the-company-after-halting-flights-on-tuesday.xml)  
+
 ### [2016-11-22](/news/2016/11/22/index.md)
 
 # The board of TransAsia Airways decides to dissolve the company after halting flights on Tuesday. 
@@ -5,7 +8,7 @@
 Taiwanese carrier TransAsia Airways Corp. decided to close down operations after two fatal crashes in the last two years pushed it into losses.
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed)
 2. [The New York Times](http://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0)

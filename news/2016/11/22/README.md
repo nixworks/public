@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/22/index.html)  [JSON](2016/11/22/index.json)  [XML](2016/11/22/index.xml)  
+
 ## [2016-11-22](/news/2016/11/22/index.md)
 
 ### [The board of TransAsia Airways decides to dissolve the company after halting flights on Tuesday. ](/news/2016/11/22/the-board-of-transasia-airways-decides-to-dissolve-the-company-after-halting-flights-on-tuesday.md)
@@ -19,7 +22,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 _Context: Egypt, Habib el-Adly, embezzlement_
 
 ### [Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clinton-for-possible-crimes-relat.md)
-_Context: Hillary Clinton, Kellyanne Conway, Trump administration, email server_
+_Context: Hillary Clinton, Kellyanne Conway, Presidency of Donald Trump, email server_
 
 ## [Previous Day...](/news/2016/11/21/index.md)
 
