@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-of-the-
 
 ### [2017-11-22](/news/2017/11/22/index.md)
 
-# A U.S. Navy C2-A Greyhound, operating off of the USS "Ronald Reagan" aircraft carrier, crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-man crew. 
+# A U.S. Navy C2-A Greyhound, operating off of the USS "Ronald Reagan" aircraft carrier, crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. 
 
 The U.S. Navy said the cause of the crash is not known at this time. 
 
@@ -15,7 +15,7 @@ The U.S. Navy said the cause of the crash is not known at this time.
 ### Changes:
 
 1. [A U.S. Navy C2-A Greyhound, operating off of the USS Ronald Reagan aircraft carrier, crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-man crew. ](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-of-the-uss-ronald-reagan-aircraft-carrier-crashes-in-the-philippine-sea-eight-sailors-are-rescue.md) _2017-11-22 15:30:05 (First version)_
-1. [A U.S. Navy C2-A Greyhound, operating off of the USS "Ronald Reagan" aircraft carrier, crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-man crew. ](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-of-the-uss-ronald-reagan-aircraft-carrier-crashes-in-the-philippine-sea-eight-sailors-are-resc.md) _(Current version)_
+1. [A U.S. Navy C2-A Greyhound, operating off of the USS "Ronald Reagan" aircraft carrier, crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-of-the-uss-ronald-reagan-aircraft-carrier-crashes-in-the-philippine-sea-eight-sailors-are-resc.md) _(Current version)_
 
 ### Related:
 
