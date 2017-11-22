@@ -10,7 +10,7 @@ Suspects allegedly opened fire on special forces during large-scale operation on
 The U.S. Navy said the cause of the crash is not known at this time. 
 
 ### [The Palestinian National Authority suspends contact with the United States after the Palestine Liberation Organization office in Washington, D.C. was closed. ](/news/2017/11/22/the-palestinian-national-authority-suspends-contact-with-the-united-states-after-the-palestine-liberation-organization-office-in-washington.md)
-_Context: Palestine Liberation Organization, Palestinian National Authority, United States, Washington, D.C._
+_Context: Palestine Liberation Organization, Palestine-United States relations, Palestinian National Authority, United States, Washington, D.C._
 
 ### [Lebanon Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. Later at Lebanese President Michel Aoun's request, Hariri suspends his resignation so further consultations can proceed. ](/news/2017/11/22/lebanon-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-weeks.md)
 Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi Arabia.

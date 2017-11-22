@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/19/index.html)  [JSON](2017/11/19/index.json)  [XML](201
 
 ## [2017-11-19](/news/2017/11/19/index.md)
 
+### [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md)
+_Context: 2017 Abu Kamal offensive, Abu Kamal, ISIL, Syria, Syrian Civil War_
+
 ### [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md)
 China has proposed a three-phase plan for resolving the Rohingya crisis, starting with a ceasefire, that has won the support of Myanmar and Bangladesh, the Foreign Ministry said.
 
