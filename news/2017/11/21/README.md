@@ -7,10 +7,10 @@ Formats: [HTML](2017/11/21/index.html)  [JSON](2017/11/21/index.json)  [XML](201
 Boko Haram thought to be behind devastating attack in Adamawa state in north-east of country
 
 ### [Mount Agung in Bali erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md)
-_Context: Mount Agung_
+_Context: 2017 Mount Agung eruption, Mount Agung_
 
 ### [The U.S. Treasury imposes new sanctions on several North Korean shipping companies and vessels, along with four Chinese companies which have engaged in trading activities with North Korea. ](/news/2017/11/21/the-u-s-treasury-imposes-new-sanctions-on-several-north-korean-shipping-companies-and-vessels-along-with-four-chinese-companies-which-have.md)
-_Context: Chinese companies, North Korean shipping companies, U.S. Treasury, vessels_
+_Context: 2017 North Korea crisis, Chinese companies, North Korean shipping companies, U.S. Treasury, new sanctions, vessels_
 
 ### [Federal Communications Commission chairman Ajit Pai announces his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announces-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md)
 A rollback of net neutrality regulations would represent a significant victory for broadband and telecom companies like AT&T and Comcast and would amount to a strike against consumers.
