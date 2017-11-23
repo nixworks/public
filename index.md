@@ -1,9 +1,16 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/22/index.md)
+## [News](/news/2017/11/23/index.md)
 
-### [Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard is shot and injured. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-of-tbilisi-amidst-counter-terrorism-operations-one-security-guard-is-shot-and-inju.md)
+### [Dhaka's Foreign Mnister A. H. Mahmood Ali and Aung San Suu Kyi of Myanmar agree to return Rohingya refugees from Bangladesh to Myanmar in two months. ](/news/2017/11/23/dhaka-s-foreign-mnister-a-h-mahmood-ali-and-aung-san-suu-kyi-of-myanmar-agree-to-return-rohingya-refugees-from-bangladesh-to-myanmar-in-tw.md)
+_Context: Aung San Suu Kyi, Bangladesh, Dhaka, Myanmar, Rohingya persecution in Myanmar (2016-present)_
+
+---
+
+## [Yesterday](/news/2017/11/22/index.md)
+
+### [Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard was killed and 3 terrorists were killed. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-of-tbilisi-amidst-counter-terrorism-operations-one-security-guard-was-killed-and-3.md)
 Suspects allegedly opened fire on special forces during large-scale operation on the outskirts of the capital, Tbilisi.
 
 ### [A U.S. Navy C2-A Greyhound, operating off the aircraft carrier USS "Ronald Reagan", crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-the-aircraft-carrier-uss-ronald-reagan-crashes-in-the-philippine-sea-eight-sailors-are-rescued.md)
@@ -23,7 +30,7 @@ Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi A
 
 ---
 
-## [Yesterday](/news/2017/11/21/index.md)
+## [Day Before Yesterday](/news/2017/11/21/index.md)
 
 ### [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md)
 Boko Haram thought to be behind devastating attack in Adamawa state in north-east of country
@@ -42,29 +49,7 @@ Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/20/index.md)
-
-### [The U.S. Department of Justice files a lawsuit blocking the potential merger of AT&T and Time Warner. ](/news/2017/11/20/the-u-s-department-of-justice-files-a-lawsuit-blocking-the-potential-merger-of-at-t-and-time-warner.md)
-_Context: AT&T, Economy of the United States, Time Warner, U.S. Department of Justice_
-
-### [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledonia-s-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-cal.md)
-_Context: Earthquakes in 2017, Loyalty Islands, New Caledonia, South Pacific Ocean, Vanuatu, magnitude_
-
-### [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md)
-North Korea had been removed from the list under the George W. Bush administration in an attempt to salvage negotiations for a nuclear deal.
-
-### [Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls. ](/news/2017/11/20/charlie-rose-is-suspended-as-host-of-charlie-rose-and-anchor-of-cbs-this-morning-after-allegations-of-sexual-harassment-and-obscene-phon.md)
-The alleged incidents took place with employees, interns and job applicants at the &ldquo;Charlie Rose&rdquo; show.
-
-### [The United States Department of Homeland Security announces they will not renew the "temporary protected status" of around 50,000 Haitians living in the United States when it expires in 18 months. ](/news/2017/11/20/the-united-states-department-of-homeland-security-announces-they-will-not-renew-the-temporary-protected-status-of-around-50-000-haitians-l.md)
-The Haitians here will be given 18 months to prepare to leave.
-
-### [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md)
-_Context: Amsterdam, Brexit negotiations, European Banking Authority, European Medicines Agency, London, Paris, United Kingdom withdrawal from the European Union_
-
----
-
-## [Previous Day...](/news/2017/11/19/index.md)
+## [Previous Day...](/news/2017/11/20/index.md)
 
 ---
 
