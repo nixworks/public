@@ -3,7 +3,7 @@ Formats: [HTML](2017/11/22/index.html)  [JSON](2017/11/22/index.json)  [XML](201
 
 ## [2017-11-22](/news/2017/11/22/index.md)
 
-### [Explosions and gunfire are heard in the Georgian capital Tbilisi amidst counter-terrorism operations. One security guard is shot and injured. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-tbilisi-amidst-counter-terrorism-operations-one-security-guard-is-shot-and-injured.md)
+### [Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard is shot and injured. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-of-tbilisi-amidst-counter-terrorism-operations-one-security-guard-is-shot-and-inju.md)
 Suspects allegedly opened fire on special forces during large-scale operation on the outskirts of the capital, Tbilisi.
 
 ### [A U.S. Navy C2-A Greyhound, operating off the aircraft carrier USS "Ronald Reagan", crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c2-a-greyhound-operating-off-the-aircraft-carrier-uss-ronald-reagan-crashes-in-the-philippine-sea-eight-sailors-are-rescued.md)
