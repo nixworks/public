@@ -15,7 +15,7 @@ _Context: 2017 North Korea crisis, Chinese companies, North Korean shipping comp
 ### [Federal Communications Commission chairman Ajit Pai announces his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announces-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md)
 A rollback of net neutrality regulations would represent a significant victory for broadband and telecom companies like AT&T and Comcast and would amount to a strike against consumers.
 
-### [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 37 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-37-years-in-o.md)
+### [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 29 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-29-years-in-o.md)
 Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of rule in the southern African country.
 
 ## [Previous Day...](/news/2017/11/20/index.md)
