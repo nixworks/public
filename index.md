@@ -12,6 +12,9 @@ The U.S. Navy said the cause of the crash is not known at this time.
 ### [The Palestinian National Authority suspends contact with the United States after the Palestine Liberation Organization office in Washington, D.C. was closed. ](/news/2017/11/22/the-palestinian-national-authority-suspends-contact-with-the-united-states-after-the-palestine-liberation-organization-office-in-washington.md)
 _Context: Palestine Liberation Organization, Palestine-United States relations, Palestinian National Authority, United States, Washington, D.C._
 
+### [U.S. Secretary of State Rex Tillerson calls the persecution of Rohingya Muslims by the government of Myanmar an "ethnic cleansing" and announces that the United States will consider targeted sanctions against Myanmar. ](/news/2017/11/22/u-s-secretary-of-state-rex-tillerson-calls-the-persecution-of-rohingya-muslims-by-the-government-of-myanmar-an-ethnic-cleansing-and-annou.md)
+The United States on Wednesday called the Myanmar military operation against the Rohingya population &quot;ethnic cleansing&quot; and threatened targeted sanctions against those responsible for what it called &quot;horrendous atrocities.&quot;
+
 ### [Lebanon Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. ](/news/2017/11/22/lebanon-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-weeks.md)
 Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi Arabia.
 
