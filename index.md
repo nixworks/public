@@ -15,6 +15,9 @@ _Context: Palestine Liberation Organization, Palestine-United States relations, 
 ### [U.S. Secretary of State Rex Tillerson calls the persecution of Rohingya Muslims by the government of Myanmar an "ethnic cleansing" and announces that the United States will consider targeted sanctions against Myanmar. ](/news/2017/11/22/u-s-secretary-of-state-rex-tillerson-calls-the-persecution-of-rohingya-muslims-by-the-government-of-myanmar-an-ethnic-cleansing-and-annou.md)
 The United States on Wednesday called the Myanmar military operation against the Rohingya population &quot;ethnic cleansing&quot; and threatened targeted sanctions against those responsible for what it called &quot;horrendous atrocities.&quot;
 
+### [Ratko Mladic, the former Chief of Staff of the Bosnian Serb army during the Bosnian War, is found guilty of genocide, war crimes, and crimes against humanity by the International Criminal Tribunal for the former Yugoslavia and is sentenced to life imprisonment. ](/news/2017/11/22/ratko-mladia-the-former-chief-of-staff-of-the-bosnian-serb-army-during-the-bosnian-war-is-found-guilty-of-genocide-war-crimes-and-crime.md)
+Former Bosnian Serb army commander known as the ‘butcher of Bosnia’ sentenced to life imprisonment more than 20 years after Srebrenica massacre
+
 ### [Lebanon Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. ](/news/2017/11/22/lebanon-prime-minister-saad-hariri-arrives-in-beirut-for-the-first-time-since-announcing-his-resignation-in-saudi-arabia-more-than-two-weeks.md)
 Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi Arabia.
 
