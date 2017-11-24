@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/23/index.md)
+## [News](/news/2017/11/24/index.md)
+
+### [Former South African athlete Oscar Pistorius has his jail sentence doubled to 13 years for the murder of his girlfriend Reeva Steenkamp. ](/news/2017/11/24/former-south-african-athlete-oscar-pistorius-has-his-jail-sentence-doubled-to-13-years-for-the-murder-of-his-girlfriend-reeva-steenkamp.md)
+Oscar Pistorius prison sentence increased to 13 years and 5 months.
+
+---
+
+## [Yesterday](/news/2017/11/23/index.md)
 
 ### [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md)
 _Context: Aung San Suu Kyi, Bangladesh, Myanmar, Rohingya persecution in Myanmar (2016-present), State Counsellor_
@@ -14,7 +21,7 @@ About 40 people are moved from a Manus Island centre, but more than 300 others a
 
 ---
 
-## [Yesterday](/news/2017/11/22/index.md)
+## [Day Before Yesterday](/news/2017/11/22/index.md)
 
 ### [Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard was killed and 3 terrorists were killed. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-of-tbilisi-amidst-counter-terrorism-operations-one-security-guard-was-killed-and-3.md)
 Suspects allegedly opened fire on special forces during large-scale operation on the outskirts of the capital, Tbilisi.
@@ -36,26 +43,7 @@ Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi A
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/21/index.md)
-
-### [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md)
-Boko Haram thought to be behind devastating attack in Adamawa state in north-east of country
-
-### [Mount Agung in Bali erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md)
-_Context: 2017 Mount Agung eruption, Mount Agung_
-
-### [The U.S. Treasury imposes new sanctions on several North Korean shipping companies and vessels, along with four Chinese companies which have engaged in trading activities with North Korea. ](/news/2017/11/21/the-u-s-treasury-imposes-new-sanctions-on-several-north-korean-shipping-companies-and-vessels-along-with-four-chinese-companies-which-have.md)
-_Context: 2017 North Korea crisis, Chinese companies, North Korean shipping companies, U.S. Treasury, new sanctions, vessels_
-
-### [Federal Communications Commission chairman Ajit Pai announces his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announces-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md)
-A rollback of net neutrality regulations would represent a significant victory for broadband and telecom companies like AT&T and Comcast and would amount to a strike against consumers.
-
-### [Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 29 years in office as President. ](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimbabwe-shortly-after-impeachment-proceedings-are-launched-it-ends-a-period-of-his-29-years-in-o.md)
-Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of rule in the southern African country.
-
----
-
-## [Previous Day...](/news/2017/11/20/index.md)
+## [Previous Day...](/news/2017/11/21/index.md)
 
 ---
 
