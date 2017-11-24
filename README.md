@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/24/index.md)
 
-### [At least 185 people are killed in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-185-people-are-killed-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
+### [At least 235 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-235-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
 The gun and bomb assault took place near al-Arish in the restive Sinai region.
 
 ### [Former South African athlete Oscar Pistorius has his jail sentence doubled to 13 years for the murder of his girlfriend Reeva Steenkamp. ](/news/2017/11/24/former-south-african-athlete-oscar-pistorius-has-his-jail-sentence-doubled-to-13-years-for-the-murder-of-his-girlfriend-reeva-steenkamp.md)
@@ -19,7 +19,7 @@ _Context: 2017 Zimbabwean coup d'tat, Emmerson Mnangagwa, President of Zimbabwe_
 ### [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md)
 _Context: Aung San Suu Kyi, Bangladesh, Myanmar, Rohingya persecution in Myanmar (2016-present), State Counsellor_
 
-### [Sudanese President Omar al-Bashir visits Russian President Vladimir Putin and says he wants increased military ties and protection from the United States. Putin agrees to increase their countries' economic ties. ](/news/2017/11/23/sudanese-president-omar-al-bashir-visits-russian-president-vladimir-putin-and-says-he-wants-increased-military-ties-and-protection-from-the.md)
+### [Sudanese President Omar al-Bashir, wanted by the ICC for allegations of genocide and war crimes, asks Russian President Vladimir Putin for increased military ties and protection against the United States during his first visit to Russia as President. Putin agrees to increase their countries' economic ties. ](/news/2017/11/23/sudanese-president-omar-al-bashir-wanted-by-the-icc-for-allegations-of-genocide-and-war-crimes-asks-russian-president-vladimir-putin-for-i.md)
 Sudanese&#x20;President&#x20;Omar&#x20;al-Bashir,&#x20;who&#x20;is&#x20;wanted&#x20;by&#x20;the&#x20;International&#x20;Criminal&#x20;Court&#x20;for&#x20;genocide&#x20;and&#x20;war&#x20;crimes,&#x20;on&#x20;Thursday&#x20;asked&#x20;Russia&#x27;s&#x20;Vladimir&#x20;Putin&#x20;to&#x20;protect&#x20;his...
 
 ### [Papua New Guinea Police remove 40 refugees from the closed Manus Regional Processing Centre, and over 300 refugees remain. ](/news/2017/11/23/papua-new-guinea-police-remove-40-refugees-from-the-closed-manus-regional-processing-centre-and-over-300-refugees-remain.md)
