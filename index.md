@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Former South African athlete Oscar Pistorius has his jail sentence doubled to 13 years for the murder of his girlfriend Reeva Steenkamp. ](/news/2017/11/24/former-south-african-athlete-oscar-pistorius-has-his-jail-sentence-doubled-to-13-years-for-the-murder-of-his-girlfriend-reeva-steenkamp.md)
 Oscar Pistorius prison sentence increased to 13 years and 5 months.
 
+### [Emmerson Mnangagwa is sworn in as the new President of Zimbabwe pending elections next year. ](/news/2017/11/24/emmerson-mnangagwa-is-sworn-in-as-the-new-president-of-zimbabwe-pending-elections-next-year.md)
+_Context: 2017 Zimbabwean coup d'tat, Emmerson Mnangagwa, President of Zimbabwe_
+
 ---
 
 ## [Yesterday](/news/2017/11/23/index.md)
