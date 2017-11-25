@@ -19,7 +19,7 @@ Police say they found no evidence of previously reported gunshots, and that ther
 _Context: 2017 Zimbabwean coup d'etat, Emmerson Mnangagwa, President of Zimbabwe_
 
 ### [Days ahead of the Global Entrepreneurship Summit which would be attended by Ivanka Trump it has been reported that the United States Department of State led by Secretary of State Rex Tillerson will not be sending a high-level delegation to support her amid reports of tensions between Tillerson and the White House. ](/news/2017/11/24/days-ahead-of-the-global-entrepreneurship-summit-which-would-be-attended-by-ivanka-trump-it-has-been-reported-that-the-united-states-departm.md)
-_Context: Ivanka Trump, Rex Tillerson, Secretary of State, Trump Administration, United States Department of State, White House_
+_Context: Global Entrepreneurship Summit, Ivanka Trump, Rex Tillerson, Secretary of State, Trump Administration, United States Department of State, White House, sending a high-level delegation to support her_
 
 ---
 
