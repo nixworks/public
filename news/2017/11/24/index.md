@@ -3,13 +3,13 @@ Formats: [HTML](2017/11/24/index.html)  [JSON](2017/11/24/index.json)  [XML](201
 
 ## [2017-11-24](/news/2017/11/24/index.md)
 
-### [At least 235 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-235-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
-The gun and bomb assault took place near al-Arish in the restive Sinai region.
+### [At least 300 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-300-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
+A devastating gun and bomb attack on a mosque in the Sinai peninsula killed 300 people.
 
 ### [Former South African sprint runner Oscar Pistorius has his jail sentence increased to 13 years and five months for the murder of his girlfriend Reeva Steenkamp. The Supreme Court of Appeal ruled his sentence be increased to 15 years, less time already served. ](/news/2017/11/24/former-south-african-sprint-runner-oscar-pistorius-has-his-jail-sentence-increased-to-13-years-and-five-months-for-the-murder-of-his-girlfri.md)
 Oscar Pistorius prison sentence increased to 13 years and 5 months.
 
-### [Sting, Peter Gabriel, Ed Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-ed-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-prison.md)
+### [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md)
 Amnesty says musicians Sting and Peter Gabriel and whistle-blower Edward Snowden signed open letter making the call.
 
 ### [People in London panic after what was thought to be gunfire, causing one injury in the panic. Police state there are no signs of gunshots or casualties. ](/news/2017/11/24/people-in-london-panic-after-what-was-thought-to-be-gunfire-causing-one-injury-in-the-panic-police-state-there-are-no-signs-of-gunshots-or.md)
