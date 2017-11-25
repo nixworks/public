@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/24/u-s-president-donald-trump-designates-office-of
 
 ### [2017-11-24](/news/2017/11/24/index.md)
 
-#  U.S. President Donald Trump designates Office of Management and Budget director Mick Mulvaney acting director of the Consumer Financial Protection Bureau (CFPB), replacing Richard Cordray who promoted chief of staff Leandra English to CFPB deputy director prior to his resignation. 
+#  U.S. President Donald Trump designates Office of Management and Budget director Mick Mulvaney acting director of the Consumer Financial Protection Bureau (CFPB), replacing Richard Cordray, who promoted chief of staff Leandra English to CFPB deputy director prior to his resignation. 
 
 U.S. President Donald Trump has designated White House Budget Director Mick Mulvaney acting director of the Consumer Financial Protection Bureau until a permanent director is nominated and confirmed, the White House said on Friday.
 
