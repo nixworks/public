@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/23/index.html)  [JSON](2017/11/23/index.json)  [XML](201
 
 ## [2017-11-23](/news/2017/11/23/index.md)
 
+### [Mexico's Popocatepetl volcano sends a cloud of smoke, ash and steam around 5,900 feet (1798 meters) above the peak, the largest eruption since 2013. ](/news/2017/11/23/mexico-s-popocatepetl-volcano-sends-a-cloud-of-smoke-ash-and-steam-around-5-900-feet-1798-meters-above-the-peak-the-largest-eruption-sin.md)
+A cloud of smoke, ash and steam rose to around 5,900 feet over Mexico’s Popocatepetl volcano following November 23’s eruption, the largest since 2013, El Universal reported. Mexico’s National Center for Prevention of Disasters ( CENAPRED ) warned residents in Central Mexico not to approach the...
+
 ### [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md)
 _Context: Aung San Suu Kyi, Bangladesh, Myanmar, Rohingya persecution in Myanmar (2016-present), State Counsellor_
 

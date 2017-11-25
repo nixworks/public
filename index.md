@@ -29,14 +29,14 @@ Police say they found no evidence of previously reported gunshots, and that ther
 _Context: 2017 Zimbabwean coup d'etat, Emmerson Mnangagwa, President of Zimbabwe_
 
 ### [Days ahead of the Global Entrepreneurship Summit in India, scheduled to be attended by Ivanka Trump per Prime Minister Narendra Modi's June invitation, reports indicate the United States Department of State, led by Secretary of State Rex Tillerson, will not be sending a high-level delegation to support her amid reports of tensions between Tillerson and the White House. ](/news/2017/11/24/days-ahead-of-the-global-entrepreneurship-summit-in-india-scheduled-to-be-attended-by-ivanka-trump-per-prime-minister-narendra-modi-s-june.md)
-_Context: Global Entrepreneurship Summit, Ivanka Trump, Narendra Modi, Prime Minister, Rex Tillerson, Secretary of State, Trump Administration, United States Department of State, White House, sending a high-level delegation to support her_
-
-### [ U.S. President Donald Trump designates Office of Management and Budget director Mick Mulvaney acting director of the Consumer Financial Protection Bureau (CFPB), replacing Richard Cordray, who promoted chief of staff Leandra English to CFPB deputy director prior to his resignation. ](/news/2017/11/24/u-s-president-donald-trump-designates-office-of-management-and-budget-director-mick-mulvaney-acting-director-of-the-consumer-financial-pro.md)
 U.S. President Donald Trump has designated White House Budget Director Mick Mulvaney acting director of the Consumer Financial Protection Bureau until a permanent director is nominated and confirmed, the White House said on Friday.
 
 ---
 
 ## [Day Before Yesterday](/news/2017/11/23/index.md)
+
+### [Mexico's Popocatepetl volcano sends a cloud of smoke, ash and steam around 5,900 feet (1798 meters) above the peak, the largest eruption since 2013. ](/news/2017/11/23/mexico-s-popocatepetl-volcano-sends-a-cloud-of-smoke-ash-and-steam-around-5-900-feet-1798-meters-above-the-peak-the-largest-eruption-sin.md)
+A cloud of smoke, ash and steam rose to around 5,900 feet over Mexico’s Popocatepetl volcano following November 23’s eruption, the largest since 2013, El Universal reported. Mexico’s National Center for Prevention of Disasters ( CENAPRED ) warned residents in Central Mexico not to approach the...
 
 ### [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md)
 _Context: Aung San Suu Kyi, Bangladesh, Myanmar, Rohingya persecution in Myanmar (2016-present), State Counsellor_
