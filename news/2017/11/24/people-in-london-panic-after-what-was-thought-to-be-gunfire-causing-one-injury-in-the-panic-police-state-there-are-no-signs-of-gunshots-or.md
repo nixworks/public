@@ -10,7 +10,7 @@ Police say they found no evidence of previously reported gunshots, and that ther
 
 ### Sources:
 
-1. [The globe and mail](https://www.theglobeandmail.com/news/world/londons-oxford-circus-station-evacuated-armed-police-on-scene/article37074076/)
+1. [The Globe and Mail](https://www.theglobeandmail.com/news/world/londons-oxford-circus-station-evacuated-armed-police-on-scene/article37074076/)
 1. [Cover Image](https://beta.theglobeandmail.com/resizer/HEJqnRsh1l3GnGGANF_W9s3TsMo=/1200x0/filters:quality(100)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/CD6E2GJGERC5FKCLBANMH2WXMU.JPG)
 
 ### Related:
