@@ -40,6 +40,9 @@ _Context: Czech Republic, LinkedIn hack in 2012, Russia, Russia-United States re
 ### [Far-right protesters from La Meute and Storm Alliance, counter-protesters, and the Quebec City Police Service clash, and more than 40 people are arrested. ](/news/2017/11/25/far-right-protesters-from-la-meute-and-storm-alliance-counter-protesters-and-the-quebec-city-police-service-clash-and-more-than-40-people.md)
 Between 300 and 400 members of far-right groups, including La Meute and Storm Alliance, marched in the rain to a convention centre that was hosting a major policy meeting of the governing Quebec Liberal party. Police have arrested 44 people.
 
+### [The Australian Labor Party leads the tight race with three-quarters of the votes counted. Pauline Hanson's One Nation party has yet to confirm victory in any contest; the nationalists are projected to win just one seat though they may poll better overall than the predicted 20 percent. Official results may not be known for several days. ](/news/2017/11/25/the-australian-labor-party-leads-the-tight-race-with-three-quarters-of-the-votes-counted-pauline-hanson-s-one-nation-party-has-yet-to-confi.md)
+_Context: Australian Labor Party, Pauline Hanson's One Nation, Queensland state election, 2017_
+
 ---
 
 ## [Day Before Yesterday](/news/2017/11/24/index.md)
