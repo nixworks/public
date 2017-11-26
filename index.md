@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md)
 At least two people have been killed in the Sunday morning blast in Ningbo, local authorities say.
 
+### [Popocatpetl volcano errupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-errupts-in-mexico.md)
+_Context: Mexico, Popocatpetl_
+
 ### [Pakistan's government has called for troops to be deployed in the capital, Islamabad, after violence broke out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-has-called-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-broke-out-during-protests-by-islamists.md)
 _Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists_
 
@@ -13,7 +16,7 @@ _Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists_
 
 ## [Yesterday](/news/2017/11/25/index.md)
 
-### [Russian President Vladimir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents. Earlier this month, RT America registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladimir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlie.md)
+### [Russian President Vladimir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents. Earlier this month, RT America has been forced to be registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladimir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlie.md)
 Russian President Vladimir Putin signed into law on Saturday new measures allowing authorities to list foreign media outlets as &quot;foreign agents&quot; in response to what Moscow says is unacceptable U.S. pressure on Russian media.
 
 ### [Former Zimbabwe finance minister Ignatius Chombo, who was arrested during Operation Restore Legacy, is charged in Harare Magistrate's Court with three counts of fraud, abuse of power, and corruption. ](/news/2017/11/25/former-zimbabwe-finance-minister-ignatius-chombo-who-was-arrested-during-operation-restore-legacy-is-charged-in-harare-magistrateas-cour.md)
