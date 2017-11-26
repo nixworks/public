@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md)
 At least two people have been killed in the Sunday morning blast in Ningbo, local authorities say.
 
-### [Popocatpetl volcano errupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-errupts-in-mexico.md)
+### [Popocatpetl volcano erupts in Mexico. ](/news/2017/11/26/popocatepetl-volcano-erupts-in-mexico.md)
 _Context: Mexico, Popocatpetl_
 
 ### [Pakistan's government has called for troops to be deployed in the capital, Islamabad, after violence broke out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-has-called-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-broke-out-during-protests-by-islamists.md)
