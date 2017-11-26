@@ -18,9 +18,6 @@ Oscar Pistorius prison sentence increased to 13 years and 5 months.
 ### [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md)
 Amnesty says musicians Sting and Peter Gabriel and whistle-blower Edward Snowden signed open letter making the call.
 
-### [People in London panic after what was thought to be gunfire, causing one injury in the panic. Police state there are no signs of gunshots or casualties. ](/news/2017/11/24/people-in-london-panic-after-what-was-thought-to-be-gunfire-causing-one-injury-in-the-panic-police-state-there-are-no-signs-of-gunshots-or.md)
-Police say they found no evidence of previously reported gunshots, and that there were no casualties.
-
 ### [Emmerson Mnangagwa is sworn in as the new President of Zimbabwe pending elections next year. ](/news/2017/11/24/emmerson-mnangagwa-is-sworn-in-as-the-new-president-of-zimbabwe-pending-elections-next-year.md)
 _Context: 2017 Zimbabwean coup d'etat, Emmerson Mnangagwa, President of Zimbabwe_
 
