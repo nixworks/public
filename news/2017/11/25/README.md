@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/25/index.html)  [JSON](2017/11/25/index.json)  [XML](201
 
 ## [2017-11-25](/news/2017/11/25/index.md)
 
+### [A stolen car collides with a tree in a residential suburb of Leeds, England, killing five people. Three of the victims were children, including two young brothers. ](/news/2017/11/25/a-stolen-car-collides-with-a-tree-in-a-residential-suburb-of-leeds-england-killing-five-people-three-of-the-victims-were-children-includ.md)
+Two boys are in custody after a stolen car crashed into a tree in Leeds, causing five deaths.
+
 ### [Russian President Vladimir Putin signs into law amendments that allow foreign media outlets in Russia to be listed as foreign agents. Earlier this month, RT America has been forced to be registered as a foreign agent in the United States. ](/news/2017/11/25/russian-president-vladimir-putin-signs-into-law-amendments-that-allow-foreign-media-outlets-in-russia-to-be-listed-as-foreign-agents-earlie.md)
 Russian President Vladimir Putin signed into law on Saturday new measures allowing authorities to list foreign media outlets as &quot;foreign agents&quot; in response to what Moscow says is unacceptable U.S. pressure on Russian media.
 
