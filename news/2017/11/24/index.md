@@ -9,6 +9,9 @@ A devastating gun and bomb attack on a mosque in the Sinai peninsula killed 300 
 ### [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md)
 The U.S. will cut off supplies of arms to Kurds in Syria, in a move that will please Turkey but alienate Syrian Kurds who bore much of the fight against ISIS.
 
+### [The U.S. State Department, in a reversal, says the Palestine Liberation Organization mission can remain open in Washington, D.C. ](/news/2017/11/24/the-u-s-state-department-in-a-reversal-says-the-palestine-liberation-organization-mission-can-remain-open-in-washington-d-c.md)
+The State Department says it may stay open, with restrictions
+
 ### [Former South African sprint runner Oscar Pistorius has his jail sentence increased to 13 years and five months for the murder of his girlfriend Reeva Steenkamp. The Supreme Court of Appeal ruled his sentence be increased to 15 years, less time already served. ](/news/2017/11/24/former-south-african-sprint-runner-oscar-pistorius-has-his-jail-sentence-increased-to-13-years-and-five-months-for-the-murder-of-his-girlfri.md)
 Oscar Pistorius prison sentence increased to 13 years and 5 months.
 
