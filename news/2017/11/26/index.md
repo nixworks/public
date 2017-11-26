@@ -18,5 +18,8 @@ Amid allegations of fraud, President Juan Orlando Hernandez seeks re-election de
 ### [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md)
 More than 15 million voters choose a 275-member parliament and provincial assemblies in two phases.
 
+### [John Conyers stands down as the ranking Democrat on the United States House Committee on the Judiciary following a series of sexual harassment allegations. ](/news/2017/11/26/john-conyers-stands-down-as-the-ranking-democrat-on-the-united-states-house-committee-on-the-judiciary-following-a-series-of-sexual-harassme.md)
+Rep. John Conyers, D-Michigan, has stepped down as ranking member of the House Judiciary Committee amid a congressional investigation into sexual harassment ...
+
 ## [Previous Day...](/news/2017/11/25/index.md)
 
