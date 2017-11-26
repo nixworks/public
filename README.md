@@ -12,6 +12,12 @@ _Context: Mexico, Popocatpetl_
 ### [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists.md)
 _Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists_
 
+### [Voters in Honduras go to the polls to elect a President for the country, with current President Juan Orlando Hernndez running for a second term, marking the first time a sitting President sought reelection. ](/news/2017/11/26/voters-in-honduras-go-to-the-polls-to-elect-a-president-for-the-country-with-current-president-juan-orlando-hernandez-running-for-a-second.md)
+Amid allegations of fraud, President Juan Orlando Hernandez seeks re-election despite constitutional ban.
+
+### [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md)
+More than 15 million voters choose a 275-member parliament and provincial assemblies in two phases.
+
 ---
 
 ## [Yesterday](/news/2017/11/25/index.md)
