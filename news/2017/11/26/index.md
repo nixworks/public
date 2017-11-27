@@ -9,8 +9,8 @@ At least two people have been killed in the Sunday morning blast in Ningbo, loca
 ### [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md)
 _Context: Mexico, Popocatpetl_
 
-### [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists.md)
-_Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists_
+### [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists that were organized by the Tehreek-e-Labaik. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists-that.md)
+_Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists, Tehreek-e-Labaik_
 
 ### [Voters in Honduras go to the polls to elect a President for the country, with current President Juan Orlando Hernndez running for a second term, marking the first time a sitting President sought reelection. ](/news/2017/11/26/voters-in-honduras-go-to-the-polls-to-elect-a-president-for-the-country-with-current-president-juan-orlando-hernandez-running-for-a-second.md)
 Amid allegations of fraud, President Juan Orlando Hernandez seeks re-election despite constitutional ban.
