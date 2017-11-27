@@ -21,8 +21,8 @@ Pressure grows on the president to stand aside as thousands march to welcome the
 ### [Gerry Adams, the long-term leader of Sinn Fein, announces that he will step down as party leader next year. ](/news/2017/11/18/gerry-adams-the-long-term-leader-of-sinn-fa-c-in-announces-that-he-will-step-down-as-party-leader-next-year.md)
 _Context: Gerry Adams, Politics of Northern Ireland, Sinn Fein_
 
-### [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an unspecified illness in Buenos Aires. The office is now vacant. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-unspecified-illness-in-buenos-aires-the-office-is-now-vacant.md)
-Spain&#39;s top prosecutor Jose Manuel Maza has died unexpectedly at the age of 66 while in Argentina for a conference. Maza had been leading the probe against members of Catalonia&#39;s ousted regional government.
+### [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an illness in Buenos Aires at the age of 66. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-illness-in-buenos-aires-at-the-age-of-66.md)
+José Manuel Maza led efforts to charge Catalan leaders over the recent independence referendum.
 
 ## [Previous Day...](/news/2017/11/17/index.md)
 
