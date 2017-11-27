@@ -47,7 +47,7 @@ _Context: Australian Labor Party, Pauline Hanson's One Nation, Queensland state 
 
 ## [Day Before Yesterday](/news/2017/11/24/index.md)
 
-### [At least 300 people are killed, and over 100 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-300-people-are-killed-and-over-100-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
+### [At least 305 people are killed, and over 128 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. ](/news/2017/11/24/at-least-305-people-are-killed-and-over-128-wounded-in-a-bomb-and-gun-attack-at-a-mosque-near-arish-egypt.md)
 A devastating gun and bomb attack on a mosque in the Sinai peninsula killed 300 people.
 
 ### [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md)
