@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/27/index.md)
 
+### [Prince Harry announces his engagement to American actress Meghan Markle. ](/news/2017/11/27/prince-harry-announces-his-engagement-to-american-actress-meghan-markle.md)
+Los Angeles-born actress Meghan Markle is a divorcee and three years older than Prince Harry, an ex-party boy who served in Afghanistan with the British army.
+
 ### [Pope Francis arrives in Yangon to begin a six-day trip to Myanmar and Bangladesh, where he is expected to meet with the Rohingya people. ](/news/2017/11/27/pope-francis-arrives-in-yangon-to-begin-a-six-day-trip-to-myanmar-and-bangladesh-where-he-is-expected-to-meet-with-the-rohingya-people.md)
 Officials have warned him not to use the term &quot;Rohingya&quot; to describe Muslims who have fled violence.
 
