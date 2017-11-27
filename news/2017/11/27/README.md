@@ -13,7 +13,7 @@ Officials have warned him not to use the term &quot;Rohingya&quot; to describe M
 _Context: 2017 Tehreek-e-Labaik protest, Pakistan, Zahid Hamid, blasphemy_
 
 ### [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-at-the-age-of-69.md)
-_Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia_
+_Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia, Jose Maria Romero de Tejada_
 
 ## [Previous Day...](/news/2017/11/26/index.md)
 
