@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislative-act-votes-611-3-to-eliminate-15-government-ministries-president-elect-htin-kyaw-says.html)  [JSON](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislative-act-votes-611-3-to-eliminate-15-government-ministries-president-elect-htin-kyaw-says.json)  [XML](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislative-act-votes-611-3-to-eliminate-15-government-ministries-president-elect-htin-kyaw-says.xml)  
+
 ### [2016-03-21](/news/2016/03/21/index.md)
 
 # Myanmar's new parliament, in its first legislative act, votes (611-3) to eliminate 15 government ministries. President-elect Htin Kyaw says by eliminating the ministers' salaries, the nation will save $4 million over five years. No civil servants will lose their jobs. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/4c8c2d58f58b475b9a690f3190f03465/myanmar-parliament-votes-reduce-number-ministries)
 

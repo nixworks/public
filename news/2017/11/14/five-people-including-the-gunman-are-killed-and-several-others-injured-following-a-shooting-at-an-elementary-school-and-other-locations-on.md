@@ -3,16 +3,10 @@ Formats: [HTML](/news/2017/11/14/five-people-including-the-gunman-are-killed-and
 
 ### [2017-11-14](/news/2017/11/14/index.md)
 
-# Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. 
-
-Authorities said at least three people are dead following a shooting at an elementary school in Northern California on Tuesday morning.
+# Five people, including the gunman, are killed and several others injured following a shooting at an elementary school and other locations on the Rancho Tehama Reserve in Northern California. The alleged gunman was shot and killed by police. [http:--www.latimes.com-local-lanow-la-me-ln-norcal-elementary-school-shooting-20171114-story.html (Los Angeles Times)] [https:--www.npr.org-sections-thetwo-way-2017-11-14-564117257-at-least-3-reported-dead-after-shooting-at-school-other-locations-in-California (NPR)
 
 
-### Sources:
 
-1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-norcal-elementary-school-shooting-20171114-story.html)
-2. [NPR](https://www.npr.org/sections/thetwo-way/2017/11/14/564117257/at-least-3-reported-dead-after-shooting-at-school-other-locations-in-California)
-2. [Cover Image](http://www.trbimg.com/img-5a0b4eca/turbine/la-me-ln-norcal-elementary-school-shooting-20171114)
 
 ### Related:
 

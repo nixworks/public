@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/21/gunmen-attack-a-european-union-military-training-operation-housed-in-a-converted-hotel-in-the-mali-capital-bamako-there-are-no-casualties.html)  [JSON](/news/2016/03/21/gunmen-attack-a-european-union-military-training-operation-housed-in-a-converted-hotel-in-the-mali-capital-bamako-there-are-no-casualties.json)  [XML](/news/2016/03/21/gunmen-attack-a-european-union-military-training-operation-housed-in-a-converted-hotel-in-the-mali-capital-bamako-there-are-no-casualties.xml)  
+
 ### [2016-03-21](/news/2016/03/21/index.md)
 
 # Gunmen attack a European Union military training operation housed in a converted hotel in the Mali capital, Bamako. There are no casualties among the mission personnel. One suspect is killed and two are arrested. No group has claimed responsibility. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-mali-attack-idUSKCN0WN234)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126771597&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L0EX)
