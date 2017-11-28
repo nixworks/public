@@ -12,8 +12,8 @@ Officials have warned him not to use the term &quot;Rohingya&quot; to describe M
 ### [The Pakistan Minister for Law Zahid Hamid resigns after days of protest over proposed changes to blasphemy laws. ](/news/2017/11/27/the-pakistan-minister-for-law-zahid-hamid-resigns-after-days-of-protest-over-proposed-changes-to-blasphemy-laws.md)
 _Context: 2017 Tehreek-e-Labaik protest, Pakistan, Zahid Hamid, blasphemy_
 
-### [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-at-the-age-of-69.md)
-_Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia, Jose Maria Romero de Tejada_
+### [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69.md)
+_Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia, Jose Maria Romero de Tejada, pneumonia_
 
 ---
 
