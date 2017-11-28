@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/28/index.md)
 
+### [North Korea fires another missile in a test, landing in the Sea of Japan. ](/news/2017/11/28/north-korea-fires-another-missile-in-a-test-landing-in-the-sea-of-japan.md)
+Pyongyang fired a ballistic missile higher than any other to date, the US defence chief says.
+
 ### [ A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-a.md)
 _Context: 2017 in spaceflight, Fregat, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Cosmodrome_
 
@@ -13,7 +16,7 @@ _Context: 2017 in spaceflight, Fregat, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Co
 ### [Prince Harry announces his engagement to American actress Meghan Markle. ](/news/2017/11/27/prince-harry-announces-his-engagement-to-american-actress-meghan-markle.md)
 Los Angeles-born actress Meghan Markle is a divorcee and three years older than Prince Harry, an ex-party boy who served in Afghanistan with the British army.
 
-### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium and is damaged by the consequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured.](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-consequent-fire-during-reco.md)
+### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium and is damaged by the subsequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured.](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-subsequent-fire-during-reco.md)
 _Context: Hainaut, Morlanwelz, Morlanwelz train collision and runaway, Strepy-Bracquegnies, level crossing_
 
 ### [A European Union appeal committee votes to reauthorise the use of glyphosate as an herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-an-herbicide-for-a-five-year-period.md)
