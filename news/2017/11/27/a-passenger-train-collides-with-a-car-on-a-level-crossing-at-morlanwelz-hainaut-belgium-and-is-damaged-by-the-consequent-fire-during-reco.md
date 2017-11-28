@@ -10,9 +10,7 @@ Formats: [HTML](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-leve
 
 ### Sources:
 
-1. [RTL - in French](http://m.rtl.be/info/974247)
-2. [VRT - in Dutch](https://www.vrt.be/vrtnws/nl/2017/11/28/dodelijk-treinongeval-in-morlanwelz--wat-is-er-gebeurd-/)
-2. [Cover Image](https://images.vrt.be/width1280/2017/11/28/c20f1bba-d458-11e7-8ba7-02b7b76bf47f.jpg)
+1. [The Brussels Times](http://www.brusselstimes.com/belgium/9665/train-accident-in-morlanwelz-two-deaths-seven-injured-two-seriously)
 
 ### Related:
 
