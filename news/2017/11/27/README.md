@@ -6,6 +6,9 @@ Formats: [HTML](2017/11/27/index.html)  [JSON](2017/11/27/index.json)  [XML](201
 ### [Prince Harry announces his engagement to American actress Meghan Markle. ](/news/2017/11/27/prince-harry-announces-his-engagement-to-american-actress-meghan-markle.md)
 Los Angeles-born actress Meghan Markle is a divorcee and three years older than Prince Harry, an ex-party boy who served in Afghanistan with the British army.
 
+### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium and is damaged by the consequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured.](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-consequent-fire-during-reco.md)
+_Context: Hainaut, Morlanwelz, Morlanwelz train collision and runaway, Strepy-Bracquegnies, level crossing_
+
 ### [A European Union appeal committee votes to reauthorise the use of glyphosate as an herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-an-herbicide-for-a-five-year-period.md)
 EU votes to reauthorise the pesticide, ending a bitterly fought battle that saw 1.3 million people sign a petition calling for a ban
 
