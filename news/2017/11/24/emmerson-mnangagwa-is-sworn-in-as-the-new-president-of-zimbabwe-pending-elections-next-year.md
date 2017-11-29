@@ -10,7 +10,9 @@ Formats: [HTML](/news/2017/11/24/emmerson-mnangagwa-is-sworn-in-as-the-new-presi
 
 ### Sources:
 
-1. [CNN](http://edition.cnn.com/2017/11/24/africa/mnangagwa-swearing-in-zimbabwe/index.html)
+1. [BBC](http://www.bbc.com/news/world-africa-42136262)
+2. [CNN](http://edition.cnn.com/2017/11/24/africa/mnangagwa-swearing-in-zimbabwe/index.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FD1A/production/_98949746_005322482-1.jpg)
 
 ### Related:
 
