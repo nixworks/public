@@ -6,14 +6,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Archaeologists from the University of Leicester announce the discovery of evidence that Julius Caesar's invasion of Britain started in Pegwell Bay, Kent. ](/news/2017/11/29/archaeologists-from-the-university-of-leicester-announce-the-discovery-of-evidence-that-julius-caesar-s-invasion-of-britain-started-in-pegwe.md)
 _Context: 2017 in archaeology, Julius Caesar, Kent, Pegwell Bay, University of Leicester, invasion of Britain_
 
+### [NBC News announces that it has terminated Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-inappropriate-sexual-be.md)
+The network announced it on the &quot;Today&quot; show on Wednesday.
+
 ### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
 Assisted dying will become a reality in Victoria from mid-2019, as opponents of euthanasia fail in a last-minute bid to stop the bill passing Parliament.
 
 ### [Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the international tribunal upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-tribunal-upheld-his-war-crime-convictio.md)
 At a tribunal considering appeals by six Croats convicted over actions in Bosnia, a former general drank from a vial after his sentence was upheld.
 
-### [NBC News announces that it has terminated Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-inappropriate-sexual-be.md)
-The network announced it on the &quot;Today&quot; show on Wednesday.
+### [President Donald Trump retweeted Wednesday morning three inflammatory videos from a British far-right account rife with anti-Muslim content. ](/news/2017/11/29/president-donald-trump-retweeted-wednesday-morning-three-inflammatory-videos-from-a-british-far-right-account-rife-with-anti-muslim-content.md)
+President Trump on Wednesday re-tweeted a series of alarming videos, one of which allegedly depicts a Muslim ‘migrant’ attacking a ‘Dutch boy.’ The videos were originally posted to social media by a far-right British leader. The panel discusses.
 
 ---
 
@@ -26,7 +29,7 @@ Pyongyang fired a ballistic missile higher than any other to date, the US defenc
 Uzbekistan-born Saipov, 29, accused of killing eight people by speeding a rental truck down a New York City bike path in October
 
 ### [The U.S. Senate Budget Committee votes to move the Trump administration's tax bill to the full U.S. Senate. ](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-the-trump-administration-s-tax-bill-to-the-full-u-s-senate.md)
-_Context: Tax Cuts and Jobs Act of 2017, Trump administration, U.S. Senate Budget Committee_
+_Context: Tax Cuts and Jobs Act of 2017, Trump Administration, U.S. Senate Budget Committee_
 
 ### [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md)
 _Context: 2017 in spaceflight, Fregat, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Cosmodrome_
