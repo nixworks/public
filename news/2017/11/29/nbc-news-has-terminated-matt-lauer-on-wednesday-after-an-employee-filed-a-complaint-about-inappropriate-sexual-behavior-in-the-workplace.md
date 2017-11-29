@@ -3,10 +3,16 @@ Formats: [HTML](/news/2017/11/29/nbc-news-has-terminated-matt-lauer-on-wednesday
 
 ### [2017-11-29](/news/2017/11/29/index.md)
 
-# NBC News has terminated Matt Lauer on Wednesday after an employee filed a complaint about "inappropriate sexual behavior in the workplace," the network announced. [http:--money.cnn.com-2017-11-29-media-matt-lauer-index.html (CNN)] [https:--www.nytimes.com-2017-11-29-business-media-nbc-matt-lauer.html (NYT)
+# NBC News has terminated Matt Lauer on Wednesday after an employee filed a complaint about "inappropriate sexual behavior in the workplace," the network announced. 
+
+The network announced it on the &quot;Today&quot; show on Wednesday.
 
 
+### Sources:
 
+1. [CNN](http://money.cnn.com/2017/11/29/media/matt-lauer/index.html)
+2. [NYT](https://www.nytimes.com/2017/11/29/business/media/nbc-matt-lauer.html)
+2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/171129070020-matt-lauer-fired-780x439.jpg)
 
 ### Related:
 
