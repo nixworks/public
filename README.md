@@ -31,7 +31,7 @@ _Context: Tax Cuts and Jobs Act of 2017, Trump administration, U.S. Senate Budge
 ### [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md)
 _Context: 2017 in spaceflight, Fregat, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Cosmodrome_
 
-### [YouTube removes thousands of child abuse videos related to ElsaGate. ](/news/2017/11/28/youtube-removes-thousands-of-child-abuse-videos-related-to-elsagate.md)
+### [YouTube removes thousands of child abuse videos related to Elsagate. ](/news/2017/11/28/youtube-removes-thousands-of-child-abuse-videos-related-to-elsagate.md)
 Under pressure from advertisers, YouTube removed more than 150,000 videos with images of children apparently being assaulted
 
 ---

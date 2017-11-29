@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/28/youtube-removes-thousands-of-child-abuse-videos
 
 ### [2017-11-28](/news/2017/11/28/index.md)
 
-# YouTube removes thousands of child abuse videos related to ElsaGate. 
+# YouTube removes thousands of child abuse videos related to Elsagate. 
 
 Under pressure from advertisers, YouTube removed more than 150,000 videos with images of children apparently being assaulted
 
