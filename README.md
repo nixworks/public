@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2017/11/29/index.md)
 
 ### [Archaeologists from the University of Leicester announce the discovery of evidence that Julius Caesar's invasion of Britain started in Pegwell Bay, Kent. ](/news/2017/11/29/archaeologists-from-the-university-of-leicester-announce-the-discovery-of-evidence-that-julius-caesar-s-invasion-of-britain-started-in-pegwe.md)
-_Context: Julius Caesar, Kent, Pegwell Bay, University of Leicester, invasion of Britain_
+_Context: 2017 in archaeology, Julius Caesar, Kent, Pegwell Bay, University of Leicester, invasion of Britain_
 
 ### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
 Assisted dying will become a reality in Victoria from mid-2019, as opponents of euthanasia fail in a last-minute bid to stop the bill passing Parliament.
