@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/11/28/index.md)
+## [News](/news/2017/11/29/index.md)
+
+### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
+Assisted dying will become a reality in Victoria from mid-2019, as opponents of euthanasia fail in a last-minute bid to stop the bill passing Parliament.
+
+---
+
+## [Yesterday](/news/2017/11/28/index.md)
 
 ### [North Korea fires another missile in a test, landing in the Sea of Japan. ](/news/2017/11/28/north-korea-fires-another-missile-in-a-test-landing-in-the-sea-of-japan.md)
 Pyongyang fired a ballistic missile higher than any other to date, the US defence chief says.
@@ -9,14 +16,17 @@ Pyongyang fired a ballistic missile higher than any other to date, the US defenc
 ### [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md)
 _Context: 2017 in spaceflight, Fregat, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Cosmodrome_
 
+### [The U.S. Senate Budget Committee votes to move the Trump administration's tax bill to the full U.S. Senate. ](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-the-trump-administration-s-tax-bill-to-the-full-u-s-senate.md)
+_Context: Tax Cuts and Jobs Act of 2017, Trump administration, U.S. Senate Budget Committee_
+
 ---
 
-## [Yesterday](/news/2017/11/27/index.md)
+## [Day Before Yesterday](/news/2017/11/27/index.md)
 
 ### [Prince Harry announces his engagement to American actress Meghan Markle. ](/news/2017/11/27/prince-harry-announces-his-engagement-to-american-actress-meghan-markle.md)
 Los Angeles-born actress Meghan Markle is a divorcee and three years older than Prince Harry, an ex-party boy who served in Afghanistan with the British army.
 
-### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium and is damaged by the subsequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured.](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-subsequent-fire-during-reco.md)
+### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium, and is damaged by the subsequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured. ](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-subsequent-fire-during-rec.md)
 _Context: Hainaut, Morlanwelz, Morlanwelz train collision and runaway, Strepy-Bracquegnies, level crossing_
 
 ### [A European Union appeal committee votes to reauthorise the use of glyphosate as an herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-an-herbicide-for-a-five-year-period.md)
@@ -36,29 +46,7 @@ _Context: 2017 Spanish constitutional crisis, Barcelona, Catalonia, Jose Maria R
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/26/index.md)
-
-### [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md)
-At least two people have been killed in the Sunday morning blast in Ningbo, local authorities say.
-
-### [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md)
-_Context: Mexico, Popocatpetl_
-
-### [Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists that were organized by the Tehreek-e-Labaik. ](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-deployed-in-the-capital-islamabad-after-violence-breaks-out-during-protests-by-islamists-that.md)
-_Context: 2017 Tehreek-e-Labaik protest, Islamabad, Islamists, Tehreek-e-Labaik_
-
-### [Voters in Honduras go to the polls to elect a president for the country, with current President Juan Orlando Hernndez running for a second term, marking the first time a sitting president sought reelection. ](/news/2017/11/26/voters-in-honduras-go-to-the-polls-to-elect-a-president-for-the-country-with-current-president-juan-orlando-hernandez-running-for-a-second.md)
-Amid allegations of fraud, President Juan Orlando Hernandez seeks re-election despite constitutional ban.
-
-### [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md)
-More than 15 million voters choose a 275-member parliament and provincial assemblies in two phases.
-
-### [John Conyers stands down as the ranking Democrat on the United States House Committee on the Judiciary following a series of sexual harassment allegations. ](/news/2017/11/26/john-conyers-stands-down-as-the-ranking-democrat-on-the-united-states-house-committee-on-the-judiciary-following-a-series-of-sexual-harassme.md)
-Conyers says he &#039;cannot in good conscience&#039; allow the charges to be an undue distraction to his House colleagues while a congressional investigation continues
-
----
-
-## [Previous Day...](/news/2017/11/25/index.md)
+## [Previous Day...](/news/2017/11/26/index.md)
 
 ---
 

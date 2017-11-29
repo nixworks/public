@@ -3,6 +3,9 @@ Formats: [HTML](2017/11/26/index.html)  [JSON](2017/11/26/index.json)  [XML](201
 
 ## [2017-11-26](/news/2017/11/26/index.md)
 
+### [Russian airstrikes hit residential buildings in the ISIS-held village of Al-Shafah in Deir Ezzor province, killing at least 53 civilians, including 21 children. ](/news/2017/11/26/russian-airstrikes-hit-residential-buildings-in-the-isis-held-village-of-al-shafah-in-deir-ezzor-province-killing-at-least-53-civilians-in.md)
+At least 53 civilians, including 21 children, perished early Sunday morning when Russian airstrikes hit &quot;residential buildings&quot; in a village held by the Is
+
 ### [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md)
 At least two people have been killed in the Sunday morning blast in Ningbo, local authorities say.
 
