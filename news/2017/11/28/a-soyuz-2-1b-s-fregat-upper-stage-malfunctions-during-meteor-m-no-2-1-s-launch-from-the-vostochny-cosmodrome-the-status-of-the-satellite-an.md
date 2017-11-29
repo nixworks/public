@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-
 
 ### [2017-11-28](/news/2017/11/28/index.md)
 
-# A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. 
+# A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-
 
 1. [ A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The satellite and 18 other payloads' statuses is not known with certitude, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-satellite-and-18-other-pa.md) _2017-11-28 17:30:04 (First version)_
 2. [ A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-a.md) _2017-11-28 22:30:05 (Update)_
-2. [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md) _(Current version)_
+2. [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads are unknown, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md) _(Current version)_
 
 ### Related:
 
