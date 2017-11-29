@@ -1,0 +1,23 @@
+
+Formats: [HTML](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-criminal-tribunal-for-the-former-yugos.html)  [JSON](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-criminal-tribunal-for-the-former-yugos.json)  [XML](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-criminal-tribunal-for-the-former-yugos.xml)  
+
+### [2017-11-29](/news/2017/11/29/index.md)
+
+#  Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the International Criminal Tribunal for the former Yugoslavia upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. 
+
+At a tribunal considering appeals by six Croats convicted over actions in Bosnia, a former general drank from a vial after his sentence was upheld.
+
+
+### Sources:
+
+1. [The Guardian](https://www.theguardian.com/law/2017/nov/29/un-war-crimes-defendant-claims-to-drink-poison-at-trial-in-hague-slobodan-praljak)
+2. [The New York Times](https://www.nytimes.com/2017/11/29/world/europe/bosnian-war-croatia.html)
+2. [Cover Image](https://static01.nyt.com/images/2017/11/30/world/30Hague3/30Hague3-facebookJumbo.jpg)
+
+### Related:
+
+1. [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague, war crime_
+2. [ The International Criminal Tribunal for the Former Yugoslavia in The Hague, Netherlands indicts Slobodan Milosevic and four others for war crimes and crimes against humanity committed in Kosovo.](/news/1999/05/27/the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-netherlands-indicts-slobodan-miloa-evia-and-four-others-for-wa.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague, war crime_
+3. [Ratko Mladic, the former Chief of Staff of the Bosnian Serb army during the Bosnian War, is found guilty of genocide, war crimes, and crimes against humanity by the International Criminal Tribunal for the former Yugoslavia and is sentenced to life imprisonment. ](/news/2017/11/22/ratko-mladia-the-former-chief-of-staff-of-the-bosnian-serb-army-during-the-bosnian-war-is-found-guilty-of-genocide-war-crimes-and-crime.md) _Context: International Criminal Tribunal for the former Yugoslavia, war crime_
+4. [The war crime convictions of Momcilo Perisic are overturned by a war crimes tribunal in The Hague. The Serbian general had been convicted and sentenced in 2011 for atrocities perpetrated both during wars in Croatia and Bosnia. ](/news/2013/02/28/the-war-crime-convictions-of-momailo-peria-ia-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-serbian-general-had-been-convicted.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
+5. [The war crime convictions of Ante Gotovina and Mladen Markac are overturned by a war crimes tribunal in The Hague. The Croatian generals had been convicted and sentenced last year for atrocities against Serbs during the 1990's Yugoslav Wars. ](/news/2012/11/16/the-war-crime-convictions-of-ante-gotovina-and-mladen-markaa-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-croatian-generals-ha.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
