@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.html)  [JSON](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.json)  [XML](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.xml)  
+
 ### [2016-11-16](/news/2016/11/16/index.md)
 
 # As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/news/article-3941186/More-400-people-killed-SMOG-lethal-blanket-pollution-smothers-Iranian-capital.html)
 

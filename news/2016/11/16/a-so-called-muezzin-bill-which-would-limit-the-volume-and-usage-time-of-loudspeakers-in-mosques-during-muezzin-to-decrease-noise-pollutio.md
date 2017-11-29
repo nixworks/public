@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-volume-and-usage-time-of-loudspeakers-in-mosques-during-muezzin-to-decrease-noise-pollutio.html)  [JSON](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-volume-and-usage-time-of-loudspeakers-in-mosques-during-muezzin-to-decrease-noise-pollutio.json)  [XML](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-volume-and-usage-time-of-loudspeakers-in-mosques-during-muezzin-to-decrease-noise-pollutio.xml)  
+
 ### [2016-11-16](/news/2016/11/16/index.md)
 
 #  A so-called "Muezzin Bill" which would limit the volume and usage time of loudspeakers in mosques during muezzin to decrease noise pollution is put to parliament in Israel and opposed by both Arab and Jewish ultra-orthodox parties. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://m.jpost.com/Israel-News/Politics-And-Diplomacy/Muslim-MKs-call-for-civil-disobedience-if-muezzin-bill-becomes-law-472726#article=6020OUY2MTRBMjEwNUNEMDU4OTdERUY0RTA5ODlDODJERkM=)
 

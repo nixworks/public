@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/16/index.html)  [JSON](2016/11/16/index.json)  [XML](2016/11/16/index.xml)  
+
 ## [2016-11-16](/news/2016/11/16/index.md)
 
 ### [Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suicide-bomber-attack-near-the-afghan-defe.md)
