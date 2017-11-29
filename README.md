@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/11/29/index.md)
 
+### [Archaeologists from the University of Leicester announce the discovery of evidence that Julius Caesar's invasion of Britain started in Pegwell Bay, Kent. ](/news/2017/11/29/archaeologists-from-the-university-of-leicester-announce-the-discovery-of-evidence-that-julius-caesar-s-invasion-of-britain-started-in-pegwe.md)
+_Context: Julius Caesar, Kent, Pegwell Bay, University of Leicester, invasion of Britain_
+
 ### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
 Assisted dying will become a reality in Victoria from mid-2019, as opponents of euthanasia fail in a last-minute bid to stop the bill passing Parliament.
 
@@ -35,7 +38,7 @@ Los Angeles-born actress Meghan Markle is a divorcee and three years older than 
 ### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium, and is damaged by the subsequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured. ](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-subsequent-fire-during-rec.md)
 _Context: Hainaut, Morlanwelz, Morlanwelz train collision and runaway, Strepy-Bracquegnies, level crossing_
 
-### [A European Union appeal committee votes to reauthorise the use of glyphosate as an herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-an-herbicide-for-a-five-year-period.md)
+### [A European Union appeal committee votes to reauthorise the use of glyphosate as a herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-a-herbicide-for-a-five-year-period.md)
 EU votes to reauthorise the pesticide, ending a bitterly fought battle that saw 1.3 million people sign a petition calling for a ban
 
 ### [Pope Francis arrives in Yangon to begin a six-day trip to Myanmar and Bangladesh, where he is expected to meet with the Rohingya people. ](/news/2017/11/27/pope-francis-arrives-in-yangon-to-begin-a-six-day-trip-to-myanmar-and-bangladesh-where-he-is-expected-to-meet-with-the-rohingya-people.md)
