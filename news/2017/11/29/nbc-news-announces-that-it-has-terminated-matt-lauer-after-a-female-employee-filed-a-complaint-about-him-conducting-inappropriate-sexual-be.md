@@ -12,7 +12,8 @@ The network announced it on the &quot;Today&quot; show on Wednesday.
 
 1. [CNN](http://money.cnn.com/2017/11/29/media/matt-lauer/index.html)
 2. [The New York Times](https://www.nytimes.com/2017/11/29/business/media/nbc-matt-lauer.html)
-2. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/171129070020-matt-lauer-fired-780x439.jpg)
+3. [The Washington Post](https://www.washingtonpost.com/lifestyle/style/garrison-keillor-ex-host-of-a-prairie-home-companion-dropped-by-minnesota-public-radio-after-allegations-of-improper-behavior/2017/11/29/5fa1256c-d52c-11e7-b62d-d9345ced896d_story.html?tid=pm_pop&utm_term=.30e59d8ad4ac)
+3. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/171129070020-matt-lauer-fired-780x439.jpg)
 
 ### Changes:
 
