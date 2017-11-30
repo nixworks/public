@@ -15,7 +15,7 @@ Assisted dying will become a reality in Victoria from mid-2019, as opponents of 
 ### [Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the international tribunal upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-tribunal-upheld-his-war-crime-convictio.md)
 At a tribunal considering appeals by six Croats convicted over actions in Bosnia, a former general drank from a vial after his sentence was upheld.
 
-### [President Donald Trump retweeted Wednesday morning three inflammatory videos from a British far-right account rife with anti-Muslim content. ](/news/2017/11/29/president-donald-trump-retweeted-wednesday-morning-three-inflammatory-videos-from-a-british-far-right-account-rife-with-anti-muslim-content.md)
+### [U.S. President Donald Trump re-tweets three videos designed to spread hatred for Muslims that were originally tweeted by a member of British far-right political party Britain First, prompting international condemnation. One of the videos is revealed to be fake. ](/news/2017/11/29/u-s-president-donald-trump-re-tweets-three-videos-designed-to-spread-hatred-for-muslims-that-were-originally-tweeted-by-a-member-of-british.md)
 President Trump on Wednesday re-tweeted a series of alarming videos, one of which allegedly depicts a Muslim ‘migrant’ attacking a ‘Dutch boy.’ The videos were originally posted to social media by a far-right British leader. The panel discusses.
 
 ## [Previous Day...](/news/2017/11/28/index.md)
