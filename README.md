@@ -25,7 +25,7 @@ Assisted dying will become a reality in Victoria from mid-2019, as opponents of 
 ### [Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the international tribunal upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-tribunal-upheld-his-war-crime-convictio.md)
 At a tribunal considering appeals by six Croats convicted over actions in Bosnia, a former general drank from a vial after his sentence was upheld.
 
-### [U.S. President Donald Trump re-tweets three videos with that were originally tweeted by Jayda Fransen, the deputy leader of British far-right political party Britain First, prompting international condemnation and criticism. ](/news/2017/11/29/u-s-president-donald-trump-re-tweets-three-videos-with-that-were-originally-tweeted-by-jayda-fransen-the-deputy-leader-of-british-far-righ.md)
+### [U.S. President Donald Trump re-tweets three videos that were originally tweeted by Jayda Fransen, the deputy leader of British far-right political party Britain First, prompting international condemnation and criticism. ](/news/2017/11/29/u-s-president-donald-trump-re-tweets-three-videos-that-were-originally-tweeted-by-jayda-fransen-the-deputy-leader-of-british-far-right-pol.md)
 UK Prime Minister Theresa May condemns the tweets and says Britain First &quot;peddle lies&quot;.
 
 ---
