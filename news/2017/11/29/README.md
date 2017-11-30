@@ -9,6 +9,9 @@ _Context: 2017 in archaeology, Julius Caesar, Kent, Pegwell Bay, University of L
 ### [NBC News announces that it has terminated their employment of Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-their-employment-of-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-ina.md)
 The network announced it on the &quot;Today&quot; show on Wednesday.
 
+### [Cumulus Media files for Chapter 11 bankruptcy reorganization and enters into a restructuring agreement with some of its lenders to reduce more than $1 billion of the debt accrued by the Atlanta-based radio broadcasting group since its 2011 purchase of Citadel Broadcasting, towards the end of a 30-day period for the company to secure a financing plan after defaulting on a $23.6-million debt payment on November 1. In a statement, Cumulus representatives said that the company expects all operations, programming and sales for its 459 radio stations across the U.S. to continue as normal during the restructuring process. ](/news/2017/11/29/cumulus-media-files-for-chapter-11-bankruptcy-reorganization-and-enters-into-a-restructuring-agreement-with-some-of-its-lenders-to-reduce-mo.md)
+U.S. radio broadcaster Cumulus Media Inc (CMLS.PK) filed for Chapter 11 bankruptcy protection and said it has entered into a restructuring agreement with certain of its lenders to reduce more than $1 billion in debt.
+
 ### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
 Assisted dying will become a reality in Victoria from mid-2019, as opponents of euthanasia fail in a last-minute bid to stop the bill passing Parliament.
 
