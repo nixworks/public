@@ -15,7 +15,7 @@ UK Prime Minister Theresa May condemns the tweets and says Britain First &quot;p
 3. [MSNBC](http://www.msnbc.com/morning-joe/watch/president-trump-re-tweets-shocking-anti-muslim-videos-from-british-leader-1105877059637)
 4. [The Guardian](https://www.theguardian.com/us-news/2017/nov/29/trump-account-retweets-anti-muslim-videos-of-british-far-right-leader)
 5. [The New York Times](https://www.nytimes.com/2017/11/29/us/politics/trump-anti-muslim-videos-jayda-fransen.html)
-6. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/29/trump-retweets-inflammatory-and-unverified-anti-muslim-videos/?hpid=hp_rhp-top-table-main_tweet-830am%3Ahomepage%2Fstory)
+6. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/29/trump-retweets-inflammatory-and-unverified-anti-muslim-videos/)
 6. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05plbwz.jpg)
 
 ### Changes:
