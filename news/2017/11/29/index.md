@@ -6,7 +6,7 @@ Formats: [HTML](2017/11/29/index.html)  [JSON](2017/11/29/index.json)  [XML](201
 ### [Archaeologists from the University of Leicester announce the discovery of evidence that Julius Caesar's invasion of Britain started in Pegwell Bay, Kent. ](/news/2017/11/29/archaeologists-from-the-university-of-leicester-announce-the-discovery-of-evidence-that-julius-caesar-s-invasion-of-britain-started-in-pegwe.md)
 _Context: 2017 in archaeology, Julius Caesar, Kent, Pegwell Bay, University of Leicester, invasion of Britain_
 
-### [NBC News announces that it has terminated Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-inappropriate-sexual-be.md)
+### [NBC News announces that it has terminated their employment of Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-their-employment-of-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-ina.md)
 The network announced it on the &quot;Today&quot; show on Wednesday.
 
 ### [Victoria becomes the first state to pass euthanasia legislation. ](/news/2017/11/29/victoria-becomes-the-first-state-to-pass-euthanasia-legislation.md)
