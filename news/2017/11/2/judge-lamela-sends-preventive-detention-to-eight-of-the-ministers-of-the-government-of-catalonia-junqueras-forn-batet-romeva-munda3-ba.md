@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/2/judge-lamela-sends-preventive-detention-to-eight
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
-# Judge Lamela sends preventive detention to eight of the ministers of the Government of Catalonia (Junqueras, Forn, Batet, Romeva, Mundo, Bassa, Rull, Turull) due to an alleged crime of sedition and rebellion. The ninth Santi Vila, minister of Enterprise and Knwoledge, leaves the jail the next day after payment of a bail, being the only one who was given this opportunity. 
+# Judge Lamela sends preventive detention to eight of the ministers of the Government of Catalonia (Junqueras, Forn, Batet, Romeva, Mundo, Bassa, Rull, Turull) due to an alleged crime of sedition and rebellion. The ninth Santi Vila, minister of Enterprise and Knowledge, leaves the jail the next day after payment of a bail, being the only one who was given this opportunity. 
 
 Eight sacked ministers are remanded in custody over the push for independence, prompting protests.
 
