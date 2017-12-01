@@ -3,21 +3,21 @@ Formats: [HTML](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricult
 
 ### [2017-12-1](/news/2017/12/1/index.md)
 
-# Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 13 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. 
+# Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. 
 
-PESHAWAR: Taliban militants stormed a training institute in Pakistan’s northwestern city of Peshawar Friday, injuring at least seven people. Two to three gunmen entered the Agriculture Training Institute Friday morning, where they began firing indiscriminately, Peshawar police chief Muhammad Tahir Khan said. “A number of people have been injured and the military and other law enforcement agencies are carrying out an operation to clear the area,” he said.
+PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand grenades stormed the campus of the Agriculture Training Institute in Peshawar city on Friday morning, killing at least 12 people and injuring more than 35 others. Most of the victims were students. Provincial police chief Salahuddin Mehsud told reporters that gunmen entered the campus clad in “burqas” and wearing suicide vests. The army and police conducted a joint operation that lasted for about two hours and killed three attackers.
 
 
 ### Sources:
 
-1. [AFP via ''Arab News](http://www.arabnews.com/node/1201971)
-1. [Cover Image](http://www.arabnews.com/sites/default/files/2017/12/01/1044736-174869849.jpg)
+1. [Arab News](http://www.arabnews.com/node/1202191/world)
+1. [Cover Image](http://www.arabnews.com/sites/default/files/2017/12/01/1045221-100350685.jpg)
 
 ### Changes:
 
 1. [Four attackers storm the Agricultural University Peshawar and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least seven people are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-agricultural-university-peshawar-and-exchange-fire-with-police-and-army-personnel-the-four-attackers-are-killed-in.md) _2017-12-01 10:30:05 (First version)_
 2. [ In Pakistan, four attackers storm the Directorate of Agricultural Training Institute and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 13 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/in-pakistan-four-attackers-storm-the-directorate-of-agricultural-training-institute-and-exchange-fire-with-police-and-army-personnel-the.md) _2017-12-01 14:30:05 (Update)_
-2. [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 13 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md) _(Current version)_
+2. [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md) _(Current version)_
 
 ### Related:
 

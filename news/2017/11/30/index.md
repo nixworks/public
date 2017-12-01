@@ -18,7 +18,7 @@ The earthquake was centered in the Delaware Bay.
 ### [The Argentine Navy decides to cancel the search and rescue effort for the missing 44 crew members of "San Juan", 15 days after it went missing, in order to focus on the search for the submarine itself. ](/news/2017/11/30/the-argentine-navy-decides-to-cancel-the-search-and-rescue-effort-for-the-missing-44-crew-members-of-san-juan-15-days-after-it-went-missi.md)
 Argentina&#039;s navy says it has called off a rescue mission for the crew of missing submarine ARA San Juan that went missing two weeks ago a few hundred kilometres off the coast of Argentina. The search for the vessel itself will continue. Navy spokesman Enrique Balbi said that the rescue mission ...
 
-### [Jos Ins Garca Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon-in.md)
+### [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/josa-c-ina-c-s-garcaa-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon.md)
 Donald Trump seized on the case during the campaign as proof that the U.S. needs his proposed border wall.
 
 ## [Previous Day...](/news/2017/11/29/index.md)
