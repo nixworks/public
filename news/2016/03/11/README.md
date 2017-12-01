@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/11/index.html)  [JSON](2016/03/11/index.json)  [XML](2016/03/11/index.xml)  
+
 ## [2016-03-11](/news/2016/03/11/index.md)
 
 ### [The Algerian Army kills three suspected Islamist militants near the eastern city of El Oued and seizes a large quantity of weapons, including six anti-aircraft missiles. ](/news/2016/03/11/the-algerian-army-kills-three-suspected-islamist-militants-near-the-eastern-city-of-el-oued-and-seizes-a-large-quantity-of-weapons-includin.md)
@@ -22,13 +25,13 @@ _Context: 2011 Tohoku earthquake and tsunami, Emperor, Fukushima Daiichi nuclear
 _Context: 2016 SGBPo Paulo flood and mudslide, Brazil, SGBPo Paulo_
 
 ### [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md)
-_Context: Kim Jong-un, North Korea, its nuclear weapons program, leader_
+_Context: Kim Jong-un, North Korea, North Korea and weapons of mass destruction, leader_
 
 ### [A new United Nations report on South Sudan describes one of the most horrendous human rights situations in the world, in particular by Government forces, including use of rape as a widespread weapon of war and recommends the U.N. Security Council consider imposing a comprehensive arms embargo on South Sudan and referring the matter to the International Criminal Court. ](/news/2016/03/11/a-new-united-nations-report-on-south-sudan-describes-one-of-the-most-horrendous-human-rights-situations-in-the-world-in-particular-by-gover.md)
 The report alleges that government forces are permitted to rape women in lieu of wages.
 
 ### [The Arab League declares the Lebanon-based Shiite group Hezbollah a terrorist organization. ](/news/2016/03/11/the-arab-league-declares-the-lebanon-based-shiite-group-hezbollah-a-terrorist-organization.md)
-_Context: Arab League, Hezbollah, Lebanese_
+_Context: Arab League, Hezbollah, Lebanon_
 
 ### [The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. ](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.md)
 _Context: Arab League, Ibrahim al-Jaafari, Iraq, Saudi Arabia_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.html)  [JSON](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.json)  [XML](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.xml)  
+
 ### [2016-03-11](/news/2016/03/11/index.md)
 
 # The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-arabs-idUSKCN0WD1J7)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

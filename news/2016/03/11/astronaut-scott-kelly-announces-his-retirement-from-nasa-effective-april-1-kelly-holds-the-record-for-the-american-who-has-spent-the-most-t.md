@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/11/astronaut-scott-kelly-announces-his-retirement-from-nasa-effective-april-1-kelly-holds-the-record-for-the-american-who-has-spent-the-most-t.html)  [JSON](/news/2016/03/11/astronaut-scott-kelly-announces-his-retirement-from-nasa-effective-april-1-kelly-holds-the-record-for-the-american-who-has-spent-the-most-t.json)  [XML](/news/2016/03/11/astronaut-scott-kelly-announces-his-retirement-from-nasa-effective-april-1-kelly-holds-the-record-for-the-american-who-has-spent-the-most-t.xml)  
+
 ### [2016-03-11](/news/2016/03/11/index.md)
 
 # Astronaut Scott Kelly announces his retirement from NASA effective April 1. Kelly holds the record for the American who has spent the most time in space. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/press-release/astronaut-scott-kelly-to-retire-from-nasa-in-april)
 
