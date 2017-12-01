@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/1/index.md)
 
-### [Four attackers storm the Agricultural University Peshawar and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least seven people are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-agricultural-university-peshawar-and-exchange-fire-with-police-and-army-personnel-the-four-attackers-are-killed-in.md)
+### [ In Pakistan, four attackers storm the Directorate of Agricultural Training Institute and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 13 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/in-pakistan-four-attackers-storm-the-directorate-of-agricultural-training-institute-and-exchange-fire-with-police-and-army-personnel-the.md)
 PESHAWAR: Taliban militants stormed a training institute in Pakistan’s northwestern city of Peshawar Friday, injuring at least seven people. Two to three gunmen entered the Agriculture Training Institute Friday morning, where they began firing indiscriminately, Peshawar police chief Muhammad Tahir...
 
 ### [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md)
@@ -15,6 +15,9 @@ Jay Weatherill marks the official launch as Elon Musk delivers on his promise to
 ---
 
 ## [Yesterday](/news/2017/11/30/index.md)
+
+### [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md)
+The hip-hop mogul and Def Jam founder has said ‘I don’t want to be a distraction’ after he was accused by screenwriter Jenny Lumet of sexual intimidation
 
 ### [The Bank of Korea raises interest rates for the first time in more than six years by lifting borrowing costs to 1.50 percent from 1.25, citing economic recovery. ](/news/2017/11/30/the-bank-of-korea-raises-interest-rates-for-the-first-time-in-more-than-six-years-by-lifting-borrowing-costs-to-1-50-percent-from-1-25-citi.md)
 _Context: Bank of Korea, Economy of South Korea, economic recovery_
