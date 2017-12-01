@@ -7,7 +7,7 @@ Formats: [HTML](2017/11/21/index.html)  [JSON](2017/11/21/index.json)  [XML](201
 Boko Haram thought to be behind devastating attack in Adamawa state in north-east of country
 
 ### [Mount Agung in Bali erupts for the first time in 50 years, leading to thousands of people fleeing their homes. ](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-in-50-years-leading-to-thousands-of-people-fleeing-their-homes.md)
-_Context: 2017 Mount Agung eruption, Mount Agung_
+_Context: 2017 eruption of Mount Agung, Mount Agung_
 
 ### [The U.S. Treasury imposes new sanctions on several North Korean shipping companies and vessels, along with four Chinese companies which have engaged in trading activities with North Korea. ](/news/2017/11/21/the-u-s-treasury-imposes-new-sanctions-on-several-north-korean-shipping-companies-and-vessels-along-with-four-chinese-companies-which-have.md)
 _Context: 2017 North Korea crisis, Chinese companies, North Korean shipping companies, U.S. Treasury, new sanctions, vessels_
