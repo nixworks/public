@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.html)  [JSON](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.json)  [XML](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.xml)  
+
 ### [2017-10-22](/news/2017/10/22/index.md)
 
 # A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. 

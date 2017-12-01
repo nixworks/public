@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.html)  [JSON](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.json)  [XML](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.xml)  
+
 ### [2017-10-22](/news/2017/10/22/index.md)
 
 # Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. 

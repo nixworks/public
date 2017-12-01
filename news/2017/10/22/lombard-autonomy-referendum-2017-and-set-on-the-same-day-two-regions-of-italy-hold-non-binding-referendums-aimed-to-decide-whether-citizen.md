@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/22/lombard-autonomy-referendum-2017-and-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizen.html)  [JSON](/news/2017/10/22/lombard-autonomy-referendum-2017-and-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizen.json)  [XML](/news/2017/10/22/lombard-autonomy-referendum-2017-and-set-on-the-same-day-two-regions-of-italy-hold-non-binding-referendums-aimed-to-decide-whether-citizen.xml)  
+
 ### [2017-10-22](/news/2017/10/22/index.md)
 
 # Lombard autonomy referendum, 2017 and Set on the same day, two regions of Italy hold non-binding referendums aimed to decide whether citizens want greater autonomy or not. 

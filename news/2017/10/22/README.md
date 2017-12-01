@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/22/index.html)  [JSON](2017/10/22/index.json)  [XML](2017/10/22/index.xml)  
+
 ## [2017-10-22](/news/2017/10/22/index.md)
 
 ### [A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. ](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.md)
@@ -6,7 +9,7 @@ A suicide bomber killed 13 other people in the northeast Nigerian city of Maidug
 ### [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md)
 The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.
 
-### [Shinzo Abe is reelected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-reelected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajorit.md)
+### [Shinzo Abe is re-elected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. ](/news/2017/10/22/shinza-abe-is-re-elected-prime-minister-as-his-liberal-democratic-party-led-coalition-wins-312-seats-and-retains-its-two-thirds-supermajori.md)
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.
 
 ### [Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md)

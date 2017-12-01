@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.html)  [JSON](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.json)  [XML](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.xml)  
+
 ### [2017-10-22](/news/2017/10/22/index.md)
 
 # A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". 
