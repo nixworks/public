@@ -12,5 +12,8 @@ The &quot;exceptional&quot; move comes as a blockade prevents imports vital for 
 ### [A minor earthquake centered 7 mi northeast of Dover, Delaware, is felt throughout the Mid-Atlantic United States. ](/news/2017/11/30/a-minor-earthquake-centered-7-mi-northeast-of-dover-delaware-is-felt-throughout-the-mid-atlantic-united-states.md)
 The earthquake was centered in the Delaware Bay.
 
+### [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco and an illegal immigrant, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/jose-ines-garcia-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-and-an-illegal-immigrant-is-acquitted-of-murder-charges-and-found-gu.md)
+Donald Trump seized on the case during the campaign as proof that the U.S. needs his proposed border wall.
+
 ## [Previous Day...](/news/2017/11/29/index.md)
 
