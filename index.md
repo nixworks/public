@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
+### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
+_Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Francis, Rohingya refugees, Rohingya refugees in Bangladesh_
+
 ---
 
 ## [Yesterday](/news/2017/12/1/index.md)
@@ -31,6 +34,9 @@ Jay Weatherill marks the official launch as Elon Musk delivers on his promise to
 ---
 
 ## [Day Before Yesterday](/news/2017/11/30/index.md)
+
+### [A Somali committee determined that the death toll of the twin boming in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-boming-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-512.md)
+More than 500 people were killed in twin bomb blasts in Mogadishu in October, a Somali committee looking into the attack said on Thursday, raising the death toll from at least 358.
 
 ### [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md)
 The hip-hop mogul and Def Jam founder has said ‘I don’t want to be a distraction’ after he was accused by screenwriter Jenny Lumet of sexual intimidation
