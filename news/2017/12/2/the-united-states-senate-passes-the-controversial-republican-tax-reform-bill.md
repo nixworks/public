@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/2/the-united-states-senate-passes-the-controversia
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
-# The United States Senate passes the controversial republican tax-reform bill. 
+# The United States Senate passes the controversial Republican tax-reform bill. 
 
 
 

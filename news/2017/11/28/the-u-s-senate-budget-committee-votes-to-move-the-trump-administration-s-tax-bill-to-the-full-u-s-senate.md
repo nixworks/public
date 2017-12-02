@@ -15,7 +15,7 @@ Formats: [HTML](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-t
 
 ### Related:
 
-1. [The United States Senate passes the controversial republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-controversial-republican-tax-reform-bill.md) _Context: tax-reform bill_
+1. [The United States Senate passes the controversial Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-controversial-republican-tax-reform-bill.md) _Context: tax-reform bill_
 2. [U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _Context: Trump administration_
 3. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _Context: Trump administration_
 4. [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md) _Context: Trump administration_
