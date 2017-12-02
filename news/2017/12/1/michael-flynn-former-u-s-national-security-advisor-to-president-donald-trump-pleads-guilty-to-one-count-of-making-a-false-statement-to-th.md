@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/1/michael-flynn-former-u-s-national-security-advis
 
 ### [2017-12-1](/news/2017/12/1/index.md)
 
-# Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It was also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. 
+# Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. 
 
 The guilty plea by President Trump’s former national security adviser brings the special counsel investigation of Russian interference in the 2016 election into Mr. Trump’s inner circle.
 
