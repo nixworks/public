@@ -6,9 +6,6 @@ Formats: [HTML](2017/12/2/index.html)  [JSON](2017/12/2/index.json)  [XML](2017/
 ### [Israel launched surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launched-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
-### [Husbands who attempt "instant divorce" could be sentenced to three years in prison under draft legislation being considered in India. ](/news/2017/12/2/husbands-who-attempt-instant-divorce-could-be-sentenced-to-three-years-in-prison-under-draft-legislation-being-considered-in-india.md)
-The Indian government is proposing a three-year jail sentence for men who use &quot;triple talaq&quot;.
-
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
