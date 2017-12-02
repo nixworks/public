@@ -15,7 +15,7 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
 _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Francis, Rohingya refugees, Rohingya refugees in Bangladesh_
 
-### [The former president of Yemen has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fighting-for-yea.md)
+### [The former president of Yemen Ali Abdullah Saleh has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-be.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
 ### [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md)
