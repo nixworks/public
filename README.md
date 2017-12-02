@@ -15,7 +15,7 @@ _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Franci
 ### [The former president of Yemen has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fighting-for-yea.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
-### [The United States Senate passes the controversial Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-controversial-republican-tax-reform-bill.md)
+### [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md)
 _Context: United States Senate, tax-reform bill_
 
 ---
