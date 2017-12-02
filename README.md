@@ -9,6 +9,9 @@ Syria says Israel attacked an army position outside Damascus and two missiles we
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
+### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md)
+Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved beyond Lakshadweep, the weather department said bringing huge relief to the people of the rain-battered states. However, many fishermen are still missing and warships have been deployed to comb the southeastern coast for f...
+
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
 _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Francis, Rohingya refugees, Rohingya refugees in Bangladesh_
 
@@ -17,6 +20,9 @@ Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lif
 
 ### [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md)
 _Context: United States Senate, tax-reform bill_
+
+### [Voyager 1 launches secondary thrusters. ](/news/2017/12/2/voyager-1-launches-secondary-thrusters.md)
+This week, the scientists and engineers on the Voyager team did something very special.
 
 ---
 
