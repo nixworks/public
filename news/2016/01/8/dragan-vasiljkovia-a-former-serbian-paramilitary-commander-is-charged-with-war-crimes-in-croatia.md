@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/8/dragan-vasiljkovia-a-former-serbian-paramilitary-commander-is-charged-with-war-crimes-in-croatia.html)  [JSON](/news/2016/01/8/dragan-vasiljkovia-a-former-serbian-paramilitary-commander-is-charged-with-war-crimes-in-croatia.json)  [XML](/news/2016/01/8/dragan-vasiljkovia-a-former-serbian-paramilitary-commander-is-charged-with-war-crimes-in-croatia.xml)  
+
 ### [2016-01-8](/news/2016/01/8/index.md)
 
 # Dragan Vasiljkovic, a former Serbian paramilitary commander, is charged with war crimes in Croatia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-09/dragan-vasiljkovic-indicted-for-war-crimes-in-croatia/7078150)
 1. [Cover Image](http://www.abc.net.au/news/image/388146-1x1-700x700.jpg)

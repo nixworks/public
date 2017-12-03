@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-amateur-football-players-and-fans-plunges-into-a-river-in-veracruz-eastern-mexico.html)  [JSON](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-amateur-football-players-and-fans-plunges-into-a-river-in-veracruz-eastern-mexico.json)  [XML](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-amateur-football-players-and-fans-plunges-into-a-river-in-veracruz-eastern-mexico.xml)  
+
 ### [2016-01-10](/news/2016/01/10/index.md)
 
 # Twenty people are killed after a bus carrying amateur football players and fans plunges into a river in Veracruz, eastern Mexico. 
@@ -5,7 +8,7 @@
 A bus carrying amateur football players and fans plunged into a river after careening off a bridge in eastern Mexico today, leaving at least 16 people dead, authorities said. Another 10 people were injured in the crash in the municipality of Atoyac
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/3481581456ae43f0b1a16b24fda90127/20-dead-southern-mexico-bus-crash)
 2. [Business Standard](http://www.business-standard.com/article/pti-stories/16-dead-in-football-team-s-bus-crash-in-mexico-116011100033_1.html)

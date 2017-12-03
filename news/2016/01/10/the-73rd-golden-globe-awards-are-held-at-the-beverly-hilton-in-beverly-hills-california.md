@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/10/the-73rd-golden-globe-awards-are-held-at-the-beverly-hilton-in-beverly-hills-california.html)  [JSON](/news/2016/01/10/the-73rd-golden-globe-awards-are-held-at-the-beverly-hilton-in-beverly-hills-california.json)  [XML](/news/2016/01/10/the-73rd-golden-globe-awards-are-held-at-the-beverly-hilton-in-beverly-hills-california.xml)  
+
 ### [2016-01-10](/news/2016/01/10/index.md)
 
 # The 73rd Golden Globe Awards are held at the Beverly Hilton in Beverly Hills, California. 
@@ -5,7 +8,7 @@
 The big winners for the 73rd Golden Globes were &quot;The Revenant,&quot; &quot;Mr. Robot&quot; and a myriad of underdogs. If you&apos;re googling &quot;Mozart in the Jungle&quot; don&apos;t worry, we&apos;ve got you covered. Here are all the wins, losses, memorable moments and predictions that didn&apos;t come true.Complete list of winnersPHOTOS:...
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/f42e8000148743ec96945f790865ec3c/golden-globes-should-provide-traction-oscar-race)
 2. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-updates-htmlstory.html)

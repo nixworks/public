@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/8/index.html)  [JSON](2016/01/8/index.json)  [XML](2016/01/8/index.xml)  
+
 ## [2016-01-8](/news/2016/01/8/index.md)
 
 ### [Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of-hurghada.md)

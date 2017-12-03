@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.html)  [JSON](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.json)  [XML](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.xml)  
+
 ### [2016-01-9](/news/2016/01/9/index.md)
 
 # Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. 
@@ -5,9 +8,9 @@
 Arthur Simpson-Kent, who fled following the death of EastEnders actor and her two children, arrested by police
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/jan/09/arthur-simpson-kent-arrested-murder-sian-blake)
+1. [The Guardian](https://www.theguardian.com/world/2016/jan/09/arthur-simpson-kent-arrested-murder-sian-blake)
 1. [Cover Image](https://i.guim.co.uk/img/media/44446916a23ddba7827b8e933e6f1ee2ce352fcd/0_0_3020_1814/master/3020.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=aac793e2a9fe8f3caa714f00ad339ba6)
 
 ### Related:

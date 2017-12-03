@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/10/british-musician-and-actor-david-bowie-dies-from-cancer-aged-69.html)  [JSON](/news/2016/01/10/british-musician-and-actor-david-bowie-dies-from-cancer-aged-69.json)  [XML](/news/2016/01/10/british-musician-and-actor-david-bowie-dies-from-cancer-aged-69.xml)  
+
 ### [2016-01-10](/news/2016/01/10/index.md)
 
 # British musician and actor David Bowie dies from cancer, aged 69. 
@@ -5,7 +8,7 @@
 Tributes are paid to David Bowie, one of the most influential musicians of his era, who has died of cancer at the age of 69.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-35278872#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15154/production/_87765368_87765367.jpg)

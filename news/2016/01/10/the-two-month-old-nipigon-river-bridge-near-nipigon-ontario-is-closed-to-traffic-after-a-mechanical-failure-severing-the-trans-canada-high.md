@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/10/the-two-month-old-nipigon-river-bridge-near-nipigon-ontario-is-closed-to-traffic-after-a-mechanical-failure-severing-the-trans-canada-high.html)  [JSON](/news/2016/01/10/the-two-month-old-nipigon-river-bridge-near-nipigon-ontario-is-closed-to-traffic-after-a-mechanical-failure-severing-the-trans-canada-high.json)  [XML](/news/2016/01/10/the-two-month-old-nipigon-river-bridge-near-nipigon-ontario-is-closed-to-traffic-after-a-mechanical-failure-severing-the-trans-canada-high.xml)  
+
 ### [2016-01-10](/news/2016/01/10/index.md)
 
 # The two-month-old Nipigon River Bridge near Nipigon, Ontario is closed to traffic after a mechanical failure, severing the Trans-Canada Highway and forcing a detour into the United States. 
@@ -5,7 +8,7 @@
 A newly constructed bridge in northern Ontario has heaved apart, indefinitely closing the Trans-Canada highway &mdash; the only road connecting Eastern and Western Canada. At least one town has declared a state of emergency. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/thunder-bay/nipigon-river-bridge-closed-transcanada-1.3397831)
 2. [National Post](http://news.nationalpost.com/news/canada/bridge-closure-blocks-trans-canada-highway-main-way-to-cross-canada-by-car-now-through-u-s)
@@ -15,6 +18,6 @@ A newly constructed bridge in northern Ontario has heaved apart, indefinitely cl
 
 1. [ Two Tupolev Tu-95 bombers are intercepted by two Canadian CF-18's near Canada's airspace hours before United States President Barack Obama arrives in Ottawa, Ontario.](/news/2009/02/19/two-tupolev-tu-95-bombers-are-intercepted-by-two-canadian-cf-18-s-near-canada-s-airspace-hours-before-united-states-president-barack-obama.md) _Context: Ontario, United States_
 2. [ In a bid to stay in step with its largest trading partner, the United States, Ontario announces it will become the first Canadian province to extend daylight saving time. ](/news/2005/10/20/in-a-bid-to-stay-in-step-with-its-largest-trading-partner-the-united-states-ontario-announces-it-will-become-the-first-canadian-province.md) _Context: Ontario, United States_
-3. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-4. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
+3. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: United States_
+4. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: United States_
+5. [The United States contemplates reimposing sanctions against Myanmar over alleged abuses against the Rohingya people. ](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.md) _Context: United States_

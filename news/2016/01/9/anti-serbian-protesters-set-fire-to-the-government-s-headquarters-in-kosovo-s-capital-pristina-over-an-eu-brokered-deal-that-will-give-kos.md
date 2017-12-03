@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.html)  [JSON](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.json)  [XML](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.xml)  
+
 ### [2016-01-9](/news/2016/01/9/index.md)
 
 # Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/328377-kosovo-protests-fire-clashes/)
 

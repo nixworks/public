@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.html)  [JSON](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.json)  [XML](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.xml)  
+
 ### [2016-01-8](/news/2016/01/8/index.md)
 
 # The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. 
@@ -5,10 +8,15 @@
 The head of Cologne’s police force has been suspended from his post as anger continues to mount over the handling of mass sexual assaults in the city on New Year’s Eve. Wolfgang Albers, 60, was ordered to temporarily step down on Friday by Ralf Jäger, the interior minister for North Rhine-Westphalia (NRW).
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/cologne-sexual-assaults-police-chief-wolfgang-albers-sacked-as-anger-mounts-over-new-years-eve-chaos-a6802736.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/cologne-sexual-assaults-police-chief-wolfgang-albers-sacked-as-anger-mounts-over-new-years-eve-chaos-a6802736.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/08/16/Wolfgang-Albers.jpg)
+
+### Changes:
+
+1. [New Year's Eve sexual assaults in Germany: The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/new-year-s-eve-sexual-assaults-in-germany-the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-critici.md) _2017-08-27 03:44:37 (First version)_
+1. [The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The head of Cologne’s police force has been suspended from his post as anger c
 3. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Cologne_
 4. [Thousands of German riot police are deployed to control protesters opposing the Alternative for Germany at the party's conference in Cologne. ](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to-control-protesters-opposing-the-alternative-for-germany-at-the-party-s-conference-in-cologne.md) _Context: Cologne_
 5. [The German cities of Augsburg and Cologne are testing a scheme of traffic lights embedded in the ground to reduce cell phone-texting pedestrian accidents with vehicles that happen when so-called "smombies" step out into the street against the signal. ](/news/2016/04/27/the-german-cities-of-augsburg-and-cologne-are-testing-a-scheme-of-traffic-lights-embedded-in-the-ground-to-reduce-cell-phone-texting-pedestr.md) _Context: Cologne_
-
-### Changes:
-
-1. [New Year's Eve sexual assaults in Germany: The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/new-year-s-eve-sexual-assaults-in-germany-the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-critici.md) _2017-08-27 03:44:37 (First version)_
-1. [The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. ](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-albers-is-relieved-of-his-duties-following-criticism-of-his-handling-of-violent-clashes-and-s.md) _(Current version)_

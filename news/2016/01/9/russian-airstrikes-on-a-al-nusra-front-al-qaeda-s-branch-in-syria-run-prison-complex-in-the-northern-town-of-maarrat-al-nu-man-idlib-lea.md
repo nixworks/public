@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.html)  [JSON](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.json)  [XML](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.xml)  
+
 ### [2016-01-9](/news/2016/01/9/index.md)
 
 # Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. 
@@ -5,7 +8,7 @@
 Most of those killed were rebels imprisoned by Al Nusra, while other victims included prison guards and Al Nusra fighters. Among the dead were five civilians, including a child.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3391919/Nearly-60-dead-Russia-raids-Qaeda-run-Syria-jail-monitor.html)
 2. [The National](http://www.thenational.ae/world/middle-east/russian-air-strikes-on-jabhat-al-nusra-prison-kill-39-people)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/9/index.html)  [JSON](2016/01/9/index.json)  [XML](2016/01/9/index.xml)  
+
 ## [2016-01-9](/news/2016/01/9/index.md)
 
 ### [Two police officers are shot dead by gunmen near the Giza pyramids, on the outskirts of Cairo. ](/news/2016/01/9/two-police-officers-are-shot-dead-by-gunmen-near-the-giza-pyramids-on-the-outskirts-of-cairo.md)
