@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.html)  [JSON](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.json)  [XML](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # Wikipedia celebrates its 15th anniversary. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Wikipedia](https://15.wikipedia.org/history.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/23/blue-origin-s-rocket-new-shepard-has-been-reflown-in-texas.html)  [JSON](/news/2016/01/23/blue-origin-s-rocket-new-shepard-has-been-reflown-in-texas.json)  [XML](/news/2016/01/23/blue-origin-s-rocket-new-shepard-has-been-reflown-in-texas.xml)  
+
 ### [2016-01-23](/news/2016/01/23/index.md)
 
 #  Blue Origin's rocket New Shepard has been reflown in Texas. 
@@ -5,7 +8,7 @@
 US entrepreneur Jeff Bezos reflies the New Shepard rocket and capsule system he launched and recovered last November.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35391326)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F966/production/_87864836_screenshot2016-01-23at10.31.37.png)

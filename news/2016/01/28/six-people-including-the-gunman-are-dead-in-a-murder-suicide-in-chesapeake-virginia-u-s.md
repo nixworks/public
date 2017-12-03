@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/28/six-people-including-the-gunman-are-dead-in-a-murder-suicide-in-chesapeake-virginia-u-s.html)  [JSON](/news/2016/01/28/six-people-including-the-gunman-are-dead-in-a-murder-suicide-in-chesapeake-virginia-u-s.json)  [XML](/news/2016/01/28/six-people-including-the-gunman-are-dead-in-a-murder-suicide-in-chesapeake-virginia-u-s.xml)  
+
 ### [2016-01-28](/news/2016/01/28/index.md)
 
 # Six people, including the gunman, are dead in a murder-suicide in Chesapeake, Virginia, U.S. 
@@ -5,9 +8,9 @@
 Police in Chesapeake, Virginia, about 200 miles south of Washington, found five bodies, including the suspected gunman, inside a home shortly after 2 a.m., Chesapeake police said in a statement. An investigation led police to a nearby residence where the armed man was barricaded inside, police said.
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! News](http://news.yahoo.com/six-dead-virginia-murder-suicide-police-standoff-165951358.html)
+1. [Yahoo! News](https://news.yahoo.com/six-dead-virginia-murder-suicide-police-standoff-165951358.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

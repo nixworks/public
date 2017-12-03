@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.html)  [JSON](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.json)  [XML](/news/2016/01/26/the-prime-minister-of-malaysia-najib-razak-is-cleared-of-corruption-by-the-attorney-general-of-malaysia-apandi-ali-after-returning-us-607-mi.xml)  
+
 ### [2016-01-26](/news/2016/01/26/index.md)
 
 # The Prime Minister of Malaysia Najib Razak is cleared of corruption by the Attorney-General of Malaysia Apandi Ali after returning US$607 million worth of donations to his personal account from the Saudi Royal Family. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/pm-najib-cleared-after/2458506.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)

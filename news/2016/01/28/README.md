@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/01/28/index.html)  [JSON](2016/01/28/index.json)  [XML](2016/01/28/index.xml)  
+
 ## [2016-01-28](/news/2016/01/28/index.md)
 
 ### [At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-the-islamic-state-of-iraq-and-the-lev.md)
-_Context: Aden, ISIL, Yemen, Yemeni conflict_
+_Context: Aden, ISIL, Yemen, Yemeni Civil War (2015-present)_
 
 ### [A boat carrying Iraqi Kurd migrants sinks off the Greek island of Samos in the Aegean Sea off Turkey's Anatolian coast, killing at least 24 people, including several children, with 11 others missing. ](/news/2016/01/28/a-boat-carrying-iraqi-kurd-migrants-sinks-off-the-greek-island-of-samos-in-the-aegean-sea-off-turkey-s-anatolian-coast-killing-at-least-24.md)
-At least 24 migrants - including 9 children - have died after their boat sank off a Greek island, coastguard officials and an aid group said.
+More than 3,700 migrants died while trying to enter Europe via the Mediterranean last year, and the latest accident was a reminder that the flow has not stopped.
 
 ### [The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. ](/news/2016/01/28/the-world-health-organization-forms-an-emergency-committee-to-tackle-the-spread-of-the-zika-virus-in-the-americas.md)
 The World Health Organization announced Thursday that it has convened an emergency committee to try to find ways to identify, treat and stop the transmission of Zika virus, which officials said is &quot;spreading explosively&quot; across the Americas.
@@ -16,7 +19,7 @@ _Context: China, Ma Ying-jeou, President of Taiwan, South China Sea, Taiping Isl
 _Context: Anders Ygeman, Dagens Industri, European migrant crisis, Interior Minister, Swedish, asylum applications, refugee_
 
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
-_Context: 2008 South Ossetia war, Georgian, International Criminal Court, Russo-Georgian War_
+_Context:  Georgian, 2008 South Ossetia war, ICC, Russo-Georgian War_
 
 ### [The trial of former President of the Ivory Coast Laurent Gbagbo for crimes against humanity begins at the International Criminal Court in The Hague. ](/news/2016/01/28/the-trial-of-former-president-of-the-ivory-coast-laurent-gbagbo-for-crimes-against-humanity-begins-at-the-international-criminal-court-in-th.md)
 Ivory Coast ex-President Laurent Gbagbo denies charges of crimes against humanity, as his landmark trial opens in The Hague.

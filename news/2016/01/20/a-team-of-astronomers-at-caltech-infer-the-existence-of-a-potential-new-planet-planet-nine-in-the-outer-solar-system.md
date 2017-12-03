@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-existence-of-a-potential-new-planet-planet-nine-in-the-outer-solar-system.html)  [JSON](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-existence-of-a-potential-new-planet-planet-nine-in-the-outer-solar-system.json)  [XML](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-existence-of-a-potential-new-planet-planet-nine-in-the-outer-solar-system.xml)  
+
 ### [2016-01-20](/news/2016/01/20/index.md)
 
 # A team of astronomers at Caltech infer the existence of a potential new planet (Planet Nine) in the outer Solar System 
@@ -5,7 +8,7 @@
 The massive planet could take over 10,000 years to orbit the sun.
 
 
-### Source:
+### Sources:
 
 1. [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/01/20/new-evidence-suggests-a-ninth-planet-lurking-at-the-edge-of-the-solar-system/)
 

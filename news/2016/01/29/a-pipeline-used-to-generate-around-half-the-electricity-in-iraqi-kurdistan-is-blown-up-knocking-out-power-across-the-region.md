@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.html)  [JSON](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.json)  [XML](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.xml)  
+
 ### [2016-01-29](/news/2016/01/29/index.md)
 
 # A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-iraq-electricity-kurdistan-blast-idUSKCN0V72CM?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-iraq-electricity-kurdistan-blast-idUSKCN0V72CM?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/iraqi-civil-war-2014-present-a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power.md) _2017-08-27 03:44:47 (First version)_
+1. [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md) _Context: Iraqi Civil War (2014-present), Kurdish_
 4. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Iraqi Civil War (2014-present), Kurdish_
 5. [Iraq's government gives Turkey 48 hours to withdraw its forces from northern Iraq or face "all available options", including recourse to the UN Security Council. ](/news/2015/12/6/iraq-s-government-gives-turkey-48-hours-to-withdraw-its-forces-from-northern-iraq-or-face-all-available-options-including-recourse-to-the.md) _Context: Iraqi Civil War (2014-present), Kurdish_
-
-### Changes:
-
-1. [Iraqi Civil War (2014-present): A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/iraqi-civil-war-2014-present-a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power.md) _2017-08-27 03:44:47 (First version)_
-1. [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md) _(Current version)_

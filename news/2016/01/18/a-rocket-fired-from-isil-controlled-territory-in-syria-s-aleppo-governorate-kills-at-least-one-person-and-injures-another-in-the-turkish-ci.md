@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.html)  [JSON](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.json)  [XML](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.xml)  
+
 ### [2016-01-18](/news/2016/01/18/index.md)
 
 # A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3404723/One-killed-shelling-near-Turkish-school-Syrian-border.html)
+
+### Changes:
+
+1. [Spillover of the Syrian Civil War: A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/spillover-of-the-syrian-civil-war-a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-an.md) _2017-08-27 03:44:43 (First version)_
+1. [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Rockets fired by ISIL from northern Syria hit a poor neighborhood and a mosque in the Turkish city of Kilis, killing one person and injuring 26 others. Turkish security forces responded by returning fire into Syria. ](/news/2016/04/24/rockets-fired-by-isil-from-northern-syria-hit-a-poor-neighborhood-and-a-mosque-in-the-turkish-city-of-kilis-killing-one-person-and-injuring.md) _Context: ISIL, Kilis, Syria, Turkey_
 4. [Mortar shells fired from Syria kill at least one person and injure another in the Turkish border town of Kilis. ](/news/2016/03/8/mortar-shells-fired-from-syria-kill-at-least-one-person-and-injure-another-in-the-turkish-border-town-of-kilis.md) _Context: Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
 5. [Turkey scrambles fighter jets and Turkish tanks open fire on ISIS positions along the Syrian border following an exchange of fire which left one Turkish soldier dead and two injured. The clashes are the first direct combat between the Turkish military and ISIS forces. There are multiple reports of Turkish ground forces crossing the official border into Syria. ](/news/2015/07/23/turkey-scrambles-fighter-jets-and-turkish-tanks-open-fire-on-isis-positions-along-the-syrian-border-following-an-exchange-of-fire-which-left.md) _Context: ISIL, Spillover of the Syrian Civil War, Syria, Turkey_
-
-### Changes:
-
-1. [Spillover of the Syrian Civil War: A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/spillover-of-the-syrian-civil-war-a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-an.md) _2017-08-27 03:44:43 (First version)_
-1. [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md) _(Current version)_

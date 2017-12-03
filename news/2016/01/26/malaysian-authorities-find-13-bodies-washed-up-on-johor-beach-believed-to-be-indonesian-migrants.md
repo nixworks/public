@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/26/malaysian-authorities-find-13-bodies-washed-up-on-johor-beach-believed-to-be-indonesian-migrants.html)  [JSON](/news/2016/01/26/malaysian-authorities-find-13-bodies-washed-up-on-johor-beach-believed-to-be-indonesian-migrants.json)  [XML](/news/2016/01/26/malaysian-authorities-find-13-bodies-washed-up-on-johor-beach-believed-to-be-indonesian-migrants.xml)  
+
 ### [2016-01-26](/news/2016/01/26/index.md)
 
 # Malaysian authorities find 13 bodies washed up on Johor beach believed to be Indonesian migrants. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/malaysian-police-discover/2458782.html?cid=twtcna)
 

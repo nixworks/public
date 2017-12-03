@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.html)  [JSON](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.json)  [XML](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.xml)  
+
 ### [2016-01-27](/news/2016/01/27/index.md)
 
 # Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. 
@@ -5,10 +8,15 @@
 One person has tested positive in Denmark for the mosquito-borne Zika virus, which has caused severe birth defects in Latin America, Danish media has reported. The new case comes after Italy, Spain, the UK and Switzerland registered several people infected with the disease.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/330262-zika-virus-strikes-europe/)
 1. [Cover Image](https://img.rt.com/files/2016.01/article/56a86499c46188242a8b4577.jpg)
+
+### Changes:
+
+1. [Zika virus outbreak: Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/zika-virus-outbreak-several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md) _2017-08-27 03:44:46 (First version)_
+1. [Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ One person has tested positive in Denmark for the mosquito-borne Zika virus, whi
 3. [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md) _Context: Italy, Spain, United Kingdom_
 4. [Contributions from Belgium, Canada, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, Norway, Spain, Sweden and Switzerland allow the World Bank to cancel $36 million in Haiti's remaining debt following January's devastating earthquake. ](/news/2010/05/28/contributions-from-belgium-canada-finland-france-germany-ireland-italy-japan-the-netherlands-norway-spain-sweden-and-switzerland.md) _Context: Italy, Spain, Switzerland_
 5. [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md) _Context: Italy, Spain, United Kingdom_
-
-### Changes:
-
-1. [Zika virus outbreak: Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/zika-virus-outbreak-several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md) _2017-08-27 03:44:46 (First version)_
-1. [Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md) _(Current version)_

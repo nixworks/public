@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/01/25/in-texas-a-grand-jury-has-cleared-planned-parenthood-of-any-wrongdoing-while-it-has-indicted-two-anti-abortionists-who-were-involved-in-mak.html)  [JSON](/news/2016/01/25/in-texas-a-grand-jury-has-cleared-planned-parenthood-of-any-wrongdoing-while-it-has-indicted-two-anti-abortionists-who-were-involved-in-mak.json)  [XML](/news/2016/01/25/in-texas-a-grand-jury-has-cleared-planned-parenthood-of-any-wrongdoing-while-it-has-indicted-two-anti-abortionists-who-were-involved-in-mak.xml)  
+
 ### [2016-01-25](/news/2016/01/25/index.md)
 
 # In Texas, a grand jury has cleared Planned Parenthood of any wrongdoing while it has indicted two anti-abortionists who were involved in making videos of the organization. 
 
+A grand jury cleared Planned Parenthood of allegations of misconduct, instead indicting its opponents on charges including tampering with a governmental record.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2016/01/26/us/2-abortion-foes-behind-planned-parenthood-videos-are-indicted.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2016/01/26/us/2-abortion-foes-behind-planned-parenthood-videos-are-indicted.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2016/01/26/us/26video/26video-facebookJumbo.jpg)
 
 ### Related:
 

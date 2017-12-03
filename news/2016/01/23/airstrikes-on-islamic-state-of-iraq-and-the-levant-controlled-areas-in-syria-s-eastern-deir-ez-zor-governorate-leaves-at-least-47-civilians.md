@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.html)  [JSON](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.json)  [XML](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.xml)  
+
 ### [2016-01-23](/news/2016/01/23/index.md)
 
 # Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/01/24/air-strikes-in-syria-leave-47-dead.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.html)  [JSON](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.json)  [XML](/news/2016/01/18/tata-steel-is-to-cut-1-050-jobs-in-the-united-kingdom-with-the-majority-going-in-south-wales-the-indian-multinational-steel-making-company.xml)  
+
 ### [2016-01-18](/news/2016/01/18/index.md)
 
 # Tata Steel is to cut 1,050 jobs in the United Kingdom, with the majority going in South Wales. The Indian multinational steel-making company announced there will be 750 job losses at its Port Talbot Steelworks in Port Talbot, Wales while another 300 jobs will go at its plants in Corby and Hartlepool in England. 
@@ -5,9 +8,9 @@
 Tata Steel Ltd. will cut another 1,050 jobs in the U.K. in the latest blow to the country’s rapidly shrinking industry.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-18/tata-steel-cuts-more-jobs-in-blow-to-u-k-s-shrinking-industry)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-01-18/tata-steel-cuts-more-jobs-in-blow-to-u-k-s-shrinking-industry)
 1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixaJ22ME1bXs/v3/1200x800.jpg)
 
 ### Related:
@@ -16,4 +19,4 @@ Tata Steel Ltd. will cut another 1,050 jobs in the U.K. in the latest blow to th
 2. [The United Kingdom posthumously pardons around 49,000 gay and bisexual men found guilty of decades-old sodomy laws in England and Wales. Those still living can apply for a statutory pardon. ](/news/2017/01/31/the-united-kingdom-posthumously-pardons-around-49-000-gay-and-bisexual-men-found-guilty-of-decades-old-sodomy-laws-in-england-and-wales-tho.md) _Context: England, United Kingdom, Wales_
 3. [Thirteen areas of south-west England and Wales have been warned of possible floods as the United Kingdom prepares for heavy rain. ](/news/2012/12/14/thirteen-areas-of-south-west-england-and-wales-have-been-warned-of-possible-floods-as-the-united-kingdom-prepares-for-heavy-rain.md) _Context: England, United Kingdom, Wales_
 4. [United Kingdom - Sarah's Law, a scheme which allows parents to check if someone with access to their children is a sex offender, will be extended to cover the whole of England and Wales by Spring 2011 after proving successful in four pilot areas. ](/news/2010/08/1/united-kingdom-sarah-s-law-a-scheme-which-allows-parents-to-check-if-someone-with-access-to-their-children-is-a-sex-offender-will-be-ext.md) _Context: England, United Kingdom, Wales_
-5. [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md) _Context: India, United Kingdom_
+5. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: England, Wales_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.html)  [JSON](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.json)  [XML](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # Twelve people are feared dead following a road accident in the Udhampur district of India's Jammu and Kashmir state. 
@@ -5,7 +8,7 @@
 Atleast 12 people are feared dead in a road accident in Udhampur district of Jammu region on Friday. &nbsp; The accident took place when a bus moving from Udhampur to Basant Nagar skidded off the
 
 
-### Source:
+### Sources:
 
 1. [Greater Kashmir](http://www.greaterkashmir.com/news/jammu/story/206980.html)
 1. [Cover Image](http://www.greaterkashmir.com/cms/gall_content/2016/1/2016_1$largeimg215_Jan_2016_111733370.jpg)

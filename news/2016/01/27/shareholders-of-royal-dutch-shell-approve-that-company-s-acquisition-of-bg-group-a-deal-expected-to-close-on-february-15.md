@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/27/shareholders-of-royal-dutch-shell-approve-that-company-s-acquisition-of-bg-group-a-deal-expected-to-close-on-february-15.html)  [JSON](/news/2016/01/27/shareholders-of-royal-dutch-shell-approve-that-company-s-acquisition-of-bg-group-a-deal-expected-to-close-on-february-15.json)  [XML](/news/2016/01/27/shareholders-of-royal-dutch-shell-approve-that-company-s-acquisition-of-bg-group-a-deal-expected-to-close-on-february-15.xml)  
+
 ### [2016-01-27](/news/2016/01/27/index.md)
 
 # Shareholders of Royal Dutch Shell approve that company's acquisition of BG Group, a deal expected to close on February 15. 
@@ -5,10 +8,10 @@
 Royal Dutch Shell (RDSa.L) shareholders approved its $50 billion takeover of BG Group BG.L on Wednesday, clearing the last main hurdle to creating the biggest liquefied natural gas (LNG) trader in the world.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-bg-group-m-a-shell-idUSKCN0V51I3)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160127&t=2&i=1112788934&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0Q0WK)
+1. [Reuters](https://www.reuters.com/article/us-bg-group-m-a-shell-idUSKCN0V51I3)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160127&t=2&i=1112788934&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0Q0WK)
 
 ### Related:
 

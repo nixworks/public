@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/the-u-s-state-of-michigan-asks-for-assistance-from-the-federal-government-to-assist-with-a-water-crisis-in-the-city-of-flint.html)  [JSON](/news/2016/01/15/the-u-s-state-of-michigan-asks-for-assistance-from-the-federal-government-to-assist-with-a-water-crisis-in-the-city-of-flint.json)  [XML](/news/2016/01/15/the-u-s-state-of-michigan-asks-for-assistance-from-the-federal-government-to-assist-with-a-water-crisis-in-the-city-of-flint.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # The U.S. state of Michigan asks for assistance from the federal government to assist with a water crisis in the city of Flint. 
@@ -5,10 +8,10 @@
 Michigan Governor Rick Snyder has asked President Barack Obama to declare both an emergency and an expedited major disaster in the county where the city of Flint has been dealing with the fallout from lead-contaminated drinking water.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-michigan-water-idUSKCN0UT1MG)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160115&t=2&i=1109815045&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0E0W7)
+1. [Reuters](https://www.reuters.com/article/us-michigan-water-idUSKCN0UT1MG)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160115&t=2&i=1109815045&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0E0W7)
 
 ### Related:
 

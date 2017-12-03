@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.html)  [JSON](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.json)  [XML](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.xml)  
+
 ### [2016-01-26](/news/2016/01/26/index.md)
 
 # French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. 
@@ -5,7 +8,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/french-schools-taxis-strike-36518454)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/21/index.html)  [JSON](2016/01/21/index.json)  [XML](2016/01/21/index.xml)  
+
 ## [2016-01-21](/news/2016/01/21/index.md)
 
 ### [Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. ](/news/2016/01/21/al-shabaab-militants-attack-the-lido-or-beach-area-in-mogadishu-at-least-20-people-are-reportedly-killed.md)
@@ -13,7 +16,7 @@ A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday,
 Two former Burundi presidents pleaded for the United Nations Security Council on Thursday to back the deployment of international troops to the African state gripped by political violence because it &quot;runs the risk of becoming another Rwanda&quot;
 
 ### [Dominic Ongwen, a former commander of the Lord's Resistance Army in Uganda, appears before the International Criminal Court in a hearing to determine whether a criminal trial should go ahead. ](/news/2016/01/21/dominic-ongwen-a-former-commander-of-the-lord-s-resistance-army-in-uganda-appears-before-the-international-criminal-court-in-a-hearing-to.md)
-_Context: Dominic Ongwen, International Criminal Court, Lord's Resistance Army, Uganda_
+_Context: Dominic Ongwen, ICC, Lord's Resistance Army, Uganda_
 
 ### [The State Council of Crimea issues an arrest warrant for the leader of the Mejlis of the Crimean Tatar People and former Soviet dissident Mustafa Dzhemilev. ](/news/2016/01/21/the-state-council-of-crimea-issues-an-arrest-warrant-for-the-leader-of-the-mejlis-of-the-crimean-tatar-people-and-former-soviet-dissident-mu.md)
 _Context: Mejlis of the Crimean Tatar People, Mustafa Dzhemilev, State Council of Crimea_

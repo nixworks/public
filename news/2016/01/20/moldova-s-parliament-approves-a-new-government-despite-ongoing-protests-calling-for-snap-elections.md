@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.html)  [JSON](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.json)  [XML](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.xml)  
+
 ### [2016-01-20](/news/2016/01/20/index.md)
 
 # Moldova's parliament approves a new government despite ongoing protests calling for snap elections. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/moldova-parliament-approves-government/27499491.html)
 

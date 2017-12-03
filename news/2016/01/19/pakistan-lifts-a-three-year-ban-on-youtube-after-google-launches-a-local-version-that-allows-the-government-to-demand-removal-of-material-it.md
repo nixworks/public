@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.html)  [JSON](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.json)  [XML](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.xml)  
+
 ### [2016-01-19](/news/2016/01/19/index.md)
 
 # Pakistan lifts a three-year ban on YouTube after Google launches a local version that allows the government to demand removal of material it considers to be offensive. Similar systems have existed in China for many years. 
@@ -5,7 +8,7 @@
 Pakistan said on Monday it had removed a three-year ban on YouTube after the Google-owned video-sharing website launched a local version that allows the government to demand removal of material it considers offensive. Pakistan banned access to YouTube in September 2012 after an anti-Islam film, &quot;
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Yahoo](http://finance.yahoo.com/news/pakistan-lifts-ban-youtube-launch-050557383.html)
 

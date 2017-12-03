@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/23/index.html)  [JSON](2016/01/23/index.json)  [XML](2016/01/23/index.xml)  
+
 ## [2016-01-23](/news/2016/01/23/index.md)
 
 ### [Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. ](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.md)
@@ -13,7 +16,7 @@ The storm effectively shut down New York City and D.C., while dumping as much as
 Around 200 refugees managed to break into the port of Calais in northern France on Saturday after a demonstration of support for migrants living in a slum nearby ended, enabling some of them to board the front deck of a British ferry, an official said.
 
 ### [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md)
-The 2016 presidential field could get a little more crowded.
+Michael R. Bloomberg, the billionaire former mayor of New York City, is once again weighing a third-party bid for the presidency, frustrated by what he sees as a race gone haywire, associates said.
 
 ### [Poland surveillance law plan angers protesters: Thousands of Poles take part in marches in Warsaw and other cities to protest about plans of the conservative government, which they say will curtail privacy and freedom. ](/news/2016/01/23/poland-surveillance-law-plan-angers-protesters-thousands-of-poles-take-part-in-marches-in-warsaw-and-other-cities-to-protest-about-plans-of.md)
 Thousands of Poles take part in marches in Warsaw and other cities to protest about plans of the conservative government, which they say will curtail privacy and freedom.

@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern-alaska-leaving-10-000-in-the-anchorage-area-without-power-and-forcing-the-evacuation-of-sev.html)  [JSON](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern-alaska-leaving-10-000-in-the-anchorage-area-without-power-and-forcing-the-evacuation-of-sev.json)  [XML](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern-alaska-leaving-10-000-in-the-anchorage-area-without-power-and-forcing-the-evacuation-of-sev.xml)  
+
 ### [2016-01-24](/news/2016/01/24/index.md)
 
 # A magnitude 7.1 earthquake strikes southwestern Alaska, leaving 10,000 in the Anchorage area without power and forcing the evacuation of several homes on the Kenai Peninsula. The National Weather Service reported that there was no tsunami following the earthquake. 
 
-A magnitude 7.1 quake knocked items off shelves and walls in Alaska early Sunday, jolting the nerves of residents in this earthquake-prone region. There were no reports of injuries, but four homes were lost to explosions or fire following the quake.
+Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/US/wireStory/federal-agency-magnitude-64-earthquake-hit-southern-alaska-36482900)
 2. [The Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-earthquake-hits-southern-alaska-20160124-story.html)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10004gqp#general_summary)
-3. [Cover Image](http://www.trbimg.com/img-56a4d305/turbine/la-na-nn-earthquake-hits-southern-alaska-20160124)
+3. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10004gqp#general_summary)
+3. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:
 

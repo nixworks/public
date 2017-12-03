@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.html)  [JSON](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.json)  [XML](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.xml)  
+
 ### [2016-01-29](/news/2016/01/29/index.md)
 
 # Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. 
@@ -5,7 +8,7 @@
 The early Earth was mixed with a baby planet called Theia following a head on collision 4.5 billion years ago, scientists have found
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/science/space/12129549/Earth-is-actually-two-planets-scientists-conclude.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02372/BMBA29_2372236k.jpg)

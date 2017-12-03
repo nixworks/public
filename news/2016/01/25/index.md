@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/25/index.html)  [JSON](2016/01/25/index.json)  [XML](2016/01/25/index.xml)  
+
 ## [2016-01-25](/news/2016/01/25/index.md)
 
 ### [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md)
@@ -28,10 +31,10 @@ The Zika virus is likely to spread across nearly all of the Americas, the World 
 Plan emerges to seal Greek border with Macedonia as EU leaders meet in Amsterdam for crisis talks to &#039;save&#039; Schengen area
 
 ### [The United States Supreme Court ruled in "Montgomery v. Louisiana" (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under "Miller v. Alabama" (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgomery-v-louisiana-2016-that-its-prohibition-of-mandatory-life-sentences-for-juveniles-con.md)
-_Context: Miller v. Alabama, Montgomery v. Louisiana, United States Supreme Court_
+The Supreme Court clarified a 2012 ruling and created the possibility of release for some older inmates serving life sentences for killings committed when they were young.
 
 ### [In Texas, a grand jury has cleared Planned Parenthood of any wrongdoing while it has indicted two anti-abortionists who were involved in making videos of the organization. ](/news/2016/01/25/in-texas-a-grand-jury-has-cleared-planned-parenthood-of-any-wrongdoing-while-it-has-indicted-two-anti-abortionists-who-were-involved-in-mak.md)
-_Context: Planned Parenthood, Texas, videos_
+A grand jury cleared Planned Parenthood of allegations of misconduct, instead indicting its opponents on charges including tampering with a governmental record.
 
 ### [Bob Brown, former Parliamentary Leader of the Australian Greens, is arrested during a protest in the Tasmanian village of Lapoinya over proposed clear-fell logging of a nearby forest. ](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.md)
 _Context: Australian Greens, Bob Brown, Lapoinya, Tasmania_

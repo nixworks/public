@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.html)  [JSON](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.json)  [XML](/news/2016/01/16/u-s-president-barack-obama-declares-the-city-of-flint-michigan-to-be-in-a-federal-public-health-state-of-emergency-due-to-an-ongoing-cris.xml)  
+
 ### [2016-01-16](/news/2016/01/16/index.md)
 
 # U.S. President Barack Obama declares the city of Flint, Michigan, to be in a federal public health state of emergency due to an ongoing crisis that involves lead contamination (and possibly Legionella which has caused 87 cases of Legionnaires' disease which has led to 10 deaths) in its local water supply. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Flint Journal'' on MLive](http://www.mlive.com/news/flint/index.ssf/2016/01/president_obama_signs_emergenc.html)
 1. [Cover Image](http://image.mlive.com/home/mlive-media/width620/img/grpress/news_impact/photo/19512545-standard.jpg)

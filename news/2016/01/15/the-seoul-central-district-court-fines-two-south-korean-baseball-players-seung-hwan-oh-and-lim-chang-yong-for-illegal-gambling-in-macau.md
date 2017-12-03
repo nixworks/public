@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/the-seoul-central-district-court-fines-two-south-korean-baseball-players-seung-hwan-oh-and-lim-chang-yong-for-illegal-gambling-in-macau.html)  [JSON](/news/2016/01/15/the-seoul-central-district-court-fines-two-south-korean-baseball-players-seung-hwan-oh-and-lim-chang-yong-for-illegal-gambling-in-macau.json)  [XML](/news/2016/01/15/the-seoul-central-district-court-fines-two-south-korean-baseball-players-seung-hwan-oh-and-lim-chang-yong-for-illegal-gambling-in-macau.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # The Seoul Central District Court fines two South Korean baseball players Seung-hwan Oh and Lim Chang-yong for illegal gambling in Macau. 
@@ -5,7 +8,7 @@
  Two South Korean baseball pitchers have been ordered to pay fines of 10 million won (US$8,300) each for illegally gambling abroad, court officials said Friday.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2016/01/15/0200000000AEN20160115003700315.html?input=www.tweeter.com)
 

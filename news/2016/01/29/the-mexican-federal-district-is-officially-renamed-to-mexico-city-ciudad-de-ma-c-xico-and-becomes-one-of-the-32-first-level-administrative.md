@@ -1,6 +1,9 @@
+
+Formats: [HTML](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.html)  [JSON](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.json)  [XML](/news/2016/01/29/the-mexican-federal-district-is-officially-renamed-to-mexico-city-ciudad-de-ma-c-xico-and-becomes-one-of-the-32-first-level-administrative.xml)  
+
 ### [2016-01-29](/news/2016/01/29/index.md)
 
-# The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. [http:--www.theguardian.com-world-2016-jan-29-mexico-city-name-change-federal-district-df ("The Guardian)"]
+# The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. [https:--www.theguardian.com-world-2016-jan-29-mexico-city-name-change-federal-district-df ("The Guardian)"]
 
 
 

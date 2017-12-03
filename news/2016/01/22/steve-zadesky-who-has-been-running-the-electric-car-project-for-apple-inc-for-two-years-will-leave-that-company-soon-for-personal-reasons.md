@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/22/steve-zadesky-who-has-been-running-the-electric-car-project-for-apple-inc-for-two-years-will-leave-that-company-soon-for-personal-reasons.html)  [JSON](/news/2016/01/22/steve-zadesky-who-has-been-running-the-electric-car-project-for-apple-inc-for-two-years-will-leave-that-company-soon-for-personal-reasons.json)  [XML](/news/2016/01/22/steve-zadesky-who-has-been-running-the-electric-car-project-for-apple-inc-for-two-years-will-leave-that-company-soon-for-personal-reasons.xml)  
+
 ### [2016-01-22](/news/2016/01/22/index.md)
 
 # Steve Zadesky, who has been running the electric car project for Apple Inc. for two years, will leave that company soon for personal reasons, according to the Wall Street Journal. 
@@ -5,9 +8,9 @@
 Steve Zadesky, a 16-year Apple veteran who has been overseeing its electric-car project for the last two years, has told people he is leaving the company.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/apple-veteran-overseeing-electric-car-project-leaving-company-1453505241?tesla=y)
+1. [Wall Street Journal](https://www.wsj.com/articles/apple-veteran-overseeing-electric-car-project-leaving-company-1453505241?tesla=y)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-MF892_1Q7PO_TOPPER_20160122183657.jpg)
 
 ### Related:

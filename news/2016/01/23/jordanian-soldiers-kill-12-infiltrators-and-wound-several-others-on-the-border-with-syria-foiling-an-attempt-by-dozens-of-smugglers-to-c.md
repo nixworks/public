@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/23/jordanian-soldiers-kill-12-infiltrators-and-wound-several-others-on-the-border-with-syria-foiling-an-attempt-by-dozens-of-smugglers-to-c.html)  [JSON](/news/2016/01/23/jordanian-soldiers-kill-12-infiltrators-and-wound-several-others-on-the-border-with-syria-foiling-an-attempt-by-dozens-of-smugglers-to-c.json)  [XML](/news/2016/01/23/jordanian-soldiers-kill-12-infiltrators-and-wound-several-others-on-the-border-with-syria-foiling-an-attempt-by-dozens-of-smugglers-to-c.xml)  
+
 ### [2016-01-23](/news/2016/01/23/index.md)
 
 # Jordanian soldiers kill 12 "infiltrators" and wound several others, on the border with Syria, foiling an attempt by dozens of smugglers to cross into the kingdom. The soldiers also confiscated more than 2 million narcotics pills that were left behind. 
@@ -5,15 +8,15 @@
 Jordanian troops on Saturday killed 12 infiltrators in a foiled attempt to cross from Syria into the kingdom, an army statement said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-jordan-border-idUKKCN0V10WX)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Syria_
-2. [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md) _Context: Syria_
-3. [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md) _Context: Syria_
-4. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Syria_
-5. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria_
+1. [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md) _Context: Syria_
+2. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: Syria_
+3. [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md) _Context: Syria_
+4. [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md) _Context: Syria_
+5. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Syria_

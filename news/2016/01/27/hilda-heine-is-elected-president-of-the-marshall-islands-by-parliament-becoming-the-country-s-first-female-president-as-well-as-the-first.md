@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshall-islands-by-parliament-becoming-the-country-s-first-female-president-as-well-as-the-first.html)  [JSON](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshall-islands-by-parliament-becoming-the-country-s-first-female-president-as-well-as-the-first.json)  [XML](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshall-islands-by-parliament-becoming-the-country-s-first-female-president-as-well-as-the-first.xml)  
+
 ### [2016-01-27](/news/2016/01/27/index.md)
 
 # Hilda Heine is elected President of the Marshall Islands by Parliament, becoming the country's first female president, as well as the first woman to serve as president of any Micronesian country. She succeeds outgoing President Casten Nemra, who lost a vote of no confidence on January 26. 
@@ -5,7 +8,7 @@
 The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new president, making her the first woman to head the government of an independent Pacific Island nation.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/295053/hilda-heine-elected-marshalls-president)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

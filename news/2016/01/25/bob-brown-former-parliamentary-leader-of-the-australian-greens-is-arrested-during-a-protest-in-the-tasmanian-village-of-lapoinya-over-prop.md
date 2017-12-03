@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.html)  [JSON](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.json)  [XML](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-australian-greens-is-arrested-during-a-protest-in-the-tasmanian-village-of-lapoinya-over-prop.xml)  
+
 ### [2016-01-25](/news/2016/01/25/index.md)
 
 # Bob Brown, former Parliamentary Leader of the Australian Greens, is arrested during a protest in the Tasmanian village of Lapoinya over proposed clear-fell logging of a nearby forest. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/bob-brown-arrested-in-tasmania-during-logging-protest/news-story/8749ebc5e99db335cf30ae6575d44a7a)
 

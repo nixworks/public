@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/16/a-suspected-gas-explosion-in-the-italian-town-of-arnasco-kills-at-least-five-people.html)  [JSON](/news/2016/01/16/a-suspected-gas-explosion-in-the-italian-town-of-arnasco-kills-at-least-five-people.json)  [XML](/news/2016/01/16/a-suspected-gas-explosion-in-the-italian-town-of-arnasco-kills-at-least-five-people.xml)  
+
 ### [2016-01-16](/news/2016/01/16/index.md)
 
 # A suspected gas explosion in the Italian town of Arnasco kills at least five people. 
@@ -5,7 +8,7 @@
 ROME (Reuters) - An explosion probably caused...
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/r-five-people-killed-by-suspected-gas-blast-in-italian-town-2016-1?IR=Tv)
 

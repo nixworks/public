@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/17/index.html)  [JSON](2016/01/17/index.json)  [XML](2016/01/17/index.xml)  
+
 ## [2016-01-17](/news/2016/01/17/index.md)
 
 ### [The confirmed death toll from this week's attacks rises to eight. ](/news/2016/01/17/the-confirmed-death-toll-from-this-week-s-attacks-rises-to-eight.md)

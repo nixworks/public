@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/american-rapper-mos-def-is-banned-from-south-africa-for-five-years-having-been-living-illegally-in-the-country-since-2013-on-a-tourist-visa.html)  [JSON](/news/2016/01/15/american-rapper-mos-def-is-banned-from-south-africa-for-five-years-having-been-living-illegally-in-the-country-since-2013-on-a-tourist-visa.json)  [XML](/news/2016/01/15/american-rapper-mos-def-is-banned-from-south-africa-for-five-years-having-been-living-illegally-in-the-country-since-2013-on-a-tourist-visa.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # American rapper Mos Def is banned from South Africa for five years, having been living illegally in the country since 2013 on a tourist visa. 
@@ -5,7 +8,7 @@
 The American rapper best known as Mos Def is ordered to leave South Africa within 14 days after being arrested for breaking immigration laws.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-35330365)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6288/production/_87742252_87742251.jpg)

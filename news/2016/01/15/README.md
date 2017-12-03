@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/15/index.html)  [JSON](2016/01/15/index.json)  [XML](2016/01/15/index.xml)  
+
 ## [2016-01-15](/news/2016/01/15/index.md)
 
 ### [Gunmen armed with heavy weapons attack a restaurant called Cappuccino and the Splendid Hotel, taking hostages, in the heart of Burkino Faso's capital, Ouagadougou. At least 20 people are reportedly killed. ](/news/2016/01/15/gunmen-armed-with-heavy-weapons-attack-a-restaurant-called-cappuccino-and-the-splendid-hotel-taking-hostages-in-the-heart-of-burkino-faso.md)

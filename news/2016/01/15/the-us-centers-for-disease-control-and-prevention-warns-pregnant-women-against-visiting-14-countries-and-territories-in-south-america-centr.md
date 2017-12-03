@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.html)  [JSON](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.json)  [XML](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.xml)  
+
 ### [2016-01-15](/news/2016/01/15/index.md)
 
 # The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. 
@@ -5,10 +8,15 @@
 Take a look at the latest and archived public health news releases published by the CDC. 
 
 
-### Source:
+### Sources:
 
-1. [CDC](http://www.cdc.gov/media/releases/2016/s0315-zika-virus-travel.html)
+1. [CDC](https://www.cdc.gov/media/releases/2016/s0315-zika-virus-travel.html)
 1. [Cover Image](http://www.cdc.gov/media/images/press-releases-fb-b.jpg)
+
+### Changes:
+
+1. [Brazil Zika virus outbreak (2015 - present): The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/brazil-zika-virus-outbreak-2015-present-the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-coun.md) _2017-08-27 03:44:41 (First version)_
+1. [The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Take a look at the latest and archived public health news releases published by 
 3. [ The Centers for Disease Control and Prevention reports at that least 270 pregnant women in the United States are infected with the Zika virus. ](/news/2016/05/20/the-centers-for-disease-control-and-prevention-reports-at-that-least-270-pregnant-women-in-the-united-states-are-infected-with-the-zika-vir.md) _Context: Centers for Disease Control and Prevention, Zika virus_
 4. [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md) _Context: Centers for Disease Control and Prevention, Zika virus_
 5. [The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. ](/news/2016/04/13/the-united-states-centers-for-disease-control-and-prevention-confirms-that-the-zika-virus-causes-birth-defects-like-microcephaly.md) _Context: Centers for Disease Control and Prevention, Zika virus_
-
-### Changes:
-
-1. [Brazil Zika virus outbreak (2015 - present): The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/brazil-zika-virus-outbreak-2015-present-the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-coun.md) _2017-08-27 03:44:41 (First version)_
-1. [The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.md) _(Current version)_

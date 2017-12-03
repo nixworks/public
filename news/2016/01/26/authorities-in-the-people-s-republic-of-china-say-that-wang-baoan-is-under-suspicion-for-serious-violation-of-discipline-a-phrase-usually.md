@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-say-that-wang-baoan-is-under-suspicion-for-serious-violation-of-discipline-a-phrase-usually.html)  [JSON](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-say-that-wang-baoan-is-under-suspicion-for-serious-violation-of-discipline-a-phrase-usually.json)  [XML](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-say-that-wang-baoan-is-under-suspicion-for-serious-violation-of-discipline-a-phrase-usually.xml)  
+
 ### [2016-01-26](/news/2016/01/26/index.md)
 
 # Authorities in the People's Republic of China say that Wang Baoan is under suspicion for "serious violation of discipline" (a phrase usually associated with corruption charges) as the head of that country's powerful National Bureau of Statistics. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-35410963)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/9A6D/production/_87933593_hi030999505.jpg)

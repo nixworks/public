@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/21/the-12th-national-congress-of-the-communist-party-of-vietnam-convenes-in-hanoi-for-eight-days-to-select-the-country-s-leadership-for-the-nex.html)  [JSON](/news/2016/01/21/the-12th-national-congress-of-the-communist-party-of-vietnam-convenes-in-hanoi-for-eight-days-to-select-the-country-s-leadership-for-the-nex.json)  [XML](/news/2016/01/21/the-12th-national-congress-of-the-communist-party-of-vietnam-convenes-in-hanoi-for-eight-days-to-select-the-country-s-leadership-for-the-nex.xml)  
+
 ### [2016-01-21](/news/2016/01/21/index.md)
 
 # The 12th National Congress of the Communist Party of Vietnam convenes in Hanoi for eight days to select the country's leadership for the next five years. 
@@ -5,7 +8,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/vietnams-communist-party-meets-pick-nations-leaders-36410737)
 

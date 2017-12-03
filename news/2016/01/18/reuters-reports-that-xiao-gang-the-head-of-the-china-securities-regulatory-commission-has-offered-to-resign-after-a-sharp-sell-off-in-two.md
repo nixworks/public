@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/18/reuters-reports-that-xiao-gang-the-head-of-the-china-securities-regulatory-commission-has-offered-to-resign-after-a-sharp-sell-off-in-two.html)  [JSON](/news/2016/01/18/reuters-reports-that-xiao-gang-the-head-of-the-china-securities-regulatory-commission-has-offered-to-resign-after-a-sharp-sell-off-in-two.json)  [XML](/news/2016/01/18/reuters-reports-that-xiao-gang-the-head-of-the-china-securities-regulatory-commission-has-offered-to-resign-after-a-sharp-sell-off-in-two.xml)  
+
 ### [2016-01-18](/news/2016/01/18/index.md)
 
 # Reuters reports that Xiao Gang, the head of the China Securities Regulatory Commission, has offered to resign after a sharp sell-off in two of China's stock exchanges. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-china-stocks-regulator-exclusive-idUSKCN0UW0WQ)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160118&t=2&i=1110498279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0H0OG)
+1. [Reuters](https://www.reuters.com/article/us-china-stocks-regulator-exclusive-idUSKCN0UW0WQ)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160118&t=2&i=1110498279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0H0OG)
 
 ### Related:
 

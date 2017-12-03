@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/20/kyrgyzstan-s-parliament-revokes-an-agreement-with-russia-to-construct-hydropower-plants-officially-ending-a-deal-that-in-reality-was-going.html)  [JSON](/news/2016/01/20/kyrgyzstan-s-parliament-revokes-an-agreement-with-russia-to-construct-hydropower-plants-officially-ending-a-deal-that-in-reality-was-going.json)  [XML](/news/2016/01/20/kyrgyzstan-s-parliament-revokes-an-agreement-with-russia-to-construct-hydropower-plants-officially-ending-a-deal-that-in-reality-was-going.xml)  
+
 ### [2016-01-20](/news/2016/01/20/index.md)
 
 # Kyrgyzstan's parliament revokes an agreement with Russia to construct hydropower plants, officially ending a deal that in reality was going nowhere, due to the "unfavorable economic situation" in Russia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/qishloq-ovozi-kyrgyzstan-energy-dreams/27499926.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.html)  [JSON](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.json)  [XML](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.xml)  
+
 ### [2016-01-25](/news/2016/01/25/index.md)
 
 # At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/01/25/asia/asia-cold-weather-travel-disruption/index.html?eref=edition)
 2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201601240020.aspx)
 2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20160124/201601240020t0001.jpg)
+
+### Changes:
+
+1. [January 2016 East Asia cold wave: At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/january-2016-east-asia-cold-wave-at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unpreced.md) _2017-08-27 03:44:45 (First version)_
+1. [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _Context: Asia, Taiwan_
 4. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: China, Taiwan_
 5. [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md) _Context: China, Taiwan_
-
-### Changes:
-
-1. [January 2016 East Asia cold wave: At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/january-2016-east-asia-cold-wave-at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unpreced.md) _2017-08-27 03:44:45 (First version)_
-1. [At least eighty-five people are killed in Taiwan and tens of thousands stranded in airports as an unprecedented cold snap hits several Asian countries including China and South Korea. ](/news/2016/01/25/at-least-eighty-five-people-are-killed-in-taiwan-and-tens-of-thousands-stranded-in-airports-as-an-unprecedented-cold-snap-hits-several-asian.md) _(Current version)_

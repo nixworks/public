@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.html)  [JSON](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.json)  [XML](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.xml)  
+
 ### [2016-01-20](/news/2016/01/20/index.md)
 
 # NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.giss.nasa.gov/research/news/20160120/)
 

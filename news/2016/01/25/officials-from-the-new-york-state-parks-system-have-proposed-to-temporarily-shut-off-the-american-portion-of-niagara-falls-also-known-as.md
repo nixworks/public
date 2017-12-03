@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.html)  [JSON](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.json)  [XML](/news/2016/01/25/officials-from-the-new-york-state-parks-system-have-proposed-to-temporarily-shut-off-the-american-portion-of-niagara-falls-also-known-as.xml)  
+
 ### [2016-01-25](/news/2016/01/25/index.md)
 
 # Officials from the New York State parks system have proposed to temporarily "shut off" the American portion of Niagara Falls (also known as "American Falls") within three years. The shut off will allow the replacement of two 115-year-old pedestrian stone bridges that are unsafe for the public. 
@@ -5,7 +8,7 @@
 It would be the second time the famous falls have been shut down as authorities weigh up a $37.3m bill to fix two bridges.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1629277/niagara-falls-could-be-shut-off-to-fix-bridges)
 1. [Cover Image](http://e3.365dm.com/16/01/1600x900/gettyimages-463969078-1-2048x1536_3405874.jpg?20160126122706)

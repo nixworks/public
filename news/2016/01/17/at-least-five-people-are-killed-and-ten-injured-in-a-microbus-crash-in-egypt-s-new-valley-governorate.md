@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured-in-a-microbus-crash-in-egypt-s-new-valley-governorate.html)  [JSON](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured-in-a-microbus-crash-in-egypt-s-new-valley-governorate.json)  [XML](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured-in-a-microbus-crash-in-egypt-s-new-valley-governorate.xml)  
+
 ### [2016-01-17](/news/2016/01/17/index.md)
 
 # At least five people are killed and ten injured in a microbus crash in Egypt's New Valley Governorate. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Ahram Online](http://english.ahram.org.eg/News/181192.aspx)
 

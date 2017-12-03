@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/20/index.html)  [JSON](2016/01/20/index.json)  [XML](2016/01/20/index.xml)  
+
 ## [2016-01-20](/news/2016/01/20/index.md)
 
 ### [Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. ](/news/2016/01/20/gunmen-attack-a-university-in-charsadda-pakistan-at-least-21-people-are-reportedly-killed.md)

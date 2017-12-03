@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.html)  [JSON](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.json)  [XML](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.xml)  
+
 ### [2016-01-16](/news/2016/01/16/index.md)
 
 # A U.S. drone strike on a vehicle in Yemen's Shabwah Governorate kills three suspected Al-Qaeda in the Arabian Peninsula (AQAP) militants. 
@@ -5,9 +8,9 @@
 Drone targeted militants’ vehicle, say tribesmen, amid reports of dozens of defections from Yemen’s Isis affiliate
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/jan/16/us-drone-strike-yemen-al-qaida-isis)
+1. [The Guardian](https://www.theguardian.com/world/2016/jan/16/us-drone-strike-yemen-al-qaida-isis)
 1. [Cover Image](https://i.guim.co.uk/img/media/3ed71d6fb8fd113c98f3ae638462ece6817aeef5/0_194_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9c38ddf4ad63ced58652352f85a7b472)
 
 ### Related:

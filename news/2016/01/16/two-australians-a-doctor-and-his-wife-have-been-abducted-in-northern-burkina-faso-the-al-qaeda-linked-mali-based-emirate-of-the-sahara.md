@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/16/two-australians-a-doctor-and-his-wife-have-been-abducted-in-northern-burkina-faso-the-al-qaeda-linked-mali-based-emirate-of-the-sahara.html)  [JSON](/news/2016/01/16/two-australians-a-doctor-and-his-wife-have-been-abducted-in-northern-burkina-faso-the-al-qaeda-linked-mali-based-emirate-of-the-sahara.json)  [XML](/news/2016/01/16/two-australians-a-doctor-and-his-wife-have-been-abducted-in-northern-burkina-faso-the-al-qaeda-linked-mali-based-emirate-of-the-sahara.xml)  
+
 ### [2016-01-16](/news/2016/01/16/index.md)
 
 # Two Australians, a doctor and his wife, have been abducted in northern Burkina Faso. The Al Qaeda-linked, Mali-based "Emirate of the Sahara" is responsible, according to SITE. 
@@ -5,11 +8,11 @@
 Two Australians have been kidnapped in Burkina Faso, officials said Saturday, as a Malian Islamist group said the couple were in the hands of Al-Qaeda-linked jihadists. The Burkina government said the pair were kidnapped in Baraboule, near the west African country&#x27;s borders with Niger and Mali.
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/austrian-couple-abducted-northern-burkina-faso-131927455.html;_ylt=AwrBT8OXeppW_vcA6u1XNyoA;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
+1. [AFP via Yahoo! News](https://news.yahoo.com/austrian-couple-abducted-northern-burkina-faso-131927455.html;_ylt=AwrBT8OXeppW_vcA6u1XNyoA;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--)
 2. [AP](http://bigstory.ap.org/article/6f2392e559474050b457baaf2ee68433/latest-american-soldier-scene-burkina-faso-attack)
-2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/NGjyfkPRsjQ1D1iZbJ6aYg--/aD02Njc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ab23ab944192715bc01b011b598288d90b06f8a3.jpg)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/3xwpdP2B3xtagSoa7ztyYw--~B/aD02Njc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ab23ab944192715bc01b011b598288d90b06f8a3.jpg)
 
 ### Related:
 

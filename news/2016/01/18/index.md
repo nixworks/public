@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/18/index.html)  [JSON](2016/01/18/index.json)  [XML](2016/01/18/index.xml)  
+
 ## [2016-01-18](/news/2016/01/18/index.md)
 
 ### [Ukraine says that a cyberattack on Boryspil International Airport near Kiev came from Russian computers. ](/news/2016/01/18/ukraine-says-that-a-cyberattack-on-boryspil-international-airport-near-kiev-came-from-russian-computers.md)

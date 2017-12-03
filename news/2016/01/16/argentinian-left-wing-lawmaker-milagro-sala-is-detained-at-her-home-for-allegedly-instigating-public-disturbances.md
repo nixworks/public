@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/16/argentinian-left-wing-lawmaker-milagro-sala-is-detained-at-her-home-for-allegedly-instigating-public-disturbances.html)  [JSON](/news/2016/01/16/argentinian-left-wing-lawmaker-milagro-sala-is-detained-at-her-home-for-allegedly-instigating-public-disturbances.json)  [XML](/news/2016/01/16/argentinian-left-wing-lawmaker-milagro-sala-is-detained-at-her-home-for-allegedly-instigating-public-disturbances.xml)  
+
 ### [2016-01-16](/news/2016/01/16/index.md)
 
 # Argentinian left wing lawmaker Milagro Sala is detained at her home for allegedly instigating public disturbances. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Telesur TV](http://www.telesurtv.net/english/news/Kirchnerist-Leader-Mercosur-Lawmaker-Detained-in-Argentina-20160116-0027.html)
 1. [Cover Image](http://www.telesurtv.net/__export/1452985133276/sites/telesur/img/news/2016/01/16/milagro-sala.jpg_1810791533.jpg)

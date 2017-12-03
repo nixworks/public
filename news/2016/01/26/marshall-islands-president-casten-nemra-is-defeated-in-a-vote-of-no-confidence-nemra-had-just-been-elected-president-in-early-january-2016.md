@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/26/marshall-islands-president-casten-nemra-is-defeated-in-a-vote-of-no-confidence-nemra-had-just-been-elected-president-in-early-january-2016.html)  [JSON](/news/2016/01/26/marshall-islands-president-casten-nemra-is-defeated-in-a-vote-of-no-confidence-nemra-had-just-been-elected-president-in-early-january-2016.json)  [XML](/news/2016/01/26/marshall-islands-president-casten-nemra-is-defeated-in-a-vote-of-no-confidence-nemra-had-just-been-elected-president-in-early-january-2016.xml)  
+
 ### [2016-01-26](/news/2016/01/26/index.md)
 
 # Marshall Islands President Casten Nemra is defeated in a vote of no confidence. Nemra had just been elected President in early January 2016. A successor is expected to be selected soon. 
@@ -5,7 +8,7 @@
 The Marshall Islands newly elected president Casten Nemra has been toppled in a no confidence vote in Majuro this afternoon.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/294896/marshall-islands-president-toppled)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

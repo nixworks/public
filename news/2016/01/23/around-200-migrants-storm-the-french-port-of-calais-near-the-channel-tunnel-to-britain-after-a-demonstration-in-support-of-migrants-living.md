@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.html)  [JSON](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.json)  [XML](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.xml)  
+
 ### [2016-01-23](/news/2016/01/23/index.md)
 
 # Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. 
@@ -5,10 +8,15 @@
 Around 200 refugees managed to break into the port of Calais in northern France on Saturday after a demonstration of support for migrants living in a slum nearby ended, enabling some of them to board the front deck of a British ferry, an official said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-europe-migrants-calais-idUKKCN0V10UG)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160123&t=2&i=1111862840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0M0LS)
+
+### Changes:
+
+1. [European migrant crisis: Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/european-migrant-crisis-around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-s.md) _2017-08-27 03:44:45 (First version)_
+1. [Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Around 200 refugees managed to break into the port of Calais in northern France 
 3. [Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md) _Context: Calais Jungle, European migrant crisis_
 4. [Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-officials-attempted-to-evict.md) _Context: Calais, Calais Jungle_
 5. [French authorities give up to 1000 migrants, mostly Syrians and Iraqis, until 8pm local time on 23 February to leave the Calais jungle camp. Those who refuse to leave will be forcibly removed by police. ](/news/2016/02/20/french-authorities-give-up-to-1000-migrants-mostly-syrians-and-iraqis-until-8pm-local-time-on-23-february-to-leave-the-calais-jungle-camp.md) _Context: Calais Jungle, France_
-
-### Changes:
-
-1. [European migrant crisis: Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/european-migrant-crisis-around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-s.md) _2017-08-27 03:44:45 (First version)_
-1. [Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.md) _(Current version)_

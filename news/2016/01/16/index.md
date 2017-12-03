@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/16/index.html)  [JSON](2016/01/16/index.json)  [XML](2016/01/16/index.xml)  
+
 ## [2016-01-16](/news/2016/01/16/index.md)
 
 ### [Burkina Faso security forces storm the Hotel Splendid which had been under attack by Al Qaeda in the Islamic Maghreb militants. Over 126 people have been freed and at least 29 people have died. ](/news/2016/01/16/burkina-faso-security-forces-storm-the-hotel-splendid-which-had-been-under-attack-by-al-qaeda-in-the-islamic-maghreb-militants-over-126-peo.md)
@@ -22,7 +25,7 @@ ROME (Reuters) - An explosion probably caused...
 _Context: Flint water crisis, Flint, Michigan, Legionella, Legionnaires' disease, lead contamination, public health, states of emergency_
 
 ### [Iran releases four Iranian-American prisoners including "Washington Post" reporter Jason Rezaian and Christian pastor Saeed Abedini. The United States is to release seven Iranian-Americans held in the United States for violating sanctions against Iran. ](/news/2016/01/16/iran-releases-four-iranian-american-prisoners-including-washington-post-reporter-jason-rezaian-and-christian-pastor-saeed-abedini-the-uni.md)
-Iran emerged from years of economic isolation on Saturday when world powers lifted crippling sanctions against the Islamic Republic in return for Tehran complying with a deal to curb its nuclear ambitions.
+Word of the exchange came just before longstanding economic sanctions on Iran were lifted under terms of the historic nuclear deal reached in July.
 
 ### [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md)
 International sanctions on Iran are lifted after its compliance with obligations under the nuclear agreement with world powers was certified.
