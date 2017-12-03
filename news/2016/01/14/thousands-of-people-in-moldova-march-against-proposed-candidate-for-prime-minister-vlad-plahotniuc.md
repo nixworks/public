@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.html)  [JSON](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.json)  [XML](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # Thousands of people in Moldova march against proposed candidate for Prime Minister Vlad Plahotniuc. 
@@ -5,7 +8,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/moldova-thousands-protest-proposed-pm-candidate-36281945)
 

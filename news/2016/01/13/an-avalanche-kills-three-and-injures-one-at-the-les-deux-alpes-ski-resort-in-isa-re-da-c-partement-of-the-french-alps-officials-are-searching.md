@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.html)  [JSON](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.json)  [XML](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.xml)  
+
 ### [2016-01-13](/news/2016/01/13/index.md)
 
 # An avalanche kills three and injures one at the Les Deux Alpes ski resort in Isere departement of the French Alps. Officials are searching for other possible victims. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/01/13/europe/france-alps-avalanche/)
 

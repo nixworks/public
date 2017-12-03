@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.html)  [JSON](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.json)  [XML](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # Windows 8 along with Internet Explorer versions 8, 9 and 10 are now officially unsupported by Microsoft. 
 
+Microsoft will no longer support Windows 8, this is why...
 
 
+### Sources:
 
-### Source:
-
-1. [Forbes](http://www.forbes.com/sites/gordonkelly/2016/01/12/microsoft-abandons-windows-8/#41000287605c4fa6b363605c)
+1. [Forbes](https://www.forbes.com/sites/gordonkelly/2016/01/12/microsoft-abandons-windows-8/#41000287605c4fa6b363605c)
+1. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fgordonkelly%2Ffiles%2F2016%2F01%2FScreenshot-2016-01-12-at-14.47.10-1200x567.png)
 
 ### Related:
 

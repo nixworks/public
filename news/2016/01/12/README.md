@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/12/index.html)  [JSON](2016/01/12/index.json)  [XML](2016/01/12/index.xml)  
+
 ## [2016-01-12](/news/2016/01/12/index.md)
 
 ### [At least 10 people are killed and 15 injured, mostly German tourists, following an explosion in Istanbul's Sultanahmet Square. A Syrian suicide bomber, an ISIL member, is responsible, according to Turkish Prime Minister Ahmet Davutoglu. ](/news/2016/01/12/at-least-10-people-are-killed-and-15-injured-mostly-german-tourists-following-an-explosion-in-istanbul-s-sultanahmet-square-a-syrian-suic.md)
@@ -31,7 +34,7 @@ _Context: Hezbollah, Iran, Kuwait_
 The implementation of a nuclear agreement reached last July is now just days away.
 
 ### [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md)
-_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, United States, United States Navy_
+_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, U.S. Navy, United States_
 
 ### [The United States House of Representatives votes overwhelmingly in favor of legislation to tighten sanctions on North Korea in response to the North's latest nuclear test. ](/news/2016/01/12/the-united-states-house-of-representatives-votes-overwhelmingly-in-favor-of-legislation-to-tighten-sanctions-on-north-korea-in-response-to-t.md)
 It would block North Korea&#039;s access to hard currency following a claimed nuclear test.
@@ -43,7 +46,7 @@ China has jailed former vice public security minister Li Dongsheng for 15 years,
 The arrest of Samar Badawi, a prominent human rights defender, as well as the sister of imprisoned blogger Raif Badawi and the former spouse of imprisoned human rights lawyer Waleed Abu al-Khair, is t
 
 ### [Windows 8 along with Internet Explorer versions 8, 9 and 10 are now officially unsupported by Microsoft. ](/news/2016/01/12/windows-8-along-with-internet-explorer-versions-8-9-and-10-are-now-officially-unsupported-by-microsoft.md)
-_Context: Internet Explorer, Windows 8_
+Microsoft will no longer support Windows 8, this is why...
 
 ## [Previous Day...](/news/2016/01/11/index.md)
 

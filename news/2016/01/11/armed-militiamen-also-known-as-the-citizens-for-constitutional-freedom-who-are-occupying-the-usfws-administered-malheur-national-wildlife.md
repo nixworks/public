@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.html)  [JSON](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.json)  [XML](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.xml)  
+
 ### [2016-01-11](/news/2016/01/11/index.md)
 
 # Armed militiamen, also known as the Citizens for Constitutional Freedom, who are occupying the USFWS administered Malheur National Wildlife Refuge in Harney County, Oregon, tear down a part of a fence that they claim was erected by the federal government in order to allow privately owned cattle to graze on the adjacent public land. USFWS condemns the actions through a written statement which states that, "Removing fences, damaging any refuge property, or unauthorized use of equipment would be additional unlawful actions by the illegal occupiers. Any movement of cattle onto the refuge or other activities that are not specifically authorized by [the Fish and Wildlife Service] constitutes trespassing." 
@@ -5,9 +8,9 @@
 Local support is waning with people in the town of Burns expressing dismay at methods employed by the armed occupation
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/us-news/2016/jan/12/bundy-militia-fence-oregon-wildlife-refuge-protest-escalates)
+1. [The Guardian](https://www.theguardian.com/us-news/2016/jan/12/bundy-militia-fence-oregon-wildlife-refuge-protest-escalates)
 2. [The Oregonian](http://www.oregonlive.com/oregon-standoff/2016/01/oregon_standoff_bundy_militant.html)
 2. [Cover Image](https://i.guim.co.uk/img/media/df217190871b356d6fcf436f567026697f332f3d/0_55_5184_3112/master/5184.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=259e11a8004466d62915a42dbc573e0f)
 

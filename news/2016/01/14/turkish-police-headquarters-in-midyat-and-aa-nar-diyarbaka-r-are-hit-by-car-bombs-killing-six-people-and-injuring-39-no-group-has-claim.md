@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs-killing-six-people-and-injuring-39-no-group-has-claim.html)  [JSON](/news/2016/01/14/turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs-killing-six-people-and-injuring-39-no-group-has-claim.json)  [XML](/news/2016/01/14/turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs-killing-six-people-and-injuring-39-no-group-has-claim.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # Turkish police headquarters in Midyat and Cinar, Diyarbakir, are hit by car bombs, killing six people and injuring 39. No group has claimed responsibility but the government accuses PKK rebels of carrying out the attack. 
@@ -5,7 +8,7 @@
 The violence comes after 10 tourists were killed on Tuesday in a suicide bombing in central Istanbul which the government blamed on IS
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35308750)
 2. [Middle East Eye](http://www.middleeasteye.net/news/5-killed-dozens-injured-pkk-attack-southeast-turkey-206412125)

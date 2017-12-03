@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/12/kuwait-sentences-two-people-to-death-for-spying-for-iran-and-hezbollah.html)  [JSON](/news/2016/01/12/kuwait-sentences-two-people-to-death-for-spying-for-iran-and-hezbollah.json)  [XML](/news/2016/01/12/kuwait-sentences-two-people-to-death-for-spying-for-iran-and-hezbollah.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # Kuwait sentences two people to death for spying for Iran and Hezbollah. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2016/01/12/Kuwait-sentences-two-to-death-for-spying-for-Iran-.html)
 

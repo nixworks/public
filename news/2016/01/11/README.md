@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/11/index.html)  [JSON](2016/01/11/index.json)  [XML](2016/01/11/index.xml)  
+
 ## [2016-01-11](/news/2016/01/11/index.md)
 
 ### [At least 51 people are reportedly killed in an attack on a shopping centre in Iraq's capital, Baghdad, and a car bombing outside an illegal casino in Miqdadiyah, east of Baghdad, with the Islamic State of Iraq and the Levant claiming responsibility for both attacks. ](/news/2016/01/11/at-least-51-people-are-reportedly-killed-in-an-attack-on-a-shopping-centre-in-iraq-s-capital-baghdad-and-a-car-bombing-outside-an-illegal.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/13/three-winning-powerball-lottery-tickets-are-sold-in-the-u-s-states-of-california-florida-and-tennessee-each-will-share-the-estimated-jac.html)  [JSON](/news/2016/01/13/three-winning-powerball-lottery-tickets-are-sold-in-the-u-s-states-of-california-florida-and-tennessee-each-will-share-the-estimated-jac.json)  [XML](/news/2016/01/13/three-winning-powerball-lottery-tickets-are-sold-in-the-u-s-states-of-california-florida-and-tennessee-each-will-share-the-estimated-jac.xml)  
+
 ### [2016-01-13](/news/2016/01/13/index.md)
 
 # Three winning Powerball lottery tickets are sold in the U.S. states of California, Florida, and Tennessee. Each will share the estimated jackpot of US $1.6 billion dollars, the largest lottery jackpot in world history. 
@@ -5,7 +8,7 @@
 The Powerball jackpot was estimated at $1.6 billion on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/powerball-lottery-drawing-record-15b-jackpot-tonight/story?id=36275166)
 1. [Cover Image](http://a.abcnews.com/images/US/GTY_Powerball_04_mm_160113_16x9_992.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/12/in-accordance-with-a-major-point-of-a-nuclear-agreement-reached-with-several-world-powers-iran-removed-a-plutonium-core-and-filled-with-con.html)  [JSON](/news/2016/01/12/in-accordance-with-a-major-point-of-a-nuclear-agreement-reached-with-several-world-powers-iran-removed-a-plutonium-core-and-filled-with-con.json)  [XML](/news/2016/01/12/in-accordance-with-a-major-point-of-a-nuclear-agreement-reached-with-several-world-powers-iran-removed-a-plutonium-core-and-filled-with-con.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # In accordance with a major point of a nuclear agreement reached with several world powers, Iran removed a plutonium core and filled with concrete the Arak nuclear reactor, setting the stage for the removal of sanctions against Iran. 
@@ -5,7 +8,7 @@
 The implementation of a nuclear agreement reached last July is now just days away.
 
 
-### Source:
+### Sources:
 
 1. [Washington Post](https://www.washingtonpost.com/world/national-security/iran-pours-concrete-into-nuclear-reactor-expects-sanctions-relief/2016/01/11/67011cda-b8a1-11e5-b682-4bb4dd403c7d_story.html)
 

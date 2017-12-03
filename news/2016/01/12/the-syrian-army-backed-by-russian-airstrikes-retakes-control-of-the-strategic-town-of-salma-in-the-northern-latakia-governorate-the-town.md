@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/12/the-syrian-army-backed-by-russian-airstrikes-retakes-control-of-the-strategic-town-of-salma-in-the-northern-latakia-governorate-the-town.html)  [JSON](/news/2016/01/12/the-syrian-army-backed-by-russian-airstrikes-retakes-control-of-the-strategic-town-of-salma-in-the-northern-latakia-governorate-the-town.json)  [XML](/news/2016/01/12/the-syrian-army-backed-by-russian-airstrikes-retakes-control-of-the-strategic-town-of-salma-in-the-northern-latakia-governorate-the-town.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # The Syrian Army, backed by Russian airstrikes, retakes control of the strategic town of Salma in the northern Latakia Governorate. The town had been mostly under rebel (FSA) and jihadist (Al-Nusra Front) control since 2012. 
@@ -5,12 +8,12 @@
 Syria&#x27;s army and allied forces on Tuesday took full control from rebel groups of the strategic town of Salma, in the northwestern province of Latakia, state television reported. Government forces were combing the area for mines and explosive devices &quot;left behind by terrorist groups in the buildings
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/syrian-army-enters-rebel-bastion-latakia-province-monitor-110734427.html)
+1. [AFP via Yahoo](https://news.yahoo.com/syrian-army-enters-rebel-bastion-latakia-province-monitor-110734427.html)
 2. [Médecins Sans Frontières](http://www.msf.org/article/syria-siege-and-starvation-madaya-immediate-medical-evacuations-and-medical-resupply)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0UP0VM20160113)
-3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/WN6KsbjeQoErpPoZ76OKFg--/aD03MzM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6212117-1-1-0.jpg)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0UP0VM20160113)
+3. [Cover Image](https://s.yimg.com/uu/api/res/1.2/5UhA2pwYEaPMmg8pwFo0OQ--~B/aD03MzM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6212117-1-1-0.jpg)
 
 ### Related:
 

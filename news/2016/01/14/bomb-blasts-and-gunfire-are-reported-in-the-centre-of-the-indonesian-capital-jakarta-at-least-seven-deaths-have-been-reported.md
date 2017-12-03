@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.html)  [JSON](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.json)  [XML](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. 
@@ -5,7 +8,7 @@
 Islamic State militants claim gun and bomb assault on Indonesia&#039;s capital that killed seven people, police say.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-14/bomb-blasts-reported-outside-jakarta-mall/7089218)
 2. [AFP via ''Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/5-attackers-2-civilians/2425522.html?cid=twtcna)
@@ -15,15 +18,15 @@ Islamic State militants claim gun and bomb assault on Indonesia&#039;s capital t
 6. [The Australian](http://www.theaustralian.com.au/news/world/jakarta-bombing-blasts-in-indonesian-capital/news-story/17c946907fe296fe4628cd11d033ffd6)
 6. [Cover Image](http://www.abc.net.au/news/image/7089964-1x1-700x700.jpg)
 
-### Related:
-
-1. [Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _Context: 2016 Jakarta attacks, Indonesia, Jakarta_
-2. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia, Jakarta_
-3. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Indonesia, Jakarta_
-4. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta_
-5. [One person has died and hundreds of people have been evacuated after heavy rain in the Indonesian capital Jakarta. ](/news/2016/02/29/one-person-has-died-and-hundreds-of-people-have-been-evacuated-after-heavy-rain-in-the-indonesian-capital-jakarta.md) _Context: Indonesia, Jakarta_
-
 ### Changes:
 
 1. [2016 Jakarta attacks: Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/2016-jakarta-attacks-bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been.md) _2017-08-27 03:44:40 (First version)_
 1. [Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.md) _(Current version)_
+
+### Related:
+
+1. [Indonesia blocks access to radical Islamist websites and social media sites after the recent terror attacks in Jakarta. ](/news/2016/01/16/indonesia-blocks-access-to-radical-islamist-websites-and-social-media-sites-after-the-recent-terror-attacks-in-jakarta.md) _Context: 2016 Jakarta attacks, Indonesia, Jakarta_
+2. [An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. ](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.md) _Context: Indonesia, Jakarta_
+3. [Flooding occurs across parts of Indonesia, including the capital Jakarta, due to torrential downpours over the last few days. Thousands of homes have been flooded and schools were forced to close. However, there are no reports of injuries yet. ](/news/2017/02/21/flooding-occurs-across-parts-of-indonesia-including-the-capital-jakarta-due-to-torrential-downpours-over-the-last-few-days-thousands-of-h.md) _Context: Indonesia, Jakarta_
+4. [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md) _Context: Indonesia, Jakarta_
+5. [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md) _Context: Indonesia, Jakarta_

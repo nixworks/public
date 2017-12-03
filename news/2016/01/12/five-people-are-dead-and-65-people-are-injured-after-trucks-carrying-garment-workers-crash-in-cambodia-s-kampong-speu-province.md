@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/12/five-people-are-dead-and-65-people-are-injured-after-trucks-carrying-garment-workers-crash-in-cambodia-s-kampong-speu-province.html)  [JSON](/news/2016/01/12/five-people-are-dead-and-65-people-are-injured-after-trucks-carrying-garment-workers-crash-in-cambodia-s-kampong-speu-province.json)  [XML](/news/2016/01/12/five-people-are-dead-and-65-people-are-injured-after-trucks-carrying-garment-workers-crash-in-cambodia-s-kampong-speu-province.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # Five people are dead and 65 people are injured after trucks carrying garment workers crash in Cambodia's Kampong Speu Province. 
@@ -5,7 +8,7 @@
 PHNOM PENH — Two trucks transporting Cambodian garment workers to their factory crashed today (Jan 12), killing five workers and injuring 65 others, officials said. The accident occurred early this morning as one truck sped up to overtake the other but collided with it, causing the vehicles to spiral out of control, said Mr Ma Savath, a district governor in Kampong Speu province, about 40km south-west of the capital, Phnom Penh. “It was an unfortunate accident, and would not have happened if the driver had driven carefully,” he said. A statement issued by the Ministry of Labor said the ministry would cover funeral expenses of the five dead and treatment of the 65 injured. Cambodia’s clothing and footwear manufacturing industry is the country’s biggest export earner, employing about 700,000 people in more than 700 garment and shoe factories. In 2014, the South-east Asian country shipped more than US$6 billion (S$8.64 billion) worth of products to the United States and Europe. In May last year, at least 18 garment workers were killed and nearly two dozen injured in eastern Cambodia when their van was hit by a speeding bus, prompting a plea from Prime Minister Hun Sen for drivers to slow down to make the country’s roads safer. Road accidents are a leading cause of death in Cambodia. According to a report from Transport Ministry, more 2,000 people were killed in traffic accidents in 2014. AP
 
 
-### Source:
+### Sources:
 
 1. [Today Online](http://www.todayonline.com/world/asia/5-dead-65-injured-cambodian-garment-worker-truck-crash)
 1. [Cover Image](http://www.todayonline.com/sites/all/themes/today/FacebookPantalla.png)

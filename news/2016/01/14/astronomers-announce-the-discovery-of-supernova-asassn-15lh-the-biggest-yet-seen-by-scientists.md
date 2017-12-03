@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/astronomers-announce-the-discovery-of-supernova-asassn-15lh-the-biggest-yet-seen-by-scientists.html)  [JSON](/news/2016/01/14/astronomers-announce-the-discovery-of-supernova-asassn-15lh-the-biggest-yet-seen-by-scientists.json)  [XML](/news/2016/01/14/astronomers-announce-the-discovery-of-supernova-asassn-15lh-the-biggest-yet-seen-by-scientists.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # Astronomers announce the discovery of supernova ASASSN-15lh, the biggest yet seen by scientists. 
@@ -5,7 +8,7 @@
 Superluminous supernova ASASSN-15lh is 200 times as powerful as typical dead stars, astronomers say
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-huge-supernova-20160114-story.html)
 1. [Cover Image](http://www.trbimg.com/img-5697eff5/turbine/la-sci-sn-huge-supernova-20160114)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/11/arch-coal-the-second-largest-coal-mining-concern-in-the-united-states-files-for-chapter-11-protection-because-it-has-been-hit-hard-by-the.html)  [JSON](/news/2016/01/11/arch-coal-the-second-largest-coal-mining-concern-in-the-united-states-files-for-chapter-11-protection-because-it-has-been-hit-hard-by-the.json)  [XML](/news/2016/01/11/arch-coal-the-second-largest-coal-mining-concern-in-the-united-states-files-for-chapter-11-protection-because-it-has-been-hit-hard-by-the.xml)  
+
 ### [2016-01-11](/news/2016/01/11/index.md)
 
 # Arch Coal, the second largest coal-mining concern in the United States, files for chapter 11 protection because it has been hit hard by the collapsing market demand for that commodity. 
@@ -5,10 +8,10 @@
 Arch Coal, the second-largest U.S. coal miner, filed for Chapter 11 bankruptcy protection on Monday with a plan to cut $4.5 billion in debt from its balance sheet in the midst of a prolonged downturn in the coal industry.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-arch-coal-restructuring-idUSKCN0UP0MR20160111)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-arch-coal-restructuring-idUSKCN0UP0MR20160111)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

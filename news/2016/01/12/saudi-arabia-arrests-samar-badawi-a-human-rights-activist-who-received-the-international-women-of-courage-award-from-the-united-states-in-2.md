@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/12/saudi-arabia-arrests-samar-badawi-a-human-rights-activist-who-received-the-international-women-of-courage-award-from-the-united-states-in-2.html)  [JSON](/news/2016/01/12/saudi-arabia-arrests-samar-badawi-a-human-rights-activist-who-received-the-international-women-of-courage-award-from-the-united-states-in-2.json)  [XML](/news/2016/01/12/saudi-arabia-arrests-samar-badawi-a-human-rights-activist-who-received-the-international-women-of-courage-award-from-the-united-states-in-2.xml)  
+
 ### [2016-01-12](/news/2016/01/12/index.md)
 
 # Saudi Arabia arrests Samar Badawi, a human rights activist who received the International Women of Courage Award from the United States in 2012. Badawi is to appear in court on Wednesday, according to Amnesty International. Both her brother, Raif Badawi, publisher of the "Free Saudi Liberals" blog, and former husband, Waleed Sami Abulkhair, are currently imprisoned. 
@@ -5,11 +8,11 @@
 The arrest of Samar Badawi, a prominent human rights defender, as well as the sister of imprisoned blogger Raif Badawi and the former spouse of imprisoned human rights lawyer Waleed Abu al-Khair, is t
 
 
-### Source:
+### Sources:
 
 1. [Amnesty International](http://www.amnestyusa.org/news/press-releases/arrest-of-human-rights-defender-samar-badawi-in-saudi-arabia-latest-attempt-to-intimidate-activists)
 2. [CNN](http://www.cnn.com/2016/01/12/middleeast/samar-badawi-arrest-saudi-arabia/)
-3. [The Guardian](http://www.theguardian.com/world/2016/jan/12/samar-badawi-sister-blogger-raif-badawi-arrested-saudi-arabia)
+3. [The Guardian](https://www.theguardian.com/world/2016/jan/12/samar-badawi-sister-blogger-raif-badawi-arrested-saudi-arabia)
 3. [Cover Image](http://www.amnestyusa.org/sites/default/files/cyivvlsweam3a9j.jpg)
 
 ### Related:

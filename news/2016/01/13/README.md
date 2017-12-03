@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/13/index.html)  [JSON](2016/01/13/index.json)  [XML](2016/01/13/index.xml)  
+
 ## [2016-01-13](/news/2016/01/13/index.md)
 
 ### [At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. ](/news/2016/01/13/at-least-15-people-are-killed-and-dozens-injured-after-a-bomb-explodes-near-a-polio-centre-near-the-pakistani-city-of-quetta.md)
@@ -19,7 +22,7 @@ Three Russian citizens have been arrested in southern Turkey during a raid on a 
 The Powerball jackpot was estimated at $1.6 billion on Wednesday.
 
 ### [Al Jazeera America announces that it will close in April due to poor ratings. ](/news/2016/01/13/al-jazeera-america-announces-that-it-will-close-in-april-due-to-poor-ratings.md)
-_Context: Al Jazeera America_
+The cable news outlet, which began broadcasting in August 2013, said it would expand its digital presence in the United States.
 
 ### [Subtropical Storm Alex is located 785 miles (1,260 km) south-southwest of the Azores. Alex is one of just four tropical or subtropical storms to occur in January since 1851, the first year records were kept. The hurricane season begins on June 1 of each year. Alex is expected to hit the Azores on Friday with average rain accumulations of 3 to 5 inches. ](/news/2016/01/13/subtropical-storm-alex-is-located-785-miles-1-260-km-south-southwest-of-the-azores-alex-is-one-of-just-four-tropical-or-subtropical-storm.md)
 _Context: 2016 Atlantic hurricane season, Azores, Subtropical Storm Alex_

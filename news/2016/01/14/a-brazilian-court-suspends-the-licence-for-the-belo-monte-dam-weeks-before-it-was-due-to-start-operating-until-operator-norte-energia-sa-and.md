@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.html)  [JSON](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.json)  [XML](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes FundacGBPo Nacional do Indio, a protection agency for indigenous Brazilians. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via CNBC](http://www.cnbc.com/2016/01/14/reuters-america-brazil-court-suspends-amazon-hydrodam-license-on-native-demands.html)
+1. [Reuters via CNBC](https://www.cnbc.com/2016/01/14/reuters-america-brazil-court-suspends-amazon-hydrodam-license-on-native-demands.html)
 
 ### Related:
 

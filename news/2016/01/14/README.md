@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/14/index.html)  [JSON](2016/01/14/index.json)  [XML](2016/01/14/index.xml)  
+
 ## [2016-01-14](/news/2016/01/14/index.md)
 
 ### [Bomb blasts and gunfire are reported in the centre of the Indonesian capital Jakarta. At least seven deaths have been reported. ](/news/2016/01/14/bomb-blasts-and-gunfire-are-reported-in-the-centre-of-the-indonesian-capital-jakarta-at-least-seven-deaths-have-been-reported.md)
@@ -16,7 +19,7 @@ Cheryl Boone Isaacs, Guillermo del Toro, John Krasinski and Ang Lee reveal the 8
 British actor Alan Rickman, known for films including Harry Potter and Die Hard, has died aged 69, his family says.
 
 ### [Archbishops of the Anglican Communion meeting in England vote to sanction the U.S. branch of the Communion for its unilateral decision to allow same-sex marriages.](/news/2016/01/14/archbishops-of-the-anglican-communion-meeting-in-england-vote-to-sanction-the-u-s-branch-of-the-communion-for-its-unilateral-decision-to-al.md)
-_Context: Anglican Communion, England, U.S. branch of the Communion_
+The disciplinary action, which limits the church’s participation in Anglican Communion affairs, is a serious setback for the church and other Anglican provinces that support gay rights.
 
 ### [Rene Angelil, manager and husband of singer Celine Dion, dies at age 73 after a long battle with throat cancer.](/news/2016/01/14/rena-c-anga-c-lil-manager-and-husband-of-singer-celine-dion-dies-at-age-73-after-a-long-battle-with-throat-cancer.md)
 Rene Angelil, the husband and former manager of singer Celine Dion, dies aged 73.

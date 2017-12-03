@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.html)  [JSON](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.json)  [XML](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.xml)  
+
 ### [2016-01-14](/news/2016/01/14/index.md)
 
 # South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2016/01/14/0200000000AEN20160114003600315.html?input=www.tweeter.com)
+
+### Changes:
+
+1. [2016 North Korean nuclear test: South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _2017-08-27 03:44:40 (First version)_
+1. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. ](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.md) _Context: China, North Korea, South Korea_
 4. [South Korean troops mistakenly fire on a Chinese passenger plane as it flies near the disputed Northern Limit Line on the border with North Korea; there are no casualties. ](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.md) _Context: China, North Korea, South Korea_
 5. [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md) _Context: China, North Korea, South Korea_
-
-### Changes:
-
-1. [2016 North Korean nuclear test: South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/2016-north-korean-nuclear-test-south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-no.md) _2017-08-27 03:44:40 (First version)_
-1. [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md) _(Current version)_

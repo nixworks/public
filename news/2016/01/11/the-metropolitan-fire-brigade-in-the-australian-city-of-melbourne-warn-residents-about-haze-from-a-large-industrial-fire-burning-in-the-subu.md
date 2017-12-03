@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/11/the-metropolitan-fire-brigade-in-the-australian-city-of-melbourne-warn-residents-about-haze-from-a-large-industrial-fire-burning-in-the-subu.html)  [JSON](/news/2016/01/11/the-metropolitan-fire-brigade-in-the-australian-city-of-melbourne-warn-residents-about-haze-from-a-large-industrial-fire-burning-in-the-subu.json)  [XML](/news/2016/01/11/the-metropolitan-fire-brigade-in-the-australian-city-of-melbourne-warn-residents-about-haze-from-a-large-industrial-fire-burning-in-the-subu.xml)  
+
 ### [2016-01-11](/news/2016/01/11/index.md)
 
 # The Metropolitan Fire Brigade in the Australian city of Melbourne warn residents about haze from a large industrial fire burning in the suburb of Broadmeadows. 
@@ -5,7 +8,7 @@
 Firefighters are battling to control a tyre fire at an industrial premises in Broadmeadows in Melbourne&#039;s north on Monday morning.
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Age](http://www.theage.com.au/victoria/mfb-warn-residents-to-close-doors-and-windows-as-thick-smoke-blankets-broadmeadows-following-industrial-fire-20160110-gm31y1.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/g/m/3/2/8/2/image.related.articleLeadwide.620x349.gm31y1.png/1452495013748.jpg)
