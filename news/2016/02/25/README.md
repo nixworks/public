@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/25/index.html)  [JSON](2016/02/25/index.json)  [XML](2016/02/25/index.xml)  
+
 ## [2016-02-25](/news/2016/02/25/index.md)
 
 ### [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md)

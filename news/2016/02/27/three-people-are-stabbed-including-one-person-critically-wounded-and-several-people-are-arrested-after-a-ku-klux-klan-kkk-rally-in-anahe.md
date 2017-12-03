@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/27/three-people-are-stabbed-including-one-person-critically-wounded-and-several-people-are-arrested-after-a-ku-klux-klan-kkk-rally-in-anahe.html)  [JSON](/news/2016/02/27/three-people-are-stabbed-including-one-person-critically-wounded-and-several-people-are-arrested-after-a-ku-klux-klan-kkk-rally-in-anahe.json)  [XML](/news/2016/02/27/three-people-are-stabbed-including-one-person-critically-wounded-and-several-people-are-arrested-after-a-ku-klux-klan-kkk-rally-in-anahe.xml)  
+
 ### [2016-02-27](/news/2016/02/27/index.md)
 
 # Three people are stabbed, including one person critically wounded, and several people are arrested after a Ku Klux Klan (KKK) rally in Anaheim, California turns violent. 
@@ -5,7 +8,7 @@
 Three people were stabbed and 13 others were arrested when a Ku Klux Klan rally in Anaheim erupted in violence Saturday, police said.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-klan-rally-in-anaheim-erupts-in-violence-one-man-stabbed-20160227-story.html)
 1. [Cover Image](http://www.trbimg.com/img-56d21fbd/turbine/la-me-ln-klan-rally-in-anaheim-erupts-in-violence-one-man-stabbed-20160227)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.html)  [JSON](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.json)  [XML](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.xml)  
+
 ### [2016-03-7](/news/2016/03/7/index.md)
 
 # American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/news/national/erin-andrews-awarded-55-million-nude-video-lawsuit-article-1.2556066)
+
+### Changes:
+
+1. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a.md) _2017-08-25 03:44:49 (First version)_
+1. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: Internet_
 4. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-in.md) _Context: Internet_
 5. [The French data protection authority and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. ](/news/2016/02/8/the-french-data-protection-authority-and-the-independent-watchdog-cnil-cite-facebook-for-breaching-privacy-laws-by-the-collection-and-transf.md) _Context: Internet_
-
-### Changes:
-
-1. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a.md) _2017-08-25 03:44:49 (First version)_
-1. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.md) _(Current version)_

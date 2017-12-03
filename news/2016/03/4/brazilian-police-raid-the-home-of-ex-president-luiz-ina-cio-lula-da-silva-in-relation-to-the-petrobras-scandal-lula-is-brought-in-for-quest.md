@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-luiz-ina-cio-lula-da-silva-in-relation-to-the-petrobras-scandal-lula-is-brought-in-for-quest.html)  [JSON](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-luiz-ina-cio-lula-da-silva-in-relation-to-the-petrobras-scandal-lula-is-brought-in-for-quest.json)  [XML](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-luiz-ina-cio-lula-da-silva-in-relation-to-the-petrobras-scandal-lula-is-brought-in-for-quest.xml)  
+
 ### [2016-03-4](/news/2016/03/4/index.md)
 
 # Brazilian police raid the home of ex-President Luiz Inacio Lula da Silva in relation to the Petrobras scandal. Lula is brought in for questioning. 
@@ -5,7 +8,7 @@
 Former Brazilian President Luiz Inacio Lula da Silva is questioned by police as part of a huge fraud inquiry into the state oil company Petrobras.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35725415)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6ADD/production/_88575372_8a944403-1c8f-4c6a-b1fa-d132956c3099.jpg)

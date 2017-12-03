@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/27/index.html)  [JSON](2016/02/27/index.json)  [XML](2016/02/27/index.xml)  
+
 ## [2016-02-27](/news/2016/02/27/index.md)
 
 ### [A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensified-before-the-tr.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/7/apple-inc-must-pay-the-450-million-july-2014-settlement-in-a-price-fixing-case-since-the-u-s-supreme-court-will-not-hear-its-appeal-of-th.html)  [JSON](/news/2016/03/7/apple-inc-must-pay-the-450-million-july-2014-settlement-in-a-price-fixing-case-since-the-u-s-supreme-court-will-not-hear-its-appeal-of-th.json)  [XML](/news/2016/03/7/apple-inc-must-pay-the-450-million-july-2014-settlement-in-a-price-fixing-case-since-the-u-s-supreme-court-will-not-hear-its-appeal-of-th.xml)  
+
 ### [2016-03-7](/news/2016/03/7/index.md)
 
 # Apple Inc. must pay the $450 million July 2014 settlement in a price fixing case since the U.S. Supreme Court will not hear its appeal of the June 2015 Court of Appeals ruling that it played a "central role" in a conspiracy with publishers to eliminate retail price competition and raise e-book prices. 
@@ -5,11 +8,11 @@
 Apple Inc. must pay $450 million to end an antitrust suit after the U.S. Supreme Court refused to question a finding that the company orchestrated a scheme to raise the prices for electronic books.
 
 
-### Source:
+### Sources:
 
 1. [AppleInsider](http://appleinsider.com/articles/16/03/07/how-to-find-out-if-you-are-included-in-apples-450m-e-book-settlement)
-2. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-03-07/apple-rejected-by-u-s-high-court-in-450-million-e-book-case)
-3. [Reuters](http://www.reuters.com/article/us-usa-court-ebooks-idUSKCN0W91LQ)
+2. [Bloomberg](https://www.bloomberg.com/politics/articles/2016-03-07/apple-rejected-by-u-s-high-court-in-450-million-e-book-case)
+3. [Reuters](https://www.reuters.com/article/us-usa-court-ebooks-idUSKCN0W91LQ)
 3. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igOASyHB8Tiw/v3/1200x675.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.html)  [JSON](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.json)  [XML](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.xml)  
+
 ### [2016-03-1](/news/2016/03/1/index.md)
 
 # United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. 
@@ -5,11 +8,17 @@
 The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a humanitarian crisis as disunity and inconsistency continue to mar European response plans.
 
 
-### Source:
+### Sources:
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/unhcr-warns-of-humanitarian-crisis-in-greece-as-influx-rises-116030101311_1.html)
 2. [Kathimerini](http://www.ekathimerini.com/206505/article/ekathimerini/news/europe-on-cusp-of-self-induced-humanitarian-crisis-unhcr-says)
 2. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)
+
+### Changes:
+
+1. [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-c.md) _2017-08-25 03:44:44 (First version)_
+2. [European migrant crisis: United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/european-migrant-crisis-united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self.md) _2017-08-27 03:45:05 (Update)_
+2. [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a
 3. [NATO, during a two-day meeting, considers request from Turkey and Greece to monitor migrant transit in the Aegean Sea and to combat human traffickers squeezing refugees onto unsafe boats. ](/news/2016/02/10/nato-during-a-two-day-meeting-considers-request-from-turkey-and-greece-to-monitor-migrant-transit-in-the-aegean-sea-and-to-combat-human-tr.md) _Context: European migrant crisis, Greek, refugee_
 4. [Germany announces plans to start deporting newly-arrived migrants to Greece starting in March. According to EU's Dublin Regulation, asylum seekers must file for asylum in the member state they arrived in. ](/news/2017/01/12/germany-announces-plans-to-start-deporting-newly-arrived-migrants-to-greece-starting-in-march-according-to-eu-s-dublin-regulation-asylum-s.md) _Context: European migrant crisis, Greek_
 5. [Two people are killed and two others injured after a fire breaks out in a migrant camp on the Greek island of Lesbos. The cause is currently under investigation, although some believe the fire was deliberately started in protest of poor living conditions, after a 66-year-old woman and a six-year-old child were killed in a gas explosion. ](/news/2016/11/25/two-people-are-killed-and-two-others-injured-after-a-fire-breaks-out-in-a-migrant-camp-on-the-greek-island-of-lesbos-the-cause-is-currently.md) _Context: European migrant crisis, Greek_
-
-### Changes:
-
-1. [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-c.md) _2017-08-25 03:44:44 (First version)_
-2. [European migrant crisis: United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/european-migrant-crisis-united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self.md) _2017-08-27 03:45:05 (Update)_
-2. [United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. ](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adrian-edwards-warns-that-europe-is-on-the-verge-of-a-largely-self-induced-humanitarian-cri.md) _(Current version)_

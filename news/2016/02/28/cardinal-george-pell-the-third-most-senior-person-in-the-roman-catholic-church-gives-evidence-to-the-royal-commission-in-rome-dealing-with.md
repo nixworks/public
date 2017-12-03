@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/28/cardinal-george-pell-the-third-most-senior-person-in-the-roman-catholic-church-gives-evidence-to-the-royal-commission-in-rome-dealing-with.html)  [JSON](/news/2016/02/28/cardinal-george-pell-the-third-most-senior-person-in-the-roman-catholic-church-gives-evidence-to-the-royal-commission-in-rome-dealing-with.json)  [XML](/news/2016/02/28/cardinal-george-pell-the-third-most-senior-person-in-the-roman-catholic-church-gives-evidence-to-the-royal-commission-in-rome-dealing-with.xml)  
+
 ### [2016-02-28](/news/2016/02/28/index.md)
 
 # Cardinal George Pell, the third most senior person in the Roman Catholic Church, gives evidence to the Royal Commission in Rome dealing with his time as a priest in the Australian cities of Ballarat and Melbourne. 
@@ -5,7 +8,7 @@
 THE connections have been tested and the flights are behind them. In an opulent hotel near the heart of the Catholic Church, an extraordinary event is unfolding. 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world/cardinal-george-pell-to-face-royal-commission-from-rome-hotel/news-story/eedb68ac94ae0b397e10ac5089348e95)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/48dcf44e07a8135a2cb47cf616ee9e1f)

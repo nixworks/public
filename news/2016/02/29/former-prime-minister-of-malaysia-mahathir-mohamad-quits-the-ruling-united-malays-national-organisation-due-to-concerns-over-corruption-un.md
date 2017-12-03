@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/29/former-prime-minister-of-malaysia-mahathir-mohamad-quits-the-ruling-united-malays-national-organisation-due-to-concerns-over-corruption-un.html)  [JSON](/news/2016/02/29/former-prime-minister-of-malaysia-mahathir-mohamad-quits-the-ruling-united-malays-national-organisation-due-to-concerns-over-corruption-un.json)  [XML](/news/2016/02/29/former-prime-minister-of-malaysia-mahathir-mohamad-quits-the-ruling-united-malays-national-organisation-due-to-concerns-over-corruption-un.xml)  
+
 ### [2016-02-29](/news/2016/02/29/index.md)
 
 # Former Prime Minister of Malaysia Mahathir Mohamad quits the ruling United Malays National Organisation due to concerns over "corruption" under current PM Najib Razak. 
@@ -5,7 +8,7 @@
  Malaysia&#039;s former prime minister Mahathir Mohamad said on Monday he is quitting the ruling United Malays National Organisation (UMNO) party, as it is being seen as &#034;supporting corruption&#034; under Prime Minister Najib Razak&#039;s leadership.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Age](http://www.theage.com.au/world/mahathir-mohamad-quits-malaysia-ruling-umno-party-protesting-corruption-20160229-gn6t4o.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/g/n/6/t/w/5/image.related.articleLeadwide.620x349.gn6t4o.png/1456815175608.jpg)

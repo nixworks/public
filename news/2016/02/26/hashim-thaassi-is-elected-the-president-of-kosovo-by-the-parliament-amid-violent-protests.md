@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.html)  [JSON](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.json)  [XML](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.xml)  
+
 ### [2016-02-26](/news/2016/02/26/index.md)
 
 # Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35674917)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75378000/jpg/_75378434_75378433.jpg)

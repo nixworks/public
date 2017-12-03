@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-ob
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
-# The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two right-wing parties and presidential party La Republique En Marche! also achieve the 7% election threshold. 
+# The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" and presidential party La Republique En Marche! also achieve the 7% election threshold. 
 
 
 

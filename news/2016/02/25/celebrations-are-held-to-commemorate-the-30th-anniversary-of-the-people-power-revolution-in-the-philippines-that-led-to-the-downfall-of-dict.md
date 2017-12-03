@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/25/celebrations-are-held-to-commemorate-the-30th-anniversary-of-the-people-power-revolution-in-the-philippines-that-led-to-the-downfall-of-dict.html)  [JSON](/news/2016/02/25/celebrations-are-held-to-commemorate-the-30th-anniversary-of-the-people-power-revolution-in-the-philippines-that-led-to-the-downfall-of-dict.json)  [XML](/news/2016/02/25/celebrations-are-held-to-commemorate-the-30th-anniversary-of-the-people-power-revolution-in-the-philippines-that-led-to-the-downfall-of-dict.xml)  
+
 ### [2016-02-25](/news/2016/02/25/index.md)
 
 # Celebrations are held to commemorate the 30th anniversary of the People Power Revolution in the Philippines that led to the downfall of dictator Ferdinand Marcos' 21-year reign, and the rise of President Corazon Aquino. 
@@ -5,7 +8,7 @@
 Thirty years ago today, Filipinos achieved the impossible and brought down a dictatorship. 
 
 
-### Source:
+### Sources:
 
 1. [The Philippine Star](http://www.philstar.com/headlines/2016/02/25/1556601/1986-people-power-philippiness-gift-world)
 1. [Cover Image](http://media.philstar.com/images/the-philippine-star/headlines/20150225/Anti-government-demostrators-8.jpg)

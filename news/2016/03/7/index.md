@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/7/index.html)  [JSON](2016/03/7/index.json)  [XML](2016/03/7/index.xml)  
+
 ## [2016-03-7](/news/2016/03/7/index.md)
 
 ### [At least 50 people are killed, including 33 militants, seven civilians and ten soldiers, in armed clashes between the Tunisian Army and Islamist militants in the town of Ben Gardane, near the border with Libya. ](/news/2016/03/7/at-least-50-people-are-killed-including-33-militants-seven-civilians-and-ten-soldiers-in-armed-clashes-between-the-tunisian-army-and-isla.md)

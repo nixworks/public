@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.html)  [JSON](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.json)  [XML](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.xml)  
+
 ### [2016-02-28](/news/2016/02/28/index.md)
 
 # Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. 
@@ -5,12 +8,17 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/02/28/africa/somalia-violence/)
 2. [Reuters via Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3468219/Islamist-group-kills-8-twin-blasts-Somalia.html)
-3. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN0W10QC)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/us-somalia-attacks-idUSKCN0W10QC)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [War in Somalia (2009-present): Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _2017-08-27 03:45:03 (First version)_
+1. [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@
 3. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 4. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 5. [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
-
-### Changes:
-
-1. [War in Somalia (2009-present): Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/war-in-somalia-2009-present-two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _2017-08-27 03:45:03 (First version)_
-1. [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md) _(Current version)_

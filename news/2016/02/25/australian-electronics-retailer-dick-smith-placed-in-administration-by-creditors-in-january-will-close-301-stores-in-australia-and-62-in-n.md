@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.html)  [JSON](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.json)  [XML](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.xml)  
+
 ### [2016-02-25](/news/2016/02/25/index.md)
 
 # Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/finance/business/retail/dick-smith-to-close-chain-to-shut-down-after-receivers-fail-to-win-acceptable-offers/news-story/4c0c9122f24d9ba6db04ddf40880037c?from=public_rss)
 

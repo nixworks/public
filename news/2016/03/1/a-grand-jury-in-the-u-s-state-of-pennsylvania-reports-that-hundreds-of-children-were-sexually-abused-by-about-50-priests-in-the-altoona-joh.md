@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.html)  [JSON](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.json)  [XML](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.xml)  
+
 ### [2016-03-1](/news/2016/03/1/index.md)
 
 # A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. 
@@ -5,10 +8,15 @@
 Hundreds of children in western Pennsylvania were sexually assaulted by about 50 Roman Catholic priests over four decades while bishops covered up their actions, according to a state grand jury report released on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-pennsylvania-sexcrimes-idUSKCN0W35NI)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-pennsylvania-sexcrimes-idUSKCN0W35NI)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-jo.md) _2017-08-25 03:44:43 (First version)_
+1. [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Hundreds of children in western Pennsylvania were sexually assaulted by about 50
 3. [Authorities in the state of Pennsylvania discover the Seoul virus, a member of the Hantavirus family, in a contained scientific breeding-facility for rats. ](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.md) _Context: Pennsylvania_
 4. [Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. ](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.md) _Context: Pennsylvania_
 5. [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md) _Context: Pennsylvania_
-
-### Changes:
-
-1. [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-jo.md) _2017-08-25 03:44:43 (First version)_
-1. [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.md) _(Current version)_

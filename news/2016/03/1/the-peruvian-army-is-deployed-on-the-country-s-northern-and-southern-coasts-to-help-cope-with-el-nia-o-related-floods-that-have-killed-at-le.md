@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/1/the-peruvian-army-is-deployed-on-the-country-s-northern-and-southern-coasts-to-help-cope-with-el-nia-o-related-floods-that-have-killed-at-le.html)  [JSON](/news/2016/03/1/the-peruvian-army-is-deployed-on-the-country-s-northern-and-southern-coasts-to-help-cope-with-el-nia-o-related-floods-that-have-killed-at-le.json)  [XML](/news/2016/03/1/the-peruvian-army-is-deployed-on-the-country-s-northern-and-southern-coasts-to-help-cope-with-el-nia-o-related-floods-that-have-killed-at-le.xml)  
+
 ### [2016-03-1](/news/2016/03/1/index.md)
 
 # The Peruvian Army is deployed on the country's northern and southern coasts to help cope with El Nino-related floods that have killed at least two people and left thousands homeless. 
@@ -5,7 +8,7 @@
 The authorities in Peru are sending the military to help areas affected by floods that have afflicted several parts of the country. Scientists blame
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/03/01/peru-sends-in-army-to-deal-with-floods-blamed-on-el-nino/)
 1. [Cover Image](http://static.euronews.com/articles/325744/1000x563_325744.jpg)

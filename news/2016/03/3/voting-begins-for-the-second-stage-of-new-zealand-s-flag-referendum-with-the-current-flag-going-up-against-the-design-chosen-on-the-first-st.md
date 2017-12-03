@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.html)  [JSON](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.json)  [XML](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.xml)  
+
 ### [2016-03-3](/news/2016/03/3/index.md)
 
 # Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. 
@@ -5,11 +8,16 @@
 New Zealanders can now begin voting by post in the final stage of a referendum on whether to ditch the existing flag and adopt a new design.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35704127)
 2. [CNN](http://edition.cnn.com/2016/03/02/asia/new-zealand-flag-referendum/index.html?eref=edition)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5EB3/production/_88534242_gettyimages-501268078.jpg)
+
+### Changes:
+
+1. [New Zealand flag debate: Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/new-zealand-flag-debate-voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-desi.md) _2017-08-27 03:45:06 (First version)_
+1. [Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ New Zealanders can now begin voting by post in the final stage of a referendum o
 3. [New Zealand will hold a referendum regarding its national flag in 2016. ](/news/2014/10/29/new-zealand-will-hold-a-referendum-regarding-its-national-flag-in-2016.md) _Context: New Zealand, New Zealand flag debate, current flag_
 4. [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md) _Context: New Zealand flag debate, current flag_
 5. [A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md) _Context: New Zealand flag debate, current flag_
-
-### Changes:
-
-1. [New Zealand flag debate: Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/new-zealand-flag-debate-voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-desi.md) _2017-08-27 03:45:06 (First version)_
-1. [Voting begins for the second stage of New Zealand's flag referendum with the current flag going up against the design chosen on the first stage of the referendum. Voting will end on March 23 with polling showing the current flag is favoured to win. ](/news/2016/03/3/voting-begins-for-the-second-stage-of-new-zealand-s-flag-referendum-with-the-current-flag-going-up-against-the-design-chosen-on-the-first-st.md) _(Current version)_

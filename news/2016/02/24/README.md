@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/24/index.html)  [JSON](2016/02/24/index.json)  [XML](2016/02/24/index.xml)  
+
 ## [2016-02-24](/news/2016/02/24/index.md)
 
 ### [Turkish Air Force helicopters struck a group of Kurdistan Workers' Party (PKK) fighters in southeast Turkey, killing nine militants, according to security sources. ](/news/2016/02/24/turkish-air-force-helicopters-struck-a-group-of-kurdistan-workers-party-pkk-fighters-in-southeast-turkey-killing-nine-militants-accordi.md)
@@ -13,7 +16,7 @@ Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight 
 The UAE is a key partner in the Saudi-led coalition which has been bombing Houthi positions in Yemen since March last year
 
 ### [Two months after Egypt's Civil Aviation Ministry ruled out terrorism in Flight 9268's crash, President Abdel Fattah el-Sisi admits an ISIS bomb downed the Russian passenger jet. The terrorist group's Sinai Peninsula Branch claimed responsibility shortly after the incident. ](/news/2016/02/24/two-months-after-egypt-s-civil-aviation-ministry-ruled-out-terrorism-in-flight-9268-s-crash-president-abdel-fattah-el-sisi-admits-an-isis-b.md)
-_Context: Abdel Fattah el-Sisi, Civil Aviation Ministry, Egypt, Egyptian President, Flight 9268, ISIL, ISIL's Sinai branch, Russia, terrorism_
+Abdel Fattah Al Sisi, Jan. 30, 2016. (AP Photo/Mulugeta Ayene) Finally, months after an ISIS bomb downed a Russian passenger jet taking off from Egypt, Egypt’s leader has admitted the cause. But, strikingly, he tried to couple that terrorist act with the torture-murder of an Italian graduate stude...
 
 ### [The 2016 Brit Awards are held at The O2 in London with James Bay, Adele, Tame Impala, Justin Bieber, Bjork, and Coldplay all winning their respective categories. Adele won four awards in total. ](/news/2016/02/24/the-2016-brit-awards-are-held-at-the-o2-in-london-with-james-bay-adele-tame-impala-justin-bieber-bjork-and-coldplay-all-winning-their-r.md)
 Catch up on all the action from this year’s Brit awards, at the O2 Arena in London
@@ -34,7 +37,7 @@ _Context: Tornadoes of 2016, Waverly, Virginia, tornado_
 _Context: Antarctica, Aurora Australis, Australia, Australian Antarctic Division_
 
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanese, Qatar, Saudi Arabia, United Arab Emirates_
+_Context: Bahrain, Foreign relations of Lebanon, Kuwait, Lebanon, Qatar, Saudi Arabia, U.A.E._
 
 ### [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md)
 JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility have been subjected to mistreatment, and in some cases torture, two Israeli human rights groups alleged on Wednesday. In new bloodshed Wednesday, Israeli troops accidentally shot and killed a fellow soldier as they thwart...

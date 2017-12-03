@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.html)  [JSON](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.json)  [XML](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.xml)  
+
 ### [2016-02-26](/news/2016/02/26/index.md)
 
 # Following yesterday's Constitutional Court of Turkey ruling that their rights had been violated, two Turkish journalists, jailed on terrorism charges, are released after 92 days in prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via GlobalPost](http://www.globalpost.com/article/6738253/2016/02/25/jailed-opposition-journalists-rights-violated-turkey)
 2. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/02/26/news/arrested-turkish-journalists-released-after-92-days-in-prison/)

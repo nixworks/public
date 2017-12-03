@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.html)  [JSON](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.json)  [XML](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.xml)  
+
 ### [2016-02-26](/news/2016/02/26/index.md)
 
 # Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. 
@@ -5,10 +8,10 @@
 Philippine security forces killed as many as 42 Muslim rebels claiming links with Islamic State and captured their stronghold during five days of fighting in the mountains of a southern island, an army spokesman said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-philippines-militants-idUSKCN0VZ0J3)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-philippines-militants-idUSKCN0VZ0J3)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

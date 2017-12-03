@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.html)  [JSON](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.json)  [XML](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.xml)  
+
 ### [2016-03-5](/news/2016/03/5/index.md)
 
 # China announces plans to build a railway linking the Tibetan capital Lhasa with Chengdu. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/china-to-build-second-rai/2575104.html)
 

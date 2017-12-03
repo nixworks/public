@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-central-commission-for-discipline-ins.html)  [JSON](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-central-commission-for-discipline-ins.json)  [XML](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-central-commission-for-discipline-ins.xml)  
+
 ### [2016-03-5](/news/2016/03/5/index.md)
 
 # The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. 
@@ -5,9 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1920899/graft-cloud-falls-over-former-communist-party-boss)
+
+### Changes:
+
+1. [Anti-corruption campaign in China:The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/anti-corruption-campaign-in-china-pthe-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-ce.md) _2017-08-25 03:44:47 (First version)_
+2. [Anti-corruption campaign in China:: The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/anti-corruption-campaign-in-china-the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-c.md) _2017-08-27 03:45:08 (Update)_
+2. [The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-central-commission-for-discipline-ins.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,3 @@
 3. [In China, the Central Commission for Discipline Inspection places under investigation Tianjin mayor Huang Xingguo, who is also serving as acting Communist Party Secretary. ](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.md) _Context: Central Commission for Discipline Inspection_
 4. [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md) _Context: Central Commission for Discipline Inspection_
 5. [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md) _Context: Central Commission for Discipline Inspection_
-
-### Changes:
-
-1. [Anti-corruption campaign in China:The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/anti-corruption-campaign-in-china-pthe-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-ce.md) _2017-08-25 03:44:47 (First version)_
-2. [Anti-corruption campaign in China:: The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/anti-corruption-campaign-in-china-the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-c.md) _2017-08-27 03:45:08 (Update)_
-2. [The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. ](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-provinces-wang-min-is-placed-under-investigation-by-the-central-commission-for-discipline-ins.md) _(Current version)_

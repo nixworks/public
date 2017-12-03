@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-taking-his-own-life-in-the-indian-city-of-thane.html)  [JSON](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-taking-his-own-life-in-the-indian-city-of-thane.json)  [XML](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-taking-his-own-life-in-the-indian-city-of-thane.xml)  
+
 ### [2016-02-28](/news/2016/02/28/index.md)
 
 # A man fatally stabs 14 family members before taking his own life in the Indian city of Thane. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [India Today](http://indiatoday.intoday.in/story/thane-man-kills-14-family-members-then-commits-suicide/1/607226.html)
 1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/thane-murder_story_647_022816082839.jpg)

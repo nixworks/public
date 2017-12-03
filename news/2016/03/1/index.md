@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/03/1/index.html)  [JSON](2016/03/1/index.json)  [XML](2016/03/1/index.xml)  
+
 ## [2016-03-1](/news/2016/03/1/index.md)
 
 ### [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md)
 _Context: Luhansk Oblast, Ukrainian military, War in Donbass_
 
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S. airstrikes, U.S. soldiers, United States_
+_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S. airstrikes, United States, United States soldier_
 
 ### [Faulty readings from a GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle. At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west-b.md)
 Two Israeli troops were following directions from the Waze app when they drove into Qalandiya refugee camp

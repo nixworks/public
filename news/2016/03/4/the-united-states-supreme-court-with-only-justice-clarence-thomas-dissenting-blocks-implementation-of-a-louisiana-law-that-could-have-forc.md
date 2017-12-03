@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.html)  [JSON](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.json)  [XML](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.xml)  
+
 ### [2016-03-4](/news/2016/03/4/index.md)
 
 # The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. 
@@ -5,11 +8,16 @@
 The Supreme Court handed abortion rights advocates a victory Friday by blocking a Louisiana law they said would leave the state with only one doctor licensed to perform the procedure.
 
 
-### Source:
+### Sources:
 
 1. [ (''Los Angeles Times](http://www.latimes.com/nation/la-na-court-louisiana-abortion-20160304-story.html)
 2. [AFP via GlobalPost](http://www.globalpost.com/article/6742171/2016/03/04/supreme-court-blocks-louisiana-abortion-restrictions)
 2. [Cover Image](http://www.trbimg.com/img-56d9fb4e/turbine/la-na-court-louisiana-abortion-20160304)
+
+### Changes:
+
+1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-fo.md) _2017-08-25 03:44:46 (First version)_
+1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ The Supreme Court handed abortion rights advocates a victory Friday by blocking 
 3. [The United States Supreme Court confirms (5-4) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The ruling was made in advance of a formal hearing on the gerrymandering case, "Abbott v. Perez", which has no scheduled hearing date yet. ](/news/2017/09/13/the-united-states-supreme-court-confirms-5a4-a-temporary-stay-of-a-lower-court-ruling-which-would-have-required-texas-to-undergo-new-red.md) _Context: United States Supreme Court_
 4. [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-new-york-time.md) _Context: Louisiana_
 5. [The Trump Administration asks the U.S. Supreme Court to stop implementation of yesterday's ruling by Hawaii District Judge Derrick Watson that expanded the State Department's definition of "close family" used to implement the Supreme Court's June order that permits admission to the U.S. of those with a bona fide relationship. ](/news/2017/07/14/the-trump-administration-asks-the-u-s-supreme-court-to-stop-implementation-of-yesterday-s-ruling-by-hawaii-district-judge-derrick-watson-th.md) _Context: United States Supreme Court_
-
-### Changes:
-
-1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-fo.md) _2017-08-25 03:44:46 (First version)_
-1. [The United States Supreme Court, with only Justice Clarence Thomas dissenting, blocks implementation of a Louisiana law that could have forced all but one of the state's abortion clinics to close, and restores an earlier judicial ban on enforcing the 2014 law. Last week, a federal appeals court said the law could be enforced. ](/news/2016/03/4/the-united-states-supreme-court-with-only-justice-clarence-thomas-dissenting-blocks-implementation-of-a-louisiana-law-that-could-have-forc.md) _(Current version)_

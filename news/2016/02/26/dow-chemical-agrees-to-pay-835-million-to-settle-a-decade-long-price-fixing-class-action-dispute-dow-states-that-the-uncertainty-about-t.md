@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/26/dow-chemical-agrees-to-pay-835-million-to-settle-a-decade-long-price-fixing-class-action-dispute-dow-states-that-the-uncertainty-about-t.html)  [JSON](/news/2016/02/26/dow-chemical-agrees-to-pay-835-million-to-settle-a-decade-long-price-fixing-class-action-dispute-dow-states-that-the-uncertainty-about-t.json)  [XML](/news/2016/02/26/dow-chemical-agrees-to-pay-835-million-to-settle-a-decade-long-price-fixing-class-action-dispute-dow-states-that-the-uncertainty-about-t.xml)  
+
 ### [2016-02-26](/news/2016/02/26/index.md)
 
 # Dow Chemical agrees to pay $835 million to settle a decade-long, price-fixing, class-action dispute. Dow states that the uncertainty about the U.S. Supreme Court makeup following Justice Antonin Scalia's death means there is an "increased likelihood for unfavorable outcomes for business involved in class action suits." The urethane chemicals case, from 2005, was against a number of companies; Dow had been the only defendant not to settle. 
@@ -5,10 +8,10 @@
 Dow Chemical Co. agreed to pay US$835 million to settle a decade-long lawsuit on price fixing, saying it had less chance of winning its petition at the Supreme Court after the death of Justice Antonin Scalia.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Winnipeg Sun](http://www.winnipegsun.com/2016/02/26/dow-chemical-settles-price-fixing-case)
-2. [Reuters](http://www.reuters.com/article/us-usa-court-classactions-idUSKCN0VZ2TF)
+2. [Reuters](https://www.reuters.com/article/us-usa-court-classactions-idUSKCN0VZ2TF)
 2. [Cover Image](http://storage.winnipegsun.com/v1/suns-prod-images/1297808946665_LARGE_BOX.jpg?quality=80&stmp=1490801645401)
 
 ### Related:

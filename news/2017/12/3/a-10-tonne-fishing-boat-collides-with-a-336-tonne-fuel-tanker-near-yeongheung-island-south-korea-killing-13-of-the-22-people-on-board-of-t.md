@@ -10,7 +10,7 @@ Formats: [HTML](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonn
 
 ### Sources:
 
-1. [Radio New Zealand](https://www.radionz.co.nz/news/world/345341/south-korea-boat-collision-leaves-13-dead)
+1. [Radio New Zealand](https://www.radionz.co.nz/news/world/345351/south-korea-boat-collision-leaves-13-dead)
 
 ### Related:
 

@@ -15,11 +15,11 @@ Netanyahu and his family are suspected of accepting expensive gifts in return fo
 ### [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md)
 The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to Cairo.
 
-### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two right-wing parties and presidential party La Republique En Marche! also achieve the 7% election threshold. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-corsican-assembly-elections-preceding-the-replacement-of-the.md)
-_Context: Corse-du-Sud, Corsica, Corsican Assembly, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, presidential, region, right-wing parties, territorial collectivity_
+### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" and presidential party La Republique En Marche! also achieve the 7% election threshold. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-corsican-assembly-elections-preceding-the-replacement-of-the.md)
+_Context: Corse-du-Sud, Corsica, Corsican Assembly, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, presidential, region, territorial collectivity_
 
-### [Several thousand demonstrators protested in central Kiev for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-demonstrators-protested-in-central-kiev-for-the-parliament-to-adopt-legislation-on-presidential-impeachment.md)
-_Context: Kiev, Ukraine crisis, parliament_
+### [Several thousand oppposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-oppposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeach.md)
+_Context: Kiev, Ukraine crisis, oppposition, parliament_
 
 ## [Previous Day...](/news/2017/12/2/index.md)
 

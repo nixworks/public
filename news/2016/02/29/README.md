@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/29/index.html)  [JSON](2016/02/29/index.json)  [XML](2016/02/29/index.xml)  
+
 ## [2016-02-29](/news/2016/02/29/index.md)
 
 ### [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md)

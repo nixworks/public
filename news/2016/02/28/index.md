@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/28/index.html)  [JSON](2016/02/28/index.json)  [XML](2016/02/28/index.xml)  
+
 ## [2016-02-28](/news/2016/02/28/index.md)
 
 ### [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md)
@@ -14,9 +17,6 @@ The Oscars 2016 will air on Sunday, Feb. 28, at 8:30 p.m. EST — find out how t
 
 ### [Thirty-six people are believed to have died at a coal mine where a methane gas ignition triggered three explosions and the collapse of the mine in Vorkuta, Russia. ](/news/2016/02/28/thirty-six-people-are-believed-to-have-died-at-a-coal-mine-where-a-methane-gas-ignition-triggered-three-explosions-and-the-collapse-of-the-m.md)
 The death toll in Russia&#039;s worst mining disaster in recent history climbed to 36 on Sunday as officials said 26 missing workers could not have survived and another six, most of them rescuers, had been killed in a new explosion.
-
-### [2016 Thane stabbing](/news/2016/02/28/2016-thane-stabbing.md)
-_Context: 2016 Thane stabbing_
 
 ### [A man fatally stabs 14 family members before taking his own life in the Indian city of Thane. ](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-taking-his-own-life-in-the-indian-city-of-thane.md)
 _Context: India, Thane_

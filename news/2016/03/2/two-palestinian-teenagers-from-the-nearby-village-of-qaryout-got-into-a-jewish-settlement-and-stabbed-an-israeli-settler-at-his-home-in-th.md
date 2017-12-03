@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.html)  [JSON](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.json)  [XML](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.xml)  
+
 ### [2016-03-2](/news/2016/03/2/index.md)
 
 # Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. 
@@ -5,11 +8,16 @@
 Israeli soldiers shot dead two Palestinian teens who had attacked an Israeli settler at his home in the occupied West Bank on Wednesday, the military said, as a wave of heightened violence entered its sixth month.
 
 
-### Source:
+### Sources:
 
 1. [AFP via i24news](http://www.i24news.tv/en/news/israel/diplomacy-defense/104762-160302-west-bank-two-palestinian-terrorists-killed-after-attempted-attack)
-2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0W40I8)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/us-israel-palestinians-idUSKCN0W40I8)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict: Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/israeli-palestinian-conflict-two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-i.md) _2017-08-27 03:45:06 (First version)_
+1. [Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Israeli soldiers shot dead two Palestinian teens who had attacked an Israeli set
 3. [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md) _Context: Israeli-Palestinian conflict, Palestinians_
 4. [A 15-year-old Palestinian teen is shot and killed by Israel Defense Forces while traveling in his family's car through an area where stones had been thrown that injured two tourists and an Israeli. The IDF says an official investigation has been opened. Preliminary results indicate Mahmoud Rafat Baderan, the teen who was shot, was not involved in any stone throwing on the highway. ](/news/2016/06/21/a-15-year-old-palestinian-teen-is-shot-and-killed-by-israel-defense-forces-while-traveling-in-his-family-s-car-through-an-area-where-stones.md) _Context: Israeli-Palestinian conflict, Palestinians_
 5. [Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.md) _Context: Israeli-Palestinian conflict, Palestinians_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict: Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/israeli-palestinian-conflict-two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-i.md) _2017-08-27 03:45:06 (First version)_
-1. [Two Palestinian teenagers, from the nearby village of Qaryout, got into a Jewish settlement and stabbed an Israeli settler at his home in the Eli settlement near Nablus in the occupied West Bank. They were stopped and killed by the army. The injured settler was taken to a hospital. ](/news/2016/03/2/two-palestinian-teenagers-from-the-nearby-village-of-qaryout-got-into-a-jewish-settlement-and-stabbed-an-israeli-settler-at-his-home-in-th.md) _(Current version)_

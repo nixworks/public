@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/1/in-california-two-current-and-one-former-san-franciscan-sheriff-deputies-are-charged-with-organizing-an-inmate-fight-club-on-the-seventh.html)  [JSON](/news/2016/03/1/in-california-two-current-and-one-former-san-franciscan-sheriff-deputies-are-charged-with-organizing-an-inmate-fight-club-on-the-seventh.json)  [XML](/news/2016/03/1/in-california-two-current-and-one-former-san-franciscan-sheriff-deputies-are-charged-with-organizing-an-inmate-fight-club-on-the-seventh.xml)  
+
 ### [2016-03-1](/news/2016/03/1/index.md)
 
 # In California, two current and one former San Franciscan sheriff deputies, are charged with organizing an inmate "fight club" on the seventh floor of the city's Hall of Justice jail. 
@@ -5,7 +8,7 @@
 Prosecutors charged two San Francisco sheriff’s deputies and a former deputy Tuesday with participating in a “fight club” in which jail inmates were forced to pummel each other while the guards watched.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/03/02/2-california-sheriffs-deputies-charged-with-organizing-inmate-fight-club.html)
 2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sf-deputies-charged-20160301-story.html)

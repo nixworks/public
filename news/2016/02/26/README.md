@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/26/index.html)  [JSON](2016/02/26/index.json)  [XML](2016/02/26/index.xml)  
+
 ## [2016-02-26](/news/2016/02/26/index.md)
 
 ### [Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. ](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.md)
@@ -37,7 +40,7 @@ The Mason County coroner’s office released the names of the family members, in
 Officials at the University of California Berkeley said on Friday that they were alerting 80,000 people, including current and former students, faculty and vendors of a cyber attack on a system that stores social security and bank account numbers.
 
 ### [Voters in Iran go to the polls for a Islamic Consultative Assembly and Assembly of Experts elections. ](/news/2016/02/26/voters-in-iran-go-to-the-polls-for-a-islamic-consultative-assembly-and-assembly-of-experts-elections.md)
-_Context: Iran, Iranian elections, 2016, Iranian legislative election, 2016, new session_
+A look at the vote and its implications as Iranians move to select a new Parliament and membership in the Assembly of Experts, an influential panel.
 
 ### [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md)
 _Context: Enda Kenny, Fine Gael, Ireland, Irish general election, 2016, Labour Party_

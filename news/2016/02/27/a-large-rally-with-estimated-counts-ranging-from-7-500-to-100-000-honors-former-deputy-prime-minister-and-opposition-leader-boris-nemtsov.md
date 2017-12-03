@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/27/a-large-rally-with-estimated-counts-ranging-from-7-500-to-100-000-honors-former-deputy-prime-minister-and-opposition-leader-boris-nemtsov.html)  [JSON](/news/2016/02/27/a-large-rally-with-estimated-counts-ranging-from-7-500-to-100-000-honors-former-deputy-prime-minister-and-opposition-leader-boris-nemtsov.json)  [XML](/news/2016/02/27/a-large-rally-with-estimated-counts-ranging-from-7-500-to-100-000-honors-former-deputy-prime-minister-and-opposition-leader-boris-nemtsov.xml)  
+
 ### [2016-02-27](/news/2016/02/27/index.md)
 
 # A large rally, with estimated counts ranging from 7,500 to 100,000, honors former deputy prime minister and opposition leader Boris Nemtsov on the first anniversary of his assassination near the Kremlin. 
@@ -5,10 +8,10 @@
 Thousands of Russians marched through Moscow to honor slain Kremlin critic Boris Nemtsov on Saturday, the first anniversary of his death, and to press their demand that the authorities find and punish the person who ordered his killing.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-nemtsov-idUSKCN0W00M4)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120777211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1Q0C3)
+1. [Reuters](https://www.reuters.com/article/us-russia-nemtsov-idUSKCN0W00M4)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120777211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1Q0C3)
 
 ### Related:
 

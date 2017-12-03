@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.html)  [JSON](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.json)  [XML](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.xml)  
+
 ### [2016-03-1](/news/2016/03/1/index.md)
 
 # The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ (TechNewsWorld](http://www.technewsworld.com/story/83182.html)
+
+### Changes:
+
+1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-publ.md) _2017-08-25 03:44:43 (First version)_
+1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Computer security firm Symantec warns a second hacking group, going by the name Odinaff, is trying to rob banks using fraudulent SWIFT messages, the same approach that yielded U.S.$81 million in February's attack on Bangladesh's central bank. So far, the group has infected 10 to 20 organizations with this malware. ](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.md) _Context: Computer security_
 4. [Cybersecurity software maker Check Point reports "HummingBad" malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind "HummingBad" which gives hackers administrative-level access to infected devices. Apple devices have been hit by similar malware. ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-and.md) _Context: Computer security_
 5. [Computer security firm McAfee uncovers one of the largest series of cyber attacks against the International Olympic Committee, Indian government, the United Nations, the steel industry and defence and security firms. ](/news/2011/08/3/computer-security-firm-mcafee-uncovers-one-of-the-largest-series-of-cyber-attacks-against-the-international-olympic-committee-indian-govern.md) _Context: Computer security_
-
-### Changes:
-
-1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-publ.md) _2017-08-25 03:44:43 (First version)_
-1. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.html)  [JSON](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.json)  [XML](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.xml)  
+
 ### [2016-03-4](/news/2016/03/4/index.md)
 
 # The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. 
@@ -5,11 +8,17 @@
 European Union officials voiced guarded optimism on Friday that Turkey was starting to cooperate to stem the flow of migrants to Europe, as Brussels outlined a timetable for restoring open borders across the continent by the end of the year.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-04/eu-weighs-year-end-target-for-lifting-internal-border-controls)
-2. [Reuters](http://www.reuters.com/article/us-europe-migrants-schengen-idUSKCN0W613U)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160304&t=2&i=1122335833&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC230TS)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-03-04/eu-weighs-year-end-target-for-lifting-internal-border-controls)
+2. [Reuters](https://www.reuters.com/article/us-europe-migrants-schengen-idUSKCN0W613U)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160304&t=2&i=1122335833&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC230TS)
+
+### Changes:
+
+1. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-s.md) _2017-08-25 03:44:47 (First version)_
+2. [European migrant crisis: The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/european-migrant-crisis-the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26.md) _2017-08-27 03:45:07 (Update)_
+2. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +26,4 @@ European Union officials voiced guarded optimism on Friday that Turkey was start
 2. [Greece faces suspension or expulsion from the European Union's Schengen Area if it can not prevent waves of migrants from crossing over the country into Macedonia. ](/news/2016/01/25/greece-faces-suspension-or-expulsion-from-the-european-union-s-schengen-area-if-it-can-not-prevent-waves-of-migrants-from-crossing-over-the.md) _Context: European migrant crisis, free travel_
 3. [EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. ](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant-crisis-has-exposed-ase.md) _Context: European migrant crisis, free travel_
 4. [Slovenia tightens controls over its Schengen border with Croatia due to concerns of an influx of migrants. ](/news/2015/11/9/slovenia-tightens-controls-over-its-schengen-border-with-croatia-due-to-concerns-of-an-influx-of-migrants.md) _Context: European migrant crisis, free travel_
-5. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: European migrant crisis_
-
-### Changes:
-
-1. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-s.md) _2017-08-25 03:44:47 (First version)_
-2. [European migrant crisis: The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/european-migrant-crisis-the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26.md) _2017-08-27 03:45:07 (Update)_
-2. [The European Commission proposes an end-of-year target date for lifting internal border checks and restoring the 26-nation, passport-free Schengen Area. ](/news/2016/03/4/the-european-commission-proposes-an-end-of-year-target-date-for-lifting-internal-border-checks-and-restoring-the-26-nation-passport-free-sc.md) _(Current version)_
+5. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Commission_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.html)  [JSON](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.json)  [XML](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.xml)  
+
 ### [2016-03-5](/news/2016/03/5/index.md)
 
 # More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. 
@@ -5,11 +8,16 @@
 An initial police investigation suggested the blast was caused by a fuel leak aboard the boat.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/184862c9cda348698949d60f936f2bcd/blast-bangkok-river-taxi-injures-several-dozen)
 2. [International Business Times](http://www.ibtimes.com/thailand-ferry-explosion-injures-more-60-cause-blast-unclear-2330732)
 2. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/03/05/thai-commuter-boat-blast.jpg)
+
+### Changes:
+
+1. [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-nat.md) _2017-08-25 03:44:47 (First version)_
+1. [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ An initial police investigation suggested the blast was caused by a fuel leak ab
 3. [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md) _Context: Bangkok, Thailand_
 4. [Thai police seek a 10th suspect in deadly Bangkok bombing. ](/news/2015/09/5/thai-police-seek-a-10th-suspect-in-deadly-bangkok-bombing.md) _Context: Bangkok, Thailand_
 5. [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md) _Context: Bangkok, Thailand_
-
-### Changes:
-
-1. [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-nat.md) _2017-08-25 03:44:47 (First version)_
-1. [More than 60 people are hospitalized after an engine explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-natu.md) _(Current version)_

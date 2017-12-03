@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/5/voters-in-the-states-of-kansas-louisiana-nebraska-maine-and-kentucky-and-the-commonwealth-of-puerto-rico-participate-in-a-party-caucus.html)  [JSON](/news/2016/03/5/voters-in-the-states-of-kansas-louisiana-nebraska-maine-and-kentucky-and-the-commonwealth-of-puerto-rico-participate-in-a-party-caucus.json)  [XML](/news/2016/03/5/voters-in-the-states-of-kansas-louisiana-nebraska-maine-and-kentucky-and-the-commonwealth-of-puerto-rico-participate-in-a-party-caucus.xml)  
+
 ### [2016-03-5](/news/2016/03/5/index.md)
 
 # Voters in the states of Kansas, Louisiana, Nebraska, Maine, and Kentucky, and the Commonwealth of Puerto Rico participate in a party caucus or vote in a primary election. 
@@ -5,16 +8,16 @@
 Kansas awarding 40 delegates in the Republican primary race
 
 
-### Source:
+### Sources:
 
 1. [ (CNN](http://edition.cnn.com/2016/03/05/politics/kansas-kentucky-louisiana-maine-nebraska-highlights/index.html)
 2. [ABC News](http://abcnews.go.com/Politics/wireStory/donald-trump-wins-gop-presidential-primary-louisiana-37432187)
 3. [CBS News](http://www.cbsnews.com/news/kansas-republican-caucus-results-live-updates/)
 4. [CNN](http://edition.cnn.com/election/primaries/states/la/Rep)
 5. [NOLA](http://www.nola.com/politics/index.ssf/2016/03/live_coverage_of_louisianas_20.html)
-6. [New York Times](http://www.nytimes.com/elections/results/kentucky)
+6. [New York Times](https://www.nytimes.com/elections/results/kentucky)
 7. [Presidential Election News](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
-8. [The Guardian](http://www.theguardian.com/us-news/live/2016/mar/05/trump-clinton-sanders-michigan-maine-primary-caucuses)
+8. [The Guardian](https://www.theguardian.com/us-news/live/2016/mar/05/trump-clinton-sanders-michigan-maine-primary-caucuses)
 9. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/05/bernie-sanders-projected-to-win-the-democratic-caucuses-in-nebraska/)
 9. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/05/ef5eeb21-f259-458c-8680-22eedb886e4a/2016-03-05t175735z191801433gf10000334797rtrmadp3usa-election-cruz.jpg)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.html)  [JSON](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.json)  [XML](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.xml)  
+
 ### [2016-03-3](/news/2016/03/3/index.md)
 
 # A riot at a prison in Guyana's capital Georgetown leaves at least 16 people dead. The riot began when inmates angered by a search that led to the confiscation of mobile phones set fires in one part of the prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-guyana-riot-idUKKCN0W52KW)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

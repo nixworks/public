@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.html)  [JSON](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.json)  [XML](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.xml)  
+
 ### [2016-02-24](/news/2016/02/24/index.md)
 
 # South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. 
@@ -5,11 +8,16 @@
 Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, Eun Soo-mi looked more like a librarian than a political saboteur as she approached the podium in South Korea’s parliament at 2:30 a.m. on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-south-korea-parliament-filibuster-terror-bill-20160224-story.html)
 2. [{''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3463220/S-Korea-lawmakers-filibuster-block-anti-terror-bill.html)
 2. [Cover Image](http://www.trbimg.com/img-56cd8930/turbine/la-fg-south-korea-parliament-filibuster-terror-bill-20160224)
+
+### Changes:
+
+1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terrori.md) _2017-08-25 03:44:39 (First version)_
+1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, 
 3. [South Korea's National Intelligence Service warns that North Korea is currently planning a "terrorist attack" on South Korea, saying Kim Jong-un himself gave the order to North Korea's State Security Department to make preparations for attacks. The NIS warning covered a large number of possible targets, including "subways, shopping malls, exhibition centers, power plants" as well as possible cyber attacks. ](/news/2016/02/18/south-korea-s-national-intelligence-service-warns-that-north-korea-is-currently-planning-a-terrorist-attack-on-south-korea-saying-kim-jon.md) _Context: South Korea, South Korea's intelligence agency_
 4. [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md) _Context: South Korea, parliamentary review_
 5. [Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. ](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.md) _Context: South Korea, parliamentary review_
-
-### Changes:
-
-1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terrori.md) _2017-08-25 03:44:39 (First version)_
-1. [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terroris.md) _(Current version)_

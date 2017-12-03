@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsung-on-several-issues-arising-out-of-that-company-s-long-running-patent-dispute-with-apple-ov.html)  [JSON](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsung-on-several-issues-arising-out-of-that-company-s-long-running-patent-dispute-with-apple-ov.json)  [XML](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsung-on-several-issues-arising-out-of-that-company-s-long-running-patent-dispute-with-apple-ov.xml)  
+
 ### [2016-02-26](/news/2016/02/26/index.md)
 
 # A federal appeals court rules in favor of Samsung on several issues arising out of that company's long-running patent dispute with Apple, overturning a $120 million jury verdict in Apple's favor in 2014. 
@@ -5,10 +8,10 @@
 A U.S. appeals court on Friday overturned a $120 million jury verdict against Samsung, finally handing the South Korean smartphone maker a significant win in its longstanding patent feud with top rival Apple.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/apple-samsung-elec-appeal-idUSKCN0VZ27R)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120670419&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1P19I)
+1. [Reuters](https://www.reuters.com/article/apple-samsung-elec-appeal-idUSKCN0VZ27R)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160227&t=2&i=1120670419&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1P19I)
 
 ### Related:
 

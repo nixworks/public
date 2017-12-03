@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/28/a-virginia-police-officer-is-killed-during-her-first-day-on-the-job-and-another-two-are-wounded-in-a-domestic-related-shooting-in-lake-rid.html)  [JSON](/news/2016/02/28/a-virginia-police-officer-is-killed-during-her-first-day-on-the-job-and-another-two-are-wounded-in-a-domestic-related-shooting-in-lake-rid.json)  [XML](/news/2016/02/28/a-virginia-police-officer-is-killed-during-her-first-day-on-the-job-and-another-two-are-wounded-in-a-domestic-related-shooting-in-lake-rid.xml)  
+
 ### [2016-02-28](/news/2016/02/28/index.md)
 
 # A Virginia police officer is killed during her first day on the job (and another two are wounded) in a domestic related shooting in Lake Ridge, Virginia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/02/27/us/prince-william-county-officer-shooting/index.html)
 
