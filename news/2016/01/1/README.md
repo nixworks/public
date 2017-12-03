@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/01/1/index.html)  [JSON](2016/01/1/index.json)  [XML](2016/01/1/index.xml)  
+
 ## [2016-01-1](/news/2016/01/1/index.md)
 
 ### [A shooting takes place at a pub in Tel Aviv, Israel, leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ](/news/2016/01/1/a-shooting-takes-place-at-a-pub-in-tel-aviv-israel-leaving-two-dead-and-eight-injured-the-gunman-managed-to-escape-and-possibly-killed-hi.md)
 Massive manhunt underway for suspect, identified as an Israeli Arab; two seriously wounded in shooting on corner of Gordon and Dizengoff; growing consensus among security officials that shooting was a terrorist attack.
 
 ### [A new 28-foot tall statue of Jesus, dubbed "Jesus de Greatest," is unveiled on New Year's Day outside St. Aloysius Catholic Church in Abajah village, Nigeria's Imo state, which is described as the tallest Jesus statue in Africa. ](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.md)
-JOHANNESBURG, South Africa — Move over, &quot;Christ the Redeemer.&quot; A new giant statue of Jesus is about to be unveiled in a Nigerian village. Dubbed &quot;Jesus de Greatest,&quot; the new statue was commissioned by a
+_Context: Imo state, Jesus, St. Aloysius Catholic Church_
 
 ### [About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. ](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.md)
 _Context: Manila, New Year's Eve, Philippines, Tondo, firecracker_

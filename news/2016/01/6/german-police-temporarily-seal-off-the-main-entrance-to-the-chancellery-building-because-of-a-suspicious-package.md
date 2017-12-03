@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entrance-to-the-chancellery-building-because-of-a-suspicious-package.html)  [JSON](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entrance-to-the-chancellery-building-because-of-a-suspicious-package.json)  [XML](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entrance-to-the-chancellery-building-because-of-a-suspicious-package.xml)  
+
 ### [2016-01-6](/news/2016/01/6/index.md)
 
 # German police temporarily seal off the main entrance to the chancellery building because of a suspicious package. 
 
-BERLIN (AP) — Police say they&#39;re checking a suspicious object found during a routine security check at the entrance to Chancellor Angela Merkel&#39;s office in Berlin. Federal police spokesman Thorsten Peters said
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/01/06/suspicious-object-merkel-office/78344530/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2016/01/06/suspicious-object-merkel-office/78344530/)
 2. [Al Arabia](http://english.alarabiya.net/en/News/world/2016/01/06/Merkel-s-office-sealed-off-due-to-suspicious-package.html)
-3. [Reuters](http://www.reuters.com/article/us-germany-security-chancellory-idUSKBN0UK0UZ20160106)
+3. [Reuters](https://www.reuters.com/article/us-germany-security-chancellory-idUSKBN0UK0UZ20160106)
 3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

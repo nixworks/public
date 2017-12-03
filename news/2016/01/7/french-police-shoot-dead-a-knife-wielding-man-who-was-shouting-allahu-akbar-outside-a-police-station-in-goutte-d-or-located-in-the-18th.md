@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.html)  [JSON](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.json)  [XML](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.xml)  
+
 ### [2016-01-7](/news/2016/01/7/index.md)
 
 # French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. 
@@ -5,10 +8,15 @@
 Paris police shoot dead a man carrying a meat cleaver exactly a year after the Charlie Hebdo massacre, as President Hollande promises to boost security.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35250344)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5E63/production/_87536142_030811526-1.jpg)
+
+### Changes:
+
+1. [January 2016 Paris police station attack: French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/january-2016-paris-police-station-attack-french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-s.md) _2017-08-27 03:44:37 (First version)_
+1. [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 3. [About 20,000 pairs of empty shoes lay around Paris, symbolizing the absent marchers who would have joined this weekend's worldwide climate change protests pressing for a bold international agreement at the upcoming climate summit there. The capital city was planned to be the center for demonstrations but French police banned large protests following the terrorist attacks this month. ](/news/2015/11/29/about-20-000-pairs-of-empty-shoes-lay-around-paris-symbolizing-the-absent-marchers-who-would-have-joined-this-weekend-s-worldwide-climate-c.md) _Context: French police, Paris_
 4. [Belgian authorities reduce the threat level in Brussels from its highest level of four to three. The escalation to level four came after suspects in the ISIL attacks in Paris were linked to the city. Suspected Paris gunman, Salah Abdeslam, who lived in Brussels for several years, remains at large. ](/news/2015/11/26/belgian-authorities-reduce-the-threat-level-in-brussels-from-its-highest-level-of-four-to-three-the-escalation-to-level-four-came-after-sus.md) _Context: ISIL, Paris_
 5. [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md) _Context: French police, Paris_
-
-### Changes:
-
-1. [January 2016 Paris police station attack: French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/january-2016-paris-police-station-attack-french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-s.md) _2017-08-27 03:44:37 (First version)_
-1. [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md) _(Current version)_

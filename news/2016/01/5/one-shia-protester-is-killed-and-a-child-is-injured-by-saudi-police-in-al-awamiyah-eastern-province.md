@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.html)  [JSON](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.json)  [XML](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.xml)  
+
 ### [2016-01-5](/news/2016/01/5/index.md)
 
 # One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [FT](https://next.ft.com/content/528ee8c6-b2ad-11e5-8358-9a82b43f6b2f)
+
+### Changes:
+
+1. [Nimr al-Nimr: One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/nimr-al-nimr-one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _2017-08-27 03:44:36 (First version)_
+1. [One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Saudi Arabia breaks off diplomatic relations with Iran after Sheikh Nimr's execution and an attack on the Saudi embassy in Tehran. ](/news/2016/01/3/saudi-arabia-breaks-off-diplomatic-relations-with-iran-after-sheikh-nimr-s-execution-and-an-attack-on-the-saudi-embassy-in-tehran.md) _Context: Nimr al-Nimr_
 4. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Eastern Province_
 5. [A gunman shoots dead two Saudi Arabian policemen while they are on patrol in their vehicle in Saihat, located in Saudi Arabia's restive Eastern Province, which is predominantly Shia. ](/news/2015/11/19/a-gunman-shoots-dead-two-saudi-arabian-policemen-while-they-are-on-patrol-in-their-vehicle-in-saihat-located-in-saudi-arabia-s-restive-east.md) _Context: Eastern Province_
-
-### Changes:
-
-1. [Nimr al-Nimr: One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/nimr-al-nimr-one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _2017-08-27 03:44:36 (First version)_
-1. [One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/5/index.html)  [JSON](2016/01/5/index.json)  [XML](2016/01/5/index.xml)  
+
 ## [2016-01-5](/news/2016/01/5/index.md)
 
 ### [A United States Army soldier is killed and two others wounded in a joint operation with Afghan National Security Forces in Afghanistan's southern Helmand Province. ](/news/2016/01/5/a-united-states-army-soldier-is-killed-and-two-others-wounded-in-a-joint-operation-with-afghan-national-security-forces-in-afghanistan-s-sou.md)
@@ -19,7 +22,7 @@ _Context: ISIL, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.
 
 ### [California's state climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/california-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a-dent-in-the-ongoing-drought-bu.md)
-The heavy rain brings a double-edged sword: The likelihood of floods and landslides in parts of the state, of which 97.3% is experiencing drought.
+A major storm system coming in from the Pacific will dump heavy rains on California for the next two weeks, perhaps making the strongest El Niño in history.
 
 ### [Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-schedu.md)
 Saudi Arabia signaled on Tuesday that the breach in its relations with Iran would not affect talks on Syria, another round of which is scheduled in Geneva this month.
@@ -34,7 +37,7 @@ _Context: Gao Jin, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Ar
 _Context: Deputy Communist Party Secretary, Lu Xiwen_
 
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: 10 Downing Street, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, United Kingdom, United States, United States presidential election, 2016, hate speech_
+_Context: 10 Downing Street, 2016 U.S. presidential election, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, United Kingdom, United States, hate speech_
 
 ### [The United Kingdom's Prime Minister David Cameron announces he will suspend collective responsibility ahead of the referendum on the country's EU membership, allowing ministers to campaign for the UK to leave the European Union. A member of his cabinet was reportedly due to resign over the issue within 24 hours. ](/news/2016/01/5/the-united-kingdom-s-prime-minister-david-cameron-announces-he-will-suspend-collective-responsibility-ahead-of-the-referendum-on-the-country.md)
 The Prime Minister announces that he will suspend collective responsibility ahead of the referendum amid fears in Downing Street that Chris Grayling was planning to resign over the issue

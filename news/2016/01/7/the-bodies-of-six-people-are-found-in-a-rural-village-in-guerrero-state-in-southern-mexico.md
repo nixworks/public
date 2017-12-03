@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.html)  [JSON](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.json)  [XML](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.xml)  
+
 ### [2016-01-7](/news/2016/01/7/index.md)
 
 # The bodies of six people are found in a rural village in Guerrero state in southern Mexico. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [La Prensasa](http://www.laprensasa.com/309_america-in-english/3549492_6-bodies-found-in-rural-area-in-southern-mexico.html)
 

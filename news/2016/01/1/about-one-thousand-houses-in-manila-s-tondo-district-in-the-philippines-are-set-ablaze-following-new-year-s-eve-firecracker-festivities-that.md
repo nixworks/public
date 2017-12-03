@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.html)  [JSON](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.json)  [XML](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.xml)  
+
 ### [2016-01-1](/news/2016/01/1/index.md)
 
 # About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CTV News](http://www.ctvnews.ca/world/firecrackers-spark-blaze-in-manila-that-leaves-1-dead-380-injured-1.2720303)
 

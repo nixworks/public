@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.html)  [JSON](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.json)  [XML](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.xml)  
+
 ### [2016-01-1](/news/2016/01/1/index.md)
 
 # A new 28-foot tall statue of Jesus, dubbed "Jesus de Greatest," is unveiled on New Year's Day outside St. Aloysius Catholic Church in Abajah village, Nigeria's Imo state, which is described as the tallest Jesus statue in Africa. 
 
-JOHANNESBURG, South Africa — Move over, &quot;Christ the Redeemer.&quot; A new giant statue of Jesus is about to be unveiled in a Nigerian village. Dubbed &quot;Jesus de Greatest,&quot; the new statue was commissioned by a
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2015/12/31/new-giant-jesus-statue/78122392/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2015/12/31/new-giant-jesus-statue/78122392/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

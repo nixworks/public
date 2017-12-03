@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.html)  [JSON](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.json)  [XML](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.xml)  
+
 ### [2016-01-7](/news/2016/01/7/index.md)
 
 # Tribal chair Charlotte Rodrique of the local Burns Paiute Tribe has joined in asking the occupiers to leave saying "The protesters have no claim to this land". Rodrique further cites a treaty, never ratified by the United States Congress, giving ownership of the land to the tribe. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post via MSN](http://www.msn.com/en-us/news/us/go-vegan-and-go-home-occupiers-under-siege-from-peta-native-tribe/ar-AAgtkDr?li=BBnb7Kz&ocid=iehp)
 

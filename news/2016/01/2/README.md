@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/2/index.html)  [JSON](2016/01/2/index.json)  [XML](2016/01/2/index.xml)  
+
 ## [2016-01-2](/news/2016/01/2/index.md)
 
 ### [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md)

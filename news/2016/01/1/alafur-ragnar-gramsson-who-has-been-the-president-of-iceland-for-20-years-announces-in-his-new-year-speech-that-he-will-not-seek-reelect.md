@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.html)  [JSON](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.json)  [XML](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.xml)  
+
 ### [2016-01-1](/news/2016/01/1/index.md)
 
 # Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Visir](http://icelandmag.visir.is/article/olafur-ragnar-grimsson-president-iceland-will-not-seek-re-election-a-sixth-term-2016)
 

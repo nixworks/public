@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.html)  [JSON](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.json)  [XML](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.xml)  
+
 ### [2016-01-5](/news/2016/01/5/index.md)
 
 # Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1897988/close-aide-chinas-president-xi-jinping-named-beijings)
 

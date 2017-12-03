@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.html)  [JSON](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.json)  [XML](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.xml)  
+
 ### [2016-01-4](/news/2016/01/4/index.md)
 
 # The President of the United States Barack Obama announces executive orders to expand background checks for firearms and toughen regulation of firearms. 
 
+President Obama’s executive actions on guns will stop short of the kind of large-scale changes that he unsuccessfully sought from Congress three years ago.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/01/05/us/politics/obama-says-he-will-act-on-gun-control-in-coming-days.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2016/01/05/us/politics/obama-says-he-will-act-on-gun-control-in-coming-days.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2016/01/05/us/05guns-web1/05guns-web1-facebookJumbo.jpg)
 
 ### Related:
 

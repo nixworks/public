@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/6/index.html)  [JSON](2016/01/6/index.json)  [XML](2016/01/6/index.xml)  
+
 ## [2016-01-6](/news/2016/01/6/index.md)
 
 ### [The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. ](/news/2016/01/6/the-islamic-state-s-libyan-branch-continues-attacks-on-libya-s-oil-ports-of-sidra-and-ra-s-lanuf-resulting-in-at-least-10-security-personne.md)
@@ -16,7 +19,7 @@ _Context: Keystone XL, North American Free Trade Agreement, TransCanada, United 
 A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appears to have been artificial, according to South Korea’s meteorological service, raising the prospect the isolated regime tested a nuclear device.
 
 ### [German police temporarily seal off the main entrance to the chancellery building because of a suspicious package. ](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entrance-to-the-chancellery-building-because-of-a-suspicious-package.md)
-BERLIN (AP) — Police say they&#39;re checking a suspicious object found during a routine security check at the entrance to Chancellor Angela Merkel&#39;s office in Berlin. Federal police spokesman Thorsten Peters said
+_Context: German police, chancellery building_
 
 ### [Texas state trooper Brian Encinia is charged with perjury in connection with the death of Sandra Bland. ](/news/2016/01/6/texas-state-trooper-brian-encinia-is-charged-with-perjury-in-connection-with-the-death-of-sandra-bland.md)
 A Texas state trooper who arrested Sandra Bland after a contentious traffic stop last summer was fired Wednesday after being charged with perjury for allegedly lying about his confrontation with the black woman who died three days later in jail.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.html)  [JSON](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.json)  [XML](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.xml)  
+
 ### [2016-01-6](/news/2016/01/6/index.md)
 
 # TransCanada, the firm that unsuccessfully applied for cross-border permission to build the Keystone XL pipeline, files a lawsuit against the United States alleging that the refusal of permission violated the North American Free Trade Agreement. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-transcanada-keystone-idUSKBN0UK2JG20160106)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160106&t=2&i=1107512512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC051AD)
+1. [Reuters](https://www.reuters.com/article/us-transcanada-keystone-idUSKBN0UK2JG20160106)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160106&t=2&i=1107512512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC051AD)
 
 ### Related:
 

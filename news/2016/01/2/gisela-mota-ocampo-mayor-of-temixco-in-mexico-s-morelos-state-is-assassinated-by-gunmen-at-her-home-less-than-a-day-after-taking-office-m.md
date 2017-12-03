@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.html)  [JSON](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.json)  [XML](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.xml)  
+
 ### [2016-01-2](/news/2016/01/2/index.md)
 
 # Gisela Mota Ocampo, mayor of Temixco in Mexico's Morelos state is assassinated by gunmen at her home, less than a day after taking office. Morelos Governor, Graco Ramirez, attributed Mota's killing to organized crime, without citing a particular drug cartel or gang. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3382244/Mexico-mayor-slain-day-taking-office.html)
 

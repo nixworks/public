@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/7/index.html)  [JSON](2016/01/7/index.json)  [XML](2016/01/7/index.xml)  
+
 ## [2016-01-7](/news/2016/01/7/index.md)
 
 ### [At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-the-libyan-town-of-zliten.md)

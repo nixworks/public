@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.html)  [JSON](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.json)  [XML](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.xml)  
+
 ### [2016-01-7](/news/2016/01/7/index.md)
 
 # Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. 
@@ -5,7 +8,7 @@
 FORMER EastEnders actress Sian Blake and her two young sons, Zachary and Amon, died as a result of head and neck injuries, police say.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/eastenders-actress-sons-murdered/news-story/5ea8bc580d1c02dd4f65679783d581eb?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

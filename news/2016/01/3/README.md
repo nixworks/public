@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/3/index.html)  [JSON](2016/01/3/index.json)  [XML](2016/01/3/index.xml)  
+
 ## [2016-01-3](/news/2016/01/3/index.md)
 
 ### [The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. ](/news/2016/01/3/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-a-suicide-bomb-attack-on-a-iraqi-army-base-camp-speicher-now-known-as-t.md)

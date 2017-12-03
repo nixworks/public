@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/2/armed-militiamen-including-members-of-the-bundy-family-of-nevada-take-over-and-occupy-the-headquarters-of-the-malheur-national-wildlife-re.html)  [JSON](/news/2016/01/2/armed-militiamen-including-members-of-the-bundy-family-of-nevada-take-over-and-occupy-the-headquarters-of-the-malheur-national-wildlife-re.json)  [XML](/news/2016/01/2/armed-militiamen-including-members-of-the-bundy-family-of-nevada-take-over-and-occupy-the-headquarters-of-the-malheur-national-wildlife-re.xml)  
+
 ### [2016-01-2](/news/2016/01/2/index.md)
 
 # Armed militiamen, including members of the Bundy family of Nevada, take over and occupy the headquarters of the Malheur National Wildlife Refuge near Burns, Oregon following a peaceful rally in support of Dwight and Steve Hammond, who were convicted of arson in 2012 for setting fires on public land adjacent to their property. 
@@ -5,7 +8,7 @@
 An estimated 300 people joined a protest march in Burns Saturday to support a local ranching family. None of the anticipated trouble developed. 
 
 
-### Source:
+### Sources:
 
 1. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/01/drama_in_burns_ends_with_quiet.html)
 1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2016/01/03/19486415-large.jpg)
