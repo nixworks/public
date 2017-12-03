@@ -3,7 +3,7 @@ Formats: [HTML](2017/11/30/index.html)  [JSON](2017/11/30/index.json)  [XML](201
 
 ## [2017-11-30](/news/2017/11/30/index.md)
 
-### [A Somali committee determined that the death toll of the twin boming in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-boming-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-512.md)
+### [A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-bombing-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-51.md)
 More than 500 people were killed in twin bomb blasts in Mogadishu in October, a Somali committee looking into the attack said on Thursday, raising the death toll from at least 358.
 
 ### [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md)

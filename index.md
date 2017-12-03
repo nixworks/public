@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/2/index.md)
 
-### [Israel launched surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launched-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
+### [Israel launchs surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launchs-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-reports.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
@@ -18,8 +18,8 @@ _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Franci
 ### [The former president of Yemen Ali Abdullah Saleh has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-be.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
-### [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md)
-_Context: United States Senate, tax-reform bill_
+### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
+_Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
 ### [Voyager 1 launches secondary thrusters. ](/news/2017/12/2/voyager-1-launches-secondary-thrusters.md)
 This week, the scientists and engineers on the Voyager team did something very special.
@@ -31,8 +31,8 @@ This week, the scientists and engineers on the Voyager team did something very s
 ### [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md)
 PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand grenades stormed the campus of the Agriculture Training Institute in Peshawar city on Friday morning, killing at least 12 people and injuring more than 35 others. Most of the victims were students. Provincial police chief Sa...
 
-### [ The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago.md)
-_Context: Bitcoin, Chicago Board Options Exchange, Chicago Mercantile Exchange_
+### [The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago-b.md)
+_Context: Bitcoin, Chicago Board Options Exchange, Chicago Mercantile Exchange, Economics of bitcoin, U.S. Commodity Futures Trading Commission_
 
 ### [The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/the-philippine-department-of-health-temporarily-suspends-a-school-based-dengue-vaccination-program-after-dengvaxia-vaccine-maker-sanofi-past.md)
 (2nd UPDATE) Health Secretary Francisco Duque III temporarily halts the program after Dengvaxia maker Sanofi Pasteur said its product poses higher risks to people without prior infection
@@ -50,7 +50,7 @@ Jay Weatherill marks the official launch as Elon Musk delivers on his promise to
 
 ## [Day Before Yesterday](/news/2017/11/30/index.md)
 
-### [A Somali committee determined that the death toll of the twin boming in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-boming-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-512.md)
+### [A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-bombing-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-51.md)
 More than 500 people were killed in twin bomb blasts in Mogadishu in October, a Somali committee looking into the attack said on Thursday, raising the death toll from at least 358.
 
 ### [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md)

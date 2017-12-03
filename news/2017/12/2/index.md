@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/2/index.html)  [JSON](2017/12/2/index.json)  [XML](2017/
 
 ## [2017-12-2](/news/2017/12/2/index.md)
 
-### [Israel launched surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launched-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
+### [Israel launchs surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launchs-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-reports.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
@@ -18,8 +18,8 @@ _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Franci
 ### [The former president of Yemen Ali Abdullah Saleh has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-be.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
-### [The United States Senate passes the Republican tax-reform bill. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill.md)
-_Context: United States Senate, tax-reform bill_
+### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
+_Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
 ### [Voyager 1 launches secondary thrusters. ](/news/2017/12/2/voyager-1-launches-secondary-thrusters.md)
 This week, the scientists and engineers on the Voyager team did something very special.
