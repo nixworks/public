@@ -21,7 +21,7 @@ Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lif
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
-### [Voyager 1 launches secondary thrusters. ](/news/2017/12/2/voyager-1-launches-secondary-thrusters.md)
+### [Voyager 1 manages successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-manages-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firing.md)
 This week, the scientists and engineers on the Voyager team did something very special.
 
 ## [Previous Day...](/news/2017/12/1/index.md)

@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/3/index.md)
 
-### [The Saudi-led coalition in Yemen has welcomed an offer of talks by former President Ali Abdullah Saleh whose forces have been fighting against it. ](/news/2017/12/3/the-saudi-led-coalition-in-yemen-has-welcomed-an-offer-of-talks-by-former-president-ali-abdullah-saleh-whose-forces-have-been-fighting-again.md)
-Ex-President Ali Abdullah Saleh, whose forces are fighting the alliance, has offered to hold talks.
+### [Saudi Air Force bombs Houthi positions in southern Sanaa in support of Ali Abdullah Saleh-headed General People's Congress ](/news/2017/12/3/saudi-air-force-bombs-houthi-positions-in-southern-sanaa-in-support-of-ali-abdullah-saleh-headed-general-people-s-congress.md)
+Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
 
 ---
 
@@ -28,7 +28,7 @@ Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lif
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
-### [Voyager 1 launches secondary thrusters. ](/news/2017/12/2/voyager-1-launches-secondary-thrusters.md)
+### [Voyager 1 manages successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-manages-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firing.md)
 This week, the scientists and engineers on the Voyager team did something very special.
 
 ---
