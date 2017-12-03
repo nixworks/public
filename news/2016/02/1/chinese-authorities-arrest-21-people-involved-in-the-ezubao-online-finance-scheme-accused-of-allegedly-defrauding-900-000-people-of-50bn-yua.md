@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/1/chinese-authorities-arrest-21-people-involved-in-the-ezubao-online-finance-scheme-accused-of-allegedly-defrauding-900-000-people-of-50bn-yua.html)  [JSON](/news/2016/02/1/chinese-authorities-arrest-21-people-involved-in-the-ezubao-online-finance-scheme-accused-of-allegedly-defrauding-900-000-people-of-50bn-yua.json)  [XML](/news/2016/02/1/chinese-authorities-arrest-21-people-involved-in-the-ezubao-online-finance-scheme-accused-of-allegedly-defrauding-900-000-people-of-50bn-yua.xml)  
+
 ### [2016-02-1](/news/2016/02/1/index.md)
 
 # Chinese authorities arrest 21 people involved in the Ezubao online finance scheme accused of allegedly defrauding 900,000 people of 50bn yuan ($7.6bn; GBP5.3bn) in a Ponzi scheme. 
@@ -5,7 +8,7 @@
 China arrests 21 people involved in an online finance scam alleged to have robbed some 50bn yuan ($7.6bn) from around 900,000 investors.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-35457111)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5CC8/production/_88025732_chinamoneytradepicture.jpg)

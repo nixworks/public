@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/5/index.html)  [JSON](2016/02/5/index.json)  [XML](2016/02/5/index.xml)  
+
 ## [2016-02-5](/news/2016/02/5/index.md)
 
 ### [The Syrian Army and its allies capture the town of Ataman, near the city of Daraa. ](/news/2016/02/5/the-syrian-army-and-its-allies-capture-the-town-of-ataman-near-the-city-of-daraa.md)

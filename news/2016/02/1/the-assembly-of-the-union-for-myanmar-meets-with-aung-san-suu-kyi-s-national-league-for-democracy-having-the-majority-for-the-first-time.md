@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.html)  [JSON](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.json)  [XML](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.xml)  
+
 ### [2016-02-1](/news/2016/02/1/index.md)
 
 # The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/4201894/burma-parliament-democracy-myanmar-aung-san-suu-kyi/)
 

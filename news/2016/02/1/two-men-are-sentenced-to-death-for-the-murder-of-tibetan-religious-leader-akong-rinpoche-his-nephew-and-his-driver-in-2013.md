@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of-tibetan-religious-leader-akong-rinpoche-his-nephew-and-his-driver-in-2013.html)  [JSON](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of-tibetan-religious-leader-akong-rinpoche-his-nephew-and-his-driver-in-2013.json)  [XML](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of-tibetan-religious-leader-akong-rinpoche-his-nephew-and-his-driver-in-2013.xml)  
+
 ### [2016-02-1](/news/2016/02/1/index.md)
 
 # Two men are sentenced to death for the murder of Tibetan religious leader Akong Rinpoche, his nephew and his driver in 2013. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-china-tibet-murder-idUSKCN0VA1UL?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-china-tibet-murder-idUSKCN0VA1UL?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

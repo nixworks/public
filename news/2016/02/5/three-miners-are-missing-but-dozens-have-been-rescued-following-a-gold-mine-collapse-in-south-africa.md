@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/5/three-miners-are-missing-but-dozens-have-been-rescued-following-a-gold-mine-collapse-in-south-africa.html)  [JSON](/news/2016/02/5/three-miners-are-missing-but-dozens-have-been-rescued-following-a-gold-mine-collapse-in-south-africa.json)  [XML](/news/2016/02/5/three-miners-are-missing-but-dozens-have-been-rescued-following-a-gold-mine-collapse-in-south-africa.xml)  
+
 ### [2016-02-5](/news/2016/02/5/index.md)
 
 # Three miners are missing but dozens have been rescued following a gold mine collapse in South Africa. 
@@ -5,7 +8,7 @@
 Scores of South African miners have been rescued and three workers missing in gold-mine collapse.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2016-02-06/south-african-mine-collapse-traps-90-people/7145550)
 1. [Cover Image](http://www.abc.net.au/news/image/7145740-1x1-700x700.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.html)  [JSON](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.json)  [XML](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.xml)  
+
 ### [2016-02-5](/news/2016/02/5/index.md)
 
 # At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. 
@@ -5,7 +8,7 @@
 At least 37 people were killed and as many injured when a Gujarat State Road Transport Corporation (GSRTC) bus fell from a river bridge in Navsari district in South Gujarat on...
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india/at-least-37-killed-as-bus-plunges-into-river-in-gujarat/story-3UoNJr8kTlyhK8bI2LTZML.html)
 1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/02/06/Pictures/india-bus-accident_7eb4740e-cc41-11e5-83ed-24f59eb81169.jpg)

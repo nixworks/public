@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.html)  [JSON](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.json)  [XML](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.xml)  
+
 ### [2016-01-30](/news/2016/01/30/index.md)
 
 # Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. 
@@ -5,10 +8,15 @@
 WA residents in the north-west Pilbara region are bracing for strong wind gusts and heavy rain as tropical Cyclone Stan makes landfall on Sunday morning.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-01-30/pilbara-towns-brace-for-tropical-cyclone-stan/7126548)
 1. [Cover Image](http://www.abc.net.au/news/image/7127328-1x1-700x700.jpg)
+
+### Changes:
+
+1. [2015-16 Australian region cyclone season: Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/2015-16-australian-region-cyclone-season-western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-m.md) _2017-08-27 03:44:47 (First version)_
+1. [Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 3. [Cyclone Christine makes landfall in the Pilbara region of Western Australia, causing evacuations in Port Hedland and winds over 170 km-h in Roebourne ](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.md) _Context: Pilbara, Western Australia_
 4. [A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. ](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-western-australia-s-pilbara-and-kimberly-regions-as-cyclone-lua-approaches-at-category-3-strength.md) _Context: Pilbara, Western Australia_
 5. [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md) _Context: Pilbara, Western Australia_
-
-### Changes:
-
-1. [2015-16 Australian region cyclone season: Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/2015-16-australian-region-cyclone-season-western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-m.md) _2017-08-27 03:44:47 (First version)_
-1. [Western Australia's Pilbara region braces for the impact of Cyclone Stan, which is expected to make landfall as a Category Three storm. ](/news/2016/01/30/western-australia-s-pilbara-region-braces-for-the-impact-of-cyclone-stan-which-is-expected-to-make-landfall-as-a-category-three-storm.md) _(Current version)_

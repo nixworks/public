@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/4/five-adults-and-one-child-are-found-stabbed-to-death-in-the-chicago-neighborhood-of-gage-park-in-the-u-s.html)  [JSON](/news/2016/02/4/five-adults-and-one-child-are-found-stabbed-to-death-in-the-chicago-neighborhood-of-gage-park-in-the-u-s.json)  [XML](/news/2016/02/4/five-adults-and-one-child-are-found-stabbed-to-death-in-the-chicago-neighborhood-of-gage-park-in-the-u-s.xml)  
+
 ### [2016-02-4](/news/2016/02/4/index.md)
 
 # Five adults and one child are found stabbed to death in the Chicago neighborhood of Gage Park in the U.S. 
@@ -5,7 +8,7 @@
 Five adults and a child were found dead inside a Gage Park home Thursday afternoon, all of them tied up and stabbed, police said.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/ct-multiple-people-dead-southwest-side-20160204-story.html)
 1. [Cover Image](http://www.trbimg.com/img-56b3cae5/turbine/ct-multiple-people-dead-southwest-side-20160204)

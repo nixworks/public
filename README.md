@@ -9,8 +9,11 @@ Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
 _Context: South Korea, Yeongheung Island_
 
-### [In front of the home of the Attorney General of Israel in Tel Aviv, up to 20,000 people demonstrate against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-front-of-the-home-of-the-attorney-general-of-israel-in-tel-aviv-up-to-20-000-people-demonstrate-against-the-slow-pace-of-corruption-inve.md)
+### [In Tel Aviv, up to 20,000 people demonstrate in front of the home of the Attorney General of Israel, Avichai Mandelblit, against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-tel-aviv-up-to-20-000-people-demonstrate-in-front-of-the-home-of-the-attorney-general-of-israel-avichai-mandelblit-against-the-slow-pa.md)
 Netanyahu and his family are suspected of accepting expensive gifts in return for political favors for several wealthy donors, including the Hollywood producer and media magnate Arnon Milchan.
+
+### [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections, says she doesn't know his whereabouts after his arrest in Dubai and alleged deportation to Cairo. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-says-she-doesn-t-know-his-whereabouts-after-his-arrest-i.md)
+_Context: Ahmed Shafiq, Cairo, Dubai, presidential_
 
 ---
 
@@ -22,7 +25,7 @@ Syria says Israel attacked an army position outside Damascus and two missiles we
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
-### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md)
+### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. It also kills seven people in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-it-also-kills-seven-people-in-sri-lanka.md)
 Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved beyond Lakshadweep, the weather department said bringing huge relief to the people of the rain-battered states. However, many fishermen are still missing and warships have been deployed to comb the southeastern coast for f...
 
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)

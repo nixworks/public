@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/3/index.html)  [JSON](2016/02/3/index.json)  [XML](2016/02/3/index.xml)  
+
 ## [2016-02-3](/news/2016/02/3/index.md)
 
 ### [Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.md)

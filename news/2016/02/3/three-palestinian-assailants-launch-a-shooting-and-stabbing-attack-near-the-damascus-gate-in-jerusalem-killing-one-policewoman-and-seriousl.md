@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.html)  [JSON](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.json)  [XML](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.xml)  
+
 ### [2016-02-3](/news/2016/02/3/index.md)
 
 # Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. 
@@ -5,11 +8,16 @@
 Hadar Cohen of Or Yehuda succumbs to wounds in hospital, second officer in serious but stable condition; 3 Palestinian assailants killed by police after assault at Damascus Gate
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/fb8c335ff2f24c0aa993115196424f8c/gazas-hamas-rulers-says-2-fighters-dead-tunnel-collapse)
 2. [The Times of Israel](http://www.timesofisrael.com/border-police-officer-19-dies-after-jerusalem-terror-attack/)
 2. [Cover Image](http://cdn.timesofisrael.com/uploads/2016/02/AmbwLVN-YEYeg2WD0f8G-6ZUQQ76xibd7ncmQHPRp_F51.jpg)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-i.md) _2017-08-27 03:44:48 (First version)_
+1. [Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Hadar Cohen of Or Yehuda succumbs to wounds in hospital, second officer in serio
 3. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _Context: Israeli-Palestinian conflict (2015-present), Jerusalem, Palestinians_
 4. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Jerusalem, Palestinians_
 5. [A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. ](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.md) _Context: Israeli-Palestinian conflict (2015-present), Jerusalem_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-i.md) _2017-08-27 03:44:48 (First version)_
-1. [Three Palestinian assailants launch a shooting and stabbing attack near the Damascus Gate in Jerusalem, killing one policewoman and seriously injuring another, and lightly injuring a civilian, before being shot and killed by other security forces at the scene. Pipe bombs were discovered on their bodies. ](/news/2016/02/3/three-palestinian-assailants-launch-a-shooting-and-stabbing-attack-near-the-damascus-gate-in-jerusalem-killing-one-policewoman-and-seriousl.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.html)  [JSON](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.json)  [XML](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.xml)  
+
 ### [2016-02-4](/news/2016/02/4/index.md)
 
 # The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. 
@@ -5,11 +8,11 @@
 At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and that
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/russia-strikes-kill-21-civilians-syrias-aleppo-city-133949657.html)
+1. [AFP via Yahoo!](https://news.yahoo.com/russia-strikes-kill-21-civilians-syrias-aleppo-city-133949657.html)
 2. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-idUKKCN0VC165)
-2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ssACD_afSM3KQDczLCuagw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ff5943e4f915a3211af64188c7dd3a10648fb688.jpg)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/filCJa3Ym5Xwf9HZG4Vtug--~B/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ff5943e4f915a3211af64188c7dd3a10648fb688.jpg)
 
 ### Related:
 

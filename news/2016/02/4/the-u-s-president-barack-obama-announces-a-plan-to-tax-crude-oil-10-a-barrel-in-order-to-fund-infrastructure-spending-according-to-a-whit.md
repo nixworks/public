@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-to-tax-crude-oil-10-a-barrel-in-order-to-fund-infrastructure-spending-according-to-a-whit.html)  [JSON](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-to-tax-crude-oil-10-a-barrel-in-order-to-fund-infrastructure-spending-according-to-a-whit.json)  [XML](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-to-tax-crude-oil-10-a-barrel-in-order-to-fund-infrastructure-spending-according-to-a-whit.xml)  
+
 ### [2016-02-4](/news/2016/02/4/index.md)
 
 # The U.S. President Barack Obama announces a plan to tax crude oil $10 a barrel in order to fund infrastructure spending, according to a White House statement. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-budget-oil-idUSKCN0VD2Q7)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160204&t=2&i=1115020698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC131EY)
+1. [Reuters](https://www.reuters.com/article/us-usa-budget-oil-idUSKCN0VD2Q7)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160204&t=2&i=1115020698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC131EY)
 
 ### Related:
 

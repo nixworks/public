@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/7/index.html)  [JSON](2016/02/7/index.json)  [XML](2016/02/7/index.xml)  
+
 ## [2016-02-7](/news/2016/02/7/index.md)
 
 ### [The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed-buildings-in-tainan-wh.md)

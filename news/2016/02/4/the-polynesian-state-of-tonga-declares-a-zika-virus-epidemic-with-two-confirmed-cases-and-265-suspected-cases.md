@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.html)  [JSON](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.json)  [XML](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.xml)  
+
 ### [2016-02-4](/news/2016/02/4/index.md)
 
 # The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. 
@@ -5,11 +8,16 @@
 Tonga has declared a Zika epidemic after confirming two people have contracted the mosquito-borne virus, with 265 suspected cases.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35490524?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/295746/tonga-declares-zika-epidemic)
 2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
+
+### Changes:
+
+1. [Zika virus outbreak: The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/zika-virus-outbreak-the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _2017-08-27 03:44:49 (First version)_
+1. [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Tonga has declared a Zika epidemic after confirming two people have contracted t
 3. [ Cuban officials announce they have detected the first case of the Zika virus transmitted inside the country: a 21-year-old Havana woman who had not traveled abroad. Cuba has reported a handful of travel-associated Zika cases, all believed imported from Venezuela. ](/news/2016/03/16/cuban-officials-announce-they-have-detected-the-first-case-of-the-zika-virus-transmitted-inside-the-country-a-21-year-old-havana-woman-who.md) _Context: Zika virus, Zika virus outbreak_
 4. [The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _Context: Zika virus, Zika virus outbreak_
 5. [Pope Francis indicates that contraceptives could be allowed, as the "lesser of two evils" vis-a-vis the sin of abortion, in addressing the life-threatening problem the Zika virus presents. He noted that Pope Paul VI, "in a difficult situation in Africa, permitted nuns to use contraceptives in cases of rape". ](/news/2016/02/18/pope-francis-indicates-that-contraceptives-could-be-allowed-as-the-lesser-of-two-evils-vis-a-vis-the-sin-of-abortion-in-addressing-the.md) _Context: Zika virus, Zika virus outbreak_
-
-### Changes:
-
-1. [Zika virus outbreak: The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/zika-virus-outbreak-the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _2017-08-27 03:44:49 (First version)_
-1. [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _(Current version)_

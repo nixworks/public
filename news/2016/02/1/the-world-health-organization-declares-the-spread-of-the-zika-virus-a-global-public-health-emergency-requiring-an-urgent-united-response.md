@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/1/the-world-health-organization-declares-the-spread-of-the-zika-virus-a-global-public-health-emergency-requiring-an-urgent-united-response.html)  [JSON](/news/2016/02/1/the-world-health-organization-declares-the-spread-of-the-zika-virus-a-global-public-health-emergency-requiring-an-urgent-united-response.json)  [XML](/news/2016/02/1/the-world-health-organization-declares-the-spread-of-the-zika-virus-a-global-public-health-emergency-requiring-an-urgent-united-response.xml)  
+
 ### [2016-02-1](/news/2016/02/1/index.md)
 
 # The World Health Organization declares the spread of the Zika virus a global public health emergency requiring an urgent, united response. 
@@ -5,7 +8,7 @@
 Zika poses a global public health emergency requiring a united response - WHO.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/health-35459797)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/89D3/production/_88038253_gettyimages-507162214.jpg)

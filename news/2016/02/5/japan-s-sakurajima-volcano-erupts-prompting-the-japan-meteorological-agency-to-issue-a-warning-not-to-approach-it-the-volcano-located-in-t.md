@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.html)  [JSON](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.json)  [XML](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.xml)  
+
 ### [2016-02-5](/news/2016/02/5/index.md)
 
 # Japan's Sakurajima volcano erupts prompting the Japan Meteorological Agency to issue a warning not to approach it. The volcano, located in the southern Kagoshima Prefecture, is situated 50km from the Sendai Nuclear Power Plant. 
@@ -5,7 +8,7 @@
 Japan’s Sakurajima volcano, situated about 50km from the Sendai nuclear station, has erupted with the country&#039;s meteorological agency issuing an orange warning not to approach it.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/331387-japan-sakurajima-volcano-plant/)
 1. [Cover Image](https://img.rt.com/files/2016.02/article/56b48815c461882f2e8b45de.jpg)

@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.html)  [JSON](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.json)  [XML](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.xml)  
+
 ### [2016-01-30](/news/2016/01/30/index.md)
 
 # Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. 
 
-Health minister says 4-year-old showed symptoms after returning from trip to Texas.
 
 
-### Source:
+
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/us-health-zika-colombia-idINKCN0V80UK)
-2. [USA TODAY](http://www.usatoday.com/story/news/2016/01/30/jamaica-reports-first-case-zika-virus/79563246/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA TODAY](https://www.usatoday.com/story/news/2016/01/30/jamaica-reports-first-case-zika-virus/79563246/)
+2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160131&t=2&i=1113741617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC0U04G)
 
 ### Related:
 

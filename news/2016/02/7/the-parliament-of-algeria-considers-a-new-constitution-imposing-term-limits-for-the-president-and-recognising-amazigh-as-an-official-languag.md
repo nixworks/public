@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.html)  [JSON](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.json)  [XML](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.xml)  
+
 ### [2016-02-7](/news/2016/02/7/index.md)
 
 # The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ALGERIA_CONSTITUTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/01/30/index.html)  [JSON](2016/01/30/index.json)  [XML](2016/01/30/index.xml)  
+
 ## [2016-01-30](/news/2016/01/30/index.md)
 
 ### [Social networking service Facebook, and its photo-sharing subsidiary Instagram, ban private, person-to-person sales of guns via their services. ](/news/2016/01/30/social-networking-service-facebook-and-its-photo-sharing-subsidiary-instagram-ban-private-person-to-person-sales-of-guns-via-their-servic.md)
@@ -13,7 +16,7 @@ _Context: Geumsansa Temple, Gimje, North Jeolla Province, South Korea_
 _Context: European migrant crisis, Greek, Turkey_
 
 ### [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md)
-Health minister says 4-year-old showed symptoms after returning from trip to Texas.
+_Context: Jamaica, Texas, Zika virus, Zika virus outbreak in the Americas (2015-present)_
 
 ### [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md)
 Newly released documents from Edward Snowden show that the NSA and GCHQ coordinated to hack into, decrypt, and track live video feeds of Israeli drones and fighter jets. The documents, published by...

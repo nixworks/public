@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/3/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-s-bombing-campaign-will-continue-until-terrorist-organisations-like-isil-and.html)  [JSON](/news/2016/02/3/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-s-bombing-campaign-will-continue-until-terrorist-organisations-like-isil-and.json)  [XML](/news/2016/02/3/sergey-lavrov-the-foreign-minister-of-russia-says-that-russia-s-bombing-campaign-will-continue-until-terrorist-organisations-like-isil-and.xml)  
+
 ### [2016-02-3](/news/2016/02/3/index.md)
 
 # Sergey Lavrov, the Foreign Minister of Russia, says that Russia's bombing campaign will continue until terrorist organisations like ISIL and Jabhat al-Nusra are defeated; the Syrian opposition's High Negotiations Committee has voiced outrage at an ongoing government offensive backed by Russian air power and called for a halt to air strikes against civilians, among other demands. 
@@ -5,10 +8,10 @@
 Russia said Wednesday it would press ahead with its bombing campaign in Syria until &quot;terrorist organisations&quot; such as the Islamic State group are defeated amid the latest international push to end the conflict. &quot;Russian air strikes will not cease until we truly defeat the terrorist organisations
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/russia-keep-bombing-syria-until-terrorists-defeated-lavrov-093455748.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/if0SuM_nzjmt9fw3s4Umog--/aD03Mjc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2155602-1-1-1.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/russia-keep-bombing-syria-until-terrorists-defeated-lavrov-093455748.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/KfEtPPVuwLsc865nmBsRCw--~B/aD03Mjc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2155602-1-1-1.jpg)
 
 ### Related:
 

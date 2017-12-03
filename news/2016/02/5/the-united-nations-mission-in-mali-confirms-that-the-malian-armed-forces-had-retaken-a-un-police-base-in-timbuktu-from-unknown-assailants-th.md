@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.html)  [JSON](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.json)  [XML](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.xml)  
+
 ### [2016-02-5](/news/2016/02/5/index.md)
 
 # The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. 
@@ -5,10 +8,15 @@
 Malian troops backed by U.N. helicopters stormed a U.N. police base in the city of Timbuktu and recaptured it from suspected Islamist militants who had seized it hours before Friday, the United Nations said
 
 
-### Source:
+### Sources:
 
 1. [The Daily Star](http://www.dailystar.com.lb/News/World/2016/Feb-05/335772-gunmen-attack-un-base-army-checkpoint-in-malis-timbuktu.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2016/02/05/492345_img650x420_img650x420_crop.jpg)
+
+### Changes:
+
+1. [Northern Mali conflict: The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md) _2017-08-27 03:44:50 (First version)_
+1. [The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 3. [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md) _Context: Mali, Northern Mali conflict_
 4. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali, Northern Mali conflict_
 5. [The International Criminal Court sentences Ahmad al-Faqi al-Mahdi to nine years in jail for leading the destruction of nine of Timbuktu's mausoleums and the centuries-old door of the Malian city's Sidi Yahya Mosque. ](/news/2016/09/27/the-international-criminal-court-sentences-ahmad-al-faqi-al-mahdi-to-nine-years-in-jail-for-leading-the-destruction-of-nine-of-timbuktu-s-ma.md) _Context: Mali, Timbuktu_
-
-### Changes:
-
-1. [Northern Mali conflict: The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/northern-mali-conflict-the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-fr.md) _2017-08-27 03:44:50 (First version)_
-1. [The United Nations mission in Mali confirms that the Malian armed forces had retaken a UN Police base in Timbuktu from unknown assailants that attacked it earlier in the day. ](/news/2016/02/5/the-united-nations-mission-in-mali-confirms-that-the-malian-armed-forces-had-retaken-a-un-police-base-in-timbuktu-from-unknown-assailants-th.md) _(Current version)_

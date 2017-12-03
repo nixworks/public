@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-former-deputy-prime-minister-of-the-netherlands-els-borst-admits-to-have-assassinated-her-citing.html)  [JSON](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-former-deputy-prime-minister-of-the-netherlands-els-borst-admits-to-have-assassinated-her-citing.json)  [XML](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-former-deputy-prime-minister-of-the-netherlands-els-borst-admits-to-have-assassinated-her-citing.xml)  
+
 ### [2016-02-4](/news/2016/02/4/index.md)
 
 # The suspect in the murder investigation of former Deputy Prime Minister of the Netherlands Els Borst admits to have assassinated her citing political motivations. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/2084873-bart-van-u-ik-heb-els-borst-vermoord-om-euthanasiewet.html)
 2. [RTL Nieuws](http://www.rtlnieuws.nl/nieuws/binnenland/bart-van-u-ik-heb-els-borst-vermoord)

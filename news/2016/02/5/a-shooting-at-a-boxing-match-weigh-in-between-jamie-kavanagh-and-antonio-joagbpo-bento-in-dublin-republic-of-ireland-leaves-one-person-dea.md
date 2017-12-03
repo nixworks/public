@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.html)  [JSON](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.json)  [XML](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.xml)  
+
 ### [2016-02-5](/news/2016/02/5/index.md)
 
 # A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. 
@@ -5,10 +8,15 @@
 A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack by gunmen dressed as police officers and armed with AK47s.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-35503937)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6949/production/_88135962_dublinbody.jpg)
+
+### Changes:
+
+1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio Joao Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joapso-bento-in-dublin-republic-of-ireland-leaves-one-person-dead.md) _2017-08-25 03:44:28 (First version)_
+1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 3. [Members of Ireland's police force Garda Siochana raid the Dublin home of former MEP Paul Murphy TD, taking Murphy into custody along with three other activists and politicians opposing the water-tax-rate change, stirring nationwide speculation of "political policing." The police later release all four without charges. ](/news/2015/02/9/members-of-ireland-s-police-force-garda-saocha-na-raid-the-dublin-home-of-former-mep-paul-murphy-td-taking-murphy-into-custody-along-with.md) _Context: Dublin, Ireland_
 4. [The Garda Sochna Ombudsman Commission (GSOC), Ireland's police Ombudsman, is revealed to have been bugged, with emails, wi-fi and phone systems at its Dublin headquarters also accessed illegally and internationally. ](/news/2014/02/10/the-garda-siochana-ombudsman-commission-gsoc-ireland-s-police-ombudsman-is-revealed-to-have-been-bugged-with-emails-wi-fi-and-phone-sy.md) _Context: Dublin, Ireland_
 5. [Ireland's Army Bomb Disposal Team receives four calls in the capital Dublin: among them is a false alarm, dealt with at the Israeli embassy in Ballsbridge. ](/news/2012/08/21/ireland-s-army-bomb-disposal-team-receives-four-calls-in-the-capital-dublin-among-them-is-a-false-alarm-dealt-with-at-the-israeli-embassy.md) _Context: Dublin, Ireland_
-
-### Changes:
-
-1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio Joao Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joapso-bento-in-dublin-republic-of-ireland-leaves-one-person-dead.md) _2017-08-25 03:44:28 (First version)_
-1. [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md) _(Current version)_

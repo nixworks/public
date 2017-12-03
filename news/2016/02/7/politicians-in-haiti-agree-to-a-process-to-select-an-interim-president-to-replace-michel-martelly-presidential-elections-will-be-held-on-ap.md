@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.html)  [JSON](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.json)  [XML](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.xml)  
+
 ### [2016-02-7](/news/2016/02/7/index.md)
 
 # Politicians in Haiti agree to a process to select an interim President to replace Michel Martelly. Presidential elections will be held on April 14 with the winner to be sworn in on 14 May. 
@@ -5,11 +8,11 @@
 Politicians in Haiti reach an agreement to install a transitional government hours before President Michel Martelly is due to step down.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35514812)
-2. [Reuters](http://www.reuters.com/article/us-haiti-election-idUSKCN0VG11L)
-3. [The Guardian](http://www.theguardian.com/world/2016/feb/07/haiti-carnival-delayed-government-protest-michel-martelly)
+2. [Reuters](https://www.reuters.com/article/us-haiti-election-idUSKCN0VG11L)
+3. [The Guardian](https://www.theguardian.com/world/2016/feb/07/haiti-carnival-delayed-government-protest-michel-martelly)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10F44/production/_88144496_88144495.jpg)
 
 ### Related:
