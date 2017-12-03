@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/12/the-u-s-senate-confirms-the-nominations-of-the-ambassadors-to-norway-and-sweden-and-of-two-state-department-officials-once-senator-ted-cru.html)  [JSON](/news/2016/02/12/the-u-s-senate-confirms-the-nominations-of-the-ambassadors-to-norway-and-sweden-and-of-two-state-department-officials-once-senator-ted-cru.json)  [XML](/news/2016/02/12/the-u-s-senate-confirms-the-nominations-of-the-ambassadors-to-norway-and-sweden-and-of-two-state-department-officials-once-senator-ted-cru.xml)  
+
 ### [2016-02-12](/news/2016/02/12/index.md)
 
 # The U.S. Senate confirms the nominations of the ambassadors to Norway and Sweden, and of two State Department officials once Senator Ted Cruz lifted his months-long hold on the nominations because of his objection to the Iran nuclear deal (JCPOA). 
@@ -5,7 +8,7 @@
 The Senate on Friday confirmed a handful of ambassadors and State Department officials, including the American ambassadors to Sweden and Norway.
 
 
-### Source:
+### Sources:
 
 1. [Iranian.com](http://iranian.com/posts/iranian-born-american-azita-raji-the-designated-us-ambassador-to-65781)
 2. [NBC News](http://www.nbcnews.com/news/us-news/ambassadors-sweden-norway-confirmed-sen-cruz-lifts-hold-n517671)

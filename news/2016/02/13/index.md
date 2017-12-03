@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/13/index.html)  [JSON](2016/02/13/index.json)  [XML](2016/02/13/index.xml)  
+
 ## [2016-02-13](/news/2016/02/13/index.md)
 
 ### [Saudi Arabia is sending troops and fighter jets to Turkey's Incirlik Air Base ahead of a planned ground invasion of Syria. Turkey's Minister of Foreign Affairs Mevlut Cavusoglu confirmed the deployment in Adana near the Syria-Turkey border, but said the numbers had not been confirmed. ](/news/2016/02/13/saudi-arabia-is-sending-troops-and-fighter-jets-to-turkey-s-incirlik-air-base-ahead-of-a-planned-ground-invasion-of-syria-turkey-s-minister.md)

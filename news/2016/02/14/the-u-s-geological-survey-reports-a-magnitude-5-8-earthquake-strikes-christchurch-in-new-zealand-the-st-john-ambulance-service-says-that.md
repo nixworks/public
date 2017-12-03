@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.html)  [JSON](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.json)  [XML](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.xml)  
+
 ### [2016-02-14](/news/2016/02/14/index.md)
 
 # The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/world/magnitude-58-quake-shakes-new-zealand-city-of-christchurch/2016/02/13/a4939fa4-d2ba-11e5-90d3-34c2c42653ac_story.html)
+
+### Changes:
+
+1. [2016 Christchurch earthquake: The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/2016-christchurch-earthquake-the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-joh.md) _2017-08-27 03:44:54 (First version)_
+1. [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The New Zealand city of Christchurch is hit by a magnitude 5.0 earthquake, an aftershock to the 2010 Canterbury earthquake. ](/news/2010/10/13/the-new-zealand-city-of-christchurch-is-hit-by-a-magnitude-5-0-earthquake-an-aftershock-to-the-2010-canterbury-earthquake.md) _Context: Christchurch, New Zealand, earthquake_
 4. [ A 7.6-magnitude earthquake strikes off South Island, New Zealand, generating brief fears of a small tsunami. ](/news/2009/07/15/a-7-6-magnitude-earthquake-strikes-off-south-island-new-zealand-generating-brief-fears-of-a-small-tsunami.md) _Context: New Zealand, earthquake, magnitude_
 5. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: earthquake, magnitude_
-
-### Changes:
-
-1. [2016 Christchurch earthquake: The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/2016-christchurch-earthquake-the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-joh.md) _2017-08-27 03:44:54 (First version)_
-1. [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md) _(Current version)_

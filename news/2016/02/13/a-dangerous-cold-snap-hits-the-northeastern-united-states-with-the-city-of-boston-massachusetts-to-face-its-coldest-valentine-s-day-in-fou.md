@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-united-states-with-the-city-of-boston-massachusetts-to-face-its-coldest-valentine-s-day-in-fou.html)  [JSON](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-united-states-with-the-city-of-boston-massachusetts-to-face-its-coldest-valentine-s-day-in-fou.json)  [XML](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-united-states-with-the-city-of-boston-massachusetts-to-face-its-coldest-valentine-s-day-in-fou.xml)  
+
 ### [2016-02-13](/news/2016/02/13/index.md)
 
 # A dangerous cold snap hits the northeastern United States with the city of Boston, Massachusetts, to face its coldest Valentine's Day in four decades. 
@@ -5,10 +8,10 @@
 A dangerous cold snap bringing life-threatening cold was settling in across the northeastern United States on Saturday and a snow squall triggered a pileup of dozens of vehicles on a Pennsylvania highway that left several people dead.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-weather-idUSKCN0VM0O6?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160213&t=2&i=1117238605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1C0BU)
+1. [Reuters](https://www.reuters.com/article/us-usa-weather-idUSKCN0VM0O6?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160213&t=2&i=1117238605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1C0BU)
 
 ### Related:
 

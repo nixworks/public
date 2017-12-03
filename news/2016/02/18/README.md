@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/18/index.html)  [JSON](2016/02/18/index.json)  [XML](2016/02/18/index.xml)  
+
 ## [2016-02-18](/news/2016/02/18/index.md)
 
 ### [A roadside bomb hits a military convoy, killing six Turkish Army soldiers in the southeast Diyarbakir Province. ](/news/2016/02/18/a-roadside-bomb-hits-a-military-convoy-killing-six-turkish-army-soldiers-in-the-southeast-diyarbaka-r-province.md)

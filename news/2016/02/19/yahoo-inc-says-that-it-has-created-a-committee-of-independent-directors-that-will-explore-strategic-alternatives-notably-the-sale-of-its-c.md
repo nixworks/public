@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/19/yahoo-inc-says-that-it-has-created-a-committee-of-independent-directors-that-will-explore-strategic-alternatives-notably-the-sale-of-its-c.html)  [JSON](/news/2016/02/19/yahoo-inc-says-that-it-has-created-a-committee-of-independent-directors-that-will-explore-strategic-alternatives-notably-the-sale-of-its-c.json)  [XML](/news/2016/02/19/yahoo-inc-says-that-it-has-created-a-committee-of-independent-directors-that-will-explore-strategic-alternatives-notably-the-sale-of-its-c.xml)  
+
 ### [2016-02-19](/news/2016/02/19/index.md)
 
 # Yahoo Inc. says that it has created a committee of independent directors that will explore strategic alternatives, notably the sale of its core internet business. 
@@ -5,10 +8,10 @@
 Yahoo Inc officially launched the sale of its core business on Friday, a move seen as a positive step for frustrated investors but not enough to keep an activist hedge fund from pursuing a proxy fight against the struggling Internet company.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-yahoo-strategicalternatives-idUSKCN0VS1KM)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1119000354&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J0EM)
+1. [Reuters](https://www.reuters.com/article/us-yahoo-strategicalternatives-idUSKCN0VS1KM)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1119000354&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J0EM)
 
 ### Related:
 

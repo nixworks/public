@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/14/index.html)  [JSON](2016/02/14/index.json)  [XML](2016/02/14/index.xml)  
+
 ## [2016-02-14](/news/2016/02/14/index.md)
 
 ### [The United Nations reports that civilian casualties reached a record level in 2015; at least 3,545 non-combatants were killed and 7,457 injured. ](/news/2016/02/14/the-united-nations-reports-that-civilian-casualties-reached-a-record-level-in-2015-at-least-3-545-non-combatants-were-killed-and-7-457-inju.md)

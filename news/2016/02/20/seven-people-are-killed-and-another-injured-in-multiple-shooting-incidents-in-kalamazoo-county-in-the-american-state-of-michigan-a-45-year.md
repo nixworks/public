@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.html)  [JSON](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.json)  [XML](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.xml)  
+
 ### [2016-02-20](/news/2016/02/20/index.md)
 
 # Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo 
@@ -5,11 +8,16 @@
 At least six people have been killed in ongoing shooting in Kalamazoo County, Michigan, local police said, adding that a suspect has been arrested in connection with the apparently random shooting.
 
 
-### Source:
+### Sources:
 
 1. [Press Association via Irish Independent](http://www.independent.ie/world-news/man-arrested-after-six-killed-in-michigan-shootings-34471613.html)
 2. [RT](https://www.rt.com/usa/333151-michigan-random-shooting-victims/)
 2. [Cover Image](https://img.rt.com/files/2016.02/article/56c94827c461889e798b4603.jpg)
+
+### Changes:
+
+1. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _2017-08-27 03:44:57 (First version)_
+1. [Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ At least six people have been killed in ongoing shooting in Kalamazoo County, Mi
 3. [A 193-vehicle pileup along a snowy Interstate 94 highway in Kalamazoo County, Michigan leaves one motorist dead and 20 injured. A fire among the vehicles which includes a chemical tanker and a truck loaded with fireworks further compounds the disaster. The debris and fire closes the expressway for over 14 hours. Exploding fireworks hit rescue workers injuring an additional three. ](/news/2015/01/9/a-193-vehicle-pileup-along-a-snowy-interstate-94-highway-in-kalamazoo-county-michigan-leaves-one-motorist-dead-and-20-injured-a-fire-among.md) _Context: Kalamazoo County, Michigan, Michigan_
 4. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Michigan_
 5. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Michigan_
-
-### Changes:
-
-1. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _2017-08-27 03:44:57 (First version)_
-1. [Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/12/two-people-are-killed-on-the-campus-of-independence-high-school-in-glendale-arizona-near-phoenix-the-campus-is-on-lockdown-but-there-is.html)  [JSON](/news/2016/02/12/two-people-are-killed-on-the-campus-of-independence-high-school-in-glendale-arizona-near-phoenix-the-campus-is-on-lockdown-but-there-is.json)  [XML](/news/2016/02/12/two-people-are-killed-on-the-campus-of-independence-high-school-in-glendale-arizona-near-phoenix-the-campus-is-on-lockdown-but-there-is.xml)  
+
 ### [2016-02-12](/news/2016/02/12/index.md)
 
 # Two people are killed on the campus of Independence High School in Glendale, Arizona, near Phoenix. The campus is on lockdown, but there is no active shooter situation any longer. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Arizona Republic](http://www.azcentral.com/story/news/local/glendale/breaking/2016/02/12/glendale-independence-high-school-shooting/80282174/)
 

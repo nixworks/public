@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/02/21/index.html)  [JSON](2016/02/21/index.json)  [XML](2016/02/21/index.xml)  
+
 ## [2016-02-21](/news/2016/02/21/index.md)
 
 ### [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md)
 Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 people, monitors and state media say.
 
 ### [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md)
-_Context: Ajdabiya, Benghazi, Libyan Civil War (2014-present), Libyan National Army, radical Islamists_
+_Context: Ajdabiya, Benghazi, Islamists, Libyan Civil War (2014-present), Libyan National Army_
 
 ### [A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampore-jammu-and-kashmir-in.md)
 Indian army troops have encircled militants in a government-run training institute south of the capital of Indian-administered Kashmir.
@@ -16,10 +19,10 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 &bull; At least six killed, as ferocious category 5 storm slams into Fiji &bull; Trees, homes destroyed - residents, tourists hunker down &bull; Gusts of up to 325km/h and 12m high - New Zealand Herald
 
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghanistan, European migrant crisis, Greek, Macedonian_
+_Context: Afghan, European migrant crisis, Greek, Macedonian_
 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Libya, Tunisia, army, radical Islamists_
+_Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Islamists, Libya, Tunisia, army_
 
 ### [U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being-pre.md)
 Explosions rip through Homs and Damascus suburb as world leaders attempt to get all warring parties to end hostilities for a bit
@@ -28,7 +31,7 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 _Context: Diet, Japan, Japan-United States relations, Okinawa Island, Tokyo, U.S. military base_
 
 ### [Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record, was taken into custody without a struggle. ](/news/2016/02/21/kalamazoo-county-michigan-authorities-say-last-evening-s-shooting-spree-resulted-in-six-deaths-with-two-others-seriously-wounded-each-vict.md)
-Jason Dalton, 45, is in custody following the string of apparently random shootings.
+_Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan, Uber, shooting spree_
 
 ### [Australia issues a security alert, warning that terrorists may be planning attacks in and around the Malaysian capital Kuala Lumpur. It also recommended that Australians avoid travel to the coastal region of eastern Sabah, where the beaches and islands are popular with foreign tourists. ](/news/2016/02/21/australia-issues-a-security-alert-warning-that-terrorists-may-be-planning-attacks-in-and-around-the-malaysian-capital-kuala-lumpur-it-also.md)
 _Context: Australia, Kuala Lumpur, Malaysia, Sabah, Terrorism in Malaysia_
@@ -49,10 +52,10 @@ North Korean state media on Sunday confirmed the country has a new military chie
 The London Mayor says he did not want to go against David Cameron but after &quot;a great deal of heartache&quot; felt he had no choice.
 
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)
-_Context: Ashraf Rifi, Hezbollah, Lebanese_
+_Context: Ashraf Rifi, Hezbollah, Lebanon_
 
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context: EU, Emil Dimitriev, Macedonian, Macedonian parliamentary election, 2016, Prime Minister, United States_
+_Context: Emil Dimitriev, European Union, Macedonian, Macedonian parliamentary election, 2016, Prime Minister, United States_
 
 ### [According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitted-president-evo-morales-to-stand-for-a-fo.md)
 With more than 80% of votes counted, President Evo Morales of Bolivia is losing a referendum that would allow him to seek a fourth consecutive term.

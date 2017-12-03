@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/8/index.html)  [JSON](2016/02/8/index.json)  [XML](2016/02/8/index.xml)  
+
 ## [2016-02-8](/news/2016/02/8/index.md)
 
 ### [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md)
@@ -22,7 +25,7 @@ Hurricane-force winds leave thousands of homes without power while a search cont
 A migrant boat capsizes off Turkey, killing at least 27 people who were trying to reach the Greek island of Lesbos, Turkish media say.
 
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
-_Context: Billy Kenoi, Hawaii, dengue fever, island of Hawaii, mosquito-borne disease, states of emergency_
+_Context: Billy Kenoi, Hawaii, dengue, island of Hawaii, mosquito-borne disease, states of emergency_
 
 ### [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md)
 A North Korean patrol boat crossed into South Korean waters early on Monday and retreated after the South Korean navy fired warning shots, a South Korean military official said.
@@ -34,7 +37,7 @@ Turkish aid workers set up tents and distribute supplies for thousands of new Sy
 _Context: Paramo, Supreme Court_
 
 ### [DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. ](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-almost-10-000-department-of-homeland-security-employees-yesterday-publish-contact-information.md)
-_Context: FBI, United States Department of Homeland Security, hackers_
+_Context: Department of Homeland Security, FBI, hackers_
 
 ### [The French data protection authority and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. ](/news/2016/02/8/the-french-data-protection-authority-and-the-independent-watchdog-cnil-cite-facebook-for-breaching-privacy-laws-by-the-collection-and-transf.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

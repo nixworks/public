@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/19/index.html)  [JSON](2016/02/19/index.json)  [XML](2016/02/19/index.xml)  
+
 ## [2016-02-19](/news/2016/02/19/index.md)
 
 ### [United States Air Force warplanes carry out airstrikes on ISIL in western Libya, near the Tunisian border, reportedly killing at least 38 people. ](/news/2016/02/19/united-states-air-force-warplanes-carry-out-airstrikes-on-isil-in-western-libya-near-the-tunisian-border-reportedly-killing-at-least-38-pe.md)

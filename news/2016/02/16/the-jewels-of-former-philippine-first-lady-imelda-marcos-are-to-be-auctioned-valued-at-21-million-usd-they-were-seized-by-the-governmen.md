@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/16/the-jewels-of-former-philippine-first-lady-imelda-marcos-are-to-be-auctioned-valued-at-21-million-usd-they-were-seized-by-the-governmen.html)  [JSON](/news/2016/02/16/the-jewels-of-former-philippine-first-lady-imelda-marcos-are-to-be-auctioned-valued-at-21-million-usd-they-were-seized-by-the-governmen.json)  [XML](/news/2016/02/16/the-jewels-of-former-philippine-first-lady-imelda-marcos-are-to-be-auctioned-valued-at-21-million-usd-they-were-seized-by-the-governmen.xml)  
+
 ### [2016-02-16](/news/2016/02/16/index.md)
 
 # The jewels of former Philippine First Lady Imelda Marcos are to be auctioned. Valued at $21 million (USD), they were seized by the government when her husband Ferdinand Marcos was overthrown. 
@@ -5,7 +8,7 @@
 A $21m collection of jewellery that once belonged to the former first lady of the Philippines, Imelda Marcos, is to be sold at auction.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-35583699)
 2. [CNN](http://www.cnn.com/2016/02/16/luxury/imelda-marcos-jewelery-auction/)

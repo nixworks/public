@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.html)  [JSON](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.json)  [XML](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.xml)  
+
 ### [2016-02-8](/news/2016/02/8/index.md)
 
 # A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-libya-security-idUKKCN0VH1MX)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Libyan Civil War (2014-present): A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/libyan-civil-war-2014-present-a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes.md) _2017-08-27 03:44:51 (First version)_
+1. [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. ](/news/2016/03/4/a-libyan-spokesperson-says-two-italian-hostages-are-freed-by-local-fighters-from-islamic-state-custody-in-sabratha-libya-he-also-confirms.md) _Context: ISIL, Libyan Civil War (2014-present)_
 4. [Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md) _Context: ISIL, Libyan Civil War (2014-present)_
 5. [Two Serbian embassy staff abducted in Libya in November 2015 are believed to have been among dozens killed in yesterday's U.S. airstrike on a ISIL camp in Sabratha, according to Serbia's Foreign Minister Ivica Dacic. ](/news/2016/02/20/two-serbian-embassy-staff-abducted-in-libya-in-november-2015-are-believed-to-have-been-among-dozens-killed-in-yesterday-s-u-s-airstrike-on.md) _Context: ISIL, Libyan Civil War (2014-present)_
-
-### Changes:
-
-1. [Libyan Civil War (2014-present): A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/libyan-civil-war-2014-present-a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes.md) _2017-08-27 03:44:51 (First version)_
-1. [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md) _(Current version)_

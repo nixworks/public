@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.html)  [JSON](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.json)  [XML](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.xml)  
+
 ### [2016-02-14](/news/2016/02/14/index.md)
 
 # All four members of the British indie band Viola Beach and their manager die in a road accident near Stockholm, Sweden. 
@@ -5,7 +8,7 @@
 The four members of British indie band Viola Beach and their manager die in a car crash in Sweden.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-35572838)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/002E/production/_88264000_violabeach.jpg)

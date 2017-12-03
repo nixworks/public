@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.html)  [JSON](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.json)  [XML](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # A Turkish soldier is killed following a clash on the Syria-Turkey border with an armed group trying to enter Turkey illegally. The Turkish military says the clash occurred in the Yayladagi district of the Hatay Province. 
@@ -5,14 +8,14 @@
 The United Nations and Washington on Monday condemned air strikes on medical facilities and schools in Syria that the world body said killed almost 50 civilians, with the US implicating Russia. Also ahead of a hoped-for ceasefire, Kurdish fighters in northern Syria captured a key town despite Turkish
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/air-strikes-hit-msf-backed-hospital-syria-9-093204786.html)
-2. [AFP via Yahoo! News](http://news.yahoo.com/kurdish-led-forces-seize-syria-rebel-town-monitor-205534517.html)
+1. [AFP via Yahoo News](https://news.yahoo.com/air-strikes-hit-msf-backed-hospital-syria-9-093204786.html)
+2. [AFP via Yahoo! News](https://news.yahoo.com/kurdish-led-forces-seize-syria-rebel-town-monitor-205534517.html)
 3. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/351596#.VsHEfuaoNFQ)
 4. [MSF](http://www.msf.org.au/article/statements-opinion/syria-least-seven-killed-and-eight-missing-another-m%C3%A9decins-sans)
 5. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-turkey-clash-idUKKCN0VO0J7)
-5. [Cover Image](https://s.yimg.com/uu/api/res/1.2/SgmwN9qOWW94ZmdUK.m0Lw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/07476789fd317bfe26e37278d0f6adfdf88111f5.jpg)
+5. [Cover Image](https://s.yimg.com/uu/api/res/1.2/LJZkwjWZC_YhNLqlo.Cw5w--~B/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/07476789fd317bfe26e37278d0f6adfdf88111f5.jpg)
 
 ### Related:
 

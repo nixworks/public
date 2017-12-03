@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/the-58th-annual-grammy-awards-are-held-at-the-staples-centre-in-los-angeles.html)  [JSON](/news/2016/02/15/the-58th-annual-grammy-awards-are-held-at-the-staples-centre-in-los-angeles.json)  [XML](/news/2016/02/15/the-58th-annual-grammy-awards-are-held-at-the-staples-centre-in-los-angeles.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # The 58th Annual Grammy Awards are held at the Staples Centre in Los Angeles. 
@@ -5,7 +8,7 @@
 Pop superstar Taylor Swift becomes the first woman to win the Grammy for album of the year twice.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-16/sheeran-bests-lamar-for-grammy-song-of-the-year/7173062)
 2. [Courier Mail](http://www.couriermail.com.au/entertainment/grammy-awards-2016-lady-gaga-taylor-swift-rihanna-and-kendrick-lamar-perform/news-story/4b6e497661eb17f5c683601a35bd3339?from=public_rss)

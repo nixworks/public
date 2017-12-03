@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.html)  [JSON](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.json)  [XML](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.xml)  
+
 ### [2016-02-22](/news/2016/02/22/index.md)
 
 # The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/02/21/asia/fiji-tropical-cyclone-winston/index.html)
 2. [Weatherzone](http://www.weatherzone.com.au/news/cyclone-winston-death-toll-reaches-10-as-authorities-continue-to-assess-damage/458662)

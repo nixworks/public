@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.html)  [JSON](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.json)  [XML](/news/2016/02/12/in-cairo-thousands-of-doctors-protest-against-police-impunity-following-the-assault-allegedly-by-egyptian-police-officers-of-two-doctors.xml)  
+
 ### [2016-02-12](/news/2016/02/12/index.md)
 
 # In Cairo, thousands of doctors protest against police impunity following the assault, allegedly by Egyptian police officers, of two doctors in a hospital last week. Protests here are rare since enactment of a law limiting demonstrations to those with prior police approval. Another protest is planned across all hospitals for February 20. 
@@ -5,10 +8,10 @@
 Thousands of Egyptian doctors demonstrated in Cairo on Friday in a rare protest at what rights groups call police impunity after two doctors were alleged to have been assaulted in a hospital in the city last month.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-egypt-protests-police-idUSKCN0VL21O)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1117082042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B17F)
+1. [Reuters](https://www.reuters.com/article/us-egypt-protests-police-idUSKCN0VL21O)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1117082042&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B17F)
 
 ### Related:
 

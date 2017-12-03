@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/20/a-planned-refugee-shelter-is-set-on-fire-in-bautzen-german-state-of-saxony.html)  [JSON](/news/2016/02/20/a-planned-refugee-shelter-is-set-on-fire-in-bautzen-german-state-of-saxony.json)  [XML](/news/2016/02/20/a-planned-refugee-shelter-is-set-on-fire-in-bautzen-german-state-of-saxony.xml)  
+
 ### [2016-02-20](/news/2016/02/20/index.md)
 
 # A planned refugee shelter is set on fire in Bautzen, German state of Saxony.
@@ -5,7 +8,7 @@
 A planned home for asylum applicants has burned down in the Germany state of Saxony. Police reported that onlookers cheered as the building burned and prevented the fire brigade from doing its work.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/german-lawmakers-condemn-anti-refugee-right-wing-extremism-in-saxony/a-19071065)
 2. [Deutsche Welle](http://www.dw.com/en/planned-refugee-shelter-in-eastern-german-town-of-bautzen-set-on-fire/a-19063792)

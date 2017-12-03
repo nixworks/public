@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/16/after-more-than-200-years-mozart-s-and-salieri-s-lost-cantata-per-la-ricuperata-salute-di-ofelia-is-discovered-in-prague.html)  [JSON](/news/2016/02/16/after-more-than-200-years-mozart-s-and-salieri-s-lost-cantata-per-la-ricuperata-salute-di-ofelia-is-discovered-in-prague.json)  [XML](/news/2016/02/16/after-more-than-200-years-mozart-s-and-salieri-s-lost-cantata-per-la-ricuperata-salute-di-ofelia-is-discovered-in-prague.xml)  
+
 ### [2016-02-16](/news/2016/02/16/index.md)
 
 # After more than 200 years, Mozart's and Salieri's lost cantata "Per la ricuperata salute di Ofelia" is discovered in Prague. 
@@ -5,12 +8,12 @@
 A long-lost composition by Wolfgang Amadeus Mozart and Antonio Salieri was performed for the first time on Tuesday after a musicologist discovered the piece in the reserve collection of the Czech national music museum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35589422)
-2. [Reuters](http://www.reuters.com/article/us-czech-mozart-idUSKCN0VP1PQ)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/mozart-wolfgang-amadeus-antonio-salieri-lorenzo-da-ponte-libretto-a6873481.html)
-3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160216&t=2&i=1117945442&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1F10W)
+2. [Reuters](https://www.reuters.com/article/us-czech-mozart-idUSKCN0VP1PQ)
+3. [The Independent](https://www.independent.co.uk/news/world/europe/mozart-wolfgang-amadeus-antonio-salieri-lorenzo-da-ponte-libretto-a6873481.html)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160216&t=2&i=1117945442&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1F10W)
 
 ### Related:
 

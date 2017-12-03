@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/authorities-in-the-chinese-city-of-tianjin-after-an-inquiry-into-the-explosions-last-year-found-that-the-chemical-plants-were-too-close-to-r.html)  [JSON](/news/2016/02/15/authorities-in-the-chinese-city-of-tianjin-after-an-inquiry-into-the-explosions-last-year-found-that-the-chemical-plants-were-too-close-to-r.json)  [XML](/news/2016/02/15/authorities-in-the-chinese-city-of-tianjin-after-an-inquiry-into-the-explosions-last-year-found-that-the-chemical-plants-were-too-close-to-r.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # Authorities in the Chinese city of Tianjin after an inquiry into the explosions last year found that the chemical plants were too close to residential areas. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/1df26d8ee8584b96b8c73001581c36d0/china-moves-10-chemical-plants-after-explosion-review)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/17/iran-says-that-it-plans-to-increase-its-crude-oil-output-until-it-achieves-pre-sanction-levels-although-that-contravenes-opec-efforts-to-re.html)  [JSON](/news/2016/02/17/iran-says-that-it-plans-to-increase-its-crude-oil-output-until-it-achieves-pre-sanction-levels-although-that-contravenes-opec-efforts-to-re.json)  [XML](/news/2016/02/17/iran-says-that-it-plans-to-increase-its-crude-oil-output-until-it-achieves-pre-sanction-levels-although-that-contravenes-opec-efforts-to-re.xml)  
+
 ### [2016-02-17](/news/2016/02/17/index.md)
 
 # Iran says that it plans to increase its crude oil output until it achieves pre-sanction levels, although that contravenes OPEC efforts to restrain output. 
@@ -5,10 +8,10 @@
 Iran on Wednesday stopped short of offering to restrain oil output as part of a global pact to freeze production to prop up prices, making clear it wants to recapture the market share it lost during years of sanctions.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-opec-oil-iran-idUSKCN0VQ17P)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160217&t=2&i=1118171507&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1G0L5)
+1. [Reuters](https://www.reuters.com/article/us-opec-oil-iran-idUSKCN0VQ17P)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160217&t=2&i=1118171507&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1G0L5)
 
 ### Related:
 

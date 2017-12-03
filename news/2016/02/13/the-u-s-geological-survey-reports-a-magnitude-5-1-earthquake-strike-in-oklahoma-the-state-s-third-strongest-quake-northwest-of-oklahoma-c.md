@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/13/the-u-s-geological-survey-reports-a-magnitude-5-1-earthquake-strike-in-oklahoma-the-state-s-third-strongest-quake-northwest-of-oklahoma-c.html)  [JSON](/news/2016/02/13/the-u-s-geological-survey-reports-a-magnitude-5-1-earthquake-strike-in-oklahoma-the-state-s-third-strongest-quake-northwest-of-oklahoma-c.json)  [XML](/news/2016/02/13/the-u-s-geological-survey-reports-a-magnitude-5-1-earthquake-strike-in-oklahoma-the-state-s-third-strongest-quake-northwest-of-oklahoma-c.xml)  
+
 ### [2016-02-13](/news/2016/02/13/index.md)
 
 # The U.S. Geological Survey reports a magnitude 5.1 earthquake strike in Oklahoma, the state's third strongest quake, northwest of Oklahoma City. No damage or injuries are reported. Oklahoma has recently experienced a surge in seismic activity, leading to calls for the governor to make changes to oil- and gas-drilling regulations. 
@@ -5,11 +8,11 @@
 Oklahoma was struck by a magnitude 5.1 earthquake on Saturday morning, the third-strongest quake ever recorded in the state, which has experienced a surge in seismic activity in recent years, the U.S. Geological Survey reported.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-oklahoma-quake-idUSKCN0VM0ST)
+1. [Reuters](https://www.reuters.com/article/us-oklahoma-quake-idUSKCN0VM0ST)
 2. [USGS](http://www.usgs.gov/blogs/features/usgs_top_story/magnitude-5-1-earthquake-in-oklahoma/?from=title)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

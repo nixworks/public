@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/19/william-c-dudley-is-reappointed-as-the-president-of-the-federal-reserve-bank-of-new-york-for-another-five-years.html)  [JSON](/news/2016/02/19/william-c-dudley-is-reappointed-as-the-president-of-the-federal-reserve-bank-of-new-york-for-another-five-years.json)  [XML](/news/2016/02/19/william-c-dudley-is-reappointed-as-the-president-of-the-federal-reserve-bank-of-new-york-for-another-five-years.xml)  
+
 ### [2016-02-19](/news/2016/02/19/index.md)
 
 # William C. Dudley is reappointed as the President of the Federal Reserve Bank of New York for another five years. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-fed-dudley-idUSKCN0VS2K6)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160219&t=2&i=1118824200&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1I1B4)
+1. [Reuters](https://www.reuters.com/article/us-usa-fed-dudley-idUSKCN0VS2K6)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160219&t=2&i=1118824200&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1I1B4)
 
 ### Related:
 

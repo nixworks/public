@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/17/royal-air-force-typhoons-intercept-two-russian-tupolev-tu-160-strategic-bombers-heading-towards-uk-airspace-over-the-north-sea.html)  [JSON](/news/2016/02/17/royal-air-force-typhoons-intercept-two-russian-tupolev-tu-160-strategic-bombers-heading-towards-uk-airspace-over-the-north-sea.json)  [XML](/news/2016/02/17/royal-air-force-typhoons-intercept-two-russian-tupolev-tu-160-strategic-bombers-heading-towards-uk-airspace-over-the-north-sea.xml)  
+
 ### [2016-02-17](/news/2016/02/17/index.md)
 
 # Royal Air Force Typhoons intercept two Russian Tupolev Tu-160 strategic bombers heading towards UK airspace over the North Sea. 
@@ -5,7 +8,7 @@
 The Russian aircraft are in the UK&#039;s &quot;area of interest&quot; and are being escorted south across the North Sea, the MoD says.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1643693/raf-jets-scrambled-to-intercept-russian-bombers)
 1. [Cover Image](http://e3.365dm.com/16/02/1600x900/pa-12586761-1-2048x1536_3417382.jpg?20160217154639)

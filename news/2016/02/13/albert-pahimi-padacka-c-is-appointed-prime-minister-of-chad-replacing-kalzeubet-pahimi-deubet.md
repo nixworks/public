@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/13/albert-pahimi-padacka-c-is-appointed-prime-minister-of-chad-replacing-kalzeubet-pahimi-deubet.html)  [JSON](/news/2016/02/13/albert-pahimi-padacka-c-is-appointed-prime-minister-of-chad-replacing-kalzeubet-pahimi-deubet.json)  [XML](/news/2016/02/13/albert-pahimi-padacka-c-is-appointed-prime-minister-of-chad-replacing-kalzeubet-pahimi-deubet.xml)  
+
 ### [2016-02-13](/news/2016/02/13/index.md)
 
 # Albert Pahimi Padacke is appointed Prime Minister of Chad, replacing Kalzeubet Pahimi Deubet. 
@@ -5,10 +8,10 @@
 Chad has appointed MP Albert Pahimi Padacke as prime minister of the Central African country following the resignation of his predecessor, state television said on Saturday, heralding a Cabinet reshuffle just two months ahead of presidential elections.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-chad-politics-idUSKCN0VM0XU)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-chad-politics-idUSKCN0VM0XU)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

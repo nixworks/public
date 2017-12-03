@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.html)  [JSON](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.json)  [XML](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.xml)  
+
 ### [2016-02-18](/news/2016/02/18/index.md)
 
 # The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. 
@@ -5,10 +8,15 @@
 President Obama promised to raise human rights concerns when he makes a historic trip to Cuba in March but stopped short of explicitly promising to meet with pro-democracy dissidents.
 
 
-### Source:
+### Sources:
 
 1. [Yahoo!](https://www.yahoo.com/politics/obama-promises-to-raise-human-rights-questions-on-155207176.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/EuJ0IFdYJWs7Cpi0GQna5Q--/aD05NTM7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/cd/resizer/2.0/FIT_TO_WIDTH-w1280/dc885dfcbd4ca41c40d7acf4214dbdd9c062aad9.jpg)
+
+### Changes:
+
+1. [Cuba-United States relations: The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/cuba-united-states-relations-the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-fi.md) _2017-08-27 03:44:57 (First version)_
+1. [The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ President Obama promised to raise human rights concerns when he makes a historic
 3. [Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.md) _Context: Barack Obama, Cuba, Cuba-United States relations, U.S. President_
 4. [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md) _Context: Barack Obama, Cuba, U.S. President_
 5. [President of the United States Barack Obama endorses a proposal to remove Cuba from a list of countries that sponsor terrorism. ](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.md) _Context: Barack Obama, Cuba, U.S. President_
-
-### Changes:
-
-1. [Cuba-United States relations: The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/cuba-united-states-relations-the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-fi.md) _2017-08-27 03:44:57 (First version)_
-1. [The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.md) _(Current version)_

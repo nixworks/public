@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/18/a-roadside-bomb-hits-a-military-convoy-killing-six-turkish-army-soldiers-in-the-southeast-diyarbaka-r-province.html)  [JSON](/news/2016/02/18/a-roadside-bomb-hits-a-military-convoy-killing-six-turkish-army-soldiers-in-the-southeast-diyarbaka-r-province.json)  [XML](/news/2016/02/18/a-roadside-bomb-hits-a-military-convoy-killing-six-turkish-army-soldiers-in-the-southeast-diyarbaka-r-province.xml)  
+
 ### [2016-02-18](/news/2016/02/18/index.md)
 
 # A roadside bomb hits a military convoy, killing six Turkish Army soldiers in the southeast Diyarbakir Province. 
@@ -5,11 +8,11 @@
 The Turkish Prime Minister blames Kurdish militants for a deadly car bombing in Ankara that killed 28 people.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2016-02-18/turkeys-pm-blames-kurdish-militants-for-deadly-ankara-bombing/7182222)
 2. [Haaretz](http://www.haaretz.com/middle-east-news/1.704037)
-3. [Reuters](http://www.reuters.com/article/us-turkey-blast-diyarbakir-idUSKCN0VR0T4)
+3. [Reuters](https://www.reuters.com/article/us-turkey-blast-diyarbakir-idUSKCN0VR0T4)
 3. [Cover Image](http://www.abc.net.au/news/image/7178920-1x1-700x700.jpg)
 
 ### Related:

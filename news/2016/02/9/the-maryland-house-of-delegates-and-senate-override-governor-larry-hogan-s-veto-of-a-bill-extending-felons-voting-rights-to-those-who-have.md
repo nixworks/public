@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.html)  [JSON](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.json)  [XML](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.xml)  
+
 ### [2016-02-9](/news/2016/02/9/index.md)
 
 # The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/02/09/Maryland-Senate-side-steps-governors-veto-on-bill-that-grants-voting-rights-to-felons/4131455059475/?spt=hs&or=tn_us)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4131455059475/2016/1/c61d799ffd7b60c46dd3dc910f81e5cf/v1.5/Maryland-Senate-side-steps-governors-veto-on-bill-that-grants-voting-rights-to-felons.jpg)

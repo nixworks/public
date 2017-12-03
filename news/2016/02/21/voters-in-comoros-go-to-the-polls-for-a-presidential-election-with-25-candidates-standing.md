@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.html)  [JSON](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.json)  [XML](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.xml)  
+
 ### [2016-02-21](/news/2016/02/21/index.md)
 
 # Voters in Comoros go to the polls for a presidential election with 25 candidates standing. 
@@ -5,10 +8,15 @@
 The country has had more than 20 coups or attempts at seizing power since it gained independence from France in 1975
 
 
-### Source:
+### Sources:
 
 1. [Mail and Guardian](http://mgafrica.com/article/2016-02-19-troubled-economic-times-hang-over-comoros-islands-it-goes-for-a-presidential-vote)
 1. [Cover Image](http://cdn.mg.co.za/crop/content/images/2016/02/19/comorospresident_landscape.jpg/600x250/)
+
+### Changes:
+
+1. [Comorian presidential election, 2016: Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/comorian-presidential-election-2016-voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _2017-08-27 03:44:58 (First version)_
+1. [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The country has had more than 20 coups or attempts at seizing power since it gai
 3. [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md) _Context: Comoros_
 4. [ Legislative elections take place in Comoros. ](/news/2009/12/6/legislative-elections-take-place-in-comoros.md) _Context: Comoros_
 5. [ The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. ](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.md) _Context: Comoros_
-
-### Changes:
-
-1. [Comorian presidential election, 2016: Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/comorian-presidential-election-2016-voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _2017-08-27 03:44:58 (First version)_
-1. [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md) _(Current version)_

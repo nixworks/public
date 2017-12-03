@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/11/a-hellenic-navy-helicopter-crashes-while-taking-part-in-a-military-exercise-in-the-aegean-sea-near-the-greek-island-of-kinaros-three-greek.html)  [JSON](/news/2016/02/11/a-hellenic-navy-helicopter-crashes-while-taking-part-in-a-military-exercise-in-the-aegean-sea-near-the-greek-island-of-kinaros-three-greek.json)  [XML](/news/2016/02/11/a-hellenic-navy-helicopter-crashes-while-taking-part-in-a-military-exercise-in-the-aegean-sea-near-the-greek-island-of-kinaros-three-greek.xml)  
+
 ### [2016-02-11](/news/2016/02/11/index.md)
 
 # A Hellenic Navy helicopter crashes while taking part in a military exercise in the Aegean Sea, near the Greek island of Kinaros, three Greek naval airmen are feared dead. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-greece-helicopter-crash-idUKKCN0VK0HO)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

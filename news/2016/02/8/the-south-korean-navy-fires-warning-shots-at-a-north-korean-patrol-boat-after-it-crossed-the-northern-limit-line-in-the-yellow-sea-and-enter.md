@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.html)  [JSON](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.json)  [XML](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.xml)  
+
 ### [2016-02-8](/news/2016/02/8/index.md)
 
 # The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. 
@@ -5,10 +8,15 @@
 A North Korean patrol boat crossed into South Korean waters early on Monday and retreated after the South Korean navy fired warning shots, a South Korean military official said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-patrol-idUSKCN0VH038)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-northkorea-patrol-idUSKCN0VH038)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Korean border incidents: The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/korean-border-incidents-the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in.md) _2017-08-27 03:44:51 (First version)_
+1. [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A North Korean patrol boat crossed into South Korean waters early on Monday and 
 3. [South Korea fires warning shots after a North Korean patrol boat and a fishing boat cross the disputed west coast Northern Limit Line. The two vessels retreated. ](/news/2016/05/27/south-korea-fires-warning-shots-after-a-north-korean-patrol-boat-and-a-fishing-boat-cross-the-disputed-west-coast-northern-limit-line-the-t.md) _Context: North Korea, Northern Limit Line_
 4. [South Korean soldiers fire warning shots at a suspected North Korean drone near the Korean Demilitarized Zone (DMZ). The "unidentified flying object" was spotted around 29 miles north of Seoul, near South Korea's Dora Observation Post. ](/news/2016/01/13/south-korean-soldiers-fire-warning-shots-at-a-suspected-north-korean-drone-near-the-korean-demilitarized-zone-dmz-the-unidentified-flyin.md) _Context: Korean border incidents, North Korea_
 5. [North and South Korea are to hold reunions for families divided by the Korean War from October 20 to October 26. ](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.md) _Context: Korean War, North Korea_
-
-### Changes:
-
-1. [Korean border incidents: The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/korean-border-incidents-the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in.md) _2017-08-27 03:44:51 (First version)_
-1. [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md) _(Current version)_

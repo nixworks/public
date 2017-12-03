@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/12/pakistan-arrests-97-people-allegedly-involved-in-terrorist-groups-such-as-al-qaeda-and-lashkar-e-jhangvi-who-were-allegedly-plotting-a-varie.html)  [JSON](/news/2016/02/12/pakistan-arrests-97-people-allegedly-involved-in-terrorist-groups-such-as-al-qaeda-and-lashkar-e-jhangvi-who-were-allegedly-plotting-a-varie.json)  [XML](/news/2016/02/12/pakistan-arrests-97-people-allegedly-involved-in-terrorist-groups-such-as-al-qaeda-and-lashkar-e-jhangvi-who-were-allegedly-plotting-a-varie.xml)  
+
 ### [2016-02-12](/news/2016/02/12/index.md)
 
 # Pakistan arrests 97 people allegedly involved in terrorist groups such as al-Qaeda and Lashkar-e-Jhangvi who were allegedly plotting a variety of attacks including a plan to get Daniel Pearl's killer out of prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/world/pakistan-arrests-97-al/2509686.html)
 

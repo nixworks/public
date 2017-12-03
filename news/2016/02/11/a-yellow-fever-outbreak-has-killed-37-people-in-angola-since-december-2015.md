@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in-angola-since-december-2015.html)  [JSON](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in-angola-since-december-2015.json)  [XML](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in-angola-since-december-2015.xml)  
+
 ### [2016-02-11](/news/2016/02/11/index.md)
 
 # A yellow fever outbreak has killed 37 people in Angola since December 2015. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/yellow-fever-outbreak-in-angola-kills-37/news-story/eb6a57a67a59d7bc77f45e926ca2b2ba?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

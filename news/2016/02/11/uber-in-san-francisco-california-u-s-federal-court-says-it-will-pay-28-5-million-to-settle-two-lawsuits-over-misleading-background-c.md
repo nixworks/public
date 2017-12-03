@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.html)  [JSON](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.json)  [XML](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.xml)  
+
 ### [2016-02-11](/news/2016/02/11/index.md)
 
 # Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. 
@@ -5,7 +8,7 @@
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/uber-pay-285m-settle-safety-ad-lawsuits-36885628)
 

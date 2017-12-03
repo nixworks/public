@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.html)  [JSON](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.json)  [XML](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.xml)  
+
 ### [2016-02-21](/news/2016/02/21/index.md)
 
 # Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [FRANCE 24](http://www.france24.com/en/20160221-germany-mulling-military-training-mission-tunisia?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2016-02-21&dlvrit=66745)
+
+### Changes:
+
+1. [Insurgency in the Maghreb (2002-present): Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/insurgency-in-the-maghreb-2002-present-germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-ag.md) _2017-08-27 03:44:58 (First version)_
+1. [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _Context: Libya, Tunisia, army_
 4. [Tunisia completes the construction of a 200km (125 mile) barrier along its border with Libya, intended to keep out terrorists trained in Libya. ](/news/2016/02/6/tunisia-completes-the-construction-of-a-200km-125-mile-barrier-along-its-border-with-libya-intended-to-keep-out-terrorists-trained-in-lib.md) _Context: Insurgency in the Maghreb (2002-present), Libya, Tunisia_
 5. [United States Air Force warplanes carry out airstrikes on ISIL in western Libya, near the Tunisian border, reportedly killing at least 38 people. ](/news/2016/02/19/united-states-air-force-warplanes-carry-out-airstrikes-on-isil-in-western-libya-near-the-tunisian-border-reportedly-killing-at-least-38-pe.md) _Context: ISIL, Libya, Tunisia_
-
-### Changes:
-
-1. [Insurgency in the Maghreb (2002-present): Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/insurgency-in-the-maghreb-2002-present-germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-ag.md) _2017-08-27 03:44:58 (First version)_
-1. [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md) _(Current version)_

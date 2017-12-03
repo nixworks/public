@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/three-south-korean-army-soldiers-die-after-a-bell-uh-1-iroquois-helicopter-crashes-in-the-city-of-chuncheon-gangwon-province.html)  [JSON](/news/2016/02/15/three-south-korean-army-soldiers-die-after-a-bell-uh-1-iroquois-helicopter-crashes-in-the-city-of-chuncheon-gangwon-province.json)  [XML](/news/2016/02/15/three-south-korean-army-soldiers-die-after-a-bell-uh-1-iroquois-helicopter-crashes-in-the-city-of-chuncheon-gangwon-province.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # Three South Korean army soldiers die after a Bell UH-1 Iroquois helicopter crashes in the city of Chuncheon, Gangwon Province. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Town Hall](http://townhall.com/news/politics-elections/2016/02/15/south-korean-army-helicopter-crash-kills-three-n2119656)
 1. [Cover Image](https://media.townhall.com/_townhall/resources/images/thog.png)

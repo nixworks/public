@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.html)  [JSON](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.json)  [XML](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.xml)  
+
 ### [2016-02-10](/news/2016/02/10/index.md)
 
 # A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/02/10/us/maryland-shooting-deputies-killed/)
 2. [WBAL TV](http://www.wbaltv.com/news/harford-county-deputies-involved-in-shooting/37921210)

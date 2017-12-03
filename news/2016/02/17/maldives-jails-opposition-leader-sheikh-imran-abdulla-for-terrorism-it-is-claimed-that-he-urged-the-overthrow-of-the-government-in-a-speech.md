@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/17/maldives-jails-opposition-leader-sheikh-imran-abdulla-for-terrorism-it-is-claimed-that-he-urged-the-overthrow-of-the-government-in-a-speech.html)  [JSON](/news/2016/02/17/maldives-jails-opposition-leader-sheikh-imran-abdulla-for-terrorism-it-is-claimed-that-he-urged-the-overthrow-of-the-government-in-a-speech.json)  [XML](/news/2016/02/17/maldives-jails-opposition-leader-sheikh-imran-abdulla-for-terrorism-it-is-claimed-that-he-urged-the-overthrow-of-the-government-in-a-speech.xml)  
+
 ### [2016-02-17](/news/2016/02/17/index.md)
 
 # Maldives jails opposition leader Sheikh Imran Abdulla for terrorism. It is claimed that he urged the overthrow of the government in a speech. 
@@ -5,7 +8,7 @@
 A Maldives opposition leader, Sheikh Imran Abdulla, is convicted of terrorism over a speech criticising the jailing of former president Mohamed Nasheed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-35593011)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15F68/production/_88306998_008960883-1.jpg)

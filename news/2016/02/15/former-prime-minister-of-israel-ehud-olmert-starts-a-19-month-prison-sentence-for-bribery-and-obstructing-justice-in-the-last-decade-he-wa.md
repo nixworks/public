@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.html)  [JSON](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.json)  [XML](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-starts-a-19-month-prison-sentence-for-bribery-and-obstructing-justice-in-the-last-decade-he-wa.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/israels-olmert-denies-wrongdoing-heads-prison-063018941.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/israels-olmert-denies-wrongdoing-heads-prison-063018941.html)
 
 ### Related:
 

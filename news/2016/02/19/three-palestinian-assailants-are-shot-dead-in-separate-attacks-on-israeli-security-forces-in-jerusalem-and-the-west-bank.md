@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.html)  [JSON](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.json)  [XML](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.xml)  
+
 ### [2016-02-19](/news/2016/02/19/index.md)
 
 # Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/world/israeli-forces-shoot-dead/2529952.html)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-i.md) _2017-08-27 03:44:57 (First version)_
+1. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during-after violent demonstrations in the West Bank and Gaza. ](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.md) _Context: Israel, Jerusalem, Palestinians, West Bank_
 4. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Israel, Jerusalem, Palestinians_
 5. [In two simultaneous attacks near the Damascus Gate in Jerusalem, an Israeli policewoman is fatally stabbed; the three Palestinian assailants are shot dead. ISIL claims were questioned by Israeli authorities. As well, the PFLP and Hamas claim it was their members who did it. ](/news/2017/06/16/in-two-simultaneous-attacks-near-the-damascus-gate-in-jerusalem-an-israeli-policewoman-is-fatally-stabbed-the-three-palestinian-assailants.md) _Context: Israel, Jerusalem, Palestinians_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict (2015-present): Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/israeli-palestinian-conflict-2015-present-three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-i.md) _2017-08-27 03:44:57 (First version)_
-1. [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md) _(Current version)_

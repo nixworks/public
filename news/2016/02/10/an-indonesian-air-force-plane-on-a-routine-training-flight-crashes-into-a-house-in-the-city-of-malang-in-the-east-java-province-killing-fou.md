@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/10/an-indonesian-air-force-plane-on-a-routine-training-flight-crashes-into-a-house-in-the-city-of-malang-in-the-east-java-province-killing-fou.html)  [JSON](/news/2016/02/10/an-indonesian-air-force-plane-on-a-routine-training-flight-crashes-into-a-house-in-the-city-of-malang-in-the-east-java-province-killing-fou.json)  [XML](/news/2016/02/10/an-indonesian-air-force-plane-on-a-routine-training-flight-crashes-into-a-house-in-the-city-of-malang-in-the-east-java-province-killing-fou.xml)  
+
 ### [2016-02-10](/news/2016/02/10/index.md)
 
 # An Indonesian Air Force plane on a routine training flight crashes into a house in the city of Malang in the East Java province, killing four people and injuring one. 
@@ -5,7 +8,7 @@
 An air force official reportedly said that a woman who was inside the house was critically injured.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/indonesia-air-force-plane-crash-brazilian-made-embraer-emb-314-super-tucano-crashes-2301259)
 1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/02/10/brazilian-super-tucano.jpg)

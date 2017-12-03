@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/02/20/index.html)  [JSON](2016/02/20/index.json)  [XML](2016/02/20/index.xml)  
+
 ## [2016-02-20](/news/2016/02/20/index.md)
 
 ### [Two Serbian embassy staff abducted in Libya in November 2015 are believed to have been among dozens killed in yesterday's U.S. airstrike on a ISIL camp in Sabratha, according to Serbia's Foreign Minister Ivica Dacic. ](/news/2016/02/20/two-serbian-embassy-staff-abducted-in-libya-in-november-2015-are-believed-to-have-been-among-dozens-killed-in-yesterday-s-u-s-airstrike-on.md)
 Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 people dead and 32 wounded, medical officials said on Saturday.
 
 ### [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md)
-_Context: Abyan Governorate, Ahwar, Yemen, Yemeni conflict, al-Qaida_
+_Context: Abyan Governorate, Ahwar, Yemen, Yemeni Civil War (2015-present), al-Qaida_
 
 ### [A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afghanistan.md)
 An American MQ-9 Reaper has crashed at the Kandahar airbase in southern Afghanistan, the US Air Force reported. The incident came less than three months after a similar armed drone went down at the same location. 
@@ -37,7 +40,7 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 _Context: Agricultural Bank of China, China's Securities Regulatory Commission, China's State Council, Liu Shiyu, Xiao Gang_
 
 ### [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md)
-_Context: EU, President, Ugandan general election, 2016, Yoweri Museveni_
+_Context: European Union, President, Ugandan general election, 2016, Yoweri Museveni_
 
 ## [Previous Day...](/news/2016/02/19/index.md)
 

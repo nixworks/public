@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.html)  [JSON](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.json)  [XML](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.xml)  
+
 ### [2016-02-22](/news/2016/02/22/index.md)
 
 # German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". 
@@ -5,10 +8,10 @@
 Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for Germany
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/german-interior-minister-hits-unacceptable-austrian-asylum-cap-233249722.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/hTpByHU1Px5zgualrqEnTQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9042d9eae28c8bb9f1bb7ec932fd171b25b39475.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/german-interior-minister-hits-unacceptable-austrian-asylum-cap-233249722.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/YeOIcsPGx24we8SevVgCRg--~B/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9042d9eae28c8bb9f1bb7ec932fd171b25b39475.jpg)
 
 ### Related:
 

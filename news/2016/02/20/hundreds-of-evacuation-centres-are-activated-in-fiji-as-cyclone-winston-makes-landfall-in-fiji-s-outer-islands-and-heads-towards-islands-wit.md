@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in-fiji-as-cyclone-winston-makes-landfall-in-fiji-s-outer-islands-and-heads-towards-islands-wit.html)  [JSON](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in-fiji-as-cyclone-winston-makes-landfall-in-fiji-s-outer-islands-and-heads-towards-islands-wit.json)  [XML](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in-fiji-as-cyclone-winston-makes-landfall-in-fiji-s-outer-islands-and-heads-towards-islands-wit.xml)  
+
 ### [2016-02-20](/news/2016/02/20/index.md)
 
 # Hundreds of evacuation centres are activated in Fiji as Cyclone Winston makes landfall in Fiji's outer islands and heads towards islands with higher population. 
@@ -5,7 +8,7 @@
 Hundreds of evacuation centres are activated as a powerful category five cyclone lashes Fiji&#039;s outer islands.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-02-20/category-five-cyclone-winston-bears-down-on-fiji/7186080)
 2. [ABC](http://www.abc.net.au/news/2016-02-20/cyclone-winston-reaches-fijis-biggest-islands/7186792)

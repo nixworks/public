@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/15/index.html)  [JSON](2016/02/15/index.json)  [XML](2016/02/15/index.xml)  
+
 ## [2016-02-15](/news/2016/02/15/index.md)
 
 ### [A Turkish soldier is killed following a clash on the Syria-Turkey border with an armed group trying to enter Turkey illegally. The Turkish military says the clash occurred in the Yayladagi district of the Hatay Province. ](/news/2016/02/15/a-turkish-soldier-is-killed-following-a-clash-on-the-syriaaturkey-border-with-an-armed-group-trying-to-enter-turkey-illegally-the-turkish.md)

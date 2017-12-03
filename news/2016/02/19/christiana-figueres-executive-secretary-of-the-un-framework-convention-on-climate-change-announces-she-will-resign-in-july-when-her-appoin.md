@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/19/christiana-figueres-executive-secretary-of-the-un-framework-convention-on-climate-change-announces-she-will-resign-in-july-when-her-appoin.html)  [JSON](/news/2016/02/19/christiana-figueres-executive-secretary-of-the-un-framework-convention-on-climate-change-announces-she-will-resign-in-july-when-her-appoin.json)  [XML](/news/2016/02/19/christiana-figueres-executive-secretary-of-the-un-framework-convention-on-climate-change-announces-she-will-resign-in-july-when-her-appoin.xml)  
+
 ### [2016-02-19](/news/2016/02/19/index.md)
 
 # Christiana Figueres, executive secretary of the UN Framework Convention on Climate Change, announces she will resign in July when her appointment ends. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35612559)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/63BF/production/_88353552_gettyimages-499245510.jpg)

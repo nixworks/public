@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.html)  [JSON](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.json)  [XML](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.xml)  
+
 ### [2016-02-11](/news/2016/02/11/index.md)
 
 # South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. 
@@ -5,12 +8,17 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/39d1d9282da046b8b7f9c07d6c7b24ee/north-korea-says-it-will-freeze-all-south-korean-assets-and)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-satellite-kaesong-power-idUSKCN0VK2KV)
+2. [Reuters](https://www.reuters.com/article/us-northkorea-satellite-kaesong-power-idUSKCN0VK2KV)
 3. [Yonhap](http://english.yonhapnews.co.kr/news/2016/02/11/0200000000AEN20160211002800315.html?input=www.tweeter.com)
-3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1116876987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B066)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160212&t=2&i=1116876987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1B066)
+
+### Changes:
+
+1. [North Korea-South Korea relations: South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/north-korea-south-korea-relations-south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-ac.md) _2017-08-27 03:44:53 (First version)_
+1. [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@
 3. [South Korea and the United States start annual military drills despite North Korea's threats of nuclear attacks. ](/news/2016/08/22/south-korea-and-the-united-states-start-annual-military-drills-despite-north-korea-s-threats-of-nuclear-attacks.md) _Context: North Korea, North Korea-South Korea relations, South Korea_
 4. [The South Korean Joint Chiefs of Staff and the United States Strategic Command report North Korea fires three ballistic missiles into the Sea of Japan. The short-range ballistic missiles flew about 500 to 600 kilometers (310 to 375 miles) before crashing in the sea, sufficient to target the southern part of South Korea where the U.S. Terminal High Altitude Area Defense system is set to be installed. ](/news/2016/07/19/the-south-korean-joint-chiefs-of-staff-and-the-united-states-strategic-command-report-north-korea-fires-three-ballistic-missiles-into-the-se.md) _Context: North Korea, North Korea-South Korea relations, South Korea_
 5. [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md) _Context: North Korea, North Korea-South Korea relations, South Korea_
-
-### Changes:
-
-1. [North Korea-South Korea relations: South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/north-korea-south-korea-relations-south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-ac.md) _2017-08-27 03:44:53 (First version)_
-1. [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md) _(Current version)_

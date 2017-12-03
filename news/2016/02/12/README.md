@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/12/index.html)  [JSON](2016/02/12/index.json)  [XML](2016/02/12/index.xml)  
+
 ## [2016-02-12](/news/2016/02/12/index.md)
 
 ### [An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five-united-nations-peacekee.md)
@@ -7,7 +10,7 @@ Five U.N. peacekeepers were killed when their base in northern Mali was hit by m
 A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot down Friday as it carried out air strikes on opposition positions in the coastal city of Benghazi, the military said. Nasser el-Hassi, spokesman for the government&#x27;s forces, told AFP the plane was &quot;shot down in...
 
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)
-_Context: Aden, Yemeni conflict, policemen_
+_Context: Aden, Yemeni Civil War (2015-present), policemen_
 
 ### [Evgeny Lebedev, the owner of the British national newspaper, "The Independent", announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-will.md)
 _Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_

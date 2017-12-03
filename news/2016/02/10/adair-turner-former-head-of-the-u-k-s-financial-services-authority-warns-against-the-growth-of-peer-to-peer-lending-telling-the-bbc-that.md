@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/10/adair-turner-former-head-of-the-u-k-s-financial-services-authority-warns-against-the-growth-of-peer-to-peer-lending-telling-the-bbc-that.html)  [JSON](/news/2016/02/10/adair-turner-former-head-of-the-u-k-s-financial-services-authority-warns-against-the-growth-of-peer-to-peer-lending-telling-the-bbc-that.json)  [XML](/news/2016/02/10/adair-turner-former-head-of-the-u-k-s-financial-services-authority-warns-against-the-growth-of-peer-to-peer-lending-telling-the-bbc-that.xml)  
+
 ### [2016-02-10](/news/2016/02/10/index.md)
 
 # Adair Turner former head of the U.K.'s Financial Services Authority, warns against the growth of peer-to-peer lending, telling the BBC that the practice will cause grave losses over the next five to ten years. 
@@ -5,7 +8,7 @@
 Former City regulator Adair Turner warns that without radical policies, the UK economy could be stuck with low interest rates &quot;almost indefinitely&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-35537714)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D885/production/_88192455_88192454.jpg)

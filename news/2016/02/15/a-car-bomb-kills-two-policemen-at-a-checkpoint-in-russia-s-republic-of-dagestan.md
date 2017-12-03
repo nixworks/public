@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.html)  [JSON](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.json)  [XML](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 # A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-blast-idUSKCN0VO0V6)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-russia-blast-idUSKCN0VO0V6)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Insurgency in the North Caucasus: A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/insurgency-in-the-north-caucasus-a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _2017-08-27 03:44:54 (First version)_
+1. [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. ](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-security-officer-are-killed-in-ongoing-clashes-in-rural-dagestan-russia.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
 4. [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
 5. [Insurgency in the North Caucasus: Five policemen are killed in a female suicide bombing by the widow of a killed Islamic militant in Dagestan, Russia. ](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
-
-### Changes:
-
-1. [Insurgency in the North Caucasus: A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/insurgency-in-the-north-caucasus-a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _2017-08-27 03:44:54 (First version)_
-1. [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _(Current version)_

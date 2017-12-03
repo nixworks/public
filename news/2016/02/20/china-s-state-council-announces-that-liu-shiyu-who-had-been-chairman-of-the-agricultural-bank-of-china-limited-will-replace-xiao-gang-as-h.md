@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.html)  [JSON](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.json)  [XML](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.xml)  
+
 ### [2016-02-20](/news/2016/02/20/index.md)
 
 # China's State Council announces that Liu Shiyu, who had been chairman of the Agricultural Bank of China Limited, will replace Xiao Gang as head of the China's Securities Regulatory Commission. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/business/2016-02/20/content_23567988.htm)
-2. [Reuters](http://www.reuters.com/article/us-china-regulator-csrc-idUSKCN0VT03J)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1118898158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J01T)
+2. [Reuters](https://www.reuters.com/article/us-china-regulator-csrc-idUSKCN0VT03J)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160220&t=2&i=1118898158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1J01T)
 
 ### Related:
 

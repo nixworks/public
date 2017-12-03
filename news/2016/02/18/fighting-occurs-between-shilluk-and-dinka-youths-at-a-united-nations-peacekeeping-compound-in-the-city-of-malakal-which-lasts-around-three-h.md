@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.html)  [JSON](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.json)  [XML](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.xml)  
+
 ### [2016-02-18](/news/2016/02/18/index.md)
 
 # Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. 
@@ -5,11 +8,17 @@
 Fighting at a United Nations compound sheltering people fleeing conflict in South Sudan has killed 18 people, including two Medicins Sans Frontieres workers, the international medical aid group said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-southsudan-unrest-idUSKCN0VR1FU?feedType=RSS&feedName=worldNews)
+1. [Reuters](https://www.reuters.com/article/us-southsudan-unrest-idUSKCN0VR1FU?feedType=RSS&feedName=worldNews)
 2. [Trend News Agency](http://en.trend.az/world/other/2496504.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three.md) _2017-08-25 03:44:35 (First version)_
+2. [Ethnic violence in South Sudan: Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/ethnic-violence-in-south-sudan-fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-ma.md) _2017-08-27 03:44:57 (Update)_
+2. [Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ Fighting at a United Nations compound sheltering people fleeing conflict in Sout
 3. [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md) _Context: United Nations_
 4. [According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md) _Context: United Nations_
 5. [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md) _Context: United Nations_
-
-### Changes:
-
-1. [Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three.md) _2017-08-25 03:44:35 (First version)_
-2. [Ethnic violence in South Sudan: Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/ethnic-violence-in-south-sudan-fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-ma.md) _2017-08-27 03:44:57 (Update)_
-2. [Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.md) _(Current version)_

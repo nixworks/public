@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.html)  [JSON](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.json)  [XML](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.xml)  
+
 ### [2016-02-22](/news/2016/02/22/index.md)
 
 # Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/gunfire-rocks-site-where-indian-forces-rebels-in-standoff/2016/02/22/1386c42e-d93f-11e5-8210-f0bd8de915f6_story.html)
 

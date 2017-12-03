@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.html)  [JSON](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.json)  [XML](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.xml)  
+
 ### [2016-02-14](/news/2016/02/14/index.md)
 
 # Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via seattlepi.com](http://www.seattlepi.com/news/us/article/48-people-rescued-from-stuck-tram-cars-at-ski-6830685.php)
 2. [WMUR](http://www.wmur.com/news/41-people-stranded-on-cannon-mountain-aerial-tramway/37992900)

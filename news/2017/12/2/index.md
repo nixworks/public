@@ -9,7 +9,7 @@ Syria says Israel attacked an army position outside Damascus and two missiles we
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
-### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. It also kills seven people in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-it-also-kills-seven-people-in-sri-lanka.md)
+### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md)
 Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved beyond Lakshadweep, the weather department said bringing huge relief to the people of the rain-battered states. However, many fishermen are still missing and warships have been deployed to comb the southeastern coast for f...
 
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)

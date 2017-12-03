@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.html)  [JSON](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.json)  [XML](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.xml)  
+
 ### [2016-02-19](/news/2016/02/19/index.md)
 
 # Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government's resignation and snap elections. 
@@ -5,7 +8,7 @@
 PRISTINA: Despite security checks at the entrance, Kosovo opposition lawmakers on Friday again used tear gas to block work from being done in Parliament to pressure the government into renouncing deals with Serbia and Montenegro.The session, delayed for about 50 minutes, was temporarily suspended Friday after a tear gas canister was launched from opposition lawmakers’ seats. A resumed session an hour later was suspended again for the same reason. Outside the Parliament a few hundreds opposition supporters were gathered shouting anti-government slogans.
 
 
-### Source:
+### Sources:
 
 1. [ (Arab News](http://www.arabnews.com/world/news/883191)
 2. [AFP via ''GlobalPost](http://www.globalpost.com/article/6735229/2016/02/19/kosovo-mps-stage-new-tear-gas-protest-parliament)

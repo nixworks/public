@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/16/index.html)  [JSON](2016/02/16/index.json)  [XML](2016/02/16/index.xml)  
+
 ## [2016-02-16](/news/2016/02/16/index.md)
 
 ### [Three Americans abducted last month in Baghdad are freed by the Iraqi National Intelligence Service. ](/news/2016/02/16/three-americans-abducted-last-month-in-baghdad-are-freed-by-the-iraqi-national-intelligence-service.md)

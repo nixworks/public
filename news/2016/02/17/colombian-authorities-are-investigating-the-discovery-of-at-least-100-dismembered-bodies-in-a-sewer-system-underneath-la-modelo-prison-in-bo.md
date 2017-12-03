@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/17/colombian-authorities-are-investigating-the-discovery-of-at-least-100-dismembered-bodies-in-a-sewer-system-underneath-la-modelo-prison-in-bo.html)  [JSON](/news/2016/02/17/colombian-authorities-are-investigating-the-discovery-of-at-least-100-dismembered-bodies-in-a-sewer-system-underneath-la-modelo-prison-in-bo.json)  [XML](/news/2016/02/17/colombian-authorities-are-investigating-the-discovery-of-at-least-100-dismembered-bodies-in-a-sewer-system-underneath-la-modelo-prison-in-bo.xml)  
+
 ### [2016-02-17](/news/2016/02/17/index.md)
 
 # Colombian authorities are investigating the discovery of at least 100 dismembered bodies in a sewer system underneath La Modelo prison in Bogota. Officials say the practice of killing, dismembering, and tossing body parts into drains might have also happened at prisons in other cities, e.g., Popayan, Bucaramanga and Barranquilla. The victims include inmates, visitors, and others. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/02/18/americas/colombia-prison-bodies/)
 

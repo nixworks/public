@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.html)  [JSON](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.json)  [XML](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.xml)  
+
 ### [2016-02-9](/news/2016/02/9/index.md)
 
 # One Indian soldier, buried in the snow for six days, is rescued from last week's Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Appeal-Democrat](http://www.appeal-democrat.com/news/regional_news/asia/indian-soldier-buried-by-avalanche-saved-bodies-recovered/article_70d9d46c-d14c-5637-b6fb-d9ae75842518.html)
 

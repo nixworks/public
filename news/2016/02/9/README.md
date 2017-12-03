@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/02/9/index.html)  [JSON](2016/02/9/index.json)  [XML](2016/02/9/index.xml)  
+
 ## [2016-02-9](/news/2016/02/9/index.md)
 
 ### [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md)
-An airstrike targeted a hospital supported by Médecins Sans Frontières in Syria last week, killing three and wounding several, the organization said Tuesday.
+A car bomb tore up a vegetable market and a police officers’ club in the capital of Syria, striking an area that had been quiet for about two years.
 
 ### [The United States sends more troops to Afghanistan's southern Helmand province to shore up security forces who are facing sustained attacks from the Taliban. ](/news/2016/02/9/the-united-states-sends-more-troops-to-afghanistan-s-southern-helmand-province-to-shore-up-security-forces-who-are-facing-sustained-attacks.md)
 Hundreds more U.S. troops are headed for Afghanistan’s strife-torn Helmand province to shore up security forces who have struggled in the face of sustained Taliban attacks, officials said.

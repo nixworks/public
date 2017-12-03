@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/11/index.html)  [JSON](2016/02/11/index.json)  [XML](2016/02/11/index.xml)  
+
 ## [2016-02-11](/news/2016/02/11/index.md)
 
 ### [Suspected Islamist militants attack a customs post in the town of Mopti, central Mali, killing two civilians and a customs officer. ](/news/2016/02/11/suspected-islamist-militants-attack-a-customs-post-in-the-town-of-mopti-central-mali-killing-two-civilians-and-a-customs-officer.md)
@@ -7,7 +10,7 @@ Suspected Islamist militants killed two civilians and a customs officer and burn
 _Context: Jizan Province, Saudi Arabia, Terrorism in Saudi Arabia, shoots six people dead_
 
 ### [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md)
-_Context: Afghan, Afghanistan, Kandahar, War in Afghanistan (2015-present)_
+_Context: Afghan, Afghan, Kandahar, War in Afghanistan (2015-present)_
 
 ### [Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. ](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

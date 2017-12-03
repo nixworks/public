@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-banning-all-mining-activities-in-the-pa-ramo-ecosystems-due-to-environmental-concerns.html)  [JSON](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-banning-all-mining-activities-in-the-pa-ramo-ecosystems-due-to-environmental-concerns.json)  [XML](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-banning-all-mining-activities-in-the-pa-ramo-ecosystems-due-to-environmental-concerns.xml)  
+
 ### [2016-02-8](/news/2016/02/8/index.md)
 
 # The Constitutional Court of Colombia rules on banning all mining activities in the Paramo ecosystems due to environmental concerns. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35531272)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1278A/production/_88185657_chingaza2.jpg)

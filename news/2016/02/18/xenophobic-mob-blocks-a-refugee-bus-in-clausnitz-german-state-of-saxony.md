@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/18/xenophobic-mob-blocks-a-refugee-bus-in-clausnitz-german-state-of-saxony.html)  [JSON](/news/2016/02/18/xenophobic-mob-blocks-a-refugee-bus-in-clausnitz-german-state-of-saxony.json)  [XML](/news/2016/02/18/xenophobic-mob-blocks-a-refugee-bus-in-clausnitz-german-state-of-saxony.xml)  
+
 ### [2016-02-18](/news/2016/02/18/index.md)
 
 # Xenophobic mob blocks a refugee bus in Clausnitz, German state of Saxony. 
@@ -5,13 +8,13 @@
 German officials have condemned a recent video depicting a screaming mob of anti-migrant protesters blocking a bus full of refugees. Another video shows a scared child being dragged off the bus by a police officer.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/german-interior-minister-thomas-de-maiziere-defends-police-action-against-migrants-in-saxony/a-19064622)
 2. [Deutsche Welle](http://www.dw.com/en/police-in-germanys-saxony-state-deny-mishandling-migrants-arrival/a-19062984)
 3. [Deutsche Welle](http://www.dw.com/en/shameful-video-of-mob-blocking-a-refugee-bus-in-germany-sparks-outrage/a-19062019)
-4. [The New York Times](http://www.nytimes.com/aponline/2016/02/20/world/europe/ap-eu-europe-migrants.html)
-5. [The New York Times](http://www.nytimes.com/aponline/2016/02/21/world/europe/ap-eu-germany-migrants.html)
+4. [The New York Times](https://www.nytimes.com/aponline/2016/02/20/world/europe/ap-eu-europe-migrants.html)
+5. [The New York Times](https://www.nytimes.com/aponline/2016/02/21/world/europe/ap-eu-germany-migrants.html)
 5. [Cover Image](http://www.dw.com/image/19061667_304.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/18/at-least-71-people-are-killed-in-a-head-on-collision-between-a-bus-and-a-truck-in-ghana.html)  [JSON](/news/2016/02/18/at-least-71-people-are-killed-in-a-head-on-collision-between-a-bus-and-a-truck-in-ghana.json)  [XML](/news/2016/02/18/at-least-71-people-are-killed-in-a-head-on-collision-between-a-bus-and-a-truck-in-ghana.xml)  
+
 ### [2016-02-18](/news/2016/02/18/index.md)
 
 # At least 71 people are killed in a head-on collision between a bus and a truck in Ghana. 
@@ -5,7 +8,7 @@
 Rescuers are forced to use chainsaws to cut through the mangled wreckage after one of the deadliest road accidents in years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-35603163)
 2. [Sky News](http://news.sky.com/story/1644212/dozens-dead-after-ghana-bus-collides-with-truck)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.html)  [JSON](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.json)  [XML](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.xml)  
+
 ### [2016-02-10](/news/2016/02/10/index.md)
 
 # The Kurdish-led Syrian Democratic Forces (SDF) reportedly take control of the Menagh Military Airbase in the northern Aleppo Governorate after Ahrar ash-Sham, Levant Front and Free Syrian Army fighters withdraw amid Russian airstrikes. 
@@ -5,7 +8,7 @@
 According to several Kurdish social media activists, the People&#039;s Protection Units Units (YPG) - backed by Jaysh Al-Thuwwar of the Syrian Democratic Forces
 
 
-### Source:
+### Sources:
 
 1. [Al Masdar News](http://www.almasdarnews.com/article/kurdish-forces-reportedly-capture-mennagh-airbase/)
 1. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2015/06/YPG2.jpg)

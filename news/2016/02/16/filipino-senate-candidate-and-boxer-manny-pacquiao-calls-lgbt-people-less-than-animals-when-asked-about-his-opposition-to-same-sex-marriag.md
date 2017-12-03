@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.html)  [JSON](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.json)  [XML](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.xml)  
+
 ### [2016-02-16](/news/2016/02/16/index.md)
 
 # Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. 
@@ -5,12 +8,17 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ (''Rappler](http://www.rappler.com/entertainment/news/122633-celebrities-manny-pacquiao-same-sex-marriage)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2016/02/16/466922420/manny-pacquiao-apologizes-for-comparing-homosexuals-to-animals)
 3. [The New York Times](http://mobile.nytimes.com/2016/02/17/sports/manny-pacquiao-apologizes-for-calling-gays-worse-than-animals.html?referer=https://www.google.com/)
 3. [Cover Image](https://assets.rappler.com/27136AF968E34023A407337C17F2A99F/img/BB9D71B797BE4B0FB5A9A0CE81EA27FF/nora-yeng-bb-vice.jpg)
+
+### Changes:
+
+1. [Philippine Senate election, 2016: Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/philippine-senate-election-2016-filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about.md) _2017-08-27 03:44:55 (First version)_
+1. [Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@
 3. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: same-sex marriage_
 4. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: same-sex marriage_
 5. [The Bundestag votes to introduce same-sex marriage in Germany. With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: same-sex marriage_
-
-### Changes:
-
-1. [Philippine Senate election, 2016: Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/philippine-senate-election-2016-filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about.md) _2017-08-27 03:44:55 (First version)_
-1. [Filipino Senate candidate and boxer Manny Pacquiao calls LGBT people "less than animals" when asked about his opposition to same-sex marriage, prompting condemnation from prominent Filipino LGBT figures such as Aiza Seguerra, John Lapus and Vice Ganda. Pacquiao later apologizes. ](/news/2016/02/16/filipino-senate-candidate-and-boxer-manny-pacquiao-calls-lgbt-people-less-than-animals-when-asked-about-his-opposition-to-same-sex-marriag.md) _(Current version)_

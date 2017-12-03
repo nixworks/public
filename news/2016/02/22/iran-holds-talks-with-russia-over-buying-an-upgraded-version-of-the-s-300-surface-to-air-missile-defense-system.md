@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.html)  [JSON](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.json)  [XML](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.xml)  
+
 ### [2016-02-22](/news/2016/02/22/index.md)
 
 # Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. 
@@ -5,10 +8,15 @@
 Iran negotiated with Russia at the weekend over buying an upgraded version of the S-300 surface-to-air missile defense system, which it requires to meet its military needs, a foreign ministry spokesman in Tehran was quoted as saying.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-iran-missiles-idUSKCN0VV0VA)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119370756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1L0FF)
+1. [Reuters](https://www.reuters.com/article/us-russia-iran-missiles-idUSKCN0VV0VA)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119370756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC1L0FF)
+
+### Changes:
+
+1. [Iran-Russia relations: Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-russia-relations-iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _2017-08-27 03:44:59 (First version)_
+1. [Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Iran negotiated with Russia at the weekend over buying an upgraded version of th
 3. [Russian president Vladimir Putin lifts the ban on delivery of S-300 missile air defense systems to Iran in connection to the nuclear dialogue. Israel and the United States oppose the deal on the grounds that Iran is a state sponsor of terrorism. ](/news/2015/04/13/russian-president-vladimir-putin-lifts-the-ban-on-delivery-of-s-300-missile-air-defense-systems-to-iran-in-connection-to-the-nuclear-dialogu.md) _Context: Iran, Russia, S-300_
 4. [Russia announces plans to sell Iran S-300 ground-to-air missiles, stating that the new United Nations sanctions do not cover stationary air defense weaponry. ](/news/2010/06/10/russia-announces-plans-to-sell-iran-s-300-ground-to-air-missiles-stating-that-the-new-united-nations-sanctions-do-not-cover-stationary-air.md) _Context: Iran, Russia, S-300_
 5. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Iran, Russia_
-
-### Changes:
-
-1. [Iran-Russia relations: Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-russia-relations-iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _2017-08-27 03:44:59 (First version)_
-1. [Iran holds talks with Russia over buying an upgraded version of the S-300 surface-to-air missile defense system. ](/news/2016/02/22/iran-holds-talks-with-russia-over-buying-an-upgraded-version-of-the-s-300-surface-to-air-missile-defense-system.md) _(Current version)_

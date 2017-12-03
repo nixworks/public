@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/11/charlot-salwai-is-elected-prime-minister-of-vanuatu-following-the-january-snap-election-salwai-takes-office-the-same-day.html)  [JSON](/news/2016/02/11/charlot-salwai-is-elected-prime-minister-of-vanuatu-following-the-january-snap-election-salwai-takes-office-the-same-day.json)  [XML](/news/2016/02/11/charlot-salwai-is-elected-prime-minister-of-vanuatu-following-the-january-snap-election-salwai-takes-office-the-same-day.xml)  
+
 ### [2016-02-11](/news/2016/02/11/index.md)
 
 # Charlot Salwai is elected Prime Minister of Vanuatu following the January snap election. Salwai takes office the same day. 
@@ -5,7 +8,7 @@
 Charlot Salwai will be Vanuatu&#039;s 11th prime minister after receiving more than 40 votes from the 52 Members of Parliament.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2016-02-11/vanuatu-new-parliament-elects-charlot-salwai-pm/7160362)
 1. [Cover Image](http://www.abc.net.au/news/image/7160408-1x1-700x700.jpg)

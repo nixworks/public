@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/02/22/index.html)  [JSON](2016/02/22/index.json)  [XML](2016/02/22/index.xml)  
+
 ## [2016-02-22](/news/2016/02/22/index.md)
 
 ### [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md)

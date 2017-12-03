@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.html)  [JSON](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.json)  [XML](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.xml)  
+
 ### [2016-02-15](/news/2016/02/15/index.md)
 
 #  Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Berliner Morgenpost](http://www.morgenpost.de/incoming/article207041801/Bundesanwaelte-ermitteln-gegen-Verfassungsschuetzer.html)
 2. [Sputniknews](http://sputniknews.com/europe/20160215/1034773754/germany-agents-al-qaeda.html)
