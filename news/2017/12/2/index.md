@@ -3,10 +3,10 @@ Formats: [HTML](2017/12/2/index.html)  [JSON](2017/12/2/index.json)  [XML](2017/
 
 ## [2017-12-2](/news/2017/12/2/index.md)
 
-### [Israel launchs surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launchs-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-reports.md)
+### [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
-### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
+### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
 ### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md)

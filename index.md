@@ -1,12 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/2/index.md)
+## [News](/news/2017/12/3/index.md)
 
-### [Israel launchs surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launchs-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-reports.md)
+### [The Saudi-led coalition in Yemen has welcomed an offer of talks by former President Ali Abdullah Saleh whose forces have been fighting against it. ](/news/2017/12/3/the-saudi-led-coalition-in-yemen-has-welcomed-an-offer-of-talks-by-former-president-ali-abdullah-saleh-whose-forces-have-been-fighting-again.md)
+Ex-President Ali Abdullah Saleh, whose forces are fighting the alliance, has offered to hold talks.
+
+---
+
+## [Yesterday](/news/2017/12/2/index.md)
+
+### [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
-### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3000-houses-have-been-flooded.md)
+### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
 ### [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala.md)
@@ -26,7 +33,7 @@ This week, the scientists and engineers on the Voyager team did something very s
 
 ---
 
-## [Yesterday](/news/2017/12/1/index.md)
+## [Day Before Yesterday](/news/2017/12/1/index.md)
 
 ### [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md)
 PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand grenades stormed the campus of the Agriculture Training Institute in Peshawar city on Friday morning, killing at least 12 people and injuring more than 35 others. Most of the victims were students. Provincial police chief Sa...
@@ -48,32 +55,7 @@ Jay Weatherill marks the official launch as Elon Musk delivers on his promise to
 
 ---
 
-## [Day Before Yesterday](/news/2017/11/30/index.md)
-
-### [A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-bombing-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-51.md)
-More than 500 people were killed in twin bomb blasts in Mogadishu in October, a Somali committee looking into the attack said on Thursday, raising the death toll from at least 358.
-
-### [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md)
-The hip-hop mogul and Def Jam founder has said ‘I don’t want to be a distraction’ after he was accused by screenwriter Jenny Lumet of sexual intimidation
-
-### [The Bank of Korea raises interest rates for the first time in more than six years by lifting borrowing costs to 1.50 percent from 1.25, citing economic recovery. ](/news/2017/11/30/the-bank-of-korea-raises-interest-rates-for-the-first-time-in-more-than-six-years-by-lifting-borrowing-costs-to-1-50-percent-from-1-25-citi.md)
-_Context: Bank of Korea, Economy of South Korea, economic recovery_
-
-### [The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. ](/news/2017/11/30/the-international-committee-of-the-red-cross-is-buying-750-000-liters-of-diesel-fuel-to-help-provide-clean-water-for-a-million-people-living.md)
-The &quot;exceptional&quot; move comes as a blockade prevents imports vital for water systems.
-
-### [A rare minor earthquake centered 7 mi northeast of Dover, Delaware, is felt throughout the Mid-Atlantic United States. ](/news/2017/11/30/a-rare-minor-earthquake-centered-7-mi-northeast-of-dover-delaware-is-felt-throughout-the-mid-atlantic-united-states.md)
-The earthquake was centered in the Delaware Bay.
-
-### [The Argentine Navy decides to cancel the search and rescue effort for the missing 44 crew members of "San Juan", 15 days after it went missing, in order to focus on the search for the submarine itself. ](/news/2017/11/30/the-argentine-navy-decides-to-cancel-the-search-and-rescue-effort-for-the-missing-44-crew-members-of-san-juan-15-days-after-it-went-missi.md)
-Argentina&#039;s navy says it has called off a rescue mission for the crew of missing submarine ARA San Juan that went missing two weeks ago a few hundred kilometres off the coast of Argentina. The search for the vessel itself will continue. Navy spokesman Enrique Balbi said that the rescue mission ...
-
-### [Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. ](/news/2017/11/30/josa-c-ina-c-s-garcaa-zarate-a-suspect-in-a-2015-shooting-in-san-francisco-is-acquitted-of-murder-charges-and-found-guilty-of-being-a-felon.md)
-Donald Trump seized on the case during the campaign as proof that the U.S. needs his proposed border wall.
-
----
-
-## [Previous Day...](/news/2017/11/29/index.md)
+## [Previous Day...](/news/2017/11/30/index.md)
 
 ---
 
