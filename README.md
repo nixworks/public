@@ -47,6 +47,9 @@ _Context: Bitcoin, Chicago Board Options Exchange, Chicago Mercantile Exchange, 
 ### [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md)
 The guilty plea by President Trump’s former national security adviser brings the special counsel investigation of Russian interference in the 2016 election into Mr. Trump’s inner circle.
 
+### [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md)
+_Context: Aftermath of the Honduran general election, 2017, Honduran, Juan Orlando Hernndez_
+
 ### [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md)
 _Context: Abdication of Emperor Akihito, Akihito_
 
