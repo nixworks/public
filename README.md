@@ -22,13 +22,13 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
 _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Francis, Rohingya refugees, Rohingya refugees in Bangladesh_
 
-### [The former president of Yemen Ali Abdullah Saleh has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-has-suggested-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-be.md)
+### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
-### [Voyager 1 manages successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-manages-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firing.md)
+### [Voyager 1 successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firings-are-to.md)
 This week, the scientists and engineers on the Voyager team did something very special.
 
 ---
