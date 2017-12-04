@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.html)  [JSON](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.json)  [XML](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 # China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. 
 
+Organizers of an event in Guangdong Province canceled the invitation to the Puzangalan Choir after a performance at the presidential inauguration in Taiwan in May.
 
 
-
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/0e78184955664314a5a332c431822211/report-china-cancels-visit-kids-who-sang-taiwan-anthem)
 2. [BBC](http://www.bbc.com/news/world-asia-china-36547305)
-3. [The New York Times](http://www.nytimes.com/2016/06/17/world/asia/china-taiwan-puzangalan-choir.html?_r=0)
-3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0ADB/production/_89997720_childrenschoirafp.jpg)
+3. [The New York Times](https://www.nytimes.com/2016/06/17/world/asia/china-taiwan-puzangalan-choir.html?_r=0)
+3. [Cover Image](https://static01.nyt.com/images/2016/06/17/world/17sinotaiwan/17sinotaiwan-facebookJumbo.jpg)
 
 ### Related:
 

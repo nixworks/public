@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.html)  [JSON](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.json)  [XML](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.xml)  
+
 ### [2016-06-8](/news/2016/06/8/index.md)
 
 # Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Cincinnati Enquirer](http://www.cincinnati.com/story/news/politics/2016/06/08/john-kasich-just-legalized-medical-marijuana-ohio-now-what/85499176/)
 

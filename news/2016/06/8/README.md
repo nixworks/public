@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/06/8/index.html)  [JSON](2016/06/8/index.json)  [XML](2016/06/8/index.xml)  
+
 ## [2016-06-8](/news/2016/06/8/index.md)
 
 ### [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md)
-_Context: Afghanistan, Ghazni Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan, Ghazni Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.md)
 JERUSALEM (AP) — Two Palestinians opened fire near a popular open-air market in central Tel Aviv on Wednesday night, killing four Israelis and wounding at least five others in one of the deadliest attacks in an eight-month…

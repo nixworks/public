@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/15/the-canadian-house-of-commons-approves-a-bill-to-make-the-lyrics-in-the-country-s-national-anthem-gender-neutral-the-bill-would-change-the.html)  [JSON](/news/2016/06/15/the-canadian-house-of-commons-approves-a-bill-to-make-the-lyrics-in-the-country-s-national-anthem-gender-neutral-the-bill-would-change-the.json)  [XML](/news/2016/06/15/the-canadian-house-of-commons-approves-a-bill-to-make-the-lyrics-in-the-country-s-national-anthem-gender-neutral-the-bill-would-change-the.xml)  
+
 ### [2016-06-15](/news/2016/06/15/index.md)
 
 # The Canadian House of Commons approves a bill to make the lyrics in the country's national anthem gender neutral. The bill would change the words in "O Canada" from "in all thy sons command" to "in all of us command." 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-canada-anthem-idUSKCN0Z12S1)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160615&t=2&i=1141542731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5E1JE)
+1. [Reuters](https://www.reuters.com/article/us-canada-anthem-idUSKCN0Z12S1)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160615&t=2&i=1141542731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5E1JE)
 
 ### Related:
 

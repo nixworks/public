@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.html)  [JSON](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.json)  [XML](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.xml)  
+
 ### [2016-06-17](/news/2016/06/17/index.md)
 
 # A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. 
@@ -5,10 +8,15 @@
 A court in India sentences 11 people to life in prison for their roles in a notorious massacre during the 2002 anti-Muslim riots in Gujarat.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-36557036)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C3FA/production/_90007105_gettyimages-109497708.jpg)
+
+### Changes:
+
+1. [2002 Gujarat riots: A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/2002-gujarat-riots-a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-mu.md) _2017-08-27 03:46:17 (First version)_
+1. [A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A court in India sentences 11 people to life in prison for their roles in a noto
 3. [Seven people are killed and 14 injured after a bus collides with a diesel tanker on the Mumbai - Ahmedabad highway in India. ](/news/2014/01/29/seven-people-are-killed-and-14-injured-after-a-bus-collides-with-a-diesel-tanker-on-the-mumbai-ahmedabad-highway-in-india.md) _Context: Ahmedabad, India_
 4. [Unidentified gunmen on motorcycles fatally shoot Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md) _Context: Ahmedabad, India_
 5. [ A series of bomb blasts in Ahmedabad, Gujarat, India, kills 30 and injures over 100 people. ](/news/2008/07/26/a-series-of-bomb-blasts-in-ahmedabad-gujarat-india-kills-30-and-injures-over-100-people.md) _Context: Ahmedabad, India_
-
-### Changes:
-
-1. [2002 Gujarat riots: A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/2002-gujarat-riots-a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-mu.md) _2017-08-27 03:46:17 (First version)_
-1. [A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.md) _(Current version)_

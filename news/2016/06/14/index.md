@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/06/14/index.html)  [JSON](2016/06/14/index.json)  [XML](2016/06/14/index.xml)  
+
 ## [2016-06-14](/news/2016/06/14/index.md)
 
 ### [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md)
-_Context: Afghan National Army, Afghanistan, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan army, Torkham_
+_Context: Afghan, Afghan National Army, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan army, Torkham_
 
 ### [The attacker is identified as Larossi Abballa, a 25-year-old man who, according to police sources, was a neighbor of the murdered couple. Abballa was one of eight men convicted in Paris in 2013 for making plans to travel to Pakistan for terrorist training, and then to commit terrorists acts. Abballa was sentenced to three years in prison. He was released after the trial as six months of the sentence was suspended, and he had already spent two years in jail awaiting trial. ](/news/2016/06/14/the-attacker-is-identified-as-larossi-abballa-a-25-year-old-man-who-according-to-police-sources-was-a-neighbor-of-the-murdered-couple-ab.md)
 A policeman and his wife were killed in a frenzied knife attack at their home in a Paris suburb on Monday night by a man who reportedly shouted &ldquo;Allahu Akhbar&rdquo;.
@@ -19,7 +22,7 @@ A small plane has crashed in Papua ripping through several houses near a provinc
 Employees of a fish processing plant in the tiny Aleutian village were heading for dinner when their van crashed on Tuesday afternoon.
 
 ### [Hansjorg Haber, the European Union's top envoy to Turkey, resigns effective August. Omer Celik, Turkish Minister of European Union Affairs, had complained that Haber had shown disrespect for Turkey's national values, and for President Tayyip Erdogan. EU officials declined to comment on the reason for Haber's resignation. ](/news/2016/06/14/hansjaprg-haber-the-european-union-s-top-envoy-to-turkey-resigns-effective-august-amer-aelik-turkish-minister-of-european-union-affair.md)
-_Context: EU, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkey_
+_Context: European Union, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkey_
 
 ### [An armed man, holding two people hostage in a Walmart in Amarillo, Texas, is shot and killed by a police SWAT unit. No other injuries are reported. ](/news/2016/06/14/an-armed-man-holding-two-people-hostage-in-a-walmart-in-amarillo-texas-is-shot-and-killed-by-a-police-swat-unit-no-other-injuries-are-re.md)
 An armed man was fatally shot by police after holding two people hostage in an Amarillo, Texas, Walmart store on Tuesday in an incident law enforcement described as workplace violence.

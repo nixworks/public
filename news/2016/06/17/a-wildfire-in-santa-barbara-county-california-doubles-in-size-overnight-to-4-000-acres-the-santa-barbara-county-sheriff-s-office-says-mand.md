@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/17/a-wildfire-in-santa-barbara-county-california-doubles-in-size-overnight-to-4-000-acres-the-santa-barbara-county-sheriff-s-office-says-mand.html)  [JSON](/news/2016/06/17/a-wildfire-in-santa-barbara-county-california-doubles-in-size-overnight-to-4-000-acres-the-santa-barbara-county-sheriff-s-office-says-mand.json)  [XML](/news/2016/06/17/a-wildfire-in-santa-barbara-county-california-doubles-in-size-overnight-to-4-000-acres-the-santa-barbara-county-sheriff-s-office-says-mand.xml)  
+
 ### [2016-06-17](/news/2016/06/17/index.md)
 
 # A wildfire in Santa Barbara County, California doubles in size overnight to 4,000 acres. The Santa Barbara County Sheriff's Office says mandatory evacuations remain in effect for areas such as El Capitan State Beach. The blaze was currently 5% contained, according to Los Padres National Forest officials. 
@@ -5,7 +8,7 @@
 A fast-moving fire in Santa Barbara County more than tripled in size Friday as strong overnight winds, rising temperatures and an extended drought wrought explosive havoc for weary firefighters.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sherpa-fire-20160617-snap-story.html)
 1. [Cover Image](http://www.trbimg.com/img-57657e35/turbine/la-me-ln-sherpa-fire-20160617-snap)

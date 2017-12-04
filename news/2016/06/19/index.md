@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/19/index.html)  [JSON](2016/06/19/index.json)  [XML](2016/06/19/index.xml)  
+
 ## [2016-06-19](/news/2016/06/19/index.md)
 
 ### [A gathering of Eastern Orthodox Churches, the first of its kind in a millennium, opens on the Greek island of Crete. However, the Russian, Bulgarian, Georgian and the Greek Orthodox Church of Antioch refused to attend after a dispute. The gathering will last until June 27. ](/news/2016/06/19/a-gathering-of-eastern-orthodox-churches-the-first-of-its-kind-in-a-millennium-opens-on-the-greek-island-of-crete-however-the-russian-b.md)

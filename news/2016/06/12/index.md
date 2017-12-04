@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/12/index.html)  [JSON](2016/06/12/index.json)  [XML](2016/06/12/index.xml)  
+
 ## [2016-06-12](/news/2016/06/12/index.md)
 
 ### [In the Third Battle of Fallujah, ISIL militants attack a military barracks east of Fallujah, killing more than 50 government soldiers and militia members. At least 12 militants were also killed in the assault. ](/news/2016/06/12/in-the-third-battle-of-fallujah-isil-militants-attack-a-military-barracks-east-of-fallujah-killing-more-than-50-government-soldiers-and-mi.md)

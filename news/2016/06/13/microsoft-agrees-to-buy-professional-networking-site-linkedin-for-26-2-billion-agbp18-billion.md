@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.html)  [JSON](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.json)  [XML](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.xml)  
+
 ### [2016-06-13](/news/2016/06/13/index.md)
 
 # Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (GBP18 billion). 
@@ -5,11 +8,16 @@
 Microsoft is buying the professional networking website LinkedIn for about $26bn (£18bn) to help boost sales of its business software.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-36519766)
 2. [CNET](http://www.cnet.com/au/news/microsoft-buys-linkedin-in-26-2bn-deal/)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/3102/production/_89964521_hi033455224.jpg)
+
+### Changes:
+
+1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _2017-08-25 03:45:52 (First version)_
+1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (GBP18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Microsoft is buying the professional networking website LinkedIn for about $26bn
 3. [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md) _Context: Microsoft_
 4. [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md) _Context: Microsoft_
 5. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
-
-### Changes:
-
-1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _2017-08-25 03:45:52 (First version)_
-1. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (GBP18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.md) _(Current version)_

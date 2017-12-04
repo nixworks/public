@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.html)  [JSON](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.json)  [XML](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.xml)  
+
 ### [2016-06-17](/news/2016/06/17/index.md)
 
 # Kurdish rebels and Iranian Revolutionary guards clash in Oshnavieh, killing 12 rebels and three guards. There is dispute over who the rebels were. Iranian authorities claim it was the Party of Free Life of Kurdistan movement while a member of the Democratic Party of Iranian Kurdistan claimed their group was responsible for the fighting. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/fifteen-dead-after-clash-between-iranian-kurds-revolutionary-guards-iraq-border/27804030.html)
 

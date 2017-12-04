@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.html)  [JSON](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.json)  [XML](/news/2016/06/15/yaichi-masuzoe-resigns-as-the-governor-of-the-japanese-capital-tokyo-over-a-political-funding-scandal-he-was-due-to-face-a-no-confidence-m.xml)  
+
 ### [2016-06-15](/news/2016/06/15/index.md)
 
 # Yoichi Masuzoe resigns as the Governor of the Japanese capital Tokyo over a political funding scandal. He was due to face a no-confidence motion in the Tokyo Metropolitan Assembly later today. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/reports-tokyo-governor-resign-funds-scandal-39863675)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

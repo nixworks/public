@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/16/index.html)  [JSON](2016/06/16/index.json)  [XML](2016/06/16/index.xml)  
+
 ## [2016-06-16](/news/2016/06/16/index.md)
 
 ### [A suicide bombing kills at least 10 security force members in the village of Abu Qurayn, west of Sirte. ](/news/2016/06/16/a-suicide-bombing-kills-at-least-10-security-force-members-in-the-village-of-abu-qurayn-west-of-sirte.md)
@@ -10,7 +13,7 @@ Airstrikes were conducted in southern Syria, where Russian aircraft have &quot;n
 Deadly downpours cause widespread flooding along the Cape Coast as the West African wet season intensifies.
 
 ### [China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. ](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.md)
-_Context: China, Guangdong, Paiwan aboriginal tribe, Taiwan, Tsai Ing-wen, national anthem_
+Organizers of an event in Guangdong Province canceled the invitation to the Puzangalan Choir after a performance at the presidential inauguration in Taiwan in May.
 
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
 _Context: England, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_

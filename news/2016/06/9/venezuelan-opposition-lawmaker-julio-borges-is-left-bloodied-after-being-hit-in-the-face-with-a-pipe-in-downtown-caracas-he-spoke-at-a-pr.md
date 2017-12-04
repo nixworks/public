@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.html)  [JSON](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.json)  [XML](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.xml)  
+
 ### [2016-06-9](/news/2016/06/9/index.md)
 
 # Venezuelan opposition lawmaker, Julio Borges, is left bloodied after being hit in the face with a pipe in downtown Caracas. He spoke at a press conference after the attack with blood streaming down from his nose and mouth, and bloody stains on his button-down shirt, accusing the attackers of being supporters of President Nicolas Maduro. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/venezuela-opposition-leader-hit-pipe-face-39727293)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

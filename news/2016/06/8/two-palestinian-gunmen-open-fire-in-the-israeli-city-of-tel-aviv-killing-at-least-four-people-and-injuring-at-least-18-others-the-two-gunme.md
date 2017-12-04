@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.html)  [JSON](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.json)  [XML](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.xml)  
+
 ### [2016-06-8](/news/2016/06/8/index.md)
 
 # Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. 
@@ -5,7 +8,7 @@
 JERUSALEM (AP) — Two Palestinians opened fire near a popular open-air market in central Tel Aviv on Wednesday night, killing four Israelis and wounding at least five others in one of the deadliest attacks in an eight-month…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/fdab38792eb34204aab2263ab61c33c1/israel-police-say-shooting-tel-aviv-wounds-9)
 1. [Cover Image](http://binaryapi.ap.org/2d4b6ec405de49799f9b6418ecaa360f/460x.jpg)

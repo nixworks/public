@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/20/solar-impulse-2-a-plane-powered-only-by-the-sun-leaves-new-york-on-the-15th-leg-of-its-round-the-world-journey-a-90-hour-flight-over-the.html)  [JSON](/news/2016/06/20/solar-impulse-2-a-plane-powered-only-by-the-sun-leaves-new-york-on-the-15th-leg-of-its-round-the-world-journey-a-90-hour-flight-over-the.json)  [XML](/news/2016/06/20/solar-impulse-2-a-plane-powered-only-by-the-sun-leaves-new-york-on-the-15th-leg-of-its-round-the-world-journey-a-90-hour-flight-over-the.xml)  
+
 ### [2016-06-20](/news/2016/06/20/index.md)
 
 # Solar Impulse 2, a plane powered only by the sun, leaves New York on the 15th leg of its round-the-world journey, a 90-hour flight over the Atlantic Ocean to Western Europe. 
@@ -5,11 +8,11 @@
 An airplane powered solely by energy from the sun headed across the Atlantic early on Monday, on one of the longest legs of the first-ever flight around the globe without using a drop of fuel.
 
 
-### Source:
+### Sources:
 
 1. [Business Standard](http://www.business-standard.com/article/news-ians/solar-plane-begins-trans-atlantic-flight-116062000957_1.html)
-2. [Reuters²](http://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160620&t=2&i=1142041443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5J0F9)
+2. [Reuters](https://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160620&t=2&i=1142041443&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5J0F9)
 
 ### Related:
 

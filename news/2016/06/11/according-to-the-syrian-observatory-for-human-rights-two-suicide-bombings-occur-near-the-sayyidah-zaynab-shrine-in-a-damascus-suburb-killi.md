@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.html)  [JSON](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.json)  [XML](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.xml)  
+
 ### [2016-06-11](/news/2016/06/11/index.md)
 
 # According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-blast-idUSKCN0YX05Y)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160611&t=2&i=1140893875&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5A06U)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-blast-idUSKCN0YX05Y)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160611&t=2&i=1140893875&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5A06U)
+
+### Changes:
+
+1. [Syrian Civil War: According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. ](/news/2016/06/11/syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-dama.md) _2017-08-27 03:46:14 (First version)_
+1. [According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. ](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [The Syrian Observatory for Human Rights claims that the Al-Nusra Front as well as other insurgents have captured the village of Tel el-Ais in a strategic position overlooking the highway between Aleppo and Damascus. ](/news/2016/04/2/the-syrian-observatory-for-human-rights-claims-that-the-al-nusra-front-as-well-as-other-insurgents-have-captured-the-village-of-tel-el-ais-i.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
 4. [Syrian rebels fire volleys of mortar shells into Damascus, killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that kill at least 35 people and injure many more, according to the Syrian Observatory for Human Rights. ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-air.md) _Context: Damascus, Syrian Civil War, Syrian Observatory for Human Rights_
 5. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [Syrian Civil War: According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. ](/news/2016/06/11/syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-dama.md) _2017-08-27 03:46:14 (First version)_
-1. [According to the Syrian Observatory for Human Rights, two suicide bombings occur near the Sayyidah Zaynab shrine in a Damascus suburb, killing at least 20 people. ](/news/2016/06/11/according-to-the-syrian-observatory-for-human-rights-two-suicide-bombings-occur-near-the-sayyidah-zaynab-shrine-in-a-damascus-suburb-killi.md) _(Current version)_

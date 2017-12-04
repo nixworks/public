@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/20/according-to-an-environmental-report-by-global-witness-2015-was-the-deadliest-year-ever-for-environmental-activists-with-the-reported-deat.html)  [JSON](/news/2016/06/20/according-to-an-environmental-report-by-global-witness-2015-was-the-deadliest-year-ever-for-environmental-activists-with-the-reported-deat.json)  [XML](/news/2016/06/20/according-to-an-environmental-report-by-global-witness-2015-was-the-deadliest-year-ever-for-environmental-activists-with-the-reported-deat.xml)  
+
 ### [2016-06-20](/news/2016/06/20/index.md)
 
 # According to an environmental report by Global Witness, 2015 was the deadliest year ever for environmental activists, with the reported deaths of 185 activists, as a result of falling commodity prices prompting forceful land grabs by mining and foresting companies. 
@@ -5,7 +8,7 @@
 Falling commodity prices are prompting land grabs by mining and forestry companies - often by force. That&#39;s driving a disturbing trend: 2015 saw more murders of environmental activists than ever before.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/deadliest-year-ever-for-environmental-activism/a-19339193)
 1. [Cover Image](http://www.dw.com/image/19343481_304.png)

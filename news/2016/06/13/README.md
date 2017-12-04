@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/13/index.html)  [JSON](2016/06/13/index.json)  [XML](2016/06/13/index.xml)  
+
 ## [2016-06-13](/news/2016/06/13/index.md)
 
 ### [City officials in Orlando, Florida, continue to identify the bodies of the victims in yesterday's attack. So far, 33 of the reported 49 victims have been identified and their families notified. ](/news/2016/06/13/city-officials-in-orlando-florida-continue-to-identify-the-bodies-of-the-victims-in-yesterday-s-attack-so-far-33-of-the-reported-49-vict.md)
@@ -22,7 +25,7 @@ THESSALONIKI, Greece (AP) — Police detained 34 volunteers in northern Greece M
 Eleven German MPs of Turkish origin are under police protection after declaring the Turkish slaughter of Armenians a century ago a genocide.
 
 ### [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md)
-_Context: Estonia, Jens Stoltenberg, Latvia, Lithuania, Polish, Secretary General of NATO_
+_Context: Estonia, Jens Stoltenberg, Latvia, Lithuania, Polish citizens, Secretary General of NATO_
 
 ### [Fiji's ambassador to the United Nations Peter Thomson is elected as President of the United Nations General Assembly for its 71st session. ](/news/2016/06/13/fiji-s-ambassador-to-the-united-nations-peter-thomson-is-elected-as-president-of-the-united-nations-general-assembly-for-its-71st-session.md)
 _Context: Fiji, Peter Thomson, President of the United Nations General Assembly, United Nations_

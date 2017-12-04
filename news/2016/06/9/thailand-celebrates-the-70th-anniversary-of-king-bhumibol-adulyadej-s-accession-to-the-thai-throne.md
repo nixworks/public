@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.html)  [JSON](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.json)  [XML](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.xml)  
+
 ### [2016-06-9](/news/2016/06/9/index.md)
 
 # Thailand celebrates the 70th anniversary of King Bhumibol Adulyadej's accession to the Thai throne. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36486536)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E7C4/production/_89923395_hi033359009.jpg)

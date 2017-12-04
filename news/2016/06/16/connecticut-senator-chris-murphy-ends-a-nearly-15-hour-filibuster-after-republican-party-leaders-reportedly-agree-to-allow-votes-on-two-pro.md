@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/16/connecticut-senator-chris-murphy-ends-a-nearly-15-hour-filibuster-after-republican-party-leaders-reportedly-agree-to-allow-votes-on-two-pro.html)  [JSON](/news/2016/06/16/connecticut-senator-chris-murphy-ends-a-nearly-15-hour-filibuster-after-republican-party-leaders-reportedly-agree-to-allow-votes-on-two-pro.json)  [XML](/news/2016/06/16/connecticut-senator-chris-murphy-ends-a-nearly-15-hour-filibuster-after-republican-party-leaders-reportedly-agree-to-allow-votes-on-two-pro.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 #  Connecticut Senator Chris Murphy ends a nearly 15-hour filibuster after Republican Party leaders reportedly agree to allow votes on two proposed gun control measures. 
@@ -5,7 +8,7 @@
 An agreement was apparently reached to allow votes on whether to ban people on a terror watch list from buying guns and to expand background checks.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/politics/congress/senate-democrats-filibuster-over-gun-control-enters-second-day-n593396)
 1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_24/1580941/ap_16168012082659_9093b88e5106b71816b349ab47439378.nbcnews-fp-1200-800.jpg)

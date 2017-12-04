@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.html)  [JSON](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.json)  [XML](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.xml)  
+
 ### [2016-06-9](/news/2016/06/9/index.md)
 
 # Three people aboard a small plane are killed when the aircraft crashes into a parked car near the Houston, Texas, Hobby Airport. 
@@ -5,7 +8,7 @@
 HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near a Houston airport, killing three people aboard the aircraft, fire officials said. Houston Fire Department spokesman Jay Evans said the plane…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/96792d03734a46128176a3394cdb2b74/3-dead-after-plane-crashes-car-near-houston-airport)
 1. [Cover Image](http://binaryapi.ap.org/d881f7e6a3a245eaaf401364056eab42/460x.jpg)

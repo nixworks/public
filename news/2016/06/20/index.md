@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/20/index.html)  [JSON](2016/06/20/index.json)  [XML](2016/06/20/index.xml)  
+
 ## [2016-06-20](/news/2016/06/20/index.md)
 
 ### [A minibus carrying private security guards explodes in Kabul resulting in the death of at least 12 people and injuring several others. ](/news/2016/06/20/a-minibus-carrying-private-security-guards-explodes-in-kabul-resulting-in-the-death-of-at-least-12-people-and-injuring-several-others.md)

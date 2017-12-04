@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.html)  [JSON](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.json)  [XML](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.xml)  
+
 ### [2016-06-9](/news/2016/06/9/index.md)
 
 # A Northrop F-5 of the Swiss Air Force crashes during an air show at the Leeuwarden Air Base in the Netherlands. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [RTL Nieuws](http://www.rtlnieuws.nl/nederland/straaljager-neergestort-bij-vliegbasis-leeuwarden)
 1. [Cover Image](http://www.rtlnieuws.nl/sites/default/files/styles/landscape_2/public/content/images/2016/06/09/Bitgum.jpg?itok=l7x28dmh)

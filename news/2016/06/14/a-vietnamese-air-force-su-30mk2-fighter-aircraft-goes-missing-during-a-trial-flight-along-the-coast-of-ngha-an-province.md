@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/14/a-vietnamese-air-force-su-30mk2-fighter-aircraft-goes-missing-during-a-trial-flight-along-the-coast-of-ngha-an-province.html)  [JSON](/news/2016/06/14/a-vietnamese-air-force-su-30mk2-fighter-aircraft-goes-missing-during-a-trial-flight-along-the-coast-of-ngha-an-province.json)  [XML](/news/2016/06/14/a-vietnamese-air-force-su-30mk2-fighter-aircraft-goes-missing-during-a-trial-flight-along-the-coast-of-ngha-an-province.xml)  
+
 ### [2016-06-14](/news/2016/06/14/index.md)
 
 # A Vietnamese air force Su-30MK2 fighter aircraft goes missing during a trial flight along the coast of Nghe An Province 
@@ -5,7 +8,7 @@
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Euronews](http://www.euronews.com/newswires/3206874-vietnamese-fighter-jet-goes-missing-along-south-china-sea-coast/)
 

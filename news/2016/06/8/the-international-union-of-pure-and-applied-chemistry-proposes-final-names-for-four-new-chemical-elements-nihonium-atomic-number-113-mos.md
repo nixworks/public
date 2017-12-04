@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.html)  [JSON](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.json)  [XML](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.xml)  
+
 ### [2016-06-8](/news/2016/06/8/index.md)
 
 # The International Union of Pure and Applied Chemistry proposes final names for four new chemical elements: nihonium (atomic number 113), moscovium (#115), tennessine (#117), and oganesson (#118). 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/06/08/health/periodic-table-new-elements-names/)
 

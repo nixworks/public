@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/15/a-scaffolding-on-a-bridge-under-construction-near-werneck-germany-collapses-killing-at-least-one-worker-and-injuring-six-more.html)  [JSON](/news/2016/06/15/a-scaffolding-on-a-bridge-under-construction-near-werneck-germany-collapses-killing-at-least-one-worker-and-injuring-six-more.json)  [XML](/news/2016/06/15/a-scaffolding-on-a-bridge-under-construction-near-werneck-germany-collapses-killing-at-least-one-worker-and-injuring-six-more.xml)  
+
 ### [2016-06-15](/news/2016/06/15/index.md)
 
 # A scaffolding on a bridge under construction near Werneck, Germany, collapses, killing at least one worker and injuring six more. 
@@ -5,7 +8,7 @@
 Scaffolding collapses on Bavarian bridge construction site, killing one person and seriously injuring six.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36543261)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/371D/production/_89990141_mediaitem89990140.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/19/clashes-between-the-mexican-police-and-members-of-the-radical-mexican-teachers-union-national-coordinator-of-education-workers-in-oaxaca-lea.html)  [JSON](/news/2016/06/19/clashes-between-the-mexican-police-and-members-of-the-radical-mexican-teachers-union-national-coordinator-of-education-workers-in-oaxaca-lea.json)  [XML](/news/2016/06/19/clashes-between-the-mexican-police-and-members-of-the-radical-mexican-teachers-union-national-coordinator-of-education-workers-in-oaxaca-lea.xml)  
+
 ### [2016-06-19](/news/2016/06/19/index.md)
 
 # Clashes between the Mexican police and members of the radical Mexican teachers union National Coordinator of Education Workers in Oaxaca leaves at least six people dead. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/06/20/at-least-6-killed-more-than-100-hurt-in-mexico-clashes-between-police-and-teachers.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/06/20/at-least-6-killed-more-than-100-hurt-in-mexico-clashes-between-police-and-teachers/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1466401419253.jpg?ve=1)

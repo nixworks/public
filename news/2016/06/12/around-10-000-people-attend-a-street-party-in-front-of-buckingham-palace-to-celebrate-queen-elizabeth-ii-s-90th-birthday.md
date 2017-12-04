@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.html)  [JSON](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.json)  [XML](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.xml)  
+
 ### [2016-06-12](/news/2016/06/12/index.md)
 
 # Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-royals-queen-party-idUSKCN0YY0M1)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160612&t=2&i=1140974263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5B0FG)
+1. [Reuters](https://www.reuters.com/article/us-britain-royals-queen-party-idUSKCN0YY0M1)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160612&t=2&i=1140974263&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5B0FG)
 
 ### Related:
 

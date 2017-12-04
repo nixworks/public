@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/14/a-cessna-208-caravan-plane-crashes-in-the-small-town-of-yahukimo-in-papua-indonesia-injuring-at-least-seven-people.html)  [JSON](/news/2016/06/14/a-cessna-208-caravan-plane-crashes-in-the-small-town-of-yahukimo-in-papua-indonesia-injuring-at-least-seven-people.json)  [XML](/news/2016/06/14/a-cessna-208-caravan-plane-crashes-in-the-small-town-of-yahukimo-in-papua-indonesia-injuring-at-least-seven-people.xml)  
+
 ### [2016-06-14](/news/2016/06/14/index.md)
 
 # A Cessna 208 Caravan plane crashes in the small town of Yahukimo in Papua, Indonesia, injuring at least seven people. 
@@ -5,7 +8,7 @@
 A small plane has crashed in Papua ripping through several houses near a provincial airport in the highlands.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/306386/small-plane-crash-in-papua)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

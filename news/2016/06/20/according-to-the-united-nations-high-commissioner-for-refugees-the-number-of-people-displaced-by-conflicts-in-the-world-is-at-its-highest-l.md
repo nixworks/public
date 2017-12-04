@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.html)  [JSON](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.json)  [XML](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.xml)  
+
 ### [2016-06-20](/news/2016/06/20/index.md)
 
 # According to the United Nations High Commissioner for Refugees, the number of people displaced by conflicts in the world is at its highest level ever recorded, with an estimated 65.3 million people either being refugees, internally displaced or asylum seekers. 
@@ -5,7 +8,7 @@
 More than 65m people worldwide are displaced by conflict and war, the UN refugee agency says, half from Syria, Afghanistan and Somalia.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-36573082)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D4E7/production/_90030545_mediaitem90030544.jpg)

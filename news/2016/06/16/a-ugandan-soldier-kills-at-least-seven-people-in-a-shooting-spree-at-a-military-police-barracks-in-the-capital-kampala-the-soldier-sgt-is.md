@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/16/a-ugandan-soldier-kills-at-least-seven-people-in-a-shooting-spree-at-a-military-police-barracks-in-the-capital-kampala-the-soldier-sgt-is.html)  [JSON](/news/2016/06/16/a-ugandan-soldier-kills-at-least-seven-people-in-a-shooting-spree-at-a-military-police-barracks-in-the-capital-kampala-the-soldier-sgt-is.json)  [XML](/news/2016/06/16/a-ugandan-soldier-kills-at-least-seven-people-in-a-shooting-spree-at-a-military-police-barracks-in-the-capital-kampala-the-soldier-sgt-is.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 # A Ugandan soldier kills at least seven people in a shooting spree at a military police barracks in the capital, Kampala. The soldier, Sgt Isaac Obua, was then shot dead himself. He is reported to have been drunk. 
@@ -5,7 +8,7 @@
 A Ugandan soldier kills seven people, including three children, in a shooting spree at a military police barracks in the capital, Kampala.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-36553127)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CCCE/production/_90003425_gettyimages-107717139.jpg)

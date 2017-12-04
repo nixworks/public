@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.html)  [JSON](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.json)  [XML](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 # Flooding in southern Ghana caused by heavy rain leaves at least 10 people dead and the streets of Accra under water. 
@@ -5,7 +8,7 @@
 Deadly downpours cause widespread flooding along the Cape Coast as the West African wet season intensifies.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/06/floods-leave-dead-southern-ghana-160616104330811.html)
 

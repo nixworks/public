@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/15/index.html)  [JSON](2016/06/15/index.json)  [XML](2016/06/15/index.xml)  
+
 ## [2016-06-15](/news/2016/06/15/index.md)
 
 ### [Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. ](/news/2016/06/15/syrian-government-airstrikes-hit-rebel-held-areas-in-aleppo-killing-at-least-34-people.md)

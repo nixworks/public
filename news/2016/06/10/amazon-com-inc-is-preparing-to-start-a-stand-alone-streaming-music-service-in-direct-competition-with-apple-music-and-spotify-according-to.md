@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/10/amazon-com-inc-is-preparing-to-start-a-stand-alone-streaming-music-service-in-direct-competition-with-apple-music-and-spotify-according-to.html)  [JSON](/news/2016/06/10/amazon-com-inc-is-preparing-to-start-a-stand-alone-streaming-music-service-in-direct-competition-with-apple-music-and-spotify-according-to.json)  [XML](/news/2016/06/10/amazon-com-inc-is-preparing-to-start-a-stand-alone-streaming-music-service-in-direct-competition-with-apple-music-and-spotify-according-to.xml)  
+
 ### [2016-06-10](/news/2016/06/10/index.md)
 
 # Amazon.com Inc is preparing to start a stand-alone streaming music service, in direct competition with Apple Music and Spotify, according to sources who spoke to Reuters. 
@@ -5,10 +8,10 @@
 Amazon.com Inc is preparing to launch a standalone music streaming subscription service, placing it squarely in competition with rival offerings from Apple Inc and Spotify, according to two people with knowledge of the matter.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-amazon-com-music-exclusive-idUSKCN0YW28U)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160610&t=2&i=1140841480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC591JY)
+1. [Reuters](https://www.reuters.com/article/us-amazon-com-music-exclusive-idUSKCN0YW28U)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160610&t=2&i=1140841480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC591JY)
 
 ### Related:
 

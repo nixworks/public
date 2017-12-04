@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.html)  [JSON](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.json)  [XML](/news/2016/06/10/a-maldives-court-convicts-ahmed-adeeb-the-country-s-former-vice-president-of-masterminding-a-plot-to-kill-president-abdulla-yameen-he-is.xml)  
+
 ### [2016-06-10](/news/2016/06/10/index.md)
 
 # A Maldives court convicts Ahmed Adeeb, the country's former vice president, of masterminding a plot to kill President Abdulla Yameen. He is sentenced to 15 years in prison. Earlier this week, Adeeb was sentenced to 10 years for firearms possession. 
@@ -5,7 +8,7 @@
 MALE, Maldives (AP) — A Maldives court has convicted the country&#039;s former vice president of masterminding a plot to kill the president by exploding a bomb on his speedboat last year and sentenced him to 15 years in prison.…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ee0a33ba0b3042238be040a1c06cc846/maldives-ex-vp-jailed-15-years-attempt-president)
 1. [Cover Image](http://binaryapi.ap.org/75adf9348c064aa19a1a7c0daf78f668/460x.jpg)

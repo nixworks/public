@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/16/labour-party-mp-jo-cox-dies-at-leeds-general-infirmary-after-being-shot-and-stabbed-as-she-prepared-to-hold-a-meeting-with-constituents-in.html)  [JSON](/news/2016/06/16/labour-party-mp-jo-cox-dies-at-leeds-general-infirmary-after-being-shot-and-stabbed-as-she-prepared-to-hold-a-meeting-with-constituents-in.json)  [XML](/news/2016/06/16/labour-party-mp-jo-cox-dies-at-leeds-general-infirmary-after-being-shot-and-stabbed-as-she-prepared-to-hold-a-meeting-with-constituents-in.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 #  Labour Party MP Jo Cox dies at Leeds General Infirmary after being shot and stabbed as she prepared to hold a meeting with constituents in Birstall, West Yorkshire, United Kingdom. A woman suffered serious injuries; a man was slightly wounded. West Yorkshire police have arrested a 52-year-old male suspect. 
@@ -5,12 +8,12 @@
 British lawmaker Jo Cox died after being shot and stabbed in her constituency.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/british-politician-reportedly-shot-town-hall-meeting/story?id=39902607)
 2. [BBC](http://www.bbc.com/news/uk-england-36550304)
 3. [NBC News](http://www.nbcnews.com/news/world/jo-cox-british-lawmaker-shot-stabbed-yorkshire-reports-n593581)
-4. [Reuters](http://www.reuters.com/article/us-britain-politics-attack-idUSKCN0Z21LS)
+4. [Reuters](https://www.reuters.com/article/us-britain-politics-attack-idUSKCN0Z21LS)
 5. [The Guardian](https://www.theguardian.com/uk-news/2016/jun/16/labour-mp-jo-cox-shot-in-west-yorkshire)
 5. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_24/1581586/160616-cox-1042_e6b553b59fa61f1cea6347ffbd3d0ee6.nbcnews-fp-1200-800.jpg)
 

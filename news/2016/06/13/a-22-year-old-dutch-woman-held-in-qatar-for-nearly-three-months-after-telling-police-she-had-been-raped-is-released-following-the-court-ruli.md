@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.html)  [JSON](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.json)  [XML](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.xml)  
+
 ### [2016-06-13](/news/2016/06/13/index.md)
 
 # A 22-year-old Dutch woman held in Qatar for nearly three months after telling police she had been raped is released following the court ruling of a one-year suspended prison sentence. The Associated Press reports it isn't clear "[...] what sentence was given to the man she accused of rape." 
@@ -5,7 +8,7 @@
 DUBAI, United Arab Emirates (AP) — A Dutch woman held in Qatar for nearly three months after telling police she had been raped there was released on Monday after receiving a one-year suspended prison sentence, a Dutch…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/c9578c3beed745988b95fb277cf2c750/diplomat-qatar-frees-dutch-woman-held-after-rape-report)
 1. [Cover Image](http://binaryapi.ap.org/8a40fe7c35c9416d9cb2aaf400b5fe90/460x.jpg)

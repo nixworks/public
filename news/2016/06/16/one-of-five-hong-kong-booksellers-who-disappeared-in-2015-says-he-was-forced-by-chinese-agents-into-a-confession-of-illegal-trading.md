@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/16/one-of-five-hong-kong-booksellers-who-disappeared-in-2015-says-he-was-forced-by-chinese-agents-into-a-confession-of-illegal-trading.html)  [JSON](/news/2016/06/16/one-of-five-hong-kong-booksellers-who-disappeared-in-2015-says-he-was-forced-by-chinese-agents-into-a-confession-of-illegal-trading.json)  [XML](/news/2016/06/16/one-of-five-hong-kong-booksellers-who-disappeared-in-2015-says-he-was-forced-by-chinese-agents-into-a-confession-of-illegal-trading.xml)  
+
 ### [2016-06-16](/news/2016/06/16/index.md)
 
 # One of five Hong Kong booksellers who disappeared in 2015 says he was forced by Chinese agents into a confession of "illegal trading". 
@@ -5,7 +8,7 @@
 One of five Hong Kong booksellers who disappeared last year says he was forced by Chinese agents into a confession of &quot;illegal trading&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-36549266)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/D28B/production/_89999835_mediaitem89999676.jpg)

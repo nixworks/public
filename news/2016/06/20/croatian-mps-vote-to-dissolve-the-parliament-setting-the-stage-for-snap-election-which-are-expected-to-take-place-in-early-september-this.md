@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/20/croatian-mps-vote-to-dissolve-the-parliament-setting-the-stage-for-snap-election-which-are-expected-to-take-place-in-early-september-this.html)  [JSON](/news/2016/06/20/croatian-mps-vote-to-dissolve-the-parliament-setting-the-stage-for-snap-election-which-are-expected-to-take-place-in-early-september-this.json)  [XML](/news/2016/06/20/croatian-mps-vote-to-dissolve-the-parliament-setting-the-stage-for-snap-election-which-are-expected-to-take-place-in-early-september-this.xml)  
+
 ### [2016-06-20](/news/2016/06/20/index.md)
 
 # Croatian MPs vote to dissolve the Parliament, setting the stage for snap election, which are expected to take place in early September. This comes as Croatia is facing an escalating political crisis following the last election in November 2015. 
@@ -5,7 +8,7 @@
 Snap election likely to be held in early September after 137 deputies in 151-seat assembly back parliament dissolution.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/06/croatia-dissolves-parliament-early-vote-160620122316755.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/9/index.html)  [JSON](2016/06/9/index.json)  [XML](2016/06/9/index.xml)  
+
 ## [2016-06-9](/news/2016/06/9/index.md)
 
 ### [Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somalia.md)
@@ -22,7 +25,7 @@ HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near
 MANAGUA, Nicaragua (AP) — An earthquake with a preliminary magnitude of 6.1 shook the northwestern coast of Nicaragua Thursday not far from the Honduran border. The U.S. Geological survey said the quake&#039;s epicenter was…
 
 ### [The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md)
-_Context: 2015-16 Zika virus epidemic, World Health Organization, Zika virus_
+The advice affects millions of couples in 46 countries across Latin America and the Caribbean where Zika transmission is occurring or expected.
 
 ### [Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. ](/news/2016/06/9/israel-suspends-83-000-entry-permits-for-palestinians-for-ramadan-following-a-mass-shooting-in-downtown-tel-aviv-that-killed-four-and-injure.md)
 Israel said Thursday it had suspended entry permits for 83,000 Palestinians during the holy Muslim month of Ramadan following a shooting in Tel Aviv that killed four people. &quot;All permits for Ramadan, especially permits for family visits from...

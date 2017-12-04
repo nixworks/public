@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/10/index.html)  [JSON](2016/06/10/index.json)  [XML](2016/06/10/index.xml)  
+
 ## [2016-06-10](/news/2016/06/10/index.md)
 
 ### [A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuring-nearly-40-more.md)
@@ -28,7 +31,7 @@ A shallow magnitude 6.2 earthquake has struck in Solomon Islands.
 Israel on Friday temporarily barred Palestinians from entering the country, a step criticised by the UN but which officials said was a response to this week&#x27;s deadly Tel Aviv shooting. Thousands of Palestinians from the occupied West Bank, however, were allowed to attend weekly Muslim prayers a...
 
 ### [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS "Porter". The USS "Porter" arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-porter.md)
-Moscow objects to beefed-up U.S. presence on the eve of a NATO summit in Poland.
+_Context: Bulgaria, Foreign Ministry, Russia, Russia-United States relations, U.S. Navy, USS ''Porter'', Varna_
 
 ### [The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including-miami-and-philadelphia-to-nine.md)
 Flights from Miami and Fort Lauderdale figure heavily in new commercial service. American Airlines has been approved for 8 daily flights from MIA, while JetBlue, Southwest and Silver Airways get authority for routes from Fort Lauderdale.

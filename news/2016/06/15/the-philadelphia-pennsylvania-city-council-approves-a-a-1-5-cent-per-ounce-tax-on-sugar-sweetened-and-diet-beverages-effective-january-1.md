@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.html)  [JSON](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.json)  [XML](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.xml)  
+
 ### [2016-06-15](/news/2016/06/15/index.md)
 
 # The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Philadelphia Inquirer](http://www.philly.com/philly/news/politics/20160617_Philadelphia_City_Council_to_vote_on_soda_tax.html)
 
