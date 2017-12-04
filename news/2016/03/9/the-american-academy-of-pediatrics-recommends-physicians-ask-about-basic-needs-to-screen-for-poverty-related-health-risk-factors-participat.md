@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/9/the-american-academy-of-pediatrics-recommends-physicians-ask-about-basic-needs-to-screen-for-poverty-related-health-risk-factors-participat.html)  [JSON](/news/2016/03/9/the-american-academy-of-pediatrics-recommends-physicians-ask-about-basic-needs-to-screen-for-poverty-related-health-risk-factors-participat.json)  [XML](/news/2016/03/9/the-american-academy-of-pediatrics-recommends-physicians-ask-about-basic-needs-to-screen-for-poverty-related-health-risk-factors-participat.xml)  
+
 ### [2016-03-9](/news/2016/03/9/index.md)
 
 # The American Academy of Pediatrics recommends physicians ask about basic needs to screen for poverty-related health risk factors, participate in programs that help children develop resilience, assist families in identifying and maximizing protective factors, and advocate for safety net programs that assist children. 
@@ -5,7 +8,7 @@
 Calling poverty “one of the most widespread and persistent health risks facing children,” the American Academy of Pediatrics is issuing new recommendations today urging pediatricians to ask at checkups if families are able to make ends meet. Kids living in poverty can face a number of health problems, some of which could affect them for their entire lives, such as high rates of asthma and obesity, developmental problems, and harmful levels of stress that can alter brain function. Pediatricians “have a short period of time to really address some issues that could have an impact all through [a child’s] adult life,” said Joseph Aracri, system chair of pediatrics at Allegheny Health Network More than 34 percent of children in Allegheny County and more than 39 percent of children statewide
 
 
-### Source:
+### Sources:
 
 1. [2 Minute Medicine](http://www.2minutemedicine.com/american-academy-of-pediatrics-calls-for-action-on-poverty/)
 2. [Pittsburgh Post-Gazette](http://www.post-gazette.com/news/health/2016/03/09/American-Academy-of-Pediatrics-Pediatrics-group-advocates-screening-for-poverty/stories/201603090032)

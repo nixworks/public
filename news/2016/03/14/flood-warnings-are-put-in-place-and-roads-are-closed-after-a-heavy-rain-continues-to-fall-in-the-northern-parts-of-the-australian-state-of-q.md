@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-closed-after-a-heavy-rain-continues-to-fall-in-the-northern-parts-of-the-australian-state-of-q.html)  [JSON](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-closed-after-a-heavy-rain-continues-to-fall-in-the-northern-parts-of-the-australian-state-of-q.json)  [XML](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-closed-after-a-heavy-rain-continues-to-fall-in-the-northern-parts-of-the-australian-state-of-q.xml)  
+
 ### [2016-03-14](/news/2016/03/14/index.md)
 
 # Flood warnings are put in place and roads are closed after a heavy rain continues to fall in the northern parts of the Australian state of Queensland. 
@@ -5,7 +8,7 @@
 Roads have been closed in Queensland&#39;s northwest following heavy rain which is expected to stick around for at least a few more days.
 
 
-### Source:
+### Sources:
 
 1. [AAP via NineMSN](http://www.9news.com.au/national/2016/03/13/15/23/monsoonal-low-could-develop-over-qld)
 1. [Cover Image](http://9news.static9.net.au/content/images/default-share-image.png)

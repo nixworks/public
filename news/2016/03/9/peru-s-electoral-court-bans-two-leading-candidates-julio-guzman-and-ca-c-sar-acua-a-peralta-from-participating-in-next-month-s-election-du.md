@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.html)  [JSON](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.json)  [XML](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.xml)  
+
 ### [2016-03-9](/news/2016/03/9/index.md)
 
 # Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35768068)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/E14C/production/_88667675_88667674.jpg)
+
+### Changes:
+
+1. [Peruvian general election, 2016: Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peruvian-general-election-2016-peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-particip.md) _2017-08-27 03:45:11 (First version)_
+1. [Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _Context: Peru, Peruvian general election, 2016_
 4. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md) _Context: Peru_
 5. [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md) _Context: Peru_
-
-### Changes:
-
-1. [Peruvian general election, 2016: Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peruvian-general-election-2016-peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-particip.md) _2017-08-27 03:45:11 (First version)_
-1. [Peru's electoral court bans two leading candidates - Julio Guzman and Cesar Acuna Peralta - from participating in next month's election due to breaches of electoral law. ](/news/2016/03/9/peru-s-electoral-court-bans-two-leading-candidates-julio-guzman-and-ca-c-sar-acua-a-peralta-from-participating-in-next-month-s-election-du.md) _(Current version)_

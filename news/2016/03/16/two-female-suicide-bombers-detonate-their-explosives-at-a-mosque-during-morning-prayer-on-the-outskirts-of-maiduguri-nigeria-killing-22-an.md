@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.html)  [JSON](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.json)  [XML](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.xml)  
+
 ### [2016-03-16](/news/2016/03/16/index.md)
 
 # Two female suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 22 and injuring 18. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''New York Times](http://mobile.nytimes.com/aponline/2016/03/16/world/africa/ap-af-nigeria-boko-haram.html?_r=0&referer=https://news.google.com/)
 2. [Newsweek](http://www.newsweek.com/nigeria-suicide-bombers-kill-scores-boko-haram-birthplace-437343)

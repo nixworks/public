@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/16/index.html)  [JSON](2016/03/16/index.json)  [XML](2016/03/16/index.xml)  
+
 ## [2016-03-16](/news/2016/03/16/index.md)
 
 ### [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md)
@@ -28,7 +31,7 @@ _Context: Pakistan, Pervez Musharraf, Supreme Court_
 _Context: PKK rebellion (2015-present), Turkey, Turkish police_
 
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: Afghanistan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military personnel, redacted_
+_Context: Afghan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military personnel, redacted_
 
 ### [ Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." ](/news/2016/03/16/donald-trump-announces-he-will-skip-the-fox-news-gop-presidential-debate-between-the-three-remaining-candidates-on-march-21-saying-he-thin.md)
 The Ohio governor will participate if Trump changes his mind.
@@ -43,7 +46,7 @@ Ted Cruz and Bernie Sanders both trail the front-runners by two-tenths of 1 perc
 President Obama nominates veteran judge Merrick Garland to be the next US Supreme Court Justice, but Republicans said they will block his nomination.
 
 ### [Brazil's ex-president Luiz Inacio Lula da Silva takes Cabinet post as chief of staff to Brazil's current president, Dilma Rousseff, thereby gaining legal shield. Only the Brazilian Supreme Court can try presidential Cabinet members for crimes. ](/news/2016/03/16/brazil-s-ex-president-luiz-ina-cio-lula-da-silva-takes-cabinet-post-as-chief-of-staff-to-brazil-s-current-president-dilma-rousseff-thereby.md)
-Protests erupted in several Brazilian cities on Wednesday after President Dilma Rousseff named her predecessor Luiz Inacio Lula da Silva chief of staff and a taped conversation fed opposition claims the move was meant to shield Lula from prosecution.
+Luiz Inácio Lula da Silva, facing multiple corruption investigations, will become President Dilma Rousseff’s chief of staff, a position that offers him increased protection.
 
 ### [Scientists release a small flock of pigeons, dubbed "The Pigeon Air Patrol", carrying tiny backpacks to monitor London's air quality during a period of moderate to high pollution. The backpacks contain sensors used to measure nitrogen dioxide and ozone levels. ](/news/2016/03/16/scientists-release-a-small-flock-of-pigeons-dubbed-the-pigeon-air-patrol-carrying-tiny-backpacks-to-monitor-london-s-air-quality-during.md)
 Lightweight pollution sensors record the nitrogen dioxide and ozone in the air.

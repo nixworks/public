@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/brazilian-supreme-court-justice-gilmar-mendes-rules-luiz-ina-cio-lula-da-silva-should-be-stripped-of-a-ministerial-role-in-president-dilma-r.html)  [JSON](/news/2016/03/18/brazilian-supreme-court-justice-gilmar-mendes-rules-luiz-ina-cio-lula-da-silva-should-be-stripped-of-a-ministerial-role-in-president-dilma-r.json)  [XML](/news/2016/03/18/brazilian-supreme-court-justice-gilmar-mendes-rules-luiz-ina-cio-lula-da-silva-should-be-stripped-of-a-ministerial-role-in-president-dilma-r.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Brazilian Supreme Court Justice Gilmar Mendes rules Luiz Inacio Lula da Silva should be stripped of a ministerial role in President Dilma Rousseff's Cabinet so he can be investigated in connection with the state oil company Petrobras's alleged kickback scheme. Earlier today, injunctions suspending Lula's appointment as chief of staff were overturned at Attorney General Jose Eduardo Cardozo's request for a Supreme Court ruling on the motions. 
@@ -5,15 +8,15 @@
 A top judge in Brazil ruled on Friday that Luiz Inacio Lula da Silva should be stripped of a ministerial role so he can be investigated for graft, minutes after the ex-president rallied tens of thousands of supporters behind embattled President Dilma Rousseff.
 
 
-### Source:
+### Sources:
 
 1. [Fox News Latino](http://latino.foxnews.com/latino/news/2016/03/18/turmoil-on-streets-brazil-as-pro-and-anti-government-protesters-face-off/)
 2. [Reuters via Swiss Broadcasting Corporation](http://www.swissinfo.ch/eng/reuters/brazil-lower-house-launches-impeachment-process-for-rousseff/42029958)
-3. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WK1IF)
-4. [The Globe and  Mail](http://www.theglobeandmail.com/news/world/brazilian-protesters-hit-with-water-cannons-tear-gas-as-impeachment-session-starts/article29288144/)
+3. [Reuters](https://www.reuters.com/article/us-brazil-politics-idUSKCN0WK1IF)
+4. [The Globe and  Mail](https://www.theglobeandmail.com/news/world/brazilian-protesters-hit-with-water-cannons-tear-gas-as-impeachment-session-starts/article29288144/)
 5. [The Washington Post](https://www.washingtonpost.com/world/big-crowds-demonstrate-in-brazil-in-solidarity-with-embattled-government/2016/03/18/a893a9ca-ed11-11e5-a9ce-681055c7a05f_story.html)
-6. [Toronto Star](http://www.thestar.com/news/world/2016/03/18/brazil-impeachment-gains-speed-as-lulas-job-challenged-in-court.html)
-6. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125865743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H0V0)
+6. [Toronto Star](https://www.thestar.com/news/world/2016/03/18/brazil-impeachment-gains-speed-as-lulas-job-challenged-in-court.html)
+6. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125865743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H0V0)
 
 ### Related:
 

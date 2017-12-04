@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/03/15/index.html)  [JSON](2016/03/15/index.json)  [XML](2016/03/15/index.xml)  
+
 ## [2016-03-15](/news/2016/03/15/index.md)
 
 ### [A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts. Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. ](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-also-a-syrian-activist-leader-says-islamic-state-of-iraq-and-the-levant-commander-omar-al-shis.md)
-_Context: Al-Shaddadah, American-led intervention in Syria, Department of State, ISIL, Iraq, Omar al-Shishani, Syria, United States military personnel, airstrike_
+The militant, Omar al-Shishani, was the Islamic State’s minister of war, according to the Pentagon.
 
 ### [Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-brussels-which-left-four-office.md)
 Police in Brussels have shot dead a suspect in an anti-terror operation linked to the Paris attacks, after gunmen with assault rifles opened fire and wounded four officers. The dead person has not been identified but prosecutors said it was not Salah Abdeslam, a key suspect in the November Paris mas...
@@ -43,7 +46,7 @@ Argentina&#x27;s coast guard has sunk a Chinese trawler that was fishing illegal
 Landmark resolution is the first of its kind to be passed in a national parliament since the EU parliament called for an arms sales freeze
 
 ### [The Ferguson, Missouri, city council, after last month voting to change the terms of the agreement, reverses course and unanimously (6-0) agrees to accept a U.S. Justice Department overhaul of its troubled police force and municipal courts. This avoided a likely expensive legal battle with the federal government which had filed suit against the city following last month's vote. ](/news/2016/03/15/the-ferguson-missouri-city-council-after-last-month-voting-to-change-the-terms-of-the-agreement-reverses-course-and-unanimously-6-0-ag.md)
-_Context: Department of Justice, Ferguson unrest, Ferguson, Missouri, city council, municipal courts, police force, shooting of Michael Brown_
+_Context: Ferguson unrest, Ferguson, Missouri, U.S. Justice Department, city council, municipal courts, police force, shooting of Michael Brown_
 
 ### [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md)
 Americans in five major states prepared to vote Tuesday in make-or-break presidential nominating contests, with Donald Trump seeking to tighten his grip on the Republican mantle as rivals and critics bemoaned a weekend of campaign trail unrest. Dubbed &quot;Super Tuesday 2&quot; by US media, the lat...
@@ -55,7 +58,7 @@ Authorities in Niger will attempt to evacuate to a hospital in the capital jaile
 The new president is to take office on April 1.
 
 ### [The Obama administration announces it is cancelling plans to permit drilling for oil and gas off the southeastern U.S. Atlantic coast. A new plan involves 10 potential lease sales in the Gulf of Mexico and three off the coast of Alaska. ](/news/2016/03/15/the-obama-administration-announces-it-is-cancelling-plans-to-permit-drilling-for-oil-and-gas-off-the-southeastern-u-s-atlantic-coast-a-new.md)
-The Obama administration abandons plans to allow new offshore oil drilling on the U.S. southeast coast, dealing a blow to companies that had hopes of tapping new reserves.
+_Context: Alaska, Atlantic Ocean, Gulf of Mexico, Obama administration, Southeastern United States, drilling for oil and gas_
 
 ### [Andrew Wiles wins the 2016 Abel Prize for his solution to Fermat's last theorem. ](/news/2016/03/15/andrew-wiles-wins-the-2016-abel-prize-for-his-solution-to-fermat-s-last-theorem.md)
 Mathematician receives coveted award for solving three-century-old problem in number theory.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.html)  [JSON](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.json)  [XML](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.xml)  
+
 ### [2016-03-19](/news/2016/03/19/index.md)
 
 # Airstrikes by Syrian or Russian warplanes on ISIL's de facto capital Al-Raqqah in northern Syria, leaves at least 39 people dead, according to the Syrian Observatory for Human Rights. Airstrikes on the city of Palmyra and nearby villages are said to have killed at least 18 ISIL militants, as the Syrian Army advance on the city. 
@@ -5,10 +8,10 @@
 Dozens of people were killed in a series of air strikes on the city of Raqqa in northern Syria on Saturday, a monitoring group and activists said, as Damascus and Moscow waged attacks on areas controlled by Islamic State.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-raqqa-idUSKCN0WL0IW)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160320&t=2&i=1126228205&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2J00O)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-raqqa-idUSKCN0WL0IW)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160320&t=2&i=1126228205&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2J00O)
 
 ### Related:
 

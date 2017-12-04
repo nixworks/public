@@ -7,10 +7,10 @@ Formats: [HTML](2016/03/11/index.html)  [JSON](2016/03/11/index.json)  [XML](201
 _Context: Algerian Army, El Oued, Insurgency in the Maghreb (2002-present)_
 
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
-_Context: Taiz, Yemen, Yemeni conflict_
+_Context: Taiz, Yemen, Yemeni Civil War (2015-present)_
 
 ### [American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. ](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounded-warrior-project-board-of-directors-removes-chief-executive-officer-steven-nardizzi-and-ch.md)
-_Context: Wounded Warrior Project_
+The chief executive, Steven Nardizzi, and chief operating officer, Al Giordano, faced accusations of lavish spending and financial irregularities.
 
 ### [Bangladeshi bank officials say unknown hackers installed malware in the bank's computer systems in last month's attempt to steal nearly $1 billion from the central bank's account at the Federal Reserve Bank of New York. ](/news/2016/03/11/bangladeshi-bank-officials-say-unknown-hackers-installed-malware-in-the-bank-s-computer-systems-in-last-month-s-attempt-to-steal-nearly-1-b.md)
 By Serajul QuadirDHAKA (Reuters) -...

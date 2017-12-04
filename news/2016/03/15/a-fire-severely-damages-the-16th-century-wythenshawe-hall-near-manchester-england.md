@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.html)  [JSON](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.json)  [XML](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.xml)  
+
 ### [2016-03-15](/news/2016/03/15/index.md)
 
 # A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-35809417)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/39A5/production/_88775741_fire2.png)

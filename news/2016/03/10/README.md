@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/03/10/index.html)  [JSON](2016/03/10/index.json)  [XML](2016/03/10/index.xml)  
+
 ## [2016-03-10](/news/2016/03/10/index.md)
 
 ### [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md)
-_Context: Lebanese, Lebanese Armed Forces, Ras Baalbek, Syria, Syrian Civil War spillover in Lebanon_
+_Context: Lebanese Armed Forces, Lebanon, Ras Baalbek, Syria, Syrian Civil War spillover in Lebanon_
 
 ### [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md)
 Up to 100 militants die in Herat during latest insurrection against group’s leader, further complicating peace efforts
@@ -10,7 +13,7 @@ Up to 100 militants die in Herat during latest insurrection against group’s le
 Huge military trucks rumbled through neighborhoods in northern Louisiana on Thursday in search of families trapped by days of relentless rain, while men in rain gear waded through floodwaters up to their chests to rescue stranded animals.
 
 ### [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md)
-_Context: Barack Obama, District of Columbia, U.S. President, United States-Venezuela relations, Venezuela, charge d'affaires, its embassy_
+_Context: Barack Obama, U.S. President, United States-Venezuela relations, Venezuela, Washington, D.C., charge d'affaires, its embassy_
 
 ### [North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remaining-south-korean-assets-on-its-terri.md)
 North Korea looked to ratchet up already elevated tensions on the Korean peninsula still further Thursday, firing a pair of short-range missiles and announcing the liquidation of all remaining South Korean assets on its territory. The moves were a direct response to unilateral sanctions announced by

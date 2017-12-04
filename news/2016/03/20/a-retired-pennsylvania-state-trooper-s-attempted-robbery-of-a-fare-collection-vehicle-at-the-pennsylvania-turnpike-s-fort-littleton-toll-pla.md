@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/20/a-retired-pennsylvania-state-trooper-s-attempted-robbery-of-a-fare-collection-vehicle-at-the-pennsylvania-turnpike-s-fort-littleton-toll-pla.html)  [JSON](/news/2016/03/20/a-retired-pennsylvania-state-trooper-s-attempted-robbery-of-a-fare-collection-vehicle-at-the-pennsylvania-turnpike-s-fort-littleton-toll-pla.json)  [XML](/news/2016/03/20/a-retired-pennsylvania-state-trooper-s-attempted-robbery-of-a-fare-collection-vehicle-at-the-pennsylvania-turnpike-s-fort-littleton-toll-pla.xml)  
+
 ### [2016-03-20](/news/2016/03/20/index.md)
 
 # A retired Pennsylvania state trooper's attempted robbery of a fare collection vehicle at the Pennsylvania Turnpike's Fort Littleton toll plaza, 65 miles west of the capital Harrisburg, results in three deaths -- a toll collector, a security guard, and himself. 
@@ -5,7 +8,7 @@
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/turnpike-employee-worker-suspect-killed-robbery-attempt-37796138)
 

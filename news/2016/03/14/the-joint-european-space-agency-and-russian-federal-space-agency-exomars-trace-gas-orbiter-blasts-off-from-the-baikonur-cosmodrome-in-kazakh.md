@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/14/the-joint-european-space-agency-and-russian-federal-space-agency-exomars-trace-gas-orbiter-blasts-off-from-the-baikonur-cosmodrome-in-kazakh.html)  [JSON](/news/2016/03/14/the-joint-european-space-agency-and-russian-federal-space-agency-exomars-trace-gas-orbiter-blasts-off-from-the-baikonur-cosmodrome-in-kazakh.json)  [XML](/news/2016/03/14/the-joint-european-space-agency-and-russian-federal-space-agency-exomars-trace-gas-orbiter-blasts-off-from-the-baikonur-cosmodrome-in-kazakh.xml)  
+
 ### [2016-03-14](/news/2016/03/14/index.md)
 
 # The joint European Space Agency and Russian Federal Space Agency ExoMars Trace Gas Orbiter blasts off from the Baikonur Cosmodrome in Kazakhstan. 
@@ -5,7 +8,7 @@
 Europe and Russia have launched a joint mission to the Red Planet.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-35800975)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B603/production/_88759564_88759563.jpg)

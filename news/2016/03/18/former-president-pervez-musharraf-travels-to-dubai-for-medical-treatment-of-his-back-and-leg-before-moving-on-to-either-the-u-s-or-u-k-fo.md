@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.html)  [JSON](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.json)  [XML](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif's government implemented the Supreme Court ruling, and lifted the 2013 ban that barred Musharraf from international trips. 
@@ -5,9 +8,9 @@
 Pakistan’s former military ruler Pervez Musharraf, who faces trial in a series of cases including treason, left the country on Friday for medical treatment hours after the government took his name off a no-fly list.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-18/musharraf-leaves-pakistan-for-treatment-after-travel-ban-lifted)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-03-18/musharraf-leaves-pakistan-for-treatment-after-travel-ban-lifted)
 1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCb9wFXr2Sio/v2/1200x873.jpg)
 
 ### Related:

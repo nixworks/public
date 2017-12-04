@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/13/heavy-rain-in-pakistan-has-led-to-fifteen-deaths-in-two-days-including-at-least-eight-deaths-in-a-coal-mine-collapse-in-the-orakzai-tribal-a.html)  [JSON](/news/2016/03/13/heavy-rain-in-pakistan-has-led-to-fifteen-deaths-in-two-days-including-at-least-eight-deaths-in-a-coal-mine-collapse-in-the-orakzai-tribal-a.json)  [XML](/news/2016/03/13/heavy-rain-in-pakistan-has-led-to-fifteen-deaths-in-two-days-including-at-least-eight-deaths-in-a-coal-mine-collapse-in-the-orakzai-tribal-a.xml)  
+
 ### [2016-03-13](/news/2016/03/13/index.md)
 
 # Heavy rain in Pakistan has led to fifteen deaths in two days including at least eight deaths in a coal mine collapse in the Orakzai Tribal Area. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/03/13/coal-mine-collapse-in-pakistan-kills-8-another-4-missing.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
@@ -16,4 +19,4 @@
 2. [A bomb explodes in Pakistan's Orakzai Agency, killing at least 14 people. ](/news/2012/07/18/a-bomb-explodes-in-pakistan-s-orakzai-agency-killing-at-least-14-people.md) _Context: Orakzai Tribal Area, Pakistan_
 3. [An explosion at the Sorange coal mine in Pakistan's Baluchistan province kills 52 people. ](/news/2011/03/22/an-explosion-at-the-sorange-coal-mine-in-pakistan-s-baluchistan-province-kills-52-people.md) _Context: Pakistan, coal mine_
 4. [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md) _Context: Orakzai Tribal Area, Pakistan_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
+5. [The Pakistan Minister for Law Zahid Hamid resigns after days of protest over proposed changes to blasphemy laws. ](/news/2017/11/27/the-pakistan-minister-for-law-zahid-hamid-resigns-after-days-of-protest-over-proposed-changes-to-blasphemy-laws.md) _Context: Pakistan_

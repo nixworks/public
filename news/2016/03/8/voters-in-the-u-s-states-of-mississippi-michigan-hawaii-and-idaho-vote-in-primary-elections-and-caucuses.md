@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.html)  [JSON](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.json)  [XML](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.xml)  
+
 ### [2016-03-8](/news/2016/03/8/index.md)
 
 # Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. 
@@ -5,16 +8,16 @@
 Live presidential election results and maps.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/election/primaries/states/id/)
 2. [NBC News](http://www.nbcnews.com/politics/2016-election/michigan-primary-headlines-tuesday-contests-presidential-races-n533826?cid=eml_nbn_20160308)
-3. [New York Times](http://www.nytimes.com/elections/results)
+3. [New York Times](https://www.nytimes.com/elections/results)
 4. [Presidential Election News](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
-5. [The Independent](http://www.independent.co.uk/news/world/americas/us-elections/hillary-clinton-projected-to-win-in-mississippi-a6920506.html)
+5. [The Independent](https://www.independent.co.uk/news/world/americas/us-elections/hillary-clinton-projected-to-win-in-mississippi-a6920506.html)
 6. [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/03/08/the-two-big-warning-signs-for-hillary-clinton-in-michigan/)
 7. [Washington Post](https://www.washingtonpost.com/politics/trump-wins-mississippi-michigan-primaries/2016/03/08/ecb576d6-e539-11e5-b0fd-073d5930a7b7_story.html)
-7. [Cover Image](https://int.nyt.com/applications/elections/2016/assets/87277bc9f26e/img/promo.png)
+7. [Cover Image](https://int.nyt.com/applications/elections/2016/assets/6a99eb3a19ab/img/promo.png)
 
 ### Related:
 

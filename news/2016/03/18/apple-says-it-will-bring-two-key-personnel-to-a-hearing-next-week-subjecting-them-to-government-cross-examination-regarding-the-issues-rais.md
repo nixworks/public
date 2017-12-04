@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/apple-says-it-will-bring-two-key-personnel-to-a-hearing-next-week-subjecting-them-to-government-cross-examination-regarding-the-issues-rais.html)  [JSON](/news/2016/03/18/apple-says-it-will-bring-two-key-personnel-to-a-hearing-next-week-subjecting-them-to-government-cross-examination-regarding-the-issues-rais.json)  [XML](/news/2016/03/18/apple-says-it-will-bring-two-key-personnel-to-a-hearing-next-week-subjecting-them-to-government-cross-examination-regarding-the-issues-rais.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Apple says it will bring two key personnel to a hearing next week, subjecting them to government cross-examination regarding the issues raised by its locked iPhone: its Chief Privacy Engineer and its Global Law Enforcement Officer. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-apple-encryption-hearing-idUSKCN0WK2A1)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125920001&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H1E3)
+1. [Reuters](https://www.reuters.com/article/us-apple-encryption-hearing-idUSKCN0WK2A1)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160318&t=2&i=1125920001&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2H1E3)
 
 ### Related:
 

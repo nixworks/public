@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/14/an-amtrak-passenger-train-derails-west-of-dodge-city-in-the-american-state-of-kansas.html)  [JSON](/news/2016/03/14/an-amtrak-passenger-train-derails-west-of-dodge-city-in-the-american-state-of-kansas.json)  [XML](/news/2016/03/14/an-amtrak-passenger-train-derails-west-of-dodge-city-in-the-american-state-of-kansas.xml)  
+
 ### [2016-03-14](/news/2016/03/14/index.md)
 
 # An Amtrak passenger train derails west of Dodge City in the American state of Kansas. 
@@ -5,7 +8,7 @@
 Some of the injured in critical condition; cause of incident being investigated
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/amtrak-derailment-in-kansas-5-cars-on-their-side/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/03/14/ec32c091-b6a8-4311-9d42-cf54e0e55ff8/amtrakkansasderailment031416.jpg)

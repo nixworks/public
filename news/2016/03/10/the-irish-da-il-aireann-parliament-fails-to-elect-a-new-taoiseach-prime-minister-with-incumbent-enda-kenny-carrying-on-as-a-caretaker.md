@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.html)  [JSON](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.json)  [XML](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.xml)  
+
 ### [2016-03-10](/news/2016/03/10/index.md)
 
 # The Irish Dail Eireann (parliament) fails to elect a new taoiseach (Prime Minister) with incumbent Enda Kenny carrying on as a caretaker. 
@@ -5,7 +8,7 @@
 The 32nd Irish parliament (Dáil) fails to appoint a new taoiseach (prime minister) after meeting for the first time on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-35765813)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/60B6/production/_88685742_taoiseachcollage2.jpg)

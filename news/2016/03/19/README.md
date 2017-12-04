@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/19/index.html)  [JSON](2016/03/19/index.json)  [XML](2016/03/19/index.xml)  
+
 ## [2016-03-19](/news/2016/03/19/index.md)
 
 ### [An explosion occurs in Taksim Square in Istanbul, Turkey, kills five people, including two dual citizenship Israeli-Americans and one Iranian citizen, and injures several dozen others. ](/news/2016/03/19/an-explosion-occurs-in-taksim-square-in-istanbul-turkey-kills-five-people-including-two-dual-citizenship-israeli-americans-and-one-irania.md)

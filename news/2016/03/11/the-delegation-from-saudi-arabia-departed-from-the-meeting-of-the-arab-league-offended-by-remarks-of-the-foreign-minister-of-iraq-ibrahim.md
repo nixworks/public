@@ -10,8 +10,8 @@ Formats: [HTML](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-arabs-idUSKCN0WD1J7)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-arabs-idUSKCN0WD1J7)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

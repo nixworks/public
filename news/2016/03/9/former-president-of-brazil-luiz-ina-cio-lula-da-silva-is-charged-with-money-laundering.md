@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.html)  [JSON](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.json)  [XML](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.xml)  
+
 ### [2016-03-9](/news/2016/03/9/index.md)
 
 # Former President of Brazil Luiz Inacio Lula da Silva is charged with money laundering. 
@@ -5,7 +8,7 @@
 Prosecutors in Brazil are filing charges against ex-President Lula over a corruption probe, but a judge has yet to approve them.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35770299)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/171F3/production/_88670749_88670748.jpg)

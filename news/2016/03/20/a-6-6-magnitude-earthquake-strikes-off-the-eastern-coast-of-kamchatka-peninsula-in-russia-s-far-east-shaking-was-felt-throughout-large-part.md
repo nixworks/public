@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/20/a-6-6-magnitude-earthquake-strikes-off-the-eastern-coast-of-kamchatka-peninsula-in-russia-s-far-east-shaking-was-felt-throughout-large-part.html)  [JSON](/news/2016/03/20/a-6-6-magnitude-earthquake-strikes-off-the-eastern-coast-of-kamchatka-peninsula-in-russia-s-far-east-shaking-was-felt-throughout-large-part.json)  [XML](/news/2016/03/20/a-6-6-magnitude-earthquake-strikes-off-the-eastern-coast-of-kamchatka-peninsula-in-russia-s-far-east-shaking-was-felt-throughout-large-part.xml)  
+
 ### [2016-03-20](/news/2016/03/20/index.md)
 
 # A 6.6 magnitude earthquake strikes off the eastern coast of Kamchatka Peninsula in Russia's Far East. Shaking was felt throughout large parts of the peninsula, but there were no immediate reports of damage or casualties. 
@@ -5,7 +8,7 @@
  A strong earthquake with a preliminary magnitude of 6.6 has struck off the east coast of Kamchatka Peninsula in Russia Far East 
 
 
-### Source:
+### Sources:
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id3900)
 1. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)

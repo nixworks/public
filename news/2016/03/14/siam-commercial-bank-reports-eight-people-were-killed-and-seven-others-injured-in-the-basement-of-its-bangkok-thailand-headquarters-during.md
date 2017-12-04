@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.html)  [JSON](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.json)  [XML](/news/2016/03/14/siam-commercial-bank-reports-eight-people-were-killed-and-seven-others-injured-in-the-basement-of-its-bangkok-thailand-headquarters-during.xml)  
+
 ### [2016-03-14](/news/2016/03/14/index.md)
 
 # Siam Commercial Bank reports eight people were killed and seven others injured in the basement of its Bangkok, Thailand, headquarters during an upgrade of the building's fire safety system Sunday evening. It appears that workers mistakenly activated a system that released pyrogen, a chemical that deprives a fire of oxygen. 
@@ -5,7 +8,7 @@
 Eight contractors die in a chemical accident involving a fire safety system in the basement of the Siam Commercial bank in Bangkok, say officials.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/718a087904774dd2af8ef33b889a1703/8-killed-chemical-accident-thai-banks-headquarters)
 2. [BBC](http://www.bbc.com/news/world-asia-35800392)

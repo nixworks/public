@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/15/andrew-wiles-wins-the-2016-abel-prize-for-his-solution-to-fermat-s-last-theorem.html)  [JSON](/news/2016/03/15/andrew-wiles-wins-the-2016-abel-prize-for-his-solution-to-fermat-s-last-theorem.json)  [XML](/news/2016/03/15/andrew-wiles-wins-the-2016-abel-prize-for-his-solution-to-fermat-s-last-theorem.xml)  
+
 ### [2016-03-15](/news/2016/03/15/index.md)
 
 # Andrew Wiles wins the 2016 Abel Prize for his solution to Fermat's last theorem. 
@@ -5,7 +8,7 @@
 Mathematician receives coveted award for solving three-century-old problem in number theory.
 
 
-### Source:
+### Sources:
 
 1. [Nature](http://www.nature.com/news/fermat-s-last-theorem-earns-andrew-wiles-the-abel-prize-1.19552)
 1. [Cover Image](http://www.nature.com/polopoly_fs/7.34900.1458040699!/image/lowAP_9801060667.jpg_gen/derivatives/nature_homepage/lowAP_9801060667.jpg)

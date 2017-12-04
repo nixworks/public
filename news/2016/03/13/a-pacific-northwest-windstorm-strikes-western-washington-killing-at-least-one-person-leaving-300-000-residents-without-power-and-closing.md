@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/13/a-pacific-northwest-windstorm-strikes-western-washington-killing-at-least-one-person-leaving-300-000-residents-without-power-and-closing.html)  [JSON](/news/2016/03/13/a-pacific-northwest-windstorm-strikes-western-washington-killing-at-least-one-person-leaving-300-000-residents-without-power-and-closing.json)  [XML](/news/2016/03/13/a-pacific-northwest-windstorm-strikes-western-washington-killing-at-least-one-person-leaving-300-000-residents-without-power-and-closing.xml)  
+
 ### [2016-03-13](/news/2016/03/13/index.md)
 
 # A Pacific Northwest windstorm strikes Western Washington, killing at least one person, leaving 300,000 residents without power, and closing several bridges. 
@@ -5,7 +8,7 @@
 A strong wind storm battered much of Western Washington on Sunday, killing a man and causing widespread damage.
 
 
-### Source:
+### Sources:
 
 1. [KING-TV](http://www.king5.com/story/weather/2016/03/12/sunday-windstorm-could-pack-55-70-mph-winds/81694150/)
 1. [Cover Image](http://content.king5.com/photo/2016/03/13/635935083638761898-storm-wires_994186_ver1.0.JPG)

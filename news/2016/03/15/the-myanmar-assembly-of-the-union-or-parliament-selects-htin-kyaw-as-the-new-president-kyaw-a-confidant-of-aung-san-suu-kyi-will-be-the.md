@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.html)  [JSON](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.json)  [XML](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.xml)  
+
 ### [2016-03-15](/news/2016/03/15/index.md)
 
 # The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. 
@@ -5,11 +8,16 @@
 The new president is to take office on April 1.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-03-15/myanmar-elects-htin-kyaw-as-first-civilian-leader-in-decades/7248728)
 2. [Indian Express](http://indianexpress.com/article/world/world-news/myanmar-parliament-to-select-countrys-president-on-tuesday/)
 2. [Cover Image](http://images.indianexpress.com/2016/03/myanmar-feature.jpg?w=480)
+
+### Changes:
+
+1. [The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-th.md) _2017-08-25 03:44:54 (First version)_
+1. [The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ The new president is to take office on April 1.
 3. [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md) _Context: Aung San Suu Kyi, Myanmar, parliament_
 4. [Myanmar's new parliament, in its first legislative act, votes (611-3) to eliminate 15 government ministries. President-elect Htin Kyaw says by eliminating the ministers' salaries, the nation will save $4 million over five years. No civil servants will lose their jobs. ](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislative-act-votes-611-3-to-eliminate-15-government-ministries-president-elect-htin-kyaw-says.md) _Context: Htin Kyaw, Myanmar, parliament_
 5. [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md) _Context: Aung San Suu Kyi, Myanmar, parliament_
-
-### Changes:
-
-1. [The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-th.md) _2017-08-25 03:44:54 (First version)_
-1. [The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.md) _(Current version)_

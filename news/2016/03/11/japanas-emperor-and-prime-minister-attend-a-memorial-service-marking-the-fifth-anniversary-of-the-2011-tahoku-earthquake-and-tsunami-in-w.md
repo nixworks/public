@@ -10,7 +10,7 @@ Formats: [HTML](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-mem
 
 ### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/03/11/world/asia/ap-as-japan-tsunami-anniversary.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/03/11/world/asia/ap-as-japan-tsunami-anniversary.html)
 
 ### Changes:
 

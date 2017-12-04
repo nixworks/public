@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/15/linn-energy-an-oil-and-gas-producer-with-about-10-billion-in-debt-says-a-bankruptcy-filing-may-be-unavoidable-the-company-was-founded-in.html)  [JSON](/news/2016/03/15/linn-energy-an-oil-and-gas-producer-with-about-10-billion-in-debt-says-a-bankruptcy-filing-may-be-unavoidable-the-company-was-founded-in.json)  [XML](/news/2016/03/15/linn-energy-an-oil-and-gas-producer-with-about-10-billion-in-debt-says-a-bankruptcy-filing-may-be-unavoidable-the-company-was-founded-in.xml)  
+
 ### [2016-03-15](/news/2016/03/15/index.md)
 
 # Linn Energy, an oil-and-gas producer with about $10 billion in debt, says a bankruptcy filing may be unavoidable. The company was founded in 2003 and had its initial public offering in 2006. 
@@ -5,10 +8,10 @@
 Linn Energy LLC said on Tuesday thatbankruptcy may be unavoidable as the oil-and-gas producer missedinterest payments amid a slump in oil prices.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/lnn-going-concern-idUSL2N16N17N)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/lnn-going-concern-idUSL2N16N17N)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.html)  [JSON](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.json)  [XML](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-crew-responding-to-reports-of-a-natural-gas-leak-in-the-greenwood-neighborhood-are-caugh.xml)  
+
 ### [2016-03-9](/news/2016/03/9/index.md)
 
 # In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. 
@@ -5,7 +8,7 @@
 Seattle fire investigators have determined a massive natural gas explosion in the Greenwood neighborhood was accidental.
 
 
-### Source:
+### Sources:
 
 1. [KING-TV](http://www.king5.com/story/news/2016/03/09/massive-explosion-rocks-greenwood-several-firefighters-hurt/81518136/)
 2. [Seattle Fire Department](http://fireline.seattle.gov/2016/03/09/greenwoodexplosion/)

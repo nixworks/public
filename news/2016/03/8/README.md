@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/8/index.html)  [JSON](2016/03/8/index.json)  [XML](2016/03/8/index.xml)  
+
 ## [2016-03-8](/news/2016/03/8/index.md)
 
 ### [Mortar shells fired from Syria kill at least one person and injure another in the Turkish border town of Kilis. ](/news/2016/03/8/mortar-shells-fired-from-syria-kill-at-least-one-person-and-injure-another-in-the-turkish-border-town-of-kilis.md)
@@ -25,7 +28,7 @@ The U.S. Commerce Department is set to place export restrictions on Chinese tele
 The EU and Turkey agree principles of a deal on the migrant crisis that includes a radical one-in, one-out plan for Syrians fleeing the conflict.
 
 ### [South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-and-people-for-the-first-time-and-ban.md)
-The South&#39;s sanctions came after Pyongyang threatened to launch nuclear strikes on the United States and South Korea.
+The miniaturization claim comes as the South imposed a ne wave of sanctions.
 
 ### [A Pew Research Center survey of Jewish and non-Jewish Israelis, via face-to-face interviews from October 2014 through May 2015, finds deep divisions in Israeli society - not only between Israeli Jews and the country's Arab citizen minority, but also among the religious subgroups that make up Israeli Jewry. An overwhelming majority (98%) of Israeli Jews agree all Jews should have the right to move to Israel and receive immediate citizenship. Close to half (48 percent) support the expulsion or transfer of Arabs from Israel, yet most secular Jews disagree (58%) with this, as do 54 percent of those in the center politically (more so from the left). Meanwhile, Israeli Arabs, currently about one-in-five of the country's adults, generally do not think Israel can be a Jewish state and a democracy at the same time. Fewer Arabs (down 24 points) think a peaceful, two-state solution is possible, from 74% in 2013 to 50% now. Both groups are skeptical of the peace process: Israeli Arabs question the sincerity of the Israeli government in seeking a peace agreement, while Israeli Jews are equally skeptical about the sincerity of Palestinian leaders. (Pew is a non-partisan American think tank based in Washington, D.C.) ](/news/2016/03/8/a-pew-research-center-survey-of-jewish-and-non-jewish-israelis-via-face-to-face-interviews-from-october-2014-through-may-2015-finds-deep-d.md)
 There are deep divisions in Israeli society over political values and religion&#039;s role in public life -- not only between Jews and the Arab minority, but also among the religious subgroups that make up Israeli Jewry.

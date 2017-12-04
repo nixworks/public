@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/iain-duncan-smith-resigns-his-position-as-the-united-kingdom-s-secretary-of-state-for-work-and-pensions-in-opposition-to-cuts-in-disability.html)  [JSON](/news/2016/03/18/iain-duncan-smith-resigns-his-position-as-the-united-kingdom-s-secretary-of-state-for-work-and-pensions-in-opposition-to-cuts-in-disability.json)  [XML](/news/2016/03/18/iain-duncan-smith-resigns-his-position-as-the-united-kingdom-s-secretary-of-state-for-work-and-pensions-in-opposition-to-cuts-in-disability.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Iain Duncan Smith resigns his position as the United Kingdom's Secretary of State for Work and Pensions, in opposition to cuts in disability benefit proposed by George Osborne, the Chancellor of the Exchequer. 
@@ -5,7 +8,7 @@
 Iain Duncan Smith resigns as work and pensions secretary over &quot;indefensible&quot; changes to disability benefits, but David Cameron says he is &quot;puzzled and disappointed&quot; at the decision.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-35848687)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B8B4/production/_88848274_idm.jpg)

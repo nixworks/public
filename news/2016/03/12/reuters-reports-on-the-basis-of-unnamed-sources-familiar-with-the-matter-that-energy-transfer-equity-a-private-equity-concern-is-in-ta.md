@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/12/reuters-reports-on-the-basis-of-unnamed-sources-familiar-with-the-matter-that-energy-transfer-equity-a-private-equity-concern-is-in-ta.html)  [JSON](/news/2016/03/12/reuters-reports-on-the-basis-of-unnamed-sources-familiar-with-the-matter-that-energy-transfer-equity-a-private-equity-concern-is-in-ta.json)  [XML](/news/2016/03/12/reuters-reports-on-the-basis-of-unnamed-sources-familiar-with-the-matter-that-energy-transfer-equity-a-private-equity-concern-is-in-ta.xml)  
+
 ### [2016-03-12](/news/2016/03/12/index.md)
 
 # Reuters reports, on the basis of unnamed sources "familiar with the matter," that Energy Transfer Equity, a private equity concern, is in talks to sell Sunoco, a deal which would be valued at more than $2 billion. 
@@ -5,10 +8,10 @@
 Energy Transfer Equity LP (ETE.N), the U.S. pipeline company that agreed to acquire Williams Companies Inc (WMB.N), has held talks to sell gas station and convenience store operator Sunoco LP (SUN.N), according to three people familiar with the matter.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-energytransfer-sunoco-exlusive-idUSKCN0WD2MB)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160312&t=2&i=1124234797&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2B01Z)
+1. [Reuters](https://www.reuters.com/article/us-energytransfer-sunoco-exlusive-idUSKCN0WD2MB)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160312&t=2&i=1124234797&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2B01Z)
 
 ### Related:
 

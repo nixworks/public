@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.html)  [JSON](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.json)  [XML](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.xml)  
+
 ### [2016-03-12](/news/2016/03/12/index.md)
 
 # A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. 
@@ -5,11 +8,16 @@
 Palestinian boy and his sister killed in retaliatory airstrike by Israel
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/world/middleeast/la-fg-gaza-airstrike-20160312-story.html)
-2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-gaza-idUSKCN0WE09T)
+2. [Reuters](https://www.reuters.com/article/us-israel-palestinians-gaza-idUSKCN0WE09T)
 2. [Cover Image](http://www.trbimg.com/img-56e47039/turbine/la-fg-gaza-airstrike-20160312)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict: A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/israeli-palestinian-conflict-a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired.md) _2017-08-27 03:45:13 (First version)_
+1. [A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Palestinian boy and his sister killed in retaliatory airstrike by Israel
 3. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Israeli-Palestinian conflict, Palestinians_
 4. [In two simultaneous attacks near the Damascus Gate in Jerusalem, an Israeli policewoman is fatally stabbed; the three Palestinian assailants are shot dead. ISIL claims were questioned by Israeli authorities. As well, the PFLP and Hamas claim it was their members who did it. ](/news/2017/06/16/in-two-simultaneous-attacks-near-the-damascus-gate-in-jerusalem-an-israeli-policewoman-is-fatally-stabbed-the-three-palestinian-assailants.md) _Context: Hamas, Palestinians_
 5. [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md) _Context: Gaza, Hamas_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict: A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/israeli-palestinian-conflict-a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired.md) _2017-08-27 03:45:13 (First version)_
-1. [A 10-year-old Palestinian boy and his 6-year-old sister in Gaza are killed by fragments from a missile fired by an Israeli aircraft targeting four Hamas training camps after four missiles landed in open areas in southern Israel late yesterday. ](/news/2016/03/12/a-10-year-old-palestinian-boy-and-his-6-year-old-sister-in-gaza-are-killed-by-fragments-from-a-missile-fired-by-an-israeli-aircraft-targetin.md) _(Current version)_

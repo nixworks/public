@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-ob
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
-# The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" and presidential party La Republique En Marche! also achieve the 7% election threshold. 
+# The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold. 
 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-ob
 
 ### Related:
 
-1. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13 regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-re.md) _Context: Corsica, France, presidential_
-2. [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md) _Context: France, presidential_
-3. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Corsica, France_
-4. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: France, presidential_
-5. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _Context: France, presidential_
+1. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Corsica, France_
+2. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13 regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-re.md) _Context: Corsica, France_
+3. [Three people are found shot dead in a car near Corte, on the French island of Corsica. ](/news/2012/09/11/three-people-are-found-shot-dead-in-a-car-near-corte-on-the-french-island-of-corsica.md) _Context: Corsica, France_
+4. [At least 25 people die during flooding in the Var department of Cote d'Azur, Southern France. ](/news/2010/06/16/at-least-25-people-die-during-flooding-in-the-var-department-of-ca-te-d-azur-southern-france.md) _Context: France, departments_
+5. [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md) _Context: Corse-du-Sud, Corsica_

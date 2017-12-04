@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.html)  [JSON](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.json)  [XML](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.xml)  
+
 ### [2016-03-17](/news/2016/03/17/index.md)
 
 # At least 16 Palestinian pilgrims are killed when the bus they were traveling to Saudi Arabia on overturns in southern Jordan. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/death-toll-of-palestinian-pilgrims-in-jordan-bus-crash-rises-to-16/3241837.html)
 

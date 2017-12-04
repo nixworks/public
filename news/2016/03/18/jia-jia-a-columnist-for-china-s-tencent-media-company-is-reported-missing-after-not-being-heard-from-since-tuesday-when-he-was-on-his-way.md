@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.html)  [JSON](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.json)  [XML](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-35828918)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F48B/production/_88830626_7eb85bb1-8a06-4d45-a16a-1c908f423d98.jpg)
+
+### Changes:
+
+1. [Censorship in China: Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/censorship-in-china-jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-wh.md) _2017-08-27 03:45:18 (First version)_
+1. [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md) _Context: China, Chinese President, Xi Jinping_
 4. [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md) _Context: China, Chinese President, Xi Jinping_
 5. [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md) _Context: China, Chinese President, Xi Jinping_
-
-### Changes:
-
-1. [Censorship in China: Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/censorship-in-china-jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-wh.md) _2017-08-27 03:45:18 (First version)_
-1. [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/10/two-days-of-heavy-rain-in-the-american-state-of-louisiana-has-caused-at-least-three-deaths-and-caused-more-than-a-thousand-people-to-evacuat.html)  [JSON](/news/2016/03/10/two-days-of-heavy-rain-in-the-american-state-of-louisiana-has-caused-at-least-three-deaths-and-caused-more-than-a-thousand-people-to-evacuat.json)  [XML](/news/2016/03/10/two-days-of-heavy-rain-in-the-american-state-of-louisiana-has-caused-at-least-three-deaths-and-caused-more-than-a-thousand-people-to-evacuat.xml)  
+
 ### [2016-03-10](/news/2016/03/10/index.md)
 
 # Two days of heavy rain in the American state of Louisiana has caused at least three deaths and caused more than a thousand people to evacuate their homes. 
@@ -5,7 +8,7 @@
 Huge military trucks rumbled through neighborhoods in northern Louisiana on Thursday in search of families trapped by days of relentless rain, while men in rain gear waded through floodwaters up to their chests to rescue stranded animals.
 
 
-### Source:
+### Sources:
 
 1. [ (Fox News](http://www.foxnews.com/us/2016/03/10/flooding-forces-more-than-1000-from-homes-in-louisiana.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2016/03/10/thousands-evacuate-as-severe-ongoing-floods-drench-texas-louisiana/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1457618487479.jpg?ve=1)

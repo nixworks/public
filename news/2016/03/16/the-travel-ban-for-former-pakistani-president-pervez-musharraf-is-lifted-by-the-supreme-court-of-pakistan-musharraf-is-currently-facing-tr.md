@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.html)  [JSON](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.json)  [XML](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.xml)  
+
 ### [2016-03-16](/news/2016/03/16/index.md)
 
 #  The travel ban for former Pakistani President Pervez Musharraf is lifted by the Supreme Court of Pakistan. Musharraf is currently facing treason charges in Pakistan. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKCN0WI10W)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160316&t=2&i=1125264401&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2F0PI)

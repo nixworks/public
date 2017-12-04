@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.html)  [JSON](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.json)  [XML](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.xml)  
+
 ### [2016-03-8](/news/2016/03/8/index.md)
 
 # Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. 
@@ -5,13 +8,18 @@
 A West Point graduate from Lubbock died after he was stabbed while on a trip to Israel in an attack that wounded at least 10 others.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/israel-palestinian-woman-stab-officers-killed-37483085)
 2. [AP via WWTV](http://www.9and10news.com/story/31413844/biden-arrives-in-israel-amid-rash-in-palestinian-attacks)
 3. [CNN](http://www.cnn.com/2016/03/08/middleeast/israel-violence/)
 4. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/Texas-man-killed-in-Tel-Aviv-mass-stabbing-6878717.php)
 4. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict: Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/israeli-palestinian-conflict-three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-wit.md) _2017-08-27 03:45:11 (First version)_
+1. [Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +28,3 @@ A West Point graduate from Lubbock died after he was stabbed while on a trip to 
 3. [Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.md) _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 4. [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md) _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 5. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _Context: Israel, Israeli police, Palestinians_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict: Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/israeli-palestinian-conflict-three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-wit.md) _2017-08-27 03:45:11 (First version)_
-1. [Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/15/brookfield-asset-management-inc-and-qube-holdings-join-forces-to-make-a-a-9-1-billion-bid-for-australian-freight-logistics-company-asciano.html)  [JSON](/news/2016/03/15/brookfield-asset-management-inc-and-qube-holdings-join-forces-to-make-a-a-9-1-billion-bid-for-australian-freight-logistics-company-asciano.json)  [XML](/news/2016/03/15/brookfield-asset-management-inc-and-qube-holdings-join-forces-to-make-a-a-9-1-billion-bid-for-australian-freight-logistics-company-asciano.xml)  
+
 ### [2016-03-15](/news/2016/03/15/index.md)
 
 # Brookfield Asset Management Inc and Qube Holdings join forces to make a A$ 9.1 billion bid for Australian freight logistics company Asciano Limited. 
@@ -5,9 +8,9 @@
 Former rival groups led by Brookfield Asset Management Inc. and Qube Holdings Ltd. joined forces to buy Asciano Ltd. in a deal valuing the Australian port and rail operator at A$9.05 billion ($6.8 billion).
 
 
-### Source:
+### Sources:
 
-1. [ (Bloomberg](http://www.bloomberg.com/news/articles/2016-03-15/brookfield-qube-groups-join-forces-in-a-9-1-billion-asciano-bid)
+1. [ (Bloomberg](https://www.bloomberg.com/news/articles/2016-03-15/brookfield-qube-groups-join-forces-in-a-9-1-billion-asciano-bid)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

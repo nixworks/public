@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.html)  [JSON](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.json)  [XML](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.xml)  
+
 ### [2016-03-13](/news/2016/03/13/index.md)
 
 # The al-Nusra Front, an al-Qaeda affiliate, assaults the Free Syrian Army's 13th Division in Maarrat al-Nu'man, killing seven FSA fighters with 40 captured. The Syrian Observatory for Human Rights says Nusra seized anti-tank missiles, armored vehicles, a tank, and other arms from the U.S.-backed division. 
@@ -5,7 +8,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/al-qaida-seizes-weapons-bases-us-backed-syrian-37612542)
 

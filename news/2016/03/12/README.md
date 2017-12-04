@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/12/index.html)  [JSON](2016/03/12/index.json)  [XML](2016/03/12/index.xml)  
+
 ## [2016-03-12](/news/2016/03/12/index.md)
 
 ### [The Islamic State of Iraq and the Levant fire mortars containing an unidentified chemical agent killing one and injuring 600 in Taza Khurmatu, Iraq. ](/news/2016/03/12/the-islamic-state-of-iraq-and-the-levant-fire-mortars-containing-an-unidentified-chemical-agent-killing-one-and-injuring-600-in-taza-khurmat.md)
@@ -43,7 +46,7 @@ Thousands of people are protesting in the Polish capital Warsaw as a constitutio
 President Dilma Rousseff of Brazil could lose the support of the biggest party in her ruling coalition when the leadership of the Democratic Movement Party votes next month on its relationship with the government.
 
 ### [Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five-game-go-match-against-gra.md)
-This is the first time an artificially intelligent system has topped one of the best at Go. Its victory shows how quickly AI will progress in years to come.
+_Context: AlphaGo, AlphaGo versus Lee Sedol, DeepMind, Go, Google, Lee Sedol, artificial intelligence_
 
 ## [Previous Day...](/news/2016/03/11/index.md)
 

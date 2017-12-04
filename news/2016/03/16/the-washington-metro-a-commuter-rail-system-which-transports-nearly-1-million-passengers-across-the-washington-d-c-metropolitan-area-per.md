@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/16/the-washington-metro-a-commuter-rail-system-which-transports-nearly-1-million-passengers-across-the-washington-d-c-metropolitan-area-per.html)  [JSON](/news/2016/03/16/the-washington-metro-a-commuter-rail-system-which-transports-nearly-1-million-passengers-across-the-washington-d-c-metropolitan-area-per.json)  [XML](/news/2016/03/16/the-washington-metro-a-commuter-rail-system-which-transports-nearly-1-million-passengers-across-the-washington-d-c-metropolitan-area-per.xml)  
+
 ### [2016-03-16](/news/2016/03/16/index.md)
 
 # The Washington Metro, a commuter rail system which transports nearly 1 million passengers across the Washington, D.C. metropolitan area per day, shuts down to allow for an emergency inspection of 600 electrical cables, following two fires occurring over the past 14 months. Officials say the system is scheduled to resume service by the following morning, though individual Metro lines or stations could remain closed indefinitely if problems are identified. 
@@ -5,7 +8,7 @@
 Metrorail service will not be available from midnight Tuesday to 5 a.m. Thursday, officials said Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/dc-commuters-facing-subway-shutdown-metromageddon/)
 2. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/washington-braces-for-full-day-of-metro-shutdown-to-deal-with-safety-concerns/2016/03/16/42324598-eb3f-11e5-b0fd-073d5930a7b7_story.html?hpid=hp_rhp-top-table-low_metro-620a%3Ahomepage%2Fstory)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/17/the-people-s-republic-of-china-expresses-its-opposition-to-unilateral-sanctions-against-north-korea-in-the-wake-of-the-imposition-of-new-san.html)  [JSON](/news/2016/03/17/the-people-s-republic-of-china-expresses-its-opposition-to-unilateral-sanctions-against-north-korea-in-the-wake-of-the-imposition-of-new-san.json)  [XML](/news/2016/03/17/the-people-s-republic-of-china-expresses-its-opposition-to-unilateral-sanctions-against-north-korea-in-the-wake-of-the-imposition-of-new-san.xml)  
+
 ### [2016-03-17](/news/2016/03/17/index.md)
 
 # The People's Republic of China expresses its opposition to unilateral sanctions against North Korea in the wake of the imposition of new sanctions by the United States on the country in response to its recent nuclear and rocket tests. 
@@ -5,10 +8,10 @@
 China expressed its opposition on Thursday to unilateral sanctions against North Korea saying they could raise tension, after the United States imposed new curbs on the isolated country in retaliation for its nuclear and rocket tests.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-china-idUSKCN0WJ0QC)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160317&t=2&i=1125532329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2G0DT)
+1. [Reuters](https://www.reuters.com/article/us-northkorea-nuclear-china-idUSKCN0WJ0QC)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160317&t=2&i=1125532329&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2G0DT)
 
 ### Related:
 

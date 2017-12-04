@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/12/a-magnitude-6-3-earthquake-strikes-off-atka-island-southwest-alaska-there-are-no-reports-of-a-tsunami.html)  [JSON](/news/2016/03/12/a-magnitude-6-3-earthquake-strikes-off-atka-island-southwest-alaska-there-are-no-reports-of-a-tsunami.json)  [XML](/news/2016/03/12/a-magnitude-6-3-earthquake-strikes-off-atka-island-southwest-alaska-there-are-no-reports-of-a-tsunami.xml)  
+
 ### [2016-03-12](/news/2016/03/12/index.md)
 
 # A magnitude 6.3 earthquake strikes off Atka Island, southwest Alaska. There are no reports of a tsunami. 
@@ -5,7 +8,7 @@
  A strong earthquake with a preliminary magnitude of 6.4 has struck off Atka Island in the Andreanof Islands of Alaska 
 
 
-### Source:
+### Sources:
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id3821)
 1. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/20/a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-presidential-term-limits-from-seven-to-five-years-se.html)  [JSON](/news/2016/03/20/a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-presidential-term-limits-from-seven-to-five-years-se.json)  [XML](/news/2016/03/20/a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-presidential-term-limits-from-seven-to-five-years-se.xml)  
+
 ### [2016-03-20](/news/2016/03/20/index.md)
 
 # A referendum is underway in Senegal where voters will vote on whether or not to reduce presidential term limits from seven to five years. Senegal's referendum also calls for a strengthened National Assembly, better representation for Senegalese abroad, greater rights for the opposition and participation of independent candidates in elections among the 15 changes. 
@@ -5,10 +8,15 @@
 Senegalese residents are voting on a referendum that would see some sweeping constitutional reforms including a reduction of the presidential term from seven to five years
 
 
-### Source:
+### Sources:
 
 1. [The Daily Star](https://www.dailystar.com.lb/News/World/2016/Mar-20/343128-senegal-votes-on-referendum-to-reduce-presidential-term.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2016/03/20/505634_img650x420_img650x420_crop.jpg)
+
+### Changes:
+
+1. [Senegalese constitutional referendum, 2016: A referendum is underway in Senegal where voters will vote on whether or not to reduce presidential term limits from seven to five years. Senegal's referendum also calls for a strengthened National Assembly, better representation for Senegalese abroad, greater rights for the opposition and participation of independent candidates in elections among the 15 changes. ](/news/2016/03/20/senegalese-constitutional-referendum-2016-a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-president.md) _2017-08-27 03:45:19 (First version)_
+1. [A referendum is underway in Senegal where voters will vote on whether or not to reduce presidential term limits from seven to five years. Senegal's referendum also calls for a strengthened National Assembly, better representation for Senegalese abroad, greater rights for the opposition and participation of independent candidates in elections among the 15 changes. ](/news/2016/03/20/a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-presidential-term-limits-from-seven-to-five-years-se.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Senegalese residents are voting on a referendum that would see some sweeping con
 3. [At least eight people are killed in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md) _Context: Senegal_
 4. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: Senegal_
 5. [Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal-bringing-an-end-to-the-country-s-politica.md) _Context: Senegal_
-
-### Changes:
-
-1. [Senegalese constitutional referendum, 2016: A referendum is underway in Senegal where voters will vote on whether or not to reduce presidential term limits from seven to five years. Senegal's referendum also calls for a strengthened National Assembly, better representation for Senegalese abroad, greater rights for the opposition and participation of independent candidates in elections among the 15 changes. ](/news/2016/03/20/senegalese-constitutional-referendum-2016-a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-president.md) _2017-08-27 03:45:19 (First version)_
-1. [A referendum is underway in Senegal where voters will vote on whether or not to reduce presidential term limits from seven to five years. Senegal's referendum also calls for a strengthened National Assembly, better representation for Senegalese abroad, greater rights for the opposition and participation of independent candidates in elections among the 15 changes. ](/news/2016/03/20/a-referendum-is-underway-in-senegal-where-voters-will-vote-on-whether-or-not-to-reduce-presidential-term-limits-from-seven-to-five-years-se.md) _(Current version)_

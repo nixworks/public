@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/8/boston-college-u-s-researchers-in-findings-published-in-the-elife-scientific-journal-have-uncovered-the-global-spread-of-an-ancient-gro.html)  [JSON](/news/2016/03/8/boston-college-u-s-researchers-in-findings-published-in-the-elife-scientific-journal-have-uncovered-the-global-spread-of-an-ancient-gro.json)  [XML](/news/2016/03/8/boston-college-u-s-researchers-in-findings-published-in-the-elife-scientific-journal-have-uncovered-the-global-spread-of-an-ancient-gro.xml)  
+
 ### [2016-03-8](/news/2016/03/8/index.md)
 
 # Boston College (U.S.) researchers, in findings published in the eLife scientific journal, have uncovered the global spread of an ancient group of retroviruses that affected about 28 of 50 modern mammals' ancestors back as far as 30 million years ago. 
@@ -5,7 +8,7 @@
 Scientists have learned a bit more about the history of ancient viruses that existed 30 million years ago.
 
 
-### Source:
+### Sources:
 
 1. [American Association for the Advancement of Science](http://www.eurekalert.org/pub_releases/2016-03/e-suh030716.php)
 2. [Headlines & Global News](http://www.hngn.com/articles/186242/20160308/the-history-of-ancient-viruses-that-existed-30-million-years-ago-is-uncovered.htm)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/20/index.html)  [JSON](2016/03/20/index.json)  [XML](2016/03/20/index.xml)  
+
 ## [2016-03-20](/news/2016/03/20/index.md)
 
 ### [Turkish authorities name a Turkish man with alleged ties to the Islamic State responsible for this weekend's suicide bombing in Istanbul. ](/news/2016/03/20/turkish-authorities-name-a-turkish-man-with-alleged-ties-to-the-islamic-state-responsible-for-this-weekend-s-suicide-bombing-in-istanbul.md)
@@ -7,7 +10,7 @@ The weekend attack targeting a busy shopping area points to a heightened terrori
 _Context: Dallin H. Oaks, LDS tabernacle, LDS temple, Provo City Center Temple, The Church of Jesus Christ of Latter-day Saints in Utah_
 
 ### [The United States-based Sherwin-Williams Company agrees to acquire rival U.S. paint company Valspar Corporation in an all-cash deal valued at about $9.3 billion (8.2 billion euros). ](/news/2016/03/20/the-united-states-based-sherwin-williams-company-agrees-to-acquire-rival-u-s-paint-company-valspar-corporation-in-an-all-cash-deal-valued-a.md)
-The Sherwin-Williams Co (SHW.N) has agreed to acquire rival U.S. paint company Valspar Corp (VAL.N), the companies said on Sunday, in an all-cash deal valued at about $9.3 billion.
+The Sherwin-Williams Co (SHW.N) has agreed to acquire rival U.S. paint company Valspar Corp VAL.N, the companies said on Sunday, in an all-cash deal valued at about $9.3 billion.
 
 ### [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md)
 At least one Briton is thought to have been on board a bus which crashed in Spain, killing 13 exchange students. The bus, which was carrying 57 passengers, including at least one from the UK and four from Ireland, had been travelling back from Spain’s largest fireworks festival. It hit a crash bar...
@@ -19,7 +22,7 @@ At least one Briton is thought to have been on board a bus which crashed in Spai
 _Context: Abu Wardah Santoso, East Indonesia Mujahidin network, ISIL, Indonesia, Poso, military, military helicopter_
 
 ### [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md)
-The dissidents who were marching to demand improved human rights.
+The Twitter account of President published a first message of greeting to Cubans moments after Air Force One touched down at 4:18 p.m. local time. ¿Que bolá? said the message, a popular slang greeting often used by younger Cubans.
 
 ### [A retired Pennsylvania state trooper's attempted robbery of a fare collection vehicle at the Pennsylvania Turnpike's Fort Littleton toll plaza, 65 miles west of the capital Harrisburg, results in three deaths -- a toll collector, a security guard, and himself. ](/news/2016/03/20/a-retired-pennsylvania-state-trooper-s-attempted-robbery-of-a-fare-collection-vehicle-at-the-pennsylvania-turnpike-s-fort-littleton-toll-pla.md)
 Get the latest breaking news across the U.S. on ABCNews.com

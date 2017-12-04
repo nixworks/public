@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.html)  [JSON](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.json)  [XML](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story-building-still-under-construction-collapses-in-lagos-nigeria.xml)  
+
 ### [2016-03-9](/news/2016/03/9/index.md)
 
 # At least 30 people are killed after a five-story building still under construction collapses in Lagos, Nigeria. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFL5N16H44K)
 

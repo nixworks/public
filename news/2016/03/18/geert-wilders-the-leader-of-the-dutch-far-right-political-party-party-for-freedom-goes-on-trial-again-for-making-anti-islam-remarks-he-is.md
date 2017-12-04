@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/18/geert-wilders-the-leader-of-the-dutch-far-right-political-party-party-for-freedom-goes-on-trial-again-for-making-anti-islam-remarks-he-is.html)  [JSON](/news/2016/03/18/geert-wilders-the-leader-of-the-dutch-far-right-political-party-party-for-freedom-goes-on-trial-again-for-making-anti-islam-remarks-he-is.json)  [XML](/news/2016/03/18/geert-wilders-the-leader-of-the-dutch-far-right-political-party-party-for-freedom-goes-on-trial-again-for-making-anti-islam-remarks-he-is.xml)  
+
 ### [2016-03-18](/news/2016/03/18/index.md)
 
 # Geert Wilders, the leader of the Dutch far-right political party Party for Freedom, goes on trial again for making anti-Islam remarks. He is being accused of inciting hatred against the Moroccan-Dutch minority. 
@@ -5,9 +8,9 @@
 Politician in court over comments he made about Dutch Moroccans, but insists he will not be silenced
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/mar/18/dutch-far-right-leader-geert-wilders-goeson-trial-for-inciting-hatred)
+1. [The Guardian](https://www.theguardian.com/world/2016/mar/18/dutch-far-right-leader-geert-wilders-goeson-trial-for-inciting-hatred)
 1. [Cover Image](https://i.guim.co.uk/img/media/76b0b63b1c559974445f0e7ff49f7efad269ef91/0_0_3613_2168/master/3613.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=70774fc0446ff211fb6f654d6375c558)
 
 ### Related:

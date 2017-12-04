@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.html)  [JSON](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.json)  [XML](/news/2016/03/17/judges-at-the-international-criminal-tribunal-for-the-former-yugoslavia-announce-that-they-will-soon-deliver-their-verdict-against-radical-s.xml)  
+
 ### [2016-03-17](/news/2016/03/17/index.md)
 
 # Judges at the International Criminal Tribunal for the former Yugoslavia announce that they will soon deliver their verdict against radical Serb leader Vojislav Seselj, suspected of crimes against humanity committed during the Breakup of Yugoslavia, despite him being sent back to Serbia for medical reasons. Seselj has vowed not to return to court. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/war-crimes-court-hague-excuses-serbian-seselj-attending-verdict/27618176.html)
 
