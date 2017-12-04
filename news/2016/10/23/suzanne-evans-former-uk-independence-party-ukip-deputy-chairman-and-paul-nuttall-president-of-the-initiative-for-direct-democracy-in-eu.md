@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/23/suzanne-evans-former-uk-independence-party-ukip-deputy-chairman-and-paul-nuttall-president-of-the-initiative-for-direct-democracy-in-eu.html)  [JSON](/news/2016/10/23/suzanne-evans-former-uk-independence-party-ukip-deputy-chairman-and-paul-nuttall-president-of-the-initiative-for-direct-democracy-in-eu.json)  [XML](/news/2016/10/23/suzanne-evans-former-uk-independence-party-ukip-deputy-chairman-and-paul-nuttall-president-of-the-initiative-for-direct-democracy-in-eu.xml)  
+
 ### [2016-10-23](/news/2016/10/23/index.md)
 
 # Suzanne Evans, former UK Independence Party (UKIP) deputy chairman, and Paul Nuttall, President of the Initiative for Direct Democracy in Europe and Member of the European Parliament, each announce their candidacy for the UKIP leadership position, now held on interim basis by Nigel Farage. Other confirmed candidates are Bill Etheridge, Raheem Kassam, and Peter Whittle. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-37744003)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/D093/production/_92059335_evansnuttall.jpg)

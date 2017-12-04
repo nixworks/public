@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-wildlife-refuge-including-the-leader-ammon-bundy-was-acquitted-of-all-federal-charges-relat.html)  [JSON](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-wildlife-refuge-including-the-leader-ammon-bundy-was-acquitted-of-all-federal-charges-relat.json)  [XML](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-wildlife-refuge-including-the-leader-ammon-bundy-was-acquitted-of-all-federal-charges-relat.xml)  
+
 ### [2016-10-27](/news/2016/10/27/index.md)
 
 #  Seven members of the militia who occupied the wildlife refuge, including the leader Ammon Bundy, was acquitted of all federal charges related to the takeover. 
 
+Ammon and Ryan Bundy and five of their followers faced federal felony charges stemming from the six-week takeover in January.
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37795012)
-2. [New York Times](http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html)
-2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6BDC/production/_92121672_oregonoccupiers.jpg)
+2. [New York Times](https://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/09/29/us/28OREGON/28OREGON-facebookJumbo-v2.jpg)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.html)  [JSON](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.json)  [XML](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.xml)  
+
 ### [2016-10-23](/news/2016/10/23/index.md)
 
 # Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_LITHUANIA_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [Reuters](http://www.reuters.com/article/us-lithuania-election-idUSKCN12N0DM)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161023&t=2&i=1158581228&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9M09A)
+2. [Reuters](https://www.reuters.com/article/us-lithuania-election-idUSKCN12N0DM)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20161023&t=2&i=1158581228&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9M09A)
+
+### Changes:
+
+1. [Lithuanian parliamentary election, 2016: Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md) _2017-08-27 03:47:07 (First version)_
+1. [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md) _Context: second round_
 4. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: second round_
 5. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: second round_
-
-### Changes:
-
-1. [Lithuanian parliamentary election, 2016: Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/lithuanian-parliamentary-election-2016-voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50.md) _2017-08-27 03:47:07 (First version)_
-1. [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md) _(Current version)_

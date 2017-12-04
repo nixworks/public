@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.html)  [JSON](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.json)  [XML](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.xml)  
+
 ### [2016-10-24](/news/2016/10/24/index.md)
 
 # Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. 
@@ -5,10 +8,10 @@
 Former Pennsylvania Attorney General Kathleen Kane was sentenced on Monday to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-pennsylvania-kane-idUSKCN12O133)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161024&t=2&i=1158773570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9N1G9)
+1. [Reuters](https://www.reuters.com/article/us-pennsylvania-kane-idUSKCN12O133)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161024&t=2&i=1158773570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9N1G9)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/26/index.html)  [JSON](2016/10/26/index.json)  [XML](2016/10/26/index.xml)  
+
 ## [2016-10-26](/news/2016/10/26/index.md)
 
 ### [A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.html)  [JSON](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.json)  [XML](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.xml)  
+
 ### [2016-10-25](/news/2016/10/25/index.md)
 
 # An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. 
@@ -5,7 +8,7 @@
 POLICE have confirmed the devastating theme park accident that killed four people at Dreamworld on the Gold Coast was caught on CCTV, as investigations into the tragedy continue.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/national/queensland/at-least-four-people-injured-after-serious-dreamworld-incident/news-story/ab194466f5fd49e1e1c17e5468bbbd47)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/e899435e793a3c0b4a9345cc836e695a)

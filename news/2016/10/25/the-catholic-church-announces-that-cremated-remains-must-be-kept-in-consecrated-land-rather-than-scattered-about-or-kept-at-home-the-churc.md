@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/25/the-catholic-church-announces-that-cremated-remains-must-be-kept-in-consecrated-land-rather-than-scattered-about-or-kept-at-home-the-churc.html)  [JSON](/news/2016/10/25/the-catholic-church-announces-that-cremated-remains-must-be-kept-in-consecrated-land-rather-than-scattered-about-or-kept-at-home-the-churc.json)  [XML](/news/2016/10/25/the-catholic-church-announces-that-cremated-remains-must-be-kept-in-consecrated-land-rather-than-scattered-about-or-kept-at-home-the-churc.xml)  
+
 ### [2016-10-25](/news/2016/10/25/index.md)
 
 # The Catholic Church announces that cremated remains must be kept in consecrated land, rather than scattered about or kept at home. The Church first permitted cremation in 1963, but still strongly favours burial. 
@@ -5,7 +8,7 @@
 The ashes of cremated Catholics cannot be kept at home, scattered or divided among family members, the Vatican announces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-37765900)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4EBE/production/_92085102_capture.png)

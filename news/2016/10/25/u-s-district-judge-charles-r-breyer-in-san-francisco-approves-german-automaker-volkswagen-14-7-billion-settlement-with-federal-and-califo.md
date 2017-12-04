@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.html)  [JSON](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.json)  [XML](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.xml)  
+
 ### [2016-10-25](/news/2016/10/25/index.md)
 
 # U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-volkswagen-emissions-idUSKCN12P22F)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161025&t=2&i=1158901180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9O163)
+1. [Reuters](https://www.reuters.com/article/us-volkswagen-emissions-idUSKCN12P22F)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161025&t=2&i=1158901180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9O163)
 
 ### Related:
 

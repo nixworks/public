@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.html)  [JSON](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.json)  [XML](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.xml)  
+
 ### [2016-10-26](/news/2016/10/26/index.md)
 
 # For the first time in 25 years, the United States abstains in a United Nations vote calling for an end to its Cuban economic embargo. 
@@ -5,11 +8,11 @@
 The United States on Wednesday abstained for the first time from a United Nations General Assembly vote on a resolution calling for an end to a U.S. economic embargo on Cuba, after opposing such measures every year for 24 years.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/26/499469386/for-first-time-u-s-abstains-on-u-n-resolution-condemning-cuba-embargo)
-2. [Reuters](http://www.reuters.com/article/us-usa-cuba-un-idUSKCN12Q259)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161026&t=2&i=1159083729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9P18I)
+2. [Reuters](https://www.reuters.com/article/us-usa-cuba-un-idUSKCN12Q259)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161026&t=2&i=1159083729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9P18I)
 
 ### Related:
 

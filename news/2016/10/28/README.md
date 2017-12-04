@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/28/index.html)  [JSON](2016/10/28/index.json)  [XML](2016/10/28/index.xml)  
+
 ## [2016-10-28](/news/2016/10/28/index.md)
 
 ### [ The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. ](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered-in-and-near-mosul-by-the-islamic-state-of-iraq-and-the-levant.md)
@@ -13,10 +16,10 @@ _Context: American Airlines, American Airlines Flight 383 (2016), Boeing 767, Ch
 A massive fire in Exeter destroys historic buildings including what is described as the oldest hotel in England.
 
 ### [At an annual meeting of the Convention for the Conservation of Antarctic Marine Living Resources in Hobart, Australia, twenty-four countries and the European Union agree to create the world's largest marine park in Antarctica's Ross Sea. The marine park will cover more than 12 percent of the Southern Ocean, and will be protected from commercial fishing for 35 years. ](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.md)
-_Context: Antarctica, Australia, Convention for the Conservation of Antarctic Marine Living Resources, EU, Hobart, Ross Sea, Southern Ocean_
+_Context: Antarctica, Australia, Convention for the Conservation of Antarctic Marine Living Resources, European Union, Hobart, Ross Sea, Southern Ocean_
 
 ### [Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in-the-illegal-drug-tra.md)
-The nine slain followers of the town mayor killed in a police anti-narcotics operation in Makilala, North Cotabato Friday were all residents of Datu Saudi Ampatuan, Maguindanao. 
+“If you are not guilty, why should you be afraid?” the mayor told The New York Times in August.
 
 ### [Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. ](/news/2016/10/28/irving-picard-a-court-appointed-trustee-liquidating-the-madoff-asset-management-firm-says-that-he-has-reached-a-settlement-with-the-family.md)
 _Context: Bernard Madoff, Irving Picard, Ponzi scheme, Stanley Chais_

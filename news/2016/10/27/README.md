@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/27/index.html)  [JSON](2016/10/27/index.json)  [XML](2016/10/27/index.xml)  
+
 ## [2016-10-27](/news/2016/10/27/index.md)
 
 ### [Japan's Prince Mikasa, the oldest member of the Imperial Family, dies at the age of 100. ](/news/2016/10/27/japan-s-prince-mikasa-the-oldest-member-of-the-imperial-family-dies-at-the-age-of-100.md)
@@ -13,10 +16,10 @@ Jan Bartunek and Philip Blenkinsop
 By Tommy Wilkes and Amjad Ali NEW DELHI/ISLAMABAD (Reuters) - India and Pakistan on Thursday announced they would each expel one of the other&#039;s ...
 
 ### [The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-national-police-over-allegations-of-civil-rig.md)
-_Context: Philippine Drug War, Philippine National Police, Philippines-United States relations, San Francisco Police Department, civil rights_
+_Context: Philippine National Police, Philippines-United States relations, San Francisco Police Department, civil rights, drug crackdown_
 
 ### [ Seven members of the militia who occupied the wildlife refuge, including the leader Ammon Bundy, was acquitted of all federal charges related to the takeover. ](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-wildlife-refuge-including-the-leader-ammon-bundy-was-acquitted-of-all-federal-charges-relat.md)
-_Context: Ammon Bundy, Occupation of the Malheur National Wildlife Refuge_
+Ammon and Ryan Bundy and five of their followers faced federal felony charges stemming from the six-week takeover in January.
 
 ### [NASA announces the return of the final piece of data collected during "New Horizons"' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. ](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of-data-collected-during-new-horizons-flyby-of-pluto-in-july-2015-the-data-taking-about-fi.md)
 _Context: Johns Hopkins Applied Physics Laboratory, NASA, New Horizons, Pluto, light speed_

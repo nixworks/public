@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.html)  [JSON](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.json)  [XML](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.xml)  
+
 ### [2016-10-26](/news/2016/10/26/index.md)
 
 # An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://news.trust.org/item/20161027003653-0fp68)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/5d70d17c-4a66-43c4-9ab7-e11091f8fe61/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
+
+### Changes:
+
+1. [2014-16 Venezuelan protests: An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/2014-16-venezuelan-protests-an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protest.md) _2017-08-27 03:47:07 (First version)_
+1. [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: government_
 4. [Citibank notifies the Venezuelan government it will close the accounts of the Venezuelan Central Bank and the Bank of Venezuela in 30 days after conducting a "periodic risk management review." Venezuela relies on Citibank to conduct foreign currency transactions due to the country's strict currency controls. ](/news/2016/07/12/citibank-notifies-the-venezuelan-government-it-will-close-the-accounts-of-the-venezuelan-central-bank-and-the-bank-of-venezuela-in-30-days-a.md) _Context: government_
 5. [Venezuelan opposition leaders say they have now secured enough signatures on a petition to move to the next stage in a recall referendum of President Nicolas Maduro. The process must now be validated by electoral officials. ](/news/2016/06/25/venezuelan-opposition-leaders-say-they-have-now-secured-enough-signatures-on-a-petition-to-move-to-the-next-stage-in-a-recall-referendum-of.md) _Context: 2014-16 Venezuelan protests_
-
-### Changes:
-
-1. [2014-16 Venezuelan protests: An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/2014-16-venezuelan-protests-an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protest.md) _2017-08-27 03:47:07 (First version)_
-1. [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md) _(Current version)_

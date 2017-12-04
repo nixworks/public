@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.html)  [JSON](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.json)  [XML](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.xml)  
+
 ### [2016-10-28](/news/2016/10/28/index.md)
 
 # At an annual meeting of the Convention for the Conservation of Antarctic Marine Living Resources in Hobart, Australia, twenty-four countries and the European Union agree to create the world's largest marine park in Antarctica's Ross Sea. The marine park will cover more than 12 percent of the Southern Ocean, and will be protected from commercial fishing for 35 years. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-environment-antarctic-park-idUSKCN12S02C)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161028&t=2&i=1159311295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9R01Y)
+1. [Reuters](https://www.reuters.com/article/us-environment-antarctic-park-idUSKCN12S02C)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161028&t=2&i=1159311295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9R01Y)
 
 ### Related:
 

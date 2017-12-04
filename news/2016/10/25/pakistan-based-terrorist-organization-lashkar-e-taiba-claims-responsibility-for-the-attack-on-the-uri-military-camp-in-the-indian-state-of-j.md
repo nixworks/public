@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.html)  [JSON](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.json)  [XML](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.xml)  
+
 ### [2016-10-25](/news/2016/10/25/index.md)
 
 # Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. 
@@ -5,10 +8,15 @@
 Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo;s parent organization Jamaat-ud-Dawa, are to be held in Gujranwala of Punjab, Pakistan, according to posters widely circulated on social media.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Lashkar-claims-responsibility-for-Uri-terror-attack/articleshow/55047490.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/55047570.cms)
+
+### Changes:
+
+1. [2016 Uri attack: Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md) _2017-08-27 03:47:07 (First version)_
+1. [Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +24,4 @@ Funeral prayers in absentia for one of the Uri attackers, organized by LeT&rsquo
 2. [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md) _Context: 2016 Uri attack, Pakistan_
 3. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _Context: 2016 Uri attack, Pakistan_
 4. [ Indian police accuse Pakistan's security and intelligence service, the ISI, of masterminding the Mumbai train bombings in July, carried out by militant group Lashkar-e-Taiba, which killed nearly 200 people. ](/news/2006/09/30/indian-police-accuse-pakistan-s-security-and-intelligence-service-the-isi-of-masterminding-the-mumbai-train-bombings-in-july-carried-out.md) _Context: Lashkar-e-Taiba, Pakistan_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
-
-### Changes:
-
-1. [2016 Uri attack: Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/2016-uri-attack-pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the.md) _2017-08-27 03:47:07 (First version)_
-1. [Pakistan-based terrorist organization Lashkar-e-Taiba claims responsibility for the attack on the Uri military camp in the Indian state of Jammu and Kashmir. ](/news/2016/10/25/pakistan-based-terrorist-organization-lashkar-e-taiba-claims-responsibility-for-the-attack-on-the-uri-military-camp-in-the-indian-state-of-j.md) _(Current version)_
+5. [The Pakistan Minister for Law Zahid Hamid resigns after days of protest over proposed changes to blasphemy laws. ](/news/2017/11/27/the-pakistan-minister-for-law-zahid-hamid-resigns-after-days-of-protest-over-proposed-changes-to-blasphemy-laws.md) _Context: Pakistan_

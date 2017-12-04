@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/10/25/index.html)  [JSON](2016/10/25/index.json)  [XML](2016/10/25/index.xml)  
+
 ## [2016-10-25](/news/2016/10/25/index.md)
 
 ### [Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. ](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-academy-in-the-southwestern-city-of-quetta-leaving-at-least-59-people-dead-and-117-others-injured.md)
-Dozens of people are killed after militants mount an attack on a police training college in the Pakistani city of Quetta, officials say.
+Militant group Islamic State said on Tuesday that fighters loyal to its movement attacked a police training college in Quetta in southwest Pakistan in a raid that officials said killed 59 people and wounded more than 100.
 
 ### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
 _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_

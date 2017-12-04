@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.html)  [JSON](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.json)  [XML](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.xml)  
+
 ### [2016-10-26](/news/2016/10/26/index.md)
 
 # A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/10/27/europe/italy-earthquake/)
 

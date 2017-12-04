@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/25/ontario-provincial-police-charge-a-former-canadian-nurse-elizabeth-tracy-mae-wettlaufer-in-woodstock-ontario-with-killing-eight-elderly.html)  [JSON](/news/2016/10/25/ontario-provincial-police-charge-a-former-canadian-nurse-elizabeth-tracy-mae-wettlaufer-in-woodstock-ontario-with-killing-eight-elderly.json)  [XML](/news/2016/10/25/ontario-provincial-police-charge-a-former-canadian-nurse-elizabeth-tracy-mae-wettlaufer-in-woodstock-ontario-with-killing-eight-elderly.xml)  
+
 ### [2016-10-25](/news/2016/10/25/index.md)
 
 # Ontario Provincial Police charge a former Canadian nurse, Elizabeth Tracy Mae Wettlaufer, in Woodstock, Ontario, with killing eight elderly patients between August 2007 and August 2014 at two Caressant Care Nursing and Retirement Homes facilities. 
@@ -5,7 +8,7 @@
 A former nurse from Woodstock, Ont., has been charged with eight counts of first-degree murder in the deaths of nursing home patients. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/windsor/police-investigate-multiple-jurisdiction-death-1.3818887)
 1. [Cover Image](https://i.cbc.ca/1.3820747.1479209895!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/nursing-home-probe-20161025.jpg)

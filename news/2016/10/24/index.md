@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/24/index.html)  [JSON](2016/10/24/index.json)  [XML](2016/10/24/index.xml)  
+
 ## [2016-10-24](/news/2016/10/24/index.md)
 
 ### [ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md)
