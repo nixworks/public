@@ -6,8 +6,8 @@ Formats: [HTML](2017/12/3/index.html)  [JSON](2017/12/3/index.json)  [XML](2017/
 ### [The Royal Saudi Air Force bombs Houthi positions in southern Sana'a in support of Ali Abdullah Saleh-headed General People's Congress. ](/news/2017/12/3/the-royal-saudi-air-force-bombs-houthi-positions-in-southern-sana-a-in-support-of-ali-abdullah-saleh-headed-general-people-s-congress.md)
 Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
 
-### [Venezuelan President Nicolas Maduro announces the creation of the Petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
-_Context: Nicolas Maduro, Petro, Venezuela, cryptocurrency, socioeconomic crisis_
+### [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
+_Context: Nicolas Maduro, Venezuela, cryptocurrency, petro, socioeconomic crisis_
 
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
 _Context: South Korea, Yeongheung Island_

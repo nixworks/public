@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.html)  [JSON](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.json)  [XML](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.xml)  
+
 ### [2016-09-15](/news/2016/09/15/index.md)
 
 # Japan's Democratic Party elects Sha Renho as President. The House of Councillors member becomes the first female to head the opposition party. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times](http://the-japan-news.com/news/article/0003216812)
 2. [The New York Times](http://mobile.nytimes.com/2016/09/16/world/asia/japan-renho-murata-democratic-party.html)

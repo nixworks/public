@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.html)  [JSON](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.json)  [XML](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.xml)  
+
 ### [2016-09-15](/news/2016/09/15/index.md)
 
 # The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/09/14/asia/china-space-lab-tiangong-2/index.html)
+
+### Changes:
+
+1. [Tiangong program: The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/tiangong-program-the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch.md) _2017-08-27 03:46:51 (First version)_
+1. [The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-becomes-communist-party-secretary-o.md) _Context: Inner Mongolia_
 4. [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md) _Context: China National Space Administration_
 5. [The People's Republic of China charges Zhao Liping, former Police Chief for Inner Mongolia with murder, bribery and possession of fire arms and explosives. ](/news/2016/02/4/the-people-s-republic-of-china-charges-zhao-liping-former-police-chief-for-inner-mongolia-with-murder-bribery-and-possession-of-fire-arms.md) _Context: Inner Mongolia_
-
-### Changes:
-
-1. [Tiangong program: The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/tiangong-program-the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch.md) _2017-08-27 03:46:51 (First version)_
-1. [The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.html)  [JSON](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.json)  [XML](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.xml)  
+
 ### [2016-09-15](/news/2016/09/15/index.md)
 
 # An explosion on a tourist speed boat kills two people and injures 20 others shortly after departing from the Indonesian port of Padangbai in Karangasem, Bali. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/german-woman-killed-bali-boat-explosion-20-injured-42104312)
 2. [The Jakarta Post](http://www.thejakartapost.com/news/2016/09/15/boat-explosion-in-bali-injures-20-kills-one.html)

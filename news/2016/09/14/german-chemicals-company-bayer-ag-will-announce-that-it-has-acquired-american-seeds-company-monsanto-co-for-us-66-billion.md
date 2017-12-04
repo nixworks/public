@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/14/german-chemicals-company-bayer-ag-will-announce-that-it-has-acquired-american-seeds-company-monsanto-co-for-us-66-billion.html)  [JSON](/news/2016/09/14/german-chemicals-company-bayer-ag-will-announce-that-it-has-acquired-american-seeds-company-monsanto-co-for-us-66-billion.json)  [XML](/news/2016/09/14/german-chemicals-company-bayer-ag-will-announce-that-it-has-acquired-american-seeds-company-monsanto-co-for-us-66-billion.xml)  
+
 ### [2016-09-14](/news/2016/09/14/index.md)
 
 # German chemicals company Bayer AG will announce that it has acquired American seeds company Monsanto Co. for US$66 billion. 
@@ -5,9 +8,9 @@
 Chemicals and healthcare group Bayer AG (BAYGn.DE) is poised to announce the acquisition of U.S. seeds company Monsanto Co (MON.N) on Wednesday for more than $66 billion, clinching the biggest deal of the year, people familiar with the matter said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-monsanto-m-a-bayer-board-exclusive-idUSKCN11J1PD?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-monsanto-m-a-bayer-board-exclusive-idUSKCN11J1PD?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160914&t=2&i=1153444109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8C0RK)
 
 ### Related:

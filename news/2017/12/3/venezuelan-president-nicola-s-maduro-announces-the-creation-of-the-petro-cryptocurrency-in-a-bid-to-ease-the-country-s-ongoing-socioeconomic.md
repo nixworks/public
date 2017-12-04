@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-t
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
-# Venezuelan President Nicolas Maduro announces the creation of the Petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. 
+# Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. 
 
 
 
