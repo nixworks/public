@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.html)  [JSON](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.json)  [XML](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildings-and-injures-eight-people-in-downtown-portland-oregon.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. 
@@ -5,7 +8,7 @@
 A powerful natural gas explosion rocked a busy Portland, Oregon, shopping district Wednesday, injuring eight people and igniting a fire that sent a huge plume of smoke over the heart of the city.
 
 
-### Source:
+### Sources:
 
 1. [The Las Vegas Review-Journal](http://www.reviewjournal.com/news/nation-and-world/gas-explosion-rips-through-portland-shopping-district-injuring-8)
 1. [Cover Image](http://www.reviewjournal.com/sites/default/files/field/media/31531430sfxl_7233540.jpg%3Fresize%3D750%3A500)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/a-police-dispersal-occurs-between-combined-minority-groups-and-anti-u-s-activists-and-the-philippine-national-police-in-front-of-the-u-s-e.html)  [JSON](/news/2016/10/19/a-police-dispersal-occurs-between-combined-minority-groups-and-anti-u-s-activists-and-the-philippine-national-police-in-front-of-the-u-s-e.json)  [XML](/news/2016/10/19/a-police-dispersal-occurs-between-combined-minority-groups-and-anti-u-s-activists-and-the-philippine-national-police-in-front-of-the-u-s-e.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # A police dispersal occurs between combined minority groups and anti-U.S. activists and the Philippine National Police in front of the U.S. Embassy in Manila. Police arrest 30 protesters with 60 people injured, several rammed by a police van driven during the dispersal. 
@@ -5,7 +8,7 @@
 (UPDATED) Some of the protesters are injured after cops forced a police vehicle through the crowd
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/10/police-van-rams-protesters-embassy-manila-161019131238539.html)
 2. [Rappler](http://www.rappler.com/nation/149646-dispersal-protest-us-embassy-manila)

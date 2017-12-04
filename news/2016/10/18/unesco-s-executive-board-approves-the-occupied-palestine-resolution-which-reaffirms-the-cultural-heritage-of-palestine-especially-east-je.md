@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.html)  [JSON](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.json)  [XML](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.xml)  
+
 ### [2016-10-18](/news/2016/10/18/index.md)
 
 # UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. 
@@ -5,7 +8,7 @@
 PARIS (AP) — UNESCO&#039;s executive board on Tuesday approved a resolution that Israel says denies the deep historic Jewish connection to holy sites in Jerusalem — and that has angered Israel&#039;s government and many Jews around…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/d14dbd765a804f76b7dd63d8d7487e42/unesco-expected-adopt-controversial-jerusalem-resolution)
 2. [BBC](http://www.bbc.com/news/world-middle-east-37697108)

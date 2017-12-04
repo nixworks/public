@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/21/per-wa-stberg-a-member-of-the-swedish-academy-says-that-songwriter-and-artist-bob-dylan-has-not-yet-indicated-whether-he-intends-to-accept.html)  [JSON](/news/2016/10/21/per-wa-stberg-a-member-of-the-swedish-academy-says-that-songwriter-and-artist-bob-dylan-has-not-yet-indicated-whether-he-intends-to-accept.json)  [XML](/news/2016/10/21/per-wa-stberg-a-member-of-the-swedish-academy-says-that-songwriter-and-artist-bob-dylan-has-not-yet-indicated-whether-he-intends-to-accept.xml)  
+
 ### [2016-10-21](/news/2016/10/21/index.md)
 
 # Per Wastberg, a member of the Swedish Academy, says that songwriter and artist Bob Dylan has not yet indicated whether he intends to accept the 2016 Nobel Prize in Literature. 
@@ -5,7 +8,7 @@
 Singer-songwriter’s failure to respond to phone calls from the Swedish Academy after being awarded the Nobel literature prize ‘unprecedented’
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-37740379)
 2. [The Guardian](https://www.theguardian.com/music/2016/oct/22/bob-dylan-criticised-as-impolite-and-arrogant-by-nobel-academy-member)

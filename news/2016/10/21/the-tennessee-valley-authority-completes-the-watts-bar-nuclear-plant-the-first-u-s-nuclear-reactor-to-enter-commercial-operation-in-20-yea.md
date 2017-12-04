@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.html)  [JSON](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.json)  [XML](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.xml)  
+
 ### [2016-10-21](/news/2016/10/21/index.md)
 
 # The Tennessee Valley Authority completes the Watts Bar Nuclear Plant, the first U.S. nuclear reactor to enter commercial operation in 20 years. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/10/20/us/tennessee-nuclear-power-plant/index.html)
 

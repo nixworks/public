@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/19/index.html)  [JSON](2016/10/19/index.json)  [XML](2016/10/19/index.xml)  
+
 ## [2016-10-19](/news/2016/10/19/index.md)
 
 ### [The Philippine government places more than two dozen provinces on alert before Typhoon Haima makes landfall over Luzon. Haima, downgraded by the Global Disaster Alert and Coordination System to a Category 4 storm, landfalls Cagayan province in the island's northeast. Weather forecasters expect the storm to impact up to 2.7 million people before veering northwest toward the Chinese coast on October 21. ](/news/2016/10/19/the-philippine-government-places-more-than-two-dozen-provinces-on-alert-before-typhoon-haima-makes-landfall-over-luzon-haima-downgraded-by.md)

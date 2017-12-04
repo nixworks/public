@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.html)  [JSON](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.json)  [XML](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. 
@@ -5,7 +8,7 @@
 A Russian hacker suspected of targeting the U.S. is being held in Czech Republic. Czech police took the man into custody two weeks ago, but only announced the arrest Wednesday. He was reportedly surprised when he was detained at a Prague hotel. Jeff Pegues reports on what the arrest could mean for U.S.-Russian relations.
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/videos/fbi-helps-capture-suspected-russian-hacker-in-czech-republic/?ftag=MSF75ed6dd)
 1. [Cover Image](http://cbsnews3.cbsistatic.com/hub/i/r/2016/10/19/c4036362-84c4-4a3e-982b-458888d062e5/thumbnail/1200x630/201dd6936a419ffd5aad004593027047/1019-ctm-russianhackerarrest2-1155000-640x360.jpg)

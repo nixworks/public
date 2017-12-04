@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/22/index.html)  [JSON](2016/10/22/index.json)  [XML](2016/10/22/index.xml)  
+
 ## [2016-10-22](/news/2016/10/22/index.md)
 
 ### [The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. ](/news/2016/10/22/the-islamic-state-of-iraq-and-the-levant-executes-at-least-284-people-in-mosul.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/21/index.html)  [JSON](2016/10/21/index.json)  [XML](2016/10/21/index.xml)  
+
 ## [2016-10-21](/news/2016/10/21/index.md)
 
 ### [ISIL militants launch attacks on government buildings, police stations, and a power station in the city of Kirkuk, Iraqi Kurdistan, killing dozens of people. ](/news/2016/10/21/isil-militants-launch-attacks-on-government-buildings-police-stations-and-a-power-station-in-the-city-of-kirkuk-iraqi-kurdistan-killing.md)
@@ -25,7 +28,7 @@ _Context: London City Airport, remediation_
 A train derailed in Cameroon on Friday reportedly killing more than 50 people and injuring over 500 who were on board.
 
 ### [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md)
-_Context: Extreme North, Mil Mi-8, Russia, Yamal Peninsula_
+_Context: Extreme North, Mi-8, Russia, Yamal Peninsula_
 
 ### [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md)
 South Africa formally begins the process of withdrawing from the International Criminal Court, saying it did not want to help achieve &quot;regime change&quot;.

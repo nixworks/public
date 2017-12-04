@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/20/index.html)  [JSON](2016/10/20/index.json)  [XML](2016/10/20/index.xml)  
+
 ## [2016-10-20](/news/2016/10/20/index.md)
 
 ### [Turkish jets hit Kurdish-led Syrian Democratic Forces (SDF) militia with 26 airstrikes in three recently-captured-from-ISIL villages west of al-Bab and northeast of Aleppo. The Turkish General Staff says between 160 and 200 have been killed, while the Syrian Observatory for Human Rights reports 11 dead and dozens of people wounded. ](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.md)

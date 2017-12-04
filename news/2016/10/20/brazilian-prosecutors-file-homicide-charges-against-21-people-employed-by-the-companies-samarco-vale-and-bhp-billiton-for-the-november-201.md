@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/20/brazilian-prosecutors-file-homicide-charges-against-21-people-employed-by-the-companies-samarco-vale-and-bhp-billiton-for-the-november-201.html)  [JSON](/news/2016/10/20/brazilian-prosecutors-file-homicide-charges-against-21-people-employed-by-the-companies-samarco-vale-and-bhp-billiton-for-the-november-201.json)  [XML](/news/2016/10/20/brazilian-prosecutors-file-homicide-charges-against-21-people-employed-by-the-companies-samarco-vale-and-bhp-billiton-for-the-november-201.xml)  
+
 ### [2016-10-20](/news/2016/10/20/index.md)
 
 # Brazilian prosecutors file homicide charges against 21 people employed by the companies Samarco, Vale, and BHP Billiton for the November 2015 iron ore mine dam burst in the state of Minas Gerais that killed 19 people and polluted waterways. 
@@ -5,7 +8,7 @@
 Employees of Vale and BHP Billiton are among 21 people being charged with homicide over a 2015 Brazilian iron ore mine disaster.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-37723057)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/83CD/production/_88414733_gettyimages-496017316.jpg)

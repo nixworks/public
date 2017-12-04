@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/21/the-pursuit-of-a-car-jacking-suspect-in-albuquerque-new-mexico-united-states-leaves-four-police-officers-injured-and-hospitalized.html)  [JSON](/news/2016/10/21/the-pursuit-of-a-car-jacking-suspect-in-albuquerque-new-mexico-united-states-leaves-four-police-officers-injured-and-hospitalized.json)  [XML](/news/2016/10/21/the-pursuit-of-a-car-jacking-suspect-in-albuquerque-new-mexico-united-states-leaves-four-police-officers-injured-and-hospitalized.xml)  
+
 ### [2016-10-21](/news/2016/10/21/index.md)
 
 # The pursuit of a car jacking suspect in Albuquerque, New Mexico, United States, leaves four police officers injured and hospitalized. 
@@ -5,7 +8,7 @@
 Officer, deputy suffer injuries during chase
 
 
-### Source:
+### Sources:
 
 1. [The Albuquerque Journal](https://www.abqjournal.com/872211/officers-in-crash-taken-to-hospital-early-friday-morning.html)
 1. [Cover Image](https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2016/10/21/c01_jd_22oct_crashnu-1000x571.jpg)

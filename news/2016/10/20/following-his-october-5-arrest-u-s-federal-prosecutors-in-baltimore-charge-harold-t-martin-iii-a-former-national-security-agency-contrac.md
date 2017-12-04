@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/20/following-his-october-5-arrest-u-s-federal-prosecutors-in-baltimore-charge-harold-t-martin-iii-a-former-national-security-agency-contrac.html)  [JSON](/news/2016/10/20/following-his-october-5-arrest-u-s-federal-prosecutors-in-baltimore-charge-harold-t-martin-iii-a-former-national-security-agency-contrac.json)  [XML](/news/2016/10/20/following-his-october-5-arrest-u-s-federal-prosecutors-in-baltimore-charge-harold-t-martin-iii-a-former-national-security-agency-contrac.xml)  
+
 ### [2016-10-20](/news/2016/10/20/index.md)
 
 # Following his October 5 arrest, U.S. federal prosecutors in Baltimore charge Harold T. Martin III, a former National Security Agency contractor, for violating the Espionage Act, specifically, with felony theft of government property. Prosecutors state that, over a 20-year time period, Martin stole at least 50 terabytes of data and "six full bankers boxes" of classified and other documents. The prosecutors state that Martin had an "arsenal" of weapons in his home. 
@@ -5,7 +8,7 @@
 Prosecutors said in court papers they plan to charge Harold T. Martin under the Espionage Act and want bail denied.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/world/national-security/government-alleges-massive-theft-by-nsa-contractor/2016/10/20/e021c380-96cc-11e6-bb29-bf2701dbe0a3_story.html)
 

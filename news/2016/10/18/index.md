@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/18/index.html)  [JSON](2016/10/18/index.json)  [XML](2016/10/18/index.xml)  
+
 ## [2016-10-18](/news/2016/10/18/index.md)
 
 ### [Somali police say at least seven are dead after clashes as Somali and African Union troops pushed back al-Shabab extremists from Afgooye, a town near Mogadishu. ](/news/2016/10/18/somali-police-say-at-least-seven-are-dead-after-clashes-as-somali-and-african-union-troops-pushed-back-al-shabab-extremists-from-afgooye-a.md)

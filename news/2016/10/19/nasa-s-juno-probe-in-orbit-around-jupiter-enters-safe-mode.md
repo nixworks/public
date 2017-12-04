@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/nasa-s-juno-probe-in-orbit-around-jupiter-enters-safe-mode.html)  [JSON](/news/2016/10/19/nasa-s-juno-probe-in-orbit-around-jupiter-enters-safe-mode.json)  [XML](/news/2016/10/19/nasa-s-juno-probe-in-orbit-around-jupiter-enters-safe-mode.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # NASA's "Juno" probe, in orbit around Jupiter, enters safe mode. 
@@ -5,7 +8,7 @@
 Nasa announces Juno craft circling gas giant had to shut down camera and instruments, while ESA says Schiaparelli lander may have crashed on red planet
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/science/2016/oct/20/bad-day-for-space-probes-one-lost-on-mars-another-in-safe-mode-at-jupiter)
 1. [Cover Image](https://i.guim.co.uk/img/media/603988388481e9591b3937cdb17345053962eb38/316_0_4740_2844/master/4740.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=933473a45aa57f04a92bedd3ff70b05a)

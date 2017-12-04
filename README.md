@@ -27,6 +27,9 @@ The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Ju
 ### [The Eurogroup selects Mario Centeno, Portugal's Minister of Finance, to succeed Jeroen Dijsselbloem as their next president. ](/news/2017/12/4/the-eurogroup-selects-ma-rio-centeno-portugal-s-minister-of-finance-to-succeed-jeroen-dijsselbloem-as-their-next-president.md)
 Portuguese Finance Minister Mario Centeno has won the race to become the top official of the 19-country eurozone.
 
+### [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. The controversial move is pitched as a win for state's rights versus the federal government but opponents see it as an example of the federal government breaking promises to Native American tribes and eroding protections for public land. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md)
+Capping months of speculation, President Trump on Monday signed a pair of executive orders to significantly shrink two of Utah’s national monuments – Bears Ears and the Grand Staircase-Escalante – that were created by his Democratic predecessors.
+
 ---
 
 ## [Yesterday](/news/2017/12/3/index.md)
@@ -37,7 +40,7 @@ Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight
 ### [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
 _Context: Nicolas Maduro, Venezuela, cryptocurrency, petro, socioeconomic crisis_
 
-### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
+### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-the.md)
 _Context: South Korea, Yeongheung Island_
 
 ### [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md)

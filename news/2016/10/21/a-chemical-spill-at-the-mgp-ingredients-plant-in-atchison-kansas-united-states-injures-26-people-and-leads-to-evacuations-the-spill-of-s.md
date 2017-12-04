@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-in-atchison-kansas-united-states-injures-26-people-and-leads-to-evacuations-the-spill-of-s.html)  [JSON](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-in-atchison-kansas-united-states-injures-26-people-and-leads-to-evacuations-the-spill-of-s.json)  [XML](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-in-atchison-kansas-united-states-injures-26-people-and-leads-to-evacuations-the-spill-of-s.xml)  
+
 ### [2016-10-21](/news/2016/10/21/index.md)
 
 # A chemical spill at the MGP Ingredients plant in Atchison, Kansas, United States, injures 26 people and leads to evacuations. The spill of sodium hypochlorite and sulfuric acid produces a toxic fog. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Kansas City Star](http://www.kansascity.com/news/local/article109613237.html)
 1. [Cover Image](http://www.kansascity.com/news/o4kcz-gas-leak/ALTERNATES/LANDSCAPE_1140/gas%20leak)

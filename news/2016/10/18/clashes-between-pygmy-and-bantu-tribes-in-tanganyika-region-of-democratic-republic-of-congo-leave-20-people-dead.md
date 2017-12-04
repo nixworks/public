@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/18/clashes-between-pygmy-and-bantu-tribes-in-tanganyika-region-of-democratic-republic-of-congo-leave-20-people-dead.html)  [JSON](/news/2016/10/18/clashes-between-pygmy-and-bantu-tribes-in-tanganyika-region-of-democratic-republic-of-congo-leave-20-people-dead.json)  [XML](/news/2016/10/18/clashes-between-pygmy-and-bantu-tribes-in-tanganyika-region-of-democratic-republic-of-congo-leave-20-people-dead.xml)  
+
 ### [2016-10-18](/news/2016/10/18/index.md)
 
 # Clashes between Pygmy and Bantu tribes in Tanganyika region of Democratic Republic of Congo leave 20 people dead. 
@@ -5,7 +8,7 @@
 Twenty people were killed after three days of clashes between Pygmies and Bantus in Kabalo in the southeast of the Democratic Republic of Congo.
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/2016/10/18/dr-congo-20-dead-in-3-days-of-ethnic-clashes-in-katanga/)
 1. [Cover Image](http://static.euronews.com/articles/346977/1024x538_346977.jpg?1476786034)

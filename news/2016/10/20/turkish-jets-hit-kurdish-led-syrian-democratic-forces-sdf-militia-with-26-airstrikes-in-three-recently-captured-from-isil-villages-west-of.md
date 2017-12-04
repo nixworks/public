@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.html)  [JSON](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.json)  [XML](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.xml)  
+
 ### [2016-10-20](/news/2016/10/20/index.md)
 
 # Turkish jets hit Kurdish-led Syrian Democratic Forces (SDF) militia with 26 airstrikes in three recently-captured-from-ISIL villages west of al-Bab and northeast of Aleppo. The Turkish General Staff says between 160 and 200 have been killed, while the Syrian Observatory for Human Rights reports 11 dead and dozens of people wounded. 
@@ -5,11 +8,11 @@
 Turkish air strikes pounded a group of Kurdish fighters allied to a U.S.-backed militia in northern Syria overnight, highlighting the conflicting agendas of NATO members Ankara and Washington in an increasingly complex battlefield.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-kurds-idUSKCN12K0ER)
-2. [USA Today](http://www.usatoday.com/story/news/world/2016/10/20/turkish-media-strikes-kill-up-200-kurdish-militants-syria/92450020/)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161020&t=2&i=1158293653&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9J0BE)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-kurds-idUSKCN12K0ER)
+2. [USA Today](https://www.usatoday.com/story/news/world/2016/10/20/turkish-media-strikes-kill-up-200-kurdish-militants-syria/92450020/)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161020&t=2&i=1158293653&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9J0BE)
 
 ### Related:
 

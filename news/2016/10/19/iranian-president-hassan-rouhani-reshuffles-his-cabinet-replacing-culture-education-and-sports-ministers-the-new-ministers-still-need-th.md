@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.html)  [JSON](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.json)  [XML](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Mehr](http://en.mehrnews.com/news/120641/Rouhani-reshuffles-cabinet-ahead-of-election)
 2. [The Tehran Times](http://www.tehrantimes.com/news/407464/Impending-reshuffling-in-Rouhani-cabinet)

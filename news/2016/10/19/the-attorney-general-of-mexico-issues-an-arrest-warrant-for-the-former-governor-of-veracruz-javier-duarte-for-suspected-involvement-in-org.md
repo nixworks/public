@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest-warrant-for-the-former-governor-of-veracruz-javier-duarte-for-suspected-involvement-in-org.html)  [JSON](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest-warrant-for-the-former-governor-of-veracruz-javier-duarte-for-suspected-involvement-in-org.json)  [XML](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest-warrant-for-the-former-governor-of-veracruz-javier-duarte-for-suspected-involvement-in-org.xml)  
+
 ### [2016-10-19](/news/2016/10/19/index.md)
 
 # The Attorney General of Mexico issues an arrest warrant for the former Governor of Veracruz, Javier Duarte, for suspected involvement in organized crime and money laundering. 
@@ -5,10 +8,10 @@
 Mexico has ordered the arrest of an outgoing state governor in the ruling party suspected of corruption, as well as one of his opposition contemporaries, the government said on Wednesday, as it seeks to quell public discontent about its record on graft.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mexico-corruption-idUSKCN12J2SC?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161019&t=2&i=1158143277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9I1QZ)
+1. [Reuters](https://www.reuters.com/article/us-mexico-corruption-idUSKCN12J2SC?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161019&t=2&i=1158143277&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9I1QZ)
 
 ### Related:
 

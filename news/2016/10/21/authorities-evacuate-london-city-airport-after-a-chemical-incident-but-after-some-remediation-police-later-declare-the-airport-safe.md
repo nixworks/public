@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.html)  [JSON](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.json)  [XML](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.xml)  
+
 ### [2016-10-21](/news/2016/10/21/index.md)
 
 # Authorities evacuate London City Airport after a chemical incident, but, after some remediation, police later declare the airport safe. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/10/21/europe/london-city-airport-evacuated/index.html)
 
