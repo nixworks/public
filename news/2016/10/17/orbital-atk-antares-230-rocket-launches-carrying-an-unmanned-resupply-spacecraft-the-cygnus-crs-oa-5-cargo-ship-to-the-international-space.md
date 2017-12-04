@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/17/orbital-atk-antares-230-rocket-launches-carrying-an-unmanned-resupply-spacecraft-the-cygnus-crs-oa-5-cargo-ship-to-the-international-space.html)  [JSON](/news/2016/10/17/orbital-atk-antares-230-rocket-launches-carrying-an-unmanned-resupply-spacecraft-the-cygnus-crs-oa-5-cargo-ship-to-the-international-space.json)  [XML](/news/2016/10/17/orbital-atk-antares-230-rocket-launches-carrying-an-unmanned-resupply-spacecraft-the-cygnus-crs-oa-5-cargo-ship-to-the-international-space.xml)  
+
 ### [2016-10-17](/news/2016/10/17/index.md)
 
 # Orbital ATK Antares 230 rocket launches carrying an unmanned resupply spacecraft, the Cygnus CRS OA-5 cargo ship, to the International Space Station from NASA's Wallops Flight Facility in Virginia. The mission returns the Antares rocket to flight after an anomaly on October 28, 2014, caused an Antares-series rocket to explode seconds after liftoff. 

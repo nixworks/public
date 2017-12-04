@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/13/index.html)  [JSON](2016/10/13/index.json)  [XML](2016/10/13/index.xml)  
+
 ## [2016-10-13](/news/2016/10/13/index.md)
 
 ### [The U.S. military launches Tomahawk cruise missiles from the USS "Nitze" against Houthi-controlled radar sites in Yemen following two incidents in which, according to U.S. military, missiles were fired on United States Navy vessels in the Red Sea. ](/news/2016/10/13/the-u-s-military-launches-tomahawk-cruise-missiles-from-the-uss-nitze-against-houthi-controlled-radar-sites-in-yemen-following-two-incide.md)
@@ -31,7 +34,7 @@ The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjus
 UNITED NATIONS—The U.N. General Assembly on Thursday officially appointed António Guterres of Portugal as its next secretary-general as he pledged to combat terrorism and extremism while also fighting “xenophobia” and populism.
 
 ### [Scottish leader Nicola Sturgeon will introduce a bill launching a new referendum to determine the final status of the country. ](/news/2016/10/13/scottish-leader-nicola-sturgeon-will-introduce-a-bill-launching-a-new-referendum-to-determine-the-final-status-of-the-country.md)
-_Context: Nicola Sturgeon, Proposed second Scottish independence referendum, country, the UK leaves the EU_
+_Context: Nicola Sturgeon, Proposed second Scottish independence referendum, United Kingdom withdrawal from the European Union, country_
 
 ### [Cyberthieves inject 5,925 online web retailers with website software malicious code that is stealing the credit card details of customers. ](/news/2016/10/13/cyberthieves-inject-5-925-online-web-retailers-with-website-software-malicious-code-that-is-stealing-the-credit-card-details-of-customers.md)
 Almost 6,000 web shops are unknowingly harbouring malicious code that is stealing the credit card details of customers, suggests research.
@@ -40,7 +43,7 @@ Almost 6,000 web shops are unknowingly harbouring malicious code that is stealin
 Thailand&#039;s King Bhumibol Adulyadej, the world&#039;s longest-reigning monarch, has died after a long illness.
 
 ### [Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md)
-_Context: Colombian President, FARC, Juan Manuel Santos, ceasefire, peace deal_
+_Context: Colombian President, Colombian peace process, FARC, Juan Manuel Santos, ceasefire_
 
 ## [Previous Day...](/news/2016/10/12/index.md)
 

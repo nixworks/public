@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.html)  [JSON](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.json)  [XML](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.xml)  
+
 ### [2016-10-13](/news/2016/10/13/index.md)
 
 # The United Nations General Assembly officially appoints former Portuguese Prime Minister Antonio Guterres its next Secretary-General. 
@@ -5,10 +8,10 @@
 UNITED NATIONS—The U.N. General Assembly on Thursday officially appointed António Guterres of Portugal as its next secretary-general as he pledged to combat terrorism and extremism while also fighting “xenophobia” and populism.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-37648265)
-2. [The Wall Street Journal](http://www.wsj.com/articles/u-n-general-assembly-appoints-antonio-guterres-as-next-secretary-general-1476399026)
+2. [The Wall Street Journal](https://www.wsj.com/articles/u-n-general-assembly-appoints-antonio-guterres-as-next-secretary-general-1476399026)
 2. [Cover Image](https://si.wsj.net/public/resources/images/BN-QG374_UNSGjp_TOP_20161013181256.jpg)
 
 ### Related:

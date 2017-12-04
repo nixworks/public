@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/16/the-simpsons-the-longest-running-american-prime-time-scripted-television-series-airs-its-600th-episode.html)  [JSON](/news/2016/10/16/the-simpsons-the-longest-running-american-prime-time-scripted-television-series-airs-its-600th-episode.json)  [XML](/news/2016/10/16/the-simpsons-the-longest-running-american-prime-time-scripted-television-series-airs-its-600th-episode.xml)  
+
 ### [2016-10-16](/news/2016/10/16/index.md)
 
 # "The Simpsons", the longest-running American, prime time, scripted television series, airs its 600th episode. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/10/16/entertainment/simpsons-600th-episode/)
 

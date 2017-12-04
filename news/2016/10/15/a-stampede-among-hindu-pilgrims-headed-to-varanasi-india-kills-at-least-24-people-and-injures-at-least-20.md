@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/a-stampede-among-hindu-pilgrims-headed-to-varanasi-india-kills-at-least-24-people-and-injures-at-least-20.html)  [JSON](/news/2016/10/15/a-stampede-among-hindu-pilgrims-headed-to-varanasi-india-kills-at-least-24-people-and-injures-at-least-20.json)  [XML](/news/2016/10/15/a-stampede-among-hindu-pilgrims-headed-to-varanasi-india-kills-at-least-24-people-and-injures-at-least-20.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # A stampede among Hindu pilgrims headed to Varanasi, India, kills at least 24 people and injures at least 20. 
@@ -5,11 +8,11 @@
 At least 24 people died and dozens more were hurt in a stampede in the ancient northern Indian city of Varanasi on Saturday, officials said.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/2016/10/16/world/asia/india-hindu-stampede.html)
-2. [Reuters](http://www.reuters.com/article/us-india-stampede-idUSKBN12F0CU?il=0)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [AP via ''The New York Times](https://www.nytimes.com/2016/10/16/world/asia/india-hindu-stampede.html)
+2. [Reuters](https://www.reuters.com/article/us-india-stampede-idUSKBN12F0CU?il=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

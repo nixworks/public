@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/14/a-bus-crashes-and-catches-fire-carrying-tourists-returning-from-a-china-tour-on-the-gyeongbu-expressway-near-ulsan-south-korea-leaving-ten.html)  [JSON](/news/2016/10/14/a-bus-crashes-and-catches-fire-carrying-tourists-returning-from-a-china-tour-on-the-gyeongbu-expressway-near-ulsan-south-korea-leaving-ten.json)  [XML](/news/2016/10/14/a-bus-crashes-and-catches-fire-carrying-tourists-returning-from-a-china-tour-on-the-gyeongbu-expressway-near-ulsan-south-korea-leaving-ten.xml)  
+
 ### [2016-10-14](/news/2016/10/14/index.md)
 
 # A bus crashes and catches fire carrying tourists returning from a China tour on the Gyeongbu Expressway near Ulsan, South Korea, leaving ten people killed and nine injured. 
@@ -5,7 +8,7 @@
 SEOUL, South Korea (AP) — Ten people were killed and nine others were injured in South Korea after their bus caught fire on a highway, officials said Friday. Twenty people, including the driver, were on the bus when it…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/32cf206a948842b18fdb42e251e78fa7/10-killed-south-korea-after-bus-fire-highway)
 1. [Cover Image](http://binaryapi.ap.org/85fea10213fe4630984856482b509ebe/460x.jpg)

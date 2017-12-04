@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.html)  [JSON](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.json)  [XML](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # The U.S. Transportation Department's emergency order banning Samsung Galaxy Note 7 from aircraft in the United States goes into effect. 
@@ -5,10 +8,10 @@
 Samsung Galaxy Note 7 smartphone devices will be banned from aircraft in the United States starting on Saturday at noon EDT (1600 GMT) under an emergency order, regulators said on Friday after numerous reports of the devices catching fire.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-samsung-elec-smartphones-idUSKBN12E2BC)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161015&t=2&i=1157594245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D1DR)
+1. [Reuters](https://www.reuters.com/article/us-samsung-elec-smartphones-idUSKBN12E2BC)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161015&t=2&i=1157594245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D1DR)
 
 ### Related:
 

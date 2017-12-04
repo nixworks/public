@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/13/a-plane-crash-near-kelowna-bc-kills-canadian-politician-and-former-premier-of-alberta-jim-prentice-along-with-three-others.html)  [JSON](/news/2016/10/13/a-plane-crash-near-kelowna-bc-kills-canadian-politician-and-former-premier-of-alberta-jim-prentice-along-with-three-others.json)  [XML](/news/2016/10/13/a-plane-crash-near-kelowna-bc-kills-canadian-politician-and-former-premier-of-alberta-jim-prentice-along-with-three-others.xml)  
+
 ### [2016-10-13](/news/2016/10/13/index.md)
 
 # A plane crash near Kelowna, BC, kills Canadian politician and former Premier of Alberta Jim Prentice along with three others. 
@@ -5,7 +8,7 @@
 Former Alberta premier Jim Prentice was among the four people killed in a small-plane crash in British Columbia.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/calgary/jim-prentice-plane-crash-killed-1.3804941)
 1. [Cover Image](https://i.cbc.ca/1.2964296.1476465886!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/alberta-premier-jim-prentice.jpg)

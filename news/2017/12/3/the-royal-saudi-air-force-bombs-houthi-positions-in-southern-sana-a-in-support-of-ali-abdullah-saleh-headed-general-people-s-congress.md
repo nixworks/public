@@ -21,7 +21,7 @@ Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight
 
 ### Related:
 
-1. [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md) _Context: Ali Abdullah Saleh, Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
+1. [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md) _Context: Ali Abdullah Saleh, Houthi, Sana'a_
 2. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
 3. [Air strikes target Houthi political leaders and military bases in Sana'a, Yemen. ](/news/2015/09/10/air-strikes-target-houthi-political-leaders-and-military-bases-in-sana-a-yemen.md) _Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
 4. [Airstrikes on Sanaa kill eight, according to Houthi officials. ](/news/2015/07/2/airstrikes-on-sanaa-kill-eight-according-to-houthi-officials.md) _Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_

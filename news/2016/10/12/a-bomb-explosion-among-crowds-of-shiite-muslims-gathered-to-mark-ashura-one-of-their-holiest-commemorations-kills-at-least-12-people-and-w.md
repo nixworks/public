@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.html)  [JSON](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.json)  [XML](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.xml)  
+
 ### [2016-10-12](/news/2016/10/12/index.md)
 
 # A bomb explosion among crowds of Shiite Muslims gathered to mark Ashura, one of their holiest commemorations, kills at least 12 people and wounds 28 others. Also, authorities revise the death toll to 17 from yesterday's attack on a Kabul Shiite shrine. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/world/deadly-blast-targets-shiite-worshipers-in-afghanistan-amid-widening-security/2016/10/12/a7b5dda2-907c-11e6-9c52-0b10449e33c4_story.html)
 

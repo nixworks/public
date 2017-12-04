@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-opens-in-brazil.html)  [JSON](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-opens-in-brazil.json)  [XML](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-opens-in-brazil.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # A wildlife sanctuary for rescued elephants opens in Brazil. 
@@ -5,7 +8,7 @@
 An elephant sanctuary has opened in Brazil to provide a home for an estimated 50 circus animals from across Latin America.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37663208)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/44F5/production/_91935671_7e8f8f10-eecd-438e-8c4a-e607b34dbe0f.jpg)

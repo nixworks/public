@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/a-pickup-truck-hurls-off-san-diego-california-s-coronado-bridge-plummets-some-60-feet-and-crashes-onto-a-park-where-hundreds-of-people-ha.html)  [JSON](/news/2016/10/15/a-pickup-truck-hurls-off-san-diego-california-s-coronado-bridge-plummets-some-60-feet-and-crashes-onto-a-park-where-hundreds-of-people-ha.json)  [XML](/news/2016/10/15/a-pickup-truck-hurls-off-san-diego-california-s-coronado-bridge-plummets-some-60-feet-and-crashes-onto-a-park-where-hundreds-of-people-ha.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # A pickup truck hurls off San Diego, California's Coronado Bridge, plummets some 60 feet, and crashes onto a park where hundreds of people had gathered for a motorcycle rally, killing four people in a vendor's booth and injuring eight others. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-california-crash-idUSKBN12G04H)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-california-crash-idUSKBN12G04H)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

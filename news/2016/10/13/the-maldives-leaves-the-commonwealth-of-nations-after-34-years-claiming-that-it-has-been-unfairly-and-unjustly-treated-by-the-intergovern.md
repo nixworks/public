@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/13/the-maldives-leaves-the-commonwealth-of-nations-after-34-years-claiming-that-it-has-been-unfairly-and-unjustly-treated-by-the-intergovern.html)  [JSON](/news/2016/10/13/the-maldives-leaves-the-commonwealth-of-nations-after-34-years-claiming-that-it-has-been-unfairly-and-unjustly-treated-by-the-intergovern.json)  [XML](/news/2016/10/13/the-maldives-leaves-the-commonwealth-of-nations-after-34-years-claiming-that-it-has-been-unfairly-and-unjustly-treated-by-the-intergovern.xml)  
+
 ### [2016-10-13](/news/2016/10/13/index.md)
 
 # The Maldives leaves the Commonwealth of Nations after 34 years, claiming that it has been "unfairly and unjustly" treated by the intergovernmental organization. 
@@ -5,7 +8,7 @@
 The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjustly&quot; treated by the global body that was due to consider sanctions - including suspension - against the nation after its &quot;lack of progress&quot; on a raft of democratic reforms.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/10/13/maldives-leaves-commonwealth-as-it-claims-unfair-treatment-in-ro/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/10/13/85200462_Maldives-beach-jetty-NEWS-xlarge_trans_NvBQzQNjv4Bq4U72PvVlAMIniqBdHHa0YTQyZqoZ4b2a5leIf3Cyqkg.jpg)

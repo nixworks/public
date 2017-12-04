@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/16/index.html)  [JSON](2016/10/16/index.json)  [XML](2016/10/16/index.xml)  
+
 ## [2016-10-16](/news/2016/10/16/index.md)
 
 ### [A suicide bomber kills three police officers and wounds at least nine people in the southern Turkish city of Gaziantep during a police raid on a suspected ISIL safehouse. ](/news/2016/10/16/a-suicide-bomber-kills-three-police-officers-and-wounds-at-least-nine-people-in-the-southern-turkish-city-of-gaziantep-during-a-police-raid.md)

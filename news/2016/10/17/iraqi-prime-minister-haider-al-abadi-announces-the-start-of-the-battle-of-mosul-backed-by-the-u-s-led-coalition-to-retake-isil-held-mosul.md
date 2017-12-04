@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/17/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retake-isil-held-mosul.html)  [JSON](/news/2016/10/17/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retake-isil-held-mosul.json)  [XML](/news/2016/10/17/iraqi-prime-minister-haider-al-abadi-announces-the-start-of-the-battle-of-mosul-backed-by-the-u-s-led-coalition-to-retake-isil-held-mosul.xml)  
+
 ### [2016-10-17](/news/2016/10/17/index.md)
 
 # Iraqi Prime Minister Haider al-Abadi announces the start of the Battle of Mosul, backed by the U.S.-led coalition, to retake ISIL-held Mosul, the self-declared caliphate's capital in Iraq. 
@@ -7,9 +10,9 @@ Iraqi Prime Minister Haider al-Abadi has announced the start of an offensive aim
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-mosul-start-idUSKBN12G0Z1?il=0)
-2. [Reuters²](http://www.reuters.com/article/us-mideast-crisis-mosul-factbox-idUSKBN12G10K?il=0)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157677441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0OL)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-mosul-start-idUSKBN12G0Z1?il=0)
+2. [Reuters²](https://www.reuters.com/article/us-mideast-crisis-mosul-factbox-idUSKBN12G10K?il=0)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161016&t=2&i=1157677441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9F0OL)
 
 ### Changes:
 

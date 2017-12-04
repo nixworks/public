@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/a-gun-battle-that-started-when-three-armed-men-returned-to-a-restaurant-in-los-angeles-leaves-3-people-dead-and-12-others-wounded-police-s.html)  [JSON](/news/2016/10/15/a-gun-battle-that-started-when-three-armed-men-returned-to-a-restaurant-in-los-angeles-leaves-3-people-dead-and-12-others-wounded-police-s.json)  [XML](/news/2016/10/15/a-gun-battle-that-started-when-three-armed-men-returned-to-a-restaurant-in-los-angeles-leaves-3-people-dead-and-12-others-wounded-police-s.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # A gun battle that started when three armed men returned to a restaurant in Los Angeles, leaves 3 people dead and 12 others wounded. Police set up a dragnet for the suspects. 
@@ -5,7 +8,7 @@
 A gun battle at a restaurant in the West Adams district left three people dead and 12 others wounded early Saturday, prompting a massive police dragnet for suspects.
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-shooting-southwest-la-20161015-snap-story.html)
 1. [Cover Image](http://www.trbimg.com/img-580314ad/turbine/la-me-ln-shooting-southwest-la-20161015-snap)

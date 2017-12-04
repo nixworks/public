@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/17/floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-missing-sarika-has-killed-at-le.html)  [JSON](/news/2016/10/17/floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-missing-sarika-has-killed-at-le.json)  [XML](/news/2016/10/17/floods-in-central-vietnam-triggered-by-typhoon-sarika-s-heavy-rains-kill-at-least-24-people-with-4-others-missing-sarika-has-killed-at-le.xml)  
+
 ### [2016-10-17](/news/2016/10/17/index.md)
 
 # Floods in Central Vietnam, triggered by Typhoon Sarika's heavy rains, kill at least 24 people with 4 others missing. Sarika has killed at least two people and displaced more than 150,000 in the Philippines. 

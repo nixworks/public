@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/14/a-london-based-trader-who-traded-on-the-chicago-mercantile-exchange-navinder-singh-sarao-accused-of-contributing-to-the-2010-wall-street.html)  [JSON](/news/2016/10/14/a-london-based-trader-who-traded-on-the-chicago-mercantile-exchange-navinder-singh-sarao-accused-of-contributing-to-the-2010-wall-street.json)  [XML](/news/2016/10/14/a-london-based-trader-who-traded-on-the-chicago-mercantile-exchange-navinder-singh-sarao-accused-of-contributing-to-the-2010-wall-street.xml)  
+
 ### [2016-10-14](/news/2016/10/14/index.md)
 
 # A London-based trader who traded on the Chicago Mercantile Exchange, Navinder Singh Sarao, accused of contributing to the 2010 Wall Street "flash crash" by placing bogus orders to spoof the market, fails in his legal bid to stop extradition and will now be sent to the United States to face trial where he is wanted by U.S. authorities on 22 criminal counts of wire fraud, commodities fraud, and market manipulation. A judge initially approved his extradition in March, and today his bid to launch an appeal against that decision was rejected, ending his 18-month legal fight. He will now be extradited within 28 days. 
@@ -5,10 +8,10 @@
 A London-based trader accused of contributing to the 2010 Wall Street &quot;flash crash&quot; by placing bogus orders to spoof the market lost his legal bid to stop extradition on Friday and will now be sent to the United States to face trial.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-flashcrash-trader-extradition-idUSKBN12E196)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161014&t=2&i=1157450541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D0UJ)
+1. [Reuters](https://www.reuters.com/article/us-flashcrash-trader-extradition-idUSKBN12E196)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161014&t=2&i=1157450541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9D0UJ)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/12/index.html)  [JSON](2016/10/12/index.json)  [XML](2016/10/12/index.xml)  
+
 ## [2016-10-12](/news/2016/10/12/index.md)
 
 ### [Iraqi Prime Minister Haider al-Abadi rejects Turkey's claim that Turkish forces must be included in an operation to retake the militant-held city of Mosul. ](/news/2016/10/12/iraqi-prime-minister-haider-al-abadi-rejects-turkey-s-claim-that-turkish-forces-must-be-included-in-an-operation-to-retake-the-militant-held.md)
@@ -19,7 +22,7 @@ _Context: John Stumpf, Wells Fargo_
 Facebook campaign group Concentrix Mums believe around 100 claimants have been sent information such as bank statements, self assessment details and National Insurance numbers of others.
 
 ### [The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal-court.md)
-_Context: Burundi, Foreign relations of Burundi, International Criminal Court, Netherlands, Parliament of Burundi_
+_Context: Burundi, Foreign relations of Burundi, ICC, Netherlands, Parliament of Burundi_
 
 ## [Previous Day...](/news/2016/10/11/index.md)
 

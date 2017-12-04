@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.html)  [JSON](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.json)  [XML](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays for a controlling stake in both India's Essar Oil and port facilities that it already owns. 
@@ -5,10 +8,10 @@
 India and Russia signed billions of dollars of defense and energy deals on Saturday at a summit that sought to inject new life into a relationship that has been tested by shifting global alliances and conflict in the Middle East.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-india-russia-idUSKBN12F0BP)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161015&t=2&i=1157561611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9E07F)
+1. [Reuters](https://www.reuters.com/article/us-india-russia-idUSKBN12F0BP)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161015&t=2&i=1157561611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9E07F)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/13/the-king-of-thailand-bhumibol-adulyadej-dies-at-the-age-of-88-he-was-the-world-s-longest-currently-serving-monarch.html)  [JSON](/news/2016/10/13/the-king-of-thailand-bhumibol-adulyadej-dies-at-the-age-of-88-he-was-the-world-s-longest-currently-serving-monarch.json)  [XML](/news/2016/10/13/the-king-of-thailand-bhumibol-adulyadej-dies-at-the-age-of-88-he-was-the-world-s-longest-currently-serving-monarch.xml)  
+
 ### [2016-10-13](/news/2016/10/13/index.md)
 
 # The King of Thailand Bhumibol Adulyadej dies at the age of 88. He was the world's longest currently serving monarch. 
@@ -5,7 +8,7 @@
 Thailand&#039;s King Bhumibol Adulyadej, the world&#039;s longest-reigning monarch, has died after a long illness.
 
 
-### Source:
+### Sources:
 
 1. [The Canberra Times](http://www.canberratimes.com.au/world/thai-king-bhumibol-adulyadej-dies-at-88-20140826-108vr7.html)
 1. [Cover Image](http://www.canberratimes.com.au/content/dam/images/1/0/8/w/r/u/image.related.socialLead.620x349.108vr7.png/1476409917014.jpg)

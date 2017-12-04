@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.html)  [JSON](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.json)  [XML](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # Russian border patrol officers open fire on a North Korean fishing vessel, leaving one fisherman dead, and eight others injured. 
@@ -5,15 +8,15 @@
 Russian border patrol was forced to open fire during inspection of a fishing vessel with North Korean crew onboard. The crew resisted search, behaved aggressively, and tried to flee with the members of the Russian security forces on board, according to the Russian Federal Security Service (FSB).
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/362896-russian-border-patrol-north-korea/)
 1. [Cover Image](https://img.rt.com/files/2016.10/article/5802610cc461889c1c8b45da.jpg)
 
 ### Related:
 
-1. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-2. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
-3. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: North Korea_
-4. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: North Korea_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: North Korea_
+1. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
+2. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
+3. [North Korea fires another missile in a test, landing in the Sea of Japan. ](/news/2017/11/28/north-korea-fires-another-missile-in-a-test-landing-in-the-sea-of-japan.md) _Context: North Korea_
+4. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: North Korea_
+5. [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md) _Context: North Korea_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.html)  [JSON](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.json)  [XML](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.xml)  
+
 ### [2016-10-17](/news/2016/10/17/index.md)
 
 # An explosion and fire in Ludwigshafen, at the largest production site of BASF in Germany, kills at least two people and injures six more with two people still missing. BASF is the world's biggest chemical producer. 
@@ -7,8 +10,8 @@
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-basf-blast-fire-idUSKBN12H12R)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157814556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G18T)
+1. [Reuters](https://www.reuters.com/article/us-basf-blast-fire-idUSKBN12H12R)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161017&t=2&i=1157814556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9G18T)
 
 ### Related:
 

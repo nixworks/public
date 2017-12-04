@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.html)  [JSON](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.json)  [XML](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.xml)  
+
 ### [2016-10-15](/news/2016/10/15/index.md)
 
 # Police in China detain 75 people in connection with a service that determined the female gender of unborn babies for the purpose of abortion. Authorities say that at least 300 people were involved in the illegal service in the eastern Chinese province of Zhejiang. Expectant parents wanting male children smuggled fetal blood samples to Hong Kong for gender testing. China ended its one-child policy last year. 
@@ -5,7 +8,7 @@
 Police in China detain 75 people in connection with a widespread network that illegally determined the gender of unborn babies.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37667917)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DAC4/production/_91940065_mediaitem91938854.jpg)
