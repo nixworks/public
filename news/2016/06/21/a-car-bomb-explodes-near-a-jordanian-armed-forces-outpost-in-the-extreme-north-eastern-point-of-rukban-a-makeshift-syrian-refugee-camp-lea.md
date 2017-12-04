@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/21/a-car-bomb-explodes-near-a-jordanian-armed-forces-outpost-in-the-extreme-north-eastern-point-of-rukban-a-makeshift-syrian-refugee-camp-lea.html)  [JSON](/news/2016/06/21/a-car-bomb-explodes-near-a-jordanian-armed-forces-outpost-in-the-extreme-north-eastern-point-of-rukban-a-makeshift-syrian-refugee-camp-lea.json)  [XML](/news/2016/06/21/a-car-bomb-explodes-near-a-jordanian-armed-forces-outpost-in-the-extreme-north-eastern-point-of-rukban-a-makeshift-syrian-refugee-camp-lea.xml)  
+
 ### [2016-06-21](/news/2016/06/21/index.md)
 
 # A car-bomb explodes near a Jordanian Armed Forces outpost in the extreme north-eastern point of Rukban, a makeshift Syrian refugee camp, leaving 6 soldiers dead and 14 injured. 
@@ -5,7 +8,7 @@
 Six Jordanian security personnel are killed in a suicide truck bomb attack near a makeshift refugee camp on the border with Syria, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36584885)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/46CC/production/_90042181_mediaitem90042180.jpg)

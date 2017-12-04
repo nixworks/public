@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.html)  [JSON](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.json)  [XML](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.xml)  
+
 ### [2016-06-24](/news/2016/06/24/index.md)
 
 # Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. 
@@ -5,7 +8,7 @@
 YEREVAN, Armenia (AP) — Pope Francis heads to Armenia&#039;s genocide memorial for a prayer service, fresh from his ad-libbed declaration that the Ottoman-era massacre of Armenians a century ago was a planned &quot;genocide.&quot; Francis…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/6279f5487d144d8d965c4030837a252a/pope-bringing-message-peace-armenia-and-beyond)
 2. [NPR](http://www.npr.org/sections/parallels/2016/06/24/483238766/in-armenia-visit-pope-aims-for-reconciliation-in-a-tense-region)

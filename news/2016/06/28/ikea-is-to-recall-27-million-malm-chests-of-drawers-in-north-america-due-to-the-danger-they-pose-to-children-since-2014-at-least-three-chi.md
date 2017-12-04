@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/28/ikea-is-to-recall-27-million-malm-chests-of-drawers-in-north-america-due-to-the-danger-they-pose-to-children-since-2014-at-least-three-chi.html)  [JSON](/news/2016/06/28/ikea-is-to-recall-27-million-malm-chests-of-drawers-in-north-america-due-to-the-danger-they-pose-to-children-since-2014-at-least-three-chi.json)  [XML](/news/2016/06/28/ikea-is-to-recall-27-million-malm-chests-of-drawers-in-north-america-due-to-the-danger-they-pose-to-children-since-2014-at-least-three-chi.xml)  
+
 ### [2016-06-28](/news/2016/06/28/index.md)
 
 # IKEA is to recall 27 million Malm chests of drawers in North America due to the danger they pose to children. Since 2014, at least three children have died when the drawers toppled over on them. 
@@ -5,7 +8,7 @@
 Ikea is to recall 29 million Malm chests of drawers in North America after the deaths of three children in the US.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-36648589)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16F1F/production/_90138939_ikea2.jpg)

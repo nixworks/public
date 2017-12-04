@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-sentenced-to-prison-for-nine-years-after-being-found-guilty-of-corruption-and-abuse-of-power.html)  [JSON](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-sentenced-to-prison-for-nine-years-after-being-found-guilty-of-corruption-and-abuse-of-power.json)  [XML](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-sentenced-to-prison-for-nine-years-after-being-found-guilty-of-corruption-and-abuse-of-power.xml)  
+
 ### [2016-06-27](/news/2016/06/27/index.md)
 
 # Former Moldovan Prime Minister Vlad Filat is sentenced to prison for nine years after being found guilty of corruption and abuse of power. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/moldova-former-prime-minister-filat-jailed-9-years/27823377.html)
 

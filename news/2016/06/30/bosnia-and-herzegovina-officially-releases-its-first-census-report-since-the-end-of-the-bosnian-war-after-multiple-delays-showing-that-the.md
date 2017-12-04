@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/30/bosnia-and-herzegovina-officially-releases-its-first-census-report-since-the-end-of-the-bosnian-war-after-multiple-delays-showing-that-the.html)  [JSON](/news/2016/06/30/bosnia-and-herzegovina-officially-releases-its-first-census-report-since-the-end-of-the-bosnian-war-after-multiple-delays-showing-that-the.json)  [XML](/news/2016/06/30/bosnia-and-herzegovina-officially-releases-its-first-census-report-since-the-end-of-the-bosnian-war-after-multiple-delays-showing-that-the.xml)  
+
 ### [2016-06-30](/news/2016/06/30/index.md)
 
 # Bosnia and Herzegovina officially releases its first census report since the end of the Bosnian War after multiple delays, showing that the country had lost one fifth of its population from 4.4 million to 3.5 million between then and 2013. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/bosnia-census/27830764.html)
 

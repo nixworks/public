@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.html)  [JSON](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.json)  [XML](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.xml)  
+
 ### [2016-06-30](/news/2016/06/30/index.md)
 
 # Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. 
@@ -5,11 +8,16 @@
 102 lawmakers voted in favor of the agreement, while 8 voted against.
 
 
-### Source:
+### Sources:
 
 1. [Armenpress](https://armenpress.am/eng/news/852784/armenian-lawmakers-ratify-agreement-on-forming-armenia-russia-joint-air-defense-system.html)
-2. [Reuters](http://www.reuters.com/article/us-armenia-russia-defence-idUSKCN0ZG2AS)
+2. [Reuters](https://www.reuters.com/article/us-armenia-russia-defence-idUSKCN0ZG2AS)
 2. [Cover Image](https://armenpress.am/static/news/b/2016/06/852784.jpg)
+
+### Changes:
+
+1. [Armenia-Russia relations: Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-russia-relations-armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-syste.md) _2017-08-27 03:46:23 (First version)_
+1. [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Armenia, Russia_
 4. [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md) _Context: Armenia, Russia_
 5. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md) _Context: Air Defense, Russia_
-
-### Changes:
-
-1. [Armenia-Russia relations: Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-russia-relations-armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-syste.md) _2017-08-27 03:46:23 (First version)_
-1. [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _(Current version)_

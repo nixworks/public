@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/25/a-petition-calling-for-a-second-eu-referendum-has-topped-two-million-signatures-a-more-than-doubling-the-highest-signed-in-uk-parliamentar.html)  [JSON](/news/2016/06/25/a-petition-calling-for-a-second-eu-referendum-has-topped-two-million-signatures-a-more-than-doubling-the-highest-signed-in-uk-parliamentar.json)  [XML](/news/2016/06/25/a-petition-calling-for-a-second-eu-referendum-has-topped-two-million-signatures-a-more-than-doubling-the-highest-signed-in-uk-parliamentar.xml)  
+
 ### [2016-06-25](/news/2016/06/25/index.md)
 
 # A petition calling for a second EU referendum has topped two million signatures - more than doubling the highest signed in UK parliamentary history. 
@@ -5,7 +8,7 @@
 Shadow foreign secretary Hilary Benn is sacked from the shadow cabinet amid claims he was encouraging Labour ministers to resign if Jeremy Corbyn ignored a no confidence vote outcome.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-36632539)
 2. [Daily Mirror](http://www.mirror.co.uk/news/uk-news/brexit-petition-hits-two-million-8281945)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/1/four-hungarian-defence-force-soldiers-are-killed-and-one-is-injured-following-an-explosion-at-a-military-firing-range-in-eastern-hungary.html)  [JSON](/news/2016/07/1/four-hungarian-defence-force-soldiers-are-killed-and-one-is-injured-following-an-explosion-at-a-military-firing-range-in-eastern-hungary.json)  [XML](/news/2016/07/1/four-hungarian-defence-force-soldiers-are-killed-and-one-is-injured-following-an-explosion-at-a-military-firing-range-in-eastern-hungary.xml)  
+
 ### [2016-07-1](/news/2016/07/1/index.md)
 
 # Four Hungarian Defence Force soldiers are killed and one is injured following an explosion at a military firing range in eastern Hungary. 
@@ -5,10 +8,10 @@
 Four soldiers were killed and one injured in an explosion at a military firing range in eastern Hungary on Friday, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-hungary-blast-idUSKCN0ZH56V)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-hungary-blast-idUSKCN0ZH56V)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

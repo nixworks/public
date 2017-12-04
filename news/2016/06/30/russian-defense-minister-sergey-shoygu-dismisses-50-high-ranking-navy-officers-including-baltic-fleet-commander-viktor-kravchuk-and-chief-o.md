@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.html)  [JSON](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.json)  [XML](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.xml)  
+
 ### [2016-06-30](/news/2016/06/30/index.md)
 
 # Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. 
@@ -5,11 +8,16 @@
 Russian Defense Minister Sergei Shoigu has sacked the commander of the Baltic Fleet and his chief of staff for &quot;dereliction of duty&quot; and &quot;distortion of the real state of things&quot;, Russian media reported on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-military-sackings-idUSKCN0ZF1DB)
+1. [Reuters](https://www.reuters.com/article/us-russia-military-sackings-idUSKCN0ZF1DB)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/06/30/Russia-dismisses-50-high-ranking-officers-of-Baltic-Fleet/1261467292656/)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160629&t=2&i=1143393572&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5S0SE)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160629&t=2&i=1143393572&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5S0SE)
+
+### Changes:
+
+1. [Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief.md) _2017-08-25 03:46:00 (First version)_
+1. [Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Russian Defense Minister Sergei Shoigu has sacked the commander of the Baltic Fl
 3. [Russian ministers led by Foreign Affairs Minister Sergey Lavrov including Defense Minister Sergey Shoygu arrive in Cairo and meet with their Egyptian counterparts including the head of Egypt's military General Abdel Fattah el-Sisi in talks over a new era of enhanced military co-operation. ](/news/2013/11/14/russian-ministers-led-by-foreign-affairs-minister-sergey-lavrov-including-defense-minister-sergey-shoygu-arrive-in-cairo-and-meet-with-their.md) _Context: Russia, Russian Defence Ministry, Sergey Shoygu_
 4. [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md) _Context: Russia, Russian Defence Ministry_
 5. [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md) _Context: Russia, Russian Defence Ministry_
-
-### Changes:
-
-1. [Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief.md) _2017-08-25 03:46:00 (First version)_
-1. [Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.md) _(Current version)_

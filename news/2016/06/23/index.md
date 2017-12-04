@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/23/index.html)  [JSON](2016/06/23/index.json)  [XML](2016/06/23/index.xml)  
+
 ## [2016-06-23](/news/2016/06/23/index.md)
 
 ### [According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp-for-those-fleeing-boko.md)
@@ -31,7 +34,7 @@ _Context: Baltimore, death of Freddie Gray_
 _Context: Germany, Viernheim, Viernheim shooting_
 
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: EU, European Union membership referendum, United Kingdom_
+_Context: European Union, European Union membership referendum, United Kingdom_
 
 ### [The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country-between-the-two-side.md)
 The Colombian government and leftist Farc rebels sign a ceasefire deal to end five decades of conflict which claimed some 220,000 lives.

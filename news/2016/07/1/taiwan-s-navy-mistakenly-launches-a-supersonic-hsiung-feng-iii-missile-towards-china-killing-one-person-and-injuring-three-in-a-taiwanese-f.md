@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/1/taiwan-s-navy-mistakenly-launches-a-supersonic-hsiung-feng-iii-missile-towards-china-killing-one-person-and-injuring-three-in-a-taiwanese-f.html)  [JSON](/news/2016/07/1/taiwan-s-navy-mistakenly-launches-a-supersonic-hsiung-feng-iii-missile-towards-china-killing-one-person-and-injuring-three-in-a-taiwanese-f.json)  [XML](/news/2016/07/1/taiwan-s-navy-mistakenly-launches-a-supersonic-hsiung-feng-iii-missile-towards-china-killing-one-person-and-injuring-three-in-a-taiwanese-f.xml)  
+
 ### [2016-07-1](/news/2016/07/1/index.md)
 
 # Taiwan's navy mistakenly launches a supersonic Hsiung Feng III missile towards China, killing one person and injuring three in a Taiwanese fishing boat. 
@@ -5,7 +8,7 @@
 Taipei says launch of Hsiung-feng III missile during drill in Tsoying could have been due to human error
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36680899)
 2. [The Guardian](https://www.theguardian.com/world/2016/jul/01/taiwanese-warship-missile-china-hsiung-feng-iii)

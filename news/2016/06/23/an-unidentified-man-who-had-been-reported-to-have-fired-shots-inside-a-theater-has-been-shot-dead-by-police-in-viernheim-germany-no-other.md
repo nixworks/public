@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.html)  [JSON](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.json)  [XML](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.xml)  
+
 ### [2016-06-23](/news/2016/06/23/index.md)
 
 # An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-36610068)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2C03/production/_90076211_mediaitem90076210.jpg)
+
+### Changes:
+
+1. [Viernheim shooting: An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/viernheim-shooting-an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim.md) _2017-08-27 03:46:19 (First version)_
+1. [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
 4. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
 5. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_
-
-### Changes:
-
-1. [Viernheim shooting: An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/viernheim-shooting-an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim.md) _2017-08-27 03:46:19 (First version)_
-1. [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md) _(Current version)_

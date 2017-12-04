@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/21/index.html)  [JSON](2016/06/21/index.json)  [XML](2016/06/21/index.xml)  
+
 ## [2016-06-21](/news/2016/06/21/index.md)
 
 ### [A car-bomb explodes near a Jordanian Armed Forces outpost in the extreme north-eastern point of Rukban, a makeshift Syrian refugee camp, leaving 6 soldiers dead and 14 injured. ](/news/2016/06/21/a-car-bomb-explodes-near-a-jordanian-armed-forces-outpost-in-the-extreme-north-eastern-point-of-rukban-a-makeshift-syrian-refugee-camp-lea.md)

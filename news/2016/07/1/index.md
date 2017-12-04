@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/1/index.html)  [JSON](2016/07/1/index.json)  [XML](2016/07/1/index.xml)  
+
 ## [2016-07-1](/news/2016/07/1/index.md)
 
 ### [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md)

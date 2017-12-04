@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.html)  [JSON](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.json)  [XML](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.xml)  
+
 ### [2016-06-29](/news/2016/06/29/index.md)
 
 # Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. 
@@ -5,7 +8,7 @@
 As Irish and Scottish nationalists continue to refuse to accept the outcome of last week&amp;#8217;s EU referendum, the Prime Minister has said that legally there is no prospect of Northern Ireland or Scotland retaining EU membership.
 
 
-### Source:
+### Sources:
 
 1. [New Europe](https://www.neweurope.eu/article/scottish-north-irish-meps-want-countries-stay-eu/)
 2. [The News Letter](http://www.newsletter.co.uk/news/northern-ireland-news/pm-says-legal-advice-is-clear-scotland-and-ni-bound-by-brexit-vote-1-7455432)

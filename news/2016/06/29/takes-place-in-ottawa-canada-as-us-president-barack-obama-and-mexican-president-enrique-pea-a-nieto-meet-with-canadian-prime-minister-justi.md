@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/29/takes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-president-enrique-pea-a-nieto-meet-with-canadian-prime-minister-justi.html)  [JSON](/news/2016/06/29/takes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-president-enrique-pea-a-nieto-meet-with-canadian-prime-minister-justi.json)  [XML](/news/2016/06/29/takes-place-in-ottawa-canada-as-us-president-barack-obama-and-mexican-president-enrique-pea-a-nieto-meet-with-canadian-prime-minister-justi.xml)  
+
 ### [2016-06-29](/news/2016/06/29/index.md)
 
 # Takes place in Ottawa, Canada as US President Barack Obama and Mexican President Enrique Pena Nieto meet with Canadian Prime Minister Justin Trudeau. President Obama later gives a special address to the Parliament of Canada. 
@@ -5,7 +8,7 @@
 The American president&rsquo;s speech to the House of Commons will inevitably be described as historic, because Canadians still really love Barack Obama. We think he might secretly be Canadian. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/trudeau-obama-ottawa-meeing-macdonald-1.3658538)
 2. [Toronto Star](https://www.thestar.com/news/canada/2016/06/29/climate-deal-caps-north-american-leaders-summit.html)

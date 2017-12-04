@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/28/the-european-parliament-s-first-debate-on-the-uk-s-vote-to-leave-is-marked-by-bitter-exchanges-as-prominent-pro-brexit-figure-nigel-farage-i.html)  [JSON](/news/2016/06/28/the-european-parliament-s-first-debate-on-the-uk-s-vote-to-leave-is-marked-by-bitter-exchanges-as-prominent-pro-brexit-figure-nigel-farage-i.json)  [XML](/news/2016/06/28/the-european-parliament-s-first-debate-on-the-uk-s-vote-to-leave-is-marked-by-bitter-exchanges-as-prominent-pro-brexit-figure-nigel-farage-i.xml)  
+
 ### [2016-06-28](/news/2016/06/28/index.md)
 
 # The European Parliament's first debate on the UK's vote to leave is marked by bitter exchanges as prominent pro-Brexit figure Nigel Farage is booed and heckled by members of the European Parliament and European Commission President Jean-Claude Juncker is heckled after saying that he is neither a robot nor a bureaucrat. 
@@ -5,12 +8,12 @@
 Prime minister speaks in Brussels as Osborne rules himself out as successor, and Jeremy Corbyn awaits result of no-confidence vote from Labour MPs
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36648664)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3663868/Wish-weren-t-Dave-Latest-humiliation-PM-arrives-Brussels-explain-let-Brexit-happen-EU-hastily-runs-Union-flag.html)
-3. [Reuters](http://www.reuters.com/article/us-britain-eu-scotland-idUSKCN0ZE1HR)
-4. [The Guardian](http://www.theguardian.com/politics/live/2016/jun/28/brexit-live-cameron-eu-leaders-brussels-corbyn-confidence)
+3. [Reuters](https://www.reuters.com/article/us-britain-eu-scotland-idUSKCN0ZE1HR)
+4. [The Guardian](https://www.theguardian.com/politics/live/2016/jun/28/brexit-live-cameron-eu-leaders-brussels-corbyn-confidence)
 5. [Time](http://time.com/4385307/brexit-nicola-sturgeon-referendum-scotland-martin-schulz-eu/)
 5. [Cover Image](https://i.guim.co.uk/img/media/76f41e619475ec7f58ff88858128faf1f1f6ffa7/0_0_4096_2457/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fd79c94e241e3d0d669f8bb056012261)
 

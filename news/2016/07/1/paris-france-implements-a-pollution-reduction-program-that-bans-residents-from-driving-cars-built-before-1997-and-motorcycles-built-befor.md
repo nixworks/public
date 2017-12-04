@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/1/paris-france-implements-a-pollution-reduction-program-that-bans-residents-from-driving-cars-built-before-1997-and-motorcycles-built-befor.html)  [JSON](/news/2016/07/1/paris-france-implements-a-pollution-reduction-program-that-bans-residents-from-driving-cars-built-before-1997-and-motorcycles-built-befor.json)  [XML](/news/2016/07/1/paris-france-implements-a-pollution-reduction-program-that-bans-residents-from-driving-cars-built-before-1997-and-motorcycles-built-befor.xml)  
+
 ### [2016-07-1](/news/2016/07/1/index.md)
 
 # Paris, France, implements a pollution-reduction program that bans residents from driving cars built before 1997, and motorcycles built before 2000, on weekdays inside the city limits between 8 a.m. and 8 p.m. 
@@ -5,7 +8,7 @@
 The city is banning pre-1997 cars and pre-2000 motorcycles from the streets in daylight hours during the week — a move opposed by some advocates for the poor and vintage car collectors.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/parallels/2016/07/01/484381708/to-fight-pollution-paris-imposes-weekday-ban-on-old-cars)
 1. [Cover Image](https://media.npr.org/assets/img/2016/07/01/gettyimages-544036228_wide-7b423c497150cd737714ad3420c812a03c134036.jpg?s=1400)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/30/index.html)  [JSON](2016/06/30/index.json)  [XML](2016/06/30/index.xml)  
+
 ## [2016-06-30](/news/2016/06/30/index.md)
 
 ### [An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. ](/news/2016/06/30/an-afghan-national-security-forces-convoy-outside-kabul-is-attacked-in-a-coordinated-ambush-including-suicide-bombers-and-heavy-machine-guns.md)
@@ -17,9 +20,6 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 
 ### [The Hershey Company rejects a $23 billion takeover bid by rival Mondelez International, maker of Oreo cookies and Cadbury chocolates. ](/news/2016/06/30/the-hershey-company-rejects-a-23-billion-takeover-bid-by-rival-mondelez-international-maker-of-oreo-cookies-and-cadbury-chocolates.md)
 _Context: Cadbury chocolates, Mondelez International, Oreo cookies, The Hershey Company_
-
-### [The Governor of Puerto Rico authorizes the suspension of payments on the general obligation debt of that commonwealth, assuring a default on the $1.9 billion of debt payments due the following day. ](/news/2016/06/30/the-governor-of-puerto-rico-authorizes-the-suspension-of-payments-on-the-general-obligation-debt-of-that-commonwealth-assuring-a-default-on.md)
-_Context: Puerto Rico, general obligation_
 
 ### [At least 10 people drown off the coast of Libya when their dinghy sinks. The Italian Navy managed to rescue over 100 more people. ](/news/2016/06/30/at-least-10-people-drown-off-the-coast-of-libya-when-their-dinghy-sinks-the-italian-navy-managed-to-rescue-over-100-more-people.md)
 At least 10 people drown when their inflatable boat capsizes, as Italy raises to the surface a boat that sank with the loss of 700 lives.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/1/canada-announces-that-it-will-deploy-1-000-soldiers-of-the-canadian-armed-forces-to-latvia-to-bolster-one-of-the-four-nato-battalions-statio.html)  [JSON](/news/2016/07/1/canada-announces-that-it-will-deploy-1-000-soldiers-of-the-canadian-armed-forces-to-latvia-to-bolster-one-of-the-four-nato-battalions-statio.json)  [XML](/news/2016/07/1/canada-announces-that-it-will-deploy-1-000-soldiers-of-the-canadian-armed-forces-to-latvia-to-bolster-one-of-the-four-nato-battalions-statio.xml)  
+
 ### [2016-07-1](/news/2016/07/1/index.md)
 
 # Canada announces that it will deploy 1,000 soldiers of the Canadian Armed Forces to Latvia to bolster one of the four NATO battalions stationed there. 
@@ -5,7 +8,7 @@
 With US, UK and Germany, Canada will lead a high-readiness brigade of Nato’s enhanced presence in Europe
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/01/canada-to-send-1000-soldiers-to-boost-nato-presence-on-russia-border)
 1. [Cover Image](https://i.guim.co.uk/img/media/69aa6b8fe51e70d75b7d62dd2bacd0f823a1fd0b/0_65_3515_2109/3515.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8f77aa06010367ecea39b0b011fbe443)

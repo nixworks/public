@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.html)  [JSON](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.json)  [XML](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.xml)  
+
 ### [2016-06-25](/news/2016/06/25/index.md)
 
 # The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. 
 
-The worst flooding in 100 years partially inundates towns and the Greenbrier Resort.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/2016/06/24/2-dead-floods-sweep-west-virginia/86329316/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/2016/06/24/2-dead-floods-sweep-west-virginia/86329316/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+
+### Changes:
+
+1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _2017-08-25 03:45:58 (First version)_
+2. [2016 West Virginia flood: The Kanawha County sheriff's office reports the death toll is now 26-three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/2016-west-virginia-flood-the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26-three-more-victims-were-found-overnight-it.md) _2017-08-27 03:46:20 (Update)_
+2. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ The worst flooding in 100 years partially inundates towns and the Greenbrier Res
 3. [ Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. ](/news/2016/06/27/two-men-initially-thought-to-have-died-when-a-camper-was-swept-away-in-greenbrier-county-are-found-alive-lowering-the-death-toll-from-the.md) _Context: 2016 West Virginia flood_
 4. [Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican-presidential-primaries-voters-in-the-state.md) _Context: West Virginia_
 5. [The United States Federal Government recognizes same-sex marriage in Alaska, Arizona, Idaho, North Carolina, West Virginia and Wyoming, bringing the total number of states with recognition of gay marriage to 32. ](/news/2014/10/25/the-united-states-federal-government-recognizes-same-sex-marriage-in-alaska-arizona-idaho-north-carolina-west-virginia-and-wyoming-brin.md) _Context: West Virginia_
-
-### Changes:
-
-1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _2017-08-25 03:45:58 (First version)_
-2. [2016 West Virginia flood: The Kanawha County sheriff's office reports the death toll is now 26-three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/2016-west-virginia-flood-the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26-three-more-victims-were-found-overnight-it.md) _2017-08-27 03:46:20 (Update)_
-2. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md) _(Current version)_

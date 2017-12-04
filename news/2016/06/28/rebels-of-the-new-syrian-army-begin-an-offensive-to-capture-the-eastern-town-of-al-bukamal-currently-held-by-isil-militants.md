@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.html)  [JSON](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.json)  [XML](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.xml)  
+
 ### [2016-06-28](/news/2016/06/28/index.md)
 
 # Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. 
@@ -5,19 +8,19 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/syrian-rebels-recapturing-islamic-state-town/27826764.html)
-
-### Related:
-
-1. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL, Syrian Civil War_
-2. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: ISIL, Syrian Civil War_
-3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: ISIL, Syrian Civil War_
-4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
-5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: ISIL, Syrian Civil War_
 
 ### Changes:
 
 1. [Syrian Civil War: Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/syrian-civil-war-rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militan.md) _2017-08-27 03:46:21 (First version)_
 1. [Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.md) _(Current version)_
+
+### Related:
+
+1. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
+2. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: ISIL, Syrian Civil War_
+3. [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md) _Context: ISIL, Syrian Civil War_
+4. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: ISIL, Syrian Civil War_
+5. [ISIL regains control of Abu Kamal. ](/news/2017/11/11/isil-regains-control-of-abu-kamal.md) _Context: ISIL, Syrian Civil War_

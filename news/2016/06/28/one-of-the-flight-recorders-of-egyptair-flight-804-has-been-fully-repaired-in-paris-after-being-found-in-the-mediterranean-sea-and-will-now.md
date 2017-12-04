@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.html)  [JSON](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.json)  [XML](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.xml)  
+
 ### [2016-06-28](/news/2016/06/28/index.md)
 
 # One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. 
@@ -5,10 +8,15 @@
 One of the flight recorders of crashed EgyptAir flight MS804 has been successfully repaired in Paris and is to be sent back to Cairo for analysis.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/06/28/flight-recorder-of-crashed-egyptair-flight-is-repaired/)
 1. [Cover Image](http://static.euronews.com/articles/336903/1000x563_336903.jpg)
+
+### Changes:
+
+1. [EgyptAir Flight 804: One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/egyptair-flight-804-one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterran.md) _2017-08-27 03:46:21 (First version)_
+1. [One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ One of the flight recorders of crashed EgyptAir flight MS804 has been successful
 3. [A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. ](/news/2016/06/15/a-deep-sea-search-vessel-discovers-the-wreckage-of-the-lost-aircraft-in-the-mediterranean-sea.md) _Context: EgyptAir Flight 804, Mediterranean Sea_
 4. [Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-of.md) _Context: EgyptAir Flight 804, Mediterranean Sea_
 5. [More than 400 migrants, mostly from Somalia, drown in the Mediterranean Sea while traveling from Egypt to Italy. ](/news/2016/04/18/more-than-400-migrants-mostly-from-somalia-drown-in-the-mediterranean-sea-while-traveling-from-egypt-to-italy.md) _Context: Egypt, Mediterranean Sea_
-
-### Changes:
-
-1. [EgyptAir Flight 804: One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/egyptair-flight-804-one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterran.md) _2017-08-27 03:46:21 (First version)_
-1. [One of the flight recorders of EgyptAir Flight 804 has been fully repaired in Paris after being found in the Mediterranean Sea and will now be sent to Egypt to be analyzed. ](/news/2016/06/28/one-of-the-flight-recorders-of-egyptair-flight-804-has-been-fully-repaired-in-paris-after-being-found-in-the-mediterranean-sea-and-will-now.md) _(Current version)_

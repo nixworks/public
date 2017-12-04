@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.html)  [JSON](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.json)  [XML](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.xml)  
+
 ### [2016-06-23](/news/2016/06/23/index.md)
 
 # The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. 
@@ -5,9 +8,14 @@
 Peacekeepers reprimanded over &quot;lack of responsiveness&quot; during deadly attack on refugee camp in Malakal in February.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/06/send-peacekeepers-home-south-sudan-inaction-160623060004340.html)
+
+### Changes:
+
+1. [South Sudanese Civil War: The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/south-sudanese-civil-war-the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-du.md) _2017-08-27 03:46:19 (First version)_
+1. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Peacekeepers reprimanded over &quot;lack of responsiveness&quot; during deadly a
 3. [Fighting occurs between Shilluk and Dinka youths at a United Nations peacekeeping compound in the city of Malakal which lasts around three hours. Medecins Sans Frontieres reports at least 18 people are killed, including two MSF South Sudanese staff members, and dozens wounded. ](/news/2016/02/18/fighting-occurs-between-shilluk-and-dinka-youths-at-a-united-nations-peacekeeping-compound-in-the-city-of-malakal-which-lasts-around-three-h.md) _Context: Malakal, United Nations_
 4. [A suicide bombing at a UN patrol base in Mali results in the deaths of 2 UN peacekeepers and the injury of at least 7 others. ](/news/2014/08/17/a-suicide-bombing-at-a-un-patrol-base-in-mali-results-in-the-deaths-of-2-un-peacekeepers-and-the-injury-of-at-least-7-others.md) _Context: United Nations, peacekeepers_
 5. [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md) _Context: United Nations, peacekeepers_
-
-### Changes:
-
-1. [South Sudanese Civil War: The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/south-sudanese-civil-war-the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-du.md) _2017-08-27 03:46:19 (First version)_
-1. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _(Current version)_

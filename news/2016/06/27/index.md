@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/27/index.html)  [JSON](2016/06/27/index.json)  [XML](2016/06/27/index.xml)  
+
 ## [2016-06-27](/news/2016/06/27/index.md)
 
 ### [A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people-dead-and-13-people-injured.md)

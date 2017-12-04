@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.html)  [JSON](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.json)  [XML](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.xml)  
+
 ### [2016-06-21](/news/2016/06/21/index.md)
 
 # Five people, all foreign holidaymakers, are killed and 23 are injured when their bus swerves off a highway en route to Belgrade, Serbia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/serbia-bus-cash-dead-czechs-slovaks/27811664.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/25/index.html)  [JSON](2016/06/25/index.json)  [XML](2016/06/25/index.xml)  
+
 ## [2016-06-25](/news/2016/06/25/index.md)
 
 ### [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md)
@@ -13,7 +16,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 Islamic extremist group al-Shabab on Saturday claimed responsibility for the latest in a series of hotel attacks in Mogadishu.
 
 ### [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md)
-The worst flooding in 100 years partially inundates towns and the Greenbrier Resort.
+_Context: 2016 West Virginia flood, Kanawha County, West Virginia_
 
 ### [Two women and seven men of the Extra Young Ohangla band die and eight other band members survive after their boat sinks in Lake Victoria at Kenya's Lihunda beach. The 15-member band was headed to Ndeda Island. ](/news/2016/06/25/two-women-and-seven-men-of-the-extra-young-ohangla-band-die-and-eight-other-band-members-survive-after-their-boat-sinks-in-lake-victoria-at.md)
 Nine people died on Saturday while eight others survived after a boat they were traveling in capsized in Lake Victoria at Liunda beach in BondoSub County.Two ladies and seven men who drowned were part of a local band that consisted of 15 members.The band was headed for a performance on Saturday even...

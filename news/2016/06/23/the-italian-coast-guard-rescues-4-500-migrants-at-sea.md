@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.html)  [JSON](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.json)  [XML](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.xml)  
+
 ### [2016-06-23](/news/2016/06/23/index.md)
 
 # The Italian Coast Guard rescues 4,500 migrants at sea. 
@@ -5,10 +8,15 @@
 Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Thursday, the Italian coastguard said, averting another potential high seas disaster. &quot;Around 5,000 people were saved in 43 rescue operations,&quot; the coastguard said in a statement. Most of the migrants were on the
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/4-500-people-rescued-med-italy-coastguard-165330685.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/f2K1f0ZbxZq62rQWHMjdug--/aD02NDY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ba3dc5180c510861a1a096b34911059e4473e8a3.jpg)
+
+### Changes:
+
+1. [European migration crisis: The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/european-migration-crisis-the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _2017-08-27 03:46:19 (First version)_
+1. [The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Th
 3. [The United Nations believes that at least 239 migrants drowned in shipwrecks near the coast of Libya. ](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.md) _Context: European migration crisis_
 4. [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard. ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md) _Context: Italian Coast Guard_
 5. [Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. ](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-the-mediterranean-sea-more-than-4-000-people-have-been-saved-at-sea-in-the-past-week.md) _Context: European migration crisis_
-
-### Changes:
-
-1. [European migration crisis: The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/european-migration-crisis-the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _2017-08-27 03:46:19 (First version)_
-1. [The Italian Coast Guard rescues 4,500 migrants at sea. ](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-at-sea.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.html)  [JSON](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.json)  [XML](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.xml)  
+
 ### [2016-06-30](/news/2016/06/30/index.md)
 
 # According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. 
@@ -5,10 +8,15 @@
 Preliminary and unofficial estimates suggest US-led coalition air strikes have killed 250 suspected fighters and destroyed at least 40 vehicles.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Euronews](http://www.euronews.com/2016/06/30/hundreds-of-isil-fighters-killed-in-falluja-reports/)
 1. [Cover Image](http://static.euronews.com/articles/337130/1000x563_337130.jpg)
+
+### Changes:
+
+1. [Iraqi Civil War (2014-present): According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/iraqi-civil-war-2014-present-according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-whil.md) _2017-08-27 03:46:22 (First version)_
+1. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Preliminary and unofficial estimates suggest US-led coalition air strikes have k
 3. [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md) _Context: Fallujah, ISIL, during fighting_
 4. [ The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-has-been-under-the-control-of-the-i.md) _Context: Fallujah, ISIL, Iraqi Civil War (2014-present)_
 5. [The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. ](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.md) _Context: ISIL, Iraqi Army, Iraqi Civil War (2014-present)_
-
-### Changes:
-
-1. [Iraqi Civil War (2014-present): According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/iraqi-civil-war-2014-present-according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-whil.md) _2017-08-27 03:46:22 (First version)_
-1. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _(Current version)_

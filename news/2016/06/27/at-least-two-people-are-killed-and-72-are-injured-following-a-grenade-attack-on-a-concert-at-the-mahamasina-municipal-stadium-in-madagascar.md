@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injured-following-a-grenade-attack-on-a-concert-at-the-mahamasina-municipal-stadium-in-madagascar.html)  [JSON](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injured-following-a-grenade-attack-on-a-concert-at-the-mahamasina-municipal-stadium-in-madagascar.json)  [XML](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injured-following-a-grenade-attack-on-a-concert-at-the-mahamasina-municipal-stadium-in-madagascar.xml)  
+
 ### [2016-06-27](/news/2016/06/27/index.md)
 
 # At least two people are killed and 72 are injured following a grenade attack on a concert at the Mahamasina Municipal Stadium in Madagascar's capital, Antananarivo. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-madagascar-blast-idUSKCN0ZD0KF)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-madagascar-blast-idUSKCN0ZD0KF)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

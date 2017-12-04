@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/28/index.html)  [JSON](2016/06/28/index.json)  [XML](2016/06/28/index.xml)  
+
 ## [2016-06-28](/news/2016/06/28/index.md)
 
 ### [Three Islamic State of Iraq and the Levant bombings in Yemen's southern port city of Al Mukalla kill 38 government forces and injure 24 others. ](/news/2016/06/28/three-islamic-state-of-iraq-and-the-levant-bombings-in-yemen-s-southern-port-city-of-al-mukalla-kill-38-government-forces-and-injure-24-othe.md)

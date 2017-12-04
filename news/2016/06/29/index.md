@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/29/index.html)  [JSON](2016/06/29/index.json)  [XML](2016/06/29/index.xml)  
+
 ## [2016-06-29](/news/2016/06/29/index.md)
 
 ### [The death toll from the attack on the Istanbul Ataturk Airport rises to 42. ](/news/2016/06/29/the-death-toll-from-the-attack-on-the-istanbul-atata1-4rk-airport-rises-to-42.md)

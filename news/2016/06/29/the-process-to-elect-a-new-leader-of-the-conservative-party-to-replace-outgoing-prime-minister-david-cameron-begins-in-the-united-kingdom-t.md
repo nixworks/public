@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.html)  [JSON](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.json)  [XML](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.xml)  
+
 ### [2016-06-29](/news/2016/06/29/index.md)
 
 # The process to elect a new leader of the Conservative Party to replace outgoing Prime Minister David Cameron begins in the United Kingdom. The Secretary of State for Work and Pensions Stephen Crabb is the first Conservative Party politician to announce his official candidacy for leader. 
@@ -5,7 +8,7 @@
 Theresa May and Andrea Leadsom are in the final round of the contest to become Conservative Party leader and prime minister. How will it unfold?
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-36618738)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16ADC/production/_90329829_mediaitem90329828.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.html)  [JSON](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.json)  [XML](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.xml)  
+
 ### [2016-06-30](/news/2016/06/30/index.md)
 
 # A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-blast-raids-idUSKCN0ZG0RM)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160630&t=2&i=1143574391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5T14W)
+1. [Reuters](https://www.reuters.com/article/us-turkey-blast-raids-idUSKCN0ZG0RM)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160630&t=2&i=1143574391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5T14W)
+
+### Changes:
+
+1. [2016 Istanbul airport attack: A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/2016-istanbul-airport-attack-a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded.md) _2017-08-27 03:46:23 (First version)_
+1. [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [ Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. ](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.md) _Context: Kyrgyzstan, Russia, Uzbekistan_
 4. [ The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. ](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.md) _Context: Kyrgyzstan, Russia, Uzbekistan_
 5. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL, Russia_
-
-### Changes:
-
-1. [2016 Istanbul airport attack: A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/2016-istanbul-airport-attack-a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded.md) _2017-08-27 03:46:23 (First version)_
-1. [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md) _(Current version)_
