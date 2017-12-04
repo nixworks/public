@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version-http-www-techinsight-com-about-techinsights-overview-blog-apple-iphone-7.html)  [JSON](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version-http-www-techinsight-com-about-techinsights-overview-blog-apple-iphone-7.json)  [XML](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version-http-www-techinsight-com-about-techinsights-overview-blog-apple-iphone-7.xml)  
+
 ### [2016-09-16](/news/2016/09/16/index.md)
 
 # The iPhone 7 was released by Apple, along with the Plus version. [http:--www.techinsight.com-about-techinsights-overview-blog-apple-iphone-7-teardown-]

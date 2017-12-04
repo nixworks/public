@@ -1,16 +1,16 @@
+
+Formats: [HTML](2016/09/16/index.html)  [JSON](2016/09/16/index.json)  [XML](2016/09/16/index.xml)  
+
 ## [2016-09-16](/news/2016/09/16/index.md)
 
 ### [A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar-claims-the-responsibility.md)
 At least 25 people have been killed in a suicide bombing claimed by a Taliban splinter group at a mosque in Pakistan. The blast struck as Muslims gathered for Friday prayers in the village of Payee Khan in Mohmand Agency district. “The suicide bomber was in crowded mosque, he shouted &#039;Allahu ...
 
-### [The iPhone 7 was released by Apple, along with the Plus version. [http:--www.techinsight.com-about-techinsights-overview-blog-apple-iphone-7-teardown-]](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version-http-www-techinsight-com-about-techinsights-overview-blog-apple-iphone-7.md)
-_Context: iPhone 7_
-
 ### [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md)
 At least eight people have been reported dead after a powerful typhoon lashed parts of southeastern China and Taiwan.
 
 ### [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md)
-_Context: Japan, Japan-United States relations, Obama Administration, South China Sea, South China Sea disputes, United States military personnel_
+_Context: Japan, Japan-United States relations, Obama administration, South China Sea, South China Sea disputes, United States military personnel_
 
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)
 An autistic man suspected of hacking into US government computer systems is to be extradited from Britain to face trial, a court rules.

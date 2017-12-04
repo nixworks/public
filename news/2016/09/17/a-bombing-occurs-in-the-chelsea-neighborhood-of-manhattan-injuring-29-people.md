@@ -1,21 +1,18 @@
 
-### Formats:
+Formats: [HTML](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.html)  [JSON](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.json)  [XML](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.xml)  
 
-* [HTML](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.html)
-* [JSON](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.json)
-* [XML](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. 
 
-The FBI said it was &quot;unaware of any known threat&quot; to public safety
+An explosion caused by what the authorities believe was a homemade bomb injured at least 29 people in the Chelsea neighborhood. A second explosive device was later found four blocks away.
 
 
 ### Sources:
 
 1. [Asbury Park Press](http://www.app.com/story/news/local/emergencies/2016/09/17/device-explodes-seaside-park-evacuated/90576408/)
-2. [The New York Times](http://www.nytimes.com/2016/09/18/nyregion/chelsea-explosion-new-york-city.html)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/app.png)
+2. [The New York Times](https://www.nytimes.com/2016/09/18/nyregion/chelsea-explosion-new-york-city.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-facebookJumbo-v2.jpg)
 
 ### Changes:
 

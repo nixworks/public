@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.html)  [JSON](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.json)  [XML](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.xml)  
+
 ### [2016-09-18](/news/2016/09/18/index.md)
 
 # Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Deseret News](http://www.deseretnews.com/article/865660691/President-Nelson-dedicates-Sapporo-Japan-Temple.html)
 1. [Cover Image](https://cdn.deseretnews.com/images/article/hires/1730820/1730820.jpg)

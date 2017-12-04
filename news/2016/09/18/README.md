@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/18/index.html)  [JSON](2016/09/18/index.json)  [XML](2016/09/18/index.xml)  
+
 ## [2016-09-18](/news/2016/09/18/index.md)
 
 ### [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md)

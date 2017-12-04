@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.html)  [JSON](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.json)  [XML](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.xml)  
+
 ### [2016-09-18](/news/2016/09/18/index.md)
 
 # Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. 
@@ -5,11 +8,16 @@
 Berliners will go to the polls on Sunday to vote in a state parliamentary election that could deal another blow to Chancellor Angela Merkel’s Christian Democrats.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-germany-election-idUKKCN11N0V9)
 2. [Sputnik News](https://sputniknews.com/europe/20160918/1045421592/berlin-parliamentary-election.html)
 2. [Cover Image](https://cdn3.img.sputniknews.com/images/103295/49/1032954904.jpg)
+
+### Changes:
+
+1. [Berlin state election, 2016: Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/berlin-state-election-2016-voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling.md) _2017-08-27 03:46:52 (First version)_
+1. [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Berliners will go to the polls on Sunday to vote in a state parliamentary electi
 3. [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md) _Context: Alternative for Germany, Germany_
 4. [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md) _Context: Berlin, Germany_
 5. [Police in Stuttgart, Germany, arrest at least 400 left-wing demonstrators after they attempted to stop a conference by the Alternative for Germany from being held. The protest grew violent when they began to throw stones and use fireworks against the police. ](/news/2016/04/30/police-in-stuttgart-germany-arrest-at-least-400-left-wing-demonstrators-after-they-attempted-to-stop-a-conference-by-the-alternative-for-g.md) _Context: Alternative for Germany, Germany_
-
-### Changes:
-
-1. [Berlin state election, 2016: Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/berlin-state-election-2016-voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling.md) _2017-08-27 03:46:52 (First version)_
-1. [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md) _(Current version)_

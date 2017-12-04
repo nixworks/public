@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.html)  [JSON](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.json)  [XML](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.xml)  
+
 ### [2016-09-18](/news/2016/09/18/index.md)
 
 # Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. 
@@ -5,11 +8,16 @@
 At least 17 soldiers have been killed, while 4 militants were shot dead by Indian forces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-37399969)
 2. [International Business Times](http://www.ibtimes.co.uk/9-soldiers-killed-heavily-armed-militants-storm-indian-army-headquarters-near-pakistan-border-1581891)
 2. [Cover Image](http://d.ibtimes.co.uk/en/full/1550285/india-uri-army-base-terror-attack.jpg)
+
+### Changes:
+
+1. [Kashmir insurgency: Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/kashmir-insurgency-four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-m.md) _2017-08-27 03:46:52 (First version)_
+1. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ At least 17 soldiers have been killed, while 4 militants were shot dead by India
 3. [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md) _Context: Indian Army, Pakistan_
 4. [An Indian Army soldier is reported killed and another injured along the Line of Control on the border with Pakistan in Kashmir. ](/news/2013/10/28/an-indian-army-soldier-is-reported-killed-and-another-injured-along-the-line-of-control-on-the-border-with-pakistan-in-kashmir.md) _Context: Indian Army, Pakistan_
 5. [2013 India-Pakistan border incidents: Five Indian Army soldiers are killed in an attack near the Pakistan border in the state of Jammu and Kashmir. ](/news/2013/08/6/2013-indiaapakistan-border-incidents-five-indian-army-soldiers-are-killed-in-an-attack-near-the-pakistan-border-in-the-state-of-jammu-and.md) _Context: Indian Army, Pakistan_
-
-### Changes:
-
-1. [Kashmir insurgency: Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/kashmir-insurgency-four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-m.md) _2017-08-27 03:46:52 (First version)_
-1. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _(Current version)_

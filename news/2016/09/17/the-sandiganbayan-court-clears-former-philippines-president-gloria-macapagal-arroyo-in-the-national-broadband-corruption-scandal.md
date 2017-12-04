@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.html)  [JSON](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.json)  [XML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.xml)  
 
-* [HTML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.html)
-* [JSON](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.json)
-* [XML](/news/2016/09/17/the-sandiganbayan-court-clears-former-philippines-president-gloria-macapagal-arroyo-in-the-national-broadband-corruption-scandal.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # The Sandiganbayan court clears former Philippines president Gloria Macapagal Arroyo in the national broadband corruption scandal. 

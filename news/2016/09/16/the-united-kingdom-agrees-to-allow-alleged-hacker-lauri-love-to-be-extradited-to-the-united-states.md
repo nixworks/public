@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.html)  [JSON](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.json)  [XML](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.xml)  
+
 ### [2016-09-16](/news/2016/09/16/index.md)
 
 # The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. 
@@ -5,7 +8,7 @@
 An autistic man suspected of hacking into US government computer systems is to be extradited from Britain to face trial, a court rules.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-england-suffolk-37385201)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/FA86/production/_91043146_mediaitem91043144.jpg)

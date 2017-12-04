@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2016/09/17/index.html)  [JSON](2016/09/17/index.json)  [XML](2016/09/17/index.xml)  
 
-* [HTML](2016/09/17/index.html)
-* [JSON](2016/09/17/index.json)
-* [XML](2016/09/17/index.xml)
 ## [2016-09-17](/news/2016/09/17/index.md)
 
 ### [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md)
@@ -13,7 +10,7 @@ The US-led coalition admits its planes carried out an attack in eastern Syria th
 Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released late Friday night their Norwegian kidnap victim Kjartan Sekkingstad at a remote village in Indanan, Sulu.
 
 ### [A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. ](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of-manhattan-injuring-29-people.md)
-The FBI said it was &quot;unaware of any known threat&quot; to public safety
+An explosion caused by what the authorities believe was a homemade bomb injured at least 29 people in the Chelsea neighborhood. A second explosive device was later found four blocks away.
 
 ### [A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-officer-shoots-dead-the-perpetra.md)
 _Context: Crossroads Center, St. Cloud, Minnesota, St. Cloud, Minnesota mall stabbing_

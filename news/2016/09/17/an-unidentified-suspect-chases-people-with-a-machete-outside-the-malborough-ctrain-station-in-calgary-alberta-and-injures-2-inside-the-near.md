@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.html)  [JSON](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.json)  [XML](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.xml)  
 
-* [HTML](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.html)
-* [JSON](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.json)
-* [XML](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-machete-outside-the-malborough-ctrain-station-in-calgary-alberta-and-injures-2-inside-the-near.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. 

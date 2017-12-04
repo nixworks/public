@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.html)  [JSON](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.json)  [XML](/news/2016/09/16/former-prime-minister-and-president-of-italy-carlo-azeglio-ciampi-dies-at-the-age-of-95.xml)  
+
 ### [2016-09-16](/news/2016/09/16/index.md)
 
 # Former Prime Minister and President of Italy Carlo Azeglio Ciampi dies at the age of 95. 
@@ -5,10 +8,10 @@
 Former Italian president, prime minister and central bank governor Carlo Azeglio Ciampi, who played a key role in guiding the country into the European single currency, has died, the government said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-italy-ciampi-idUSKCN11M100)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160916&t=2&i=1153777324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8F0N0)
+1. [Reuters](https://www.reuters.com/article/us-italy-ciampi-idUSKCN11M100)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160916&t=2&i=1153777324&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8F0N0)
 
 ### Related:
 

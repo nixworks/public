@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.html)  [JSON](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.json)  [XML](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.xml)  
 
-* [HTML](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.html)
-* [JSON](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.json)
-* [XML](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # President of the European Council Donald Tusk states that the UK could begin its formal process of withdrawing from the European Union early next year, after a meeting with Prime Minister Theresa May last week. 

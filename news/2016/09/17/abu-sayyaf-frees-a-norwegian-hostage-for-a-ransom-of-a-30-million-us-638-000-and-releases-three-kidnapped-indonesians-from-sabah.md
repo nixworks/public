@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.html)  [JSON](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.json)  [XML](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.xml)  
 
-* [HTML](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.html)
-* [JSON](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.json)
-* [XML](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.xml)
 ### [2016-09-17](/news/2016/09/17/index.md)
 
 # Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. 

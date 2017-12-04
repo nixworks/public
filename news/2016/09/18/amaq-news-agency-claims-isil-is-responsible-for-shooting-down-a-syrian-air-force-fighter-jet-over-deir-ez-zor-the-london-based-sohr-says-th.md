@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.html)  [JSON](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.json)  [XML](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.xml)  
+
 ### [2016-09-18](/news/2016/09/18/index.md)
 
 # Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. 
@@ -5,12 +8,17 @@
 Australian aircraft were involved in a US-led coalition operation which killed dozens of Syrian soldiers who were apparently mistaken for Islamic State fighters, the Defence Department has confirmed.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2016-09-18/australian-jets-involved-in-botched-air-strike-on-syrian-army/7855610)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/09/isil-shoots-syrian-military-jet-kills-pilot-160918100043248.html)
 3. [SANA](http://sana.sy/en/?p=88368)
 3. [Cover Image](http://www.abc.net.au/news/image/6713854-1x1-700x700.jpg)
+
+### Changes:
+
+1. [Syrian civil war: Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/syrian-civil-war-amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london.md) _2017-08-27 03:46:52 (First version)_
+1. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ Australian aircraft were involved in a US-led coalition operation which killed d
 3. [Airstrikes by Syrian or Russian warplanes on ISIL's de facto capital Al-Raqqah in northern Syria, leaves at least 39 people dead, according to the Syrian Observatory for Human Rights. Airstrikes on the city of Palmyra and nearby villages are said to have killed at least 18 ISIL militants, as the Syrian Army advance on the city. ](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.md) _Context: ISIL, Syrian, Syrian Civil War, Syrian Observatory for Human Rights_
 4. [The Syrian Observatory for Human Rights claims that scores of Syrian Army troops have been killed in fighting with the Islamic State of Iraq and the Levant over the past few days with the fiercest battles near the city of Deir ez-Zor. ](/news/2016/01/19/the-syrian-observatory-for-human-rights-claims-that-scores-of-syrian-army-troops-have-been-killed-in-fighting-with-the-islamic-state-of-iraq.md) _Context: Deir ez-Zor, ISIL, Syrian Civil War, Syrian Observatory for Human Rights_
 5. [At least 75 Syrian Army soldiers and pro-Assad militiamen are killed following a multi-front attack on the eastern Syrian city of Deir ez-Zor by Islamic State of Iraq and the Levant forces. The Syrian Observatory for Human Rights reports ISIL fighters had advanced into the northern tip of Deir ez-Zor city, and captured the suburb of Al-Baghaliyeh. The pro-government Syrian Arab News Agency (SANA) reports that government forces had repelled an attack on the city leaving dozens of militants dead. ](/news/2016/01/16/at-least-75-syrian-army-soldiers-and-pro-assad-militiamen-are-killed-following-a-multi-front-attack-on-the-eastern-syrian-city-of-deir-ez-zo.md) _Context: Deir ez-Zor, ISIL, Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [Syrian civil war: Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/syrian-civil-war-amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london.md) _2017-08-27 03:46:52 (First version)_
-1. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _(Current version)_
