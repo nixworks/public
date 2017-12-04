@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/9/a-court-sentences-former-communist-party-secretary-of-yunnan-province-bai-enpei-to-death-for-corruption-and-amassing-wealth-of-unclear-ori.html)  [JSON](/news/2016/10/9/a-court-sentences-former-communist-party-secretary-of-yunnan-province-bai-enpei-to-death-for-corruption-and-amassing-wealth-of-unclear-ori.json)  [XML](/news/2016/10/9/a-court-sentences-former-communist-party-secretary-of-yunnan-province-bai-enpei-to-death-for-corruption-and-amassing-wealth-of-unclear-ori.xml)  
+
 ### [2016-10-9](/news/2016/10/9/index.md)
 
 # A court sentences former Communist Party Secretary of Yunnan province, Bai Enpei, to death for corruption and amassing wealth of unclear origin. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/2026549/former-communist-party-boss-yunnan-province-spend-life)
 

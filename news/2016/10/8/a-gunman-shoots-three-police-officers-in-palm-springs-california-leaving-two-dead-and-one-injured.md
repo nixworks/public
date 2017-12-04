@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/8/a-gunman-shoots-three-police-officers-in-palm-springs-california-leaving-two-dead-and-one-injured.html)  [JSON](/news/2016/10/8/a-gunman-shoots-three-police-officers-in-palm-springs-california-leaving-two-dead-and-one-injured.json)  [XML](/news/2016/10/8/a-gunman-shoots-three-police-officers-in-palm-springs-california-leaving-two-dead-and-one-injured.xml)  
+
 ### [2016-10-8](/news/2016/10/8/index.md)
 
 # A gunman shoots three police officers in Palm Springs, California, leaving two dead and one injured. 
@@ -5,7 +8,7 @@
 Suspect arrested 12 hours after fatal shooting of two Palm Springs police officers.
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-palm-springs-shooting-20161008-snap-story.html)
 1. [Cover Image](http://www.trbimg.com/img-57fac941/turbine/la-me-palm-springs-shooting-20161008-snap)

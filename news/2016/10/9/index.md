@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/9/index.html)  [JSON](2016/10/9/index.json)  [XML](2016/10/9/index.xml)  
+
 ## [2016-10-9](/news/2016/10/9/index.md)
 
 ### [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md)
@@ -13,7 +16,7 @@ A U.S. Navy guided missile destroyer was targeted on Sunday in a failed missile 
 _Context: Pope Francis, papal conclave_
 
 ### [An Afghan Armed Forces Mi-17 helicopter crashes in northern Afghanistan with all seven people onboard, four crewmen and three passengers, dying. ](/news/2016/10/9/an-afghan-armed-forces-mi-17-helicopter-crashes-in-northern-afghanistan-with-all-seven-people-onboard-four-crewmen-and-three-passengers-dy.md)
-_Context: Afghanistan, military personnel_
+_Context: Afghan, military personnel_
 
 ### [A man driving the wrong way on Interstate 89 in Williston, Vermont, kills five people, all local high school juniors. ](/news/2016/10/9/a-man-driving-the-wrong-way-on-interstate-89-in-williston-vermont-kills-five-people-all-local-high-school-juniors.md)
 The Latest on a wrong-way crash that killed five Vermont high school students (all times local): 4:30 p.m.
@@ -22,7 +25,7 @@ The Latest on a wrong-way crash that killed five Vermont high school students (a
 Ethiopia declares a six-month state of emergency following months of anti-government protests by members of the two largest ethnic groups.
 
 ### [Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. ](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second-presidential-debate-of-the-2016-u-s-presidential-election-at-washington-university-in-st.md)
-_Context: Donald Trump, Hillary Clinton, Missouri, United States presidential election debates, 2016, United States presidential election, 2016, Washington University in St. Louis_
+_Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Missouri, United States presidential election debates, 2016, Washington University in St. Louis_
 
 ### [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md)
 _Context: Lithuania, Lithuanian parliamentary election, 2016, parliament_

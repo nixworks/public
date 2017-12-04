@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/6/index.html)  [JSON](2016/10/6/index.json)  [XML](2016/10/6/index.xml)  
+
 ## [2016-10-6](/news/2016/10/6/index.md)
 
 ### [An al-Shabaab attack on a village near the Kenyan town of Mandera results in six deaths. ](/news/2016/10/6/an-al-shabaab-attack-on-a-village-near-the-kenyan-town-of-mandera-results-in-six-deaths.md)
@@ -13,7 +16,7 @@ A bomb attached to a motorbike exploded near a police station in southwest Istan
 _Context: Niger, Nigerien soldiers, Tahoua Region_
 
 ### [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md)
-Tropical storm conditions expected to reach parts of the Florida coast by early Thursday.
+President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott, authorizes federal aid to deal with what&rsquo;s expected to be a very damaging storm.
 
 ### [Pakistan's government removes a loophole allowing those behind so-called honor killings to go free with the new legislation instead requiring a mandatory life sentence. ](/news/2016/10/6/pakistan-s-government-removes-a-loophole-allowing-those-behind-so-called-honor-killings-to-go-free-with-the-new-legislation-instead-requirin.md)
 _Context: Pakistan, honor killing_

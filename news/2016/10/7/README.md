@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/7/index.html)  [JSON](2016/10/7/index.json)  [XML](2016/10/7/index.xml)  
+
 ## [2016-10-7](/news/2016/10/7/index.md)
 
 ### [Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-injured.md)

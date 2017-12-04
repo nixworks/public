@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.html)  [JSON](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.json)  [XML](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.xml)  
+
 ### [2016-10-7](/news/2016/10/7/index.md)
 
 # The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. 
@@ -5,7 +8,7 @@
 Trading software may have overreacted to tweets about the French president’s comments on Brexit.
 
 
-### Source:
+### Sources:
 
 1. [MIT Technology Review](https://www.technologyreview.com/s/602586/algorithms-probably-caused-a-flash-crash-of-the-british-pound/)
 1. [Cover Image](https://d267cvn3rvuq91.cloudfront.net/i/images/brexit_0.jpg?cx=0&cy=69&cw=1400&ch=787&sw=1200)

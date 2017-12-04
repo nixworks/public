@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/9/thailand-s-king-bhumibol-adulyadej-88-the-world-s-longest-reigning-monarch-is-in-unstable-condition-after-a-hemodialysis-treatment.html)  [JSON](/news/2016/10/9/thailand-s-king-bhumibol-adulyadej-88-the-world-s-longest-reigning-monarch-is-in-unstable-condition-after-a-hemodialysis-treatment.json)  [XML](/news/2016/10/9/thailand-s-king-bhumibol-adulyadej-88-the-world-s-longest-reigning-monarch-is-in-unstable-condition-after-a-hemodialysis-treatment.xml)  
+
 ### [2016-10-9](/news/2016/10/9/index.md)
 
 # Thailand's King Bhumibol Adulyadej, 88, the world's longest reigning monarch, is in unstable condition after a hemodialysis treatment. 
@@ -5,11 +8,11 @@
 Royal palace issues rare statement raising fears for the health of King Bhumibol, the world&#39;s longest reigning monarch.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html)
-2. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKCN1290R8)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161010&t=2&i=1156847219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC990N3)
+2. [Reuters](https://www.reuters.com/article/us-thailand-king-idUSKCN1290R8)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161010&t=2&i=1156847219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC990N3)
 
 ### Related:
 

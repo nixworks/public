@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.html)  [JSON](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.json)  [XML](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.xml)  
+
 ### [2016-10-5](/news/2016/10/5/index.md)
 
 # Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37486374#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/62D7/production/_91530352_mediaitem91526940.jpg)

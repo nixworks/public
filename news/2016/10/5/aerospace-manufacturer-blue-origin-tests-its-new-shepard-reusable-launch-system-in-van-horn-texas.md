@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.html)  [JSON](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.json)  [XML](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.xml)  
+
 ### [2016-10-5](/news/2016/10/5/index.md)
 
 # Aerospace manufacturer Blue Origin tests its New Shepard reusable launch system in Van Horn, Texas. 
@@ -5,7 +8,7 @@
 Amazon boss Jeff Bezos has furthered his ambition to launch people into space by practising a critical safety manoeuvre on his New Shepard vehicle.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37568540)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8E65/production/_91535463_bez3.jpg)

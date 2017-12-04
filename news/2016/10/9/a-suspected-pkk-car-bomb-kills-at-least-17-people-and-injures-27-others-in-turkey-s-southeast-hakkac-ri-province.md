@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.html)  [JSON](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.json)  [XML](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.xml)  
+
 ### [2016-10-9](/news/2016/10/9/index.md)
 
 # A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. 
@@ -5,10 +8,15 @@
 Kurdish militants detonated a car bomb Sunday outside a military checkpoint in southeast Turkey, killing nine soldiers and eight civilians, the local governor said. Cuneyit Orhan Toprak, governor of Hakkari province where the attack took place, gave the death toll to the private news channel NTV and said 27 other people were wounded in the attack and were rushed to nearby hospitals for treatment. Eleven of the wounded were soldiers, the Turkish military said. 
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/turkey-explosion-pkk-car-bomb-attack-kills-17-hakkari-terrorism-a7352666.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/turkey-explosion-pkk-car-bomb-attack-kills-17-hakkari-terrorism-a7352666.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/09/13/turkey-explosion-hakkari.jpg)
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (2015-present): A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/kurdish-turkish-conflict-2015-present-a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast.md) _2017-08-27 03:47:00 (First version)_
+1. [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Kurdish militants detonated a car bomb Sunday outside a military checkpoint in s
 3. [At least six Turkish soldiers are killed and four others are wounded in a PKK attack in Turkey's eastern Van Province. ](/news/2016/05/24/at-least-six-turkish-soldiers-are-killed-and-four-others-are-wounded-in-a-pkk-attack-in-turkey-s-eastern-van-province.md) _Context: Kurdish-Turkish conflict (2015-present), Kurdistan Workers' Party, Turkey_
 4. [Turkey bombs PKK sites in northern Iraq after a bombing yesterday in Hakkari Province that killed at least 16 soldiers. ](/news/2015/09/8/turkey-bombs-pkk-sites-in-northern-iraq-after-a-bombing-yesterday-in-hakkac-ri-province-that-killed-at-least-16-soldiers.md) _Context: Hakkari Province, Kurdistan Workers' Party, Turkey_
 5. [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md) _Context: Hakkari Province, Kurdistan Workers' Party, Turkey_
-
-### Changes:
-
-1. [Kurdish-Turkish conflict (2015-present): A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/kurdish-turkish-conflict-2015-present-a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast.md) _2017-08-27 03:47:00 (First version)_
-1. [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md) _(Current version)_

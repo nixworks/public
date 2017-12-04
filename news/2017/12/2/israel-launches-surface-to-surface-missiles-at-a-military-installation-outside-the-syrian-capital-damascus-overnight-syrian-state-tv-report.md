@@ -10,7 +10,7 @@ Syria says Israel attacked an army position outside Damascus and two missiles we
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-42207172)
+1. [BBC News](http://www.bbc.com/news/world-middle-east-42207172)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/146E2/production/_99028638_gettyimages-501656750.jpg)
 
 ### Changes:

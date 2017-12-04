@@ -6,6 +6,9 @@ Formats: [HTML](2017/12/4/index.html)  [JSON](2017/12/4/index.json)  [XML](2017/
 ### [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md)
 Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
 
+### [The Israeli Air Force reportedly fired surface-to-surface missiles at a Syrian air force base near Damascus, causing damage. Israel believes the base is covertly used by Iranian forces. ](/news/2017/12/4/the-israeli-air-force-reportedly-fired-surface-to-surface-missiles-at-a-syrian-air-force-base-near-damascus-causing-damage-israel-believes.md)
+Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
+
 ### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
 The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20...
 
@@ -21,11 +24,11 @@ A foreign aid scheme is suspended by the government, following a BBC Panorama in
 ### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
 _Context: Daphne Caruana Galizia, Malta_
 
-### [A teenager from California is turned into the police by his own mother where he confesses to molesting at least 50 children over a nearly 10 year period. ](/news/2017/12/4/a-teenager-from-california-is-turned-into-the-police-by-his-own-mother-where-he-confesses-to-molesting-at-least-50-children-over-a-nearly-10.md)
-_Context: California_
-
 ### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-j.md)
 The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Junqueras in jail, judging he’s likely to challenge the authority of the state again if released.
+
+### [The Eurogroup selects Mario Centeno, Portugal's Minister of Finance, to succeed Jeroen Dijsselbloem as their next president. ](/news/2017/12/4/the-eurogroup-selects-ma-rio-centeno-portugal-s-minister-of-finance-to-succeed-jeroen-dijsselbloem-as-their-next-president.md)
+Portuguese Finance Minister Mario Centeno has won the race to become the top official of the 19-country eurozone.
 
 ## [Previous Day...](/news/2017/12/3/index.md)
 

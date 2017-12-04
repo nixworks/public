@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/9/a-man-driving-the-wrong-way-on-interstate-89-in-williston-vermont-kills-five-people-all-local-high-school-juniors.html)  [JSON](/news/2016/10/9/a-man-driving-the-wrong-way-on-interstate-89-in-williston-vermont-kills-five-people-all-local-high-school-juniors.json)  [XML](/news/2016/10/9/a-man-driving-the-wrong-way-on-interstate-89-in-williston-vermont-kills-five-people-all-local-high-school-juniors.xml)  
+
 ### [2016-10-9](/news/2016/10/9/index.md)
 
 # A man driving the wrong way on Interstate 89 in Williston, Vermont, kills five people, all local high school juniors. 
@@ -5,7 +8,7 @@
 The Latest on a wrong-way crash that killed five Vermont high school students (all times local): 4:30 p.m.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/10/09/latest-5-killed-in-wrong-way-crash-were-in-high-school.html)
 2. [The Burlington Free Press](http://www.burlingtonfreepress.com/story/news/local/2016/10/09/accident-closes--89-between-richmond-s-burlington-exits/91818446/)

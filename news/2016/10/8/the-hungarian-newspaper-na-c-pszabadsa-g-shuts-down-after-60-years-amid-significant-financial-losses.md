@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.html)  [JSON](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.json)  [XML](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.xml)  
+
 ### [2016-10-8](/news/2016/10/8/index.md)
 
 # The Hungarian newspaper "Nepszabadsag" shuts down after 60 years amid significant financial losses. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-hungary-newspaper-idUSKCN1280NU?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-hungary-newspaper-idUSKCN1280NU?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

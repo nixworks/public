@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.html)  [JSON](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.json)  [XML](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.xml)  
+
 ### [2016-10-6](/news/2016/10/6/index.md)
 
 # A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. 
@@ -5,10 +8,10 @@
 A bomb attached to a motorbike exploded near a police station in southwest Istanbul on Thursday wounding 10 people, the provincial governor said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN1261DX)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161006&t=2&i=1156373458&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC950YS)
+1. [Reuters](https://www.reuters.com/article/us-turkey-blast-idUSKCN1261DX)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161006&t=2&i=1156373458&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC950YS)
 
 ### Related:
 

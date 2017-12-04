@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/5/index.html)  [JSON](2016/10/5/index.json)  [XML](2016/10/5/index.xml)  
+
 ## [2016-10-5](/news/2016/10/5/index.md)
 
 ### [Mexican tequila producer Jose Cuervo will delay its IPO until after the U.S. presidential election due to concern over potential market volatility. ](/news/2016/10/5/mexican-tequila-producer-jose-cuervo-will-delay-its-ipo-until-after-the-u-s-presidential-election-due-to-concern-over-potential-market-vola.md)

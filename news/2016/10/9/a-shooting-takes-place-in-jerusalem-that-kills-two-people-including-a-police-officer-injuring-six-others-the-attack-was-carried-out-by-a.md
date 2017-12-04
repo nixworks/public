@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-two-people-including-a-police-officer-injuring-six-others-the-attack-was-carried-out-by-a.html)  [JSON](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-two-people-including-a-police-officer-injuring-six-others-the-attack-was-carried-out-by-a.json)  [XML](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-two-people-including-a-police-officer-injuring-six-others-the-attack-was-carried-out-by-a.xml)  
+
 ### [2016-10-9](/news/2016/10/9/index.md)
 
 # A shooting takes place in Jerusalem that kills two people, including a police officer, injuring six others. The attack was carried out by a Palestinian gunman who opened fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem. Israeli police kill the gunman. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37600221)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4D47/production/_91738791_mediaitem91738790.jpg)

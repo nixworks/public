@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempting-to-land-at-ramon-airbase-in-southern-israel-killing-the-pilot-a-navigator-who-was-also.html)  [JSON](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempting-to-land-at-ramon-airbase-in-southern-israel-killing-the-pilot-a-navigator-who-was-also.json)  [XML](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempting-to-land-at-ramon-airbase-in-southern-israel-killing-the-pilot-a-navigator-who-was-also.xml)  
+
 ### [2016-10-5](/news/2016/10/5/index.md)
 
 # An Israeli Air Force F-16 crashes while attempting to land at Ramon Airbase in southern Israel, killing the pilot. A navigator who was also in the aircraft successfully ejects and escapes the incident unharmed. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.745980)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.736993.1471254132!/image/3565939739.jpg_gen/derivatives/headline_1200x630/3565939739.jpg)

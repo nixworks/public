@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.html)  [JSON](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.json)  [XML](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.xml)  
+
 ### [2016-10-5](/news/2016/10/5/index.md)
 
 # The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/10/05/world/un-secretary-general-antonio-guterres/index.html?adkey=bn)
 

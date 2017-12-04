@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/8/index.html)  [JSON](2016/10/8/index.json)  [XML](2016/10/8/index.xml)  
+
 ## [2016-10-8](/news/2016/10/8/index.md)
 
 ### [Saudi-led coalition jets launch airstrikes on civilians at the funeral of the father of the Houthi government's Interior Minister in Sana'a, killing at least 140 people, and injuring over 500 more. One of the dead is the mayor of Sana'a, Abdul-Qader Hilal. ](/news/2016/10/8/saudi-led-coalition-jets-launch-airstrikes-on-civilians-at-the-funeral-of-the-father-of-the-houthi-government-s-interior-minister-in-sana-a.md)
