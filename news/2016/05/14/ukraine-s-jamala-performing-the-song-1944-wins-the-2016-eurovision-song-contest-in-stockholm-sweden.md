@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.html)  [JSON](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.json)  [XML](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.xml)  
+
 ### [2016-05-14](/news/2016/05/14/index.md)
 
 # Ukraine's Jamala, performing the song "1944", wins the 2016 Eurovision Song Contest in Stockholm, Sweden. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-36295168)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15927/production/_89695388_89695387.jpg)

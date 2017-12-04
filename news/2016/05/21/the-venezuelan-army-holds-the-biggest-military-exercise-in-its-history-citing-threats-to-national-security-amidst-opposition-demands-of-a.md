@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.html)  [JSON](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.json)  [XML](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.xml)  
+
 ### [2016-05-21](/news/2016/05/21/index.md)
 
 #  The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. 
@@ -5,11 +8,17 @@
 Venezuela is holding the biggest military exercise in its history this weekend, citing threats to national security, as the opposition pushes for a recall referendum on President Nicolas Maduro.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-21/venezuela-holds-war-games-as-opposition-demands-recall-vote)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-05-21/venezuela-holds-war-games-as-opposition-demands-recall-vote)
 2. [Stratis Times](http://www.straitstimes.com/world/americas/military-on-high-alert-in-venezuela)
 2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
+
+### Changes:
+
+1. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of.md) _2017-08-25 03:45:43 (First version)_
+2. [ 2014-16 Venezuelan protests: The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/2014-16-venezuelan-protests-the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security.md) _2017-08-27 03:46:05 (Update)_
+2. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ Venezuela is holding the biggest military exercise in its history this weekend, 
 3. [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md) _Context: 2014-16 Venezuelan protests, Nicolas Maduro, President_
 4. [Protests erupt in various cities of Venezuela as the country faces increased food and power shortages, forcing the government to ration them, leading to widespread looting and violence. According to the opposition, who control the National Assembly, over a million people support its bid to start a referendum on ousting President Nicolas Maduro. ](/news/2016/04/29/protests-erupt-in-various-cities-of-venezuela-as-the-country-faces-increased-food-and-power-shortages-forcing-the-government-to-ration-them.md) _Context: 2014-16 Venezuelan protests, Nicolas Maduro, President_
 5. [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md) _Context: 2014-16 Venezuelan protests, Nicolas Maduro, President_
-
-### Changes:
-
-1. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of.md) _2017-08-25 03:45:43 (First version)_
-2. [ 2014-16 Venezuelan protests: The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/2014-16-venezuelan-protests-the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security.md) _2017-08-27 03:46:05 (Update)_
-2. [ The Venezuelan Army holds the biggest military exercise in its history, citing threats to national security, amidst opposition demands of a recall referendum on President Nicolas Maduro. ](/news/2016/05/21/the-venezuelan-army-holds-the-biggest-military-exercise-in-its-history-citing-threats-to-national-security-amidst-opposition-demands-of-a.md) _(Current version)_

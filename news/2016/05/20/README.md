@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/05/20/index.html)  [JSON](2016/05/20/index.json)  [XML](2016/05/20/index.xml)  
+
 ## [2016-05-20](/news/2016/05/20/index.md)
 
 ### [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md)
 US military officials say the small town in the country&#39;s southwestern region retaken with little resistance from ISIL.
 
 ### [Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. ](/news/2016/05/20/georgia-s-ministry-of-foreign-affairs-expresses-shock-and-deep-concern-after-a-georgian-citizen-31-year-old-giga-otkhozoria-was-shot-dea.md)
-_Context: Abkhaz-Georgian conflict, Abkhazia, Georgian, Ministry of Foreign Affairs, Russian Armed Forces_
+_Context:  Georgian, Abkhaz-Georgian conflict, Abkhazia, Ministry of Foreign Affairs, Russian Armed Forces_
 
 ### [Coca-Cola FEMSA suspends all production in Venezuela due to a sugar shortage. ](/news/2016/05/20/coca-cola-femsa-suspends-all-production-in-venezuela-due-to-a-sugar-shortage.md)
 _Context: Coca-Cola FEMSA, Shortages in Venezuela, Venezuela_
@@ -28,10 +31,10 @@ A 5.9 magnitude earthquake struck central Australia early on Saturday, the U.S. 
 More than 270 pregnant women in the U.S. are also infected with the Zika virus, and are worrying about whether their babies will suffer birth defects.
 
 ### [The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. ](/news/2016/05/20/the-kremlin-condemns-nato-s-membership-invitation-to-montenegro-warning-the-step-risks-fueling-geopolitical-tensions-in-europe.md)
-_Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
+_Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian government_
 
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghanistan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
+_Context: Afghan, Belgian, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
 
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, United States Congress_
@@ -46,10 +49,10 @@ _Context: United States Secret Service, White House_
 _Context: President, Tsai Ing-wen_
 
 ### [Israeli Defense minister Moshe Ya'alon announces his resignation. ](/news/2016/05/20/israeli-defense-minister-moshe-ya-alon-announces-his-resignation.md)
-_Context: Israel, Moshe Ya'alon_
+The abrupt move came as Prime Minister Benjamin Netanyahu publicly conducted negotiations with a far-right party to join his government.
 
 ### [ The Oklahoma legislature passes a bill that would make it a felony for doctors to perform abortions and revokes the medical license of assisting physicians. The governor then vetoes the bill. ](/news/2016/05/20/the-oklahoma-legislature-passes-a-bill-that-would-make-it-a-felony-for-doctors-to-perform-abortions-and-revokes-the-medical-license-of-assi.md)
-Gov. Mary Fallin (R) has not said if she plans to sign the bill.
+The State Senate measure, the first of its kind, would revoke such doctors’ medical licenses. The bill is on the desk of Gov. Mary Fallin.
 
 ### [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md)
 Iraqi security forces fired tear gas, water cannons and live ammunition as protesters stormed Baghdad’s center of government Friday, escalating weekly protests against the slow pace of change under Prime Minister Haidar al-Abadi.

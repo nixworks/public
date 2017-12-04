@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/19/index.html)  [JSON](2016/05/19/index.json)  [XML](2016/05/19/index.xml)  
+
 ## [2016-05-19](/news/2016/05/19/index.md)
 
 ### [Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-tow.md)
@@ -13,7 +16,7 @@ _Context: Baghdad, Iraq, Iraqi Civil War (2014-present)_
 (Bloomberg) -- A blue diamond set a record price for a jewel in auction when it went under the hammer for $58 million in a Christie’s sale in Geneva.
 
 ### [German chemical and pharmaceutical company Bayer bids to merge with American agrochemical and agricultural firm Monsanto. ](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.md)
-Bayer AG’s unsolicited takeover offer for Monsanto Co. met with skepticism as concerns mounted that the German company would need to take on too much debt and dilute equity holdings in its quest to acquire an embattled target.
+German healthcare and agricultural giant Bayer confirmed on Thursday morning it is in preliminary discussions on a takeover of Monsanto, one of the biggest seed and agricultural firms in the United States.
 
 ### [ Google honors Asian American civil rights activist Yuri Kochiyama, who held controversial views about racial harmony, terrorism and American power, with a doodle. ](/news/2016/05/19/google-honors-asian-american-civil-rights-activist-yuri-kochiyama-who-held-controversial-views-about-racial-harmony-terrorism-and-america.md)
 Kochiyama embraced far-leftist protesters and even terrorist organizations.
@@ -22,7 +25,7 @@ Kochiyama embraced far-leftist protesters and even terrorist organizations.
 The EgyptAir jet which crashed in the Mediterranean on Thursday sent a series of warnings indicating that smoke had been detected on board, shortly before it disappeared off radar screens, French investigators said on Saturday.
 
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan, Azerbaijan_
+_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghan, Azerbaijan_
 
 ### [A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. ](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-finds-that-the-constitutional-guarantee-of-a-speedy-trial-does-not-guarantee-a-speedy-sentenci.md)
 _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
@@ -34,7 +37,7 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 _Context: Accession of Montenegro to NATO, Milo Dukanovic, Montenegro, NATO, Prime Minister, membership_
 
 ### [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md)
-_Context: Dnipropetrovsk, Ukraine, Verkhovna Rada, decommunization_
+_Context: Dnipropetrovsk, Ukraine, decommunization, parliament_
 
 ### [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-201.md)
 _Context: Liberal Party, Philippine House of Representatives elections, 2016, Philippine Senate election, 2016, Philippine general election, 2016_

@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/05/23/index.html)  [JSON](2016/05/23/index.json)  [XML](2016/05/23/index.xml)  
+
 ## [2016-05-23](/news/2016/05/23/index.md)
 
 ### [ Reuters reports nearly 150 people are killed and at least 200 wounded in a series of car bomb and suicide attacks in the Syrian cities of Jableh and Tartus in government-controlled territory that hosts Russian military bases. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/reuters-reports-nearly-150-people-are-killed-and-at-least-200-wounded-in-a-series-of-car-bomb-and-suicide-attacks-in-the-syrian-cities-of-j.md)
- The Aamaq news agency, which is run by the Islamic State, said militants from the extremist group carried out the attacks.
+String of car bombs and suicide attacks hits hospital entrance, bus station and other places in Latakia and Jableh.
 
 ### [ At least 41 army recruits are killed and 60 others injured in a suicide car bomb attack in Aden, Yemen. The Islamic State of Iraq and the Levant group claims responsibility. ](/news/2016/05/23/at-least-41-army-recruits-are-killed-and-60-others-injured-in-a-suicide-car-bomb-attack-in-aden-yemen-the-islamic-state-of-iraq-and-the-l.md)
 A suicide car bombing claimed by Islamic State killed at least 40 Yemeni army recruits and wounded 60 in the southern city of Aden on Monday, medics said, in one of the deadliest attacks yet on government interests.
@@ -31,7 +34,7 @@ A pilot, two skydive instructors and two tandem jumpers were believed to be in t
 MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when his family carried him into a hospital in central Haiti. He was unable to move, he later found out, because of an unusual paralysis syndrome…
 
 ### [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md)
-President says decision to sell weapons, expand trade reflect new friendship with Vietnam.
+_Context: Barack Obama, U.S. President, United States, United States-Vietnam relations, Vietnam_
 
 ### [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md)
 Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanitarian system that has left 130 million people in need of aid, a near insurmountable task for a two-day summit that critics say risks achieving little.

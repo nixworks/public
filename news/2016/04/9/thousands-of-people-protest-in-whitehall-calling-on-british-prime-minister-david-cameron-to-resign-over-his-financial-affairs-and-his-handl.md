@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/thousands-of-people-protest-in-whitehall-calling-on-british-prime-minister-david-cameron-to-resign-over-his-financial-affairs-and-his-handl.html)  [JSON](/news/2016/04/9/thousands-of-people-protest-in-whitehall-calling-on-british-prime-minister-david-cameron-to-resign-over-his-financial-affairs-and-his-handl.json)  [XML](/news/2016/04/9/thousands-of-people-protest-in-whitehall-calling-on-british-prime-minister-david-cameron-to-resign-over-his-financial-affairs-and-his-handl.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  Thousands of people protest in Whitehall calling on British Prime Minister David Cameron to resign over his financial affairs and his handling of them in relation to revelations made by the leak of the Panama Papers. 
@@ -7,7 +10,7 @@ Thousands of protersters have moved on Downing Street to call for tough action o
 
 ### Sources:
 
-1. [Independent](http://www.independent.co.uk/news/uk/politics/resign-cameron-protests-thousands-to-gather-at-downing-street-to-ask-prime-minister-to-step-down-a6976036.html)
+1. [Independent](https://www.independent.co.uk/news/uk/politics/resign-cameron-protests-thousands-to-gather-at-downing-street-to-ask-prime-minister-to-step-down-a6976036.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/09/09/cameronnumber10.jpg)
 
 ### Changes:

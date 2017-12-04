@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.html)  [JSON](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.json)  [XML](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-nauru-to-protest-her-detention-on-the-island-by-australia-one-week-after-an-iranian-asylum-se.xml)  
+
 ### [2016-05-2](/news/2016/05/2/index.md)
 
 # A Somali asylum seeker sets herself alight in Nauru to protest her detention on the island by Australia, one week after an Iranian asylum seeker did the same thing. 
@@ -5,7 +8,7 @@
 A Somali woman seeking asylum in Australia has set herself on fire in protest at her detention at a centre on the island of Nauru.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-australia-36186189)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15C29/production/_85292198_getty_nauru.jpg)

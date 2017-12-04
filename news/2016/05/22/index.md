@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/22/index.html)  [JSON](2016/05/22/index.json)  [XML](2016/05/22/index.xml)  
+
 ## [2016-05-22](/news/2016/05/22/index.md)
 
 ### [The Syrian Observatory for Human Rights claims that over 60,000 people have died in Syrian government jails during the five year civil war. ](/news/2016/05/22/the-syrian-observatory-for-human-rights-claims-that-over-60-000-people-have-died-in-syrian-government-jails-during-the-five-year-civil-war.md)
@@ -28,7 +31,7 @@ A man has reportedly shot two people dead and wounded 11 people at a concert in 
 Mexican authorities say a total of six men were killed in shootings at two nightclubs in the Gulf coast state of Veracruz.
 
 ### [The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-president-of-austria.md)
-Analysts and recent polls say Freedom Party candidate Norbert Hofer has a strong chance of defeating the Green Party-backed Alexander Van der Bellen.
+_Context: Alexander Van der Bellen, Austrian presidential election, 2016, Norbert Hofer, President, second round_
 
 ### [Voters in Vietnam go to the polls to choose legislators for its Parliament. The only legal party in the country is the Communist Party, which has already chosen its members. ](/news/2016/05/22/voters-in-vietnam-go-to-the-polls-to-choose-legislators-for-its-parliament-the-only-legal-party-in-the-country-is-the-communist-party-whic.md)
 _Context: Communist Party, Parliament, Vietnam, Vietnamese legislative election, 2016_

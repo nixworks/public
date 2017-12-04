@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/after-many-delays-venezuela-s-electoral-council-releases-petition-sheets-to-the-opposition-alliance-that-wants-to-initiate-a-recall-referen.html)  [JSON](/news/2016/04/26/after-many-delays-venezuela-s-electoral-council-releases-petition-sheets-to-the-opposition-alliance-that-wants-to-initiate-a-recall-referen.json)  [XML](/news/2016/04/26/after-many-delays-venezuela-s-electoral-council-releases-petition-sheets-to-the-opposition-alliance-that-wants-to-initiate-a-recall-referen.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # After many delays, Venezuela's electoral council releases petition sheets to the opposition alliance that wants to initiate a recall referendum against President Nicolas Maduro. Within three days, the petitioners need to collect about 200,000 signatures (1 percent of registered voters) before proceeding to the next step, the collection of 20 million signatures to get the referendum on the ballot. 
@@ -5,10 +8,10 @@
 CARACAS, Venezuela (AP) — Venezuela&#039;s electoral council on Tuesday took steps to allow opponents of President Nicolas Maduro to try and initiate a recall referendum against the socialist leader. The electoral authority…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ffe3deb9e14543e49ca65de198e533ec/venezuela-paves-way-petition-recall-maduro)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-26/venezuelan-opposition-cleared-to-collect-referendum-signatures)
+2. [Bloomberg](https://www.bloomberg.com/news/articles/2016-04-26/venezuelan-opposition-cleared-to-collect-referendum-signatures)
 2. [Cover Image](http://binaryapi.ap.org/ffb613d7b34449d2b9bcc61e5decc996/460x.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.html)  [JSON](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.json)  [XML](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.xml)  
+
 ### [2016-06-1](/news/2016/06/1/index.md)
 
 # The United Nations Security Council condemns North Korea's failed ballistic missile test yesterday, as well as two other unsuccessful ones in April. 
@@ -5,10 +8,10 @@
 The United Nations Security Council on Wednesday condemned three recent failed ballistic missile tests by North Korea and threatened to take further &quot;significant measures.&quot;
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-missile-un-idUSKCN0YN5UU)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139595021&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5031L)
+1. [Reuters](https://www.reuters.com/article/us-northkorea-missile-un-idUSKCN0YN5UU)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160601&t=2&i=1139595021&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC5031L)
 
 ### Related:
 

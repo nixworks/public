@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/3/index.html)  [JSON](2016/05/3/index.json)  [XML](2016/05/3/index.xml)  
+
 ## [2016-05-3](/news/2016/05/3/index.md)
 
 ### [A rocket attack hits a hospital in the Syrian city of Aleppo, killing three civilians. The Syrian Observatory for Human Rights said the attack was part of a bigger shelling that killed 19 more people. ](/news/2016/05/3/a-rocket-attack-hits-a-hospital-in-the-syrian-city-of-aleppo-killing-three-civilians-the-syrian-observatory-for-human-rights-said-the-atta.md)
@@ -19,13 +22,13 @@ _Context: Philippine presidential election, 2016, Rodrigo Duterte_
 Crews had seemed to be making progress controlling the blaze, burning since the weekend, but the situation worsened quickly on Tuesday
 
 ### [An airplane crashes on Long Island, New York, killing three people onboard. ](/news/2016/05/3/an-airplane-crashes-on-long-island-new-york-killing-three-people-onboard.md)
-_Context: Long Island, New York_
+The single-engine aircraft, which took off from Myrtle Beach, S.C., was headed to Plainville, Conn., officials said.
 
 ### [The sect Iglesia ni Cristo is suing supporters of Rodrigo Duterte for spreading a fake endorsement by the denomination. ](/news/2016/05/3/the-sect-iglesia-ni-cristo-is-suing-supporters-of-rodrigo-duterte-for-spreading-a-fake-endorsement-by-the-denomination.md)
 _Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Anatoliy Serdyukov, Defense Minister, Prime Minister of Russia, Russia, Russia-Spain relations, Russian president, Spain, Viktor Zubkov, Vladimir Putin, assassinated, money laundering, organized crime from Russia_
+_Context: Anatoliy Serdyukov, Defense Minister, Prime Minister of Russia, Russia, Russia-Spain relations, Russian President, Spain, Viktor Zubkov, Vladimir Putin, assassinated, money laundering, organized crime from Russia_
 
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)
 Indonesian police arrested almost 1700 West Papuans yesterday for taking part in a series of demonstrations across Papua region.

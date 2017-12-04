@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2016/05/20/the-oklahoma-legislature-passes-a-bill-that-would-make-it-a-felony-for-doctors-to-perform-abortions-and-revokes-the-medical-license-of-assi.html)  [JSON](/news/2016/05/20/the-oklahoma-legislature-passes-a-bill-that-would-make-it-a-felony-for-doctors-to-perform-abortions-and-revokes-the-medical-license-of-assi.json)  [XML](/news/2016/05/20/the-oklahoma-legislature-passes-a-bill-that-would-make-it-a-felony-for-doctors-to-perform-abortions-and-revokes-the-medical-license-of-assi.xml)  
+
 ### [2016-05-20](/news/2016/05/20/index.md)
 
 #  The Oklahoma legislature passes a bill that would make it a felony for doctors to perform abortions and revokes the medical license of assisting physicians. The governor then vetoes the bill. 
 
-Gov. Mary Fallin (R) has not said if she plans to sign the bill.
+The State Senate measure, the first of its kind, would revoke such doctors’ medical licenses. The bill is on the desk of Gov. Mary Fallin.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/05/20/politics/oklahoma-governor-vetoes-bill-that-would-criminalize-abortion/)
-2. [NY Times](http://www.nytimes.com/2016/05/20/us/oklahoma-bill-abortion-doctors.html?_r=0)
+2. [NY Times](https://www.nytimes.com/2016/05/20/us/oklahoma-bill-abortion-doctors.html?_r=0)
 3. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/05/19/oklahoma-legislature-passes-bill-making-it-a-felony-to-perform-abortions/)
+3. [Cover Image](https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-facebookJumbo.jpg)
 
 ### Related:
 

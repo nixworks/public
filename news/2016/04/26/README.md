@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/26/index.html)  [JSON](2016/04/26/index.json)  [XML](2016/04/26/index.xml)  
+
 ## [2016-04-26](/news/2016/04/26/index.md)
 
 ### [A Syrian government airstrike near Aleppo kills at least five members of the Syrian Civil Defense rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. ](/news/2016/04/26/a-syrian-government-airstrike-near-aleppo-kills-at-least-five-members-of-the-syrian-civil-defense-rescue-organisation-dozens-of-people-have.md)

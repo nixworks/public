@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.html)  [JSON](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.json)  [XML](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.xml)  
+
 ### [2016-05-22](/news/2016/05/22/index.md)
 
 # Indonesia's Mount Sinabung erupts, killing at least six people in Sumatra. 
@@ -5,7 +8,7 @@
 Seven people are killed when they are consumed by pyroclastic clouds during a volcanic eruption in western Indonesia.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-05-22/six-killed-by-hot-clouds-from-erupting-indonesian-volcano/7435464)
 1. [Cover Image](http://www.abc.net.au/news/image/7435480-1x1-700x700.jpg)

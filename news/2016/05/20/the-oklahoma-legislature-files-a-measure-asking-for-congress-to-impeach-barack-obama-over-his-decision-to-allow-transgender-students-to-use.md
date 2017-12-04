@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.html)  [JSON](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.json)  [XML](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.xml)  
+
 ### [2016-05-20](/news/2016/05/20/index.md)
 
 # The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [KOCO](http://www.koco.com/news/oklahoma-legislature-files-measure-to-impeach-president-barack-obama/39647160)
+
+### Changes:
+
+1. [Efforts to impeach Barack Obama: The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md) _2017-08-27 03:46:04 (First version)_
+1. [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md) _Context: Barack Obama, United States Congress_
 4. [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md) _Context: Barack Obama, United States Congress_
 5. [President of the United States Barack Obama signs a bipartisan deal approved by Congress to end the Government shutdown and the debt ceiling crisis. ](/news/2013/10/17/president-of-the-united-states-barack-obama-signs-a-bipartisan-deal-approved-by-congress-to-end-the-government-shutdown-and-the-debt-ceiling.md) _Context: Barack Obama, United States Congress_
-
-### Changes:
-
-1. [Efforts to impeach Barack Obama: The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/efforts-to-impeach-barack-obama-the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-a.md) _2017-08-27 03:46:04 (First version)_
-1. [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md) _(Current version)_

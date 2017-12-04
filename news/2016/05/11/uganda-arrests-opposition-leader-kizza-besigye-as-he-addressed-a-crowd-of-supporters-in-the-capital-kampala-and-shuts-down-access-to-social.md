@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.html)  [JSON](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.json)  [XML](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.xml)  
+
 ### [2016-05-11](/news/2016/05/11/index.md)
 
 # Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Global Voices](https://globalvoices.org/2016/05/11/social-media-access-blocked-in-uganda-ahead-of-president-musevenis-inauguration/)
-2. [The New York Times](http://www.nytimes.com/aponline/2016/05/11/world/africa/ap-af-uganda-inauguration-crackdown.html)
+2. [The New York Times](https://www.nytimes.com/aponline/2016/05/11/world/africa/ap-af-uganda-inauguration-crackdown.html)
+
+### Changes:
+
+1. [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-socia.md) _2017-08-25 03:45:38 (First version)_
+2. [Ugandan general election, 2016: Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/ugandan-general-election-2016-uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala.md) _2017-08-27 03:46:01 (Update)_
+2. [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. ](/news/2016/05/29/in-compliance-with-recent-un-security-council-resolutons-president-yoweri-museveni-of-uganda-announces-an-end-to-security-and-military-coop.md) _Context: President, Uganda, Yoweri Museveni_
 4. [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md) _Context: President, Ugandan general election, 2016, Yoweri Museveni_
 5. [Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigye-s-forum-for-democratic-change.md) _Context: Kizza Besigye, Ugandan general election, 2016, Yoweri Museveni_
-
-### Changes:
-
-1. [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-socia.md) _2017-08-25 03:45:38 (First version)_
-2. [Ugandan general election, 2016: Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/ugandan-general-election-2016-uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala.md) _2017-08-27 03:46:01 (Update)_
-2. [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.md) _(Current version)_

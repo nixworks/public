@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.html)  [JSON](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.json)  [XML](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # Tens of thousands of people, mostly Shi'ites, take to the streets of Baghdad, Iraq in a protest calling for Parliament to vote on a cabinet reshuffle. The protest was called for by powerful Shi'te Muslim critic Muqtada al-Sadr. The proposed cabinet reshuffle is aimed at fighting corruption in the midst of divisions between lawmakers that have hampered the work of the government. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/iraq-sadr-protesters-baghdad-demand-cabinet-reshuffle/27699129.html)
 

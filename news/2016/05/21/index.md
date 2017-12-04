@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/21/index.html)  [JSON](2016/05/21/index.json)  [XML](2016/05/21/index.xml)  
+
 ## [2016-05-21](/news/2016/05/21/index.md)
 
 ### [ A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.md)

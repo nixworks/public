@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.html)  [JSON](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.json)  [XML](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.xml)  
+
 ### [2016-06-3](/news/2016/06/3/index.md)
 
 # FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. 
@@ -5,10 +8,16 @@
 Investigators say a series of contract amendments resulted in payouts of tens of millions of dollars in salary and bonuses to the three executives from 2011 to 2015.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/03/480625592/ex-fifa-head-blatter-2-others-allegedly-gave-themselves-80-million)
 1. [Cover Image](https://media.npr.org/assets/img/2016/06/03/ap_16155450276567_wide-ef2bd0dcd386d5e38f6c88316fbe6ea97f142119.jpg?s=1400)
+
+### Changes:
+
+1. [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-near.md) _2017-08-25 03:45:49 (First version)_
+2. [2015 FIFA corruption case: FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/2015-fifa-corruption-case-fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-o.md) _2017-08-27 03:46:12 (Update)_
+2. [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ Investigators say a series of contract amendments resulted in payouts of tens of
 3. [U.S. Attorney General Loretta Lynch announces criminal corruption charges against 16 FIFA officials in an indictment that expands Justice's May filing that indicted 14 officials associated with FIFA (Federation Internationale de Football Association) and related sports marketing companies. At U.S. authorities request, Swiss police arrest two South American FIFA (Federation Internationale de Football Association) officials at the five-star Baur au Lac hotel in Zurich, on suspicion of accepting "millions of dollars" in bribes. In addition, eight of the defendants indicted in May have pleaded guilty. ](/news/2015/12/3/u-s-attorney-general-loretta-lynch-announces-criminal-corruption-charges-against-16-fifa-officials-in-an-indictment-that-expands-justice-s.md) _Context: 2015 FIFA corruption case, FIFA_
 4. [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md) _Context: 2015 FIFA corruption case, Sepp Blatter_
 5. [Swiss police seize computer records from FIFA in an investigation into alleged corruption by the world governing body of association football. ](/news/2015/06/9/swiss-police-seize-computer-records-from-fifa-in-an-investigation-into-alleged-corruption-by-the-world-governing-body-of-association-footbal.md) _Context: 2015 FIFA corruption case, FIFA_
-
-### Changes:
-
-1. [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-near.md) _2017-08-25 03:45:49 (First version)_
-2. [2015 FIFA corruption case: FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/2015-fifa-corruption-case-fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-o.md) _2017-08-27 03:46:12 (Update)_
-2. [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.md) _(Current version)_

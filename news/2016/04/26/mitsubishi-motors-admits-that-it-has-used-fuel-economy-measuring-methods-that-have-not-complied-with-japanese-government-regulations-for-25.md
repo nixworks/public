@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/mitsubishi-motors-admits-that-it-has-used-fuel-economy-measuring-methods-that-have-not-complied-with-japanese-government-regulations-for-25.html)  [JSON](/news/2016/04/26/mitsubishi-motors-admits-that-it-has-used-fuel-economy-measuring-methods-that-have-not-complied-with-japanese-government-regulations-for-25.json)  [XML](/news/2016/04/26/mitsubishi-motors-admits-that-it-has-used-fuel-economy-measuring-methods-that-have-not-complied-with-japanese-government-regulations-for-25.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # Mitsubishi Motors admits that it has used fuel economy measuring methods that have not complied with Japanese government regulations for 25 years. 
@@ -5,9 +8,9 @@
 Japanese car maker Mitsubishi Motors Corp (7211.T) said on Tuesday it used fuel economy testing methods that did not comply with Japanese regulations for 25 years, much longer than previously known.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160426&t=2&i=1134549697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3P0UH)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.html)  [JSON](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.json)  [XML](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.xml)  
+
 ### [2016-05-8](/news/2016/05/8/index.md)
 
 # At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-36240629)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C38F/production/_89636005_89636004.jpg)

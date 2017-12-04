@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/a-bangladesh-court-issues-an-arrest-warrant-the-second-one-so-far-for-former-prime-minister-khaleda-zia-and-27-opposition-bangladesh-natio.html)  [JSON](/news/2016/03/30/a-bangladesh-court-issues-an-arrest-warrant-the-second-one-so-far-for-former-prime-minister-khaleda-zia-and-27-opposition-bangladesh-natio.json)  [XML](/news/2016/03/30/a-bangladesh-court-issues-an-arrest-warrant-the-second-one-so-far-for-former-prime-minister-khaleda-zia-and-27-opposition-bangladesh-natio.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # A Bangladesh Court issues an arrest warrant, the second one so far, for former Prime Minister Khaleda Zia and 27 opposition Bangladesh Nationalist Party members over political violence, mostly petrol-bomb attacks, that occurred during anti-government protests last year that killed at least 120 people. 
@@ -5,7 +8,7 @@
 Khaleda Zia and 27 opposition Bangladesh Nationalist Party members face charges over deadly 2015 fire-bombing in Dhaka.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/03/bangladesh-arrest-warrant-issued-pm-160330125529350.html)
 

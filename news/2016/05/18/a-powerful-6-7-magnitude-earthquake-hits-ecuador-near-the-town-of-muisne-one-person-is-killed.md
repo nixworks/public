@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuador-near-the-town-of-muisne-one-person-is-killed.html)  [JSON](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuador-near-the-town-of-muisne-one-person-is-killed.json)  [XML](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuador-near-the-town-of-muisne-one-person-is-killed.xml)  
+
 ### [2016-05-18](/news/2016/05/18/index.md)
 
 # A powerful 6.7 magnitude earthquake hits Ecuador near the town of Muisne, one person is killed. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-05-18-LT-Ecuador-Quake/id-b372564514cb4d689ccd9b9b3d7d00c0)
-2. [Reuters](http://www.reuters.com/article/us-ecuador-quake-idUSKCN0Y90TG)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160518&t=2&i=1137801049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4H1GV)
+2. [Reuters](https://www.reuters.com/article/us-ecuador-quake-idUSKCN0Y90TG)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160518&t=2&i=1137801049&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4H1GV)
 
 ### Related:
 

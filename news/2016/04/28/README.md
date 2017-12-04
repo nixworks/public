@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/28/index.html)  [JSON](2016/04/28/index.json)  [XML](2016/04/28/index.xml)  
+
 ## [2016-04-28](/news/2016/04/28/index.md)
 
 ### [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md)
@@ -31,7 +34,7 @@ GENEVA (AP) — The U.N. envoy for Syria appealed to the U.S. and Russia to inte
  SEOUL, April 28 &mdash; North Korea today tried and failed in what appeared to be its second attempt in two weeks to test a powerful, new medium-range ballistic missile, South Korea&rsquo;s defence ministry said. A ministry official said the North had fired
 
 ### [France's National Assembly votes to adopt a non-binding resolution to lift European Union sanctions against Russia, applied after Russia's annexation of Crimea in 2014. Former President Nicolas Sarkozy's Republicans, as well as center-right and far-left groups voted in favor of lifting the sanctions, while the ruling Socialist Party and The Greens voted against the resolution. ](/news/2016/04/28/france-s-national-assembly-votes-to-adopt-a-non-binding-resolution-to-lift-european-union-sanctions-against-russia-applied-after-russia-s-a.md)
-_Context: EU, France, France-Russia relations, National Assembly, Nicolas Sarkozy, PS, President of France, Republican, Russia, The Greens, against, annexation by Russia_
+_Context: European Union, France, France-Russia relations, National Assembly, Nicolas Sarkozy, PS, President of France, Republican, Russia, The Greens, against, annexation by Russia_
 
 ### [The Organization for Security and Co-operation in Europe warns that the situation in Eastern Ukraine is worsening. Chief monitor for Ukraine Ertugrul Apakan says that "during the past weeks, the OSCE has registered the highest number of cease-fire violations in months" and warned that artillery and mortars banned under Minsk II "are being used again in increased numbers." ](/news/2016/04/28/the-organization-for-security-and-co-operation-in-europe-warns-that-the-situation-in-eastern-ukraine-is-worsening-chief-monitor-for-ukraine.md)
 _Context: Eastern Ukraine, Ertugrul Apakan, Minsk II, OSCE, War in Donbass_

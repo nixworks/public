@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.html)  [JSON](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.json)  [XML](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.xml)  
+
 ### [2016-05-21](/news/2016/05/21/index.md)
 
 #  The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. 
@@ -5,12 +8,17 @@
 Russia has proposed to the U.S.-led coalition that they stage joint air strikes on Syrian rebels, including militant Islamist group Nusra Front, who are not observing a ceasefire, but the United States responded coolly on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/russia-proposes-joint-syria-airstrikes_us_573f28bce4b0613b512a0751)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-russia-usa-syria-idUSKCN0YB1HB)
+2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-russia-usa-syria-idUSKCN0YB1HB)
 3. [VOA News](http://www.voanews.com/content/pentagon-rejects-joint-strikes-with-russia/3339269.html)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160520&t=2&i=1138062501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4J0UF)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160520&t=2&i=1138062501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4J0UF)
+
+### Changes:
+
+1. [ Syrian Civil War: War on Terrorism: The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/syrian-civil-war-war-on-terrorism-the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syr.md) _2017-08-27 03:46:05 (First version)_
+1. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ Russia has proposed to the U.S.-led coalition that they stage joint air strikes 
 3. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Russia, Syria, Syrian Civil War_
 4. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Russia, Syria, Syrian Civil War_
 5. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Russia, Syria, Syrian Civil War_
-
-### Changes:
-
-1. [ Syrian Civil War: War on Terrorism: The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/syrian-civil-war-war-on-terrorism-the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syr.md) _2017-08-27 03:46:05 (First version)_
-1. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.html)  [JSON](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.json)  [XML](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.xml)  
+
 ### [2016-05-24](/news/2016/05/24/index.md)
 
 # A court in the U.S. state of Pennsylvania finds that there is enough evidence to hold entertainer Bill Cosby on felony indecent assault charges in relation to the case of "Andrea Constand v. William H. Cosby, Jr.". 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/05/24/us/bill-cosby-hearing/)
 

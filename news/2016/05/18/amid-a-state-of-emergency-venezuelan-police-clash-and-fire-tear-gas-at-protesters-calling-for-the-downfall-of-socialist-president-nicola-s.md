@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.html)  [JSON](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.json)  [XML](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.xml)  
+
 ### [2016-05-18](/news/2016/05/18/index.md)
 
 # Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". 
@@ -5,10 +8,15 @@
 Wednesday’s protests in Caracas came the day after Maduro said the opposition-controlled parliament had become irrelevant amid a shrinking economy
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/may/18/venezuela-police-fire-teargas-protesters-crisis)
+1. [The Guardian](https://www.theguardian.com/world/2016/may/18/venezuela-police-fire-teargas-protesters-crisis)
 1. [Cover Image](https://i.guim.co.uk/img/media/4826fa12d8660370c7571f5d1761343dd952c86c/0_323_4928_2957/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=9054276619bc47f1a4334539e7938d96)
+
+### Changes:
+
+1. [2014-16 Venezuelan protests: Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/2014-16-venezuelan-protests-amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-o.md) _2017-08-27 03:46:03 (First version)_
+1. [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Wednesday’s protests in Caracas came the day after Maduro said the opposition-
 3. [The new Constituent Assembly votes to remove Attorney General Luisa Ortega Diaz, a prominent critic of President Nicolas Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. ](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-attorney-general-luisa-ortega-daaz-a-prominent-critic-of-president-nicola-s-maduro-from-her.md) _Context: Caracas, Nicolas Maduro, President_
 4. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Caracas, Nicolas Maduro, President_
 5. [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md) _Context: Caracas, Nicolas Maduro, President_
-
-### Changes:
-
-1. [2014-16 Venezuelan protests: Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/2014-16-venezuelan-protests-amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-o.md) _2017-08-27 03:46:03 (First version)_
-1. [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md) _(Current version)_

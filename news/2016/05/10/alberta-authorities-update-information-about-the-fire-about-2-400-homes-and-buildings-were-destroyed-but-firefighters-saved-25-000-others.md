@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/10/alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-firefighters-saved-25-000-others.html)  [JSON](/news/2016/05/10/alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-firefighters-saved-25-000-others.json)  [XML](/news/2016/05/10/alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-firefighters-saved-25-000-others.xml)  
+
 ### [2016-05-10](/news/2016/05/10/index.md)
 
 # Alberta authorities update information about the fire. About 2,400 homes and buildings were destroyed, but firefighters saved 25,000 others in the city, including the hospital, municipal buildings, and every functioning school. They expect most of the 88,000 evacuees will return to their homes within two weeks. The fire, which has merged with another blaze, is about 884 square miles (2,090 square kilometers) in size. The majority of Canada's oil sands industry, and a third of the country's total oil output, is offline, though Shell Canada has restarted its Albian Sands mining operations. 
@@ -5,10 +8,15 @@
 EDMONTON, Alberta (AP) — The majority of Canada&#039;s oil sands industry has stopped production and will only start back up when it is &quot;absolutely safe&quot; but that should happen soon, Alberta&#039;s premier said Tuesday after meeting…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/60529865cc7e4abbbfae835238af582e/alberta-officials-say-oil-sands-city-saved-fires-worst)
 1. [Cover Image](http://binaryapi.ap.org/ac002a9ea3c34ac09740693f379f805d/460x.jpg)
+
+### Changes:
+
+1. [2016 Fort McMurray wildfire: Alberta authorities update information about the fire. About 2,400 homes and buildings were destroyed, but firefighters saved 25,000 others in the city, including the hospital, municipal buildings, and every functioning school. They expect most of the 88,000 evacuees will return to their homes within two weeks. The fire, which has merged with another blaze, is about 884 square miles (2,090 square kilometers) in size. The majority of Canada's oil sands industry, and a third of the country's total oil output, is offline, though Shell Canada has restarted its Albian Sands mining operations. ](/news/2016/05/10/2016-fort-mcmurray-wildfire-alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-fire.md) _2017-08-27 03:46:00 (First version)_
+1. [Alberta authorities update information about the fire. About 2,400 homes and buildings were destroyed, but firefighters saved 25,000 others in the city, including the hospital, municipal buildings, and every functioning school. They expect most of the 88,000 evacuees will return to their homes within two weeks. The fire, which has merged with another blaze, is about 884 square miles (2,090 square kilometers) in size. The majority of Canada's oil sands industry, and a third of the country's total oil output, is offline, though Shell Canada has restarted its Albian Sands mining operations. ](/news/2016/05/10/alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-firefighters-saved-25-000-others.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ EDMONTON, Alberta (AP) — The majority of Canada&#039;s oil sands industry has 
 3. [A herd of Plains bison are successfully reintroduced to the Banff National Park in Alberta, Canada, more than 100 years after they were nearly hunted out of existence. ](/news/2017/02/6/a-herd-of-plains-bison-are-successfully-reintroduced-to-the-banff-national-park-in-alberta-canada-more-than-100-years-after-they-were-near.md) _Context: Alberta, Canada_
 4. [Alberta Premier Rachel Notley says the wildfire has destroyed about 1,600 structures in Fort McMurray, which is in Canada's oil sands region. No major oil sands facilities are in the fire's path, though two Royal Dutch Shell mines are closing, and a Suncor Energy facility is reducing crude production. The fire is threatening the Alberta Highway 63 bridge across the Athabasca River, the sole route south. The Canadian Red Cross is encouraging people to donate funds rather than clothing. ](/news/2016/05/4/alberta-premier-rachel-notley-says-the-wildfire-has-destroyed-about-1-600-structures-in-fort-mcmurray-which-is-in-canada-s-oil-sands-region.md) _Context: 2016 Fort McMurray wildfire, oil sands_
 5. [A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcmurray-alberta-which-is-threaten.md) _Context: Alberta, Canada_
-
-### Changes:
-
-1. [2016 Fort McMurray wildfire: Alberta authorities update information about the fire. About 2,400 homes and buildings were destroyed, but firefighters saved 25,000 others in the city, including the hospital, municipal buildings, and every functioning school. They expect most of the 88,000 evacuees will return to their homes within two weeks. The fire, which has merged with another blaze, is about 884 square miles (2,090 square kilometers) in size. The majority of Canada's oil sands industry, and a third of the country's total oil output, is offline, though Shell Canada has restarted its Albian Sands mining operations. ](/news/2016/05/10/2016-fort-mcmurray-wildfire-alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-fire.md) _2017-08-27 03:46:00 (First version)_
-1. [Alberta authorities update information about the fire. About 2,400 homes and buildings were destroyed, but firefighters saved 25,000 others in the city, including the hospital, municipal buildings, and every functioning school. They expect most of the 88,000 evacuees will return to their homes within two weeks. The fire, which has merged with another blaze, is about 884 square miles (2,090 square kilometers) in size. The majority of Canada's oil sands industry, and a third of the country's total oil output, is offline, though Shell Canada has restarted its Albian Sands mining operations. ](/news/2016/05/10/alberta-authorities-update-information-about-the-fire-about-2-400-homes-and-buildings-were-destroyed-but-firefighters-saved-25-000-others.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.html)  [JSON](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.json)  [XML](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.xml)  
+
 ### [2016-04-7](/news/2016/04/7/index.md)
 
 # Hashim Thaci is sworn in as the new President of Kosovo. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/kosovo-new-president-thaci-inaugurated/27659895.html)
 

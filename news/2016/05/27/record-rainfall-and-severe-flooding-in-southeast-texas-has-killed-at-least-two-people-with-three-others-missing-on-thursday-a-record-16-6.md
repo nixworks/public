@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.html)  [JSON](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.json)  [XML](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.xml)  
+
 ### [2016-05-27](/news/2016/05/27/index.md)
 
 # Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. 
@@ -5,10 +8,10 @@
 At least two people person were killed and three others missing on Friday as record rainfall and severe flooding hit hard parts of southeast Texas, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-texas-flooding-idUSKCN0YI27V)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-texas-flooding-idUSKCN0YI27V)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

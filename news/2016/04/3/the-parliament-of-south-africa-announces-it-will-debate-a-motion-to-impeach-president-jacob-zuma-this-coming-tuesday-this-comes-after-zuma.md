@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/3/the-parliament-of-south-africa-announces-it-will-debate-a-motion-to-impeach-president-jacob-zuma-this-coming-tuesday-this-comes-after-zuma.html)  [JSON](/news/2016/04/3/the-parliament-of-south-africa-announces-it-will-debate-a-motion-to-impeach-president-jacob-zuma-this-coming-tuesday-this-comes-after-zuma.json)  [XML](/news/2016/04/3/the-parliament-of-south-africa-announces-it-will-debate-a-motion-to-impeach-president-jacob-zuma-this-coming-tuesday-this-comes-after-zuma.xml)  
+
 ### [2016-04-3](/news/2016/04/3/index.md)
 
 # The Parliament of South Africa announces it will debate a motion to impeach President Jacob Zuma this coming Tuesday. This comes after Zuma is facing mounting pressure when the Constitutional Court ruled that Zuma violated the constitution by using state funds to renovate his mansion. Yesterday, anti-apartheid veteran Ahmed Kathrada joined opposition leaders in calling for Zuma's resignation. 
@@ -5,7 +8,7 @@
 National Assembly set to debate on Tuesday an opposition-tabled motion to impeach President Zuma over spending scandal.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/african-parliament-debate-zuma-impeachment-motion-160403130012035.html)
 

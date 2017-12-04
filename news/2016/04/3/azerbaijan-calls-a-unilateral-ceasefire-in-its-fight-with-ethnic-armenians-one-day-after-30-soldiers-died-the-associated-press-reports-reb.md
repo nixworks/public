@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/3/azerbaijan-calls-a-unilateral-ceasefire-in-its-fight-with-ethnic-armenians-one-day-after-30-soldiers-died-the-associated-press-reports-reb.html)  [JSON](/news/2016/04/3/azerbaijan-calls-a-unilateral-ceasefire-in-its-fight-with-ethnic-armenians-one-day-after-30-soldiers-died-the-associated-press-reports-reb.json)  [XML](/news/2016/04/3/azerbaijan-calls-a-unilateral-ceasefire-in-its-fight-with-ethnic-armenians-one-day-after-30-soldiers-died-the-associated-press-reports-reb.xml)  
+
 ### [2016-04-3](/news/2016/04/3/index.md)
 
 #  Azerbaijan calls a unilateral ceasefire in its fight with ethnic Armenians one day after 30 soldiers died. The Associated Press reports rebel forces reject Azerbaijan's claims, saying they see no sign the government has stopped fighting. 
@@ -5,7 +8,7 @@
 Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenian forces over the disputed Nagorno-Karabakh region, but its opponents say fighting continues.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_AZERBAIJAN_ARMENIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-europe-35953916?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)

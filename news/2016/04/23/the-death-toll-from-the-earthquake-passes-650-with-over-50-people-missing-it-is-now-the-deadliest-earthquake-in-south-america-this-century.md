@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.html)  [JSON](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.json)  [XML](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. 
@@ -5,9 +8,14 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/death-toll-ecuador-earthquake-tops-650-38626337)
+
+### Changes:
+
+1. [2016 Ecuador earthquake: The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/2016-ecuador-earthquake-the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-so.md) _2017-08-27 03:45:48 (First version)_
+1. [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. ](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.md) _Context: South America_
 4. [The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. ](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbean-sea-and-for-the.md) _Context: South America_
 5. [The South American trading bloc Mercosur threatens to suspend Venezuela if it does not protect human rights and enact a law guaranteeing the free movement of Mercosur citizens. The bloc sets a deadline of December 1, 2016, for Venezuela to comply with their requirements. ](/news/2016/09/14/the-south-american-trading-bloc-mercosur-threatens-to-suspend-venezuela-if-it-does-not-protect-human-rights-and-enact-a-law-guaranteeing-the.md) _Context: South America_
-
-### Changes:
-
-1. [2016 Ecuador earthquake: The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/2016-ecuador-earthquake-the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-so.md) _2017-08-27 03:45:48 (First version)_
-1. [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md) _(Current version)_

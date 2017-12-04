@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/21/at-least-37-people-have-been-killed-and-22-injured-in-a-bus-crash-in-the-democratic-republic-of-the-congo.html)  [JSON](/news/2016/05/21/at-least-37-people-have-been-killed-and-22-injured-in-a-bus-crash-in-the-democratic-republic-of-the-congo.json)  [XML](/news/2016/05/21/at-least-37-people-have-been-killed-and-22-injured-in-a-bus-crash-in-the-democratic-republic-of-the-congo.xml)  
+
 ### [2016-05-21](/news/2016/05/21/index.md)
 
 #  At least 37 people have been killed and 22 injured in a bus crash in the Democratic Republic of the Congo. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/bus-crash-congo-kills-37-people-injures-22-39279598)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

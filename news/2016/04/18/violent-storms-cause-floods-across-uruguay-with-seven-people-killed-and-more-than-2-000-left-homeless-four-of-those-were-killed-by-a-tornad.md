@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.html)  [JSON](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.json)  [XML](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.xml)  
+
 ### [2016-04-18](/news/2016/04/18/index.md)
 
 # Violent storms cause floods across Uruguay with seven people killed and more than 2,000 left homeless. Four of those were killed by a tornado that struck Dolores. Four million people in the Chilean capital of Santiago were left without tap water as heavy rains triggered landslides. This led to the fouling of the city's water supply. 
@@ -5,7 +8,7 @@
 Torrential downpours hits central parts of South America, causing flooding either side of the Andes.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/violent-storms-floods-chile-uruguay-160418093821810.html)
 

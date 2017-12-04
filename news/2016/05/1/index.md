@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/05/1/index.html)  [JSON](2016/05/1/index.json)  [XML](2016/05/1/index.xml)  
+
 ## [2016-05-1](/news/2016/05/1/index.md)
 
 ### [ A blast hits a police station in the southern Turkish city of Gaziantep leaving one officer dead and 13 injured. ](/news/2016/05/1/a-blast-hits-a-police-station-in-the-southern-turkish-city-of-gaziantep-leaving-one-officer-dead-and-13-injured.md)
 A suicide bomber kills two policemen in south-eastern Turkey, in an attack officials blame on a suspected Islamic State militant.
 
 ### [ Three Turkish soldiers are killed and 14 others wounded in an armed attack by Kurdish militants during a military operation in the town of Nusaybin, Turkey. ](/news/2016/05/1/three-turkish-soldiers-are-killed-and-14-others-wounded-in-an-armed-attack-by-kurdish-militants-during-a-military-operation-in-the-town-of.md)
-_Context: Kurdish, Kurdish-Turkish conflict, Nusaybin, Turkey_
+_Context: Kurdish-Turkish conflict, Kurds, Nusaybin, Turkey_
 
 ### [Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md)
 _Context: 'Amran Governorate, Houthi, Yemeni Civil War_

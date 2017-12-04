@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.html)  [JSON](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.json)  [XML](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.xml)  
+
 ### [2016-05-2](/news/2016/05/2/index.md)
 
 # The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. 
@@ -5,10 +8,15 @@
 Up to 70 UK personnel will be deployed this year to counter the extremist group Al-Shabaab
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/uk-news/2016/may/02/first-british-troops-arrive-in-somalia-as-part-of-un-mission)
+1. [The Guardian](https://www.theguardian.com/uk-news/2016/may/02/first-british-troops-arrive-in-somalia-as-part-of-un-mission)
 1. [Cover Image](https://i.guim.co.uk/img/media/f5748fcd970eabd773f6b42dd22f76128ca74081/0_0_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=726768df5563a97238dc2f5a722229d4)
+
+### Changes:
+
+1. [War in Somalia: War on Terror: The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/war-in-somalia-war-on-terror-the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-milit.md) _2017-08-27 03:45:57 (First version)_
+1. [The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Up to 70 UK personnel will be deployed this year to counter the extremist group 
 3. [Somali police say at least seven are dead after clashes as Somali and African Union troops pushed back al-Shabab extremists from Afgooye, a town near Mogadishu. ](/news/2016/10/18/somali-police-say-at-least-seven-are-dead-after-clashes-as-somali-and-african-union-troops-pushed-back-al-shabab-extremists-from-afgooye-a.md) _Context: Al-Shabaab, Somalia, War in Somalia_
 4. [At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. ](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-several-people-wounded-by-suspected-al-shabaab-militants-who-ambushed-two-buses-in-mandera-keny.md) _Context: Al-Shabaab, Somalia, War in Somalia_
 5. [Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somalia.md) _Context: AMISOM, Al-Shabaab, Somalia_
-
-### Changes:
-
-1. [War in Somalia: War on Terror: The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/war-in-somalia-war-on-terror-the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-milit.md) _2017-08-27 03:45:57 (First version)_
-1. [The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.md) _(Current version)_

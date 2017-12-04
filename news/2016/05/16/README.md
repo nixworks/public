@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/16/index.html)  [JSON](2016/05/16/index.json)  [XML](2016/05/16/index.xml)  
+
 ## [2016-05-16](/news/2016/05/16/index.md)
 
 ### [ "The Vegetarian", written by Han Kang and translated by Deborah Smith, wins the Man Booker International Prize. ](/news/2016/05/16/the-vegetarian-written-by-han-kang-and-translated-by-deborah-smith-wins-the-man-booker-international-prize.md)
@@ -19,7 +22,7 @@ A Swedish court sentenced on Monday a 61-year-old man to life in prison for geno
 KABUL, Afghanistan (AP) — Tens of thousands of Afghanistan&#039;s ethnic Hazaras marched on Monday through downtown Kabul, demanding the government reroute a planned power line through their poverty-stricken province so they…
 
 ### [The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. ](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.md)
-The patient is recovering well and showing no signs of rejecting the transplant.
+A hospital in Boston becomes the first in the US to perform a successful penis transplant, say doctors, calling the operation &quot;a surgical milestone&quot;.
 
 ## [Previous Day...](/news/2016/05/15/index.md)
 

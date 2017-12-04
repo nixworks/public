@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-storms-that-spawned-multiple-tornado-touchdowns-in-northeastern-oklahoma-and-sections-of-the-sout.html)  [JSON](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-storms-that-spawned-multiple-tornado-touchdowns-in-northeastern-oklahoma-and-sections-of-the-sout.json)  [XML](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-storms-that-spawned-multiple-tornado-touchdowns-in-northeastern-oklahoma-and-sections-of-the-sout.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # At least nine people are injured in severe storms that spawned multiple tornado touchdowns in northeastern Oklahoma and sections of the Southwestern United States. One patient is in critical condition; the others suffered serious injuries, according to the Emergency Medical Services Authority. Parts of Texas, Louisiana, and Arkansas are also impacted. A flash flood watch has been issued through Thursday evening. Two (2) to 4 inches of rain is expected, with perhaps 6 inches in some locations. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/b78151f352eb4965bda2402dc1bc6b85)
 

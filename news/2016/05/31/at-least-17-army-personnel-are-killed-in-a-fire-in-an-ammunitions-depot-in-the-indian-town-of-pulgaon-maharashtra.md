@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/31/at-least-17-army-personnel-are-killed-in-a-fire-in-an-ammunitions-depot-in-the-indian-town-of-pulgaon-maharashtra.html)  [JSON](/news/2016/05/31/at-least-17-army-personnel-are-killed-in-a-fire-in-an-ammunitions-depot-in-the-indian-town-of-pulgaon-maharashtra.json)  [XML](/news/2016/05/31/at-least-17-army-personnel-are-killed-in-a-fire-in-an-ammunitions-depot-in-the-indian-town-of-pulgaon-maharashtra.xml)  
+
 ### [2016-05-31](/news/2016/05/31/index.md)
 
 #  At least 17 army personnel are killed in a fire in an ammunitions depot in the Indian town of Pulgaon, Maharashtra. 
@@ -5,11 +8,11 @@
 A fire at a massive military ammunition depot in Pulgaon in Maharashtra has killed two Army officers, a jawan and 13 civilian fire fighters. 17 people were injured and reported to be are in stable condition, the Army said today.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-05-31/india-ammunition-depot-fire/7463700)
 2. [NDTV](http://www.ndtv.com/india-news/massive-fire-at-ammunition-depot-in-maharashtras-pulgaon-19-injured-1413789)
-3. [The New York Times](http://www.nytimes.com/aponline/2016/05/31/world/asia/ap-as-india-ammunitions-depot-fire.html?_r=0)
+3. [The New York Times](https://www.nytimes.com/aponline/2016/05/31/world/asia/ap-as-india-ammunitions-depot-fire.html?_r=0)
 3. [Cover Image](http://i.ndtvimg.com/i/2016-05/pulgaon-fire_650x400_61464667536.jpg)
 
 ### Related:

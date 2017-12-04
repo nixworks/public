@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.html)  [JSON](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.json)  [XML](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.xml)  
+
 ### [2016-04-29](/news/2016/04/29/index.md)
 
 # According to Eurostat, the Eurozone's economy grew by 0.6% in the first three months of 2016, faster than what was originally expected, with unemployment falling to 10.2%. This growth suggest that the eurozone's economy is now bigger than it was before the start of the financial crisis of 2007-08. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-36167289)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/CFEE/production/_89503235_gettyimages-480074068.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/the-prime-minister-of-papua-new-guinea-peter-o-neill-states-that-the-manus-island-regional-processing-centre-will-be-closed-following-the-ru.html)  [JSON](/news/2016/04/27/the-prime-minister-of-papua-new-guinea-peter-o-neill-states-that-the-manus-island-regional-processing-centre-will-be-closed-following-the-ru.json)  [XML](/news/2016/04/27/the-prime-minister-of-papua-new-guinea-peter-o-neill-states-that-the-manus-island-regional-processing-centre-will-be-closed-following-the-ru.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # The Prime Minister of Papua New Guinea Peter O'Neill states that the Manus Island Regional Processing Centre will be closed following the ruling of the Supreme Court and that he will ask the Australian Government to make alternative arrangements for the asylum seekers detained there. 
@@ -5,7 +8,7 @@
 Peter O&#039;Neill says the Manus Island regional processing centre will be closed.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2016-04-27/png-pm-oneill-to-shut-manus-island-detention-centre/7364414)
 1. [Cover Image](http://www.abc.net.au/news/image/2867526-1x1-700x700.jpg)

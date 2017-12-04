@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.html)  [JSON](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.json)  [XML](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. 
@@ -5,7 +8,7 @@
 Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum seekers on Manus Island is illegal.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-26/png-rules-detention-on-manus-island-illegal/7360078)
 1. [Cover Image](http://www.abc.net.au/news/image/5532140-1x1-700x700.jpg)

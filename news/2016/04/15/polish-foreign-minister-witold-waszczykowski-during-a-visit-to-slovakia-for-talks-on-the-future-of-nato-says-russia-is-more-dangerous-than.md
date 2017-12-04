@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-during-a-visit-to-slovakia-for-talks-on-the-future-of-nato-says-russia-is-more-dangerous-than.html)  [JSON](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-during-a-visit-to-slovakia-for-talks-on-the-future-of-nato-says-russia-is-more-dangerous-than.json)  [XML](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-during-a-visit-to-slovakia-for-talks-on-the-future-of-nato-says-russia-is-more-dangerous-than.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # Polish Foreign Minister Witold Waszczykowski, during a visit to Slovakia for talks on the future of NATO, says Russia is more dangerous than the Islamic State of Iraq and the Levant (ISIL). "By all evidence, Russia's activity is a sort of existential threat because this activity can destroy countries," Waszczykowski told reporters in Bratislava. He described ISIL as a very serious threat but said "it is not an existential threat for Europe". 
@@ -5,9 +8,9 @@
 Witold Waszczykowski describes Russian activity as an ‘existential threat to Europe’ during a debate on the future of Nato
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/15/russia-more-dangerous-isis-polish-foreign-minister-witold-waszczykowski)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/15/russia-more-dangerous-isis-polish-foreign-minister-witold-waszczykowski)
 1. [Cover Image](https://i.guim.co.uk/img/media/9b6f808722b59502fea1d88b6001e08befe6d016/750_652_1938_1163/1938.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2f1798c36ce924721895c00cb0d5cde7)
 
 ### Related:

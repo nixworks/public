@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/at-least-two-people-are-killed-and-five-missing-after-a-building-collapses-in-tenerife-in-the-canary-islands.html)  [JSON](/news/2016/04/15/at-least-two-people-are-killed-and-five-missing-after-a-building-collapses-in-tenerife-in-the-canary-islands.json)  [XML](/news/2016/04/15/at-least-two-people-are-killed-and-five-missing-after-a-building-collapses-in-tenerife-in-the-canary-islands.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # At least two people are killed and five missing after a building collapses in Tenerife in the Canary Islands. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20160415-death-toll-rises-2-tenerife-building-collapse?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2016-04-15&dlvrit=66745)
 

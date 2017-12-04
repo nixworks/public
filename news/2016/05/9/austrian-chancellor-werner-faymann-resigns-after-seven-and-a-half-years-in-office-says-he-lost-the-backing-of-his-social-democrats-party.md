@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.html)  [JSON](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.json)  [XML](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.xml)  
+
 ### [2016-05-9](/news/2016/05/9/index.md)
 
 # Austrian Chancellor Werner Faymann resigns after seven and a half years in office; says he lost the backing of his Social Democrats party. 
 
-Austrian Chancellor Werner Faymann abruptly resigned Monday, saying he had lost the backing of his Social Democrats party.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/05/09/austrias-leader-werner-faymann-abruptly-resigns/84130036/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2016/05/09/austrias-leader-werner-faymann-abruptly-resigns/84130036/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

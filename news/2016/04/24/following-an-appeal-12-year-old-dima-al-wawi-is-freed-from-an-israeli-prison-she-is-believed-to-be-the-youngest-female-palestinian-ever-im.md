@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.html)  [JSON](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.json)  [XML](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.xml)  
+
 ### [2016-04-24](/news/2016/04/24/index.md)
 
 # Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. 
@@ -5,9 +8,14 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/israel-frees-youngest-palestinian-prisoner-38632971)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict: Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/israeli-palestinian-conflict-following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-you.md) _2017-08-27 03:45:49 (First version)_
+1. [Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. ](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in-the-deaths-of-four-palestinians-and-an-american-tourist-with-12-israelis-wounded-including.md) _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 4. [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md) _Context: Israel, Israeli-Palestinian conflict, Palestinians_
 5. [Israeli security forces kill four Palestinians and critically wound another who attempted to stab either police officers or a member of the public today. This is the latest in a month of similar attacks where 17 Palestinian attackers and eight Israelis have been killed. ](/news/2015/10/17/israeli-security-forces-kill-four-palestinians-and-critically-wound-another-who-attempted-to-stab-either-police-officers-or-a-member-of-the.md) _Context: Israel, Israeli-Palestinian conflict, Palestinians_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict: Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/israeli-palestinian-conflict-following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-you.md) _2017-08-27 03:45:49 (First version)_
-1. [Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. ](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is-freed-from-an-israeli-prison-she-is-believed-to-be-the-youngest-female-palestinian-ever-im.md) _(Current version)_

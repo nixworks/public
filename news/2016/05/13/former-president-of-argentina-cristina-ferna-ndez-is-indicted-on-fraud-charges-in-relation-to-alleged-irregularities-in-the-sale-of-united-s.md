@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.html)  [JSON](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.json)  [XML](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.xml)  
+
 ### [2016-05-13](/news/2016/05/13/index.md)
 
 # Former President of Argentina Cristina Fernandez is indicted on fraud charges in relation to alleged irregularities in the sale of United States dollars by the Central Bank during her term in office. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-argentina-fernandez-idUSKCN0Y42L2?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-argentina-fernandez-idUSKCN0Y42L2?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160514&t=2&i=1137217157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4D001)
 
 ### Related:

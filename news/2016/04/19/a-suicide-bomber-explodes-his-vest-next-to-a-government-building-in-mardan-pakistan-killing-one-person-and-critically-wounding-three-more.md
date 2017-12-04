@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.html)  [JSON](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.json)  [XML](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.xml)  
+
 ### [2016-04-19](/news/2016/04/19/index.md)
 
 # A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/pakistan-suicide-blast-mardan/27683442.html)
+
+### Changes:
+
+1. [War in North-West Pakistan: A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/war-in-north-west-pakistan-a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-cri.md) _2017-08-27 03:45:41 (First version)_
+1. [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan, War in North-West Pakistan_
 4. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: Pakistan, War in North-West Pakistan_
 5. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/war-in-north-west-pakistan-a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-cri.md) _2017-08-27 03:45:41 (First version)_
-1. [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md) _(Current version)_

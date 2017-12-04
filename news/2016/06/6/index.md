@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/6/index.html)  [JSON](2016/06/6/index.json)  [XML](2016/06/6/index.xml)  
+
 ## [2016-06-6](/news/2016/06/6/index.md)
 
 ### [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md)
@@ -25,7 +28,7 @@ _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru, Peruvian general election
 _Context: Haiti, Haitian presidential election, 2015-16_
 
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: Associated Press, Democratic, Democratic Party presidential primaries, 2016, Hillary Clinton, presumptive nominee_
+_Context: Associated Press, Democrat, Democratic Party presidential primaries, 2016, Hillary Clinton, presumptive nominee_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

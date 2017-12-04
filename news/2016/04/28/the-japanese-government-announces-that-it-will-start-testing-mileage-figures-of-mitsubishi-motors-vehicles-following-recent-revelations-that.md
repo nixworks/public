@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/the-japanese-government-announces-that-it-will-start-testing-mileage-figures-of-mitsubishi-motors-vehicles-following-recent-revelations-that.html)  [JSON](/news/2016/04/28/the-japanese-government-announces-that-it-will-start-testing-mileage-figures-of-mitsubishi-motors-vehicles-following-recent-revelations-that.json)  [XML](/news/2016/04/28/the-japanese-government-announces-that-it-will-start-testing-mileage-figures-of-mitsubishi-motors-vehicles-following-recent-revelations-that.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # The Japanese government announces that it will start testing mileage figures of Mitsubishi Motors vehicles following recent revelations that testing data had been manipulated over a 25-year period. 
@@ -5,10 +8,10 @@
 Mitsubishi Motors Corp (7211.T) said its vehicles sold in the United States from 2013 have accurate mileage readings, lowering the risk that its fuel economy cheating scandal in Japan may have a wider global impact.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-scandal-idUSKCN0XP04G)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160428&t=2&i=1134855014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3R02Y)
+1. [Reuters](https://www.reuters.com/article/us-mitsubishimotors-scandal-idUSKCN0XP04G)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160428&t=2&i=1134855014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3R02Y)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.html)  [JSON](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.json)  [XML](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha-t-al-anbar-governorate-after-driving-out-hundreds-of-isil-militants.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. 
@@ -5,10 +8,10 @@
 Iraqi forces backed by U.S.-led coalition air strikes reached the center of the western town of Hit, dislodging Islamic State militants and evacuating thousands of civilians, state television said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-hit-idUSKCN0X516M)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160408&t=2&i=1131271168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC370RY)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-hit-idUSKCN0X516M)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160408&t=2&i=1131271168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC370RY)
 
 ### Related:
 

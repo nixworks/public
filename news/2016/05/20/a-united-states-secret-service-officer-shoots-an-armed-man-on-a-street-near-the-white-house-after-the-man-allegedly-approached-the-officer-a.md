@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/20/a-united-states-secret-service-officer-shoots-an-armed-man-on-a-street-near-the-white-house-after-the-man-allegedly-approached-the-officer-a.html)  [JSON](/news/2016/05/20/a-united-states-secret-service-officer-shoots-an-armed-man-on-a-street-near-the-white-house-after-the-man-allegedly-approached-the-officer-a.json)  [XML](/news/2016/05/20/a-united-states-secret-service-officer-shoots-an-armed-man-on-a-street-near-the-white-house-after-the-man-allegedly-approached-the-officer-a.xml)  
+
 ### [2016-05-20](/news/2016/05/20/index.md)
 
 # A United States Secret Service officer shoots an armed man on a street near the White House after the man allegedly approached the officer and refused to drop his weapon. The White House is locked down. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! News](https://www.yahoo.com/news/white-house-alert-shooting-street-outside-195303849.html?ref=gs)
 2. [CNN](http://edition.cnn.com/2016/05/20/politics/u-s-park-police-shooting-near-white-house/index.html)

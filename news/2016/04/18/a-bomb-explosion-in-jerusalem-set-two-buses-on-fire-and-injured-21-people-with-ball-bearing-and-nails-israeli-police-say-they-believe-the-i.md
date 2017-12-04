@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.html)  [JSON](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.json)  [XML](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-fire-and-injured-21-people-with-ball-bearing-and-nails-israeli-police-say-they-believe-the-i.xml)  
+
 ### [2016-04-18](/news/2016/04/18/index.md)
 
 # A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. 
@@ -5,7 +8,7 @@
 Police have confirmed a small bomb exploded on a bus in Jerusalem on Monday during the evening rush hour. Eye witnesses has said an empty bus caught
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/04/18/israeli-radio-reports-explosion-on-bus-in-jerusalem-20-casualties/)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4793280,00.html)

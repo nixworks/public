@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/18/index.html)  [JSON](2016/05/18/index.json)  [XML](2016/05/18/index.xml)  
+
 ## [2016-05-18](/news/2016/05/18/index.md)
 
 ### [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md)
@@ -28,7 +31,7 @@ A B-52 crashed around 8:30 a.m. Thursday on Andersen AFB&#39;s flight line.
 _Context: China, Cross-Strait relations, Taiwan, Tsai Ing-wen, military exercise_
 
 ### [ Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. ](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.md)
-_Context: New Jersey, Timothy Wiltsey_
+The verdict ended a mystery that has long haunted the New Jersey community where the child disappeared and confirmed suspicions harbored by many that his mother, Michelle Lodzinski, was responsible.
 
 ### [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md)
 Wednesday’s protests in Caracas came the day after Maduro said the opposition-controlled parliament had become irrelevant amid a shrinking economy

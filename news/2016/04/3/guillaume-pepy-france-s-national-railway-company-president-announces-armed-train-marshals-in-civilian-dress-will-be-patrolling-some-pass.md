@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.html)  [JSON](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.json)  [XML](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.xml)  
+
 ### [2016-04-3](/news/2016/04/3/index.md)
 
 # Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. 
@@ -5,7 +8,7 @@
 PARIS (AP) — The head of the French national rail service says that train marshals, armed and allowed to use their weapons, will be patrolling some passenger trains, one of a series of new security measures. Guillaume…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ccad9463579a42958673727825962baa/armed-train-marshals-ride-some-french-routes-can-shoot)
 

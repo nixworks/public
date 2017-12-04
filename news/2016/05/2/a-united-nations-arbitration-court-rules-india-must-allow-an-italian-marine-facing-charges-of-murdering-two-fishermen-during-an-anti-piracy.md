@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/2/a-united-nations-arbitration-court-rules-india-must-allow-an-italian-marine-facing-charges-of-murdering-two-fishermen-during-an-anti-piracy.html)  [JSON](/news/2016/05/2/a-united-nations-arbitration-court-rules-india-must-allow-an-italian-marine-facing-charges-of-murdering-two-fishermen-during-an-anti-piracy.json)  [XML](/news/2016/05/2/a-united-nations-arbitration-court-rules-india-must-allow-an-italian-marine-facing-charges-of-murdering-two-fishermen-during-an-anti-piracy.xml)  
+
 ### [2016-05-2](/news/2016/05/2/index.md)
 
 # A United Nations arbitration court rules India must allow an Italian marine, facing charges of murdering two fishermen during an anti-piracy mission in 2012, to return home pending the Permanent Court of Arbitration's decision over jurisdiction. The suspect, who will remain under the authority of the Supreme Court of India, has been staying in the Italian embassy in New Delhi; his co-defendant returned to Italy with health problems in 2014. 
@@ -5,7 +8,7 @@
 A UN arbitration tribunal has ruled in favour of Italian marine Girone by allowing him to return home pending the arbitration proceedings at the Hague.
 
 
-### Source:
+### Sources:
 
 1. [Firstpost](http://www.firstpost.com/india/italian-marine-italy-un-arbitration-tribunal-rules-in-favour-2760774.html)
 2. [Reuters](http://in.reuters.com/article/italy-india-arbitration-marines-idINKCN0XT0SO)

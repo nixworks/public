@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.html)  [JSON](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.json)  [XML](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.xml)  
+
 ### [2016-04-30](/news/2016/04/30/index.md)
 
 #  Five people are killed in a military plane crash in Sudan. 
@@ -5,7 +8,7 @@
 A Sudanese military plane crashed in the central city of El-Obeid on Saturday, killing five people, the army said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/sudan-airplane-crash-idINKCN0XR0JM)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

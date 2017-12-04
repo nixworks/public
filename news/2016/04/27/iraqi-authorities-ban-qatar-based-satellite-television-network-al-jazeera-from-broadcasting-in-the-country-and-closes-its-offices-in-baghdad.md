@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/iraqi-authorities-ban-qatar-based-satellite-television-network-al-jazeera-from-broadcasting-in-the-country-and-closes-its-offices-in-baghdad.html)  [JSON](/news/2016/04/27/iraqi-authorities-ban-qatar-based-satellite-television-network-al-jazeera-from-broadcasting-in-the-country-and-closes-its-offices-in-baghdad.json)  [XML](/news/2016/04/27/iraqi-authorities-ban-qatar-based-satellite-television-network-al-jazeera-from-broadcasting-in-the-country-and-closes-its-offices-in-baghdad.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # Iraqi authorities ban Qatar-based satellite television network Al Jazeera from broadcasting in the country and closes its offices in Baghdad, accusing it of violating government guidelines issued in 2014 to regulate media "during the war on terror". 
@@ -5,10 +8,10 @@
 Iraqi authorities have revoked the operating licence of the pan-Arab satellite network Al Jazeera and closed its offices in Baghdad, accusing it of violating government guidelines issued in 2014 to regulate media “during the war on terror.”
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-qatar-aljazeera-iraq-idUSKCN0XO2O8)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134799908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q1KU)
+1. [Reuters](https://www.reuters.com/article/us-qatar-aljazeera-iraq-idUSKCN0XO2O8)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134799908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q1KU)
 
 ### Related:
 

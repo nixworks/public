@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/10/index.html)  [JSON](2016/05/10/index.json)  [XML](2016/05/10/index.xml)  
+
 ## [2016-05-10](/news/2016/05/10/index.md)
 
 ### [Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. ](/news/2016/05/10/ali-haider-gilani-the-son-of-former-prime-minister-of-pakistan-yousaf-raza-gilani-is-rescued-in-a-joint-operation-by-u-s-and-afghan-force.md)

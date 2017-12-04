@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/the-united-states-food-and-drug-administration-announces-it-has-relaxed-its-official-requirements-regarding-the-use-of-the-abortion-drug-mif.html)  [JSON](/news/2016/03/30/the-united-states-food-and-drug-administration-announces-it-has-relaxed-its-official-requirements-regarding-the-use-of-the-abortion-drug-mif.json)  [XML](/news/2016/03/30/the-united-states-food-and-drug-administration-announces-it-has-relaxed-its-official-requirements-regarding-the-use-of-the-abortion-drug-mif.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # The United States Food and Drug Administration announces it has relaxed its official requirements regarding the use of the abortion drug Mifeprex (RU-486). The current guidelines were based on 1990s medical evidence. Changes include reducing the number of physician visits required by abortion-seeking women, reducing drug dosage, and allowing women to take the drug for three weeks longer -- now a total of 70 days. 
@@ -5,7 +8,7 @@
 The FDA said Wednesday it has relaxed its official requirements for the use of the abortion drug Mifeprex, which were based on outdated 1990s medical evidence.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/US/2016/03/30/FDA-revises-instructions-for-use-of-abortion-drug-Mifeprex-womens-health-advocates-hail-victory/4721459361592/?spt=hts&or=2)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4721459361592/2016/1/1e4c0a9ba49a73cbcaa21197a4cdbe72/v1.5/FDA-revises-instructions-for-use-of-abortion-drug-Mifeprex-womens-health-advocates-hail-victory.jpg)

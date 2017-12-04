@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/british-doctors-go-on-strike-for-the-first-time-in-the-history-of-the-national-health-service.html)  [JSON](/news/2016/04/26/british-doctors-go-on-strike-for-the-first-time-in-the-history-of-the-national-health-service.json)  [XML](/news/2016/04/26/british-doctors-go-on-strike-for-the-first-time-in-the-history-of-the-national-health-service.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # British doctors go on strike for the first time in the history of the National Health Service. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_BRITAIN__DOCTORS_STRIKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

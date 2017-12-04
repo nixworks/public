@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/the-continuing-influence-of-english-dramatist-william-shakespeare-is-celebrated-on-the-400th-anniversary-of-his-death-in-stratford-upon-avon.html)  [JSON](/news/2016/04/23/the-continuing-influence-of-english-dramatist-william-shakespeare-is-celebrated-on-the-400th-anniversary-of-his-death-in-stratford-upon-avon.json)  [XML](/news/2016/04/23/the-continuing-influence-of-english-dramatist-william-shakespeare-is-celebrated-on-the-400th-anniversary-of-his-death-in-stratford-upon-avon.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # The continuing influence of English dramatist William Shakespeare is celebrated on the 400th anniversary of his death in Stratford-upon-Avon. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/4303852/shakespeare-life-video/)
 

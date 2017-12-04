@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/13/index.html)  [JSON](2016/05/13/index.json)  [XML](2016/05/13/index.xml)  
+
 ## [2016-05-13](/news/2016/05/13/index.md)
 
 ### [An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot. ](/news/2016/05/13/an-australian-security-contractor-is-killed-outside-the-australian-embassy-in-baghdad-there-are-unconfirmed-reports-that-he-was-shot.md)

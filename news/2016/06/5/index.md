@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/5/index.html)  [JSON](2016/06/5/index.json)  [XML](2016/06/5/index.xml)  
+
 ## [2016-06-5](/news/2016/06/5/index.md)
 
 ### [Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turkey-killing-at-least-27-militants.md)

@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.html)  [JSON](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.json)  [XML](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.xml)  
+
 ### [2016-05-16](/news/2016/05/16/index.md)
 
 # The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. 
 
-The patient is recovering well and showing no signs of rejecting the transplant.
+A hospital in Boston becomes the first in the US to perform a successful penis transplant, say doctors, calling the operation &quot;a surgical milestone&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-36304320)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2016/05/16/first-penis-transplant-us-performed-boston/84433658/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2016/05/16/first-penis-transplant-us-performed-boston/84433658/)
+2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0A64/production/_89706620_hi032965332.jpg)
 
 ### Related:
 

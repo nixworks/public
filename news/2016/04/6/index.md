@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/6/index.html)  [JSON](2016/04/6/index.json)  [XML](2016/04/6/index.xml)  
+
 ## [2016-04-6](/news/2016/04/6/index.md)
 
 ### [The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md)
@@ -16,7 +19,7 @@ Months of a severe drought broken by heavy rain as torrential downpours develop 
 _Context: 1991-95 war, Croatia, Croatian Serb, Goran Hadzic, International Criminal Tribunal for the former Yugoslavia_
 
 ### [The President of Russia Vladimir Putin announces the creation of a new National Guard, which he said would fight terrorism and organized crime. However, some critics claim the creation of the National Guard is linked to the upcoming legislative election this September with them saying that Putin fears unrest, something Putin's spokesman Dmitry Peskov denies. ](/news/2016/04/6/the-president-of-russia-vladimir-putin-announces-the-creation-of-a-new-national-guard-which-he-said-would-fight-terrorism-and-organized-cri.md)
-_Context: Dmitry Peskov, National Guard, Russian legislative election, 2016, Russian president, Vladimir Putin_
+_Context: Dmitry Peskov, National Guard, Russian President, Russian legislative election, 2016, Vladimir Putin_
 
 ### [Voters in the Netherlands go to the polls for a non-binding referendum on approval of the Ukraine-European Union Association Agreement. ](/news/2016/04/6/voters-in-the-netherlands-go-to-the-polls-for-a-non-binding-referendum-on-approval-of-the-ukraineaeuropean-union-association-agreement.md)
 If the organisers of Wednesday&#039;s referendum don&#039;t care about Ukraine, the Dutch government should give them what they ask for and ignore the results.

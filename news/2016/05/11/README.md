@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/11/index.html)  [JSON](2016/05/11/index.json)  [XML](2016/05/11/index.xml)  
+
 ## [2016-05-11](/news/2016/05/11/index.md)
 
 ### [ At least 64 people are killed and 87 injured in a bomb attack on a market in Sadr City, Baghdad. Islamic State of Iraq and the Levant (ISIS) claims responsibility. ](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.md)
@@ -13,7 +16,7 @@ A fragment of the world&#39;s oldest known ground-edge axe is found in the remot
 From Tuesday midnight to Thursday midnight, entry into Israel will be permitted only in humanitarian and health related cases.
 
 ### [The head of Bangladesh's largest Islamist party, Bangladesh Jamaat-e-Islami, Motiur Rahman Nizami, is executed for his alleged role in acts of genocide and war crimes 45 years ago during the independence war against Pakistan in 1971. Nizami is the fifth senior opposition leader to be executed in connection with the war; a total of 17 people have received the death penalty. Authorities prepare for possibly violent protests. ](/news/2016/05/11/the-head-of-bangladeshas-largest-islamist-party-bangladesh-jamaat-e-islami-motiur-rahman-nizami-is-executed-for-his-alleged-role-in-act.md)
-_Context: Bangladesh, Bangladesh Jamaat-e-Islami, Motiur Rahman Nizami, Pakistan, independence war_
+Motiur Rahman Nizami, leader of the country’s largest Islamic party, was hanged on a 2014 conviction of committing atrocities in the 1971 war of independence.
 
 ### [ Amnesty International reports that this year at least 149 have died, including children, in a military detention center, Giwa barracks, in Maiduguri, Nigeria. ](/news/2016/05/11/amnesty-international-reports-that-this-year-at-least-149-have-died-including-children-in-a-military-detention-center-giwa-barracks-in.md)
 We are Amnesty International UK. We work to protect men, women and children wherever justice, freedom, truth and dignity are denied.
@@ -28,7 +31,7 @@ German men convicted on the basis of a 19th century law criminalizing homosexual
 _Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President, Senate_
 
 ### [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md)
-_Context: Italian Parliament, Recognition of same-sex unions in Italy, civil union, same-sex couples_
+The law, opposed by the Vatican, stops short of gay marriage but brings Italy more in line with other Western European countries.
 
 ### [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.md)
 _Context: Kampala, Kizza Besigye, President, Uganda, Ugandan general election, 2016, Yoweri Museveni, inauguration, social media_

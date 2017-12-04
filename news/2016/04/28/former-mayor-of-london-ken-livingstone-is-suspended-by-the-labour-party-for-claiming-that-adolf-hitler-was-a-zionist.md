@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.html)  [JSON](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.json)  [XML](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # Former Mayor of London Ken Livingstone is suspended by the Labour Party for claiming that Adolf Hitler was a Zionist. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/04/28/ken-livingstone-suspended-labour-party-anti-semitism/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/b/5/b5ntg2mze6z57lznje16fgc3ph7zjkkz-xlarge.jpg)

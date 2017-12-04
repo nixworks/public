@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/the-new-government-of-kyrgyzstan-is-sworn-in-with-prime-minister-sooronbay-jeenbekov-taking-the-oath-of-office.html)  [JSON](/news/2016/04/28/the-new-government-of-kyrgyzstan-is-sworn-in-with-prime-minister-sooronbay-jeenbekov-taking-the-oath-of-office.json)  [XML](/news/2016/04/28/the-new-government-of-kyrgyzstan-is-sworn-in-with-prime-minister-sooronbay-jeenbekov-taking-the-oath-of-office.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # The new government of Kyrgyzstan is sworn in with Prime Minister Sooronbay Jeenbekov taking the oath of office. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/kyrgyzstan-new-government-oath-of-office/27704204.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/six-high-ranking-pakistan-army-officers-including-a-lieutenant-general-and-major-general-are-sacked-by-chief-of-army-staff-raheel-sharif-a.html)  [JSON](/news/2016/04/21/six-high-ranking-pakistan-army-officers-including-a-lieutenant-general-and-major-general-are-sacked-by-chief-of-army-staff-raheel-sharif-a.json)  [XML](/news/2016/04/21/six-high-ranking-pakistan-army-officers-including-a-lieutenant-general-and-major-general-are-sacked-by-chief-of-army-staff-raheel-sharif-a.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # Six high ranking Pakistan Army officers, including a lieutenant-general and major-general, are sacked by Chief of Army Staff Raheel Sharif amid corruption allegations within the army. Sharif said corruption had to be uprooted to fight terrorism. 
@@ -5,7 +8,7 @@
 At least six high-ranking Pakistani army officers, including a lieutenant-general and major-general, are sacked amid corruption allegations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36099794)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/183FF/production/_89372399_89372398.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.html)  [JSON](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.json)  [XML](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. 
@@ -5,10 +8,16 @@
 MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the country&#039;s political parties has enough support to form a government, setting the stage for an unprecedented repeat election in June, six months after…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/2ff14887f7104e06a0e949a01ac78726/spains-king-parties-hold-final-talks-avoid-new-election)
 1. [Cover Image](http://binaryapi.ap.org/71c84960f5324b19aeb692d7435a4b40/460x.jpg)
+
+### Changes:
+
+1. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-p.md) _2017-08-25 03:45:28 (First version)_
+2. [Spanish general election, 2016: Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spanish-general-election-2016-spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-no.md) _2017-08-27 03:45:51 (Update)_
+2. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the cou
 3. [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md) _Context: Spain, Spanish general election, 2016_
 4. [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md) _Context: Spain, election_
 5. [Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.md) _Context: Spain, election_
-
-### Changes:
-
-1. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-p.md) _2017-08-25 03:45:28 (First version)_
-2. [Spanish general election, 2016: Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spanish-general-election-2016-spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-no.md) _2017-08-27 03:45:51 (Update)_
-2. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.md) _(Current version)_

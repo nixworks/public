@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/human-rights-abuse-victims-during-the-regime-of-ferdinand-marcos-stake-a-claim-on-auction-proceeds-from-imelda-marcos-art-collection-which.html)  [JSON](/news/2016/04/15/human-rights-abuse-victims-during-the-regime-of-ferdinand-marcos-stake-a-claim-on-auction-proceeds-from-imelda-marcos-art-collection-which.json)  [XML](/news/2016/04/15/human-rights-abuse-victims-during-the-regime-of-ferdinand-marcos-stake-a-claim-on-auction-proceeds-from-imelda-marcos-art-collection-which.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # Human rights abuse victims during the regime of Ferdinand Marcos stake a claim on auction proceeds from Imelda Marcos' art collection, which includes pieces by Michelangelo, Monet, Van Gogh, and Picasso. 
@@ -5,7 +8,7 @@
 This is to cover the $1.966 billion awarded to them by a US jury in 1992, and the $353-million compensatory judgment by the US District Court of Hawaii in 2011
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/129598-human-rights-victims-claim-marcos-art-collection)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7A23CBF9E6A842D6B04443BF518AC874/martiallaw-freedoms-20120921.jpg)

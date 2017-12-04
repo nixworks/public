@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/13/a-massive-fire-breaks-out-at-a-tire-dump-in-sesea-a-near-madrid-in-spain-the-illegal-dump-contains-100-000-tons-of-used-vehicle-tires-the.html)  [JSON](/news/2016/05/13/a-massive-fire-breaks-out-at-a-tire-dump-in-sesea-a-near-madrid-in-spain-the-illegal-dump-contains-100-000-tons-of-used-vehicle-tires-the.json)  [XML](/news/2016/05/13/a-massive-fire-breaks-out-at-a-tire-dump-in-sesea-a-near-madrid-in-spain-the-illegal-dump-contains-100-000-tons-of-used-vehicle-tires-the.xml)  
+
 ### [2016-05-13](/news/2016/05/13/index.md)
 
 # A massive fire breaks out at a tire dump in Sesena, near Madrid in Spain. The illegal dump contains 100,000 tons of used vehicle tires. The smoke from the fire is visible for at least 30km. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/spanish-town-residents-ordered-indoors-tire-dump-blaze-39085166)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/2/index.html)  [JSON](2016/06/2/index.json)  [XML](2016/06/2/index.xml)  
+
 ## [2016-06-2](/news/2016/06/2/index.md)
 
 ### [In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-mastermind-of-the-garissa-university-col.md)
@@ -25,13 +28,13 @@ Micah Ferebee was being pushed in a stroller by his father on Westerville Road w
 German MPs recognise the mass killing of Armenians by Ottoman Turks in 1915 as &quot;genocide&quot;, prompting Turkey to recall its ambassador in anger.
 
 ### [An autopsy finds that American musician Prince died of an overdose of fentanyl, an opioid painkiller 50 times more powerful than heroin. ](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-died-of-an-overdose-of-fentanyl-an-opioid-painkiller-50-times-more-powerful-than-heroin.md)
-_Context: Prince, autopsy, fentanyl, heroin, opioid, overdose_
+Officials in Minnesota said the singer sustained an accidental overdose of self-administered fentanyl, a type of synthetic opiate.
 
 ### [A second victim of the UCLA shooter is found in Minnesota; the shooter is identified as a former Ph.D. candidate in mechanical engineering that claimed his first victim had "cleverly stolen his code." ](/news/2016/06/2/a-second-victim-of-the-ucla-shooter-is-found-in-minnesota-the-shooter-is-identified-as-a-former-ph-d-candidate-in-mechanical-engineering-t.md)
-_Context: 2016 UCLA shooting, Minnesota, UCLA, code, mechanical engineering_
+The gunman who killed a professor and himself may have also killed a woman in Minnesota, and may have intended to kill another professor, the authorities said.
 
 ### [Four Syrians who are suspected of traveling to Europe on behalf of the Islamic State to attack Dusseldorf are arrested. ](/news/2016/06/2/four-syrians-who-are-suspected-of-traveling-to-europe-on-behalf-of-the-islamic-state-to-attack-da1-4sseldorf-are-arrested.md)
-_Context: Dusseldorf, Europe, ISIL, Syrians_
+Three Syrians who were arrested Thursday in Germany, plus one in custody in France, were charged in connection with a plan that involved suicide bombings, prosecutors said.
 
 ### [24 people are killed and 368 arrested in the Indian city of Mathura as police attempt to clear members of a squatter group from land they are occupying. ](/news/2016/06/2/24-people-are-killed-and-368-arrested-in-the-indian-city-of-mathura-as-police-attempt-to-clear-members-of-a-squatter-group-from-land-they-ar.md)
 Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place when police went to evict the members of Azad Bharat Vidhik Vaicharik Kranti Satyagrahi, which has made outlandish demands for the removal of the President and Prime Minister and replacing of the Indian currency.

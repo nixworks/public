@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.html)  [JSON](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.json)  [XML](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # An ethnic Armenian soldier dies in overnight clashes. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [News Armenia](http://news.am/eng/news/320985.html)
 1. [Cover Image](https://news.am/img/news/32/09/85/default.jpg)
+
+### Changes:
+
+1. [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-05-25 03:47:29 (First version)_
+2. [2016 Armenian-Azerbaijani clashes: An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenian-azerbaijani-clashes-an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-08-27 03:45:31 (Update)_
+2. [An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed-overnight-by-azerbaijani-troops.md) _Context: 2016 Armenian-Azerbaijani clashes_
 4. [Armenia and Azerbaijan exchange gunfire for the third successive day after an escalation of a dispute over the boundaries between Azerbaijan and the disputed Nagorno-Karabakh Republic. ](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-third-successive-day-after-an-escalation-of-a-dispute-over-the-boundaries-between-azerbaijan.md) _Context: 2016 Armenian-Azerbaijani clashes_
 5. [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md) _Context: Armenian_
-
-### Changes:
-
-1. [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-05-25 03:47:29 (First version)_
-2. [2016 Armenian-Azerbaijani clashes: An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenian-azerbaijani-clashes-an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _2017-08-27 03:45:31 (Update)_
-2. [An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.md) _(Current version)_

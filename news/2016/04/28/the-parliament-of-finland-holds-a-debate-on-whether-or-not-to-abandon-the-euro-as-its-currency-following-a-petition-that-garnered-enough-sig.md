@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.html)  [JSON](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.json)  [XML](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # The Parliament of Finland holds a debate on whether or not to abandon the Euro as its currency following a petition that garnered enough signatures to force the issue into parliament. This comes as Finland as dealing with a weakening economy but the petition is unlikely to lead to the country leaving the Eurozone. 
@@ -5,10 +8,10 @@
 Finnish lawmakers on Thursday held a rare debate on whether the Nordic country should quit the euro after 53,000 people signed a petition to force the issue into parliament.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-eurozone-finland-exit-idUSKCN0XP2FP)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-eurozone-finland-exit-idUSKCN0XP2FP)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

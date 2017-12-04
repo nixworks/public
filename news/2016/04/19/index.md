@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/19/index.html)  [JSON](2016/04/19/index.json)  [XML](2016/04/19/index.xml)  
+
 ## [2016-04-19](/news/2016/04/19/index.md)
 
 ### [A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. ](/news/2016/04/19/a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the-start-of-their-annual-spring-offensive-the.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/authorities-in-rwanda-jail-former-politician-la-c-on-mugesera-for-life-mugesera-was-known-for-describing-tutsis-as-cockroaches-and-called-f.html)  [JSON](/news/2016/04/15/authorities-in-rwanda-jail-former-politician-la-c-on-mugesera-for-life-mugesera-was-known-for-describing-tutsis-as-cockroaches-and-called-f.json)  [XML](/news/2016/04/15/authorities-in-rwanda-jail-former-politician-la-c-on-mugesera-for-life-mugesera-was-known-for-describing-tutsis-as-cockroaches-and-called-f.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # Authorities in Rwanda jail former politician Leon Mugesera for life. Mugesera was known for describing Tutsis as "cockroaches" and called for their extermination in a speech in 1992 and is said to be a precursor to the Rwandan genocide. 
@@ -5,7 +8,7 @@
 A former Rwandan politician who described Tutsis as &quot;cockroaches&quot; and called for their extermination is jailed for life over the 1994 genocide.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36057575)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14A69/production/_89258548_27787fcc10b532dabd6bd507057a3839.jpg)

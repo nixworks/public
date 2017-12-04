@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.html)  [JSON](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.json)  [XML](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. 
@@ -5,10 +8,15 @@
 Police officers come under attack in a two-hour gunfight in the Mexican city of Acapulco.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36127224)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/66FB/production/_89436362_89436361.jpg)
+
+### Changes:
+
+1. [Mexican Drug War: Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-drug-war-mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-s.md) _2017-08-27 03:45:50 (First version)_
+1. [Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Police officers come under attack in a two-hour gunfight in the Mexican city of 
 3. [Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md) _Context: Mexican Drug War, Mexican Police_
 4. [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _Context: Acapulco_
 5. [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _Context: Mexican Drug War_
-
-### Changes:
-
-1. [Mexican Drug War: Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-drug-war-mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-s.md) _2017-08-27 03:45:50 (First version)_
-1. [Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.md) _(Current version)_

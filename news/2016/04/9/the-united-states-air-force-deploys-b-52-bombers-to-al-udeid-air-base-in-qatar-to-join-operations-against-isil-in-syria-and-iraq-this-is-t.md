@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/the-united-states-air-force-deploys-b-52-bombers-to-al-udeid-air-base-in-qatar-to-join-operations-against-isil-in-syria-and-iraq-this-is-t.html)  [JSON](/news/2016/04/9/the-united-states-air-force-deploys-b-52-bombers-to-al-udeid-air-base-in-qatar-to-join-operations-against-isil-in-syria-and-iraq-this-is-t.json)  [XML](/news/2016/04/9/the-united-states-air-force-deploys-b-52-bombers-to-al-udeid-air-base-in-qatar-to-join-operations-against-isil-in-syria-and-iraq-this-is-t.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  The United States Air Force deploys B-52 bombers to Al Udeid Air Base in Qatar to join operations against ISIL in Syria and Iraq. This is the first time they have been stationed in the Middle East since the end of the Gulf War in 1991. 
@@ -7,8 +10,8 @@ The U.S. Air Force deployed B-52 bombers to Qatar on Saturday to join the fight 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-usa-bombers-idUSKCN0X60F1)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160409&t=2&i=1131525544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC380EU)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-usa-bombers-idUSKCN0X60F1)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160409&t=2&i=1131525544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC380EU)
 
 ### Changes:
 

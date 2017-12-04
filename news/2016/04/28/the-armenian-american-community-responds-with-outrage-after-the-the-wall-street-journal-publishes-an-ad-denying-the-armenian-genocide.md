@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/the-armenian-american-community-responds-with-outrage-after-the-the-wall-street-journal-publishes-an-ad-denying-the-armenian-genocide.html)  [JSON](/news/2016/04/28/the-armenian-american-community-responds-with-outrage-after-the-the-wall-street-journal-publishes-an-ad-denying-the-armenian-genocide.json)  [XML](/news/2016/04/28/the-armenian-american-community-responds-with-outrage-after-the-the-wall-street-journal-publishes-an-ad-denying-the-armenian-genocide.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # The Armenian-American community responds with outrage after the "The Wall Street Journal" publishes an ad denying the Armenian Genocide. 
@@ -5,7 +8,7 @@
 The ad, which follows billboards in the Boston and Chicago areas, comes just before the 101st anniversary of the genocide’s start.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/full-page-wsj-ad-denying-armenian-genocide-spurs-anger-450971)
 1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/04/21/4-21-16-armenian-genocide-commemoration.jpg)

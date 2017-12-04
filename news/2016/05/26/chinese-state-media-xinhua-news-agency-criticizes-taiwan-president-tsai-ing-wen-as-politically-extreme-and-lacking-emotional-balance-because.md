@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticizes-taiwan-president-tsai-ing-wen-as-politically-extreme-and-lacking-emotional-balance-because.html)  [JSON](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticizes-taiwan-president-tsai-ing-wen-as-politically-extreme-and-lacking-emotional-balance-because.json)  [XML](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticizes-taiwan-president-tsai-ing-wen-as-politically-extreme-and-lacking-emotional-balance-because.xml)  
+
 ### [2016-05-26](/news/2016/05/26/index.md)
 
 # Chinese state media Xinhua News Agency criticizes Taiwan President Tsai Ing-wen as politically extreme and lacking emotional balance because she is unmarried and does not have children. 
 
+An article by a senior scholar for the People’s Liberation Army said that Tsai Ing-wen was prone to a radical style because she lacked the “burden of love, family and children.”
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36375963)
-2. [The New York Times](http://www.nytimes.com/2016/05/26/world/asia/china-taiwan-tsai-unmarried-single.html?_r=0)
-2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/180C2/production/_89789489_hi033071697.jpg)
+2. [The New York Times](https://www.nytimes.com/2016/05/26/world/asia/china-taiwan-tsai-unmarried-single.html?_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2016/05/26/world/26CHINATSAI/26CHINATSAI-facebookJumbo.jpg)
 
 ### Related:
 

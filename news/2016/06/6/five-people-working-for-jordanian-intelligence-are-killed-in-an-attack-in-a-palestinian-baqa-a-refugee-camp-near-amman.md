@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.html)  [JSON](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.json)  [XML](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.xml)  
+
 ### [2016-06-6](/news/2016/06/6/index.md)
 
 # Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2016/06/06/Deadly-attack-hits-Jordan-s-Baqaa-refugee-camp-intelligence-office.html)
 

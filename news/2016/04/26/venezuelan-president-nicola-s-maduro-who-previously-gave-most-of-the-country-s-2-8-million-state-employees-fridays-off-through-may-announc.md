@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.html)  [JSON](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.json)  [XML](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # Venezuelan President Nicolas Maduro, who previously gave most of the country's 2.8 million state employees Fridays off through May, announces public workers will also have Wednesdays and Thursdays off for at least two weeks as an energy-saving measure. Full salaries will still be paid despite the two-day week. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-workers-idUSKCN0XN2YZ)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134642374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q01R)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-workers-idUSKCN0XN2YZ)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160427&t=2&i=1134642374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3Q01R)
 
 ### Related:
 

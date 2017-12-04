@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/5/at-least-12-people-are-killed-and-30-others-injured-after-a-bus-plunges-into-a-ravine-in-bolivia-s-eastern-santa-cruz-province.html)  [JSON](/news/2016/05/5/at-least-12-people-are-killed-and-30-others-injured-after-a-bus-plunges-into-a-ravine-in-bolivia-s-eastern-santa-cruz-province.json)  [XML](/news/2016/05/5/at-least-12-people-are-killed-and-30-others-injured-after-a-bus-plunges-into-a-ravine-in-bolivia-s-eastern-santa-cruz-province.xml)  
+
 ### [2016-05-5](/news/2016/05/5/index.md)
 
 # At least 12 people are killed and 30 others injured after a bus plunges into a ravine in Bolivia's eastern Santa Cruz province. 
@@ -5,7 +8,7 @@
 At least 12 people were killed and 30 others injured when a bus plunged into a ravine early Thursday in the eastern Bolivian province of Santa Cruz, the La Paz daily El Deber reported Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Agencia EFE](http://www.efe.com/efe/english/world/bus-accident-kills-12-injures-30-in-bolivia/50000262-2917528)
 1. [Cover Image](http://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjMOD5ggX-P-2b4ksILtZpOB5RvaQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UDrJPi4kuXFOSDMpUTTfnfw-P-3d-P-3d)

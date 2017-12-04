@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/7/a-pickup-truck-reported-to-be-driving-erratically-mowed-down-a-group-of-nine-bicycle-riders-killing-five-and-injuring-four-near-kalamazoo.html)  [JSON](/news/2016/06/7/a-pickup-truck-reported-to-be-driving-erratically-mowed-down-a-group-of-nine-bicycle-riders-killing-five-and-injuring-four-near-kalamazoo.json)  [XML](/news/2016/06/7/a-pickup-truck-reported-to-be-driving-erratically-mowed-down-a-group-of-nine-bicycle-riders-killing-five-and-injuring-four-near-kalamazoo.xml)  
+
 ### [2016-06-7](/news/2016/06/7/index.md)
 
 #  A pickup truck reported to be driving erratically mowed down a group of nine bicycle riders, killing five and injuring four near Kalamazoo, Michigan. The driver was arrested after fleeing. Authorities have not established any contributing causes of what is being called the worst bicycle accident in the county. 
@@ -5,9 +8,9 @@
 The county prosecutor charged the 50-year-old man who struck nine bicyclists Tuesday, killing five of them, with five counts of second-degree murder.
 
 
-### Source:
+### Sources:
 
-1. [Atlantic](http://www.theatlantic.com/news/archive/2016/06/michigan-bicycle-accident/486140/)
+1. [Atlantic](https://www.theatlantic.com/news/archive/2016/06/michigan-bicycle-accident/486140/)
 2. [CTV News](http://www.ctvnews.ca/world/official-truck-slams-into-bicyclists-in-michigan-killing-5-1.2936016)
 2. [Cover Image](https://cdn.theatlantic.com/assets/media/img/mt/2016/06/RTX283EC/facebook.jpg?1465389817)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.html)  [JSON](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.json)  [XML](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  Registered Democratic voters in the U.S. state of Wyoming gather, by county, for the Wyoming Democratic caucuses. Bernie Sanders is projected to win. 

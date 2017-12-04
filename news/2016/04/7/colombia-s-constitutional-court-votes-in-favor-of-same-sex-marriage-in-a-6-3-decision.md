@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/7/colombia-s-constitutional-court-votes-in-favor-of-same-sex-marriage-in-a-6-3-decision.html)  [JSON](/news/2016/04/7/colombia-s-constitutional-court-votes-in-favor-of-same-sex-marriage-in-a-6-3-decision.json)  [XML](/news/2016/04/7/colombia-s-constitutional-court-votes-in-favor-of-same-sex-marriage-in-a-6-3-decision.xml)  
+
 ### [2016-04-7](/news/2016/04/7/index.md)
 
 # Colombia's Constitutional Court votes in favor of same-sex marriage, in a 6-3 decision. 
@@ -5,7 +8,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/colombia-high-courts-paves-gay-marriage-rights-38230213)
 2. [The Advocate](http://www.advocate.com/world/2016/4/07/marriage-equality-comes-colombia)

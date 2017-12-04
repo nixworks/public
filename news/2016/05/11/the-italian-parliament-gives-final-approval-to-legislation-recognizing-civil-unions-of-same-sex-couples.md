@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.html)  [JSON](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.json)  [XML](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.xml)  
+
 ### [2016-05-11](/news/2016/05/11/index.md)
 
 # The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. 
 
+The law, opposed by the Vatican, stops short of gay marriage but brings Italy more in line with other Western European countries.
 
 
+### Sources:
 
-### Source:
+1. [The New York Times](https://www.nytimes.com/2016/05/12/world/europe/italy-gay-same-sex-unions.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2016/05/12/world/12Italy-web/12Italy-web-facebookJumbo.jpg)
 
-1. [The New York Times](http://www.nytimes.com/2016/05/12/world/europe/italy-gay-same-sex-unions.html?_r=0)
+### Changes:
+
+1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _2017-08-27 03:46:01 (First version)_
+1. [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-leg.md) _Context: civil union_
 4. [The Croatian parliament passes a law that recognizes life partnerships for same-sex couples, making them equal married couples in everything except adoption. ](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.md) _Context: civil union_
 5. [Pope Francis acknowledges that civil unions for LGBT people is a governmental move for economic and health management. ](/news/2014/03/6/pope-francis-acknowledges-that-civil-unions-for-lgbt-people-is-a-governmental-move-for-economic-and-health-management.md) _Context: civil union_
-
-### Changes:
-
-1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _2017-08-27 03:46:01 (First version)_
-1. [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md) _(Current version)_

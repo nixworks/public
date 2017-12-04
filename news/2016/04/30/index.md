@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/04/30/index.html)  [JSON](2016/04/30/index.json)  [XML](2016/04/30/index.xml)  
+
 ## [2016-04-30](/news/2016/04/30/index.md)
 
 ### [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility. ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md)
-_Context: April 2016 Baghdad bombing, Baghdad, ISIL, Iraqi Civil War (2014-present), Shi'ite, car bombing_
+_Context: April 2016 Baghdad bombing, Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shi'ite, car bombing_
 
 ### [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md)
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
@@ -34,7 +37,7 @@ Eighty-four migrants are missing after their inflatable dinghy sank off the Liby
 A Sudanese military plane crashed in the central city of El-Obeid on Saturday, killing five people, the army said.
 
 ### [China denies a Hong Kong port call by the U.S. Carrier Strike Group 3, which includes the aircraft carrier John C. Stennis and accompanying vessels. ](/news/2016/04/30/china-denies-a-hong-kong-port-call-by-the-u-s-carrier-strike-group-3-which-includes-the-aircraft-carrier-john-c-stennis-and-accompanying.md)
-China recently denied a request from a U.S. aircraft carrier for a port visit in Hong Kong, the State Department said.
+_Context: Carrier Strike Group 3_
 
 ### [Kenya burns 105 tonnes of elephant ivory and 1.05 tonnes of rhinoceros horn in order to call for a total ban on the ivory trade. ](/news/2016/04/30/kenya-burns-105-tonnes-of-elephant-ivory-and-1-05-tonnes-of-rhinoceros-horn-in-order-to-call-for-a-total-ban-on-the-ivory-trade.md)
 Eleven giant pyres of tusks went up in smoke Saturday as Kenya torched its vast ivory stockpile in a grand gesture aimed at shocking the world into stopping the slaughter of elephants. Lighting the fire in Nairobi&#x27;s national park, Kenyan President Uhuru Kenyatta demanded a total ban on trade in

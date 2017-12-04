@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/29/at-least-13-people-die-in-a-collision-between-a-taxi-and-truck-in-the-south-african-city-of-bloemfontein.html)  [JSON](/news/2016/04/29/at-least-13-people-die-in-a-collision-between-a-taxi-and-truck-in-the-south-african-city-of-bloemfontein.json)  [XML](/news/2016/04/29/at-least-13-people-die-in-a-collision-between-a-taxi-and-truck-in-the-south-african-city-of-bloemfontein.xml)  
+
 ### [2016-04-29](/news/2016/04/29/index.md)
 
 # At least 13 people die in a collision between a taxi and truck in the South African city of Bloemfontein. 
@@ -5,7 +8,7 @@
 A taxi collided with a truck on the R41 in Randfontein this afternoon.
 
 
-### Source:
+### Sources:
 
 1. [Eyewitness News](http://ewn.co.za/2016/04/29/Several-killed-in-taxi-truck-crash-in-Randfontein)
 1. [Cover Image](http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_fill,h_437,q_70,w_700/x3gjsnztrmxijmydmhpr)

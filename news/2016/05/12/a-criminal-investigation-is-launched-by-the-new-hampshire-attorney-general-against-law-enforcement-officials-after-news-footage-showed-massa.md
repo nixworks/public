@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/12/a-criminal-investigation-is-launched-by-the-new-hampshire-attorney-general-against-law-enforcement-officials-after-news-footage-showed-massa.html)  [JSON](/news/2016/05/12/a-criminal-investigation-is-launched-by-the-new-hampshire-attorney-general-against-law-enforcement-officials-after-news-footage-showed-massa.json)  [XML](/news/2016/05/12/a-criminal-investigation-is-launched-by-the-new-hampshire-attorney-general-against-law-enforcement-officials-after-news-footage-showed-massa.xml)  
+
 ### [2016-05-12](/news/2016/05/12/index.md)
 
 # A criminal investigation is launched by the New Hampshire attorney general against law enforcement officials after news footage showed Massachusetts-New Hampshire police appear to beat a man who was surrendering at the end of a bi-state car chase. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Washington Post via MSN](http://www.msn.com/en-us/news/us/new-hampshire-attorney-general-investigating-video-of-officers-repeatedly-punching-driver-after-hour-long-car-chase/ar-BBsWNvQ?li=BBnb7Kz&ocid=iehp)
 

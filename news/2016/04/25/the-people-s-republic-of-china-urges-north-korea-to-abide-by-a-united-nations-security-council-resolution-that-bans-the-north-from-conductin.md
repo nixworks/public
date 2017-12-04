@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/the-people-s-republic-of-china-urges-north-korea-to-abide-by-a-united-nations-security-council-resolution-that-bans-the-north-from-conductin.html)  [JSON](/news/2016/04/25/the-people-s-republic-of-china-urges-north-korea-to-abide-by-a-united-nations-security-council-resolution-that-bans-the-north-from-conductin.json)  [XML](/news/2016/04/25/the-people-s-republic-of-china-urges-north-korea-to-abide-by-a-united-nations-security-council-resolution-that-bans-the-north-from-conductin.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # The People's Republic of China urges North Korea to abide by a United Nations Security Council resolution that bans the North from conducting ballistic missile tests, two days after Pyongyang claimed it conducted a test from a submarine. 
@@ -5,7 +8,7 @@
  China on Monday called on North Korea to abide by the U.N. Security Council resolutions that ban the North from conducting ballistic missile launches two days after Pyongyang claimed it successfully fired a ballistic missile from a submarine.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2016/04/25/0200000000AEN20160425009300315.html?input=www.tweeter.com?911eea60)
 

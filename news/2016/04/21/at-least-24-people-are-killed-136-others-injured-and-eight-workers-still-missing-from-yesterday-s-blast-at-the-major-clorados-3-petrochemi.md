@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/at-least-24-people-are-killed-136-others-injured-and-eight-workers-still-missing-from-yesterday-s-blast-at-the-major-clorados-3-petrochemi.html)  [JSON](/news/2016/04/21/at-least-24-people-are-killed-136-others-injured-and-eight-workers-still-missing-from-yesterday-s-blast-at-the-major-clorados-3-petrochemi.json)  [XML](/news/2016/04/21/at-least-24-people-are-killed-136-others-injured-and-eight-workers-still-missing-from-yesterday-s-blast-at-the-major-clorados-3-petrochemi.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # At least 24 people are killed, 136 others injured, and eight workers still missing from yesterday's blast at the major Clorados 3 petrochemical plant of Petroquimica Mexicana de Vinilo. Nineteen people remain hospitalized, with 13 in serious condition. The plant is run by Mexichem under agreement with Petroleos Mexicanos (Pemex), the national petrochemical company, in Coatzacoalcos, Veracruz, Mexico, on the country's southern Gulf of Mexico coast. Pemex had an earlier fire at the same facility in February 2016 that killed one worker; also that month, an offshore Pemex Gulf platform fire killed two and injured eight. 
@@ -5,11 +8,11 @@
 Twenty-four people died after a leak caused a deadly petrochemical plant blast, and the death toll could still rise, Mexican oil giant Pemex said on Thursday, the latest in a series of fatal accidents to batter the company.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/2fc052b98c0d407081c9749158f75a01/24-dead-mexico-petrochemical-plant-blast-8-still-missing)
-2. [Reuters](http://www.reuters.com/article/us-mexico-pemex-idUSKCN0XH2N2)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160421&t=2&i=1133949009&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3K1GS)
+2. [Reuters](https://www.reuters.com/article/us-mexico-pemex-idUSKCN0XH2N2)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160421&t=2&i=1133949009&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3K1GS)
 
 ### Related:
 

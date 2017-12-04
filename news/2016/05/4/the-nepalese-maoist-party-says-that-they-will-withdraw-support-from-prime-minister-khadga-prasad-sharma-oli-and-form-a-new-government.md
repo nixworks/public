@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.html)  [JSON](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.json)  [XML](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.xml)  
+
 ### [2016-05-4](/news/2016/05/4/index.md)
 
 # The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nepal-politics-idUSKCN0XV0Y4?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-nepal-politics-idUSKCN0XV0Y4?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160504&t=2&i=1135695063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC430HE)
 
 ### Related:

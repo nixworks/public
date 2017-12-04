@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/3/index.html)  [JSON](2016/06/3/index.json)  [XML](2016/06/3/index.xml)  
+
 ## [2016-06-3](/news/2016/06/3/index.md)
 
 ### [The flood waters for the Seine River are expected to peak at six metres above its normal level. Flooding in France and Germany has so far claimed at least 11 lives. ](/news/2016/06/3/the-flood-waters-for-the-seine-river-are-expected-to-peak-at-six-metres-above-its-normal-level-flooding-in-france-and-germany-has-so-far-cl.md)

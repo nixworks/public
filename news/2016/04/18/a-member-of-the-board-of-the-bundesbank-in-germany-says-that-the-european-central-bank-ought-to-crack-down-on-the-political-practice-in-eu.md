@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.html)  [JSON](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.json)  [XML](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.xml)  
+
 ### [2016-04-18](/news/2016/04/18/index.md)
 
 # A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-ecb-banks-bundesbank-idUSKCN0XF1NP)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160418&t=2&i=1133343399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3H0WK)
+1. [Reuters](https://www.reuters.com/article/us-ecb-banks-bundesbank-idUSKCN0XF1NP)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160418&t=2&i=1133343399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3H0WK)
 
 ### Related:
 

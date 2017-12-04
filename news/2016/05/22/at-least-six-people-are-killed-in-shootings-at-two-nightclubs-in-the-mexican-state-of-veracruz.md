@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/22/at-least-six-people-are-killed-in-shootings-at-two-nightclubs-in-the-mexican-state-of-veracruz.html)  [JSON](/news/2016/05/22/at-least-six-people-are-killed-in-shootings-at-two-nightclubs-in-the-mexican-state-of-veracruz.json)  [XML](/news/2016/05/22/at-least-six-people-are-killed-in-shootings-at-two-nightclubs-in-the-mexican-state-of-veracruz.xml)  
+
 ### [2016-05-22](/news/2016/05/22/index.md)
 
 #  At least six people are killed in shootings at two nightclubs in the Mexican state of Veracruz. 
@@ -5,7 +8,7 @@
 Mexican authorities say a total of six men were killed in shootings at two nightclubs in the Gulf coast state of Veracruz.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/22/6-dead-in-pair-nightclub-shootings-on-mexico-gulf-coast.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/29/index.html)  [JSON](2016/04/29/index.json)  [XML](2016/04/29/index.xml)  
+
 ## [2016-04-29](/news/2016/04/29/index.md)
 
 ### [According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensive-against-the-isi.md)
@@ -22,7 +25,7 @@ A taxi collided with a truck on the R41 in Randfontein this afternoon.
 A mosque under refurbishment collapses during Friday prayers in the Somali capital Mogadishu, killing at least 15 people and injuring 40.
 
 ### [ The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. ](/news/2016/04/29/the-centers-for-disease-control-and-prevention-reports-the-first-zika-virus-related-death-in-the-united-states-an-elderly-man-in-puerto-ri.md)
-The man died from internal bleeding resulting from a rare immune reaction to his Zika infection.
+An elderly man from Puerto Rico succumbed after complications from an earlier infection caused by the disease-carrying mosquito.
 
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
 _Context: Air Force, Baltics, Lithuania, Lithuania-United States relations, Russia, Ukraine, most advanced fighter jets_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.html)  [JSON](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.json)  [XML](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.xml)  
+
 ### [2016-04-29](/news/2016/04/29/index.md)
 
 # A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/decision-drop-zuma-corruption-charges-reviewed-160429100841135.html)
 

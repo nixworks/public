@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/30/more-details-emerge-on-the-rescue-of-olympiacos-and-mexico-international-footballer-alan-pulido-kidnapped-in-ciudad-victoria-on-may-28-he.html)  [JSON](/news/2016/05/30/more-details-emerge-on-the-rescue-of-olympiacos-and-mexico-international-footballer-alan-pulido-kidnapped-in-ciudad-victoria-on-may-28-he.json)  [XML](/news/2016/05/30/more-details-emerge-on-the-rescue-of-olympiacos-and-mexico-international-footballer-alan-pulido-kidnapped-in-ciudad-victoria-on-may-28-he.xml)  
+
 ### [2016-05-30](/news/2016/05/30/index.md)
 
 #  More details emerge on the rescue of Olympiacos and Mexico international footballer Alan Pulido, kidnapped in Ciudad Victoria on May 28. He escaped by overpowering a captor left alone with him. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://www.espnfc.us/mexico/story/2883505/mexico-alan-pulido-freed-himself-from-kidnappers-by-wrestling-away-gun)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.html)  [JSON](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.json)  [XML](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.xml)  
+
 ### [2016-05-9](/news/2016/05/9/index.md)
 
 # At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. 
@@ -5,10 +8,15 @@
 Seven persons were today killed and 30 others injured after a bus overturned near Silli, near Ranchi, police said.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/india-news/7-dead-30-injured-in-bus-accident-in-ranchi-1404278)
 1. [Cover Image](http://i.ndtvimg.com/i/2016-05/jharkhand-map_650x400_71462769879.jpg)
+
+### Changes:
+
+1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkand.md) _2017-06-24 03:48:10 (First version)_
+1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Seven persons were today killed and 30 others injured after a bus overturned nea
 3. [A road accident near the Indian city of Jamshedpur in Jharkhand state kills thirteen pilgrims killed and leaves 11 injured. ](/news/2015/08/14/a-road-accident-near-the-indian-city-of-jamshedpur-in-jharkhand-state-kills-thirteen-pilgrims-killed-and-leaves-11-injured.md) _Context: India, Jharkhand_
 4. [Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/three-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district-of-india-s-jharkhand-state.md) _Context: India, Jharkhand_
 5. [Naxalite-Maoist insurgency: Six policemen in the eastern India state of Jharkhand are killed in an attack by Naxalites. ](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.md) _Context: India, Jharkhand_
-
-### Changes:
-
-1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkand.md) _2017-06-24 03:48:10 (First version)_
-1. [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.md) _(Current version)_

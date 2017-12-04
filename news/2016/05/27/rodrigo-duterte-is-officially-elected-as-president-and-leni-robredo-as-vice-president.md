@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.html)  [JSON](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.json)  [XML](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.xml)  
+
 ### [2016-05-27](/news/2016/05/27/index.md)
 
 # Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. 
@@ -5,9 +8,14 @@
 Controversial mayor, known as The Punisher, gets more than 16 million votes after campaign pledge to kill criminals.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/05/rodrigo-duterte-philippines-presidency-160527125454511.html)
+
+### Changes:
+
+1. [Philippine presidential election, 2016: Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/philippine-presidential-election-2016-rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _2017-08-27 03:46:08 (First version)_
+1. [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Controversial mayor, known as The Punisher, gets more than 16 million votes afte
 3. [Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. ](/news/2016/06/30/rodrigo-duterte-is-inaugurated-as-president-of-the-philippines-and-leni-robredo-as-vice-president.md) _Context: Leni Robredo, Philippine President, Rodrigo Duterte, Vice President of the Philippines_
 4. [Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-president-leni-robredo-regarding-her-narrow-v.md) _Context: Leni Robredo, Philippine presidential election, 2016, Vice President of the Philippines_
 5. [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md) _Context: Leni Robredo, Philippine presidential election, 2016, Vice President of the Philippines_
-
-### Changes:
-
-1. [Philippine presidential election, 2016: Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/philippine-presidential-election-2016-rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _2017-08-27 03:46:08 (First version)_
-1. [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md) _(Current version)_

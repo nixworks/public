@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.html)  [JSON](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.json)  [XML](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. 

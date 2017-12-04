@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.html)  [JSON](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.json)  [XML](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/04/23/world/asia/ap-as-pakistan.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/04/23/world/asia/ap-as-pakistan.html)
+
+### Changes:
+
+1. [War in North-West Pakistan: The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/war-in-north-west-pakistan-the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _2017-08-27 03:45:48 (First version)_
+1. [The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
 4. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: War in North-West Pakistan_
 5. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/war-in-north-west-pakistan-the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _2017-08-27 03:45:48 (First version)_
-1. [The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md) _(Current version)_

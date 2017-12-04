@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/30/at-least-five-people-are-killed-by-floods-in-the-u-s-state-of-texas.html)  [JSON](/news/2016/04/30/at-least-five-people-are-killed-by-floods-in-the-u-s-state-of-texas.json)  [XML](/news/2016/04/30/at-least-five-people-are-killed-by-floods-in-the-u-s-state-of-texas.xml)  
+
 ### [2016-04-30](/news/2016/04/30/index.md)
 
 #  At least five people are killed by floods in the U.S. state of Texas. 
@@ -5,7 +8,7 @@
 A 64-year-old woman and her four young great-grandchildren drowned early Saturday after a creek overflowed its banks, flooding an East Texas neighborhood as many residents slept, police said.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/us/2016/04/30/woman-4-grandchildren-killed-in-east-texas-flooding.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2016/04/30/woman-4-grandchildren-killed-in-east-texas-flooding/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1462045574487.jpg?ve=1)

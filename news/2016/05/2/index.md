@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/2/index.html)  [JSON](2016/05/2/index.json)  [XML](2016/05/2/index.xml)  
+
 ## [2016-05-2](/news/2016/05/2/index.md)
 
 ### [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself-in-nauru-to-protest-australia-s-treatment-of-refugees-the-protest-coincides-with-a-visit-by.html)  [JSON](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself-in-nauru-to-protest-australia-s-treatment-of-refugees-the-protest-coincides-with-a-visit-by.json)  [XML](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself-in-nauru-to-protest-australia-s-treatment-of-refugees-the-protest-coincides-with-a-visit-by.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # An Iranian asylum seeker self-immolates himself in Nauru to protest Australia's treatment of refugees. The protest coincides with a visit by representatives from the United Nations High Commissioner for Refugees to the island. Instead of admitting refugees into the country, Australia has been sending them to Nauru or Papua New Guinea. 
@@ -5,7 +8,7 @@
 An Iranian asylum seeker being held on Nauru is in a critical condition after setting himself alight, the Nauru government says.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/302485/burnt-iranian-in-critical-condition-on-nauru)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

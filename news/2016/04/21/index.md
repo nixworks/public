@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/21/index.html)  [JSON](2016/04/21/index.json)  [XML](2016/04/21/index.xml)  
+
 ## [2016-04-21](/news/2016/04/21/index.md)
 
 ### [The Ethiopian Army crosses the border into South Sudan with the latter's approval in search of more than 100 children who were kidnapped and spirited across the border in a surprise attack by unknown assailants that also killed 208 people a few days ago. ](/news/2016/04/21/the-ethiopian-army-crosses-the-border-into-south-sudan-with-the-latter-s-approval-in-search-of-more-than-100-children-who-were-kidnapped-and.md)
@@ -64,7 +67,7 @@ The presidential bet regales a crowd in Iloilo with a story of how he shot a fel
 _Context: Petro Poroshenko, Russia, Russia-Ukraine relations, Ukrainian President_
 
 ### [The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-main-political-opposition-le.md)
-_Context: 2016 Macedonian protests, EU, Macedonian, Zoran Zaev_
+_Context: 2016 Macedonian protests, European Union, Macedonian, Zoran Zaev_
 
 ### [The incumbent President of Chad Idriss Deby is reelected for a fifth term amid allegations of fraud. ](/news/2016/04/21/the-incumbent-president-of-chad-idriss-deby-is-reelected-for-a-fifth-term-amid-allegations-of-fraud.md)
 _Context: Chadian presidential election, 2016, Idriss Deby, President of Chad_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-killing-a-pilot-and-three-passengers.html)  [JSON](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-killing-a-pilot-and-three-passengers.json)  [XML](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-killing-a-pilot-and-three-passengers.xml)  
+
 ### [2016-06-3](/news/2016/06/3/index.md)
 
 # A helicopter crashes in Nabire, Papua, Indonesia, killing a pilot and three passengers. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Detik.com](https://news.detik.com/berita/3225346/helikopter-bell-jatuh-di-nabire-pilot-dan-3-penumpang-tewas)
 1. [Cover Image](https://sgimage.detik.net.id/community/media/visual/2016/06/04/5140a66e-9b33-4919-b1d6-cf88d8319d91.jpg?w=650)

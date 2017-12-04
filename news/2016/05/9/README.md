@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/05/9/index.html)  [JSON](2016/05/9/index.json)  [XML](2016/05/9/index.xml)  
+
 ## [2016-05-9](/news/2016/05/9/index.md)
 
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)
 _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 
 ### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
-_Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
+_Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015-present)_
 
 ### [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md)
 A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, including a leader who appeared in ISIS execution videos and was considered an heir apparent to terror mastermind Abu Musab al-Zarqawi, the Pentagon announced Monday.
@@ -25,13 +28,13 @@ BBC correspondent Rupert Wingfield-Hayes and his team fly to Beijing after being
 MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to kill suspected criminals and end crime within six months emerged Tuesday as the winner in presidential elections after securing an unassailable…
 
 ### [Austrian Chancellor Werner Faymann resigns after seven and a half years in office; says he lost the backing of his Social Democrats party. ](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.md)
-Austrian Chancellor Werner Faymann abruptly resigned Monday, saying he had lost the backing of his Social Democrats party.
+_Context: Austrian Chancellor, Social Democratic Party, Werner Faymann_
 
 ### [Waldir MaranhGBPo, the acting President of Brazil's Chamber of Deputies, says that the impeachment vote in that chamber should be annulled due to procedural irregularities and the voting process be held again. The Federal Senate is due to start voting on whether to impeach President Rousseff later this week. ](/news/2016/05/9/waldir-maranhagbpo-the-acting-president-of-brazil-s-chamber-of-deputies-says-that-the-impeachment-vote-in-that-chamber-should-be-annulled.md)
 RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive against President Dilma Rousseff took another hairpin turn Tuesday after the acting speaker of Congress&#039; lower house reversed his own decision…
 
 ### [ A transit of Mercury occurs, visible from Africa, the Americas, Europe and most of Asia. ](/news/2016/05/9/a-transit-of-mercury-occurs-visible-from-africa-the-americas-europe-and-most-of-asia.md)
-_Context: transit of Mercury_
+Monday: An unusual event in our sky, the return of the Jersey tomato, and other goings-on in the galaxy.
 
 ## [Previous Day...](/news/2016/05/8/index.md)
 

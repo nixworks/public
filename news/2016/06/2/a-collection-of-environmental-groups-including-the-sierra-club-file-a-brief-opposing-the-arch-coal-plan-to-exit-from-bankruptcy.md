@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.html)  [JSON](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.json)  [XML](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.xml)  
+
 ### [2016-06-2](/news/2016/06/2/index.md)
 
 # A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/arch-coal-bankruptcy-cleanup-idUSL1N18V248)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/arch-coal-bankruptcy-cleanup-idUSL1N18V248)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/at-least-23-people-are-killed-and-32-others-injured-after-a-bus-plunges-into-a-river-in-southeastern-peru.html)  [JSON](/news/2016/04/9/at-least-23-people-are-killed-and-32-others-injured-after-a-bus-plunges-into-a-river-in-southeastern-peru.json)  [XML](/news/2016/04/9/at-least-23-people-are-killed-and-32-others-injured-after-a-bus-plunges-into-a-river-in-southeastern-peru.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  At least 23 people are killed and 32 others injured after a bus plunges into a river in southeastern Peru. 

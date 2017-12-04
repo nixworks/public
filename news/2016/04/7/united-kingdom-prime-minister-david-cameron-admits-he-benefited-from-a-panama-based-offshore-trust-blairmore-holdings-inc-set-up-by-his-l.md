@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.html)  [JSON](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.json)  [XML](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.xml)  
+
 ### [2016-04-7](/news/2016/04/7/index.md)
 
 # United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. 
@@ -5,12 +8,17 @@
 PM sold stake in Blairmore investment fund, which featured in Panama Papers, for £31,500 four months before entering No 10
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/business/uks-cameron-says-he-did-profit-from-dads-offshore-holdings/2016/04/07/7114cc60-fcff-11e5-813a-90ab563f0dde_story.html)
-2. [The Guardian](http://www.theguardian.com/news/2016/apr/07/david-cameron-admits-he-profited-fathers-offshore-fund-panama-papers)
-3. [The New York Times](http://www.nytimes.com/aponline/2016/04/07/world/europe/ap-offshore-accounts-investigation-the-latest.html?_r=0)
+2. [The Guardian](https://www.theguardian.com/news/2016/apr/07/david-cameron-admits-he-profited-fathers-offshore-fund-panama-papers)
+3. [The New York Times](https://www.nytimes.com/aponline/2016/04/07/world/europe/ap-offshore-accounts-investigation-the-latest.html?_r=0)
 3. [Cover Image](https://i.guim.co.uk/img/media/db83abaac70b494f4b7e2f49e5453e31b19fa6a9/171_0_2257_1354/2257.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d08c87c14b471b5f5bd93c05188b1cb4)
+
+### Changes:
+
+1. [Panama Papers: United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/panama-papers-united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc.md) _2017-08-27 03:45:31 (First version)_
+1. [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ PM sold stake in Blairmore investment fund, which featured in Panama Papers, for
 3. [Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. ](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.md) _Context: David Cameron, Prime Minister_
 4. [The process to elect a new leader of the Conservative Party to replace outgoing Prime Minister David Cameron begins in the United Kingdom. The Secretary of State for Work and Pensions Stephen Crabb is the first Conservative Party politician to announce his official candidacy for leader. ](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.md) _Context: David Cameron, Prime Minister_
 5. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: David Cameron, Prime Minister_
-
-### Changes:
-
-1. [Panama Papers: United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/panama-papers-united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc.md) _2017-08-27 03:45:31 (First version)_
-1. [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth-said-that-the-united-states-would-consider-imposing-sanctions-or-an-arms-embargo-on-south.html)  [JSON](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth-said-that-the-united-states-would-consider-imposing-sanctions-or-an-arms-embargo-on-south.json)  [XML](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth-said-that-the-united-states-would-consider-imposing-sanctions-or-an-arms-embargo-on-south.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # U.S. Special Envoy to South Sudan Donald E. Booth said that the United States would consider imposing sanctions or an arms embargo on South Sudan's leaders if they fail to form and cooperate in a proposed unity government to end the country's civil war. 
@@ -5,7 +8,7 @@
 US envoy says sanctions or an arms embargo may be imposed on political leaders if they fail to keep the peace.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/sudan-leaders-work-face-sanctions-160428060019607.html)
 

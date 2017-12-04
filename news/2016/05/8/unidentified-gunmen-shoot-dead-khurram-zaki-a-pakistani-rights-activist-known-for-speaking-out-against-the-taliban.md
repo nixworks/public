@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.html)  [JSON](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.json)  [XML](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.xml)  
+
 ### [2016-05-8](/news/2016/05/8/index.md)
 
 #  Unidentified gunmen shoot dead Khurram Zaki, a Pakistani rights activist known for speaking out against the Taliban. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/content/pakistan-rights-activist-khurran-zhaki-killed-in-karachi/3320572.html)
 

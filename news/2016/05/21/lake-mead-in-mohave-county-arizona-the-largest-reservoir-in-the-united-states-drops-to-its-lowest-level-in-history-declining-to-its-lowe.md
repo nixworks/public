@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.html)  [JSON](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.json)  [XML](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.xml)  
+
 ### [2016-05-21](/news/2016/05/21/index.md)
 
 # Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [WFAA](http://www.wfaa.com/news/nation/lake-mead-drops-to-the-lowest-level-in-history/208435296)
 1. [Cover Image](http://content.11alive.com/photo/2016/05/21/635762703882987290-las-vegas-water-use12_1463839338345_2422670_ver1.0.jpg)

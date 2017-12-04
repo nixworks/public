@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/3/an-attacker-throws-a-grenade-and-fires-shots-outside-a-sports-hall-in-the-small-town-of-zubin-potok-in-northern-kosovo-just-hours-before-se.html)  [JSON](/news/2016/04/3/an-attacker-throws-a-grenade-and-fires-shots-outside-a-sports-hall-in-the-small-town-of-zubin-potok-in-northern-kosovo-just-hours-before-se.json)  [XML](/news/2016/04/3/an-attacker-throws-a-grenade-and-fires-shots-outside-a-sports-hall-in-the-small-town-of-zubin-potok-in-northern-kosovo-just-hours-before-se.xml)  
+
 ### [2016-04-3](/news/2016/04/3/index.md)
 
 # An attacker throws a grenade and fires shots outside a sports hall in the small town of Zubin Potok in northern Kosovo, just hours before Serbian Prime Minister Aleksandar Vucic was due to hold an election rally there. "A hand grenade exploded outside the sports hall but there are no injuries," Besim Hoti, a Kosovo police commander in the area, told Reuters. 
@@ -5,10 +8,10 @@
 An attacker threw a hand grenade and fired shots outside a sports hall in northern Kosovo early on Sunday, hours before Serbian Prime Minister Aleksandar Vucic was due to hold an election rally there, police said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-kosovo-blast-idUSKCN0X00GD)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-kosovo-blast-idUSKCN0X00GD)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

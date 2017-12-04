@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/23/germany-s-bayer-ag-makes-an-unsolicited-bid-valued-at-62-billion-cash-to-takeover-american-company-monsanto-to-create-the-world-s-largest-a.html)  [JSON](/news/2016/05/23/germany-s-bayer-ag-makes-an-unsolicited-bid-valued-at-62-billion-cash-to-takeover-american-company-monsanto-to-create-the-world-s-largest-a.json)  [XML](/news/2016/05/23/germany-s-bayer-ag-makes-an-unsolicited-bid-valued-at-62-billion-cash-to-takeover-american-company-monsanto-to-create-the-world-s-largest-a.xml)  
+
 ### [2016-05-23](/news/2016/05/23/index.md)
 
 # Germany's Bayer AG makes an unsolicited bid valued at $62 billion cash to takeover American company Monsanto to create the world's largest agricultural chemical company. 
@@ -5,10 +8,10 @@
 Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern that it will strain its finances as it seeks to become the world’s biggest seller of seeds and farm chemicals.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-23/germany-s-bayer-offers-62-billion-cash-to-acquire-monsanto)
-2. [The Wall Street Journal](http://www.wsj.com/articles/why-bayers-big-monsanto-bid-has-fallen-flat-1464013191)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-05-23/germany-s-bayer-offers-62-billion-cash-to-acquire-monsanto)
+2. [The Wall Street Journal](https://www.wsj.com/articles/why-bayers-big-monsanto-bid-has-fallen-flat-1464013191)
 2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

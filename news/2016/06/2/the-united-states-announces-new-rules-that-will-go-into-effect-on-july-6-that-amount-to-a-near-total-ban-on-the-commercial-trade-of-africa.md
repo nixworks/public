@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.html)  [JSON](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.json)  [XML](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.xml)  
+
 ### [2016-06-2](/news/2016/06/2/index.md)
 
 # The United States announces new rules, that will go into effect on July 6, that amount to a near-total ban on the commercial trade of African elephant ivory. 
@@ -5,15 +8,15 @@
 The move is the latest step in the Obama administration’s fight against wildlife trafficking.
 
 
-### Source:
+### Sources:
 
 1. [National Geographic](http://news.nationalgeographic.com/2016/06/us-ivory-ban-regulations/)
 1. [Cover Image](http://news.nationalgeographic.com/content/dam/news/2016/06/02/01-us-ivory-ban.ngsversion.1465392774823.adapt.1900.1.jpg)
 
 ### Related:
 
-1. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-2. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-3. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
-4. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: United States_
-5. [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md) _Context: United States_
+1. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: United States_
+2. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: United States_
+3. [The United States contemplates reimposing sanctions against Myanmar over alleged abuses against the Rohingya people. ](/news/2017/11/4/the-united-states-contemplates-reimposing-sanctions-against-myanmar-over-alleged-abuses-against-the-rohingya-people.md) _Context: United States_
+4. [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md) _Context: United States_
+5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: United States_

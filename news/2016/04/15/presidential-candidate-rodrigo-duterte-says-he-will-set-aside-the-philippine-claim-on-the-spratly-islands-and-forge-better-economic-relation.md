@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/presidential-candidate-rodrigo-duterte-says-he-will-set-aside-the-philippine-claim-on-the-spratly-islands-and-forge-better-economic-relation.html)  [JSON](/news/2016/04/15/presidential-candidate-rodrigo-duterte-says-he-will-set-aside-the-philippine-claim-on-the-spratly-islands-and-forge-better-economic-relation.json)  [XML](/news/2016/04/15/presidential-candidate-rodrigo-duterte-says-he-will-set-aside-the-philippine-claim-on-the-spratly-islands-and-forge-better-economic-relation.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # Presidential candidate Rodrigo Duterte says he will set aside the Philippine claim on the Spratly islands and forge better economic relations with China. 
@@ -5,7 +8,7 @@
 The presidential bet says leaving the issue of ownership behind can lead to a better deal with China if there is no progress with the international case being pursued by the Philippines
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129579-duterte-last-resort-west-philippine-sea-ownership)
 1. [Cover Image](https://assets.rappler.com/941C0BD160E54DCF825D81D5E23E7514/img/E0EED5D6FEAD4638B526F042711B22B7/Duterte-Sorti-Amoranto-LRED-20140412-007.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.html)  [JSON](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.json)  [XML](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.xml)  
+
 ### [2016-04-19](/news/2016/04/19/index.md)
 
 # An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. 
@@ -5,11 +8,16 @@
 In a case that may have national implications, the Richmond-based 4th U.S. Circuit Court of Appeals ruled Tuesday in favor of a transgender student fighting to use the boys bathroom
 
 
-### Source:
+### Sources:
 
 1. [Richmond Times-Dispatch](http://www.richmond.com/news/virginia/article_7ec45a28-5b5f-585f-a200-b7aba2cdd940.html)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/04/19/u-s-civil-rights-commission-says-north-carolinas-bathroom-law-jeopardizes-the-physical-safety-of-transgender-people/)
 2. [Cover Image](http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/4c/34c5f2d5-093f-55a0-ba5f-9651c2068d18/5768780ac7b03.preview.jpg?resize=920%2C505)
+
+### Changes:
+
+1. [Transgender rights in the United States: An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/transgender-rights-in-the-united-states-an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-wh.md) _2017-08-27 03:45:41 (First version)_
+1. [An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ In a case that may have national implications, the Richmond-based 4th U.S. Circu
 3. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: transgender_
 4. [Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-sue-president-donald-trump-and-top-pentagon-officials-over-the-president-s-policy-change-a.md) _Context: transgender_
 5. [President Donald Trump issues a presidential memorandum that stops funding of sex reassignment procedures for military personnel, and that denies entry of transgender individuals into the military. President Trump announced this policy change via twitter in late July. Two LGBT rights organizations filed a federal lawsuit two weeks ago arguing this policy change is unconstitutional because it denies transgender service members equal protection and due process. ](/news/2017/08/25/president-donald-trump-issues-a-presidential-memorandum-that-stops-funding-of-sex-reassignment-procedures-for-military-personnel-and-that-d.md) _Context: transgender_
-
-### Changes:
-
-1. [Transgender rights in the United States: An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/transgender-rights-in-the-united-states-an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-wh.md) _2017-08-27 03:45:41 (First version)_
-1. [An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.md) _(Current version)_

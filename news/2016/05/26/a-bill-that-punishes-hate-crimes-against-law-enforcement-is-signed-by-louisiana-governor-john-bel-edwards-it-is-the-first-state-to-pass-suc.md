@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/05/26/a-bill-that-punishes-hate-crimes-against-law-enforcement-is-signed-by-louisiana-governor-john-bel-edwards-it-is-the-first-state-to-pass-suc.html)  [JSON](/news/2016/05/26/a-bill-that-punishes-hate-crimes-against-law-enforcement-is-signed-by-louisiana-governor-john-bel-edwards-it-is-the-first-state-to-pass-suc.json)  [XML](/news/2016/05/26/a-bill-that-punishes-hate-crimes-against-law-enforcement-is-signed-by-louisiana-governor-john-bel-edwards-it-is-the-first-state-to-pass-suc.xml)  
+
 ### [2016-05-26](/news/2016/05/26/index.md)
 
 # A bill that punishes hate crimes against law enforcement is signed by Louisiana Governor John Bel Edwards. It is the first state to pass such a law. 
 
+Some in Louisiana wondered if the new law, which comes at a time of national debate over policing and race, was really necessary.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/05/27/us/louisiana-enacts-hate-crimes-law-to-protect-a-new-group-police.html)
+1. [The New York Times](https://www.nytimes.com/2016/05/27/us/louisiana-enacts-hate-crimes-law-to-protect-a-new-group-police.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/05/27/us/27LOUISIANA-jp/27LOUISIANA-jp-facebookJumbo.jpg)
 
 ### Related:
 

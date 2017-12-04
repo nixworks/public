@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/05/28/index.html)  [JSON](2016/05/28/index.json)  [XML](2016/05/28/index.xml)  
+
 ## [2016-05-28](/news/2016/05/28/index.md)
 
 ### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
-_Context: ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
+_Context: Islamic State in Iraq and the Levant, Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
 
 ### [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
 _Context: Agip, Conflict in the Niger Delta, Niger Delta Avengers, Nigeria, Royal Dutch Shell_
@@ -14,9 +17,6 @@ The storm is forecast to bring up to three inches of rain to the Carolinas. In T
 
 ### [A Rutan VariEze experimental aircraft crashes north of Ventura, California, killing the two people aboard. ](/news/2016/05/28/a-rutan-varieze-experimental-aircraft-crashes-north-of-ventura-california-killing-the-two-people-aboard.md)
 _Context: Rutan VariEze, Ventura, California_
-
-### [Harambe is killed.](/news/2016/05/28/harambe-is-killed.md)
-_Context: Harambe_
 
 ### [The U.S. military restricts off-base alcohol consumption in Okinawa until July 24 after the arrest of a former Marine suspected of murder. ](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.md)
 _Context: Okinawa, U.S. Marine, United States military personnel_
@@ -31,7 +31,7 @@ Pelicans guard Bryce Dejean-Jones, 23, has died of a gunshot wound to the abdome
 _Context: Brazilian police, Rio de Janeiro, gang rape_
 
 ### [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her-da.md)
-_Context: Chile, Michelle Bachelet, Natalia Compagnon, President_
+_Context: Chile, Michelle Bachelet, Natalia Compagnon, president_
 
 ### [Iran's newly elected parliament, officially called the Islamic Consultative Assembly, is opened and new members will be sworn-in during the first session. ](/news/2016/05/28/iran-s-newly-elected-parliament-officially-called-the-islamic-consultative-assembly-is-opened-and-new-members-will-be-sworn-in-during-the.md)
 The swearing-in of the 290-member assembly comes at a critical time for reformist President Hassan Rouhani, whose coalition now holds 122 seats.

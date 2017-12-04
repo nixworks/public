@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/25/index.html)  [JSON](2016/05/25/index.json)  [XML](2016/05/25/index.xml)  
+
 ## [2016-05-25](/news/2016/05/25/index.md)
 
 ### [The Afghan Taliban announces that Haibatullah Akhundzada will be its new leader replacing Akhtar Mansour who died recently in a drone strike. Sirajuddin Haqqani and Mullah Yaqoob are named as deputy leaders. ](/news/2016/05/25/the-afghan-taliban-announces-that-haibatullah-akhundzada-will-be-its-new-leader-replacing-akhtar-mansour-who-died-recently-in-a-drone-strike.md)
@@ -13,7 +16,7 @@ At least five die as Italian navy rescues 562 people, taking the total transferr
 Detained Ukrainian servicewoman Nadiya Savchenko is on board a plane returning to Ukraine from Russia, a source close to a deal to swap the pilot for two Russians held by Kiev said on Wednesday.
 
 ### [In the United States, Hillary Clinton is criticized by the State Department's inspector general for her usage of a private email server while she was secretary of state. The finding also concluded though that former secretary of state Colin Powell also had a private email server, as did former ambassador to Kenya Scott Gration. The inspector referred to the email server usage as "longstanding systemic weaknesses". ](/news/2016/05/25/in-the-united-states-hillary-clinton-is-criticized-by-the-state-departmentas-inspector-general-for-her-usage-of-a-private-email-server-wh.md)
-_Context: Colin Powell, Department of State, Hillary Clinton, Scott Gration, Secretary of State, email server_
+Mrs. Clinton and her aides have played down the inquiries, saying that she would cooperate with investigators to put the email issue behind her.
 
 ## [Previous Day...](/news/2016/05/24/index.md)
 

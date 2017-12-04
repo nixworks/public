@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/1/richard-huckle-dubbed-britain-s-worst-ever-paedophile-after-being-convicted-of-71-cases-of-rape-and-other-sexual-offences-against-up-to.html)  [JSON](/news/2016/06/1/richard-huckle-dubbed-britain-s-worst-ever-paedophile-after-being-convicted-of-71-cases-of-rape-and-other-sexual-offences-against-up-to.json)  [XML](/news/2016/06/1/richard-huckle-dubbed-britain-s-worst-ever-paedophile-after-being-convicted-of-71-cases-of-rape-and-other-sexual-offences-against-up-to.xml)  
+
 ### [2016-06-1](/news/2016/06/1/index.md)
 
 #  Richard Huckle, dubbed "Britain's worst ever paedophile" after being convicted of 71 cases of rape and other sexual offences against up to 200 children, is being sentenced at The Old Bailey in London in a hearing expected to last 3 days. Huckle is facing up to 22 life sentences once the hearing concludes.
@@ -5,7 +8,7 @@
 Richard Huckle admitted 71 charges - but investigators believe he abused up to 200 victims in poor Christian communities.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1705318/prolific-paedophile-raped-babies-and-toddlers)
 1. [Cover Image](http://e3.365dm.com/16/06/1600x900/cegrab-20160601-105505-216-1-2048x1536_3476869.jpg?20160601153134)

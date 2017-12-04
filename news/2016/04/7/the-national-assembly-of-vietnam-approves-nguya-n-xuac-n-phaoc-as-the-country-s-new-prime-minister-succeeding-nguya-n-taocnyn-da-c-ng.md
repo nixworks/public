@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.html)  [JSON](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.json)  [XML](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.xml)  
+
 ### [2016-04-7](/news/2016/04/7/index.md)
 
 # The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAKCN0X404W)
 2. [Shanghai Daily](http://www.shanghaidaily.com/article/article_xinhua.aspx?id=326030)
+
+### Changes:
+
+1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen Tan Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taoy-n-da-c-ng.md) _2017-08-25 03:45:10 (First version)_
+1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md) _Context: Nguyen TCNYn Dung, prime minister_
 4. [ Vietnamese Prime Minister Nguyen TCNYn Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taocnyn-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md) _Context: Nguyen TCNYn Dung, prime minister_
 5. [ Nguyen Minh Triet becomes President of Vietnam with Nguyen TCNYn Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taocnyn-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md) _Context: Nguyen TCNYn Dung, prime minister_
-
-### Changes:
-
-1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen Tan Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taoy-n-da-c-ng.md) _2017-08-25 03:45:10 (First version)_
-1. [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.md) _(Current version)_

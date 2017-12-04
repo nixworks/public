@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.html)  [JSON](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.json)  [XML](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.xml)  
+
 ### [2016-05-28](/news/2016/05/28/index.md)
 
 # Brazilian Police say they have identified and are searching for four of the more than 30 men suspected in last Saturday's gang rape of a 16-year-old girl in Rio de Janeiro. The assault came to light after several men posted about the attack online. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''New York Daily News](http://www.nydailynews.com/news/world/30-men-brazil-sought-gang-rape-16-year-old-article-1.2653107)
 

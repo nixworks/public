@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.html)  [JSON](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.json)  [XML](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/leisure/2016/04/21/volkswagen-to-offer-buybacks-compensation-to-diesel-owners/)
+
+### Changes:
+
+1. [Volkswagen emissions scandal: Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-emissions-scandal-volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensati.md) _2017-08-27 03:45:44 (First version)_
+1. [Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 4. [Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. ](/news/2016/09/21/litigants-file-a-new-wave-of-lawsuits-against-volkswagen-regarding-its-emissions-scandal.md) _Context: Volkswagen, Volkswagen emissions scandal_
 5. [Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. ](/news/2016/08/14/volkswagen-gets-approval-from-germany-s-motor-vehicle-authority-for-technical-fixes-on-460-000-cars.md) _Context: Volkswagen, Volkswagen emissions scandal_
-
-### Changes:
-
-1. [Volkswagen emissions scandal: Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-emissions-scandal-volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensati.md) _2017-08-27 03:45:44 (First version)_
-1. [Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.md) _(Current version)_

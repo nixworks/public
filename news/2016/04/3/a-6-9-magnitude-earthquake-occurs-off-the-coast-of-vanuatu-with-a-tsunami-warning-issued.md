@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/3/a-6-9-magnitude-earthquake-occurs-off-the-coast-of-vanuatu-with-a-tsunami-warning-issued.html)  [JSON](/news/2016/04/3/a-6-9-magnitude-earthquake-occurs-off-the-coast-of-vanuatu-with-a-tsunami-warning-issued.json)  [XML](/news/2016/04/3/a-6-9-magnitude-earthquake-occurs-off-the-coast-of-vanuatu-with-a-tsunami-warning-issued.xml)  
+
 ### [2016-04-3](/news/2016/04/3/index.md)
 
 # A 6.9 magnitude earthquake occurs off the coast of Vanuatu with a tsunami warning issued. 
@@ -5,9 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005e8t#general_region)
+1. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us20005e8t#general_region)
+1. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/musician-prince-dies-at-his-home-at-paisley-park-in-the-minneapolis-suburb-of-chanhassen-minnesota.html)  [JSON](/news/2016/04/21/musician-prince-dies-at-his-home-at-paisley-park-in-the-minneapolis-suburb-of-chanhassen-minnesota.json)  [XML](/news/2016/04/21/musician-prince-dies-at-his-home-at-paisley-park-in-the-minneapolis-suburb-of-chanhassen-minnesota.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # Musician Prince dies at his home at Paisley Park in the Minneapolis suburb of Chanhassen, Minnesota. 
@@ -5,7 +8,7 @@
 PRINCE has died suddenly at the age of 57, just days after his private jet was forced to make an emergency landing so he could be rushed to hospital. 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/entertainment/celebrity-life/prince-dead-at-57-report/news-story/dd669dc072fc063bdfb028a2338437db)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/1af2f719c6206ec79c7477764b48b8c3)

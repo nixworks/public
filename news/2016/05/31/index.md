@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/31/index.html)  [JSON](2016/05/31/index.json)  [XML](2016/05/31/index.xml)  
+
 ## [2016-05-31](/news/2016/05/31/index.md)
 
 ### [ At least 23 people are killed in overnight air strikes in Idlib, Syria. ](/news/2016/05/31/at-least-23-people-are-killed-in-overnight-air-strikes-in-idlib-syria.md)
@@ -28,7 +31,7 @@ Pyongyang has never successfully launched one of the intermediate-range missiles
 By Belinda GoldsmithLONDON, May 31 (Thomson Reuters Foundation) - Almost 46million people are living as slaves globally with the greatestnumber in
 
 ### [Ali Larijani is reelected chairman of the Iranian Parliament for a one year term while Masoud Pezeshkian and Ali Motahari are elected deputy chairpersons. All three elected members were supported by List of Hope in the recent election. ](/news/2016/05/31/ali-larijani-is-reelected-chairman-of-the-iranian-parliament-for-a-one-year-term-while-masoud-pezeshkian-and-ali-motahari-are-elected-deputy.md)
-_Context: Ali Larijani, Ali Motahari, Iranian legislative election, 2016, List of Hope, Masoud Pezeshkian, parliament_
+Mr. Larijani, scion of a powerful Iranian family, managed the Parliament’s approval last summer of the nuclear agreement with the Western powers.
 
 ### [Thousands of people take to the streets of Jayapura and other towns in Papua, Indonesia, in support of the Free Papua Movement and its effort to join the Melanesian Spearhead Group. Indonesia responded with a large police and military presence, with reports of police firing on demonstrators in Wamena and arresting dozens across the province. ](/news/2016/05/31/thousands-of-people-take-to-the-streets-of-jayapura-and-other-towns-in-papua-indonesia-in-support-of-the-free-papua-movement-and-its-effor.md)
 There have been more demonstrations in Indonesia&#39;s Papua region today, in support of the United Liberation Movement for West Papua.

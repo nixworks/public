@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/30/a-three-storey-building-collapses-in-the-indian-city-of-mumbai-resulting-in-six-deaths-and-trapping-many-others.html)  [JSON](/news/2016/04/30/a-three-storey-building-collapses-in-the-indian-city-of-mumbai-resulting-in-six-deaths-and-trapping-many-others.json)  [XML](/news/2016/04/30/a-three-storey-building-collapses-in-the-indian-city-of-mumbai-resulting-in-six-deaths-and-trapping-many-others.xml)  
+
 ### [2016-04-30](/news/2016/04/30/index.md)
 
 # A three-storey building collapses in the Indian city of Mumbai, resulting in six deaths and trapping many others. 
@@ -5,7 +8,7 @@
 Five people were rescued from the debris of the building in Kamathipura area of Grant Road, which caved in at around 2pm, a fire brigade official said. Eight fire engines and three ambulances have been pressed into rescue operation.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/mumbai/Building-collapses-in-Mumbai-6-dead-several-trapped/articleshow/52053823.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/52053850.cms)

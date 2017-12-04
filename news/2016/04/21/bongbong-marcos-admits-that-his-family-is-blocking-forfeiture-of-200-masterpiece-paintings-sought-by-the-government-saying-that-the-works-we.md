@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/bongbong-marcos-admits-that-his-family-is-blocking-forfeiture-of-200-masterpiece-paintings-sought-by-the-government-saying-that-the-works-we.html)  [JSON](/news/2016/04/21/bongbong-marcos-admits-that-his-family-is-blocking-forfeiture-of-200-masterpiece-paintings-sought-by-the-government-saying-that-the-works-we.json)  [XML](/news/2016/04/21/bongbong-marcos-admits-that-his-family-is-blocking-forfeiture-of-200-masterpiece-paintings-sought-by-the-government-saying-that-the-works-we.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # Bongbong Marcos admits that his family is blocking forfeiture of 200 masterpiece paintings sought by the government saying that the works were not subject of a court order case. The artworks, accumulated during the administration of his father, Philippine dictator Ferdinand Marcos are believed to be part of the family's alleged ill-gotten wealth. 
@@ -5,7 +8,7 @@
 MANILA &ndash; Vice-presidential candidate Senator Ferdinand &#39;&#39;Bongbong&#39;&#39; Marcos Jr. on Thursday admitted that his family is active in blocking the forfeiture of some 200 missing artworks being sought by the government.
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN News](http://news.abs-cbn.com/nation/04/21/16/bongbong-admits-blocking-forfeiture-of-200-missing-artworks)
 1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2016/nation/bongbong.jpg)

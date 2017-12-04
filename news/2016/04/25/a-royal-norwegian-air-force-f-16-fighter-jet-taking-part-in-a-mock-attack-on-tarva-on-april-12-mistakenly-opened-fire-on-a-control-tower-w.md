@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/a-royal-norwegian-air-force-f-16-fighter-jet-taking-part-in-a-mock-attack-on-tarva-on-april-12-mistakenly-opened-fire-on-a-control-tower-w.html)  [JSON](/news/2016/04/25/a-royal-norwegian-air-force-f-16-fighter-jet-taking-part-in-a-mock-attack-on-tarva-on-april-12-mistakenly-opened-fire-on-a-control-tower-w.json)  [XML](/news/2016/04/25/a-royal-norwegian-air-force-f-16-fighter-jet-taking-part-in-a-mock-attack-on-tarva-on-april-12-mistakenly-opened-fire-on-a-control-tower-w.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # A Royal Norwegian Air Force F-16 fighter jet, taking part in a mock attack on Tarva on April 12, mistakenly opened fire on a control tower with three officers inside, who survived unharmed, according to the Norwegian military. 
@@ -5,9 +8,9 @@
 It is the second time in six years the tower has been fired on in error by F-16 jets – no one was injured either time
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/25/whoops-norwegian-fighter-jet-mistakenly-machine-guns-control-tower)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/25/whoops-norwegian-fighter-jet-mistakenly-machine-guns-control-tower)
 1. [Cover Image](https://i.guim.co.uk/img/media/4e07dec8b2b31b1971f6229626ce07bd4bef0dc1/709_75_859_516/859.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a7cde13ad29ff23afa6ceb9f852482bb)
 
 ### Related:

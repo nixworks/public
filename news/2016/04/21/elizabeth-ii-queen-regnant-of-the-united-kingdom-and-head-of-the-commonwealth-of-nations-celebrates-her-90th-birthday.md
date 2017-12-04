@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.html)  [JSON](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.json)  [XML](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/video_and_audio/headlines/36094511)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

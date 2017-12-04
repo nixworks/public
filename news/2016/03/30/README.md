@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/30/index.html)  [JSON](2016/03/30/index.json)  [XML](2016/03/30/index.xml)  
+
 ## [2016-03-30](/news/2016/03/30/index.md)
 
 ### [Blasts and gunfire are reported in Tripoli. ](/news/2016/03/30/blasts-and-gunfire-are-reported-in-tripoli.md)
@@ -46,7 +49,7 @@ _Context: Donald Trump, National Border Patrol Council_
 _Context: Aung San Suu Kyi, Htin Kyaw, Mahn Win Khaing Than, Myanmar, Myanmar general election, 2015, Naypyidaw, Thein Sein_
 
 ### [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md)
-_Context: Islamabad, Mumtaz Qadri, Pakistan, Punjab, Salmaan Taseer, radical Islamists_
+_Context: Islamabad, Islamists, Mumtaz Qadri, Pakistan, Punjab, Salmaan Taseer_
 
 ### [The United Nations-backed Libyan Presidential Council arrives in Tripoli despite warnings by hardliners opposed to any unity government that they will attempt to keep them out of the city. ](/news/2016/03/30/the-united-nations-backed-libyan-presidential-council-arrives-in-tripoli-despite-warnings-by-hardliners-opposed-to-any-unity-government-that.md)
 Members including new unity government PM designate Fayez al-Sarraj arrive by boat in face of opposition from hardliners

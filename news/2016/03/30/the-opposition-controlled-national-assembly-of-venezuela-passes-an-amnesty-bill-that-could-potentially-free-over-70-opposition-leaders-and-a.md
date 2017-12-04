@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/the-opposition-controlled-national-assembly-of-venezuela-passes-an-amnesty-bill-that-could-potentially-free-over-70-opposition-leaders-and-a.html)  [JSON](/news/2016/03/30/the-opposition-controlled-national-assembly-of-venezuela-passes-an-amnesty-bill-that-could-potentially-free-over-70-opposition-leaders-and-a.json)  [XML](/news/2016/03/30/the-opposition-controlled-national-assembly-of-venezuela-passes-an-amnesty-bill-that-could-potentially-free-over-70-opposition-leaders-and-a.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # The opposition controlled National Assembly of Venezuela passes an amnesty bill that could potentially free over 70 opposition leaders and activists jailed during protests last year, including prominent leader Leopoldo Lopez. 
@@ -5,7 +8,7 @@
 The opposition-controlled National Assembly in Venezuela passes an amnesty bill aimed at freeing dozens of jailed opposition leaders.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-35924647)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/03/30/Venezuelas-Maduro-vows-to-veto-amnesty-bill-passed-by-National-Assembly/2471459353316/?spt=hts&or=5)

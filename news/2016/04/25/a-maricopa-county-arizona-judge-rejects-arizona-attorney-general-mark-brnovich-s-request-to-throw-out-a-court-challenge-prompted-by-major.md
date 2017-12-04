@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/a-maricopa-county-arizona-judge-rejects-arizona-attorney-general-mark-brnovich-s-request-to-throw-out-a-court-challenge-prompted-by-major.html)  [JSON](/news/2016/04/25/a-maricopa-county-arizona-judge-rejects-arizona-attorney-general-mark-brnovich-s-request-to-throw-out-a-court-challenge-prompted-by-major.json)  [XML](/news/2016/04/25/a-maricopa-county-arizona-judge-rejects-arizona-attorney-general-mark-brnovich-s-request-to-throw-out-a-court-challenge-prompted-by-major.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # A Maricopa County, Arizona, judge rejects Arizona Attorney General Mark Brnovich's request to throw out a court challenge prompted by major polling problems during the March primary. 
@@ -5,7 +8,7 @@
 A Maricopa County judge Monday allowed a lawsuit stemming from Arizona&#39;s&nbsp; presidential preference election debacle &nbsp;to proceed against Arizona Secretary of State Michele Reagan.
 
 
-### Source:
+### Sources:
 
 1. [ (KPNX²](http://www.12news.com/news/politics/democrats-file-lawsuit-over-arizona-voting-debacle/135283490)
 2. [KPNX](http://www.12news.com/news/politics/elections-fiasco-judge-allows-suit-vs-secretary-of-state/152868265)

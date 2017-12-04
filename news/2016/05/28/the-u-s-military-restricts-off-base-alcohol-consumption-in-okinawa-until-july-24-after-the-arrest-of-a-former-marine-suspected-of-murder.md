@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.html)  [JSON](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.json)  [XML](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.xml)  
+
 ### [2016-05-28](/news/2016/05/28/index.md)
 
 # The U.S. military restricts off-base alcohol consumption in Okinawa until July 24 after the arrest of a former Marine suspected of murder. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/05/28/world/asia/ap-as-japan-us-okinawa.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/05/28/world/asia/ap-as-japan-us-okinawa.html)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.html)  [JSON](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.json)  [XML](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  Five migrants drown off the island of Samos close to Turkey. 

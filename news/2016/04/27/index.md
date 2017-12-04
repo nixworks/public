@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/27/index.html)  [JSON](2016/04/27/index.json)  [XML](2016/04/27/index.xml)  
+
 ## [2016-04-27](/news/2016/04/27/index.md)
 
 ### [Philippine president Benigno Aquino III says that the Abu Sayyaf militants plan to kidnap his sister actress Kris Aquino and boxer Manny Pacquiao. ](/news/2016/04/27/philippine-president-benigno-aquino-iii-says-that-the-abu-sayyaf-militants-plan-to-kidnap-his-sister-actress-kris-aquino-and-boxer-manny-pac.md)
@@ -55,7 +58,7 @@ _Context: Iraq, Iraqi Civil War, Kurdish, Shi'ite, Tuz Khurmato_
 _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, France, November 2015 Paris Attacks, Salah Abdeslam_
+_Context: Belgian, France, November 2015 Paris attacks, Salah Abdeslam_
 
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
 A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months in prison for evading banking rules in what prosecutors said was a bid to hide sexual misconduct allegations from decades ago.
@@ -76,7 +79,7 @@ An Iranian asylum seeker being held on Nauru is in a critical condition after se
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, United States presidential election, 2016, presidential candidate_
+_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, presidential candidate_
 
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.

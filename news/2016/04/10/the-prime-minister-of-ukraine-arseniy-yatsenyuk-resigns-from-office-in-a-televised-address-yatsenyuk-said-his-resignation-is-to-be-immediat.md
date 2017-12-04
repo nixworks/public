@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/10/the-prime-minister-of-ukraine-arseniy-yatsenyuk-resigns-from-office-in-a-televised-address-yatsenyuk-said-his-resignation-is-to-be-immediat.html)  [JSON](/news/2016/04/10/the-prime-minister-of-ukraine-arseniy-yatsenyuk-resigns-from-office-in-a-televised-address-yatsenyuk-said-his-resignation-is-to-be-immediat.json)  [XML](/news/2016/04/10/the-prime-minister-of-ukraine-arseniy-yatsenyuk-resigns-from-office-in-a-televised-address-yatsenyuk-said-his-resignation-is-to-be-immediat.xml)  
+
 ### [2016-04-10](/news/2016/04/10/index.md)
 
 # The Prime Minister of Ukraine Arseniy Yatsenyuk resigns from office in a televised address. Yatsenyuk said his resignation is to be immediately followed by the formation of a new government. Volodymyr Groysman has taken role as Acting Prime Minister. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/ukraine-prime-minister-yatsenyuk-resigns/27665474.html)
 

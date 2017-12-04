@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/25/index.html)  [JSON](2016/04/25/index.json)  [XML](2016/04/25/index.xml)  
+
 ## [2016-04-25](/news/2016/04/25/index.md)
 
 ### [Two Turkish soldiers are killed and four are wounded in an attack by Kurdish militants in southeastern Turkey. ](/news/2016/04/25/two-turkish-soldiers-are-killed-and-four-are-wounded-in-an-attack-by-kurdish-militants-in-southeastern-turkey.md)
@@ -58,7 +61,7 @@ _Context: Belarus, Belarus-United States relations, Minsk, Scott Rauland, United
 The United Nations World Food Programme (WFP) is stepping up assistance to Ecuador’s most vulnerable areas following last week’s (April 16)
 
 ### [Afghanistan President Ashraf Ghani says Pakistan must take military action against Taliban, operating from Pakistan, who are waging an increasingly deadly insurgency across his country. Otherwise, "... we will be forced to turn to the UN Security Council and start serious diplomatic efforts." ](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakistan-must-take-military-action-against-taliban-operating-from-pakistan-who-are-waging-an-incre.md)
-Ghani vowed a tough military response against the insurgents and pledged to enforce legal punishments, including executions of convicted militants.
+President Ashraf Ghani dropped his conciliatory approach and threatened to go to the United Nations if Pakistan failed to strike the Taliban on its soil.
 
 ### [Turkey says it has deported more than 3,300 foreigners suspected of links to jihadi groups, and barred another 41,000 foreigners from entering the country. ](/news/2016/04/25/turkey-says-it-has-deported-more-than-3-300-foreigners-suspected-of-links-to-jihadi-groups-and-barred-another-41-000-foreigners-from-enteri.md)
 ANKARA, Turkey (AP) — Turkey has deported more than 3,300 foreigners suspected of links to jihadi groups, particularly Islamic State militants, and another 41,000 foreigners have been barred from entering the country as…

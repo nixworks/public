@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.html)  [JSON](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.json)  [XML](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.xml)  
+
 ### [2016-05-21](/news/2016/05/21/index.md)
 
 #  A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. 
@@ -5,11 +8,16 @@
 Machete-wielding assailants hacked to death a village doctor and wounded a university teacher in Bangladesh on Friday, in what police suspected was the latest in a series attacks by Islamists in the majority-Muslim nation.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/05/21/asia/bangladesh-doctor-hacking-death/)
 2. [Reuters](http://in.reuters.com/article/bangladesh-attacks-idINKCN0YB0O6)
 2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [ Attacks on secularists in Bangladesh: A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/attacks-on-secularists-in-bangladesh-a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim.md) _2017-08-27 03:46:05 (First version)_
+1. [ A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Machete-wielding assailants hacked to death a village doctor and wounded a unive
 3. [Attackers in Bangladesh wielding machetes kill Nazimuddin Samad, a liberal blogger. ](/news/2016/04/7/attackers-in-bangladesh-wielding-machetes-kill-nazimuddin-samad-a-liberal-blogger.md) _Context: Attacks on secularists in Bangladesh, Bangladesh_
 4. [A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophet-muhammad-islamic-state-of-iraq-and.md) _Context: Attacks on secularists in Bangladesh, ISIL_
 5. [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md) _Context: Attacks on secularists in Bangladesh, Bangladesh_
-
-### Changes:
-
-1. [ Attacks on secularists in Bangladesh: A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/attacks-on-secularists-in-bangladesh-a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim.md) _2017-08-27 03:46:05 (First version)_
-1. [ A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. ](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bangladesh-the-islamic-state-of-iraq-and-the-levant-claim-responsibility.md) _(Current version)_

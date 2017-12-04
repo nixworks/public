@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/4/at-least-13-people-are-killed-and-53-injured-after-a-bus-skids-off-a-bridge-while-travelling-between-india-s-jharkhand-state-to-raipur-capi.html)  [JSON](/news/2016/05/4/at-least-13-people-are-killed-and-53-injured-after-a-bus-skids-off-a-bridge-while-travelling-between-india-s-jharkhand-state-to-raipur-capi.json)  [XML](/news/2016/05/4/at-least-13-people-are-killed-and-53-injured-after-a-bus-skids-off-a-bridge-while-travelling-between-india-s-jharkhand-state-to-raipur-capi.xml)  
+
 ### [2016-05-4](/news/2016/05/4/index.md)
 
 # At least 13 people are killed and 53 injured after a bus skids off a bridge while travelling between India's Jharkhand state to Raipur, capital of Chhattisgarh state. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3574022/India-bus-crash-kills-13-injures-53-media.html)
 

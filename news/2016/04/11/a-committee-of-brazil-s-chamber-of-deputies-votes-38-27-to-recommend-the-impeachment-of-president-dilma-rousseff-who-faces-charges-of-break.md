@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.html)  [JSON](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.json)  [XML](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.xml)  
+
 ### [2016-04-11](/news/2016/04/11/index.md)
 
 # A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0X81ZC)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160412&t=2&i=1132059840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3A11X)
+1. [Reuters](https://www.reuters.com/article/us-brazil-politics-idUSKCN0X81ZC)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160412&t=2&i=1132059840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3A11X)
 
 ### Related:
 

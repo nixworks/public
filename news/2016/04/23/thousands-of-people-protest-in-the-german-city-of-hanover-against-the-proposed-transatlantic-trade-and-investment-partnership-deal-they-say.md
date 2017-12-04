@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/thousands-of-people-protest-in-the-german-city-of-hanover-against-the-proposed-transatlantic-trade-and-investment-partnership-deal-they-say.html)  [JSON](/news/2016/04/23/thousands-of-people-protest-in-the-german-city-of-hanover-against-the-proposed-transatlantic-trade-and-investment-partnership-deal-they-say.json)  [XML](/news/2016/04/23/thousands-of-people-protest-in-the-german-city-of-hanover-against-the-proposed-transatlantic-trade-and-investment-partnership-deal-they-say.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # Thousands of people protest in the German city of Hanover against the proposed Transatlantic Trade and Investment Partnership deal. They say the deal would drive down wages, and weaken environmental protection and labour rights. 
@@ -5,7 +8,7 @@
 Thousands of people have protested in the German city of Hannover against a proposed Transatlantic Trade and Investment Partnership (TTIP) deal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36120560)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/4BAA/production/_89407391_a7586dba-0e47-46ed-a4db-e4706e77ff58.jpg)

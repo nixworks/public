@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/30/the-bible-emoji-a-new-digital-translation-of-all-66-books-of-the-king-james-version-of-the-bible-which-replaces-some-words-with-emojis-is.html)  [JSON](/news/2016/05/30/the-bible-emoji-a-new-digital-translation-of-all-66-books-of-the-king-james-version-of-the-bible-which-replaces-some-words-with-emojis-is.json)  [XML](/news/2016/05/30/the-bible-emoji-a-new-digital-translation-of-all-66-books-of-the-king-james-version-of-the-bible-which-replaces-some-words-with-emojis-is.xml)  
+
 ### [2016-05-30](/news/2016/05/30/index.md)
 
 # The Bible Emoji, a new digital translation of all 66 books of the King James Version of the Bible which replaces some words with emojis, is announced by its anonymous creator. 
@@ -5,7 +8,7 @@
 A new translation of the Bible updates the religious text with modern technology, replacing several words with emojis.
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/life-style/bible-emoji-translates-scripture-pictures-millennials-article-1.2654804)
 2. [The Guardian](https://www.theguardian.com/technology/2016/may/30/emoji-bible-arrived-god-king-james)

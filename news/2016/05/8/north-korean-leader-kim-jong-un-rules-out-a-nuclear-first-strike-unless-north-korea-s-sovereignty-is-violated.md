@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.html)  [JSON](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.json)  [XML](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.xml)  
+
 ### [2016-05-8](/news/2016/05/8/index.md)
 
 #  North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/05/08/477238825/kim-jong-un-says-north-korea-wont-use-nukes-unless-its-sovereignty-is-violated)
 1. [Cover Image](https://media.npr.org/assets/img/2016/05/08/gettyimages-529025002_wide-a23469b71b347f8b2348c9385e79add0a8fc431a.jpg?s=1400)

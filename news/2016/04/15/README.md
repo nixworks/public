@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/15/index.html)  [JSON](2016/04/15/index.json)  [XML](2016/04/15/index.xml)  
+
 ## [2016-04-15](/news/2016/04/15/index.md)
 
 ### [A battle rages in the Kunduz Province of Afghanistan as the Taliban launches its spring offensive to capture the city of Kunduz. According to a Taliban spokesperson, several outposts already fell to them but this could not be verified immediately while a police chief says that the security forces were keeping "the situation under control". ](/news/2016/04/15/a-battle-rages-in-the-kunduz-province-of-afghanistan-as-the-taliban-launches-its-spring-offensive-to-capture-the-city-of-kunduz-according-t.md)
@@ -49,10 +52,10 @@ _Context: Miriam Defensor Santiago, Philippine presidential election, 2016_
 _Context: Attorney General, Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President, Supreme Court_
 
 ### [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels, EU, Jacqueline Galant_
+_Context: 2016 Brussels bombings, Belgian, Brussels, European Union, Jacqueline Galant_
 
 ### [Riot police violently break up an anti-Sisi protest in Cairo, Egypt. In the first sign of public discontent with President Sisi's rule, hundreds of people gathered and shouted slogans calling for his overthrow. ](/news/2016/04/15/riot-police-violently-break-up-an-anti-sisi-protest-in-cairo-egypt-in-the-first-sign-of-public-discontent-with-president-sisi-s-rule-hund.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egyptian President, police_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, police, presidential_
 
 ### [Leaders of the Czech Republic choose "Czechia" as the one-word alternative name of their country to make it easier for companies, politicians and sportsmen to use on products, name tags and sporting jerseys. However, this change must still win cabinet approval before the foreign ministry can lodge the name with the United Nations for it to become the country's official short name. ](/news/2016/04/15/leaders-of-the-czech-republic-choose-aczechiaa-as-the-one-word-alternative-name-of-their-country-to-make-it-easier-for-companies-politi.md)
 Czech Republic’s leaders settle on official short name for country and await cabinet and United Nations approval

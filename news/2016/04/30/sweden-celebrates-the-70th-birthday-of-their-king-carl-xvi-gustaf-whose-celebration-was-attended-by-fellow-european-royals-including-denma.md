@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.html)  [JSON](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.json)  [XML](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.xml)  
+
 ### [2016-04-30](/news/2016/04/30/index.md)
 
 # Sweden celebrates the 70th birthday of their King Carl XVI Gustaf, whose celebration was attended by fellow European royals, including Denmark's Margrethe II, former King of Spain Juan Carlos I and former Queen of the Netherlands Beatrix. 
@@ -5,7 +8,7 @@
 Sweden’s King Carl XVI Gustaf may be young compared to Britain’s Queen Elizabeth – he’s 70, she’s just turned 90 – but he celebrated his birthday in
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/04/30/sweden-celebrates-70th-birthday-of-king-carl-xvi-gustaf/)
 1. [Cover Image](http://static.euronews.com/articles/331468/1000x563_331468.jpg)

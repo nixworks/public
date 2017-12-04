@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/3/at-least-eight-people-are-hospitalized-after-lightning-struck-at-the-rock-am-ring-music-festival-near-mendig-germany.html)  [JSON](/news/2016/06/3/at-least-eight-people-are-hospitalized-after-lightning-struck-at-the-rock-am-ring-music-festival-near-mendig-germany.json)  [XML](/news/2016/06/3/at-least-eight-people-are-hospitalized-after-lightning-struck-at-the-rock-am-ring-music-festival-near-mendig-germany.xml)  
+
 ### [2016-06-3](/news/2016/06/3/index.md)
 
 # At least eight people are hospitalized after lightning struck at the Rock am Ring music festival near Mendig, Germany. 
@@ -5,7 +8,7 @@
 MENDIG, Germany (AP) — At least eight people were hospitalized after lightning struck a rock festival in western Germany on Friday police said, the second straight year lightning has injured fans at the Rock am Ring festival.…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/e128db8f4dd14238a973e7866949a876/police-many-injured-lightning-german-rock-festival)
 

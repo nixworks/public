@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.html)  [JSON](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.json)  [XML](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.xml)  
+
 ### [2016-05-5](/news/2016/05/5/index.md)
 
 # Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Globo](http://g1.globo.com/politica/operacao-lava-jato/noticia/2016/05/maioria-do-stf-confirma-afastamento-de-eduardo-cunha-da-camara.html)
-2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XV1UB)
+2. [Reuters](https://www.reuters.com/article/us-brazil-politics-idUSKCN0XV1UB)
 2. [Cover Image](http://s2.glbimg.com/n5nwcgxsiuu665LtD4hbkrIYXIo=/1200x630/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/53/47/5004753)
 
 ### Related:

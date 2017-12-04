@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/6/beninese-businessman-patrice-talon-is-sworn-in-as-the-new-president-of-benin.html)  [JSON](/news/2016/04/6/beninese-businessman-patrice-talon-is-sworn-in-as-the-new-president-of-benin.json)  [XML](/news/2016/04/6/beninese-businessman-patrice-talon-is-sworn-in-as-the-new-president-of-benin.xml)  
+
 ### [2016-04-6](/news/2016/04/6/index.md)
 
 # Beninese businessman Patrice Talon is sworn in as the new President of Benin. 
@@ -5,7 +8,7 @@
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [Euronews via Reuters](http://www.euronews.com/newswires/3176763-businessman-sworn-in-as-benins-president/)
 

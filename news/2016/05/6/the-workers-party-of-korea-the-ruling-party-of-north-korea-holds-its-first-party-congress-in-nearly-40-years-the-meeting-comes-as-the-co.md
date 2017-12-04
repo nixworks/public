@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/6/the-workers-party-of-korea-the-ruling-party-of-north-korea-holds-its-first-party-congress-in-nearly-40-years-the-meeting-comes-as-the-co.html)  [JSON](/news/2016/05/6/the-workers-party-of-korea-the-ruling-party-of-north-korea-holds-its-first-party-congress-in-nearly-40-years-the-meeting-comes-as-the-co.json)  [XML](/news/2016/05/6/the-workers-party-of-korea-the-ruling-party-of-north-korea-holds-its-first-party-congress-in-nearly-40-years-the-meeting-comes-as-the-co.xml)  
+
 ### [2016-05-6](/news/2016/05/6/index.md)
 
 # The Workers' Party of Korea, the ruling party of North Korea, holds its first party congress in nearly 40 years. The meeting comes as the country is facing tougher sanctions for its recent missile launches. 
@@ -5,7 +8,7 @@
 North Korea holds its most important political event in decades, a rare party congress where Kim Jong-un will try to consolidate his control.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36209843)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15843/production/_89613188_89613187.jpg)

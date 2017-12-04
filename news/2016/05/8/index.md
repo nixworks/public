@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/8/index.html)  [JSON](2016/05/8/index.json)  [XML](2016/05/8/index.xml)  
+
 ## [2016-05-8](/news/2016/05/8/index.md)
 
 ### [ Gunmen kill eight policemen in an ambush outside Cairo. The attack is claimed by Islamic State. ](/news/2016/05/8/gunmen-kill-eight-policemen-in-an-ambush-outside-cairo-the-attack-is-claimed-by-islamic-state.md)
@@ -6,11 +9,8 @@ Gunmen killed eight plainclothes police on the southern outskirts of Cairo overn
 ### [ A policeman is killed in a shootout with militants in Taif, Saudi Arabia. ](/news/2016/05/8/a-policeman-is-killed-in-a-shootout-with-militants-in-taif-saudi-arabia.md)
 A Saudi soldier died in a gunbattle with militants in the western Taif region outside Mecca on Sunday, state news agency SPA said.
 
-### [ Turkish shelling kills 55 Islamic State of Iraq and Syria insurgents in northern Syria in retaliation for rocket attacks on Kilis, a Turkish border town. [http:--www.reuters.com-article-us-mideast-crisis-syria-turkey-idUSKCN0XZ05R (Reuters)] [http:--www.dailyprogress.com-news-world-wire-report-turkey-attacks-is-in-syria-militants-killed-article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html (Daily Progress)] Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015. [http:--www.telegraph.co.uk-news-2016-05-07-three-spanish-journalists-released-in-syria-by-al-qaeda-group-af- (The Telegraph (UK))]](/news/2016/05/8/turkish-shelling-kills-55-islamic-state-of-iraq-and-syria-insurgents-in-northern-syria-in-retaliation-for-rocket-attacks-on-kilis-a-turkis.md)
-_Context: Aleppo, Islamic State of Iraq and Syria, Kilis, Spillover of the Syrian Civil War, Syria, Syrian Civil War, Three Spanish journalists, Turkey, Turkey-ISIL conflict, al-Nusra_
-
 ### [ At least 73 people are killed in a collision between two buses and a fuel tanker in Ghazni Province, Afghanistan. ](/news/2016/05/8/at-least-73-people-are-killed-in-a-collision-between-two-buses-and-a-fuel-tanker-in-ghazni-province-afghanistan.md)
-KABUL, Afghanistan - Two buses and a fuel tanker collided Sunday on a major highway in Afghanistan, killing 52 people, officials said.
+_Context: Afghan, Ghazni Province, fuel tanker_
 
 ### [At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. ](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.md)
 _Context: China, Fujian, Taining County_

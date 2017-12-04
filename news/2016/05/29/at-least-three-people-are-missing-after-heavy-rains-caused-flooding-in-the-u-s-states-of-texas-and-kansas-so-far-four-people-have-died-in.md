@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/29/at-least-three-people-are-missing-after-heavy-rains-caused-flooding-in-the-u-s-states-of-texas-and-kansas-so-far-four-people-have-died-in.html)  [JSON](/news/2016/05/29/at-least-three-people-are-missing-after-heavy-rains-caused-flooding-in-the-u-s-states-of-texas-and-kansas-so-far-four-people-have-died-in.json)  [XML](/news/2016/05/29/at-least-three-people-are-missing-after-heavy-rains-caused-flooding-in-the-u-s-states-of-texas-and-kansas-so-far-four-people-have-died-in.xml)  
+
 ### [2016-05-29](/news/2016/05/29/index.md)
 
 # At least three people are missing after heavy rains caused flooding in the U.S. states of Texas and Kansas. So far, four people have died in the flooding. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-05-29-US--Severe%20Weather/id-8d1f967eb44e49aa9fd30f329368d103)
 

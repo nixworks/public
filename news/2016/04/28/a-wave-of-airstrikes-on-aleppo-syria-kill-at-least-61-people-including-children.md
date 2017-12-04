@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.html)  [JSON](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.json)  [XML](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.xml)  
+
 ### [2016-04-28](/news/2016/04/28/index.md)
 
 # A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. 
@@ -5,13 +8,18 @@
 At least 27 people at a hospital in Aleppo, Syria, were killed overnight, including children, activists said Thursday, in what Secretary of State John Kerry called a deliberate [air]strike by government forces on a known medical facility.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/04/28/middleeast/syria-aleppo-hospital-airstrike/)
 2. [FOX News](http://www.foxnews.com/world/2016/04/28/at-least-27-killed-as-wave-airstrikes-hit-near-hospital-in-contested-syrian-city.html)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-idUSKCN0XP24O)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-turkey-idUSKCN0XP24O)
 4. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/04/28/doctors-without-borders-14-patients-medical-workers-killed-in-airstrikes/?wpisrc=al_alert-COMBO-world%252Bnation)
 4. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/2016/04/28/0/0/042816_syria_airstrikes_1280.jpg?ve=1)
+
+### Changes:
+
+1. [Syrian Civil War: A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/syrian-civil-war-a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _2017-08-27 03:45:54 (First version)_
+1. [A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +27,4 @@ At least 27 people at a hospital in Aleppo, Syria, were killed overnight, includ
 2. [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md) _Context: Aleppo, Syria, Syrian Civil War_
 3. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Aleppo, Syria, Syrian Civil War_
 4. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Aleppo, Syria, Syrian Civil War_
-5. [ Turkish shelling kills 55 Islamic State of Iraq and Syria insurgents in northern Syria in retaliation for rocket attacks on Kilis, a Turkish border town. [http:--www.reuters.com-article-us-mideast-crisis-syria-turkey-idUSKCN0XZ05R (Reuters)] [http:--www.dailyprogress.com-news-world-wire-report-turkey-attacks-is-in-syria-militants-killed-article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html (Daily Progress)] Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015. [http:--www.telegraph.co.uk-news-2016-05-07-three-spanish-journalists-released-in-syria-by-al-qaeda-group-af- (The Telegraph (UK))]](/news/2016/05/8/turkish-shelling-kills-55-islamic-state-of-iraq-and-syria-insurgents-in-northern-syria-in-retaliation-for-rocket-attacks-on-kilis-a-turkis.md) _Context: Aleppo, Syria, Syrian Civil War_
-
-### Changes:
-
-1. [Syrian Civil War: A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/syrian-civil-war-a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _2017-08-27 03:45:54 (First version)_
-1. [A wave of airstrikes on Aleppo, Syria, kill at least 61 people, including children. ](/news/2016/04/28/a-wave-of-airstrikes-on-aleppo-syria-kill-at-least-61-people-including-children.md) _(Current version)_
+5. [ Turkish shelling kills 55 Islamic State of Iraq and Syria insurgents in northern Syria in retaliation for rocket attacks on Kilis, a Turkish border town. [https:--www.reuters.com-article-us-mideast-crisis-syria-turkey-idUSKCN0XZ05R (Reuters)] [http:--www.dailyprogress.com-news-world-wire-report-turkey-attacks-is-in-syria-militants-killed-article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html (Daily Progress)] Three Spanish journalists were released after being abducted around Aleppo, Syria, and held hostage by the Al-Nusra Front since 13 July 2015. [http:--www.telegraph.co.uk-news-2016-05-07-three-spanish-journalists-released-in-syria-by-al-qaeda-group-af- (The Telegraph (UK))]](/news/2016/05/8/turkish-shelling-kills-55-islamic-state-of-iraq-and-syria-insurgents-in-northern-syria-in-retaliation-for-rocket-attacks-on-kilis-a-turkis.md) _Context: Aleppo, Syria, Syrian Civil War_

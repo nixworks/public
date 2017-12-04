@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/05/26/a-lawsuit-brought-against-google-by-oracle-corporation-accusing-google-of-using-copyrighted-code-for-the-android-operating-system-is-decided.html)  [JSON](/news/2016/05/26/a-lawsuit-brought-against-google-by-oracle-corporation-accusing-google-of-using-copyrighted-code-for-the-android-operating-system-is-decided.json)  [XML](/news/2016/05/26/a-lawsuit-brought-against-google-by-oracle-corporation-accusing-google-of-using-copyrighted-code-for-the-android-operating-system-is-decided.xml)  
+
 ### [2016-05-26](/news/2016/05/26/index.md)
 
 # A lawsuit brought against Google by Oracle Corporation accusing Google of using copyrighted code for the Android operating system is decided in Google's favor. 
 
-Developers expected to welcome ruling that finds Google’s employment of Java code in its Android operating system was fair use
+The decision, which will be appealed, means that Google owes its Silicon Valley rival nothing for code it used in the Android operating system.
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/technology/2016/may/26/google-wins-copyright-lawsuit-oracle-java-code)
-2. [The New York Times](http://www.nytimes.com/2016/05/27/technology/google-oracle-copyright-code.html?)
-2. [Cover Image](https://i.guim.co.uk/img/media/1abe6fc836d032cef764a33bdf81d6489bd7d917/0_0_3757_2254/3757.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c3c725e1d870f269a2bfc883841c9ca3)
+2. [The New York Times](https://www.nytimes.com/2016/05/27/technology/google-oracle-copyright-code.html?)
+2. [Cover Image](https://static01.nyt.com/images/2016/05/27/business/27oracle/27oracle-facebookJumbo.jpg)
 
 ### Related:
 

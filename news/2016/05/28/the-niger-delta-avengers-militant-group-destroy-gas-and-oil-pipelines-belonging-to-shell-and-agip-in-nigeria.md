@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.html)  [JSON](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.json)  [XML](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.xml)  
+
 ### [2016-05-28](/news/2016/05/28/index.md)
 
 # The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/05/28/world/africa/ap-af-nigeria-oil-attacks.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/05/28/world/africa/ap-af-nigeria-oil-attacks.html)
+
+### Changes:
+
+1. [Conflict in the Niger Delta: The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/conflict-in-the-niger-delta-the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _2017-08-27 03:46:09 (First version)_
+1. [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md) _Context: Nigeria, Royal Dutch Shell_
 4. [Officials from multinational corporations Royal Dutch Shell and Halliburton are to be questioned in Nigeria in relation to bribery scandals and corruption. ](/news/2010/11/30/officials-from-multinational-corporations-royal-dutch-shell-and-halliburton-are-to-be-questioned-in-nigeria-in-relation-to-bribery-scandals.md) _Context: Nigeria, Royal Dutch Shell_
 5. [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to "host communities". ](/news/2010/02/19/to-persuade-its-volatile-a-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md) _Context: Conflict in the Niger Delta, Nigeria_
-
-### Changes:
-
-1. [Conflict in the Niger Delta: The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/conflict-in-the-niger-delta-the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _2017-08-27 03:46:09 (First version)_
-1. [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.html)  [JSON](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.json)  [XML](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.xml)  
+
 ### [2016-05-27](/news/2016/05/27/index.md)
 
 # The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/05/28/Islamic-States-commander-in-Fallujah-killed-US-says/4991464448170/?spt=hs&or=tn_int)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/4991464448170/2016/1/14644488219107/v2.1/Islamic-States-commander-in-Fallujah-killed-US-says.jpg)
+
+### Changes:
+
+1. [Iraqi civil war: Operation Breaking Terrorism: The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/iraqi-civil-war-operation-breaking-terrorism-the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi.md) _2017-08-27 03:46:09 (First version)_
+1. [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: ISIL, Iraqi Civil War_
 4. [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md) _Context: ISIL, Iraqi Civil War_
 5. [Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters, launch a ground offensive to take the city of Tal Afar back from Islamic State of Iraq and the Levant militants. The city has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. ](/news/2017/08/20/iraqi-security-forces-along-with-shi-ite-volunteers-and-kurdish-peshmerga-fighters-launch-a-ground-offensive-to-take-the-city-of-tal-afar.md) _Context: ISIL, Iraqi Civil War_
-
-### Changes:
-
-1. [Iraqi civil war: Operation Breaking Terrorism: The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/iraqi-civil-war-operation-breaking-terrorism-the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi.md) _2017-08-27 03:46:09 (First version)_
-1. [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md) _(Current version)_

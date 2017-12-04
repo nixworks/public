@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/6/hedge-fund-impresario-bill-ackman-faces-skeptical-questioning-from-investors-after-his-pershing-square-fund-loses-big-on-both-herbalife-and.html)  [JSON](/news/2016/04/6/hedge-fund-impresario-bill-ackman-faces-skeptical-questioning-from-investors-after-his-pershing-square-fund-loses-big-on-both-herbalife-and.json)  [XML](/news/2016/04/6/hedge-fund-impresario-bill-ackman-faces-skeptical-questioning-from-investors-after-his-pershing-square-fund-loses-big-on-both-herbalife-and.xml)  
+
 ### [2016-04-6](/news/2016/04/6/index.md)
 
 # Hedge fund impresario Bill Ackman faces skeptical questioning from investors after his Pershing Square fund loses big on both Herbalife and Valeant Pharmaceuticals. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-hedgefunds-ackman-idUSKCN0X312E)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160406&t=2&i=1130657078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC350JQ)
+1. [Reuters](https://www.reuters.com/article/us-hedgefunds-ackman-idUSKCN0X312E)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160406&t=2&i=1130657078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC350JQ)
 
 ### Related:
 

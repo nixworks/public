@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/29/protests-in-france-turn-violent-as-protesters-clash-with-police-injuring-over-20-police-officers-and-resulting-in-over-120-arrests-nationwi.html)  [JSON](/news/2016/04/29/protests-in-france-turn-violent-as-protesters-clash-with-police-injuring-over-20-police-officers-and-resulting-in-over-120-arrests-nationwi.json)  [XML](/news/2016/04/29/protests-in-france-turn-violent-as-protesters-clash-with-police-injuring-over-20-police-officers-and-resulting-in-over-120-arrests-nationwi.xml)  
+
 ### [2016-04-29](/news/2016/04/29/index.md)
 
 # Protests in France turn violent as protesters clash with police, injuring over 20 police officers and resulting in over 120 arrests nationwide. The protests are against a labour law being proposed in the National Assembly, saying it will reduce rights and deepen job insecurity for youth. 
@@ -5,9 +8,9 @@
 Two dozen police injured and more than 120 arrests during night of demonstrations nationwide against watering-down of worker rights
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/29/france-labour-law-protests-turn-violent)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/29/france-labour-law-protests-turn-violent)
 1. [Cover Image](https://i.guim.co.uk/img/media/e2ab7c59268017b3ad70b31e3e8f23ccab4a7587/0_0_4928_2957/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5f58d9472dfbb5f09b811c5b26bdaeca)
 
 ### Related:

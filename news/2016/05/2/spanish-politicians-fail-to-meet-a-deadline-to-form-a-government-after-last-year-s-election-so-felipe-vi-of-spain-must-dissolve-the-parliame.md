@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.html)  [JSON](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.json)  [XML](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.xml)  
+
 ### [2016-05-2](/news/2016/05/2/index.md)
 
 # Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. 
@@ -5,9 +8,14 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/spain-misses-deadline-government-june-election-set-38827199)
+
+### Changes:
+
+1. [Spanish general election, 2016: Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-general-election-2016-spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of.md) _2017-08-27 03:45:57 (First version)_
+1. [Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.md) _Context: Spanish general election, 2016_
 4. [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md) _Context: Spanish general election, 2016_
 5. [The conservative People's Party (PP) and the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. ](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-wing-podemos-party-which-together-hold-192-seats-in-spainas-350-seat-parliament-followi.md) _Context: election_
-
-### Changes:
-
-1. [Spanish general election, 2016: Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-general-election-2016-spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of.md) _2017-08-27 03:45:57 (First version)_
-1. [Spanish politicians fail to meet a deadline to form a government after last year's election so Felipe VI of Spain must dissolve the parliament and call a new election for June 26. ](/news/2016/05/2/spanish-politicians-fail-to-meet-a-deadline-to-form-a-government-after-last-year-s-election-so-felipe-vi-of-spain-must-dissolve-the-parliame.md) _(Current version)_

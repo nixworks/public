@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-died-of-an-overdose-of-fentanyl-an-opioid-painkiller-50-times-more-powerful-than-heroin.html)  [JSON](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-died-of-an-overdose-of-fentanyl-an-opioid-painkiller-50-times-more-powerful-than-heroin.json)  [XML](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-died-of-an-overdose-of-fentanyl-an-opioid-painkiller-50-times-more-powerful-than-heroin.xml)  
+
 ### [2016-06-2](/news/2016/06/2/index.md)
 
 # An autopsy finds that American musician Prince died of an overdose of fentanyl, an opioid painkiller 50 times more powerful than heroin. 
 
+Officials in Minnesota said the singer sustained an accidental overdose of self-administered fentanyl, a type of synthetic opiate.
 
 
-
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-06-02-US--Prince-Death/id-92ea6e6eed8e4310a47ef4c30484abce)
-2. [The New York Times](http://www.nytimes.com/2016/06/03/arts/music/prince-death-overdose-fentanyl.html)
+2. [The New York Times](https://www.nytimes.com/2016/06/03/arts/music/prince-death-overdose-fentanyl.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/06/03/arts/03PRINCEDEATH/03PRINCEDEATH-facebookJumbo.jpg)
 
 ### Related:
 

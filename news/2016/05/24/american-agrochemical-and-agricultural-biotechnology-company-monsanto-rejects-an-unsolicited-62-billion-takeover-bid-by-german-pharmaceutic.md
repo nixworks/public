@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.html)  [JSON](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.json)  [XML](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.xml)  
+
 ### [2016-05-24](/news/2016/05/24/index.md)
 
 # American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-monsanto-m-a-bayer-exclusive-idUSKCN0YF1ZG)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160525&t=2&i=1138671109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4O16X)
+1. [Reuters](https://www.reuters.com/article/us-monsanto-m-a-bayer-exclusive-idUSKCN0YF1ZG)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160525&t=2&i=1138671109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4O16X)
 
 ### Related:
 

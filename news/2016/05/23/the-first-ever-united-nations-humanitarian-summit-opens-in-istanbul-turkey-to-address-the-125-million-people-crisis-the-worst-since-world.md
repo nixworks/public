@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.html)  [JSON](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.json)  [XML](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.xml)  
+
 ### [2016-05-23](/news/2016/05/23/index.md)
 
 # The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. 
@@ -5,11 +8,16 @@
 Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanitarian system that has left 130 million people in need of aid, a near insurmountable task for a two-day summit that critics say risks achieving little.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Deseret News](http://www.deseretnews.com/article/765686665/World-Humanitarian-Summit-opens-in-Istanbul-to-tackle-crisis.html)
 2. [Reuters](http://in.reuters.com/article/humanitarian-summit-idINKCN0YE1JV)
 2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160523&t=2&i=1138363286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4M0VK)
+
+### Changes:
+
+1. [World Humanitarian Summit: The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/world-humanitarian-summit-the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-cr.md) _2017-08-27 03:46:06 (First version)_
+1. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanita
 3. [Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.md) _Context: Istanbul, Turkey_
 4. [A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action-since-world-war-ii.md) _Context: United Nations, World War II_
 5. [A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. ](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.md) _Context: Istanbul, Turkey_
-
-### Changes:
-
-1. [World Humanitarian Summit: The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/world-humanitarian-summit-the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-cr.md) _2017-08-27 03:46:06 (First version)_
-1. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _(Current version)_

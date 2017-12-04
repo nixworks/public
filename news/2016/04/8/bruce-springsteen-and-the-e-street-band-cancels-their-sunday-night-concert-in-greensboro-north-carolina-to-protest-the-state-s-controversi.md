@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.html)  [JSON](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.json)  [XML](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Rolling Stone](http://www.rollingstone.com/music/news/bruce-springsteen-cancels-north-carolina-gig-to-protest-bathroom-bill-20160408)
+1. [Rolling Stone](https://www.rollingstone.com/music/news/bruce-springsteen-cancels-north-carolina-gig-to-protest-bathroom-bill-20160408)
 1. [Cover Image](http://img.wennermedia.com/social/rs-235859-GettyImages-516313196.jpg)
+
+### Changes:
+
+1. [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controvers.md) _2017-08-25 03:45:12 (First version)_
+2. [North Carolina bathroom bill: Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/north-carolina-bathroom-bill-bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-p.md) _2017-08-27 03:45:31 (Update)_
+2. [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [Musicians and entertainers including the Rolling Stones, Eric Clapton and Bruce Springsteen perform a benefit concert for victims of Hurricane Sandy at Madison Square Garden in New York City. ](/news/2012/12/12/musicians-and-entertainers-including-the-rolling-stones-eric-clapton-and-bruce-springsteen-perform-a-benefit-concert-for-victims-of-hurrica.md) _Context: Bruce Springsteen and the E Street Band_
 4. [Organisers pull the plug on a duet between Bruce Springsteen and Paul McCartney at Hyde Park, London, after it breached its legal curfew. ](/news/2012/07/15/organisers-pull-the-plug-on-a-duet-between-bruce-springsteen-and-paul-mccartney-at-hyde-park-london-after-it-breached-its-legal-curfew.md) _Context: Bruce Springsteen and the E Street Band_
 5. [American musician Clarence Clemons, best known for his work with Bruce Springsteen's E Street Band, dies from complications of a stroke. ](/news/2011/06/18/american-musician-clarence-clemons-best-known-for-his-work-with-bruce-springsteen-s-e-street-band-dies-from-complications-of-a-stroke.md) _Context: Bruce Springsteen and the E Street Band_
-
-### Changes:
-
-1. [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controvers.md) _2017-08-25 03:45:12 (First version)_
-2. [North Carolina bathroom bill: Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/north-carolina-bathroom-bill-bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-p.md) _2017-08-27 03:45:31 (Update)_
-2. [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md) _(Current version)_

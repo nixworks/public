@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-resulting-in-at-least-four-deaths-and-seven-injuries.html)  [JSON](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-resulting-in-at-least-four-deaths-and-seven-injuries.json)  [XML](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-resulting-in-at-least-four-deaths-and-seven-injuries.xml)  
+
 ### [2016-04-15](/news/2016/04/15/index.md)
 
 # A tornado hits the Uruguayan town of Dolores resulting in at least four deaths and seven injuries. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/tornado-kills-4-people-injures-7-in-uruguay/375921481/)
 

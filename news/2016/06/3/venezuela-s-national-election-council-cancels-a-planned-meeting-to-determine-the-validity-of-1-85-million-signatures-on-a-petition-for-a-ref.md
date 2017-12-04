@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/3/venezuela-s-national-election-council-cancels-a-planned-meeting-to-determine-the-validity-of-1-85-million-signatures-on-a-petition-for-a-ref.html)  [JSON](/news/2016/06/3/venezuela-s-national-election-council-cancels-a-planned-meeting-to-determine-the-validity-of-1-85-million-signatures-on-a-petition-for-a-ref.json)  [XML](/news/2016/06/3/venezuela-s-national-election-council-cancels-a-planned-meeting-to-determine-the-validity-of-1-85-million-signatures-on-a-petition-for-a-ref.xml)  
+
 ### [2016-06-3](/news/2016/06/3/index.md)
 
 # Venezuela's National Election Council cancels a planned meeting to determine the validity of 1.85 million signatures on a petition for a referendum to oust President Nicols Maduro. 
@@ -5,7 +8,7 @@
 Elections officials in Venezuela canceled a planned meeting to determine if a referendum to oust President Nicholas Maduro can proceed.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/06/03/Decision-delayed-on-referendum-to-recall-Venezuelas-Maduro/7481464968294/?spt=rln&or=5)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7481464968294/2016/1/e7bdb2dec51c31e5f8b8e75006c85cda/v1.5/Decision-delayed-on-referendum-to-recall-Venezuelas-Maduro.jpg)

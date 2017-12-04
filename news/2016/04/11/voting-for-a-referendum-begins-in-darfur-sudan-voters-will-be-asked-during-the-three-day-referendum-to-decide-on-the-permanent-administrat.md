@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.html)  [JSON](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.json)  [XML](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.xml)  
+
 ### [2016-04-11](/news/2016/04/11/index.md)
 
 # Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. 
@@ -5,9 +8,14 @@
 Darfur voters are divided on whether or not the referendum is a priority concern.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/darfur-referendum-held-fears-voter-apathy-160411060337405.html)
+
+### Changes:
+
+1. [Darfurian status referendum, 2016: Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/darfurian-status-referendum-2016-voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to.md) _2017-08-27 03:45:34 (First version)_
+1. [Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Darfur voters are divided on whether or not the referendum is a priority concern
 3. [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md) _Context: Darfur, Sudan_
 4. [Tribal violence in Darfur, Sudan, kills at least 163 people and displaces 50,000 others. ](/news/2013/04/8/tribal-violence-in-darfur-sudan-kills-at-least-163-people-and-displaces-50-000-others.md) _Context: Darfur, Sudan_
 5. [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md) _Context: Darfur, Sudan_
-
-### Changes:
-
-1. [Darfurian status referendum, 2016: Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/darfurian-status-referendum-2016-voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to.md) _2017-08-27 03:45:34 (First version)_
-1. [Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.md) _(Current version)_

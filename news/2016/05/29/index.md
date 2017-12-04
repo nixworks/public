@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/29/index.html)  [JSON](2016/05/29/index.json)  [XML](2016/05/29/index.xml)  
+
 ## [2016-05-29](/news/2016/05/29/index.md)
 
 ### [ Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md)

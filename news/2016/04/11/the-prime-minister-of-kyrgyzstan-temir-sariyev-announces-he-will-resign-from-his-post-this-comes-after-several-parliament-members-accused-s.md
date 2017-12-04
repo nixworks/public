@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.html)  [JSON](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.json)  [XML](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.xml)  
+
 ### [2016-04-11](/news/2016/04/11/index.md)
 
 # The Prime Minister of Kyrgyzstan Temir Sariyev announces he will resign from his post. This comes after several Parliament members accused Sariyev and his cabinet of corruption. The Kyrgyz presidential press service said President Almazbek Atambayev accepted his resignation. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/kyrgyz-prime-minister-sariev-resigns/27666911.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/the-wallenberg-family-files-an-application-to-formally-declare-swedish-diplomat-raoul-wallenberg-born-in-1912-to-be-dead-wallenberg-saved.html)  [JSON](/news/2016/03/30/the-wallenberg-family-files-an-application-to-formally-declare-swedish-diplomat-raoul-wallenberg-born-in-1912-to-be-dead-wallenberg-saved.json)  [XML](/news/2016/03/30/the-wallenberg-family-files-an-application-to-formally-declare-swedish-diplomat-raoul-wallenberg-born-in-1912-to-be-dead-wallenberg-saved.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # The Wallenberg family files an application to formally declare Swedish diplomat Raoul Wallenberg (born in 1912) to be dead. Wallenberg saved the lives of thousands of Jews in World War II only to disappear at the hands of the Soviet forces. 
@@ -5,7 +8,7 @@
 70 years after disappearance, fate of WWII-era diplomat who saved tens of thousands of Jews still shrouded in mystery
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/raoul-wallenberg-to-be-officially-declared-dead-by-sweden/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/08/raoulbig.jpg)

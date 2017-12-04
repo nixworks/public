@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/31/the-u-s-fourth-circuit-court-of-appeals-rules-12-3-a-warrant-is-not-required-for-police-to-obtain-a-person-s-cellphone-location-data-fro.html)  [JSON](/news/2016/05/31/the-u-s-fourth-circuit-court-of-appeals-rules-12-3-a-warrant-is-not-required-for-police-to-obtain-a-person-s-cellphone-location-data-fro.json)  [XML](/news/2016/05/31/the-u-s-fourth-circuit-court-of-appeals-rules-12-3-a-warrant-is-not-required-for-police-to-obtain-a-person-s-cellphone-location-data-fro.xml)  
+
 ### [2016-05-31](/news/2016/05/31/index.md)
 
 #  The U.S. Fourth Circuit Court of Appeals rules (12-3) a warrant is not required for police to obtain a person's cellphone location data from wireless carriers. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-mobilephones-idUSKCN0YM2CZ)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160531&t=2&i=1139417661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4U16S)
+1. [Reuters](https://www.reuters.com/article/us-usa-court-mobilephones-idUSKCN0YM2CZ)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160531&t=2&i=1139417661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4U16S)
 
 ### Related:
 

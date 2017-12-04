@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/7/index.html)  [JSON](2016/06/7/index.json)  [XML](2016/06/7/index.xml)  
+
 ## [2016-06-7](/news/2016/06/7/index.md)
 
 ### [Seven police officers and four civilians are killed, and 36 people are wounded, three critically, by a car bomb explosion near the main tourism district in Istanbul, Turkey. The explosives, detonated by remote control, wrecked a passing police bus, reports CNN Turk. There is no immediate claim of responsibility. ](/news/2016/06/7/seven-police-officers-and-four-civilians-are-killed-and-36-people-are-wounded-three-critically-by-a-car-bomb-explosion-near-the-main-tour.md)

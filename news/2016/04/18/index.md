@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/18/index.html)  [JSON](2016/04/18/index.json)  [XML](2016/04/18/index.xml)  
+
 ## [2016-04-18](/news/2016/04/18/index.md)
 
 ### [Syrian rebels launch new offensives against government forces in the country's Latakia Governorate and Hama Governorate. Several rebel groups earlier announced they were launching a new battle against government forces in response to claimed violations of the cease-fire agreement, further putting a strain on the Syrian peace process. ](/news/2016/04/18/syrian-rebels-launch-new-offensives-against-government-forces-in-the-country-s-latakia-governorate-and-hama-governorate-several-rebel-group.md)
@@ -34,7 +37,7 @@ More than 400 migrants and refugees are feared to have drowned in the Mediterran
 Torrential downpours hits central parts of South America, causing flooding either side of the Andes.
 
 ### [Heavy rain of more than 1 ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-power-outages-f.md)
-Some flood watches and warnings in the state extend until Tuesday morning.
+_Context: Houston, Texas, major flooding_
 
 ### [Australian Ambassador to the Philippines Amanda Gorely criticizes Philippine presidential frontrunner Rodrigo Duterte regarding his remarks about the rape of an Australian citizen. ](/news/2016/04/18/australian-ambassador-to-the-philippines-amanda-gorely-criticizes-philippine-presidential-frontrunner-rodrigo-duterte-regarding-his-remarks.md)
 _Context: Australia-Philippines relations, Philippine presidential election, 2016, Rodrigo Duterte_

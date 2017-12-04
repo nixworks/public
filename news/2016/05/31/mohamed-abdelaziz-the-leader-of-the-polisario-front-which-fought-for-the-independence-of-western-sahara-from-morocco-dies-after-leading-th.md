@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/31/mohamed-abdelaziz-the-leader-of-the-polisario-front-which-fought-for-the-independence-of-western-sahara-from-morocco-dies-after-leading-th.html)  [JSON](/news/2016/05/31/mohamed-abdelaziz-the-leader-of-the-polisario-front-which-fought-for-the-independence-of-western-sahara-from-morocco-dies-after-leading-th.json)  [XML](/news/2016/05/31/mohamed-abdelaziz-the-leader-of-the-polisario-front-which-fought-for-the-independence-of-western-sahara-from-morocco-dies-after-leading-th.xml)  
+
 ### [2016-05-31](/news/2016/05/31/index.md)
 
 # Mohamed Abdelaziz, the leader of the Polisario Front which fought for the independence of Western Sahara from Morocco, dies after leading the group since 1976. 
@@ -5,7 +8,7 @@
 Mohamed Abdelaziz, secretary general of movement fighting for independence of Western Sahara, dies after long illness.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/05/polisario-front-leader-mohamed-abdelaziz-dies-160531152322637.html)
 

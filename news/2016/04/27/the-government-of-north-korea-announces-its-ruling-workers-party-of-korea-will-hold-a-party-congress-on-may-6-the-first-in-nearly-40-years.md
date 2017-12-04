@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/the-government-of-north-korea-announces-its-ruling-workers-party-of-korea-will-hold-a-party-congress-on-may-6-the-first-in-nearly-40-years.html)  [JSON](/news/2016/04/27/the-government-of-north-korea-announces-its-ruling-workers-party-of-korea-will-hold-a-party-congress-on-may-6-the-first-in-nearly-40-years.json)  [XML](/news/2016/04/27/the-government-of-north-korea-announces-its-ruling-workers-party-of-korea-will-hold-a-party-congress-on-may-6-the-first-in-nearly-40-years.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # The government of North Korea announces its ruling Workers' Party of Korea will hold a party congress on May 6, the first in nearly 40 years. 
@@ -5,7 +8,7 @@
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36146887)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2A2B/production/_89459701_89459700.jpg)

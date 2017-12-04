@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/6/spacex-successfully-lands-another-falcon-9-first-stage-onto-a-floating-barge-for-the-second-time-it-was-carrying-a-japanese-communications.html)  [JSON](/news/2016/05/6/spacex-successfully-lands-another-falcon-9-first-stage-onto-a-floating-barge-for-the-second-time-it-was-carrying-a-japanese-communications.json)  [XML](/news/2016/05/6/spacex-successfully-lands-another-falcon-9-first-stage-onto-a-floating-barge-for-the-second-time-it-was-carrying-a-japanese-communications.xml)  
+
 ### [2016-05-6](/news/2016/05/6/index.md)
 
 # SpaceX successfully lands another Falcon 9 First stage onto a floating barge for the second time. It was carrying a Japanese communications satellite JCSAT-14, which was successfully put into geostationary orbit. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Wired](http://www.wired.com/2016/05/spacex-landed-freaking-rocket-robot-boat-dark/)
+1. [Wired](https://www.wired.com/2016/05/spacex-landed-freaking-rocket-robot-boat-dark/)
 1. [Cover Image](https://www.wired.com/wp-content/uploads/2016/05/Chv_7nDU4AUDQjs.jpg)
 
 ### Related:

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/05/26/ken-starr-the-president-of-baylor-university-is-stripped-of-his-title-after-an-investigation-revealed-the-university-mishandled-accusation.html)  [JSON](/news/2016/05/26/ken-starr-the-president-of-baylor-university-is-stripped-of-his-title-after-an-investigation-revealed-the-university-mishandled-accusation.json)  [XML](/news/2016/05/26/ken-starr-the-president-of-baylor-university-is-stripped-of-his-title-after-an-investigation-revealed-the-university-mishandled-accusation.xml)  
+
 ### [2016-05-26](/news/2016/05/26/index.md)
 
 # Ken Starr, the president of Baylor University, is stripped of his title after an investigation revealed the university mishandled accusations of sexual assault against its football players. The university's football coach, Art Briles, is also fired. 
 
+The decisions came after the university concluded that accusations of sexual assault committed by athletes had not been handled correctly.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/05/27/sports/ncaafootball/baylor-art-briles-kenneth-starr-college-football.html)
+1. [The New York Times](https://www.nytimes.com/2016/05/27/sports/ncaafootball/baylor-art-briles-kenneth-starr-college-football.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/05/27/sports/27baylor-web2/27baylor-web2-facebookJumbo.jpg)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.html)  [JSON](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.json)  [XML](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. 
@@ -5,9 +8,9 @@
 A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months in prison for evading banking rules in what prosecutors said was a bid to hide sexual misconduct allegations from decades ago.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/former-u-s-house-speaker-dennis-hastert-sentenced-to-15-months-in-prison-1461777151)
+1. [Wall Street Journal](https://www.wsj.com/articles/former-u-s-house-speaker-dennis-hastert-sentenced-to-15-months-in-prison-1461777151)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-NT231_0427HA_TOP_20160427141708.jpg)
 
 ### Related:

@@ -18,7 +18,7 @@ The guilty plea by President Trump’s former national security adviser brings t
 ### [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md)
 _Context: Aftermath of the Honduran general election, 2017, Honduran, Juan Orlando Hernndez_
 
-### [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md)
+### [Emperor Akihito announces his intentions to abdicate the throne on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdicate-the-throne-on-april-30-2019.md)
 _Context: Abdication of Emperor Akihito, Akihito_
 
 ### [A 100-megawatt Tesla Powerpack system, which is the world's largest lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-largest-lithium-ion-battery-is-launched-in-jamestown-south-australia.md)

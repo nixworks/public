@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/31/a-recent-global-slavery-index-report-estimates-the-number-of-people-born-into-servitude-trafficked-for-sex-work-in-debt-bondage-or-force.html)  [JSON](/news/2016/05/31/a-recent-global-slavery-index-report-estimates-the-number-of-people-born-into-servitude-trafficked-for-sex-work-in-debt-bondage-or-force.json)  [XML](/news/2016/05/31/a-recent-global-slavery-index-report-estimates-the-number-of-people-born-into-servitude-trafficked-for-sex-work-in-debt-bondage-or-force.xml)  
+
 ### [2016-05-31](/news/2016/05/31/index.md)
 
 #  A recent Global Slavery Index report estimates the number of people born into servitude, trafficked for sex work, in debt bondage, or forced labour to be 45.8 million. India is reported to have the highest number at an estimated 18.4 million slaves, and North Korea the highest ratio, 4.4 percent of its population. 
@@ -5,16 +8,16 @@
 By Belinda GoldsmithLONDON, May 31 (Thomson Reuters Foundation) - Almost 46million people are living as slaves globally with the greatestnumber in
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-31/nearly-46-million-people-trapped-in-modern-slavery-report-finds)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-05-31/nearly-46-million-people-trapped-in-modern-slavery-report-finds)
 2. [Reuters](http://in.reuters.com/article/slavery-index-data-idINL5N18M4DG)
 2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ South Korea arrests a college lecturer accused of spying for North Korea, saying he was recruited by North Korean agents in India. ](/news/2009/10/29/south-korea-arrests-a-college-lecturer-accused-of-spying-for-north-korea-saying-he-was-recruited-by-north-korean-agents-in-india.md) _Context: India, North Korea_
-2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-3. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
-4. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: North Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: North Korea_
+2. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: India_
+3. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
+4. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
+5. [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md) _Context: India_

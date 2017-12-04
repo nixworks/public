@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/7/planned-parenthood-and-the-american-civil-liberties-union-sue-indiana-stating-the-u-s-state-s-new-abortion-law-is-unconstitutional-because.html)  [JSON](/news/2016/04/7/planned-parenthood-and-the-american-civil-liberties-union-sue-indiana-stating-the-u-s-state-s-new-abortion-law-is-unconstitutional-because.json)  [XML](/news/2016/04/7/planned-parenthood-and-the-american-civil-liberties-union-sue-indiana-stating-the-u-s-state-s-new-abortion-law-is-unconstitutional-because.xml)  
+
 ### [2016-04-7](/news/2016/04/7/index.md)
 
 # Planned Parenthood and the American Civil Liberties Union sue Indiana stating the U.S. state's new abortion law is unconstitutional because it bans the procedure if sought because of genetic abnormalities. 
@@ -5,10 +8,10 @@
 The federal lawsuit also challenges a provision that mandates an aborted fetus be buried or cremated
 
 
-### Source:
+### Sources:
 
 1. [CBS News with AP](http://www.cbsnews.com/news/planned-parenthood-aclu-sue-indiana-over-new-abortion-law/)
-2. [Reuters](http://www.reuters.com/article/us-indiana-plannedparenthood-lawsuit-idUSKCN0X427N)
+2. [Reuters](https://www.reuters.com/article/us-indiana-plannedparenthood-lawsuit-idUSKCN0X427N)
 2. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/03/31/cb61a8e3-9f12-432d-a3dc-b5ab7b082be0/468206814.jpg)
 
 ### Related:

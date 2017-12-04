@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.html)  [JSON](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.json)  [XML](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.xml)  
+
 ### [2016-05-11](/news/2016/05/11/index.md)
 
 #  At least 64 people are killed and 87 injured in a bomb attack on a market in Sadr City, Baghdad. Islamic State of Iraq and the Levant (ISIS) claims responsibility. 
@@ -5,12 +8,12 @@
 Furious commanders ordered the savage execution after the 45 men retreated from combat against forces loyal to Syrian tyrant Bashar al-Assad
 
 
-### Source:
+### Sources:
 
 1. [Armen Press](https://armenpress.am/eng/news/846810/isis-buries-dozens-of-jihadists-alive-as-punishment-for-escaping-battlefront-near-kirkuk.html)
 2. [CNN](http://edition.cnn.com/2016/05/11/middleeast/baghdad-market-bombing/)
 3. [Mirror](http://www.mirror.co.uk/news/world-news/isis-bury-45-fighters-alive-7943328)
-4. [NY Times](http://www.nytimes.com/aponline/2016/05/11/world/middleeast/ap-ml-iraq.html?_r=0)
+4. [NY Times](https://www.nytimes.com/aponline/2016/05/11/world/middleeast/ap-ml-iraq.html?_r=0)
 4. [Cover Image](http://i1.mirror.co.uk/incoming/article7778217.ece/ALTERNATES/s1200/VID-ISIS-savages-have-released-a-new-execution-video-of-spy-with-explosive-necklace.jpg)
 
 ### Related:

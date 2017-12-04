@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/19/the-european-union-offers-to-help-the-fledgling-new-un-backed-libyan-unity-government-with-assistance-in-its-security-sector-managing-migra.html)  [JSON](/news/2016/04/19/the-european-union-offers-to-help-the-fledgling-new-un-backed-libyan-unity-government-with-assistance-in-its-security-sector-managing-migra.json)  [XML](/news/2016/04/19/the-european-union-offers-to-help-the-fledgling-new-un-backed-libyan-unity-government-with-assistance-in-its-security-sector-managing-migra.xml)  
+
 ### [2016-04-19](/news/2016/04/19/index.md)
 
 # The European Union offers to help the fledgling new UN-backed Libyan unity government with assistance in its security sector, managing migration, border management and police capacity building. This comes after Libyan Prime Minister Fayez al-Sarraj appealed to foreign governments for help in fighting ISIL and aid to rebuild the country. 
@@ -5,9 +8,9 @@
 Government to get assistance with border and security forces as Fayez al-Sarraj appeals for aid to fight Isis and rebuild country
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/19/libya-offered-security-help-by-european-union-fayez-seraj)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/19/libya-offered-security-help-by-european-union-fayez-seraj)
 1. [Cover Image](https://i.guim.co.uk/img/media/9ed97b50c979828297a7cb3be937b400788bee19/0_128_3500_2100/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5abc5b5d3993ceec782d959ba102a49a)
 
 ### Related:

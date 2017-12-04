@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/23/at-least-five-people-are-killed-after-a-cessna-182-light-aircraft-crashes-near-port-allen-airport-on-hawaii-s-kauai-island.html)  [JSON](/news/2016/05/23/at-least-five-people-are-killed-after-a-cessna-182-light-aircraft-crashes-near-port-allen-airport-on-hawaii-s-kauai-island.json)  [XML](/news/2016/05/23/at-least-five-people-are-killed-after-a-cessna-182-light-aircraft-crashes-near-port-allen-airport-on-hawaii-s-kauai-island.xml)  
+
 ### [2016-05-23](/news/2016/05/23/index.md)
 
 # At least five people are killed after a Cessna 182 light-aircraft crashes near Port Allen Airport on Hawaii's Kauai island. 
@@ -5,7 +8,7 @@
 A pilot, two skydive instructors and two tandem jumpers were believed to be in the plane when it went down
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/5-killed-in-small-plane-crash-on-kauai-in-hawaii/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/05/23/118de0b3-3281-46de-b4c3-9741e55718de/10620913g.jpg)

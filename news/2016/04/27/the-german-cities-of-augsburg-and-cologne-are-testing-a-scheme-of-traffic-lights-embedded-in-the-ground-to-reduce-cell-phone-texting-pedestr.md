@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/the-german-cities-of-augsburg-and-cologne-are-testing-a-scheme-of-traffic-lights-embedded-in-the-ground-to-reduce-cell-phone-texting-pedestr.html)  [JSON](/news/2016/04/27/the-german-cities-of-augsburg-and-cologne-are-testing-a-scheme-of-traffic-lights-embedded-in-the-ground-to-reduce-cell-phone-texting-pedestr.json)  [XML](/news/2016/04/27/the-german-cities-of-augsburg-and-cologne-are-testing-a-scheme-of-traffic-lights-embedded-in-the-ground-to-reduce-cell-phone-texting-pedestr.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # The German cities of Augsburg and Cologne are testing a scheme of traffic lights embedded in the ground to reduce cell phone-texting pedestrian accidents with vehicles that happen when so-called "smombies" step out into the street against the signal. 
@@ -5,10 +8,10 @@
 In Germany, they call them smombies – smartphone users who stagger about cities like zombies, oblivious to the risk. Now the city of Augsburg is fighting back
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/viral/341053-germany-smartphone-traffic-lights/)
-2. [The Guardian](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies)
+2. [The Guardian](https://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies)
 2. [Cover Image](https://i.guim.co.uk/img/media/bce09e71dc8d657eb6dec67874e8e89fa2557926/357_178_2596_1558/2596.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=39324d6b17ac808373133ed476c88e4a)
 
 ### Related:

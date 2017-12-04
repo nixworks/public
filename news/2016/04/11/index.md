@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/11/index.html)  [JSON](2016/04/11/index.json)  [XML](2016/04/11/index.xml)  
+
 ## [2016-04-11](/news/2016/04/11/index.md)
 
 ### [ At least three suicide bombers attack a police station in Stavropol, Russia. ](/news/2016/04/11/at-least-three-suicide-bombers-attack-a-police-station-in-stavropol-russia.md)
@@ -13,7 +16,7 @@ At least 12 people are killed by a bomb targeting police recruits on a bus in ea
 At least five people are killed after a suicide bomb attack on a restaurant near a local government building in the Somali capital, Mogadishu.
 
 ### [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md)
-_Context: 2008 financial crisis, Department of Justice, Goldman Sachs, housing crisis_
+_Context: 2008 financial crisis, Goldman Sachs, U.S. Justice Department, housing crisis_
 
 ### [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-tem.md)
 Intense spell of hot and dry weather brought on by El Nino hits food and water supplies across parts of SE Asia.

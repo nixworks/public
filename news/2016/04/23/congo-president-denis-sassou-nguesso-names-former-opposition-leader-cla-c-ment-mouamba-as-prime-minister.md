@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.html)  [JSON](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.json)  [XML](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-congo-politics-idUSKCN0XL005?il=0)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160424&t=2&i=1134236119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3N00A)
+1. [Reuters](https://www.reuters.com/article/us-congo-politics-idUSKCN0XL005?il=0)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160424&t=2&i=1134236119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3N00A)
 
 ### Related:
 

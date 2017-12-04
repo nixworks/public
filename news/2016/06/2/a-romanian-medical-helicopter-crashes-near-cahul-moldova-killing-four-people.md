@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.html)  [JSON](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.json)  [XML](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.xml)  
+
 ### [2016-06-2](/news/2016/06/2/index.md)
 
 # A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/romania-moldova-helicopter-crash-four-dead/27774748.html)
 

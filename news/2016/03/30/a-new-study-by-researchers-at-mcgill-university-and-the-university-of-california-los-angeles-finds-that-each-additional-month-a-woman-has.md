@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/a-new-study-by-researchers-at-mcgill-university-and-the-university-of-california-los-angeles-finds-that-each-additional-month-a-woman-has.html)  [JSON](/news/2016/03/30/a-new-study-by-researchers-at-mcgill-university-and-the-university-of-california-los-angeles-finds-that-each-additional-month-a-woman-has.json)  [XML](/news/2016/03/30/a-new-study-by-researchers-at-mcgill-university-and-the-university-of-california-los-angeles-finds-that-each-additional-month-a-woman-has.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # A new study by researchers at McGill University and the University of California, Los Angeles, finds that each additional month a woman has paid maternity leave is associated with decreased infant mortality by more than 10 percent. Researchers noted that paid maternity leave reduces stress because of the guarantee of income and job security, increases the chances for breastfeeding and other infant care, and allows a mother to seek more medical attention for herself. 
@@ -5,7 +8,7 @@
 For each additional month a woman has paid maternity leave, infant mortality decreases by more than 10 percent, according to a study of births in 20 countries.
 
 
-### Source:
+### Sources:
 
 1. [PLOS Medicine](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001985)
 2. [UPI](http://www.upi.com/Health_News/2016/03/30/Study-Longer-maternity-leave-linked-to-better-infant-health/4971459363627/?spt=hs&or=hn)

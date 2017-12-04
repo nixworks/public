@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.html)  [JSON](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.json)  [XML](/news/2016/05/19/german-chemical-and-pharmaceutical-company-bayer-bids-to-merge-with-american-agrochemical-and-agricultural-firm-monsanto.xml)  
+
 ### [2016-05-19](/news/2016/05/19/index.md)
 
 # German chemical and pharmaceutical company Bayer bids to merge with American agrochemical and agricultural firm Monsanto. 
 
-Bayer AG’s unsolicited takeover offer for Monsanto Co. met with skepticism as concerns mounted that the German company would need to take on too much debt and dilute equity holdings in its quest to acquire an embattled target.
+German healthcare and agricultural giant Bayer confirmed on Thursday morning it is in preliminary discussions on a takeover of Monsanto, one of the biggest seed and agricultural firms in the United States.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-19/bayer-s-pursuit-of-45-billion-monsanto-greeted-with-skepticism)
-2. [Forbes](http://www.forbes.com/sites/antoinegara/2016/05/19/bayer-confirms-merger-discussions-with-agriculture-giant-monsanto/#394689625518)
-2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN9XaQVJucKQ/v1/1200x800.jpg)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-05-19/bayer-s-pursuit-of-45-billion-monsanto-greeted-with-skepticism)
+2. [Forbes](https://www.forbes.com/sites/antoinegara/2016/05/19/bayer-confirms-merger-discussions-with-agriculture-giant-monsanto/#394689625518)
+2. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fa235cd7cc7264653bdc5dd26bd07144e%2F960x0.jpg%3Ffit%3Dscale)
 
 ### Related:
 

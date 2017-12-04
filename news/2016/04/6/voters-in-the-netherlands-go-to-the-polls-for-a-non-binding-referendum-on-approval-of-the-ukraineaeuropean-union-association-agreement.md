@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/6/voters-in-the-netherlands-go-to-the-polls-for-a-non-binding-referendum-on-approval-of-the-ukraineaeuropean-union-association-agreement.html)  [JSON](/news/2016/04/6/voters-in-the-netherlands-go-to-the-polls-for-a-non-binding-referendum-on-approval-of-the-ukraineaeuropean-union-association-agreement.json)  [XML](/news/2016/04/6/voters-in-the-netherlands-go-to-the-polls-for-a-non-binding-referendum-on-approval-of-the-ukraineaeuropean-union-association-agreement.xml)  
+
 ### [2016-04-6](/news/2016/04/6/index.md)
 
 # Voters in the Netherlands go to the polls for a non-binding referendum on approval of the Ukraine-European Union Association Agreement. 
@@ -5,7 +8,7 @@
 If the organisers of Wednesday&#039;s referendum don&#039;t care about Ukraine, the Dutch government should give them what they ask for and ignore the results.
 
 
-### Source:
+### Sources:
 
 1. [EU Observer](https://euobserver.com/opinion/132908)
 2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/dutch-voters-solidly-reject-european-union-pact-with-ukraine-nonbinding-referendum/27659278.html)

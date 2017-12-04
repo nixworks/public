@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/thailand-and-neighbouring-countries-suffer-from-the-worst-drought-in-decades-as-an-el-nia-o-induced-water-shortage-reduces-reservoirs-to-cri.html)  [JSON](/news/2016/03/30/thailand-and-neighbouring-countries-suffer-from-the-worst-drought-in-decades-as-an-el-nia-o-induced-water-shortage-reduces-reservoirs-to-cri.json)  [XML](/news/2016/03/30/thailand-and-neighbouring-countries-suffer-from-the-worst-drought-in-decades-as-an-el-nia-o-induced-water-shortage-reduces-reservoirs-to-cri.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # Thailand and neighbouring countries suffer from the worst drought in decades as an El Nino-induced water shortage reduces reservoirs to critical levels. 
@@ -5,7 +8,7 @@
 Thai dams run low as an El Nino-induced water shortage reduces reservoirs to critical levels.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/03/thailand-hit-worst-drought-decades-160330102123735.html)
 

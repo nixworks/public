@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/6/cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up-to-12-inches-of-rain-on-the-western-and.html)  [JSON](/news/2016/04/6/cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up-to-12-inches-of-rain-on-the-western-and.json)  [XML](/news/2016/04/6/cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up-to-12-inches-of-rain-on-the-western-and.xml)  
+
 ### [2016-04-6](/news/2016/04/6/index.md)
 
 # Cyclone Zena, now a category 3 storm, heads for Fiji, where a tropical depression already dumped up to 12 inches of rain on the western and northern parts of Fiji's largest and most populous island, Viti Levu, triggering major flash flooding that's killed at least two people. The archipelago is still recovering from category 5 Cyclone Winston that killed 44 people in February. 
@@ -5,11 +8,16 @@
 For the second time this week Fiji, still recovering from late-February Winston, was inundated with more flooding.
 
 
-### Source:
+### Sources:
 
 1. [Television New Zealand](https://www.tvnz.co.nz/one-news/world/least-two-dead-category-3-cyclone-zena-bears-down-fiji)
 2. [Weather.com](https://weather.com/storms/hurricane/news/fiji-flooding-tropical-cyclone-zena-april2016)
 2. [Cover Image](http://s.w-x.co/fiji-flood-korociri-4apr16.jpg)
+
+### Changes:
+
+1. [2015-16 South Pacific cyclone season: Cyclone Zena, now a category 3 storm, heads for Fiji, where a tropical depression already dumped up to 12 inches of rain on the western and northern parts of Fiji's largest and most populous island, Viti Levu, triggering major flash flooding that's killed at least two people. The archipelago is still recovering from category 5 Cyclone Winston that killed 44 people in February. ](/news/2016/04/6/2015-16-south-pacific-cyclone-season-cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up.md) _2017-08-27 03:45:31 (First version)_
+1. [Cyclone Zena, now a category 3 storm, heads for Fiji, where a tropical depression already dumped up to 12 inches of rain on the western and northern parts of Fiji's largest and most populous island, Viti Levu, triggering major flash flooding that's killed at least two people. The archipelago is still recovering from category 5 Cyclone Winston that killed 44 people in February. ](/news/2016/04/6/cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up-to-12-inches-of-rain-on-the-western-and.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ For the second time this week Fiji, still recovering from late-February Winston,
 3. [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji_
 4. [At least five people are reported dead and entire villages have been flattened after Cyclone Winston hits Fiji. ](/news/2016/02/21/at-least-five-people-are-reported-dead-and-entire-villages-have-been-flattened-after-cyclone-winston-hits-fiji.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji_
 5. [Hundreds of evacuation centres are activated in Fiji as Cyclone Winston makes landfall in Fiji's outer islands and heads towards islands with higher population. ](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in-fiji-as-cyclone-winston-makes-landfall-in-fiji-s-outer-islands-and-heads-towards-islands-wit.md) _Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji_
-
-### Changes:
-
-1. [2015-16 South Pacific cyclone season: Cyclone Zena, now a category 3 storm, heads for Fiji, where a tropical depression already dumped up to 12 inches of rain on the western and northern parts of Fiji's largest and most populous island, Viti Levu, triggering major flash flooding that's killed at least two people. The archipelago is still recovering from category 5 Cyclone Winston that killed 44 people in February. ](/news/2016/04/6/2015-16-south-pacific-cyclone-season-cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up.md) _2017-08-27 03:45:31 (First version)_
-1. [Cyclone Zena, now a category 3 storm, heads for Fiji, where a tropical depression already dumped up to 12 inches of rain on the western and northern parts of Fiji's largest and most populous island, Viti Levu, triggering major flash flooding that's killed at least two people. The archipelago is still recovering from category 5 Cyclone Winston that killed 44 people in February. ](/news/2016/04/6/cyclone-zena-now-a-category-3-storm-heads-for-fiji-where-a-tropical-depression-already-dumped-up-to-12-inches-of-rain-on-the-western-and.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.html)  [JSON](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.json)  [XML](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. 
@@ -5,11 +8,17 @@
 Clashes break out between migrants and riot police at a detention centre on the Greek island of Lesbos, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36144267)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/04/26/riot-breaks-out-at-refugee-camp-on-greek-island-of-lesbos/)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A59B/production/_89459324_89459315.jpg)
+
+### Changes:
+
+1. [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-mino.md) _2017-08-25 03:45:28 (First version)_
+2. [European migrant crisis: Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/european-migrant-crisis-clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policem.md) _2017-08-27 03:45:51 (Update)_
+2. [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ Clashes break out between migrants and riot police at a detention centre on the 
 3. [At least 27 migrants die in a shipwreck in the Aegean Sea when a boat capsizes in the Turkish bay of Edremit, near the Greek island of Lesbos. ](/news/2016/02/8/at-least-27-migrants-die-in-a-shipwreck-in-the-aegean-sea-when-a-boat-capsizes-in-the-turkish-bay-of-edremit-near-the-greek-island-of-lesbo.md) _Context: European migrant crisis, Greek, Lesbos_
 4. [An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-people-missing-from-a-boat-tha.md) _Context: European migrant crisis, Greek, Lesbos_
 5. [Some 26 migrants are feared missing after a dinghy carrying them sinks off the coast of the Greek island of Lesbos. The Greek Coast Guard rescued 20 people who were spotted in the water by Frontex, EU's border agency. ](/news/2015/09/20/some-26-migrants-are-feared-missing-after-a-dinghy-carrying-them-sinks-off-the-coast-of-the-greek-island-of-lesbos-the-greek-coast-guard-re.md) _Context: European migrant crisis, Greek, Lesbos_
-
-### Changes:
-
-1. [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-mino.md) _2017-08-25 03:45:28 (First version)_
-2. [European migrant crisis: Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/european-migrant-crisis-clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policem.md) _2017-08-27 03:45:51 (Update)_
-2. [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md) _(Current version)_

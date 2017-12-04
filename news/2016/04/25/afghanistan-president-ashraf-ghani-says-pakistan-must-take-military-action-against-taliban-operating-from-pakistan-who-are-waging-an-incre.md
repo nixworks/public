@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakistan-must-take-military-action-against-taliban-operating-from-pakistan-who-are-waging-an-incre.html)  [JSON](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakistan-must-take-military-action-against-taliban-operating-from-pakistan-who-are-waging-an-incre.json)  [XML](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakistan-must-take-military-action-against-taliban-operating-from-pakistan-who-are-waging-an-incre.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # Afghanistan President Ashraf Ghani says Pakistan must take military action against Taliban, operating from Pakistan, who are waging an increasingly deadly insurgency across his country. Otherwise, "... we will be forced to turn to the UN Security Council and start serious diplomatic efforts." 
 
-Ghani vowed a tough military response against the insurgents and pledged to enforce legal punishments, including executions of convicted militants.
+President Ashraf Ghani dropped his conciliatory approach and threatened to go to the United Nations if Pakistan failed to strike the Taliban on its soil.
 
 
-### Source:
+### Sources:
 
 1. [Penske Media Corporation](http://www.india.com/news/world/afghan-president-ashraf-ghani-demands-anti-taliban-action-from-pakistan-1136832/)
-2. [The New York Times](http://www.nytimes.com/2016/04/26/world/asia/afghanistan-pakistan-taliban.html)
-2. [Cover Image](http://www.india.com/wp-content/uploads/2016/01/ashrafghani.jpg)
+2. [The New York Times](https://www.nytimes.com/2016/04/26/world/asia/afghanistan-pakistan-taliban.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/04/26/world/26AFGHANISTAN-web1/26AFGHANISTAN-web1-facebookJumbo.jpg)
 
 ### Related:
 

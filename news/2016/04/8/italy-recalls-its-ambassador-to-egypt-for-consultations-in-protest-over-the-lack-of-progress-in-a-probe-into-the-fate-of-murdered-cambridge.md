@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.html)  [JSON](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.json)  [XML](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. 
@@ -5,7 +8,7 @@
 Italy on Friday recalled its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge student Giulio Regeni. The move came after two days of talks between Egyptian and Italian investigators in Rome ended without a resolution of tensions
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! News](https://www.yahoo.com/news/italy-recalls-ambassador-egypt-protest-over-slain-student-163440360.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/Zpjl3B2u9MBHXrUiB0_fhg--/aD04MTE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/47bd9dedd3d7f8f069564476bf08bad1c5a8e765.jpg)

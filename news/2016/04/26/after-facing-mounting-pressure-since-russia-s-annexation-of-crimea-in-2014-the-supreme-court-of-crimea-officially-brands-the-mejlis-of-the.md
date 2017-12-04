@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/26/after-facing-mounting-pressure-since-russia-s-annexation-of-crimea-in-2014-the-supreme-court-of-crimea-officially-brands-the-mejlis-of-the.html)  [JSON](/news/2016/04/26/after-facing-mounting-pressure-since-russia-s-annexation-of-crimea-in-2014-the-supreme-court-of-crimea-officially-brands-the-mejlis-of-the.json)  [XML](/news/2016/04/26/after-facing-mounting-pressure-since-russia-s-annexation-of-crimea-in-2014-the-supreme-court-of-crimea-officially-brands-the-mejlis-of-the.xml)  
+
 ### [2016-04-26](/news/2016/04/26/index.md)
 
 # After facing mounting pressure since Russia's annexation of Crimea in 2014, the Supreme Court of Crimea officially brands the Mejlis of the Crimean Tatar People an extremist organization and bans it. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-ukraine-crimean-tatars-mejlis-banned/27699264.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/30/floods-in-baden-wa1-4rttemberg-in-southwestern-germany-following-heavy-rain-that-started-sunday-night-kill-at-least-four-people.html)  [JSON](/news/2016/05/30/floods-in-baden-wa1-4rttemberg-in-southwestern-germany-following-heavy-rain-that-started-sunday-night-kill-at-least-four-people.json)  [XML](/news/2016/05/30/floods-in-baden-wa1-4rttemberg-in-southwestern-germany-following-heavy-rain-that-started-sunday-night-kill-at-least-four-people.xml)  
+
 ### [2016-05-30](/news/2016/05/30/index.md)
 
 # Floods in Baden-Wurttemberg in southwestern Germany following heavy rain that started Sunday night kill at least four people. 
@@ -5,7 +8,7 @@
 One of the victims is a 13-year-old girl who is hit by a train after apparently sheltering under a bridge amid heavy rain.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1704172/four-dead-in-flood-chaos-in-southern-germany)
 1. [Cover Image](http://e3.365dm.com/16/05/1600x900/cegrab-20160530-092859-139-1-2048x1536_3475819.jpg?20160530102849)

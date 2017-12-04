@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/24/loretta-lynch-the-attorney-general-of-the-united-states-advises-that-the-us-government-will-seek-the-death-penalty-against-dylann-roof-acc.html)  [JSON](/news/2016/05/24/loretta-lynch-the-attorney-general-of-the-united-states-advises-that-the-us-government-will-seek-the-death-penalty-against-dylann-roof-acc.json)  [XML](/news/2016/05/24/loretta-lynch-the-attorney-general-of-the-united-states-advises-that-the-us-government-will-seek-the-death-penalty-against-dylann-roof-acc.xml)  
+
 ### [2016-05-24](/news/2016/05/24/index.md)
 
 # Loretta Lynch, the Attorney General of the United States, advises that the US government will seek the death penalty against Dylann Roof accused of conducting the 2015 Charleston massacre. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Post and Courier](http://www.postandcourier.com/20160524/160529650/federal-authorities-to-seek-death-penalty-against-dylann-roof)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.html)  [JSON](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.json)  [XML](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.xml)  
+
 ### [2016-04-27](/news/2016/04/27/index.md)
 
 # Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www.sbs.com.au/news/article/2016/04/27/bali-9s-czugaj-allegedly-found-drugs)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20070817000042347809-original.jpg)

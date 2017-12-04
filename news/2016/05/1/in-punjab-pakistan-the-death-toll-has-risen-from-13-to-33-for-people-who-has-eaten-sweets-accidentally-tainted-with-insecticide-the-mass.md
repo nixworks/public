@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/1/in-punjab-pakistan-the-death-toll-has-risen-from-13-to-33-for-people-who-has-eaten-sweets-accidentally-tainted-with-insecticide-the-mass.html)  [JSON](/news/2016/05/1/in-punjab-pakistan-the-death-toll-has-risen-from-13-to-33-for-people-who-has-eaten-sweets-accidentally-tainted-with-insecticide-the-mass.json)  [XML](/news/2016/05/1/in-punjab-pakistan-the-death-toll-has-risen-from-13-to-33-for-people-who-has-eaten-sweets-accidentally-tainted-with-insecticide-the-mass.xml)  
+
 ### [2016-05-1](/news/2016/05/1/index.md)
 
 # In Punjab, Pakistan, the death toll has risen from 13 to 33 for people who has eaten sweets, accidentally tainted with insecticide. The mass poisoning occurred in April. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://dailytimes.com.pk/pakistan/02-May-16/death-toll-from-poisoned-sweets-climbs-to-33-in-punjab)
 1. [Cover Image](http://dailytimes.com.pk/static/uploads/original/death-toll-from-poisoned-sweets-climbs-to-33-in-punjab-393a00126568753fdeacb96658fd9027.jpg )

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.html)  [JSON](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.json)  [XML](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.xml)  
+
 ### [2016-05-23](/news/2016/05/23/index.md)
 
 #  Binali Yildirim is appointed Prime Minister of Turkey after the resignation of Ahmet Davutoglu amid disagreements with President Recep Tayyip Erdogan. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC New](http://abcnews.go.com/International/wireStory/erdogan-ally-set-appointed-turkeys-prime-minister-39285468)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-36352526)

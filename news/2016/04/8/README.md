@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/8/index.html)  [JSON](2016/04/8/index.json)  [XML](2016/04/8/index.xml)  
+
 ## [2016-04-8](/news/2016/04/8/index.md)
 
 ### [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md)
@@ -19,19 +22,19 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 _Context: Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill, bathroom bill_
 
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: Anbang Insurance Group, Canada, China, EU, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
 
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
-_Context: San Jose, Costa Rica_
+_Context: San Jose_
 
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
 _Context: Angoon, Southeast Alaska, United States_
 
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
-Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
+_Context: Ministry of Unification, North Korea, North Korea-South Korea relations, Seoul, South Korea, defects_
 
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, Egyptian President, King, Red Sea, Saudi Arabia, Saudi-Egypt Causeway, king_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, King, Red Sea, Saudi Arabia, Saudi-Egypt Causeway, king, presidential_
 
 ### [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md)
 The 33-year-old from San Diego disappeared after crossing into Syria from Turkey in 2012.

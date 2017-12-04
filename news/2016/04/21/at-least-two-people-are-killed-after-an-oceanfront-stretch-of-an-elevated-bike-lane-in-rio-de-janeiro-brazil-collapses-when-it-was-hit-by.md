@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/21/at-least-two-people-are-killed-after-an-oceanfront-stretch-of-an-elevated-bike-lane-in-rio-de-janeiro-brazil-collapses-when-it-was-hit-by.html)  [JSON](/news/2016/04/21/at-least-two-people-are-killed-after-an-oceanfront-stretch-of-an-elevated-bike-lane-in-rio-de-janeiro-brazil-collapses-when-it-was-hit-by.json)  [XML](/news/2016/04/21/at-least-two-people-are-killed-after-an-oceanfront-stretch-of-an-elevated-bike-lane-in-rio-de-janeiro-brazil-collapses-when-it-was-hit-by.xml)  
+
 ### [2016-04-21](/news/2016/04/21/index.md)
 
 # At least two people are killed after an oceanfront stretch of an elevated bike lane in Rio de Janeiro, Brazil, collapses when it was hit by a strong wave. Two other people were rescued alive, while another may be missing. The bike lane was among the projects built in preparation for the 2016 Summer Olympics. No Olympic event will be held on the path. 
@@ -5,7 +8,7 @@
 RIO DE JANEIRO (AP) — A new elevated bike path that was heralded as a top legacy project of the Rio de Janeiro Olympics collapsed Thursday, killing at least two people. The accident on the Tim Maia bike path was the latest…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/c6782f6aeee84005a1b2d8ac621e596a/bike-lane-brazil-built-ahead-olympics-collapses)
 2. [AP² via CBS News](http://www.cbsnews.com/news/brazil-bicycle-lane-collapse-olympics-host-city-rio-de-janeiro/)

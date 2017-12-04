@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/10/the-international-monetary-fund-encourages-the-move-toward-negative-interest-rates-because-they-help-deliver-additional-monetary-stimulus-a.html)  [JSON](/news/2016/04/10/the-international-monetary-fund-encourages-the-move-toward-negative-interest-rates-because-they-help-deliver-additional-monetary-stimulus-a.json)  [XML](/news/2016/04/10/the-international-monetary-fund-encourages-the-move-toward-negative-interest-rates-because-they-help-deliver-additional-monetary-stimulus-a.xml)  
+
 ### [2016-04-10](/news/2016/04/10/index.md)
 
 # The International Monetary Fund encourages the move toward negative interest rates because "they help deliver additional monetary stimulus and easier financial conditions." 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-imf-g20-rates-idUSKCN0X70TX)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160410&t=2&i=1131741827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC390LO)
+1. [Reuters](https://www.reuters.com/article/us-imf-g20-rates-idUSKCN0X70TX)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160410&t=2&i=1131741827&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC390LO)
 
 ### Related:
 

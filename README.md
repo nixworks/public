@@ -1,10 +1,20 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/3/index.md)
+## [News](/news/2017/12/4/index.md)
+
+### [Jordan's foreign minister Ayman Safadi has warned the US of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-us-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
+_Context: Ayman Safadi, Jerusalem_
+
+---
+
+## [Yesterday](/news/2017/12/3/index.md)
 
 ### [The Royal Saudi Air Force bombs Houthi positions in southern Sana'a in support of Ali Abdullah Saleh-headed General People's Congress. ](/news/2017/12/3/the-royal-saudi-air-force-bombs-houthi-positions-in-southern-sana-a-in-support-of-ali-abdullah-saleh-headed-general-people-s-congress.md)
 Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
+
+### [Venezuelan President Nicolas Maduro announces the creation of the Petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
+_Context: Nicolas Maduro, Petro, Venezuela, cryptocurrency, socioeconomic crisis_
 
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
 _Context: South Korea, Yeongheung Island_
@@ -19,14 +29,17 @@ The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to 
 _Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
 
 ### [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md)
-_Context: Kiev, Ukraine crisis, opposition, parliament_
+_Context: Kiev, Ukrainian crisis, opposition, parliament_
 
 ---
 
-## [Yesterday](/news/2017/12/2/index.md)
+## [Day Before Yesterday](/news/2017/12/2/index.md)
 
 ### [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
+
+### [ABC News suspends journalist Brian Ross for four weeks without pay as a consequence for an erroneous report on Michael Flynn. ](/news/2017/12/2/abc-news-suspends-journalist-brian-ross-for-four-weeks-without-pay-as-a-consequence-for-an-erroneous-report-on-michael-flynn.md)
+ABC News suspended reporter Brian Ross for the Michael Flynn reporting error that sparked a frenzy.
 
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
@@ -40,6 +53,9 @@ _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Franci
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
 
+### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)
+_Context: United Nations, United States and the United Nations_
+
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_
 
@@ -48,32 +64,7 @@ This week, the scientists and engineers on the Voyager team did something very s
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/1/index.md)
-
-### [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md)
-PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand grenades stormed the campus of the Agriculture Training Institute in Peshawar city on Friday morning, killing at least 12 people and injuring more than 35 others. Most of the victims were students. Provincial police chief Sa...
-
-### [The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago-b.md)
-_Context: Bitcoin, Chicago Board Options Exchange, Chicago Mercantile Exchange, Economics of bitcoin, U.S. Commodity Futures Trading Commission_
-
-### [The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/the-philippine-department-of-health-temporarily-suspends-a-school-based-dengue-vaccination-program-after-dengvaxia-vaccine-maker-sanofi-past.md)
-(2nd UPDATE) Health Secretary Francisco Duque III temporarily halts the program after Dengvaxia maker Sanofi Pasteur said its product poses higher risks to people without prior infection
-
-### [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md)
-The guilty plea by President Trump’s former national security adviser brings the special counsel investigation of Russian interference in the 2016 election into Mr. Trump’s inner circle.
-
-### [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md)
-_Context: Aftermath of the Honduran general election, 2017, Honduran, Juan Orlando Hernndez_
-
-### [Emperor Akihito announces his intentions to retire on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-retire-on-april-30-2019.md)
-_Context: Abdication of Emperor Akihito, Akihito_
-
-### [A 100-megawatt Tesla Powerpack system, which is the world's largest lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-largest-lithium-ion-battery-is-launched-in-jamestown-south-australia.md)
-Jay Weatherill marks the official launch as Elon Musk delivers on his promise to complete project within 100 days
-
----
-
-## [Previous Day...](/news/2017/11/30/index.md)
+## [Previous Day...](/news/2017/12/1/index.md)
 
 ---
 

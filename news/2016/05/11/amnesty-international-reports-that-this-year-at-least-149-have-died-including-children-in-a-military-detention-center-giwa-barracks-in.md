@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/11/amnesty-international-reports-that-this-year-at-least-149-have-died-including-children-in-a-military-detention-center-giwa-barracks-in.html)  [JSON](/news/2016/05/11/amnesty-international-reports-that-this-year-at-least-149-have-died-including-children-in-a-military-detention-center-giwa-barracks-in.json)  [XML](/news/2016/05/11/amnesty-international-reports-that-this-year-at-least-149-have-died-including-children-in-a-military-detention-center-giwa-barracks-in.xml)  
+
 ### [2016-05-11](/news/2016/05/11/index.md)
 
 #  Amnesty International reports that this year at least 149 have died, including children, in a military detention center, Giwa barracks, in Maiduguri, Nigeria. 
@@ -5,7 +8,7 @@
 We are Amnesty International UK. We work to protect men, women and children wherever justice, freedom, truth and dignity are denied.
 
 
-### Source:
+### Sources:
 
 1. [Amnesty](https://www.amnesty.org.uk/press-releases/nigeria-babies-among-149-dead-horrific-conditions-giwa-barracks-new-briefing)
 2. [VOA News](http://www.voanews.com/content/amnesty-over-140-dead-in-nigeria-military-detention/3324731.html)

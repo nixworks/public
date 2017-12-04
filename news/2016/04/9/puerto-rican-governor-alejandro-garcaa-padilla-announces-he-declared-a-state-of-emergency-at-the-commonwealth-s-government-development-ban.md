@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/9/puerto-rican-governor-alejandro-garcaa-padilla-announces-he-declared-a-state-of-emergency-at-the-commonwealth-s-government-development-ban.html)  [JSON](/news/2016/04/9/puerto-rican-governor-alejandro-garcaa-padilla-announces-he-declared-a-state-of-emergency-at-the-commonwealth-s-government-development-ban.json)  [XML](/news/2016/04/9/puerto-rican-governor-alejandro-garcaa-padilla-announces-he-declared-a-state-of-emergency-at-the-commonwealth-s-government-development-ban.xml)  
+
 ### [2016-04-9](/news/2016/04/9/index.md)
 
 #  Puerto Rican Governor Alejandro Garcia Padilla announces he declared a state of emergency at the Commonwealth's Government Development Bank yesterday, which allows withdrawals only to fund necessary costs for health, public safety, and education services. Without this measure and debt restructuring, the United States territory would be forced to default as it faces nearly $2.5 billion in bond payments from May through July. 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/27/index.html)  [JSON](2016/05/27/index.json)  [XML](2016/05/27/index.xml)  
+
 ## [2016-05-27](/news/2016/05/27/index.md)
 
 ### [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md)
@@ -10,7 +13,7 @@ At least two people person were killed and three others missing on Friday as rec
 More than 100 medical experts, academia and scientists on Friday have called for the Rio Olympic Games to be postponed or moved because of fears that the event could speed up the spread of the Zika virus around the world.
 
 ### [A preliminary study by the National Toxicology Program finds that cellphone radiation has the potential to increase the risk of tumor growth in male rats. ](/news/2016/05/27/a-preliminary-study-by-the-national-toxicology-program-finds-that-cellphone-radiation-has-the-potential-to-increase-the-risk-of-tumor-growth.md)
-_Context: National Toxicology Program, tumor_
+A look at federal research on the effects of radiation emitted by cellphones in rats. Some experts debunk the findings; others say don’t discount them.
 
 ### [The 42nd G7 summit held at Ise-Shima in Japan's Mie Prefecture concludes with a declaration that the United Kingdom leaving the European Union would pose a "serious threat to world growth". ](/news/2016/05/27/the-42nd-g7-summit-held-at-ise-shima-in-japan-s-mie-prefecture-concludes-with-a-declaration-that-the-united-kingdom-leaving-the-european-uni.md)
 A declaration at the G7 meeting in Japan says a vote by the UK to leave the European Union would pose a &quot;serious threat to global growth&quot;.
@@ -22,10 +25,10 @@ North Korea threatened retaliation on Friday after South Korea fired what it sai
 BUENOS AIRES, Argentina (AP) — In a story May 27 about an Argentina court ruling on human rights crimes related to the Operation Condor conspiracy in South America, The Associated Press erroneously reported that Ronni…
 
 ### [In the U.S., the Iowa Supreme Court rules juveniles, even those convicted of first-degree murder, can not be sentenced to life without parole, becoming the 19th state to ban such sentences. As of January, about 2,300 American juveniles were serving life-without-parole sentences. ](/news/2016/05/27/in-the-u-s-the-iowa-supreme-court-rules-juveniles-even-those-convicted-of-first-degree-murder-can-not-be-sentenced-to-life-without-parol.md)
-In the majority opinion of the Iowa Supreme Court, even juveniles who commit the severest crimes deserve the possibility of a second chance.
+The character of young people is “a work in progress,” the judges said in setting aside the sentence in a murder case involving a teenager.
 
 ### [Over 30 college students in Iran were arrested and punished with 99 lashes each for attending a co-ed graduation party. ](/news/2016/05/27/over-30-college-students-in-iran-were-arrested-and-punished-with-99-lashes-each-for-attending-a-co-ed-graduation-party.md)
-_Context: Iran_
+The punishments, believed to be part of a wider crackdown by a judiciary dominated by hard-liners, were carried out in record time.
 
 ### [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md)
 _Context: Joaquin "El Chapo" Guzman, Sinaloa Cartel, United States, foreign ministry of Mexico's_

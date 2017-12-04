@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/1/index.html)  [JSON](2016/06/1/index.json)  [XML](2016/06/1/index.xml)  
+
 ## [2016-06-1](/news/2016/06/1/index.md)
 
 ### [United States-backed Syrian Democratic Forces begin an offensive to regain control of the city of Manbij in the Aleppo Governorate from ISIL. ](/news/2016/06/1/united-states-backed-syrian-democratic-forces-begin-an-offensive-to-regain-control-of-the-city-of-manbij-in-the-aleppo-governorate-from-isil.md)
@@ -16,13 +19,13 @@ The group were also allegedly smoking in a no-smoking area.
 _Context: Bangladesh, February's attack on Bangladesh's central bank, Federal Reserve Bank of New York, United States House of Representatives_
 
 ### [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md)
-_Context: Public Investment Fund, Saudi Arabia, Uber_
+The ride-hailing company said the investment by Saudi Arabia’s Public Investment Fund was part of the most recent financing round that valued the company at $62.5 billion.
 
 ### [A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. ](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-near-the-south-korean-capital-seoul-kills-four-workers-and-injures-ten-more.md)
  Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 worke...
 
 ### [A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. ](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-from-the-missing-black-box-of-egyptair-flight-804.md)
-_Context: EgyptAir Flight 804, French naval, black box_
+The retrieval of the plane’s data recorders would shed light on why it crashed into the Mediterranean on May 19, killing all 66 on board.
 
 ### [Residents return to Fort McMurray for the first time since May 1. A couple thousand firefighters, from as far away as South Africa, continue to battle the 5,800 square kilometer (3,603 square mile) Canadian blaze that has crossed the Alberta border into Saskatchewan. ](/news/2016/06/1/residents-return-to-fort-mcmurray-for-the-first-time-since-may-1-a-couple-thousand-firefighters-from-as-far-away-as-south-africa-continue.md)
 Waseem Amin has been making big plans for his return to Fort McMurray, the Canadian oil-sands town devastated by wildfires last month. He came home to a city smelling of smoke and surrounded by charred hills dotted with hulks of burned trees.
@@ -34,7 +37,7 @@ Gov. Greg Abbott declared a state of disaster in 31 counties across the state on
 A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, according to the U.S. Geological Survey.
 
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: Germany, President of Turkey, Recep Tayyip Erdogan, Turkey, genocide of Armenians, recognizing_
+_Context: Germany, Recep Tayyip Erdogan, Turkey, Turkish President, genocide of Armenians, recognizing_
 
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
 _Context: Jens Stoltenberg, Secretary General of NATO, membership_
@@ -46,10 +49,10 @@ The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where Presid
 The United Nations Security Council on Wednesday condemned three recent failed ballistic missile tests by North Korea and threatened to take further &quot;significant measures.&quot;
 
 ### [ Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. ](/news/2016/06/1/two-people-are-killed-in-a-murder-suicide-shooting-at-the-university-of-california-los-angeles-police-report-the-campus-is-now-safe.md)
-Victim described as popular teacher, devoted family man.
+Police are investigating a possible active shooter at UCLA.
 
 ### [A man in Plano, Texas, stabs his girlfriend and posts her dead body to Facebook; the social media website does not remove the photograph for 36 hours. ](/news/2016/06/1/a-man-in-plano-texas-stabs-his-girlfriend-and-posts-her-dead-body-to-facebook-the-social-media-website-does-not-remove-the-photograph-for.md)
-_Context: Facebook, Plano, Texas_
+The Texas man was charged with murder in the stabbing of his girlfriend, and the image remained on the site before Facebook heeded her family’s calls to remove it.
 
 ### [Thailand authorities discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-pro.md)
 _Context: Department of National Parks, Wildlife and Plant Conservation, Kanchanaburi Province, Sai Yok District, Thailand, Theravada Buddhist, Tiger Temple_
@@ -61,7 +64,7 @@ Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assa
 Richard Huckle admitted 71 charges - but investigators believe he abused up to 200 victims in poor Christian communities.
 
 ### [The world's longest and deepest rail tunnel, the 57 km (35 miles) Gotthard Base Tunnel, opens in Switzerland. ](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.md)
-_Context: Gotthard Base Tunnel, Switzerland_
+The current four-hour trip between the major economic hubs of Zurich and Milan will be cut by about an hour.
 
 ## [Previous Day...](/news/2016/05/31/index.md)
 

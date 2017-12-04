@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.html)  [JSON](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.json)  [XML](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.xml)  
+
 ### [2016-05-18](/news/2016/05/18/index.md)
 
 #  Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. 
 
+The verdict ended a mystery that has long haunted the New Jersey community where the child disappeared and confirmed suspicions harbored by many that his mother, Michelle Lodzinski, was responsible.
 
 
-
-### Source:
+### Sources:
 
 1. [AP via Chicago Tribune](http://www.chicagotribune.com/news/sns-bc-us--cold-case-mother-20160518-story.html)
-2. [The New York Times](http://www.nytimes.com/2016/05/19/nyregion/woman-found-guilty-of-murder-in-1991-death-of-son-5-timothy-wiltsey.html)
-3. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/05/18/michelle-lodzinski-guilty-murdering-son/84542028/)
-3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [The New York Times](https://www.nytimes.com/2016/05/19/nyregion/woman-found-guilty-of-murder-in-1991-death-of-son-5-timothy-wiltsey.html)
+3. [USA Today](https://www.usatoday.com/story/news/nation-now/2016/05/18/michelle-lodzinski-guilty-murdering-son/84542028/)
+3. [Cover Image](https://static01.nyt.com/images/2016/05/19/nyregion/19COLDCASE1/19COLDCASE1-facebookJumbo.jpg)
 
 ### Related:
 

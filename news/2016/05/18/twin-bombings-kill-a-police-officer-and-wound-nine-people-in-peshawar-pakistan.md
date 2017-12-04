@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.html)  [JSON](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.json)  [XML](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.xml)  
+
 ### [2016-05-18](/news/2016/05/18/index.md)
 
 # Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. 
@@ -5,10 +8,15 @@
 A Pakistani police official says a twin bombing has killed a police officer and wounded nine people in northwestern Peshawar city.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/world/2016/05/18/twin-blasts-kill-police-officer-in-northwestern-pakistan.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [War in North-West Pakistan: Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/war-in-north-west-pakistan-twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _2017-08-27 03:46:03 (First version)_
+1. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A Pakistani police official says a twin bombing has killed a police officer and 
 3. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
 4. [Pakistan lifts the moratorium on the death penalty for terror-related cases following the Taliban's assault on a school in Peshawar on Tuesday that killed 141, including 132 children. ](/news/2014/12/17/pakistan-lifts-the-moratorium-on-the-death-penalty-for-terror-related-cases-following-the-taliban-s-assault-on-a-school-in-peshawar-on-tuesd.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
 5. [ Two bombs kill eight people and injure 74 others in Peshawar, Pakistan. ](/news/2009/05/28/two-bombs-kill-eight-people-and-injure-74-others-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/war-in-north-west-pakistan-twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _2017-08-27 03:46:03 (First version)_
-1. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _(Current version)_

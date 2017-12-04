@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/9/index.html)  [JSON](2016/04/9/index.json)  [XML](2016/04/9/index.xml)  
+
 ## [2016-04-9](/news/2016/04/9/index.md)
 
 ### [ At least 18 soldiers are killed and 52 injured in clashes with Abu Sayyaf militants and allied gunmen in Basilan island, Philippines. ](/news/2016/04/9/at-least-18-soldiers-are-killed-and-52-injured-in-clashes-with-abu-sayyaf-militants-and-allied-gunmen-in-basilan-island-philippines.md)
@@ -19,7 +22,7 @@ At least 23 people are killed and 32 injured after a bus plunges into a river in
 _Context: Egypt-Saudi Arabia relations, Sanafir Island, Tiran Island_
 
 ### [ North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-missile.md)
-_Context: North Korea, intercontinental ballistic missile, its nuclear weapons program_
+_Context: North Korea, North Korea and weapons of mass destruction, intercontinental ballistic missile_
 
 ### [ Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invo.md)
  Mohamed Abrini, who was arrested in Brussels, has admitted to being the third would-be suicide bomber at Brussels Airport 

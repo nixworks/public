@@ -6,6 +6,9 @@ Formats: [HTML](2017/12/2/index.html)  [JSON](2017/12/2/index.json)  [XML](2017/
 ### [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md)
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.
 
+### [ABC News suspends journalist Brian Ross for four weeks without pay as a consequence for an erroneous report on Michael Flynn. ](/news/2017/12/2/abc-news-suspends-journalist-brian-ross-for-four-weeks-without-pay-as-a-consequence-for-an-erroneous-report-on-michael-flynn.md)
+ABC News suspended reporter Brian Ross for the Michael Flynn reporting error that sparked a frenzy.
+
 ### [Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. ](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-albania-at-least-one-person-has-died-and-3-000-houses-have-been-flooded.md)
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.
 
@@ -17,6 +20,9 @@ _Context: Bangladesh, Bangladesh-Holy See relations, Dhaka, Myanmar, Pope Franci
 
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
 Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lift a blockade and stop attacks.
+
+### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)
+_Context: United Nations, United States and the United Nations_
 
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate, tax reform_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.html)  [JSON](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.json)  [XML](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.xml)  
+
 ### [2016-04-11](/news/2016/04/11/index.md)
 
 # Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/04/11/asia/india-temple-fire/index.html)
+
+### Changes:
+
+1. [Kollam temple fire: Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/kollam-temple-fire-five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-t.md) _2017-08-27 03:45:34 (First version)_
+1. [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [At least 7 people are killed and many injured after gunmen attack an Indian police station in Punjab. ](/news/2015/07/27/at-least-7-people-are-killed-and-many-injured-after-gunmen-attack-an-indian-police-station-in-punjab.md) _Context: Indian police_
 4. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _Context: Indian police_
 5. [At least 20 people die in a shootout between Indian police and timber smugglers in the southern state of Andhra Pradesh. ](/news/2015/04/7/at-least-20-people-die-in-a-shootout-between-indian-police-and-timber-smugglers-in-the-southern-state-of-andhra-pradesh.md) _Context: Indian police_
-
-### Changes:
-
-1. [Kollam temple fire: Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/kollam-temple-fire-five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-t.md) _2017-08-27 03:45:34 (First version)_
-1. [Five workers from the company that supplied fireworks to the Puttingal Temple have been detained by Indian police with the death toll rising to 106. ](/news/2016/04/11/five-workers-from-the-company-that-supplied-fireworks-to-the-puttingal-temple-have-been-detained-by-indian-police-with-the-death-toll-rising.md) _(Current version)_

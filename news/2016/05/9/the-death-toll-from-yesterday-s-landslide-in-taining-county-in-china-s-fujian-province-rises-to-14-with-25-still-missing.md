@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/9/the-death-toll-from-yesterday-s-landslide-in-taining-county-in-china-s-fujian-province-rises-to-14-with-25-still-missing.html)  [JSON](/news/2016/05/9/the-death-toll-from-yesterday-s-landslide-in-taining-county-in-china-s-fujian-province-rises-to-14-with-25-still-missing.json)  [XML](/news/2016/05/9/the-death-toll-from-yesterday-s-landslide-in-taining-county-in-china-s-fujian-province-rises-to-14-with-25-still-missing.xml)  
+
 ### [2016-05-9](/news/2016/05/9/index.md)
 
 # The death toll from yesterday's landslide in Taining County in China's Fujian province rises to 14 with 25 still missing, 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3580399/14-dead-25-missing-China-landslide.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.html)  [JSON](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.json)  [XML](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # Macedonian opposition leader Zoran Zaev pledges to boycott the early Macedonian parliamentary elections, saying it is due to a lack of government reforms. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/r-macedonia-opposition-says-will-boycott-election-2016-4)
 1. [Cover Image](http://static4.businessinsider.com/image/5706251a5124c9254c8b4567-1190-625/macedonia-opposition-says-will-boycott-election.jpg)

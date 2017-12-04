@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.html)  [JSON](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.json)  [XML](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.xml)  
+
 ### [2016-05-29](/news/2016/05/29/index.md)
 
 # Mexican international football player Alan Pulido, who plays for Olympiacos F.C., is kidnapped by masked men near his home in Ciudad Victoria, Tamaulipas. He is later rescued. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Sun MV](http://english.sun.mv/37838/)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-36409366)

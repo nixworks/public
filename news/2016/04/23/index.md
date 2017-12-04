@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/23/index.html)  [JSON](2016/04/23/index.json)  [XML](2016/04/23/index.xml)  
+
 ## [2016-04-23](/news/2016/04/23/index.md)
 
 ### [The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md)
@@ -18,9 +21,6 @@ _Context: Stratford-upon-Avon, William Shakespeare_
 ### [Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes. ](/news/2016/04/23/spain-commemorates-the-400th-anniversary-of-the-death-of-its-most-famous-author-miguel-de-cervantes.md)
 Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death&#x20;of&#x20;its&#x20;most&#x20;famous&#x20;author&#x20;Miguel&#x20;de&#x20;Cervantes&#x20;this&#x20;week&#x20;with&#x20;hundreds&#x20;of&#x20;events&#x20;ranging&#x20;from&#x20;cultural&#x20;to&#x20;quirky...and&#x20;a...
 
-### [Beyonce releases the best selling album of 2016, Lemonade. The album is a visual album that was released with a film that detailed every song on the album.](/news/2016/04/23/beyonca-c-releases-the-best-selling-album-of-2016-lemonade-the-album-is-a-visual-album-that-was-released-with-a-film-that-detailed-every-so.md)
-_Context: Beyonce, Lemonade_
-
 ### [Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-later-tonight.md)
 _Context: 2015-16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
 
@@ -31,10 +31,10 @@ _Context: Caspian Sea, Russia, Turkmenistan, oil tanker_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-time.md)
-_Context: North Korea, its nuclear weapons program, submarine-launched ballistic missile_
+_Context: North Korea, North Korea and weapons of mass destruction, submarine-launched ballistic missile_
 
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: Russia, Russia-United States relations, Russian president, United States federal government, Vladimir Putin, plutonium_
+_Context: Russia, Russia-United States relations, Russian President, United States federal government, Vladimir Putin, plutonium_
 
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
@@ -58,7 +58,7 @@ Ministers agree to propose joint list of tax havens and approve plan to automati
 &#8203;Federal law enforcement investigators are searching in at least three states for more than 500 pounds of explosives stolen from a CSX train
 
 ### [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md)
-_Context: Human rights, Leni Robredo, Philippine presidential election, 2016, labor rights_
+_Context: Leni Robredo, Philippine presidential election, 2016, human rights, labor rights_
 
 ### [Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-president-machar-was-offer.md)
 Government will not allow Riek Machar back until international monitors verify number of weapons troops are bringing.
@@ -67,7 +67,7 @@ Government will not allow Riek Machar back until international monitors verify n
 Thousands of people have protested in the German city of Hannover against a proposed Transatlantic Trade and Investment Partnership (TTIP) deal.
 
 ### [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md)
-_Context: Darfur, Darfurian status referendum, 2016, Department of State, Sudan_
+_Context: Darfur, Darfurian status referendum, 2016, Sudan, United States Department of State_
 
 ### [Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. ](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.md)
 _Context: Clement Mouamba, Congo President, Denis Sassou Nguesso_

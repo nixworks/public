@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/7/index.html)  [JSON](2016/04/7/index.json)  [XML](2016/04/7/index.xml)  
+
 ## [2016-04-7](/news/2016/04/7/index.md)
 
 ### [According to Syrian state television, ISIL militants kidnapped over 300 staff members from a cement factory outside of the city of Al-Dumayr earlier this week and no contact with them has been made since. ](/news/2016/04/7/according-to-syrian-state-television-isil-militants-kidnapped-over-300-staff-members-from-a-cement-factory-outside-of-the-city-of-al-dumayr.md)

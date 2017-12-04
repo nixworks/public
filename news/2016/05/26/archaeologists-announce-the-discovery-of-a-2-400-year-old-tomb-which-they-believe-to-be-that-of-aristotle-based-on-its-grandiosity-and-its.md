@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.html)  [JSON](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.json)  [XML](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.xml)  
+
 ### [2016-05-26](/news/2016/05/26/index.md)
 
 # Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. 
 
+At a conference for the 2,400th anniversary of Aristotle’s birth, the archaeologist said he had “no proof but strong indications, as certain as one can be.”
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/05/27/world/europe/greece-aristotle-tomb.html)
+1. [The New York Times](https://www.nytimes.com/2016/05/27/world/europe/greece-aristotle-tomb.html)
 2. [UPI](http://www.upi.com/Science_News/2016/05/26/Archaeologists-say-theyve-discovered-Aristotles-tomb/4941464287698/?spt=hs&or=sn)
-2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/4941464287698/2016/1/14642941043874/v2.1/Archaeologists-say-theyve-discovered-Aristotles-tomb.jpg)
+2. [Cover Image](https://static01.nyt.com/images/2016/05/27/world/27ARISTOTLE/27ARISTOTLE-facebookJumbo.jpg)
 
 ### Related:
 

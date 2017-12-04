@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.html)  [JSON](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.json)  [XML](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. 
@@ -5,10 +8,15 @@
 The United Nations World Food Programme (WFP) is stepping up assistance to Ecuador’s most vulnerable areas following last week’s (April 16)
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/04/25/un-world-food-programme-steps-up-aid-to-ecuador/)
 1. [Cover Image](http://static.euronews.com/articles/330785/1000x563_330785.jpg)
+
+### Changes:
+
+1. [2016 Ecuador earthquake: The United Nations World Food Programme announces it is stepping up assistance to Ecuador-s most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/2016-ecuador-earthquake-the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuador-s-most-vulnerable-areas.md) _2017-08-27 03:45:50 (First version)_
+1. [The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The United Nations World Food Programme (WFP) is stepping up assistance to Ecuad
 3. [The death toll from Saturday's earthquake has risen to at least 480 with 1,700 missing. Another 2,500 have been injured. President Rafael Correa states it is the worst disaster in Ecuador in seven decades, and the reconstruction will have a "huge economic impact" on the country. ](/news/2016/04/19/the-death-toll-from-saturday-s-earthquake-has-risen-to-at-least-480-with-1-700-missing-another-2-500-have-been-injured-president-rafael-co.md) _Context: Ecuador, earthquake_
 4. [Aid starts to flow in after an earthquake kills over 270 people in Ecuador. ](/news/2016/04/18/aid-starts-to-flow-in-after-an-earthquake-kills-over-270-people-in-ecuador.md) _Context: Ecuador, earthquake_
 5. [The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md) _Context: Ecuador, earthquake_
-
-### Changes:
-
-1. [2016 Ecuador earthquake: The United Nations World Food Programme announces it is stepping up assistance to Ecuador-s most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/2016-ecuador-earthquake-the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuador-s-most-vulnerable-areas.md) _2017-08-27 03:45:50 (First version)_
-1. [The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.md) _(Current version)_

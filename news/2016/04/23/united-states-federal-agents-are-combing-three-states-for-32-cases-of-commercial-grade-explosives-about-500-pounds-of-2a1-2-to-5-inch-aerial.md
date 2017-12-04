@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.html)  [JSON](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.json)  [XML](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.xml)  
+
 ### [2016-04-23](/news/2016/04/23/index.md)
 
 # United States Federal agents are combing three states for 32 cases of commercial grade explosives, about 500 pounds of 21/2 to 5 inch aerial shells, stolen from a CSX train traveling from Chicago, Illinois, through Ohio that arrived in Detroit, Michigan, on Wednesday. 
@@ -5,7 +8,7 @@
 &#8203;Federal law enforcement investigators are searching in at least three states for more than 500 pounds of explosives stolen from a CSX train
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/more-than-500-pounds-of-explosives-stolen-from-train/)
 2. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/detroit/2016/04/22/train-arrives-detroit-missing-32-cases-explosives/83413864/)

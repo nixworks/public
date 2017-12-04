@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.html)  [JSON](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.json)  [XML](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-merseyside-36133445)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/81E6/production/_89445233_2a00f82c-728a-41a6-a2f3-b42efa306d15.jpg)
+
+### Changes:
+
+1. [Hillsborough disaster: The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/hillsborough-disaster-the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given.md) _2017-08-27 03:45:50 (First version)_
+1. [The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [An inquest into the Hillsborough Disaster in 1989 when 96 fans of Liverpool FC were killed finds the fans were illegally killed. ](/news/2016/04/26/an-inquest-into-the-hillsborough-disaster-in-1989-when-96-fans-of-liverpool-fc-were-killed-finds-the-fans-were-illegally-killed.md) _Context: Hillsborough disaster_
 4. [The UK government launches an inquiry after the "Liverpool Echo" reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks-a.md) _Context: Hillsborough disaster_
 5. [The BBC documentary series "Panorama" airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-at.md) _Context: Hillsborough disaster_
-
-### Changes:
-
-1. [Hillsborough disaster: The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/hillsborough-disaster-the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given.md) _2017-08-27 03:45:50 (First version)_
-1. [The jury in the second inquest for the victims of the Hillsborough disaster reach their verdicts. These will be given at 11:00 BST tomorrow.](/news/2016/04/25/the-jury-in-the-second-inquest-for-the-victims-of-the-hillsborough-disaster-reach-their-verdicts-these-will-be-given-at-11-00-bst-tomorrow.md) _(Current version)_

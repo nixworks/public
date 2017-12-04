@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-and-third-largest-oilfield-service-firms-announce-the-cancellation-of-their-28-billion.html)  [JSON](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-and-third-largest-oilfield-service-firms-announce-the-cancellation-of-their-28-billion.json)  [XML](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-and-third-largest-oilfield-service-firms-announce-the-cancellation-of-their-28-billion.xml)  
+
 ### [2016-05-1](/news/2016/05/1/index.md)
 
 # Halliburton Co. and Baker Hughes Inc., the second- and third-largest oilfield service firms, announce the cancellation of their $28 billion merger which has faced opposition from U.S. and European antitrust regulators. Halliburton will reportedly have to pay Baker Hughes a $3.5 billion termination fee if the deal is called off. 
@@ -5,11 +8,11 @@
 Halliburton Co. and Baker Hughes Inc. called off their $28 billion merger that faced stiff resistance from regulators in the U.S. and Europe over antitrust concerns.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-01/halliburton-baker-hughes-said-to-call-off-28-billion-merger)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-05-01/halliburton-baker-hughes-said-to-call-off-28-billion-merger)
 2. [Business Wire via Yahoo! Finance](http://finance.yahoo.com/news/halliburton-baker-hughes-announce-termination-000000573.html)
-3. [Reuters](http://www.reuters.com/article/us-bakerhughes-m-a-halliburton-idUSKCN0XS1KW?il=0)
+3. [Reuters](https://www.reuters.com/article/us-bakerhughes-m-a-halliburton-idUSKCN0XS1KW?il=0)
 3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

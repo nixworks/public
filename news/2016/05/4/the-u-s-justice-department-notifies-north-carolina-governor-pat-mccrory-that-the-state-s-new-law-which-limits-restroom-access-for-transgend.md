@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.html)  [JSON](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.json)  [XML](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.xml)  
+
 ### [2016-05-4](/news/2016/05/4/index.md)
 
 # The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/05/04/us/north-carolina-transgender-law-challenge/)
-2. [Reuters](http://www.reuters.com/article/us-north-carolina-lgbt-idUSKCN0XV2N8)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160504&t=2&i=1135803978&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC431LM)
+2. [Reuters](https://www.reuters.com/article/us-north-carolina-lgbt-idUSKCN0XV2N8)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160504&t=2&i=1135803978&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC431LM)
+
+### Changes:
+
+1. [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgen.md) _2017-08-25 03:45:36 (First version)_
+1. [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +25,4 @@
 2. [The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. ](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.md) _Context: Governor, Pat McCrory_
 3. [Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. ](/news/2016/09/21/protesters-of-the-police-shooting-of-keith-lamont-scott-yesterday-injure-twelve-charlotte-north-carolina-police-officers-riots-continue-in.md) _Context: Governor, Pat McCrory_
 4. [ North Carolina Governor Pat McCrory signs Executive Order 73 that addresses some, but not all, troublesome provisions in House Bill 2 that caused businesses, traveling recording stars, etc., to stay clear of the state. The order does expand the state's anti-discrimination employment policy to include LBGT protection, but reiterates that people use the marked facility consistent with "... their biological sex." The American Civil Liberties Union says the order, "... fall(s) far short of correcting the damage done ... (and that)... transgender people are still explicitly targeted by being forced to use the wrong restroom." Equality North Carolina says, "... the order doubles down on the Governor's support for some of the most problematic provisions of HB2." ](/news/2016/04/12/north-carolina-governor-pat-mccrory-signs-executive-order-73-that-addresses-some-but-not-all-troublesome-provisions-in-house-bill-2-that.md) _Context: Governor, Pat McCrory_
-5. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Department of Justice_
-
-### Changes:
-
-1. [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgen.md) _2017-08-25 03:45:36 (First version)_
-1. [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md) _(Current version)_
+5. [The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.md) _Context: U.S. Justice Department_

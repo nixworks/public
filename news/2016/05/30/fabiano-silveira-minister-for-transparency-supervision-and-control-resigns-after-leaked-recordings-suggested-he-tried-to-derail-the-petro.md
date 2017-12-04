@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/30/fabiano-silveira-minister-for-transparency-supervision-and-control-resigns-after-leaked-recordings-suggested-he-tried-to-derail-the-petro.html)  [JSON](/news/2016/05/30/fabiano-silveira-minister-for-transparency-supervision-and-control-resigns-after-leaked-recordings-suggested-he-tried-to-derail-the-petro.json)  [XML](/news/2016/05/30/fabiano-silveira-minister-for-transparency-supervision-and-control-resigns-after-leaked-recordings-suggested-he-tried-to-derail-the-petro.xml)  
+
 ### [2016-05-30](/news/2016/05/30/index.md)
 
 # Fabiano Silveira, Minister for Transparency, Supervision and Control, resigns after leaked recordings suggested he tried to derail the Petrobras corruption investigation. This "anti-corruption" ministry was created on May 12, 2016, when Vice President Michel Temer was sworn in as acting president. The same tapes led to the resignation of Planning Minister Romero Juca last week. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-36414882)
-2. [Reuters](http://www.reuters.com/article/us-brazil-corruption-idUSKCN0YL1SB)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160530&t=2&i=1139307607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4T0UR)
+2. [Reuters](https://www.reuters.com/article/us-brazil-corruption-idUSKCN0YL1SB)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160530&t=2&i=1139307607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC4T0UR)
 
 ### Related:
 

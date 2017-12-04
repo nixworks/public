@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/24/index.html)  [JSON](2016/05/24/index.json)  [XML](2016/05/24/index.xml)  
+
 ## [2016-05-24](/news/2016/05/24/index.md)
 
 ### [ Jaish-e-Mohammed operations chief is killed in a gun battle with police. ](/news/2016/05/24/jaish-e-mohammed-operations-chief-is-killed-in-a-gun-battle-with-police.md)

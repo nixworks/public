@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/30/the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endorses-donald-trump-for-president-of-the-unit.html)  [JSON](/news/2016/03/30/the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endorses-donald-trump-for-president-of-the-unit.json)  [XML](/news/2016/03/30/the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endorses-donald-trump-for-president-of-the-unit.xml)  
+
 ### [2016-03-30](/news/2016/03/30/index.md)
 
 # The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. 
@@ -5,20 +8,20 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/03/30/politics/border-patrol-union-endorses-donald-trump/index.html)
-
-### Related:
-
-1. [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md) _Context: Donald Trump_
-2. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. ](/news/2017/10/12/u-s-president-donald-trump-signs-an-executive-order-allowing-the-sale-of-health-insurance-plans-that-are-exempt-from-some-obamacare-regulat.md) _Context: Donald Trump_
-4. [U.S. President Donald Trump declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-trump-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-cal.md) _Context: Donald Trump_
-5. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Donald Trump_
 
 ### Changes:
 
 1. [United States presidential election, 2016:The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. ](/news/2016/03/30/united-states-presidential-election-2016-pthe-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endo.md) _2017-08-25 03:45:04 (First version)_
 2. [United States presidential election, 2016:: The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. ](/news/2016/03/30/united-states-presidential-election-2016-the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-end.md) _2017-08-27 03:45:25 (Update)_
 2. [The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. ](/news/2016/03/30/the-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endorses-donald-trump-for-president-of-the-unit.md) _(Current version)_
+
+### Related:
+
+1. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
+2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_
+3. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump_
+4. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: Donald Trump_
+5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: Donald Trump_

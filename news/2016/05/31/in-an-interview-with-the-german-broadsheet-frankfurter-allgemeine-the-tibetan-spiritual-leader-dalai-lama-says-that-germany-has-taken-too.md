@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.html)  [JSON](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.json)  [XML](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.xml)  
+
 ### [2016-05-31](/news/2016/05/31/index.md)
 
 # In an interview with the German broadsheet "Frankfurter Allgemeine", the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/storyline/europes-border-crisis/dalai-lama-thinks-europe-has-let-too-many-refugees-n583701)
 1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_22/1560116/160601-dalai-0439_2b3bd694ae229e7a2e638c3fe1ca935f.nbcnews-fp-1200-800.jpg)
+
+### Changes:
+
+1. [In an interview with the German broadsheet ''Frankfurter Allgemeine'', the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-t.md) _2017-08-25 03:45:47 (First version)_
+1. [In an interview with the German broadsheet "Frankfurter Allgemeine", the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
 4. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
 5. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_
-
-### Changes:
-
-1. [In an interview with the German broadsheet ''Frankfurter Allgemeine'', the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-t.md) _2017-08-25 03:45:47 (First version)_
-1. [In an interview with the German broadsheet "Frankfurter Allgemeine", the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.md) _(Current version)_

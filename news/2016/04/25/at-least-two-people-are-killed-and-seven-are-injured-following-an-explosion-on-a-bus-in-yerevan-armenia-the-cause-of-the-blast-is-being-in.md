@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-injured-following-an-explosion-on-a-bus-in-yerevan-armenia-the-cause-of-the-blast-is-being-in.html)  [JSON](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-injured-following-an-explosion-on-a-bus-in-yerevan-armenia-the-cause-of-the-blast-is-being-in.json)  [XML](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-injured-following-an-explosion-on-a-bus-in-yerevan-armenia-the-cause-of-the-blast-is-being-in.xml)  
+
 ### [2016-04-25](/news/2016/04/25/index.md)
 
 # At least two people are killed and seven are injured following an explosion on a bus in Yerevan, Armenia. The cause of the blast is being investigated. 
@@ -5,7 +8,7 @@
 At least two people have been killed and seven injured after a bus exploded in central Yerevan, Armenia’s capital, according to the national emergencies ministry.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/340889-armenia-blast-bus-yerevan/)
 1. [Cover Image](https://img.rt.com/files/2016.04/article/571e6cf1c46188ed628b45b6.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.html)  [JSON](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.json)  [XML](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.xml)  
+
 ### [2016-04-19](/news/2016/04/19/index.md)
 
 # Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement, goes on trial in Dresden on charges of hate speech. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36079533)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/6F7C/production/_89304582_032536681-1.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.html)  [JSON](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.json)  [XML](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.xml)  
+
 ### [2016-04-10](/news/2016/04/10/index.md)
 
 # Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. 
@@ -5,12 +8,17 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Journal Times](http://journaltimes.com/news/national/latin-america/fujimori-wins-st-round-of-peru-election-heads-to-runoff/article_19b7d0b2-34ba-5df2-ba86-32fbd7cc9e18.html)
 2. [BBC](http://www.bbc.com/news/world-latin-america-36008526)
 3. [Telesur](http://www.telesurtv.net/english/opinion/In-Peru-Election-the-Race-for-2nd-Place-May-Be-Most-Important-20160409-0050.html)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/138F4/production/_89161108_89161104.jpg)
+
+### Changes:
+
+1. [Peruvian general election, 2016: Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through.md) _2017-08-27 03:45:34 (First version)_
+1. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@
 3. [Election officials announce all ballots have been processed and Pedro Pablo Kuczynski wins the closest presidential contest in five decades with 50.1 percent of the votes versus 49.9% for Keiko Fujimori. Fujimori has yet to concede defeat. As many as 50,000 ballots still need to be reviewed, but experts say Fujimori can not make up the difference of roughly 40,000 votes separating her from Kuczynski. ](/news/2016/06/9/election-officials-announce-all-ballots-have-been-processed-and-pedro-pablo-kuczynski-wins-the-closest-presidential-contest-in-five-decades.md) _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peruvian general election, 2016_
 4. [Peruvians vote in presidential elections with the most likely result a runoff between Ollanta Humala and either Pedro Pablo Kuczynski or Keiko Fujimori. ](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.md) _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru_
 5. [Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently disqualified candidates are allowed to run. ](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.md) _Context: Keiko Fujimori, Peruvian general election, 2016_
-
-### Changes:
-
-1. [Peruvian general election, 2016: Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/peruvian-general-election-2016-voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through.md) _2017-08-27 03:45:34 (First version)_
-1. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _(Current version)_

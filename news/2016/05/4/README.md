@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/05/4/index.html)  [JSON](2016/05/4/index.json)  [XML](2016/05/4/index.xml)  
+
 ## [2016-05-4](/news/2016/05/4/index.md)
 
 ### [The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md)
@@ -31,16 +34,16 @@ _Context: Chhattisgarh, India, Jharkhand, Raipur_
 BRUSSELS (AP) — The European Union pressed ahead Wednesday with efforts to persuade Turkey to stop asylum seekers from reaching Europe and take back thousands more by offering Turkish citizens the prospect of visa-free…
 
 ### [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md)
-_Context: 1964 Civil Rights Act, Department of Justice, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, restroom access for transgender people_
+_Context: 1964 Civil Rights Act, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, U.S. Justice Department, restroom access for transgender people_
 
 ### [The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. ](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.md)
 _Context: Khadga Prasad Sharma Oli, Nepalese Maoist Party, Prime Minister, the Nepalese government_
 
 ### [Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-donald-trump-for-the-gop-presidential-nomina.md)
-_Context: Donald Trump, Governor, John Kasich, Republican, United States presidential election, 2016, his campaign_
+_Context: 2016 U.S. presidential election, Donald Trump, Governor, John Kasich, Republican, his campaign_
 
 ### [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md)
-Quantum computing is computing at its most esoteric. But by sharing its prototype with the world at large, IBM hopes to change that.
+_Context: IBM, Yorktown Heights, New York, quantum computer, qubit_
 
 ## [Previous Day...](/news/2016/05/3/index.md)
 

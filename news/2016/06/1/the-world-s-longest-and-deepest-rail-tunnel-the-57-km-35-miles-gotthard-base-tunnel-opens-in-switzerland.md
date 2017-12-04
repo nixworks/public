@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.html)  [JSON](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.json)  [XML](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.xml)  
+
 ### [2016-06-1](/news/2016/06/1/index.md)
 
 # The world's longest and deepest rail tunnel, the 57 km (35 miles) Gotthard Base Tunnel, opens in Switzerland. 
 
+The current four-hour trip between the major economic hubs of Zurich and Milan will be cut by about an hour.
 
 
-
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/06/01/europe/switzerland-longest-tunnel-gotthard/index.html?eref=edition)
-2. [The New York Times](http://www.nytimes.com/2016/06/02/world/europe/gotthard-base-rail-tunnel-switzerland.html)
+2. [The New York Times](https://www.nytimes.com/2016/06/02/world/europe/gotthard-base-rail-tunnel-switzerland.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/06/02/world/02Tunnel-web/02Tunnel-web-facebookJumbo.jpg)
 
 ### Related:
 

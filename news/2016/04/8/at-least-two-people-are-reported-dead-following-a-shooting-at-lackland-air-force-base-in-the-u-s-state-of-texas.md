@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/8/at-least-two-people-are-reported-dead-following-a-shooting-at-lackland-air-force-base-in-the-u-s-state-of-texas.html)  [JSON](/news/2016/04/8/at-least-two-people-are-reported-dead-following-a-shooting-at-lackland-air-force-base-in-the-u-s-state-of-texas.json)  [XML](/news/2016/04/8/at-least-two-people-are-reported-dead-following-a-shooting-at-lackland-air-force-base-in-the-u-s-state-of-texas.xml)  
+
 ### [2016-04-8](/news/2016/04/8/index.md)
 
 # At least two people are reported dead following a shooting at Lackland Air Force Base, in the U.S. state of Texas. 
@@ -5,9 +8,9 @@
 At least two died in a Friday shooting at Lackland Air Force Base in San Antonio, Texas, after reports of an active shooter shutdown the base.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/04/08/sheriff-we-have-victims-at-active-crime-scene-at-lackland-air-force-base.html)
+1. [CNBC](https://www.cnbc.com/2016/04/08/sheriff-we-have-victims-at-active-crime-scene-at-lackland-air-force-base.html)
 
 ### Related:
 
