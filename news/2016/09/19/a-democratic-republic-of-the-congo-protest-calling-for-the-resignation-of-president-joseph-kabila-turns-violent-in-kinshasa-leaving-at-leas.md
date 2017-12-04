@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/19/a-democratic-republic-of-the-congo-protest-calling-for-the-resignation-of-president-joseph-kabila-turns-violent-in-kinshasa-leaving-at-leas.html)  [JSON](/news/2016/09/19/a-democratic-republic-of-the-congo-protest-calling-for-the-resignation-of-president-joseph-kabila-turns-violent-in-kinshasa-leaving-at-leas.json)  [XML](/news/2016/09/19/a-democratic-republic-of-the-congo-protest-calling-for-the-resignation-of-president-joseph-kabila-turns-violent-in-kinshasa-leaving-at-leas.xml)  
+
 ### [2016-09-19](/news/2016/09/19/index.md)
 
 # A Democratic Republic of the Congo protest calling for the resignation of President Joseph Kabila turns violent in Kinshasa, leaving at least 17 people dead, including three police officers. Opposition groups say that 50 people died. 
@@ -5,7 +8,7 @@
 Three police officers and 14 civilians die in Kinshasa, capital of DR Congo, during protests calling for President Joseph Kabila to step down.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-37406407)
 2. [DNA](http://www.dna.fr/actualite/2016/09/19/flambee-de-violence-a-kinshasa-au-moins-31-morts)

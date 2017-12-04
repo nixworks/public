@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/22/in-a-standoff-which-has-continued-for-two-days-an-exchange-of-gunfire-with-a-barricaded-suspect-in-anchorage-alaska-injures-two-police-of.html)  [JSON](/news/2016/09/22/in-a-standoff-which-has-continued-for-two-days-an-exchange-of-gunfire-with-a-barricaded-suspect-in-anchorage-alaska-injures-two-police-of.json)  [XML](/news/2016/09/22/in-a-standoff-which-has-continued-for-two-days-an-exchange-of-gunfire-with-a-barricaded-suspect-in-anchorage-alaska-injures-two-police-of.xml)  
+
 ### [2016-09-22](/news/2016/09/22/index.md)
 
 # In a standoff which has continued for two days, an exchange of gunfire with a barricaded suspect in Anchorage, Alaska, injures two police officers. The standoff is one of two occurring in the Alaskan city. 
@@ -5,7 +8,7 @@
 A standoff in Anchorage lasting more than 36 hours came to an end Friday morning. The Anchorage Police Department says 69-year-old Robert Musser, who was barricaded in his home, is confirmed to be deceased.
 
 
-### Source:
+### Sources:
 
 1. [Alaska Public Radio Network](http://www.alaskapublic.org/2016/09/22/apd-working-to-resolve-hillside-standoff/)
 1. [Cover Image](http://www.alaskapublic.org/wp-content/uploads/2016/09/05252016_APD-police-car-300x200.jpg)

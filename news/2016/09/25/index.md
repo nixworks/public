@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/25/index.html)  [JSON](2016/09/25/index.json)  [XML](2016/09/25/index.xml)  
+
 ## [2016-09-25](/news/2016/09/25/index.md)
 
 ### [The United States, United Kingdom, and France seek a meeting of the United Nations Security Council to discuss the declining security situation in Aleppo. ](/news/2016/09/25/the-united-states-united-kingdom-and-france-seek-a-meeting-of-the-united-nations-security-council-to-discuss-the-declining-security-situat.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/22/index.html)  [JSON](2016/09/22/index.json)  [XML](2016/09/22/index.xml)  
+
 ## [2016-09-22](/news/2016/09/22/index.md)
 
 ### [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md)

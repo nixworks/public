@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.html)  [JSON](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.json)  [XML](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.xml)  
+
 ### [2016-09-20](/news/2016/09/20/index.md)
 
 # A day after street violence in the Democratic Republic of the Congo between protesters opposed to President Joseph Kabila and security forces left at least 44 dead, armed men in military uniforms burn down the headquarters of the main opposition Union for Democracy and Social Progress (UDPS) in Kinshasa, DR Congo, killing at least two people. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-congo-politics-idUSKCN11Q10O)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160920&t=2&i=1154223793&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8J0IF)
+1. [Reuters](https://www.reuters.com/article/us-congo-politics-idUSKCN11Q10O)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160920&t=2&i=1154223793&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8J0IF)
 
 ### Related:
 

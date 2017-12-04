@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/24/china-s-five-hundred-meter-aperture-spherical-telescope-in-guizhou-province-becomes-the-world-s-largest-single-dish-telescope.html)  [JSON](/news/2016/09/24/china-s-five-hundred-meter-aperture-spherical-telescope-in-guizhou-province-becomes-the-world-s-largest-single-dish-telescope.json)  [XML](/news/2016/09/24/china-s-five-hundred-meter-aperture-spherical-telescope-in-guizhou-province-becomes-the-world-s-largest-single-dish-telescope.xml)  
+
 ### [2016-09-24](/news/2016/09/24/index.md)
 
 # China's Five hundred meter Aperture Spherical Telescope in Guizhou province becomes the world's largest single-dish telescope. 
@@ -5,7 +8,7 @@
 If the truth is out there, then China is determined to find it with a radio telescope launched on Sunday that astronomers have branded a &ldquo;game changer&rdquo; in the search for alien life forms.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/24/a-game-changer-in-the-search-for-aliens-china-switches-on-worlds/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/09/24/Pic_1_Liu_Peijun_and_his_wife_He_Cimin_take_a_selfie-xlarge_trans_NvBQzQNjv4BqY7yKnAPY2LWjCsmMHqH2rg6aTJ7vNgtHgA7-dEbt-Rs.jpg)

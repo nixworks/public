@@ -21,8 +21,11 @@ A foreign aid scheme is suspended by the government, following a BBC Panorama in
 ### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
 _Context: Daphne Caruana Galizia, Malta_
 
-### [The prosecutor in a Brussels court repeated the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delayed the decision until December 14th. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeated-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the.md)
-_Context: 2017 Spanish constitutional crisis, Brussels, Carles Puigdemont, Catalan officials, Spain, prosecutor_
+### [A teenager in California is turned into police by his own mother where he confesses to molesting at least 50 children over a nearly 10 year period. ](/news/2017/12/4/a-teenager-in-california-is-turned-into-police-by-his-own-mother-where-he-confesses-to-molesting-at-least-50-children-over-a-nearly-10-year.md)
+_Context: California_
+
+### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-j.md)
+The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Junqueras in jail, judging he’s likely to challenge the authority of the state again if released.
 
 ## [Previous Day...](/news/2017/12/3/index.md)
 

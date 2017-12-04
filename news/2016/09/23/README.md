@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/23/index.html)  [JSON](2016/09/23/index.json)  [XML](2016/09/23/index.xml)  
+
 ## [2016-09-23](/news/2016/09/23/index.md)
 
 ### [A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md)

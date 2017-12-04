@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/21/sacramento-mayor-and-former-basketball-star-kevin-johnson-beats-protester-sean-thompson-s-face-to-a-bloody-pulp-after-being-hit-in-the-fac.html)  [JSON](/news/2016/09/21/sacramento-mayor-and-former-basketball-star-kevin-johnson-beats-protester-sean-thompson-s-face-to-a-bloody-pulp-after-being-hit-in-the-fac.json)  [XML](/news/2016/09/21/sacramento-mayor-and-former-basketball-star-kevin-johnson-beats-protester-sean-thompson-s-face-to-a-bloody-pulp-after-being-hit-in-the-fac.xml)  
+
 ### [2016-09-21](/news/2016/09/21/index.md)
 
 # Sacramento mayor and former basketball star Kevin Johnson beats protester Sean Thompson's face to a "bloody pulp" after being hit in the face with a a whipped cream pie at a charity dinner. Authorities arrest Thompson for felony assault of a public official. 
@@ -5,7 +8,7 @@
 Kevin Johnson reportedly assaulted the protester in a bloody brawl during a dinner event. 
 
 
-### Source:
+### Sources:
 
 1. [ABC 15](http://www.abc15.com/sports/sports-blogs-local/sacramento-mayor-former-phoenix-suns-star-kevin-johnson-punches-protestor-who-threw-pie-in-his-face)
 1. [Cover Image](http://media2.abc15.com/photo/2016/03/23/knxv%20kevin%20johnson%20sacramento%20mayor%20phoenix%20suns_1458770859470_34689497_ver1.0_640_480.jpg)

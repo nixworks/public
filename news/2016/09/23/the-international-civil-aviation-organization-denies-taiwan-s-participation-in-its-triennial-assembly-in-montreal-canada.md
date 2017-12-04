@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/23/the-international-civil-aviation-organization-denies-taiwan-s-participation-in-its-triennial-assembly-in-montreal-canada.html)  [JSON](/news/2016/09/23/the-international-civil-aviation-organization-denies-taiwan-s-participation-in-its-triennial-assembly-in-montreal-canada.json)  [XML](/news/2016/09/23/the-international-civil-aviation-organization-denies-taiwan-s-participation-in-its-triennial-assembly-in-montreal-canada.xml)  
+
 ### [2016-09-23](/news/2016/09/23/index.md)
 
 # The International Civil Aviation Organization denies Taiwan's participation in its triennial assembly in Montreal, Canada. 
@@ -5,11 +8,11 @@
 A U.N. aviation agency has snubbed Taiwan by not inviting it to its assembly in Canada, the latest sign of pressure China is bringing to bear on the new independence-leaning government of an island it views as a renegade province.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-taiwan-china-idUSKCN11T08P)
+1. [Reuters](https://www.reuters.com/article/us-taiwan-china-idUSKCN11T08P)
 2. [The Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/09/24/2003655812)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160923&t=2&i=1154643297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8M063)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160923&t=2&i=1154643297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8M063)
 
 ### Related:
 

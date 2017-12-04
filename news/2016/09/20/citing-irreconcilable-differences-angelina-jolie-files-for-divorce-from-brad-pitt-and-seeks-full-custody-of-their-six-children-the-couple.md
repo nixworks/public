@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/09/20/citing-irreconcilable-differences-angelina-jolie-files-for-divorce-from-brad-pitt-and-seeks-full-custody-of-their-six-children-the-couple.html)  [JSON](/news/2016/09/20/citing-irreconcilable-differences-angelina-jolie-files-for-divorce-from-brad-pitt-and-seeks-full-custody-of-their-six-children-the-couple.json)  [XML](/news/2016/09/20/citing-irreconcilable-differences-angelina-jolie-files-for-divorce-from-brad-pitt-and-seeks-full-custody-of-their-six-children-the-couple.xml)  
+
 ### [2016-09-20](/news/2016/09/20/index.md)
 
 # Citing irreconcilable differences, Angelina Jolie files for divorce from Brad Pitt and seeks full custody of their six children. The couple married in 2014 and had been in a relationship since 2005. 
 
+Ms. Jolie Pitt and Mr. Pitt created a mythic version of themselves for public consumption. With a bland press statement, it all came apart.
 
 
-
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/09/20/entertainment/angelina-jolie-brad-pitt-divorce/index.html)
-2. [The New York Times](http://www.nytimes.com/2016/09/21/fashion/angelina-jolie-brad-pitt-divorce.html?hpw&rref=fashion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+2. [The New York Times](https://www.nytimes.com/2016/09/21/fashion/angelina-jolie-brad-pitt-divorce.html?hpw&rref=fashion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+2. [Cover Image](https://static01.nyt.com/images/2016/09/20/fashion/20JOLIEPITT-WEB1/20JOLIEPITT-WEB1-facebookJumbo.jpg)
 
 ### Related:
 

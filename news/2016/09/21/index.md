@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/21/index.html)  [JSON](2016/09/21/index.json)  [XML](2016/09/21/index.xml)  
+
 ## [2016-09-21](/news/2016/09/21/index.md)
 
 ### [The Obama administration claims that Russia was responsible for the bombing of a United Nations aid convoy near Aleppo on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. ](/news/2016/09/21/the-obama-administration-claims-that-russia-was-responsible-for-the-bombing-of-a-united-nations-aid-convoy-near-aleppo-on-september-19-russ.md)

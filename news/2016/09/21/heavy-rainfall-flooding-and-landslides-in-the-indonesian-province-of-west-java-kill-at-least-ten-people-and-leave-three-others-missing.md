@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/21/heavy-rainfall-flooding-and-landslides-in-the-indonesian-province-of-west-java-kill-at-least-ten-people-and-leave-three-others-missing.html)  [JSON](/news/2016/09/21/heavy-rainfall-flooding-and-landslides-in-the-indonesian-province-of-west-java-kill-at-least-ten-people-and-leave-three-others-missing.json)  [XML](/news/2016/09/21/heavy-rainfall-flooding-and-landslides-in-the-indonesian-province-of-west-java-kill-at-least-ten-people-and-leave-three-others-missing.xml)  
+
 ### [2016-09-21](/news/2016/09/21/index.md)
 
 # Heavy rainfall, flooding, and landslides in the Indonesian province of West Java kill at least ten people and leave three others missing. 
@@ -5,7 +8,7 @@
 JAKARTA - Ten people have been killed in flash flooding and landslides in Indonesia, an official said Wednesday, with a search ongoing for three others still missing in the disasters on Java island. Torrential downpours triggered flash flooding in Garut in West Java early Wednesday, which quickly rose to around 2 metres (6.5 feet), national disaster agency spokesman Sutopo Purwo Nugroho said in a statement.
 
 
-### Source:
+### Sources:
 
 1. [AFP via AsiaOne](http://news.asiaone.com/news/asia/10-dead-3-missing-indonesian-floods-landslides-official)
 1. [Cover Image](http://news.asiaone.com/sites/default/files/original_images/Sep2016/20160920_landslide_afp.jpg)

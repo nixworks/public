@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.html)  [JSON](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.json)  [XML](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.xml)  
+
 ### [2016-09-19](/news/2016/09/19/index.md)
 
 # Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/3247ebf1313241c88a1bafc2ea2f9021/2-priests-found-dead-after-being-kidnapped-mexico)
 

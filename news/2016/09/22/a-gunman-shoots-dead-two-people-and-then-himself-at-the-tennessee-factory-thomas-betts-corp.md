@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/22/a-gunman-shoots-dead-two-people-and-then-himself-at-the-tennessee-factory-thomas-betts-corp.html)  [JSON](/news/2016/09/22/a-gunman-shoots-dead-two-people-and-then-himself-at-the-tennessee-factory-thomas-betts-corp.json)  [XML](/news/2016/09/22/a-gunman-shoots-dead-two-people-and-then-himself-at-the-tennessee-factory-thomas-betts-corp.xml)  
+
 ### [2016-09-22](/news/2016/09/22/index.md)
 
 # A gunman shoots dead two people and then himself at the Tennessee factory Thomas & Betts Corp. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/dead-plant-shooting-east-tennessee-42294439)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

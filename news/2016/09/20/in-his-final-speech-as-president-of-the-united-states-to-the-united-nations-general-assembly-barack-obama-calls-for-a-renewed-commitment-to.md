@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/09/20/in-his-final-speech-as-president-of-the-united-states-to-the-united-nations-general-assembly-barack-obama-calls-for-a-renewed-commitment-to.html)  [JSON](/news/2016/09/20/in-his-final-speech-as-president-of-the-united-states-to-the-united-nations-general-assembly-barack-obama-calls-for-a-renewed-commitment-to.json)  [XML](/news/2016/09/20/in-his-final-speech-as-president-of-the-united-states-to-the-united-nations-general-assembly-barack-obama-calls-for-a-renewed-commitment-to.xml)  
+
 ### [2016-09-20](/news/2016/09/20/index.md)
 
 # In his final speech as President of the United States to the United Nations General Assembly, Barack Obama calls for a renewed commitment to collaborative efforts in facing many of the challenges confronting "an integrated world" community. 
 
+In the last General Assembly address of his presidency, Mr. Obama was focused as much on the American presidential election as on his legacy.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/09/21/world/barack-obama-unga-2016-united-nations.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2016/09/21/world/barack-obama-unga-2016-united-nations.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2016/09/21/world/video-obama/video-obama-facebookJumbo.jpg)
 
 ### Related:
 

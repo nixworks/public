@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.html)  [JSON](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.json)  [XML](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.xml)  
+
 ### [2016-09-19](/news/2016/09/19/index.md)
 
 # The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. 
@@ -5,7 +8,7 @@
 Drivers in the Southeast are feeling the effects of the region&#039;s big pipeline problem. 
 
 
-### Source:
+### Sources:
 
 1. [WTKR](http://wtkr.com/2016/09/19/virginia-north-carolina-declare-state-of-emergency-over-gas-shortages/)
 1. [Cover Image](https://localtvwtkr.files.wordpress.com/2015/12/s007150597-300.jpg?quality=85&amp;strip=all&amp;w=1200)

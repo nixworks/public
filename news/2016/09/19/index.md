@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/19/index.html)  [JSON](2016/09/19/index.json)  [XML](2016/09/19/index.xml)  
+
 ## [2016-09-19](/news/2016/09/19/index.md)
 
 ### [A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. ](/news/2016/09/19/a-bomb-squad-robot-detonates-an-explosive-device-at-a-transit-station-in-elizabeth-new-jersey-there-has-been-a-previous-explosion-in-seasi.md)

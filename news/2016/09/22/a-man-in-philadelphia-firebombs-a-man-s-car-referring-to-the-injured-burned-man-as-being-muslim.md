@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/22/a-man-in-philadelphia-firebombs-a-man-s-car-referring-to-the-injured-burned-man-as-being-muslim.html)  [JSON](/news/2016/09/22/a-man-in-philadelphia-firebombs-a-man-s-car-referring-to-the-injured-burned-man-as-being-muslim.json)  [XML](/news/2016/09/22/a-man-in-philadelphia-firebombs-a-man-s-car-referring-to-the-injured-burned-man-as-being-muslim.xml)  
+
 ### [2016-09-22](/news/2016/09/22/index.md)
 
 # A man in Philadelphia firebombs a man's car, referring to the injured burned man as being Muslim. 
@@ -5,7 +8,7 @@
 A nearby witness claims the suspect shouted the comment to the driver before throwing the explosive burning his face, legs, arms and hands
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://www.mirror.co.uk/news/world-news/there-you-go-muslim-says-8891711)
 1. [Cover Image](http://i2.mirror.co.uk/incoming/article8891615.ece/ALTERNATES/s1200/fire3.jpg)

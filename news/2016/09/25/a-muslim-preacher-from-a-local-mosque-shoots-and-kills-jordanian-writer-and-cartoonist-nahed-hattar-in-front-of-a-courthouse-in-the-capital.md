@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.html)  [JSON](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.json)  [XML](/news/2016/09/25/a-muslim-preacher-from-a-local-mosque-shoots-and-kills-jordanian-writer-and-cartoonist-nahed-hattar-in-front-of-a-courthouse-in-the-capital.xml)  
+
 ### [2016-09-25](/news/2016/09/25/index.md)
 
 # A Muslim preacher from a local mosque shoots and kills Jordanian writer and cartoonist Nahed Hattar in front of a courthouse in the capital Amman. Authorities take the gunman into custody.
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/09/25/middleeast/jordan-writer-nahed-hattar-killed/index.html)
 

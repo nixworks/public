@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/24/index.html)  [JSON](2016/09/24/index.json)  [XML](2016/09/24/index.xml)  
+
 ## [2016-09-24](/news/2016/09/24/index.md)
 
 ### [A triple suicide bomb attack north of Tikrit kills at least 11 and injures another 34 members of Iraqi security forces. ](/news/2016/09/24/a-triple-suicide-bomb-attack-north-of-tikrit-kills-at-least-11-and-injures-another-34-members-of-iraqi-security-forces.md)
