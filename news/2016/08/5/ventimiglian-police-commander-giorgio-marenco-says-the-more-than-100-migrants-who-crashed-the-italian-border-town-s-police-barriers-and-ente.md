@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.html)  [JSON](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.json)  [XML](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.xml)  
+
 ### [2016-08-5](/news/2016/08/5/index.md)
 
 # Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. 
@@ -5,10 +8,15 @@
 More than 100 migrants broke through police barriers at the Italian border town of Ventimiglia and made their way into France on Friday, the local Italian police chief said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-italy-france-idUSKCN10G25T)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160805&t=2&i=1148511114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7414O)
+1. [Reuters](https://www.reuters.com/article/us-europe-migrants-italy-france-idUSKCN10G25T)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160805&t=2&i=1148511114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7414O)
+
+### Changes:
+
+1. [European migrant crisis: Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/european-migrant-crisis-ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s.md) _2017-08-27 03:46:36 (First version)_
+1. [Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ More than 100 migrants broke through police barriers at the Italian border town 
 3. [Austria plans to deploy soldiers on its border with Italy to stem an expected increase in migrants trying to get to northern Europe, according to Austrian Defence Minister Hans Peter Doskozil. "As the EU's external borders are not yet effectively protected, Austria will soon ramp up strict border controls. That means massive border controls on the Brenner Pass, and with soldiers," Doskozil told German daily newspaper "Die Welt". ](/news/2016/04/2/austria-plans-to-deploy-soldiers-on-its-border-with-italy-to-stem-an-expected-increase-in-migrants-trying-to-get-to-northern-europe-accordi.md) _Context: European migrant crisis, Italy_
 4. [More than 400 migrants, mostly from Somalia, drown in the Mediterranean Sea while traveling from Egypt to Italy. ](/news/2016/04/18/more-than-400-migrants-mostly-from-somalia-drown-in-the-mediterranean-sea-while-traveling-from-egypt-to-italy.md) _Context: European migrant crisis, Italy_
 5. [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md) _Context: European migrant crisis, Italy_
-
-### Changes:
-
-1. [European migrant crisis: Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/european-migrant-crisis-ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s.md) _2017-08-27 03:46:36 (First version)_
-1. [Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.md) _(Current version)_

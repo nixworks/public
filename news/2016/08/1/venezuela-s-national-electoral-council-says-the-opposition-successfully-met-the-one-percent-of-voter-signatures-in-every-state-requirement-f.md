@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.html)  [JSON](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.json)  [XML](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.xml)  
+
 ### [2016-08-1](/news/2016/08/1/index.md)
 
 # Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN10C3DV?il=0)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160802&t=2&i=1147946033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7100A)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-politics-idUSKCN10C3DV?il=0)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160802&t=2&i=1147946033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7100A)
+
+### Changes:
+
+1. [Venezuelan protests, Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuelan-protests-venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-eve.md) _2017-08-25 03:46:12 (First version)_
+1. [Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. ](/news/2015/12/7/venezuela-s-national-electoral-council-announces-the-opposition-democratic-unity-roundtable-mud-has-won-at-least-99-seats-in-the-167-membe.md) _Context: National Electoral Council, Nicolas Maduro, President, Venezuela_
 4. [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md) _Context: Nicolas Maduro, President, Venezuela_
 5. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Nicolas Maduro, President, Venezuela_
-
-### Changes:
-
-1. [Venezuelan protests, Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuelan-protests-venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-eve.md) _2017-08-25 03:46:12 (First version)_
-1. [Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.md) _(Current version)_

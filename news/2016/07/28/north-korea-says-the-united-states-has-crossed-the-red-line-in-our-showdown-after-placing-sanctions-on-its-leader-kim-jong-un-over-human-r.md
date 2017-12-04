@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.html)  [JSON](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.json)  [XML](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.xml)  
+
 ### [2016-07-28](/news/2016/07/28/index.md)
 
 # North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. 
@@ -5,10 +8,15 @@
 North Korea has claimed the US &quot;crossed the red line&quot; in taking action against its leader over human rights abuses.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/us-declared-war-blacklisting-kim-jong-un-10515230)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/d2ad555b563511de881e3af2f405c7dec22b6d29c6d0aea88b6b263278ebc578_3753263.jpg?20161116114740)
+
+### Changes:
+
+1. [North Korea-United States relations: North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-united-states-relations-north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions.md) _2017-08-27 03:46:34 (First version)_
+1. [North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ North Korea has claimed the US &quot;crossed the red line&quot; in taking action
 3. [North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. ](/news/2017/04/11/north-korea-announces-its-readiness-to-declare-war-on-the-united-states-after-the-country-previously-stated-that-they-felt-threatened-as-u-s.md) _Context: North Korea, North Korea-United States relations, United States_
 4. [In response to the annual military drills, North Korea threatens to destroy Seoul and Washington, D.C. through nuclear weapons if provoked. Both South Korea and the United States insist the drills are for defense. ](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.md) _Context: North Korea, North Korea-United States relations, United States_
 5. [North Korea's state media reports Supreme Leader Kim Jong-un, in comments released today, states the country has miniaturized nuclear warheads to be mounted on ballistic missiles, and has ordered improvements in the power and precision of its arsenal. ](/news/2016/03/9/north-korea-s-state-media-reports-supreme-leader-kim-jong-un-in-comments-released-today-states-the-country-has-miniaturized-nuclear-warhea.md) _Context: Kim Jong-un, North Korea, leader_
-
-### Changes:
-
-1. [North Korea-United States relations: North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-united-states-relations-north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions.md) _2017-08-27 03:46:34 (First version)_
-1. [North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.md) _(Current version)_

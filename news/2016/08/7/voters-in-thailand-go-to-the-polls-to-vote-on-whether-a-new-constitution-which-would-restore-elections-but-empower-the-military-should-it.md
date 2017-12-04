@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.html)  [JSON](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.json)  [XML](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.xml)  
+
 ### [2016-08-7](/news/2016/08/7/index.md)
 
 # Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. 
@@ -5,10 +8,15 @@
 A clear majority of Thai referendum voters back a draft constitution written by an army-appointed committee, with unofficial tallies saying more than 60% voted in favour.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36972396)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1234A/production/_90707547_mediaitem90707546.jpg)
+
+### Changes:
+
+1. [Thai constitutional referendum, 2016: Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/thai-constitutional-referendum-2016-voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-election.md) _2017-08-27 03:46:37 (First version)_
+1. [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A clear majority of Thai referendum voters back a draft constitution written by 
 3. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Constitution of Thailand, Thailand_
 4. [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-the.md) _Context: Thailand, military junta_
 5. [Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. ](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.md) _Context: Thailand, military junta_
-
-### Changes:
-
-1. [Thai constitutional referendum, 2016: Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/thai-constitutional-referendum-2016-voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-election.md) _2017-08-27 03:46:37 (First version)_
-1. [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md) _(Current version)_

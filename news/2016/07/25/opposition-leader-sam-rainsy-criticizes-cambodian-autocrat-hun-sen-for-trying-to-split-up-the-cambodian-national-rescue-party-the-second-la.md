@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodian-autocrat-hun-sen-for-trying-to-split-up-the-cambodian-national-rescue-party-the-second-la.html)  [JSON](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodian-autocrat-hun-sen-for-trying-to-split-up-the-cambodian-national-rescue-party-the-second-la.json)  [XML](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodian-autocrat-hun-sen-for-trying-to-split-up-the-cambodian-national-rescue-party-the-second-la.xml)  
+
 ### [2016-07-25](/news/2016/07/25/index.md)
 
 # Opposition leader Sam Rainsy criticizes Cambodian autocrat Hun Sen for trying to split up the Cambodian National Rescue Party, the second largest party in parliament. 
@@ -5,7 +8,7 @@
 Opposition leader-in-exile Sam Rainsy took to the airwaves over the weekend to detail what he said was Prime Minister Hun Sen’s direct involvement in attempts to split the CNRP. In an interview with Radio Free Asia aired on Saturday, Rainsy said that the premier had at various points courted both himself and his deputy, Kem Sokha.
 
 
-### Source:
+### Sources:
 
 1. [The Phnom Penh Post](http://www.phnompenhpost.com/national/hun-sen-tried-split-cnrp-rainsy)
 1. [Cover Image](http://www.phnompenhpost.com/sites/default/files/field/image/kem_sokha_and_sam_rainsy_attend_a_meeting_at_the_national_assembly_in_phnom_penh_last_year_25_01_2016_vireak_mai.jpg)

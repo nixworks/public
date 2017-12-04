@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/6/index.html)  [JSON](2016/08/6/index.json)  [XML](2016/08/6/index.xml)  
+
 ## [2016-08-6](/news/2016/08/6/index.md)
 
 ### [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md)
@@ -22,7 +25,7 @@ _Context: 2016 Atlantic hurricane season, Earl's, Mexico, Veracruz_
 _Context: China, Chinese aircraft, Scarborough Shoal, South China Sea, Spratly Islands, Su-30, Territorial disputes in the South China Sea, Xian H-6, Xinhua, strategic bombers_
 
 ### [Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. ](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donald-trump-for-calling-the-philippines-a-terrorist-country.md)
-_Context: Brian Schatz, Donald Trump, Hawaii, Philippines, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Brian Schatz, Donald Trump, Hawaii, Philippines_
 
 ## [Previous Day...](/news/2016/08/5/index.md)
 

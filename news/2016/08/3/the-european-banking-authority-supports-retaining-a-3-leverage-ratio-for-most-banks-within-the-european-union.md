@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.html)  [JSON](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.json)  [XML](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.xml)  
+
 ### [2016-08-3](/news/2016/08/3/index.md)
 
 # The European Banking Authority supports retaining a 3% leverage ratio for most banks within the European Union. 
@@ -5,15 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-eu-banks-regulations-idUSKCN10E251?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-eu-banks-regulations-idUSKCN10E251?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
-2. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: EU_
-3. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
-4. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_
-5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: EU_
+1. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Banking Authority, European Union_
+2. [A European Union appeal committee votes to reauthorise the use of glyphosate as a herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-a-herbicide-for-a-five-year-period.md) _Context: European Union_
+3. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: European Banking Authority_
+4. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: European Union_
+5. [The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. ](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.md) _Context: European Union_

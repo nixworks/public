@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.html)  [JSON](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.json)  [XML](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2016/07/27/zimbabwes-president-mugabe-vows-severe-punishment-for-loyalists-who-turned-on-him.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/07/27/zimbabwes-president-mugabe-vows-severe-punishment-for-loyalists-who-turned-on-him/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1469640860348.jpg?ve=1)
+
+### Changes:
+
+1. [2016 Zimbabwe protests: Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/2016-zimbabwe-protests-robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _2017-08-27 03:46:33 (First version)_
+1. [Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
 4. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
 5. [Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
-
-### Changes:
-
-1. [2016 Zimbabwe protests: Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/2016-zimbabwe-protests-robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _2017-08-27 03:46:33 (First version)_
-1. [Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _(Current version)_

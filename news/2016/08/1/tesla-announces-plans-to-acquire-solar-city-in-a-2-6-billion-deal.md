@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/1/tesla-announces-plans-to-acquire-solar-city-in-a-2-6-billion-deal.html)  [JSON](/news/2016/08/1/tesla-announces-plans-to-acquire-solar-city-in-a-2-6-billion-deal.json)  [XML](/news/2016/08/1/tesla-announces-plans-to-acquire-solar-city-in-a-2-6-billion-deal.xml)  
+
 ### [2016-08-1](/news/2016/08/1/index.md)
 
 # Tesla announces plans to acquire Solar City in a $2.6 billion deal. 
@@ -5,9 +8,9 @@
 Tesla Motors said it would buy solar panel installer SolarCity for $2.6 billion in shares to form a one-stop clean energy shop.
 
 
-### Source:
+### Sources:
 
-1. [Reuters via CNBC](http://www.cnbc.com/2016/08/01/tesla-solarcity-set-to-announce-merger-on-monday-sources.html)
+1. [Reuters via CNBC](https://www.cnbc.com/2016/08/01/tesla-solarcity-set-to-announce-merger-on-monday-sources.html)
 
 ### Related:
 

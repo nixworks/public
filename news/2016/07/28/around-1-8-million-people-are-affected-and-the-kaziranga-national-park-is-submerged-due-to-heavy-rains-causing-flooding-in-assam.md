@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/28/around-1-8-million-people-are-affected-and-the-kaziranga-national-park-is-submerged-due-to-heavy-rains-causing-flooding-in-assam.html)  [JSON](/news/2016/07/28/around-1-8-million-people-are-affected-and-the-kaziranga-national-park-is-submerged-due-to-heavy-rains-causing-flooding-in-assam.json)  [XML](/news/2016/07/28/around-1-8-million-people-are-affected-and-the-kaziranga-national-park-is-submerged-due-to-heavy-rains-causing-flooding-in-assam.xml)  
+
 ### [2016-07-28](/news/2016/07/28/index.md)
 
 # Around 1.8 million people are affected, and the Kaziranga National Park is submerged, due to heavy rains causing flooding in Assam. 
@@ -5,7 +8,7 @@
 Outlook grim for state of Assam, with heavy rain that has buried hundreds of villages and displaced wildlife set to continue for two days
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/27/flooding-in-india-affects-16m-people-and-submerges-national-park)
 1. [Cover Image](https://i.guim.co.uk/img/media/193ed87e6a557be0decbb3a876f7dcb41b1c7712/0_0_3000_1800/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=f2b65baa560a579d0f5cfacd04d61609)

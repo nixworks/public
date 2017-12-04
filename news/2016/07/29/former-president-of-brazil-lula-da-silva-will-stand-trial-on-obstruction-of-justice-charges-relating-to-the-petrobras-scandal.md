@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.html)  [JSON](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.json)  [XML](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.xml)  
+
 ### [2016-07-29](/news/2016/07/29/index.md)
 
 # Former President of Brazil Lula da Silva will stand trial on obstruction of justice charges relating to the Petrobras scandal. 
@@ -5,7 +8,7 @@
 Judge says sufficient evidence exists that Workers’ party conspired with politicians and businessmen to buy silence of former Petrobras official
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/jul/29/lula-da-silva-trial-obstruction-petrobras-corruption)
 1. [Cover Image](https://i.guim.co.uk/img/media/364f5fd83904cc45d8e8d03491e5fccd3524e10e/0_215_4000_2399/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2232677f19ac82c36f16d83409556dde)

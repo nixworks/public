@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/a-federal-judge-paul-l-friedman-rules-that-john-hinckley-jr-who-attempted-to-assassinate-u-s-president-ronald-reagan-outside-the-washi.html)  [JSON](/news/2016/07/27/a-federal-judge-paul-l-friedman-rules-that-john-hinckley-jr-who-attempted-to-assassinate-u-s-president-ronald-reagan-outside-the-washi.json)  [XML](/news/2016/07/27/a-federal-judge-paul-l-friedman-rules-that-john-hinckley-jr-who-attempted-to-assassinate-u-s-president-ronald-reagan-outside-the-washi.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # A federal judge, Paul L. Friedman, rules that John Hinckley Jr., who attempted to assassinate U.S. President Ronald Reagan outside the Washington Hilton on March 30, 1981, is to be released after 35 years at St. Elizabeths Hospital as he no longer poses a danger to himself or others. 
@@ -5,7 +8,7 @@
 He will be released from a government psychiatric hospital to live full time with his mother in Williamsburg, Va.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/local/public-safety/would-be-reagan-assassin-john-w-hinckley-jr-to-be-freed-after-35-years/2016/07/27/04142084-5015-11e6-a422-83ab49ed5e6a_story.html)
 

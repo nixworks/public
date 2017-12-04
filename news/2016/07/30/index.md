@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/30/index.html)  [JSON](2016/07/30/index.json)  [XML](2016/07/30/index.xml)  
+
 ## [2016-07-30](/news/2016/07/30/index.md)
 
 ### [The Turkish military kills 35 Kurdistan Workers' Party militants after they attempt to capture a base in Turkey's Hakkari Province. ](/news/2016/07/30/the-turkish-military-kills-35-kurdistan-workers-party-militants-after-they-attempt-to-capture-a-base-in-turkey-s-hakkac-ri-province.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/29/index.html)  [JSON](2016/07/29/index.json)  [XML](2016/07/29/index.xml)  
+
 ## [2016-07-29](/news/2016/07/29/index.md)
 
 ### [The Nigerian military commences bombing militants in Lagos and Ogun States with many militants reported dead. ](/news/2016/07/29/the-nigerian-military-commences-bombing-militants-in-lagos-and-ogun-states-with-many-militants-reported-dead.md)

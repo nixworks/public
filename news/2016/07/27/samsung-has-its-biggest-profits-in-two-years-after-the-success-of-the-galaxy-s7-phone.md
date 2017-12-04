@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/samsung-has-its-biggest-profits-in-two-years-after-the-success-of-the-galaxy-s7-phone.html)  [JSON](/news/2016/07/27/samsung-has-its-biggest-profits-in-two-years-after-the-success-of-the-galaxy-s7-phone.json)  [XML](/news/2016/07/27/samsung-has-its-biggest-profits-in-two-years-after-the-success-of-the-galaxy-s7-phone.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Samsung has its biggest profits in two years after the success of the Galaxy S7 phone. 
@@ -5,7 +8,7 @@
 The South Korean company beats expectations thanks in part to strong sales of the Galaxy S7 and S7 Edge.
 
 
-### Source:
+### Sources:
 
 1. [CNET](http://www.cnet.com/news/samsung-sees-profit-rise-on-sales-of-galaxy-s7-second-quarter/)
 1. [Cover Image](https://cnet1.cbsistatic.com/img/G3z-O9zJ9QGsJvzZtjTD9BFWaC8=/670x503/2016/03/07/4c95e6a4-12af-4980-87d8-75a3eb042e8c/samsung-galaxy-s7-edge-out-about.jpg)

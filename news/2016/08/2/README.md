@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/2/index.html)  [JSON](2016/08/2/index.json)  [XML](2016/08/2/index.xml)  
+
 ## [2016-08-2](/news/2016/08/2/index.md)
 
 ### [A Syria Civil Defence volunteer search and rescue team says 33 people, mostly women and children, were affected by toxic gas dropped from a helicopter on Saraqeb in rebel-held Idlib Governorate. ](/news/2016/08/2/a-syria-civil-defence-volunteer-search-and-rescue-team-says-33-people-mostly-women-and-children-were-affected-by-toxic-gas-dropped-from-a.md)

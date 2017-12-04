@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.html)  [JSON](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.json)  [XML](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.xml)  
+
 ### [2016-08-7](/news/2016/08/7/index.md)
 
 # Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. 
 
-Iran confirmed Sunday that it has executed an Iranian nuclear scientist.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/08/07/iran-nuclear-scientist-us-spy-mystery-executed/88361624/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2016/08/07/iran-nuclear-scientist-us-spy-mystery-executed/88361624/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

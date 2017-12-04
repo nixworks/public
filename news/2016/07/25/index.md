@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/25/index.html)  [JSON](2016/07/25/index.json)  [XML](2016/07/25/index.xml)  
+
 ## [2016-07-25](/news/2016/07/25/index.md)
 
 ### [A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeast-of-baghdad-most-died-inside-the.md)

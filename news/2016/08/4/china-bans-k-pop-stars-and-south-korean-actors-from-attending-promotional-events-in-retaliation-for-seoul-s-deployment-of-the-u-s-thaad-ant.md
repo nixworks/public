@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.html)  [JSON](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.json)  [XML](/news/2016/08/4/china-bans-k-pop-stars-and-south-korean-actors-from-attending-promotional-events-in-retaliation-for-seoul-s-deployment-of-the-u-s-thaad-ant.xml)  
+
 ### [2016-08-4](/news/2016/08/4/index.md)
 
 # China bans K-pop stars and South Korean actors from attending promotional events in retaliation for Seoul's deployment of the U.S. THAAD anti-ballistic missile system. 
@@ -5,9 +8,9 @@
 Share prices of South Korea’s talent agencies have plummeted, and tears have been shed by forlorn fans as Beijing has quietly blocked some of South Korea’s K-pop stars and actors from attending promotional events.
 
 
-### Source:
+### Sources:
 
-1. [The Wall Street Journal](http://www.wsj.com/articles/china-makes-song-and-dance-over-missile-defense-in-south-korea-1470307432)
+1. [The Wall Street Journal](https://www.wsj.com/articles/china-makes-song-and-dance-over-missile-defense-in-south-korea-1470307432)
 1. [Cover Image](https://si.wsj.net/public/resources/images/OJ-AN422_KPOPCH_TOP_20160804061309.jpg)
 
 ### Related:

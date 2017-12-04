@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/1/the-malaysian-national-security-council-act-comes-into-effect-giving-the-prime-minister-of-malaysia-najib-razak-sweeping-new-powers.html)  [JSON](/news/2016/08/1/the-malaysian-national-security-council-act-comes-into-effect-giving-the-prime-minister-of-malaysia-najib-razak-sweeping-new-powers.json)  [XML](/news/2016/08/1/the-malaysian-national-security-council-act-comes-into-effect-giving-the-prime-minister-of-malaysia-najib-razak-sweeping-new-powers.xml)  
+
 ### [2016-08-1](/news/2016/08/1/index.md)
 
 # The Malaysian National Security Council Act comes into effect giving the Prime Minister of Malaysia Najib Razak sweeping new powers. 
@@ -5,7 +8,7 @@
 A security law has come into force in Malaysia that gives the Prime Minister, Najib Razak, sweeping new powers. As well as letting him declare any area in Malaysia a security zone, the law gives police enhanced powers, including the right to use unlimited force, plus immunity for their acts. Mr Najib is under international investigation in a billion dollar plus embezzlement scandal.
 
 
-### Source:
+### Sources:
 
 1. [ABC News PM](http://www.abc.net.au/pm/content/2016/s4511089.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/7648838-1x1-340x340.jpg)

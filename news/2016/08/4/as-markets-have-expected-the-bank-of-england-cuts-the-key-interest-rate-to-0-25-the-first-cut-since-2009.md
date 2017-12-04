@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cuts-the-key-interest-rate-to-0-25-the-first-cut-since-2009.html)  [JSON](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cuts-the-key-interest-rate-to-0-25-the-first-cut-since-2009.json)  [XML](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cuts-the-key-interest-rate-to-0-25-the-first-cut-since-2009.xml)  
+
 ### [2016-08-4](/news/2016/08/4/index.md)
 
 # As markets have expected, the Bank of England cuts the key interest rate to 0.25, the first cut since 2009. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-eu-boe-idUSKCN10E2SX?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160804&t=2&i=1148316256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC730PV)
+1. [Reuters](https://www.reuters.com/article/us-britain-eu-boe-idUSKCN10E2SX?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160804&t=2&i=1148316256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC730PV)
 
 ### Related:
 

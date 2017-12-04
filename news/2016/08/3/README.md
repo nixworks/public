@@ -1,13 +1,16 @@
+
+Formats: [HTML](2016/08/3/index.html)  [JSON](2016/08/3/index.json)  [XML](2016/08/3/index.xml)  
+
 ## [2016-08-3](/news/2016/08/3/index.md)
 
 ### [The European Banking Authority supports retaining a 3% leverage ratio for most banks within the European Union. ](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.md)
-_Context: EU, European Banking Authority_
+_Context: European Banking Authority, European Union_
 
 ### [The search continues for survivors of a bridge collapse on the Mumbai-Goa highway over the flooded Savitri River in western India. Twenty two people and two buses are believed to be missing. ](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.md)
 A British-era bridge across the Savitri River on the Mumbai-Goa highway collapsed late on Tuesday night, bringing traffic to a halt on the stretch. Around 20 people are believed to me missing. Two Mumbai-bound buses are among the dozen or so vehicles that are believed to have fallen into the flooded...
 
 ### [An Emirates Boeing 777-300, flight EK521 from Thiruvananthapuram in India, crash lands at Dubai International Airport and bursts into flames. All 282 passengers and 18 crew evacuate safely, although one firefighter is killed during the rescue. ](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thiruvananthapuram-in-india-crash-lands-at-dubai-international-airport-and-bursts-into-flames.md)
-_Context: Boeing 777-300, Dubai International Airport, Emirates Air, India, Thiruvananthapuram, flight EK521_
+_Context: Boeing 777-300, Dubai International Airport, Emirates, India, Thiruvananthapuram, flight EK521_
 
 ### [ Tropical Storm Earl, now about 265 miles (425 km) east-southeast of Belize City with top sustained winds of 70 mph (110 KM-H), becomes Hurricane Earl that could produce up to 16 inches of rain by the time it hits Belize. On Sunday, then a tropical wave, Earl was responsible for nine deaths, with four people still missing, in the Dominican Republic. ](/news/2016/08/3/tropical-storm-earl-now-about-265-miles-425-km-east-southeast-of-belize-city-with-top-sustained-winds-of-70-mph-110-km-h-becomes-hurr.md)
 The storm has already been blamed for deaths in the Dominican Republic.
@@ -28,7 +31,7 @@ The Supreme Court temporarily blocked a Virginia transgender student from using 
 A man is arrested on suspicion of murder after a US citizen was killed and five other people were injured in a knife attack in Russell Square, central London.
 
 ### [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md)
-Moon Express said Aug. 3 that it has won a first-of-its-kind regulatory approval from the U.S. government for a lunar lander the company is developing.
+If accomplished, that feat would win the company, Moon Express, the Google Lunar X Prize competition and an accompanying $20 million reward.
 
 ## [Previous Day...](/news/2016/08/2/index.md)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/baltimore-prosecutors-drop-all-charges-against-the-final-three-police-officers-with-pending-cases-in-the-death-of-freddie-gray-none-of-the.html)  [JSON](/news/2016/07/27/baltimore-prosecutors-drop-all-charges-against-the-final-three-police-officers-with-pending-cases-in-the-death-of-freddie-gray-none-of-the.json)  [XML](/news/2016/07/27/baltimore-prosecutors-drop-all-charges-against-the-final-three-police-officers-with-pending-cases-in-the-death-of-freddie-gray-none-of-the.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Baltimore prosecutors drop all charges against the final three police officers with pending cases in the death of Freddie Gray. None of the six cases resulted in a conviction. 
@@ -5,7 +8,7 @@
 Prosecutors on Wednesday dropped all charges against three Baltimore police officers accused in the arrest and death of Freddie Gray, bringing to an end one of the highest-profile criminal cases in the city&apos;s history with zero convictions.
 
 
-### Source:
+### Sources:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/freddie-gray/bs-md-ci-miller-pretrial-motions-20160727-story.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/prosecutors-drop-remaining-charges-against-officers-freddie-gray-case-n617811)

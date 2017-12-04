@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.html)  [JSON](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.json)  [XML](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.xml)  
+
 ### [2016-08-6](/news/2016/08/6/index.md)
 
 # China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-southchinasea-china-patrols-idUSKCN10H091)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160806&t=2&i=1148575731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC750AH)
+1. [Reuters](https://www.reuters.com/article/us-southchinasea-china-patrols-idUSKCN10H091)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160806&t=2&i=1148575731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC750AH)
+
+### Changes:
+
+1. [Territorial disputes in the South China Sea: China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/territorial-disputes-in-the-south-china-sea-china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disp.md) _2017-08-27 03:46:37 (First version)_
+1. [China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [U.S. officials say the U.S. Navy deliberately avoided military drills or other actions that could have further inflamed tensions with Beijing during the USS Lassen's patrol in the South China Sea last week. For instance, the Lassen turned off its fire-control radars while transiting within 12 nautical miles of Subi Reef. On its part, the Chinese destroyer following the Lassen was, "very cordial the entire time ... before and after the Spratly Islands transit," said the Lassen's commanding officer, Commander Robert Francis. ](/news/2015/11/6/u-s-officials-say-the-u-s-navy-deliberately-avoided-military-drills-or-other-actions-that-could-have-further-inflamed-tensions-with-beijin.md) _Context: China, South China Sea, Spratly Islands, Territorial disputes in the South China Sea_
 4. [Japan's prime minister Shinzo Abe says he is considering sending Japanese Navy warships to the South China Sea to back-up U.S. naval operations, saying, "With regard to activity by the Self-Defense Forces in the South China Sea, I will consider it while focusing on what effect the situation has on Japan's security." In response, China's Ministry of Foreign Affairs spokesperson, Hong Lei, told Chinese state media that China will remain on "high alert for intervention by Japan in the South China Sea issue". ](/news/2015/11/21/japan-s-prime-minister-shinza-abe-says-he-is-considering-sending-japanese-navy-warships-to-the-south-china-sea-to-back-up-u-s-naval-operat.md) _Context: China, South China Sea, Territorial disputes in the South China Sea, Xinhua_
 5. [A United States Navy ship, the USS "Lassen", sails near the Spratly Islands, challenging Beijing's claim that the islands are Chinese territory. China's Ministry of Foreign Affairs strongly condemned the actions of the United States in the South China Sea, saying "China will firmly react to this deliberate provocation". ](/news/2015/10/27/a-united-states-navy-ship-the-uss-lassen-sails-near-the-spratly-islands-challenging-beijing-s-claim-that-the-islands-are-chinese-territ.md) _Context: China, South China Sea, Spratly Islands, Territorial disputes in the South China Sea_
-
-### Changes:
-
-1. [Territorial disputes in the South China Sea: China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/territorial-disputes-in-the-south-china-sea-china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disp.md) _2017-08-27 03:46:37 (First version)_
-1. [China's People's Liberation Army Air Force says it has conducted "combat patrols" near the disputed Spratly Islands and Scarborough Shoal in the South China Sea as part of an effort to normalize such drills and respond to security threats. Xian H-6 strategic bombers and Su-30 fighter jets took part in the patrols, according to Xinhua News Agency. ](/news/2016/08/6/china-s-people-s-liberation-army-air-force-says-it-has-conducted-combat-patrols-near-the-disputed-spratly-islands-and-scarborough-shoal-in.md) _(Current version)_

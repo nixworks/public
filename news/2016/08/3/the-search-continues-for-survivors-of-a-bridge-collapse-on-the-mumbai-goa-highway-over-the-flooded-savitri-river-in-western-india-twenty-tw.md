@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.html)  [JSON](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.json)  [XML](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.xml)  
+
 ### [2016-08-3](/news/2016/08/3/index.md)
 
 # The search continues for survivors of a bridge collapse on the Mumbai-Goa highway over the flooded Savitri River in western India. Twenty two people and two buses are believed to be missing. 
@@ -5,7 +8,7 @@
 A British-era bridge across the Savitri River on the Mumbai-Goa highway collapsed late on Tuesday night, bringing traffic to a halt on the stretch. Around 20 people are believed to me missing. Two Mumbai-bound buses are among the dozen or so vehicles that are believed to have fallen into the flooded river.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/highway-bridge-collapses-in-western-india-casualties-feared/2016/08/02/98c85ab2-5923-11e6-8b48-0cb344221131_story.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Maharashtra-bridge-collapse-22-missing-Savitri-River-rescue-operations-underway/articleshow/53516755.cms?)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/29/the-bank-of-japan-announces-a-6-trillion-yen-stimulus-package-to-help-invigorate-the-japanese-economy.html)  [JSON](/news/2016/07/29/the-bank-of-japan-announces-a-6-trillion-yen-stimulus-package-to-help-invigorate-the-japanese-economy.json)  [XML](/news/2016/07/29/the-bank-of-japan-announces-a-6-trillion-yen-stimulus-package-to-help-invigorate-the-japanese-economy.xml)  
+
 ### [2016-07-29](/news/2016/07/29/index.md)
 
 # The Bank of Japan announces a 6 trillion yen stimulus package to help invigorate the Japanese economy. 
@@ -5,7 +8,7 @@
 The Bank of Japan announced an extra dose of monetary stimulus Friday, joining fresh efforts by Prime Minister Shinzo Abe to reboot the economy.
 
 
-### Source:
+### Sources:
 
 1. [Marketwatch](http://www.marketwatch.com/story/bank-of-japan-oks-more-stimulus-keeps-rate-steady-2016-07-29?mod=markets_twitter_new&link=sfmw_tw)
 1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-EO300_bankof_ZG_20160602212119.jpg)

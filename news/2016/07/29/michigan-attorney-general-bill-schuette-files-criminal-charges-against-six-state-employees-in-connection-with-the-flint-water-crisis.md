@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-criminal-charges-against-six-state-employees-in-connection-with-the-flint-water-crisis.html)  [JSON](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-criminal-charges-against-six-state-employees-in-connection-with-the-flint-water-crisis.json)  [XML](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-criminal-charges-against-six-state-employees-in-connection-with-the-flint-water-crisis.xml)  
+
 ### [2016-07-29](/news/2016/07/29/index.md)
 
 # Michigan Attorney General Bill Schuette files criminal charges against six state employees in connection with the Flint water crisis. 
@@ -5,10 +8,10 @@
 Three Michigan Department of Environmental Quality and three state health department workers are charged with hiding unsafe lead levels.
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/story/news/local/michigan/flint-water-crisis/2016/07/29/6-state-employees-criminally-charged-flint-water-crisis/87697834/)
-2. [Reuters](http://www.reuters.com/article/us-michigan-water-idUSKCN1091PG)
+2. [Reuters](https://www.reuters.com/article/us-michigan-water-idUSKCN1091PG)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/freep.png)
 
 ### Related:

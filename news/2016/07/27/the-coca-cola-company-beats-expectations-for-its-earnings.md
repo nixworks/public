@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/the-coca-cola-company-beats-expectations-for-its-earnings.html)  [JSON](/news/2016/07/27/the-coca-cola-company-beats-expectations-for-its-earnings.json)  [XML](/news/2016/07/27/the-coca-cola-company-beats-expectations-for-its-earnings.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # "The Coca-Cola Company" beats expectations for its earnings. 
@@ -5,9 +8,9 @@
 Coca-Cola share prices fall after the Dow component cut its organic revenue forecast for the year.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/07/27/coca-cola-reports-second-quarter-2016-earnings.html)
+1. [CNBC](https://www.cnbc.com/2016/07/27/coca-cola-reports-second-quarter-2016-earnings.html)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.html)  [JSON](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.json)  [XML](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.xml)  
+
 ### [2016-07-25](/news/2016/07/25/index.md)
 
 # Verizon Communications buys Yahoo! for $4.83 billion in cash, ending the latter's over 20-year run as an independent corporation. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-verizon-yahoo-20160724-snap-story.html)
-2. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160725&t=2&i=1146889171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6O086)
+2. [Reuters](https://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160725&t=2&i=1146889171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6O086)
 
 ### Related:
 

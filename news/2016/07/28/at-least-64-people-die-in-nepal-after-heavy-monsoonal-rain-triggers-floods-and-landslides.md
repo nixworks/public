@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.html)  [JSON](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.json)  [XML](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.xml)  
+
 ### [2016-07-28](/news/2016/07/28/index.md)
 
 # At least 64 people die in Nepal after heavy monsoonal rain triggers floods and landslides. 
@@ -5,7 +8,7 @@
 Dozens of people have died in Nepal after flash floods and landslides, caused by monsoon rains, swept through villages.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/nepal-hit-flash-floods-landslides-160728090756268.html)
 2. [BBC](http://www.bbc.com/news/world-asia-36911775)

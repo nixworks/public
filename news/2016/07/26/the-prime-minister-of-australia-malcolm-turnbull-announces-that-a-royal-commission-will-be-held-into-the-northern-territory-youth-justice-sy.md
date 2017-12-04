@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-a-royal-commission-will-be-held-into-the-northern-territory-youth-justice-sy.html)  [JSON](/news/2016/07/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-a-royal-commission-will-be-held-into-the-northern-territory-youth-justice-sy.json)  [XML](/news/2016/07/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-a-royal-commission-will-be-held-into-the-northern-territory-youth-justice-sy.xml)  
+
 ### [2016-07-26](/news/2016/07/26/index.md)
 
 # The Prime Minister of Australia Malcolm Turnbull announces that a Royal Commission will be held into the Northern Territory youth justice system after the Australian Broadcasting Commission's Four Corners program shows footage of juvenile Aboriginal Australians being tortured at the Don Dale Juvenile Detention Centre. John Elferink has been sacked as the Northern Territory's Minister for Justice and Corrections following the report. 
@@ -5,7 +8,7 @@
 John Elferink is sacked as NT Corrections Minister in the wake of the damning Four Corners report.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2016-07-26/nt-prisons-minister-john-elferink-sacked-after-4-corners-outrage/7661086)
 2. [The Guardian](https://www.theguardian.com/australia-news/live/2016/jul/26/northern-territory-juvenile-detention-reaction-royal-commission-footage-four-corners-tear-gas-restraint-live)

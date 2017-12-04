@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.html)  [JSON](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.json)  [XML](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.xml)  
+
 ### [2016-08-6](/news/2016/08/6/index.md)
 
 # Reuters reports, based on sources "familiar with the matter," that Nissan is talking with Panasonic Corp. about the sale of Nissan's car battery manufacturing operation. 
@@ -5,10 +8,10 @@
 Nissan Motor Co (7201.T) is in talks with Panasonic Corp (6752.T) and overseas companies including Chinese firms over the possible sale of its controlling stake in a car battery manufacturing venture, sources said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nissan-battery-stakesale-idUSKCN10H05J)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160806&t=2&i=1148564080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7508C)
+1. [Reuters](https://www.reuters.com/article/us-nissan-battery-stakesale-idUSKCN10H05J)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160806&t=2&i=1148564080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7508C)
 
 ### Related:
 

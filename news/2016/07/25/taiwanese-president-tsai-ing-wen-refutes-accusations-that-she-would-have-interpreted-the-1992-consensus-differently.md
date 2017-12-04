@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/25/taiwanese-president-tsai-ing-wen-refutes-accusations-that-she-would-have-interpreted-the-1992-consensus-differently.html)  [JSON](/news/2016/07/25/taiwanese-president-tsai-ing-wen-refutes-accusations-that-she-would-have-interpreted-the-1992-consensus-differently.json)  [XML](/news/2016/07/25/taiwanese-president-tsai-ing-wen-refutes-accusations-that-she-would-have-interpreted-the-1992-consensus-differently.xml)  
+
 ### [2016-07-25](/news/2016/07/25/index.md)
 
 # Taiwanese president Tsai Ing-wen refutes accusations that she would have interpreted the 1992 consensus differently. 
@@ -5,7 +8,7 @@
 TAIPEI • Taiwan&#039;s presidential office has refuted claims that President Tsai Ing-wen rejected the &quot;1992 Consensus&quot; in a recent interview with the Washington Post.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/asia/east-asia/tsai-did-not-reject-one-china-consensus)
 1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)

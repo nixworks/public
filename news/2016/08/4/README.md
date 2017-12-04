@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/4/index.html)  [JSON](2016/08/4/index.json)  [XML](2016/08/4/index.xml)  
+
 ## [2016-08-4](/news/2016/08/4/index.md)
 
 ### [At least 40 government air strikes hit rebel-held areas of Aleppo city and nearby towns, including on a camp for displaced people in Atareb, south-west of Aleppo, killing at least two people. ](/news/2016/08/4/at-least-40-government-air-strikes-hit-rebel-held-areas-of-aleppo-city-and-nearby-towns-including-on-a-camp-for-displaced-people-in-atareb.md)

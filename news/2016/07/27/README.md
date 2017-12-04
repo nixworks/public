@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/27/index.html)  [JSON](2016/07/27/index.json)  [XML](2016/07/27/index.xml)  
+
 ## [2016-07-27](/news/2016/07/27/index.md)
 
 ### [At least 44 people are killed in a twin bombing in the Kurdish-controlled city of Al-Qamishli on the Syria-Turkey border. ISIL claims responsibility for the attack. ](/news/2016/07/27/at-least-44-people-are-killed-in-a-twin-bombing-in-the-kurdish-controlled-city-of-al-qamishli-on-the-syriaaturkey-border-isil-claims-resp.md)
@@ -73,7 +76,7 @@ Jupiter&#039;s Great Red Spot may fuel the extreme heat observed in the planet&#
 _Context: human speech, orangutan_
 
 ### [Biologists have determined that the only 'true' species of wolf in North America is the gray wolf while the red wolf is a wolf hybridized with a coyote. ](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.md)
-_Context: Gray wolves, North America, coyote, red wolf_
+The finding highlights the shortcomings of laws intended to protect endangered species that don’t take into account research of the evolution of species.
 
 ## [Previous Day...](/news/2016/07/26/index.md)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/5/a-pakistani-mi-17-transport-helicopter-belonging-to-the-punjab-government-on-route-to-russia-for-repair-crashed-on-thursday-night-in-logar.html)  [JSON](/news/2016/08/5/a-pakistani-mi-17-transport-helicopter-belonging-to-the-punjab-government-on-route-to-russia-for-repair-crashed-on-thursday-night-in-logar.json)  [XML](/news/2016/08/5/a-pakistani-mi-17-transport-helicopter-belonging-to-the-punjab-government-on-route-to-russia-for-repair-crashed-on-thursday-night-in-logar.xml)  
+
 ### [2016-08-5](/news/2016/08/5/index.md)
 
 # A Pakistani Mi-17 transport helicopter belonging to the Punjab government on route to Russia for repair, crashed on Thursday night in Logar Province, Afghanistan. The six people on board have been taken hostage by the Taliban. 
@@ -5,7 +8,7 @@
 Seven passengers were on board, six of them Pakistanis and one a Russian technician, confirms Foreign Office
 
 
-### Source:
+### Sources:
 
 1. [Dunya News](http://dunyanews.tv/en/Pakistan/347831-Pakistani-chopper-crashlands-in-Afghanistan-crew/)
 2. [Pakistan Today](http://www.pakistantoday.com.pk/2016/08/05/national/helicopter-crash-govt-to-send-delegation-to-afghanistan/)

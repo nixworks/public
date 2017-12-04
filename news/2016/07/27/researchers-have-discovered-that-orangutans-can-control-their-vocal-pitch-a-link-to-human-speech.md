@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/researchers-have-discovered-that-orangutans-can-control-their-vocal-pitch-a-link-to-human-speech.html)  [JSON](/news/2016/07/27/researchers-have-discovered-that-orangutans-can-control-their-vocal-pitch-a-link-to-human-speech.json)  [XML](/news/2016/07/27/researchers-have-discovered-that-orangutans-can-control-their-vocal-pitch-a-link-to-human-speech.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Researchers have discovered that orangutans can control their vocal pitch, a link to human speech. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0727/An-orangutan-can-control-his-pitch.-What-does-that-teach-us-about-speech)
 1. [Cover Image](http://images.csmonitor.com/csm/2016/07/994628_1_0727-orangutan_standard.jpg?alias=standard_900x600)

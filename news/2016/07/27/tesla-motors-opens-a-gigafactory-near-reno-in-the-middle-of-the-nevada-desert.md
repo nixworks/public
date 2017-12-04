@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.html)  [JSON](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.json)  [XML](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Tesla motors opens a 'Gigafactory' near Reno in the middle of the Nevada desert. 
@@ -5,7 +8,7 @@
 Tesla’s groundbreaking new factory could make or break Elon Musk, the company’s charismatic but under-pressure chief executive.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/technology-36893104)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1F24/production/_90527970_aerialviewjuly2016northeast.jpg)

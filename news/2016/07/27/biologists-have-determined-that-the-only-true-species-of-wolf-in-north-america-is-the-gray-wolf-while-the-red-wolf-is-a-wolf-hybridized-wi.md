@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.html)  [JSON](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.json)  [XML](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Biologists have determined that the only 'true' species of wolf in North America is the gray wolf while the red wolf is a wolf hybridized with a coyote. 
 
+The finding highlights the shortcomings of laws intended to protect endangered species that don’t take into account research of the evolution of species.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/07/28/science/red-eastern-gray-wolves.html)
+1. [The New York Times](https://www.nytimes.com/2016/07/28/science/red-eastern-gray-wolves.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/07/28/science/28ZIMMER/28ZIMMER-facebookJumbo.jpg)
 
 ### Related:
 

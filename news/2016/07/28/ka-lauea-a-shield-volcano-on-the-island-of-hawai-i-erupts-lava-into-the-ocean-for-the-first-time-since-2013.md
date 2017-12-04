@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.html)  [JSON](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.json)  [XML](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.xml)  
+
 ### [2016-07-28](/news/2016/07/28/index.md)
 
 # Kilauea, a shield volcano on the island of Hawai'i, erupts lava into the ocean for the first time since 2013. 
@@ -5,7 +8,7 @@
 Lava from Hawaii’s Kilauea volcano makes its way into the ocean for the first time in years.
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0727/Lava-travels-across-Hawaii-finishes-its-journey-in-the-sea)
 2. [The Weather Channel](https://weather.com/news/weather/video/kilauea-volcanos-lava-oozes-into-ocean)

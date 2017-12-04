@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/2/at-least-five-people-are-killed-and-dozens-injured-when-a-charter-bus-swerved-into-a-support-pole-on-california-highway-99-near-the-town-of.html)  [JSON](/news/2016/08/2/at-least-five-people-are-killed-and-dozens-injured-when-a-charter-bus-swerved-into-a-support-pole-on-california-highway-99-near-the-town-of.json)  [XML](/news/2016/08/2/at-least-five-people-are-killed-and-dozens-injured-when-a-charter-bus-swerved-into-a-support-pole-on-california-highway-99-near-the-town-of.xml)  
+
 ### [2016-08-2](/news/2016/08/2/index.md)
 
 # At least five people are killed and dozens injured when a charter bus swerved into a support pole on California Highway 99 near the town of Livingston in Merced County. The bus was headed to Pasco, Washington. 
@@ -5,7 +8,7 @@
 The charter bus swerved into a support pole, apparently at full speed, and trapped some of the injured in their seats for hours.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-merced-county-bus-crash-20160802-snap-story.html)
 2. [NBC News](http://www.nbcnews.com/news/us-news/bus-crash-merced-california-kills-least-five-n621531)

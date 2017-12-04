@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/2/three-top-staffers-leave-the-democratic-national-committee-100-days-before-elections-in-early-november-as-a-result-of-the-email-leak.html)  [JSON](/news/2016/08/2/three-top-staffers-leave-the-democratic-national-committee-100-days-before-elections-in-early-november-as-a-result-of-the-email-leak.json)  [XML](/news/2016/08/2/three-top-staffers-leave-the-democratic-national-committee-100-days-before-elections-in-early-november-as-a-result-of-the-email-leak.xml)  
+
 ### [2016-08-2](/news/2016/08/2/index.md)
 
 # Three top staffers leave the Democratic National Committee 100 days before elections in early November as a result of the email leak. 
@@ -5,7 +8,7 @@
 The departures come a week after hacked DNC emails showed party officials conspiring against Sanders.
 
 
-### Source:
+### Sources:
 
 1. [Washington Examiner](http://www.washingtonexaminer.com/dnc-collapse-top-staffers-leave-100-days-before-the-election/article/2598408)
 1. [Cover Image](http://cdn.washingtonexaminer.biz/cache/1060x600-42c3aeeb1e97374c9e6c9cf7bb32698d.jpg)

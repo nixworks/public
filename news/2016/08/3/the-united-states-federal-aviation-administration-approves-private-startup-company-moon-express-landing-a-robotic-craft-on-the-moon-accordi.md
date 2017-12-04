@@ -1,15 +1,23 @@
+
+Formats: [HTML](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.html)  [JSON](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.json)  [XML](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.xml)  
+
 ### [2016-08-3](/news/2016/08/3/index.md)
 
 # The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. 
 
-Moon Express said Aug. 3 that it has won a first-of-its-kind regulatory approval from the U.S. government for a lunar lander the company is developing.
+If accomplished, that feat would win the company, Moon Express, the Google Lunar X Prize competition and an accompanying $20 million reward.
 
 
-### Source:
+### Sources:
 
 1. [SpaceNews](http://spacenews.com/moon-express-wins-u-s-government-approval-for-lunar-lander-mission/)
-2. [The New York Times](http://www.nytimes.com/2016/08/04/science/moon-express-faa.html?_r=1)
-2. [Cover Image](http://spacenews.com/wp-content/uploads/2015/12/Moon_Express_MX-1.jpg)
+2. [The New York Times](https://www.nytimes.com/2016/08/04/science/moon-express-faa.html?_r=1)
+2. [Cover Image](https://static01.nyt.com/images/2016/08/04/science/04moon/04moon-facebookJumbo.jpg)
+
+### Changes:
+
+1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accord.md) _2017-08-25 03:46:13 (First version)_
+1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Moon Express said Aug. 3 that it has won a first-of-its-kind regulatory approval
 3. [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md) _Context: Federal Aviation Administration, United States_
 4. [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md) _Context: Moon, United States_
 5. [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md) _Context: Moon, United States_
-
-### Changes:
-
-1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accord.md) _2017-08-25 03:46:13 (First version)_
-1. [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md) _(Current version)_

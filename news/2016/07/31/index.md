@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/31/index.html)  [JSON](2016/07/31/index.json)  [XML](2016/07/31/index.xml)  
+
 ## [2016-07-31](/news/2016/07/31/index.md)
 
 ### [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md)

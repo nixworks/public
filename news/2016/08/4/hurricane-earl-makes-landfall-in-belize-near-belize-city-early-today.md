@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.html)  [JSON](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.json)  [XML](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.xml)  
+
 ### [2016-08-4](/news/2016/08/4/index.md)
 
 # Hurricane Earl makes landfall in Belize near Belize City early today. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/040556.shtml)
+
+### Changes:
+
+1. [2016 Atlantic hurricane season: Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/2016-atlantic-hurricane-season-hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _2017-08-27 03:46:36 (First version)_
+1. [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The death toll from mudslides in Eastern Mexico triggered by Hurricane Earl rises to 38, with 28 people killed in Puebla, and 10 others in Veracruz. ](/news/2016/08/7/the-death-toll-from-mudslides-in-eastern-mexico-triggered-by-hurricane-earl-rises-to-38-with-28-people-killed-in-puebla-and-10-others-in-v.md) _Context: 2016 Atlantic hurricane season, Earl's_
 4. [Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that-kill-at-least-six.md) _Context: 2016 Atlantic hurricane season, Earl's_
 5. [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md) _Context: 2016 Atlantic hurricane season_
-
-### Changes:
-
-1. [2016 Atlantic hurricane season: Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/2016-atlantic-hurricane-season-hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _2017-08-27 03:46:36 (First version)_
-1. [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md) _(Current version)_

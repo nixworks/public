@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/27/scientists-have-discovered-that-the-region-directly-above-the-great-red-spot-on-the-planet-jupiter-is-about-700adeg-f-370adeg-c-warmer-than-th.html)  [JSON](/news/2016/07/27/scientists-have-discovered-that-the-region-directly-above-the-great-red-spot-on-the-planet-jupiter-is-about-700adeg-f-370adeg-c-warmer-than-th.json)  [XML](/news/2016/07/27/scientists-have-discovered-that-the-region-directly-above-the-great-red-spot-on-the-planet-jupiter-is-about-700adeg-f-370adeg-c-warmer-than-th.xml)  
+
 ### [2016-07-27](/news/2016/07/27/index.md)
 
 # Scientists have discovered that the region directly above the Great Red Spot on the planet Jupiter is about 700deg F (370deg C) warmer than the surrounding upper atmosphere. 
@@ -5,7 +8,7 @@
 Jupiter&#039;s Great Red Spot may fuel the extreme heat observed in the planet&#039;s upper atmosphere, new research shows.
 
 
-### Source:
+### Sources:
 
 1. [Space](http://www.space.com/33551-jupiter-heats-up-great-red-spot.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA1Ny8wOTUvb3JpZ2luYWwvanVwaXRlci1ncmVhdC1yZWQtc3BvdC5qcGc=)

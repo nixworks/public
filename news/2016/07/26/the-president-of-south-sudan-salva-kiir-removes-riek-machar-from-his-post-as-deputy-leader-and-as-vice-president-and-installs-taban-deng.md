@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.html)  [JSON](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.json)  [XML](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.xml)  
+
 ### [2016-07-26](/news/2016/07/26/index.md)
 
 # The President of South Sudan, Salva Kiir, removes Riek Machar from his post as deputy leader and as vice president, and installs Taban Deng Gai in his place. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36886706)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/156B3/production/_90513778_mediaitem90513775.jpg)

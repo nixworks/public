@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.html)  [JSON](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.json)  [XML](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.xml)  
+
 ### [2016-08-6](/news/2016/08/6/index.md)
 
 # The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! News](https://au.news.yahoo.com/thewest/a/32258214/air-raids-kill-10-near-syria-hospital-monitor/#page1)
+
+### Changes:
+
+1. [Syrian civil war: The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/syrian-civil-war-the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town.md) _2017-08-27 03:46:37 (First version)_
+1. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 4. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 5. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [Syrian civil war: The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/syrian-civil-war-the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town.md) _2017-08-27 03:46:37 (First version)_
-1. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _(Current version)_

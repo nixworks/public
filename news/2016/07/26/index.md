@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/26/index.html)  [JSON](2016/07/26/index.json)  [XML](2016/07/26/index.xml)  
+
 ## [2016-07-26](/news/2016/07/26/index.md)
 
 ### [Al-Shabaab claim responsibility for a double suicide car bombing attack in Mogadishu near an African Union base at the city's airport. At least 13 people are killed, including seven UN guards. ](/news/2016/07/26/al-shabaab-claim-responsibility-for-a-double-suicide-car-bombing-attack-in-mogadishu-near-an-african-union-base-at-the-city-s-airport-at-le.md)
@@ -40,7 +43,5 @@ Follow live updates from the second night of the DNC with Bill Clinton speaking 
 Solar Impulse 2 has become the first sun-powered, fuel-free aircraft to circle the globe. Pilot Bertrand Piccard was at the controls as the aircraft returned to Abu Dhabi after completing a 42,000 kilometer journey.
 
 ### [Every square inch of the United States is forecasted to have hotter-than-normal temperatures for the first time in recorded history.](/news/2016/07/26/every-square-inch-of-the-united-states-is-forecasted-to-have-hotter-than-normal-temperatures-for-the-first-time-in-recorded-history.md)
-The entire nation is forecast to see above-average temperatures for the next three months
-
 ## [Previous Day...](/news/2016/07/25/index.md)
 
