@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/the-fossil-of-a-new-species-of-pterosaur-is-discovered-on-hornby-island-british-columbia-in-canada.html)  [JSON](/news/2016/08/31/the-fossil-of-a-new-species-of-pterosaur-is-discovered-on-hornby-island-british-columbia-in-canada.json)  [XML](/news/2016/08/31/the-fossil-of-a-new-species-of-pterosaur-is-discovered-on-hornby-island-british-columbia-in-canada.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # The fossil of a new species of pterosaur is discovered on Hornby Island, British Columbia in Canada. 
@@ -5,7 +8,7 @@
 In Hollywood lore, pterosaurs are humongous, fearsome animals, capable of swooping into theme parks and snatching up human snacks. But a newly discovered real-life pterosaur might not have been so scary. 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0831/Was-this-flying-reptile-the-ptiniest-pterosaur-of-the-Late-Cretaceous)
 1. [Cover Image](http://images.csmonitor.com/csm/2016/08/1000585_1_0830-pterosaur-comparison_standard.png?alias=standard_900x600)

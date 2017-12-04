@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/24/index.html)  [JSON](2016/08/24/index.json)  [XML](2016/08/24/index.xml)  
+
 ## [2016-08-24](/news/2016/08/24/index.md)
 
 ### [The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabulus-from-isil-the.md)

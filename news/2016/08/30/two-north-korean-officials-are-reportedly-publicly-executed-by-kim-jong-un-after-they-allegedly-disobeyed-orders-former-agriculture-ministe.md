@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.html)  [JSON](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.json)  [XML](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.xml)  
+
 ### [2016-08-30](/news/2016/08/30/index.md)
 
 # Two North Korean officials are reportedly publicly executed by Kim Jong-un after they allegedly disobeyed orders: former agriculture minister Hwang Min for unsuitable policies and Ri Yong Jin, a senior official at the education ministry, for sleeping at a meeting with Kim, disrespect for the leader and corruption. They were allegedly executed by anti-aircraft artillery fire. 
@@ -5,7 +8,7 @@
 The two officials were executed in early August for disobeying leader Kim Jong Un, a South Korean newspaper reported.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/north-korea-public-execution-officials-killed-anti-aircraft-gun-disobeying-leader-kim-2409041)
 2. [The Guardian, UK](https://www.theguardian.com/world/2016/aug/30/north-korea-reportedly-executes-officials-anti-aircraft-gun-purge)

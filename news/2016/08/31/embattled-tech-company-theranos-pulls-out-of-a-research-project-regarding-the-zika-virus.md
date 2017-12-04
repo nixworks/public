@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/embattled-tech-company-theranos-pulls-out-of-a-research-project-regarding-the-zika-virus.html)  [JSON](/news/2016/08/31/embattled-tech-company-theranos-pulls-out-of-a-research-project-regarding-the-zika-virus.json)  [XML](/news/2016/08/31/embattled-tech-company-theranos-pulls-out-of-a-research-project-regarding-the-zika-virus.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # Embattled tech company Theranos pulls out of a research project regarding the Zika virus. 
@@ -5,7 +8,7 @@
 The Silicon Valley blood-testing company suffers another setback
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/08/31/theranos-zika-test-withdrawn-after-regulators-flag-problems/)
 

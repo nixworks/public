@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/1/a-spacex-falcon-9-rocket-explodes-during-a-routine-firing-test-at-cape-canaveral-air-force-station-in-florida-spacex-say-there-were-no-inju.html)  [JSON](/news/2016/09/1/a-spacex-falcon-9-rocket-explodes-during-a-routine-firing-test-at-cape-canaveral-air-force-station-in-florida-spacex-say-there-were-no-inju.json)  [XML](/news/2016/09/1/a-spacex-falcon-9-rocket-explodes-during-a-routine-firing-test-at-cape-canaveral-air-force-station-in-florida-spacex-say-there-were-no-inju.xml)  
+
 ### [2016-09-1](/news/2016/09/1/index.md)
 
 # A SpaceX Falcon 9 rocket explodes during a routine firing test at Cape Canaveral Air Force Station in Florida. SpaceX say there were no injuries, but that an "anomaly" during the static fire test resulted in the loss of the rocket and the Israeli Amos-6 communication satellite it was carrying. 
@@ -5,7 +8,7 @@
 An unmanned SpaceX Falcon 9 rocket exploded on the launch pad during a test in Florida on Thursday, destroying a satellite that Facebook planned to use to beam high-speed internet to Africa.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/01/explosion-at-spacex-launch-site-in-florida2/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/1/l/1lb2vunte6u3sdhdlmjfbd06fxr0xjqd-xlarge.jpg)

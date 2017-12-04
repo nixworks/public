@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/24/the-world-s-largest-aircraft-hybrid-air-vehicles-hav-304-airlander-10-crashes-at-raf-cardington-bedfordshire-during-its-second-test-flig.html)  [JSON](/news/2016/08/24/the-world-s-largest-aircraft-hybrid-air-vehicles-hav-304-airlander-10-crashes-at-raf-cardington-bedfordshire-during-its-second-test-flig.json)  [XML](/news/2016/08/24/the-world-s-largest-aircraft-hybrid-air-vehicles-hav-304-airlander-10-crashes-at-raf-cardington-bedfordshire-during-its-second-test-flig.xml)  
+
 ### [2016-08-24](/news/2016/08/24/index.md)
 
 # The world's largest aircraft, Hybrid Air Vehicles HAV 304 Airlander 10, crashes at RAF Cardington, Bedfordshire, during its second test flight. 
@@ -5,7 +8,7 @@
 Airlander 10 sustains damage but no one injured on landing in fields during second test flight at Cardington airfield
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/uk-news/2016/aug/24/worlds-biggest-aircraft-crashes-bedfordshire-airlander-10)
 1. [Cover Image](https://i.guim.co.uk/img/media/ffa2dad26045059e628ddaff6e9586f383a7ef84/655_327_947_568/947.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=5dd1d7ed2c50a01d4a114bfec25e3999)

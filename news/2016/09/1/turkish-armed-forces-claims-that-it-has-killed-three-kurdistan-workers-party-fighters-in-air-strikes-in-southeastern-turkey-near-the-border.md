@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.html)  [JSON](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.json)  [XML](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.xml)  
+
 ### [2016-09-1](/news/2016/09/1/index.md)
 
 # Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3768751/Turkish-air-strikes-kill-3-PKK-militants-southeast-Turkey--military.html)
+
+### Changes:
+
+1. [Kurdish-Turkish conflict (1978-present): Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/kurdish-turkish-conflict-1978-present-turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-s.md) _2017-08-27 03:46:45 (First version)_
+1. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The Turkish military say it carried out air strikes in northern Iraq against targets belonging to the Kurdistan Workers' Party, hitting weapon stores and shelters. ](/news/2016/04/5/the-turkish-military-say-it-carried-out-air-strikes-in-northern-iraq-against-targets-belonging-to-the-kurdistan-workers-party-hitting-weap.md) _Context: Iraq, Kurdistan Workers' Party, Turkish troops_
 4. [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md) _Context: Kurdistan Workers' Party, Turkey, Turkish troops_
 5. [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md) _Context: Kurdistan Workers' Party, Turkey, Turkish troops_
-
-### Changes:
-
-1. [Kurdish-Turkish conflict (1978-present): Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/kurdish-turkish-conflict-1978-present-turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-s.md) _2017-08-27 03:46:45 (First version)_
-1. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _(Current version)_

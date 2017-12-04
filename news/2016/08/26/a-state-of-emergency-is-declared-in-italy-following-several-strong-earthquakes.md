@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.html)  [JSON](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.json)  [XML](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # A state of emergency is declared in Italy following several strong earthquakes. 
@@ -5,11 +8,16 @@
 One of more than 1000 aftershocks has cut off a key route into earthquake-stricken Italian town Amatrice as the death toll rises even further.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/08/26/europe/italy-earthquake/index.html)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/world/311918/rescuers-begin-pulling-out-of-italy-quake-hit-towns)
 2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
+
+### Changes:
+
+1. [2016 Central Italy earthquake: A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/2016-central-italy-earthquake-a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _2017-08-27 03:46:43 (First version)_
+1. [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ One of more than 1000 aftershocks has cut off a key route into earthquake-strick
 3. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: states of emergency_
 4. [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md) _Context: states of emergency_
 5. [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md) _Context: Italy_
-
-### Changes:
-
-1. [2016 Central Italy earthquake: A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/2016-central-italy-earthquake-a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _2017-08-27 03:46:43 (First version)_
-1. [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/an-assassination-attempt-against-angela-merkel-is-foiled-by-czech-police.html)  [JSON](/news/2016/08/26/an-assassination-attempt-against-angela-merkel-is-foiled-by-czech-police.json)  [XML](/news/2016/08/26/an-assassination-attempt-against-angela-merkel-is-foiled-by-czech-police.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # An assassination attempt against Angela Merkel is foiled by Czech police. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Mail](http://www.dailymail.co.uk/news/article-3759659/Czech-police-foil-attack-Angela-Merkel-suspect-armed-handcuffs-tear-gas-attempted-ram-Chancellor-s-motorcade.html)
 

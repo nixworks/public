@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illanes-is-kidnapped-and-beaten-to-death-by-striking-miners.html)  [JSON](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illanes-is-kidnapped-and-beaten-to-death-by-striking-miners.json)  [XML](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illanes-is-kidnapped-and-beaten-to-death-by-striking-miners.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # Bolivia's deputy interior minister, Rodolfo Illanes, is kidnapped and beaten to death by striking miners. 
@@ -5,7 +8,7 @@
 Bolivian authorities say the deputy interior minister has been kidnapped and killed by striking miners.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37192790)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16407/production/_90934119_rodolfoillanesmingob.jpg)

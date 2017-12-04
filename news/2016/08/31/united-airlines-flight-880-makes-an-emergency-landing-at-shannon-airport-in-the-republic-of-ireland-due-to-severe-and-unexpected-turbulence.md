@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.html)  [JSON](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.json)  [XML](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. 
@@ -5,7 +8,7 @@
 Twelve people are taken to hospital after transatlantic turbulence prompts an emergency landing at Shannon Airport.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-37228479)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/0449/production/_90979010_000cc7d7-642.jpg)

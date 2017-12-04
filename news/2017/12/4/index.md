@@ -15,5 +15,8 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 ### [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md)
 _Context: 2017 North Korea crisis, South Korea, United States, drill_
 
+### [France asks to put on the Council of the European Union finance ministers' agenda the concern that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-asks-to-put-on-the-council-of-the-european-union-finance-ministers-agenda-the-concern-that-the-current-version-of-the-united-states.md)
+_Context: Council of the European Union, France, Tax Cuts and Jobs Act of 2017, United States, finance minister, value added_
+
 ## [Previous Day...](/news/2017/12/3/index.md)
 

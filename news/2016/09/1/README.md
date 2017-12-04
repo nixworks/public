@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/1/index.html)  [JSON](2016/09/1/index.json)  [XML](2016/09/1/index.xml)  
+
 ## [2016-09-1](/news/2016/09/1/index.md)
 
 ### [Large explosions and gunfire are reported in the Gabonese capital Libreville as security forces clash with supporters of opposition presidential candidate Jean Ping protesting the election results indicating a narrow victory by President Ali Bongo Ondimba. ](/news/2016/09/1/large-explosions-and-gunfire-are-reported-in-the-gabonese-capital-libreville-as-security-forces-clash-with-supporters-of-opposition-presiden.md)

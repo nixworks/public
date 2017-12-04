@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/2/index.html)  [JSON](2016/09/2/index.json)  [XML](2016/09/2/index.xml)  
+
 ## [2016-09-2](/news/2016/09/2/index.md)
 
 ### [Islamic militants attack Christian sections of Khyber Pakhtunkhwa, leaving 13 dead in the city of Mardan. ](/news/2016/09/2/islamic-militants-attack-christian-sections-of-khyber-pakhtunkhwa-leaving-13-dead-in-the-city-of-mardan.md)

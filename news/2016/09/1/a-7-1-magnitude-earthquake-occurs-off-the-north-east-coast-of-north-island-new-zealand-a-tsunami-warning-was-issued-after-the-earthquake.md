@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.html)  [JSON](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.json)  [XML](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.xml)  
+
 ### [2016-09-1](/news/2016/09/1/index.md)
 
 # A 7.1 magnitude earthquake occurs off the north east coast of North Island, New Zealand. A tsunami warning was issued after the earthquake, and waves of 0.3m have been reported near Gisborne. 
@@ -5,10 +8,10 @@
 Residents of a small community in north-east New Zealand are briefly told to evacuate after a powerful quake sparks a tsunami warning.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-37249108)
-2. [The Independent](http://www.independent.co.uk/news/world/australasia/new-zealand-earthquake-today-tsunami-warning-a7220876.html)
+2. [The Independent](https://www.independent.co.uk/news/world/australasia/new-zealand-earthquake-today-tsunami-warning-a7220876.html)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14C76/production/_91001158_newzealandgisborne464.png)
 
 ### Related:

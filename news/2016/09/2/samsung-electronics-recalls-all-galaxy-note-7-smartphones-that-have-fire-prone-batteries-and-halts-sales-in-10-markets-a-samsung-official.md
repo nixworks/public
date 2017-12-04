@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/2/samsung-electronics-recalls-all-galaxy-note-7-smartphones-that-have-fire-prone-batteries-and-halts-sales-in-10-markets-a-samsung-official.html)  [JSON](/news/2016/09/2/samsung-electronics-recalls-all-galaxy-note-7-smartphones-that-have-fire-prone-batteries-and-halts-sales-in-10-markets-a-samsung-official.json)  [XML](/news/2016/09/2/samsung-electronics-recalls-all-galaxy-note-7-smartphones-that-have-fire-prone-batteries-and-halts-sales-in-10-markets-a-samsung-official.xml)  
+
 ### [2016-09-2](/news/2016/09/2/index.md)
 
 # Samsung Electronics recalls all Galaxy Note 7 smartphones that have fire-prone batteries, and halts sales in 10 markets. A Samsung official says phones with the problematic battery account for less than 0.1 percent of those sold. 
@@ -5,11 +8,11 @@
 Samsung has announced an unprecedented recall of the Galaxy Note 7 just weeks after launching the well-received smartphone. Sales have been halted globally, and over the coming weeks Samsung will...
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-samsung-elec-smartphones-replacement-idUSKCN1180TV)
-2. [The Verge](http://www.theverge.com/2016/9/2/12767670/samsung-galaxy-note-7-recall-fire-risk)
-2. [Cover Image](https://cdn0.vox-cdn.com/thumbor/K_phezk4-LamCqozzrIjUK4ueos=/0x105:2000x1230/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50629623/samsung-note-7-9899.0.0.jpg)
+1. [Reuters](https://www.reuters.com/article/us-samsung-elec-smartphones-replacement-idUSKCN1180TV)
+2. [The Verge](https://www.theverge.com/2016/9/2/12767670/samsung-galaxy-note-7-recall-fire-risk)
+2. [Cover Image](https://cdn.vox-cdn.com/thumbor/JAdMx-RYukptUgR2bDBtyg9D220=/0x105:2000x1230/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/50629623/samsung-note-7-9899.0.0.jpg)
 
 ### Related:
 

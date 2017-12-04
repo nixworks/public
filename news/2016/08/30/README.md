@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/08/30/index.html)  [JSON](2016/08/30/index.json)  [XML](2016/08/30/index.xml)  
+
 ## [2016-08-30](/news/2016/08/30/index.md)
 
 ### [Thousands of Yazidi are believed to be buried in 72 newly-discovered mass graves left by ISIL after the 2014 massacre. ](/news/2016/08/30/thousands-of-yazidi-are-believed-to-be-buried-in-72-newly-discovered-mass-graves-left-by-isil-after-the-2014-massacre.md)
 _Context: Sinjar massacre, Yazidi_
 
 ### [A car bomb explodes near the Chinese embassy in Kyrgyzstan, killing the perpetrator and injuring three. ](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.md)
-_Context: China, Kyrgyzstan, car bomb_
+Three people were wounded in the assault, which the Central Asian country’s government called “a terrorist act.”
 
 ### [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md)
 _Context: Al-Shabaab, Mogadishu, President of Somalia, War in Somalia (2009-present), car bomb_

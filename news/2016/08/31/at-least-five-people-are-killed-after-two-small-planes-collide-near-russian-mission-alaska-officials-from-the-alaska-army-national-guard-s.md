@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/at-least-five-people-are-killed-after-two-small-planes-collide-near-russian-mission-alaska-officials-from-the-alaska-army-national-guard-s.html)  [JSON](/news/2016/08/31/at-least-five-people-are-killed-after-two-small-planes-collide-near-russian-mission-alaska-officials-from-the-alaska-army-national-guard-s.json)  [XML](/news/2016/08/31/at-least-five-people-are-killed-after-two-small-planes-collide-near-russian-mission-alaska-officials-from-the-alaska-army-national-guard-s.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # At least five people are killed after two small planes collide near Russian Mission, Alaska. Officials from the Alaska Army National Guard say the planes involved were a Cessna 208 Caravan and a Piper PA-18 Super Cub. 
@@ -5,7 +8,7 @@
 Alaska State Troopers say all those on board two small planes died in a midair collision in the western part of the state.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2016/08/31/5-people-killed-in-midair-plane-crash-alaska-troopers-say.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

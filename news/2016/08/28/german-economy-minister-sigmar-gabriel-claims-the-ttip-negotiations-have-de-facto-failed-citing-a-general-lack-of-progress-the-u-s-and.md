@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/28/german-economy-minister-sigmar-gabriel-claims-the-ttip-negotiations-have-de-facto-failed-citing-a-general-lack-of-progress-the-u-s-and.html)  [JSON](/news/2016/08/28/german-economy-minister-sigmar-gabriel-claims-the-ttip-negotiations-have-de-facto-failed-citing-a-general-lack-of-progress-the-u-s-and.json)  [XML](/news/2016/08/28/german-economy-minister-sigmar-gabriel-claims-the-ttip-negotiations-have-de-facto-failed-citing-a-general-lack-of-progress-the-u-s-and.xml)  
+
 ### [2016-08-28](/news/2016/08/28/index.md)
 
 # German economy minister Sigmar Gabriel claims the TTIP negotiations "have de facto failed", citing a general lack of progress. The U.S. and the European Commission have no immediate response to his comment. 
@@ -5,7 +8,7 @@
 BERLIN (AP) — Free trade talks between the European Union and the United States have failed, Germany&#039;s economy minister said Sunday, citing a lack of progress on any of the major sections of the long-running negotiations.…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/611ff828b5ed44d5ad56ab46e0781e52/german-economy-minister-says-eu-us-trade-talks-have-failed)
 1. [Cover Image](http://binaryapi.ap.org/cc0e7aa8f9be4d98a84bf272c3a61a0e/460x.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.html)  [JSON](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.json)  [XML](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. 
 
+Missile defenses are a major focus amid challenges from North Korea and China. But the budget proposal is a test of Japan’s commitment to pacifism.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/08/31/world/asia/japan-defense-military-budget-shinzo-abe.html)
+1. [The New York Times](https://www.nytimes.com/2016/08/31/world/asia/japan-defense-military-budget-shinzo-abe.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/08/31/world/31Japan-web1/31Japan-web1-facebookJumbo.jpg)
 
 ### Related:
 

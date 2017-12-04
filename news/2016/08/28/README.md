@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/28/index.html)  [JSON](2016/08/28/index.json)  [XML](2016/08/28/index.xml)  
+
 ## [2016-08-28](/news/2016/08/28/index.md)
 
 ### [Islamic State of Iraq and the Levant militants break free supporters from a Marawi jail in the Philippines. ](/news/2016/08/28/islamic-state-of-iraq-and-the-levant-militants-break-free-supporters-from-a-marawi-jail-in-the-philippines.md)

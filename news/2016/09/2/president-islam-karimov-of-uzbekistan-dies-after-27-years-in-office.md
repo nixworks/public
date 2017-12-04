@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.html)  [JSON](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.json)  [XML](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.xml)  
+
 ### [2016-09-2](/news/2016/09/2/index.md)
 
 # President Islam Karimov of Uzbekistan dies after 27 years in office. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37260375)
 2. [Reuters via ''Time](http://time.com/4477252/uzbekistan-president-islam-karimov-ill/)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.html)  [JSON](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.json)  [XML](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.xml)  
+
 ### [2016-07-2](/news/2016/07/2/index.md)
 
 # A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/serbia-cafe-shooting/27834067.html)
 

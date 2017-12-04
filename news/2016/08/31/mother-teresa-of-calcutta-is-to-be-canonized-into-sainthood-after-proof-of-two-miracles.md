@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-into-sainthood-after-proof-of-two-miracles.html)  [JSON](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-into-sainthood-after-proof-of-two-miracles.json)  [XML](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-into-sainthood-after-proof-of-two-miracles.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # Mother Teresa of Calcutta is to be canonized into sainthood after "proof" of two miracles. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/parallels/2016/08/31/491937448/how-the-catholic-church-documented-mother-teresas-two-miracles)
 1. [Cover Image](https://media.npr.org/assets/img/2016/08/30/ap_16239254388679_wide-7878d2d11bb63bf53dc3705049e954eed0c37ff6.jpg?s=1400)

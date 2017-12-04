@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-mother-in-memphis-tennessee-the-mother-was-taken-into-custody.html)  [JSON](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-mother-in-memphis-tennessee-the-mother-was-taken-into-custody.json)  [XML](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-mother-in-memphis-tennessee-the-mother-was-taken-into-custody.xml)  
+
 ### [2016-07-2](/news/2016/07/2/index.md)
 
 # Four children are stabbed to death by their mother in Memphis, Tennessee. The mother was taken into custody. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Local 8 News](http://www.local8now.com/content/news/Four-Tennessee-children-stabbed-to-death-385241141.html)
 1. [Cover Image](http://media.graytvinc.com/images/559*315/memphisstabbing2.jpg)

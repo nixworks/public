@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/23/index.html)  [JSON](2016/08/23/index.json)  [XML](2016/08/23/index.xml)  
+
 ## [2016-08-23](/news/2016/08/23/index.md)
 
 ### [In a raid on Boko Haram Islamists' northeast heartland, Nigeria's air force kills senior militants and possibly fatally wounds their leader, Abubakar Shekau. ](/news/2016/08/23/in-a-raid-on-boko-haram-islamists-northeast-heartland-nigeriaas-air-force-kills-senior-militants-and-possibly-fatally-wounds-their-leade.md)
@@ -31,7 +34,7 @@ The matter is likely to come up when US Vice&nbsp;President Joe Biden&nbsp;trave
 _Context: 2015 Bangkok bombing, Bangkok, China, Thailand, Uighur_
 
 ### [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md)
-_Context: Commission on Human Rights, International Criminal Court, Philippine Drug War_
+_Context: Commission on Human Rights, ICC, drug crackdown_
 
 ### ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md)
 The New York Times said on Tuesday its Moscow bureau was targeted by a cyber attack this month but that there was no evidence the hackers, believed to be Russian, were successful.

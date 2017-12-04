@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/23/former-presenter-andrea-tantaros-sues-fox-news-by-accusing-the-network-of-being-a-sex-fueled-playboy-mansion-like-cult.html)  [JSON](/news/2016/08/23/former-presenter-andrea-tantaros-sues-fox-news-by-accusing-the-network-of-being-a-sex-fueled-playboy-mansion-like-cult.json)  [XML](/news/2016/08/23/former-presenter-andrea-tantaros-sues-fox-news-by-accusing-the-network-of-being-a-sex-fueled-playboy-mansion-like-cult.xml)  
+
 ### [2016-08-23](/news/2016/08/23/index.md)
 
 # Former presenter Andrea Tantaros sues Fox News by accusing the network of being a "sex-fueled, Playboy Mansion-like cult." 
@@ -5,7 +8,7 @@
 Like Gretchen Carlson, she claims the ex-chairman harassed her.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/lifestyle/style/former-fox-news-host-andrea-tantaros-sues-ailes-and-network/2016/08/23/dc6c34cc-6937-11e6-99bf-f0cf3a6449a6_story.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/3/index.html)  [JSON](2016/09/3/index.json)  [XML](2016/09/3/index.xml)  
+
 ## [2016-09-3](/news/2016/09/3/index.md)
 
 ### [The President of the Philippines Rodrigo Duterte declares a nationwide "state of lawlessness" after yesterday's bombing in Davao City that has killed at least 14 people. ](/news/2016/09/3/the-president-of-the-philippines-rodrigo-duterte-declares-a-nationwide-state-of-lawlessness-after-yesterday-s-bombing-in-davao-city-that-h.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.html)  [JSON](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.json)  [XML](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37237513)
 2. [CNN](http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/10B24/production/_90988386_mediaitem90987941.jpg)
+
+### Changes:
+
+1. [Impeachment of Dilma Rousseff: President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. ](/news/2016/08/31/impeachment-of-dilma-rousseff-president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61-20-in-the-senate-current-acting.md) _2017-08-27 03:46:44 (First version)_
+1. [President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. ](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md) _Context: Dilma Rousseff, impeached_
 4. [ Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. ](/news/2016/05/13/vice-president-of-brazil-michel-temer-assumes-the-presidential-powers-and-duties-as-acting-president-of-brazil.md) _Context: Michel Temer, impeached_
 5. [Marco Aurelio Mello, a Supreme Federal Court judge orders Brazil's Chamber of Deputies to start impeachment proceedings against Vice President Michel Temer over charges he helped doctor budget accounting as part of President Dilma Rousseff's administration. ](/news/2016/04/5/marco-aura-c-lio-mello-a-supreme-federal-court-judge-orders-brazil-s-chamber-of-deputies-to-start-impeachment-proceedings-against-vice-presid.md) _Context: Dilma Rousseff, Michel Temer_
-
-### Changes:
-
-1. [Impeachment of Dilma Rousseff: President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. ](/news/2016/08/31/impeachment-of-dilma-rousseff-president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61-20-in-the-senate-current-acting.md) _2017-08-27 03:46:44 (First version)_
-1. [President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. ](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.md) _(Current version)_

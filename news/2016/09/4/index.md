@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/4/index.html)  [JSON](2016/09/4/index.json)  [XML](2016/09/4/index.xml)  
+
 ## [2016-09-4](/news/2016/09/4/index.md)
 
 ### [In light of the attacks, the governments of Australia, Canada, Singapore, the United Kingdom, and the United States issue travel warnings against going to Mindanao, Philippines. ](/news/2016/09/4/in-light-of-the-attacks-the-governments-of-australia-canada-singapore-the-united-kingdom-and-the-united-states-issue-travel-warnings-ag.md)
@@ -22,7 +25,7 @@ TOKYO (AFP) - The death toll from Typhoon Lionrock has risen to 17 in Japan, wit
 The Zika virus behind an outbreak in Singapore was not imported from South America, Singapore’s Ministry of Health said in a statement Saturday.
 
 ### [The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson-for-president-and-the-first-newspaper-media.md)
-_Context: Gary Johnson, Libertarian, Richmond Times-Dispatch, United States presidential election, 2016, Virginia_
+_Context: 2016 U.S. presidential election, Gary Johnson, Libertarian, Richmond Times-Dispatch, Virginia_
 
 ### [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md)
 _Context: Alternative for Germany, Germany, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016_

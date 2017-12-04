@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.html)  [JSON](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.json)  [XML](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.xml)  
+
 ### [2016-08-30](/news/2016/08/30/index.md)
 
 # A car bomb explodes near the Chinese embassy in Kyrgyzstan, killing the perpetrator and injuring three. 
 
+Three people were wounded in the assault, which the Central Asian country’s government called “a terrorist act.”
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/08/31/world/asia/bishkek-china-embassy-kyrgyzstan.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2016/08/31/world/asia/bishkek-china-embassy-kyrgyzstan.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2016/08/31/world/31Kyrgyzstan-web1/31Kyrgyzstan-web1-facebookJumbo.jpg)
 
 ### Related:
 

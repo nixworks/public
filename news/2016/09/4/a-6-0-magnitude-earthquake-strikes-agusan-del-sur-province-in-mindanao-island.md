@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.html)  [JSON](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.json)  [XML](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.xml)  
+
 ### [2016-09-4](/news/2016/09/4/index.md)
 
 # A 6.0 magnitude earthquake strikes Agusan del Sur province in Mindanao island. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/812654/5-7-magnitude-earthquake-hits-parts-of-mindanao)
 

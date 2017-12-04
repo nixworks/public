@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/26/index.html)  [JSON](2016/08/26/index.json)  [XML](2016/08/26/index.xml)  
+
 ## [2016-08-26](/news/2016/08/26/index.md)
 
 ### [Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint-in-the-town-of-cizre-with-the-pkk-believed.md)
@@ -16,7 +19,7 @@ _Context: Istanbul, Turkey, Yavuz Sultan Selim Bridge_
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [An explosion at a sports centre in the Belgian town of Chimay kills one person and injures another four. A gas explosion is suspected to be the cause. ](/news/2016/08/26/an-explosion-at-a-sports-centre-in-the-belgian-town-of-chimay-kills-one-person-and-injures-another-four-a-gas-explosion-is-suspected-to-be.md)
-_Context: Belgium, Chimay_
+_Context: Belgian, Chimay_
 
 ### [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md)
 One of more than 1000 aftershocks has cut off a key route into earthquake-stricken Italian town Amatrice as the death toll rises even further.

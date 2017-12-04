@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.html)  [JSON](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.json)  [XML](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.xml)  
+
 ### [2016-08-23](/news/2016/08/23/index.md)
 
 # In response to the annual military drills, North Korea threatens to destroy Seoul and Washington, D.C. through nuclear weapons if provoked. Both South Korea and the United States insist the drills are for defense. 
@@ -5,10 +8,10 @@
 NORTH Korea has issued a fresh warning to Seoul and Washington, threatening a huge nuclear attack if provoked.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/world/asia/north-korea-threatens-to-turn-washington-and-seoul-into-a-heap-of-ash/news-story/f1851e5cde3ef6cf88697b57a8a1f11f)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-mines-idUSKCN10Y0YO)
+2. [Reuters](https://www.reuters.com/article/us-northkorea-mines-idUSKCN10Y0YO)
 3. [Yonhap](http://english.yonhapnews.co.kr/news/2016/08/23/0200000000AEN20160823007200315.html?input=www.tweeter.com)
 3. [Cover Image](http://cdn.newsapi.com.au/image/v1/bb3604c343649e3bbce0f21901cca361)
 

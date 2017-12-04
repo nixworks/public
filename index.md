@@ -15,6 +15,9 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 ### [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md)
 _Context: 2017 North Korea crisis, South Korea, United States, drill_
 
+### [France asks to put on the Council of the European Union finance ministers' agenda the concern that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-asks-to-put-on-the-council-of-the-european-union-finance-ministers-agenda-the-concern-that-the-current-version-of-the-united-states.md)
+_Context: Council of the European Union, France, Tax Cuts and Jobs Act of 2017, United States, finance minister, value added_
+
 ---
 
 ## [Yesterday](/news/2017/12/3/index.md)
@@ -37,7 +40,7 @@ Netanyahu and his family are suspected of accepting expensive gifts in return fo
 ### [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md)
 The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to Cairo.
 
-### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-corsican-assembly-elections-preceding-the-replacement-of-the.md)
+### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md)
 _Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
 
 ### [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md)

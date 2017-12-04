@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/30/american-singer-chris-brown-is-arrested-on-suspicion-on-assault-with-a-deadly-weapon-following-a-lengthy-stand-off-with-the-los-angeles-poli.html)  [JSON](/news/2016/08/30/american-singer-chris-brown-is-arrested-on-suspicion-on-assault-with-a-deadly-weapon-following-a-lengthy-stand-off-with-the-los-angeles-poli.json)  [XML](/news/2016/08/30/american-singer-chris-brown-is-arrested-on-suspicion-on-assault-with-a-deadly-weapon-following-a-lengthy-stand-off-with-the-los-angeles-poli.xml)  
+
 ### [2016-08-30](/news/2016/08/30/index.md)
 
 # American singer Chris Brown is arrested on suspicion on assault with a deadly weapon following a lengthy stand-off with the Los Angeles Police Department. 
@@ -5,7 +8,7 @@
 Chris Brown was released on $250,000 bail Tuesday night after he was booked on charges of assault with a deadly weapon, following an hours-long standoff between the singer and officers at his Los Angeles...
 
 
-### Source:
+### Sources:
 
 1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Investigation-LAPD-Tarzana-Chris-Brown-391749091.html?_osource=SocialFlowTwt_LABrand)
 1. [Cover Image](http://media.nbclosangeles.com/images/1200*675/ChrisBrown-AP_794273932217.jpg)

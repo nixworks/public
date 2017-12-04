@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.html)  [JSON](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.json)  [XML](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.xml)  
+
 ### [2016-08-24](/news/2016/08/24/index.md)
 
 # A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. 
@@ -5,14 +8,19 @@
 The earthquake that struck central Italy on Wednesday has killed at least 247 people, the country&#39;s civil protection agency said in the early hours of Thursday, doubling the count of the previous evening.
 
 
-### Source:
+### Sources:
 
 1. [ANSA](http://www.ansa.it/english/news/general_news/2016/08/24/at-least-21-dead-in-6.0-earthquake_63a1ac6f-acc9-4639-a8d9-718bf6415bb9.html)
 2. [AP via ''San Diego Union Tribune](http://www.sandiegouniontribune.com/news/2016/aug/23/mayor-of-quake-hit-amatrice-in-italy-says/)
 3. [BBC News](http://www.bbc.com/news/world-europe-37171953)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/24/italy-quake-64-magnitude-tremor-rocks-perugia/)
-5. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d#dyfi)
+5. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d#dyfi)
 5. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/j/z/jznnhpnte6rppmrindlo3nq179yr3qtf-xlarge.jpg)
+
+### Changes:
+
+1. [2016 Central Italy earthquake: A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/2016-central-italy-earthquake-a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatric.md) _2017-08-27 03:46:42 (First version)_
+1. [A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.md) _(Current version)_
 
 ### Related:
 
@@ -21,8 +29,3 @@ The earthquake that struck central Italy on Wednesday has killed at least 247 pe
 3. [A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. ](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.md) _Context: Central Italy_
 4. [Officials report the death toll is at least 290 people with at least 10 others still missing. ](/news/2016/08/28/officials-report-the-death-toll-is-at-least-290-people-with-at-least-10-others-still-missing.md) _Context: 2016 Central Italy earthquake_
 5. [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md) _Context: 2016 Central Italy earthquake_
-
-### Changes:
-
-1. [2016 Central Italy earthquake: A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/2016-central-italy-earthquake-a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatric.md) _2017-08-27 03:46:42 (First version)_
-1. [A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.md) _(Current version)_

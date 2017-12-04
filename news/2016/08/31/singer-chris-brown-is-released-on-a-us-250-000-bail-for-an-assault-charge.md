@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.html)  [JSON](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.json)  [XML](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.xml)  
+
 ### [2016-08-31](/news/2016/08/31/index.md)
 
 # Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Billboard](http://www.billboard.com/articles/columns/hip-hop/7494683/chris-brown-released-from-jail-250k-bail-assault-deadly-weapon)
 

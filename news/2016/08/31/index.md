@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/08/31/index.html)  [JSON](2016/08/31/index.json)  [XML](2016/08/31/index.xml)  
+
 ## [2016-08-31](/news/2016/08/31/index.md)
 
 ### [Mother Teresa of Calcutta is to be canonized into sainthood after "proof" of two miracles. ](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-into-sainthood-after-proof-of-two-miracles.md)
 _Context: Calcutta, Mother Teresa_
 
 ### [Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. ](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.md)
-_Context: Japan Self-Defense Force, Prime Minister of Japan, Shinzo Abe_
+Missile defenses are a major focus amid challenges from North Korea and China. But the budget proposal is a test of Japan’s commitment to pacifism.
 
 ### [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md)
 Twelve people are taken to hospital after transatlantic turbulence prompts an emergency landing at Shannon Airport.
@@ -13,7 +16,7 @@ Twelve people are taken to hospital after transatlantic turbulence prompts an em
 _Context: Hokkaido, Honshu Island, Japan, Typhoon Lionrock_
 
 ### [The National Hurricane Center declares a hurricane watch and tropical storm warning from the Anclote River, north of Tampa, to Destin, Florida, near the Georgia border. Hermine, now at 45 mph (75 km), is expected to reach hurricane strength when it makes landfall Thursday afternoon. Florida Governor Rick Scott, with life-threatening flooding forecast, declares a state of emergency. ](/news/2016/08/31/the-national-hurricane-center-declares-a-hurricane-watch-and-tropical-storm-warning-from-the-anclote-river-north-of-tampa-to-destin-flori.md)
-_Context: Anclote River, Destin, Florida, Florida Governor, Georgia, National Hurricane Center, Rick Scott, Tampa, Tropical Storm Hermine_
+_Context: Anclote River, Destin, Florida, Florida Governor, Georgia, National Hurricane Center, Rick Scott, Tampa, Florida, Tropical Storm Hermine_
 
 ### [At least five people are killed after two small planes collide near Russian Mission, Alaska. Officials from the Alaska Army National Guard say the planes involved were a Cessna 208 Caravan and a Piper PA-18 Super Cub. ](/news/2016/08/31/at-least-five-people-are-killed-after-two-small-planes-collide-near-russian-mission-alaska-officials-from-the-alaska-army-national-guard-s.md)
 Alaska State Troopers say all those on board two small planes died in a midair collision in the western part of the state.
@@ -22,13 +25,13 @@ Alaska State Troopers say all those on board two small planes died in a midair c
 The Silicon Valley blood-testing company suffers another setback
 
 ### [The first commercial flight from the United States to Cuba since 1961 takes place as "JetBlue Flight 387" lands in Santa Clara, Villa Clara province, after a 51-minute flight from Fort Lauderdale, Florida. "JetBlue Flight 387" had 150 passengers, including United States Secretary of Transportation Anthony Foxx. ](/news/2016/08/31/the-first-commercial-flight-from-the-united-states-to-cuba-since-1961-takes-place-as-jetblue-flight-387-lands-in-santa-clara-villa-clara.md)
-The flight from Fort Lauderdale to Santa Clara in central Cuba on Wednesday morning took only 51 minutes.
+_Context: Anthony Foxx, Cuba, Cuba-United States relations, Fort Lauderdale, Florida, JetBlue, Santa Clara, Secretary of Transportation, United States, United States-Cuban Thaw, Villa Clara_
 
 ### [The Philippines says it won't have bilateral talks with China until the Chinese stop all provocations in the South China Sea. ](/news/2016/08/31/the-philippines-says-it-won-t-have-bilateral-talks-with-china-until-the-chinese-stop-all-provocations-in-the-south-china-sea.md)
 MANILA -- China must cease all provocations in the South China Sea before the Philippines will agree to bilateral talks, Philippine Secretary of Forei
 
 ### [U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexico-city-after-accepting-an-invitat.md)
-_Context: Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican_
 
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
 _Context: $, Chris Brown_

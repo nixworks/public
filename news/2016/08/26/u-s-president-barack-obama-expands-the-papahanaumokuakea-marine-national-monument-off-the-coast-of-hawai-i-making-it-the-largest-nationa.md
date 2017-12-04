@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.html)  [JSON](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.json)  [XML](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # U.S. President Barack Obama expands the Papahanaumokuakea Marine National Monument off the coast of Hawai'i, making it the largest national park on the planet. 
@@ -5,7 +8,7 @@
 A biologically rich national marine monument grows to more than half a million square miles.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/politics/obama-to-create-the-largest-protected-place-on-the-planet-off-hawaii/2016/08/25/54ecb632-6aec-11e6-99bf-f0cf3a6449a6_story.html)
 

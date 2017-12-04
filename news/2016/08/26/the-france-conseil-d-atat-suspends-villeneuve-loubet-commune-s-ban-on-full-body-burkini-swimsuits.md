@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.html)  [JSON](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.json)  [XML](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. 
@@ -5,20 +8,20 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-religion-burqa-france-idUSKCN1111J5)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160826&t=2&i=1151182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7P11K)
-
-### Related:
-
-1. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
-2. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
-3. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
-4. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
-5. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
+1. [Reuters](https://www.reuters.com/article/us-religion-burqa-france-idUSKCN1111J5)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160826&t=2&i=1151182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7P11K)
 
 ### Changes:
 
 1. [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-on-full-body-burkini-swimsuits.md) _2017-07-23 03:47:26 (First version)_
 1. [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.md) _(Current version)_
+
+### Related:
+
+1. [France asks to put on the Council of the European Union finance ministers' agenda the concern that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-asks-to-put-on-the-council-of-the-european-union-finance-ministers-agenda-the-concern-that-the-current-version-of-the-united-states.md) _Context: France_
+2. [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md) _Context: France_
+3. [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md) _Context: France_
+4. [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md) _Context: France_
+5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_

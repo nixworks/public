@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.html)  [JSON](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.json)  [XML](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.xml)  
+
 ### [2016-08-26](/news/2016/08/26/index.md)
 
 # Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-bridge-idUSKCN1111QZ)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160826&t=2&i=1151187948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7P14G)
+1. [Reuters](https://www.reuters.com/article/us-turkey-bridge-idUSKCN1111QZ)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160826&t=2&i=1151187948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7P14G)
 
 ### Related:
 
