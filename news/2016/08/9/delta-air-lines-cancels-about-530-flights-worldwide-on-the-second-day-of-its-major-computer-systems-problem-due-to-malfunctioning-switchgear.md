@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/9/delta-air-lines-cancels-about-530-flights-worldwide-on-the-second-day-of-its-major-computer-systems-problem-due-to-malfunctioning-switchgear.html)  [JSON](/news/2016/08/9/delta-air-lines-cancels-about-530-flights-worldwide-on-the-second-day-of-its-major-computer-systems-problem-due-to-malfunctioning-switchgear.json)  [XML](/news/2016/08/9/delta-air-lines-cancels-about-530-flights-worldwide-on-the-second-day-of-its-major-computer-systems-problem-due-to-malfunctioning-switchgear.xml)  
+
 ### [2016-08-9](/news/2016/08/9/index.md)
 
 # Delta Air Lines cancels about 530 flights worldwide on the second day of its major computer systems problem due to malfunctioning switchgear. 
@@ -5,10 +8,10 @@
 Delta Air Lines (DAL.N) faces a &quot;time-consuming process&quot; to restore normal operations and get stranded passengers to their destinations after a power outage caused more than 1,600 flight cancellations over two days, a top executive said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-delta-air-outages-idUSKCN10K104)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160809&t=2&i=1148924236&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC780JQ)
+1. [Reuters](https://www.reuters.com/article/us-delta-air-outages-idUSKCN10K104)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160809&t=2&i=1148924236&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC780JQ)
 
 ### Related:
 

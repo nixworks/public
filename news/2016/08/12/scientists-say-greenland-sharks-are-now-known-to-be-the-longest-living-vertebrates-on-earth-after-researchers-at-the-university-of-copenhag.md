@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/12/scientists-say-greenland-sharks-are-now-known-to-be-the-longest-living-vertebrates-on-earth-after-researchers-at-the-university-of-copenhag.html)  [JSON](/news/2016/08/12/scientists-say-greenland-sharks-are-now-known-to-be-the-longest-living-vertebrates-on-earth-after-researchers-at-the-university-of-copenhag.json)  [XML](/news/2016/08/12/scientists-say-greenland-sharks-are-now-known-to-be-the-longest-living-vertebrates-on-earth-after-researchers-at-the-university-of-copenhag.xml)  
+
 ### [2016-08-12](/news/2016/08/12/index.md)
 
 # Scientists say Greenland sharks are now known to be the longest-living vertebrates on Earth, after researchers at the University of Copenhagen, using radiocarbon dating, determined the ages of 28 of the animals, and estimated that one female was about 400 years old. The former vertebrate record-holder was a Bowhead whale estimated to be 211 years old. 
@@ -5,7 +8,7 @@
 Scientists say they have found a Greenland shark that is about 400 years old - making it the longest-living vertebrate known.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-37047168)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/72E7/production/_90751492_nielsen2hr.jpg)

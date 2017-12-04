@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/15/index.html)  [JSON](2016/08/15/index.json)  [XML](2016/08/15/index.xml)  
+
 ## [2016-08-15](/news/2016/08/15/index.md)
 
 ### [An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors-without-borders.md)
@@ -7,7 +10,7 @@ An air strike hits a hospital run by Medecins Sans Frontieres (MSF) in northern 
 At least five people die and thousands are rescued as &quot;historic&quot; flooding swamps the US state of Louisiana.
 
 ### [An Olympics aerial camera and its cables fall sixty-five feet, injuring seven people. ](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-sixty-five-feet-injuring-seven-people.md)
-Olympic Broadcasting Services says &quot;full investigation&quot; underway
+_Context: Olympics_
 
 ### [Heavy rainfall causes multiple bus crashes that kill at least 40 people and injure 86 in the Kavrepalanchowk bus crashes. ](/news/2016/08/15/heavy-rainfall-causes-multiple-bus-crashes-that-kill-at-least-40-people-and-injure-86-in-the-kavrepalanchowk-bus-crashes.md)
 _Context: Kavrepalanchowk bus crashes_
@@ -22,7 +25,7 @@ A man who died after being Tasered by police in Telford, Shropshire, has been na
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.
 
 ### [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md)
-_Context: Guantanamo Bay Detention Camp, Obama Administration, United Arab Emirates_
+_Context: Guantanamo Bay Detention Camp, Obama administration, U.A.E._
 
 ## [Previous Day...](/news/2016/08/14/index.md)
 

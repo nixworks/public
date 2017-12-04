@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.html)  [JSON](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.json)  [XML](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.xml)  
+
 ### [2016-08-10](/news/2016/08/10/index.md)
 
 # Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-impeachment-vote-idUSKCN10L0HO)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160810&t=2&i=1149160563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC791NO)
+1. [Reuters](https://www.reuters.com/article/us-brazil-impeachment-vote-idUSKCN10L0HO)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160810&t=2&i=1149160563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC791NO)
+
+### Changes:
+
+1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-o.md) _2017-08-27 03:46:38 (First version)_
+1. [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md) _Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President_
 4. [The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-the-parliament-to-begin-impeachment-procedure.md) _Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President_
 5. [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md) _Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President_
-
-### Changes:
-
-1. [Impeachment process against Dilma Rousseff: Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/impeachment-process-against-dilma-rousseff-brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-o.md) _2017-08-27 03:46:38 (First version)_
-1. [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md) _(Current version)_

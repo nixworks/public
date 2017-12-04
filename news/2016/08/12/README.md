@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/08/12/index.html)  [JSON](2016/08/12/index.json)  [XML](2016/08/12/index.xml)  
+
 ## [2016-08-12](/news/2016/08/12/index.md)
 
 ### [A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.md)
-_Context: August 2016 Thailand bombings, Thailand_
+The stricken areas included the coastal resort of Hua Hin and the island of Phuket. A Thai official called the attacks the work of “the same network.”
 
 ### [U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.md)
 Khalidi and Lisa Barrington

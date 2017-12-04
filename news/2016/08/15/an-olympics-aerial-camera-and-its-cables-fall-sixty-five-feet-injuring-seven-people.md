@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-sixty-five-feet-injuring-seven-people.html)  [JSON](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-sixty-five-feet-injuring-seven-people.json)  [XML](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-sixty-five-feet-injuring-seven-people.xml)  
+
 ### [2016-08-15](/news/2016/08/15/index.md)
 
 # An Olympics aerial camera and its cables fall sixty-five feet, injuring seven people. 
 
-Olympic Broadcasting Services says &quot;full investigation&quot; underway
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/15/camera-fall-olympic-park-rio/88765972/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/15/camera-fall-olympic-park-rio/88765972/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

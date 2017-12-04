@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/17/judge-keyla-blanc-of-brazil-s-special-tribunal-for-fans-and-major-events-orders-brazil-police-to-question-u-s-swimmer-ryan-lochte-over-in.html)  [JSON](/news/2016/08/17/judge-keyla-blanc-of-brazil-s-special-tribunal-for-fans-and-major-events-orders-brazil-police-to-question-u-s-swimmer-ryan-lochte-over-in.json)  [XML](/news/2016/08/17/judge-keyla-blanc-of-brazil-s-special-tribunal-for-fans-and-major-events-orders-brazil-police-to-question-u-s-swimmer-ryan-lochte-over-in.xml)  
+
 ### [2016-08-17](/news/2016/08/17/index.md)
 
 # Judge Keyla Blanc, of Brazil's Special Tribunal for Fans and Major Events, orders Brazil police to question U.S. swimmer Ryan Lochte over inconsistencies describing the armed robbery of himself and three other American Olympians. Gunnar Bentz and Jack Conger are later removed from a plane returning to the United States. 
@@ -5,11 +8,11 @@
 Brazilian police stopped two U.S. Olympic swimmers from boarding a flight home on Wednesday to question them about how they and two team mates were robbed at gunpoint in Rio de Janeiro at the weekend, after a judge raised doubts over their accounts.
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.dailytelegraph.com.au/sport/olympics-2016/brazilian-judge-orders-seizing-of-ryan-lochtes-passport-and-casts-doubt-over-claims-of-robbery-in-rio/news-story/5d051b01a84a39fe813dda39667a1d66)
-2. [Reuters](http://www.reuters.com/article/us-olympics-rio-lochte-order-idUSKCN10S1GK)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20160818&t=2&i=1150198580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7H121)
+2. [Reuters](https://www.reuters.com/article/us-olympics-rio-lochte-order-idUSKCN10S1GK)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160818&t=2&i=1150198580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7H121)
 
 ### Related:
 

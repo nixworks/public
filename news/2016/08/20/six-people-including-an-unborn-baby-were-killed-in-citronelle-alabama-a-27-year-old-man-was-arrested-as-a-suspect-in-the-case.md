@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/20/six-people-including-an-unborn-baby-were-killed-in-citronelle-alabama-a-27-year-old-man-was-arrested-as-a-suspect-in-the-case.html)  [JSON](/news/2016/08/20/six-people-including-an-unborn-baby-were-killed-in-citronelle-alabama-a-27-year-old-man-was-arrested-as-a-suspect-in-the-case.json)  [XML](/news/2016/08/20/six-people-including-an-unborn-baby-were-killed-in-citronelle-alabama-a-27-year-old-man-was-arrested-as-a-suspect-in-the-case.xml)  
+
 ### [2016-08-20](/news/2016/08/20/index.md)
 
 #  Six people, including an unborn baby, were killed in Citronelle, Alabama. A 27-year-old man was arrested as a suspect in the case. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/08/21/us/alabama-citronelle-killings-baby-survives/index.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/16/barnes-noble-fires-ceo-ronald-boire-after-less-than-a-year-in-the-job-executive-chairman-and-company-founder-leonard-riggio-who-is-postp.html)  [JSON](/news/2016/08/16/barnes-noble-fires-ceo-ronald-boire-after-less-than-a-year-in-the-job-executive-chairman-and-company-founder-leonard-riggio-who-is-postp.json)  [XML](/news/2016/08/16/barnes-noble-fires-ceo-ronald-boire-after-less-than-a-year-in-the-job-executive-chairman-and-company-founder-leonard-riggio-who-is-postp.xml)  
+
 ### [2016-08-16](/news/2016/08/16/index.md)
 
 # Barnes & Noble fires CEO Ronald Boire after less than a year in the job. Executive Chairman and company founder Leonard Riggio, who is postponing his September retirement, will assume Boire's duties. 
@@ -5,11 +8,11 @@
 Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, after less than a year at the helm, as its board had decided he was not a &quot;good fit&quot; for the bookstore chain operator.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-barnes-noble-moves-ceo-idUSKCN10R2BV?il=0)
-2. [USA Today](http://www.usatoday.com/story/money/business/2016/08/16/barnes-noble-fires-ceo/88867342/)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160816&t=2&i=1149945170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7F1JB)
+1. [Reuters](https://www.reuters.com/article/us-barnes-noble-moves-ceo-idUSKCN10R2BV?il=0)
+2. [USA Today](https://www.usatoday.com/story/money/business/2016/08/16/barnes-noble-fires-ceo/88867342/)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160816&t=2&i=1149945170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7F1JB)
 
 ### Related:
 

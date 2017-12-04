@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.html)  [JSON](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.json)  [XML](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.xml)  
+
 ### [2016-08-15](/news/2016/08/15/index.md)
 
 # Pennsylvania Attorney General Kathleen Kane is convicted of perjury and obstruction of justice. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [WCAU-TV](http://www.nbcphiladelphia.com/news/local/Kathleen-Kane-Trial-Perjury-Closing-Arguments-Jury-390168381.html)
 1. [Cover Image](http://media.nbcphiladelphia.com/images/1200*675/Kathleen-Kane-Trial.jpg)

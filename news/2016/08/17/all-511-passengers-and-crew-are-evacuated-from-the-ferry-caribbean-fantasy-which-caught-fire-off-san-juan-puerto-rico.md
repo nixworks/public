@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.html)  [JSON](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.json)  [XML](/news/2016/08/17/all-511-passengers-and-crew-are-evacuated-from-the-ferry-caribbean-fantasy-which-caught-fire-off-san-juan-puerto-rico.xml)  
+
 ### [2016-08-17](/news/2016/08/17/index.md)
 
 # All 511 passengers and crew are evacuated from the ferry "Caribbean Fantasy" which caught fire off San Juan, Puerto Rico. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [World Maritime News](http://worldmaritimenews.com/archives/199820/uscg-ferry-on-fire-off-san-juan-puerto-rico/)
 1. [Cover Image](http://worldmaritimenews.com/wp-content/uploads/2016/08/USCG2.jpg)

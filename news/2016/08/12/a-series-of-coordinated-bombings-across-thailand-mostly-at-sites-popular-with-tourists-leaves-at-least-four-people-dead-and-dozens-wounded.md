@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.html)  [JSON](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.json)  [XML](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.xml)  
+
 ### [2016-08-12](/news/2016/08/12/index.md)
 
 # A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. 
 
+The stricken areas included the coastal resort of Hua Hin and the island of Phuket. A Thai official called the attacks the work of “the same network.”
 
 
+### Sources:
 
-### Source:
+1. [The New York Times](https://www.nytimes.com/2016/08/12/world/asia/thailand-bombings-hua-hin-phuket.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/08/12/multimedia/12thailand-presser/12thailand-presser-facebookJumbo.jpg)
 
-1. [The New York Times](http://www.nytimes.com/2016/08/12/world/asia/thailand-bombings-hua-hin-phuket.html)
+### Changes:
+
+1. [August 2016 Thailand bombings: A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/august-2016-thailand-bombings-a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four.md) _2017-08-27 03:46:39 (First version)_
+1. [A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Thailand_
 4. [Former Thai Prime Minister Yingluck Shinawatra is sentenced to five years in prison "in absentia". ](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-is-sentenced-to-five-years-in-prison-in-absentia.md) _Context: Thailand_
 5. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _Context: Thailand_
-
-### Changes:
-
-1. [August 2016 Thailand bombings: A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/august-2016-thailand-bombings-a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four.md) _2017-08-27 03:46:39 (First version)_
-1. [A series of coordinated bombings across Thailand, mostly at sites popular with tourists, leaves at least four people dead and dozens wounded. No group has claimed responsibility for the attacks. ](/news/2016/08/12/a-series-of-coordinated-bombings-across-thailand-mostly-at-sites-popular-with-tourists-leaves-at-least-four-people-dead-and-dozens-wounded.md) _(Current version)_

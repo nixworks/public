@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.html)  [JSON](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.json)  [XML](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.xml)  
+
 ### [2016-08-18](/news/2016/08/18/index.md)
 
 # U.S. District Judge Jane Triche Milazzo sentences former NFL player Darren Sharper to 18 years in prison in rape and drugging case involving as many as 16 women in several U.S. states. 
@@ -5,7 +8,7 @@
 Former American football star Darren Sharper is sentenced to 18 years in prison in a rape case involving as many as 16 women in several US states.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37126610)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/44C4/production/_90840671_hi034802345.jpg)

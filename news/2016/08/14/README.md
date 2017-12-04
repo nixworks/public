@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/14/index.html)  [JSON](2016/08/14/index.json)  [XML](2016/08/14/index.xml)  
+
 ## [2016-08-14](/news/2016/08/14/index.md)
 
 ### [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way-in.md)
@@ -19,7 +22,7 @@ Bus carrying wedding guests fell into a ravine in Pakistan-administered Azad Kas
 Firefighters are battling to control a Northern California blaze that destroyed at least 175 homes and businesses as it grew to 4,000 acres and forced 4,000 people from their homes.
 
 ### [American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. ](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.md)
-_Context: American, Gunnar Bentz, Jack Conger, Jimmy Feigen, Olympic, Rio de Janeiro, Ryan Lochte, police_
+The swimmers’ taxi was stopped by men posing as police officers, the U.S. Olympic Committee said, although Lochte had initially denied the incident.
 
 ### [HEI Hotels & Resorts, a firm that operates hotels for Hyatt, Intercontinental, Marriott, and Starwood, reports that malware designed to collect payment information was discovered on computers at 20 of their locations across the United States. ](/news/2016/08/14/hei-hotels-resorts-a-firm-that-operates-hotels-for-hyatt-intercontinental-marriott-and-starwood-reports-that-malware-designed-to-coll.md)
 A data breach at 20 U.S. hotels operated by HEI Hotels & Resorts for Starwood, Marriott, Hyatt and Intercontinental may have divulged payment card data from tens of thousands of food, drink and other transactions, HEI said on Sunday.

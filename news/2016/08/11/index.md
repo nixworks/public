@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/11/index.html)  [JSON](2016/08/11/index.json)  [XML](2016/08/11/index.xml)  
+
 ## [2016-08-11](/news/2016/08/11/index.md)
 
 ### [Two bombs hidden in plant pots explode killing at least one person and injuring 10 others, including foreign tourists, in Hua Hin District, Thailand. ](/news/2016/08/11/two-bombs-hidden-in-plant-pots-explode-killing-at-least-one-person-and-injuring-10-others-including-foreign-tourists-in-hua-hin-district.md)
@@ -19,7 +22,7 @@ An explosion at a power plant in China killed at least 21 people and injured fiv
 Arianna Huffington, co-founder of digital media website Huffington Post, on Thursday said she will leave the publication in the coming weeks.
 
 ### [ Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. ](/news/2016/08/11/voters-go-to-the-polls-to-elect-a-president-and-the-unicameral-national-assembly-and-on-proposed-amendments-to-the-bill-of-rights-and-arti.md)
-_Context: Edgar Lungu, Hakainde Hichilema, President, United Party for National Development, Zambian constitutional referendum, 2016, bill of rights, unicameral_
+President Edgar Lungu, who won a special election last year, is seeking a full term in a country whose copper-reliant economy has been hurt by weaker demand from China.
 
 ### [The 2016 Perseid meteor shower peaks tonight. ](/news/2016/08/11/the-2016-perseid-meteor-shower-peaks-tonight.md)
 The online astronomy service Slooh will provide a live webcast of the annular solar eclipse of Sunday, Feb. 26 , and you can watch it live here, courtesy of Slooh.

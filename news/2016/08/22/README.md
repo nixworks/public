@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/22/index.html)  [JSON](2016/08/22/index.json)  [XML](2016/08/22/index.xml)  
+
 ## [2016-08-22](/news/2016/08/22/index.md)
 
 ### [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md)

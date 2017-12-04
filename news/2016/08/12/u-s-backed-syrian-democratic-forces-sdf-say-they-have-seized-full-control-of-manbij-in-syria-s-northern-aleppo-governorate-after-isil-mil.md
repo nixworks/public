@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.html)  [JSON](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.json)  [XML](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.xml)  
+
 ### [2016-08-12](/news/2016/08/12/index.md)
 
 # U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. 
@@ -5,11 +8,16 @@
 Khalidi and Lisa Barrington
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-islamic-state-idUSKCN10N178?il=0)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-islamic-state-idUSKCN10N178?il=0)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/12/syrian-white-helmet-who-saved-miracle-baby-is-killed-in-aleppo-a/)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160812&t=2&i=1149472420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7B1N4)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160812&t=2&i=1149472420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7B1N4)
+
+### Changes:
+
+1. [Syrian Civil War: U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/syrian-civil-war-u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governor.md) _2017-08-27 03:46:39 (First version)_
+1. [U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Khalidi and Lisa Barrington
 3. [A newly formed U.S.-backed Syrian rebel alliance, Democratic Forces of Syria, launches an offensive against Islamic State forces in the northeast province of Hasaka. ](/news/2015/10/31/a-newly-formed-u-s-backed-syrian-rebel-alliance-democratic-forces-of-syria-launches-an-offensive-against-islamic-state-forces-in-the-nort.md) _Context: ISIL, Syria, Syrian Civil War, Syrian Democratic Forces, United States_
 4. [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam". ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md) _Context: ISIL, Syrian Civil War, Syrian Democratic Forces, United States_
 5. [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md) _Context: ISIL, Syria, Syrian Civil War, Syrian Democratic Forces_
-
-### Changes:
-
-1. [Syrian Civil War: U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/syrian-civil-war-u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governor.md) _2017-08-27 03:46:39 (First version)_
-1. [U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.md) _(Current version)_

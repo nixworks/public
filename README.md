@@ -6,8 +6,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md)
 A foreign aid scheme is suspended by the government, following a BBC Panorama investigation.
 
-### [Jordan's foreign minister Ayman Safadi has warned the US of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-us-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
+### [Malta arrests 10 people over the October 16 murder of investigative journalist Daphne Caruana Galizia. ](/news/2017/12/4/malta-arrests-10-people-over-the-october-16-murder-of-investigative-journalist-daphne-caruana-galizia.md)
+_Context: Daphne Caruana Galizia, Malta_
+
+### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
 The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20...
+
+### [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md)
+_Context: 2017 North Korea crisis, South Korea, United States, drill_
 
 ---
 
@@ -21,6 +27,9 @@ _Context: Nicolas Maduro, Petro, Venezuela, cryptocurrency, socioeconomic crisis
 
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
 _Context: South Korea, Yeongheung Island_
+
+### [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md)
+_Context: Communist Party of China, General Secretary of the Communist Party of China, History of the Communist Party of China, Xi Jinping_
 
 ### [In Tel Aviv, up to 20,000 people demonstrate in front of the home of the Attorney General of Israel, Avichai Mandelblit, against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-tel-aviv-up-to-20-000-people-demonstrate-in-front-of-the-home-of-the-attorney-general-of-israel-avichai-mandelblit-against-the-slow-pa.md)
 Netanyahu and his family are suspected of accepting expensive gifts in return for political favors for several wealthy donors, including the Hollywood producer and media magnate Arnon Milchan.

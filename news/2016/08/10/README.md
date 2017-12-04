@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/10/index.html)  [JSON](2016/08/10/index.json)  [XML](2016/08/10/index.xml)  
+
 ## [2016-08-10](/news/2016/08/10/index.md)
 
 ### [Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two-killed-including.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/20/index.html)  [JSON](2016/08/20/index.json)  [XML](2016/08/20/index.xml)  
+
 ## [2016-08-20](/news/2016/08/20/index.md)
 
 ### [A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. ](/news/2016/08/20/a-suicide-bomber-targets-a-kurdish-wedding-celebration-in-the-turkish-city-of-gaziantep-killing-at-least-22-people-and-wounding-94.md)

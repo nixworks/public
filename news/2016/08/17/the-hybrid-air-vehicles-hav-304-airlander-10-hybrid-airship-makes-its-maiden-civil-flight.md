@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/17/the-hybrid-air-vehicles-hav-304-airlander-10-hybrid-airship-makes-its-maiden-civil-flight.html)  [JSON](/news/2016/08/17/the-hybrid-air-vehicles-hav-304-airlander-10-hybrid-airship-makes-its-maiden-civil-flight.json)  [XML](/news/2016/08/17/the-hybrid-air-vehicles-hav-304-airlander-10-hybrid-airship-makes-its-maiden-civil-flight.xml)  
+
 ### [2016-08-17](/news/2016/08/17/index.md)
 
 # The Hybrid Air Vehicles HAV 304 Airlander 10 hybrid airship makes its maiden civil flight. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-37111527)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15286/production/_90826668_d8608be7-e109-4a24-898f-179669a7ac85.jpg)

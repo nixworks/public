@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/18/index.html)  [JSON](2016/08/18/index.json)  [XML](2016/08/18/index.xml)  
+
 ## [2016-08-18](/news/2016/08/18/index.md)
 
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)

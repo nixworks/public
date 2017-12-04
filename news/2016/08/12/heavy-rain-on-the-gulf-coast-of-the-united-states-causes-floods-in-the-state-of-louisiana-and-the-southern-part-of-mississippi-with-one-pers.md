@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/12/heavy-rain-on-the-gulf-coast-of-the-united-states-causes-floods-in-the-state-of-louisiana-and-the-southern-part-of-mississippi-with-one-pers.html)  [JSON](/news/2016/08/12/heavy-rain-on-the-gulf-coast-of-the-united-states-causes-floods-in-the-state-of-louisiana-and-the-southern-part-of-mississippi-with-one-pers.json)  [XML](/news/2016/08/12/heavy-rain-on-the-gulf-coast-of-the-united-states-causes-floods-in-the-state-of-louisiana-and-the-southern-part-of-mississippi-with-one-pers.xml)  
+
 ### [2016-08-12](/news/2016/08/12/index.md)
 
 # Heavy rain on the Gulf Coast of the United States causes floods in the state of Louisiana and the southern part of Mississippi with one person drowning. 
@@ -5,7 +8,7 @@
 Here are the latest details from flooding along the Gulf Coast.
 
 
-### Source:
+### Sources:
 
 1. [Weather](https://weather.com/news/weather/news/gulf-coast-flooding-latest-news)
 1. [Cover Image](http://s.w-x.co/flood2_12.jpg)

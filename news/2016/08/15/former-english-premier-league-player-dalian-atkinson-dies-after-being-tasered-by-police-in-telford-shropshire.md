@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.html)  [JSON](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.json)  [XML](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.xml)  
+
 ### [2016-08-15](/news/2016/08/15/index.md)
 
 # Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. 
@@ -5,9 +8,9 @@
 A man who died after being Tasered by police in Telford, Shropshire, has been named as former Aston Villa footballer Dalian Atkinson. Mr Atkinson died early on Monday morning after officers responded to an alert &quot;for the safety of an individual&quot; at a home in Meadow Close around 1.30am. The 48-year-old was given medical treatment but died about 90 minutes later, West Mercia Police said.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/crime/dalian-atkinson-aston-villa-dead-taser-police-death-telford-footballer-latest-a7191601.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/crime/dalian-atkinson-aston-villa-dead-taser-police-death-telford-footballer-latest-a7191601.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/15/11/dalian-atkinson.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/14/spacex-successfully-launches-japanese-communication-satellite-jcsat-16-into-geostationary-orbit-from-cape-canaveral-air-force-station-in-flo.html)  [JSON](/news/2016/08/14/spacex-successfully-launches-japanese-communication-satellite-jcsat-16-into-geostationary-orbit-from-cape-canaveral-air-force-station-in-flo.json)  [XML](/news/2016/08/14/spacex-successfully-launches-japanese-communication-satellite-jcsat-16-into-geostationary-orbit-from-cape-canaveral-air-force-station-in-flo.xml)  
+
 ### [2016-08-14](/news/2016/08/14/index.md)
 
 # SpaceX successfully launches Japanese communication satellite JCSAT-16 into geostationary orbit from Cape Canaveral Air Force Station in Florida. The Falcon 9 Full Thrust rocket used to place the satellite in orbit successfully landed on an autonomous spaceport drone ship in the Atlantic Ocean. 
@@ -5,7 +8,7 @@
 Space X’s Falcon 9 rocket has taken off from Cape Canaveral with the JCSAT 16 communications satellite in tow. After launching the Japanese satellite into orbit, the rocket landed on a floating drone ship. 
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/usa/355859-falcon-spacex-launch-canaveral/)
 1. [Cover Image](https://img.rt.com/files/2016.08/article/57b0098cc46188f5018b45b7.jpg)

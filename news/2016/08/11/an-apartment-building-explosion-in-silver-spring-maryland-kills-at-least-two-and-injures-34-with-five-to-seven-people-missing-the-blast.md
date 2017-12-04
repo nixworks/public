@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/11/an-apartment-building-explosion-in-silver-spring-maryland-kills-at-least-two-and-injures-34-with-five-to-seven-people-missing-the-blast.html)  [JSON](/news/2016/08/11/an-apartment-building-explosion-in-silver-spring-maryland-kills-at-least-two-and-injures-34-with-five-to-seven-people-missing-the-blast.json)  [XML](/news/2016/08/11/an-apartment-building-explosion-in-silver-spring-maryland-kills-at-least-two-and-injures-34-with-five-to-seven-people-missing-the-blast.xml)  
+
 ### [2016-08-11](/news/2016/08/11/index.md)
 
 # An apartment building explosion in Silver Spring, Maryland, kills at least two and injures 34, with five to seven people missing. The blast has displaced more than 90 residents. Fire and rescue responded to "a smell of gas" on July 25. The cause of the explosion is being investigated. 
@@ -5,7 +8,7 @@
 Thirty-one residents were taken to hospital and up to seven more were missing after an explosion ripped through an apartment building in Maryland.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/maryland-apartment-explosion-30-hurt-7-missing-rubble-n628036)
 2. [The Washington Post](https://www.washingtonpost.com/local/public-safety/firefighters-rescue-multiple-people-from-burning-apartment-complex/2016/08/11/42c76bb4-5f7a-11e6-af8e-54aa2e849447_story.html)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.html)  [JSON](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.json)  [XML](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.xml)  
+
 ### [2016-08-17](/news/2016/08/17/index.md)
 
 # Cisco announces a cut of 5,500 jobs in their shift from switches to software. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-cisco-systems-results-idUSKCN10S26P)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160817&t=2&i=1150071767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7G1BQ)
+1. [Reuters](https://www.reuters.com/article/us-cisco-systems-results-idUSKCN10S26P)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160817&t=2&i=1150071767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC7G1BQ)
 
 ### Related:
 

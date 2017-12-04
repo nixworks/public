@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.html)  [JSON](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.json)  [XML](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.xml)  
+
 ### [2016-08-22](/news/2016/08/22/index.md)
 
 # President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Time'' magazine](http://time.com/4460807/rodrigo-duterte-fires-officials-united-nations-drugs-corruption/)
 

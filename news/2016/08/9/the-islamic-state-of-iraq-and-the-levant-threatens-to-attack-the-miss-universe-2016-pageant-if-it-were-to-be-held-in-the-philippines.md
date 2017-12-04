@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threatens-to-attack-the-miss-universe-2016-pageant-if-it-were-to-be-held-in-the-philippines.html)  [JSON](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threatens-to-attack-the-miss-universe-2016-pageant-if-it-were-to-be-held-in-the-philippines.json)  [XML](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threatens-to-attack-the-miss-universe-2016-pageant-if-it-were-to-be-held-in-the-philippines.xml)  
+
 ### [2016-08-9](/news/2016/08/9/index.md)
 
 # The Islamic State of Iraq and the Levant threatens to attack the Miss Universe 2016 pageant if it were to be held in the Philippines. 
@@ -5,7 +8,7 @@
 Islamic State jihadis in the Philippines are plotting to attack the Miss Universe contest that will be held in their country in 2017, according to a secret jihadi social media channel accessed by The Foreign Desk.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2016/08/08/isis-philippines-branch-calls-for-attacks-on-miss-universe-pageant.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/17/federal-security-service-fsb-officers-kill-at-least-four-suspected-north-caucasus-islamic-militants-during-a-counter-terrorism-raid-on-an.html)  [JSON](/news/2016/08/17/federal-security-service-fsb-officers-kill-at-least-four-suspected-north-caucasus-islamic-militants-during-a-counter-terrorism-raid-on-an.json)  [XML](/news/2016/08/17/federal-security-service-fsb-officers-kill-at-least-four-suspected-north-caucasus-islamic-militants-during-a-counter-terrorism-raid-on-an.xml)  
+
 ### [2016-08-17](/news/2016/08/17/index.md)
 
 # Federal Security Service (FSB) officers kill at least four suspected North Caucasus Islamic militants during a counter-terrorism raid on an apartment building in the Russian city of Saint Petersburg. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-fsb-petersburg-security-raid/27928088.html)
 

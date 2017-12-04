@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/21/a-shooter-wounds-at-least-13-people-at-a-house-party-in-bridgeport-connecticut.html)  [JSON](/news/2016/08/21/a-shooter-wounds-at-least-13-people-at-a-house-party-in-bridgeport-connecticut.json)  [XML](/news/2016/08/21/a-shooter-wounds-at-least-13-people-at-a-house-party-in-bridgeport-connecticut.xml)  
+
 ### [2016-08-21](/news/2016/08/21/index.md)
 
 # A shooter wounds at least 13 people at a house party in Bridgeport, Connecticut. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/08/21/13-people-shot-wounded-at-connecticut-house-party0.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

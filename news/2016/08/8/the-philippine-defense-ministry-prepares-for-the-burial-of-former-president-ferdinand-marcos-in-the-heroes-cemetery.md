@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.html)  [JSON](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.json)  [XML](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.xml)  
+
 ### [2016-08-8](/news/2016/08/8/index.md)
 
 # The Philippine Defense ministry prepares for the burial of former President Ferdinand Marcos in the Heroes' Cemetery. 
@@ -5,7 +8,7 @@
 The Palace confirms preparations for the burial of late dictator Ferdinand Marcos at the Libingan ng mga Bayani are underway
 
 
-### Source:
+### Sources:
 
 1. [GMA News](http://www.gmanetwork.com/news/story/576699/news/nation/defense-chief-tells-afp-to-prepare-marcos-burial-at-libingan-ng-mga-bayani)
 2. [Rappler](http://www.rappler.com/nation/142266-philippines-malacanang-preparations-ferdinand-marcos-burial-libingan-ng-mga-bayani)

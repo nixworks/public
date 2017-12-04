@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/13/six-people-are-injured-by-a-knifeman-who-also-set-fire-to-a-train-at-salez-switzerland.html)  [JSON](/news/2016/08/13/six-people-are-injured-by-a-knifeman-who-also-set-fire-to-a-train-at-salez-switzerland.json)  [XML](/news/2016/08/13/six-people-are-injured-by-a-knifeman-who-also-set-fire-to-a-train-at-salez-switzerland.xml)  
+
 ### [2016-08-13](/news/2016/08/13/index.md)
 
 # Six people are injured by a knifeman who also set fire to a train at Salez, Switzerland. 
@@ -5,7 +8,7 @@
 A knifeman sets fire to a train in eastern Switzerland, leaving six people in hospital with stab wounds and burns, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC News Online](http://www.bbc.co.uk/news/world-europe-37072847)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FE5E/production/_90781156_mediaitem90781155.jpg)

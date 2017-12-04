@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.html)  [JSON](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.json)  [XML](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.xml)  
+
 ### [2016-08-14](/news/2016/08/14/index.md)
 
 # American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. 
 
+The swimmers’ taxi was stopped by men posing as police officers, the U.S. Olympic Committee said, although Lochte had initially denied the incident.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/08/15/sports/olympics/ryan-lochte-and-three-teammates-robbed-at-gunpoint.html)
+1. [The New York Times](https://www.nytimes.com/2016/08/15/sports/olympics/ryan-lochte-and-three-teammates-robbed-at-gunpoint.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/08/15/sports/15LOCHTE/15LOCHTE-facebookJumbo.jpg)
 
 ### Related:
 

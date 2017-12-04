@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/13/index.html)  [JSON](2016/08/13/index.json)  [XML](2016/08/13/index.xml)  
+
 ## [2016-08-13](/news/2016/08/13/index.md)
 
 ### [At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi-group-claims-that-the-saudi-arabia.md)

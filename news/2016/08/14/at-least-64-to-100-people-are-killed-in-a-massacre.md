@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.html)  [JSON](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.json)  [XML](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.xml)  
+
 ### [2016-08-14](/news/2016/08/14/index.md)
 
 # At least 64 to 100 people are killed in a massacre. 
@@ -5,7 +8,7 @@
 At least 64 bodies recovered near Beni town in North Kivu, but local authorities warn death toll could rise.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/08/scores-hacked-death-machete-attack-dr-congo-160814133550565.html)
 

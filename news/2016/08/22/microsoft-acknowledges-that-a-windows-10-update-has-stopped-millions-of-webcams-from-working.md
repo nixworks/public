@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.html)  [JSON](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.json)  [XML](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.xml)  
+
 ### [2016-08-22](/news/2016/08/22/index.md)
 
 # Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. 
@@ -5,7 +8,7 @@
 Millions of people are reporting that a Windows 10 update has stopped their webcams from working.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/technology-37154516)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/3491/production/_90875431_mediaitem90875430.jpg)

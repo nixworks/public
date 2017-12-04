@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.html)  [JSON](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.json)  [XML](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.xml)  
+
 ### [2016-08-8](/news/2016/08/8/index.md)
 
 # Emperor Akihito of Japan says he intends to lessen his official duties due to old age. 
 
-Akihito is the 125th emperor of Japan.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/08/08/japanese-emperor-akihito-addresses-abdication-speculation/88384732/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2016/08/08/japanese-emperor-akihito-addresses-abdication-speculation/88384732/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

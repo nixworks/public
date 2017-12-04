@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/18/mexico-s-national-human-rights-commission-says-22-people-were-executed-by-federal-police-during-the-2015-ecuandureo-shootout-in-the-western.html)  [JSON](/news/2016/08/18/mexico-s-national-human-rights-commission-says-22-people-were-executed-by-federal-police-during-the-2015-ecuandureo-shootout-in-the-western.json)  [XML](/news/2016/08/18/mexico-s-national-human-rights-commission-says-22-people-were-executed-by-federal-police-during-the-2015-ecuandureo-shootout-in-the-western.xml)  
+
 ### [2016-08-18](/news/2016/08/18/index.md)
 
 # Mexico's National Human Rights Commission says 22 people were executed by federal police during the 2015 Ecuandureo shootout in the western state of Michoacan last year. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-37127164)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DB96/production/_90841265_mediaitem90841264.jpg)

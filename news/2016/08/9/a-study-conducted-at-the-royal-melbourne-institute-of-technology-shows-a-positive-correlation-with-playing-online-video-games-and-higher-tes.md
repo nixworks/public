@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.html)  [JSON](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.json)  [XML](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.xml)  
+
 ### [2016-08-9](/news/2016/08/9/index.md)
 
 # A study conducted at the Royal Melbourne Institute of Technology shows a positive correlation with playing online video games and higher test scores in math, science and reading while a negative correlation with social media use. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/08/08/health/video-games-teens/)
 

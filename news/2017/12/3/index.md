@@ -12,6 +12,9 @@ _Context: Nicolas Maduro, Petro, Venezuela, cryptocurrency, socioeconomic crisis
 ### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board of the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-of-t.md)
 _Context: South Korea, Yeongheung Island_
 
+### [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md)
+_Context: Communist Party of China, General Secretary of the Communist Party of China, History of the Communist Party of China, Xi Jinping_
+
 ### [In Tel Aviv, up to 20,000 people demonstrate in front of the home of the Attorney General of Israel, Avichai Mandelblit, against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-tel-aviv-up-to-20-000-people-demonstrate-in-front-of-the-home-of-the-attorney-general-of-israel-avichai-mandelblit-against-the-slow-pa.md)
 Netanyahu and his family are suspected of accepting expensive gifts in return for political favors for several wealthy donors, including the Hollywood producer and media magnate Arnon Milchan.
 

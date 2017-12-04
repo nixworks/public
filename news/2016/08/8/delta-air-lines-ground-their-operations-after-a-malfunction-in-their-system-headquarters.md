@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/8/delta-air-lines-ground-their-operations-after-a-malfunction-in-their-system-headquarters.html)  [JSON](/news/2016/08/8/delta-air-lines-ground-their-operations-after-a-malfunction-in-their-system-headquarters.json)  [XML](/news/2016/08/8/delta-air-lines-ground-their-operations-after-a-malfunction-in-their-system-headquarters.xml)  
+
 ### [2016-08-8](/news/2016/08/8/index.md)
 
 # Delta Air Lines ground their operations after a malfunction in their system headquarters. 
@@ -5,7 +8,7 @@
 Delta Airlines has grounded flights scheduled to leave Monday after experiencing unspecified systems issues.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/ct-delta-flights-grounded-system-outage-20160808-story.html)
 1. [Cover Image](http://www.trbimg.com/img-57a89182/turbine/ct-delta-flights-grounded-system-outage-20160808)

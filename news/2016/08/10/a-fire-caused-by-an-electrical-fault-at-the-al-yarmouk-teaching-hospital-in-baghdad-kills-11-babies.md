@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/10/a-fire-caused-by-an-electrical-fault-at-the-al-yarmouk-teaching-hospital-in-baghdad-kills-11-babies.html)  [JSON](/news/2016/08/10/a-fire-caused-by-an-electrical-fault-at-the-al-yarmouk-teaching-hospital-in-baghdad-kills-11-babies.json)  [XML](/news/2016/08/10/a-fire-caused-by-an-electrical-fault-at-the-al-yarmouk-teaching-hospital-in-baghdad-kills-11-babies.xml)  
+
 ### [2016-08-10](/news/2016/08/10/index.md)
 
 # A fire caused by an electrical fault at the Al-Yarmouk Teaching Hospital in Baghdad kills 11 babies. 
@@ -5,7 +8,7 @@
 The maternity hospital was hit by a blaze early on Wednesday, causing tragedy for dozens of parents.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/iraq-electrical-fire-baghdad-hospital-kills-11-newborn-babies-488952)
 1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2016/08/10/iraq-shia-yarmouk-hosptial.jpg)

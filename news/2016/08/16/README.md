@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/16/index.html)  [JSON](2016/08/16/index.json)  [XML](2016/08/16/index.xml)  
+
 ## [2016-08-16](/news/2016/08/16/index.md)
 
 ### [The Russian Air Force uses an Iranian airbase near Hamadan to launch airstrikes in Syria. ](/news/2016/08/16/the-russian-air-force-uses-an-iranian-airbase-near-hamadan-to-launch-airstrikes-in-syria.md)
@@ -13,7 +16,7 @@ More than 100 stores will eventually occupy 365,000 square feet of retail space 
 Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, after less than a year at the helm, as its board had decided he was not a &quot;good fit&quot; for the bookstore chain operator.
 
 ### [China successfully launches QUESS, the world's first ever quantum-communications quantum key distribution satellite. ](/news/2016/08/16/china-successfully-launches-quess-the-world-s-first-ever-quantum-communications-quantum-key-distribution-satellite.md)
-China launched the first-ever quantum satellite Monday (Aug. 15), in an effort to help develop an unhackable communications system.
+Researchers hope to beam transmissions from space to earth with quantum technology, a type of communication that could prove to be the most secure in the world.
 
 ### [The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. ](/news/2016/08/16/the-town-of-wrightwood-california-is-evacuated-due-to-threats-from-the-blue-cut-fire-burning-in-the-cajon-pass.md)
 Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut Fire that has exploded to 18,000 acres and forced more than 82,000 people out of their homes since it broke out Tuesday morning in the Cajon Pass, officials said. The fire was first reported at 2 acres about 10:55 a.m. ne...

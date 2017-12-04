@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/08/21/index.html)  [JSON](2016/08/21/index.json)  [XML](2016/08/21/index.xml)  
+
 ## [2016-08-21](/news/2016/08/21/index.md)
 
 ### [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md)
 _Context: Al-Shabaab, Galkayo, Puntland, Somalia, War in Somalia (2009-present)_
 
 ### [The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-levant-is-suspected.md)
-_Context: Gaziantep bombing, ISIL_
+_Context: Gaziantep bombing, Islamic State in Iraq and the Levant_
 
 ### [Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. ](/news/2016/08/21/rodrigo-duterte-threatens-to-withdraw-the-philippines-from-its-founding-membership-of-the-united-nations-after-the-international-body-critic.md)
 Philippine President Rodrigo Duterte threatens to &quot;separate&quot; from the UN after it criticised his war on drugs as a crime under international law.
