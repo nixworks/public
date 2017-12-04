@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.html)  [JSON](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.json)  [XML](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.xml)  
+
 ### [2016-07-22](/news/2016/07/22/index.md)
 
 # China begins demolishing buildings and evicting residents at Larung Gar in Tibet, one of the largest religious institutes in the world. Officials put forward overpopulation and security as the leading reasons for the planned action. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/chinese-officials-begin-dismantle-tibetan-study-site-40793473)
 2. [BBC](http://www.bbc.com/news/world-asia-china-36863888)

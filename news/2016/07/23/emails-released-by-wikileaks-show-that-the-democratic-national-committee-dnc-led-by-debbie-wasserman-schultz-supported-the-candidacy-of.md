@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.html)  [JSON](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.json)  [XML](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.xml)  
+
 ### [2016-07-23](/news/2016/07/23/index.md)
 
 # Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. 
@@ -5,7 +8,7 @@
 The emails detail how bitter the relationship became, Bernie Sanders emerged as a real threat Hillary Clinton.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/bernie-sanders-campaign-chief-accountable-dnc-emails-show/story?id=40825318)
 2. [ABC News](http://abcnews.go.com/Politics/emails-released-wikileaks-show-dnc-aid-hillary-clinton/story?id=40815253)
@@ -15,6 +18,11 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 6. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/07/22/on-eve-of-democratic-convention-wikileaks-releases-thousands-of-documents-about-clinton-the-campaign-and-internal-deliberations/)
 6. [Cover Image](http://static01.mediaite.com/med/wp-content/uploads/2015/06/reich.jpg)
 
+### Changes:
+
+1. [2016 Democratic National Committee email leak: Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/2016-democratic-national-committee-email-leak-emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie.md) _2017-08-27 03:46:32 (First version)_
+1. [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md) _(Current version)_
+
 ### Related:
 
 1. [Debbie Wasserman Schultz resigns from her position as Chairperson of the Democratic National Committee. Wasserman Schultz had reportedly been removed from a speaking role after a WikiLeaks email leak proved her implicit support of Hillary Clinton's campaign during the primaries. Her resignation will take effect upon the close of the convention. Donna Brazile will serve as interim chair. ](/news/2016/07/24/debbie-wasserman-schultz-resigns-from-her-position-as-chairperson-of-the-democratic-national-committee-wasserman-schultz-had-reportedly-bee.md) _Context: Debbie Wasserman Schultz, Democratic National Committee, Hillary Clinton, the email leak_
@@ -22,8 +30,3 @@ The emails detail how bitter the relationship became, Bernie Sanders emerged as 
 3. [The Democratic National Committee suspends Vermont Senator Bernie Sanders' presidential campaign's access to its national voter database after a member of his campaign staff took advantage of a software error to review Hillary Clinton's private campaign data. In response, the campaign files a lawsuit. ](/news/2015/12/18/the-democratic-national-committee-suspends-vermont-senator-bernie-sanders-presidential-campaign-s-access-to-its-national-voter-database-aft.md) _Context: Bernie Sanders, Democratic National Committee, Hillary Clinton_
 4. [WikiLeaks announces that it is offering $20,000 for information leading to a conviction in last month's shooting death of 27-year-old Democratic National Committee (DNC) staffer Seth Rich in Bloomingdale, Washington, D.C.. Police say they believe Rich was likely killed in an attempted robbery. ](/news/2016/08/9/wikileaks-announces-that-it-is-offering-20-000-for-information-leading-to-a-conviction-in-last-month-s-shooting-death-of-27-year-old-democr.md) _Context: Democratic National Committee, WikiLeaks_
 5. [Three top staffers leave the Democratic National Committee 100 days before elections in early November as a result of the email leak. ](/news/2016/08/2/three-top-staffers-leave-the-democratic-national-committee-100-days-before-elections-in-early-november-as-a-result-of-the-email-leak.md) _Context: Democratic National Committee, the email leak_
-
-### Changes:
-
-1. [2016 Democratic National Committee email leak: Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/2016-democratic-national-committee-email-leak-emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie.md) _2017-08-27 03:46:32 (First version)_
-1. [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md) _(Current version)_

@@ -1,7 +1,7 @@
-## [2016-07-24](/news/2016/07/24/index.md)
 
-### [At least 21 are killed and more than 35 people injured in a suicide attack at one of the residential entrances to district Kadhimiyah, in northern Baghdad, Iraq. ISIL claims responsibility, as published in its official media. [http:--edition.cnn.com-2016-07-24-middleeast-iraq-baghdad-suicide-bombing-isis- (CNN) ] [http:--www.iraqinews.com-iraq-war-isis-claims-responsibility-for-kadhimiya-bombing- (Iraqi News) ]](/news/2016/07/24/at-least-21-are-killed-and-more-than-35-people-injured-in-a-suicide-attack-at-one-of-the-residential-entrances-to-district-kadhimiyah-in-no.md)
-_Context: Baghdad, ISIL, Iraqi Civil War, Kadhimiyah, Military intervention against ISIL_
+Formats: [HTML](2016/07/24/index.html)  [JSON](2016/07/24/index.json)  [XML](2016/07/24/index.xml)  
+
+## [2016-07-24](/news/2016/07/24/index.md)
 
 ### [Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md)
 A failed Syrian asylum seeker blows himself up and injures 15 other people with a backpack bomb near a festival in the south German town of Ansbach.
@@ -19,7 +19,7 @@ The so-called Sand Fire north of Los Angeles was at 11,000 acres at noon Saturda
 A volcanic eruption has killed 7 in Indonesia.
 
 ### [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.md)
-_Context: Australia, Olympics, Rio de Janeiro, athletes' village_
+The leader of the Australian delegation in Brazil, Kitty Chiller, said the problems prevented the Olympians from moving in to their quarters in the athletes’ village.
 
 ### [Cambodia continues to block consensus in the Association of Southeast Asian Nations meeting. The country has political and economical dependencies with China. ](/news/2016/07/24/cambodia-continues-to-block-consensus-in-the-association-of-southeast-asian-nations-meeting-the-country-has-political-and-economical-depend.md)
 South East Asian nations have released a watered-down statement on the South China Sea that avoids mention of a recent court ruling against Chinese claims.

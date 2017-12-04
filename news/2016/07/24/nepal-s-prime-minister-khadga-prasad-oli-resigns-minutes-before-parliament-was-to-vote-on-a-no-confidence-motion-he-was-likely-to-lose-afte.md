@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/24/nepal-s-prime-minister-khadga-prasad-oli-resigns-minutes-before-parliament-was-to-vote-on-a-no-confidence-motion-he-was-likely-to-lose-afte.html)  [JSON](/news/2016/07/24/nepal-s-prime-minister-khadga-prasad-oli-resigns-minutes-before-parliament-was-to-vote-on-a-no-confidence-motion-he-was-likely-to-lose-afte.json)  [XML](/news/2016/07/24/nepal-s-prime-minister-khadga-prasad-oli-resigns-minutes-before-parliament-was-to-vote-on-a-no-confidence-motion-he-was-likely-to-lose-afte.xml)  
+
 ### [2016-07-24](/news/2016/07/24/index.md)
 
 # Nepal's Prime Minister Khadga Prasad Oli resigns minutes before parliament was to vote on a no confidence motion he was likely to lose, after allies of his multi-party coalition leave the government accusing him of not honoring power sharing deals that helped him assume office in October 2015. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nepal-politics-idUSKCN1040M0?il=0)
+1. [Reuters](https://www.reuters.com/article/us-nepal-politics-idUSKCN1040M0?il=0)
 2. [The Hindu](http://www.thehindu.com/news/international/nepal-prime-minister-oli-resigns-ahead-of-notrust-vote/article8894064.ece)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160724&t=2&i=1146836496&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6N0EQ)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160724&t=2&i=1146836496&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6N0EQ)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.html)  [JSON](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.json)  [XML](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.xml)  
+
 ### [2016-07-24](/news/2016/07/24/index.md)
 
 # Thousands of people in Cambodia attend the funeral of Kem Ley, a critic of the perceived corrupt and authoritarian rule of Hun Sen, who has been in power since 1985. 
@@ -5,7 +8,7 @@
 Tens of thousands of Cambodians pour onto the streets for the funeral procession of a murdered political analyst.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/thousands-attend-funeral-slain-critic-cambodia-leader-40830585)
 2. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2016-07-24/thousands-attend-funeral-of-murdered-cambodian-activist/7656298)

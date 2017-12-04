@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/22/index.html)  [JSON](2016/07/22/index.json)  [XML](2016/07/22/index.xml)  
+
 ## [2016-07-22](/news/2016/07/22/index.md)
 
 ### [Thousands gather in Istanbul's Taksim Square in a show of support for the new powers that President Recep Tayyip Erdogan has received in order to crackdown on dissent following the attempted coup. ](/news/2016/07/22/thousands-gather-in-istanbul-s-taksim-square-in-a-show-of-support-for-the-new-powers-that-president-recep-tayyip-erdoaan-has-received-in-or.md)

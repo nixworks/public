@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/24/the-death-toll-from-the-two-mile-high-mount-sinabung-ash-eruption-saturday-has-risen-to-seven-with-two-others-in-critical-condition-all-vi.html)  [JSON](/news/2016/07/24/the-death-toll-from-the-two-mile-high-mount-sinabung-ash-eruption-saturday-has-risen-to-seven-with-two-others-in-critical-condition-all-vi.json)  [XML](/news/2016/07/24/the-death-toll-from-the-two-mile-high-mount-sinabung-ash-eruption-saturday-has-risen-to-seven-with-two-others-in-critical-condition-all-vi.xml)  
+
 ### [2016-07-24](/news/2016/07/24/index.md)
 
 # The death toll from the two-mile high Mount Sinabung ash eruption Saturday has risen to seven, with two others in critical condition. All victims were working farms in the village of Gamber in the Karo Regency of North Sumatra, within the volcano's "red zone" that Indonesian authorities have declared off-limits. 
@@ -5,7 +8,7 @@
 A volcanic eruption has killed 7 in Indonesia.
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/archive/3-die-as-sumatra-volcano-erupts/982513)
 2. [Weather Channel](https://weather.com/news/news/indonesia-sumatra-mount-sinabung-eruption-may-2016)

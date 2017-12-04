@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.html)  [JSON](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.json)  [XML](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.xml)  
+
 ### [2016-07-24](/news/2016/07/24/index.md)
 
 # The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. 
 
+The leader of the Australian delegation in Brazil, Kitty Chiller, said the problems prevented the Olympians from moving in to their quarters in the athletes’ village.
 
 
+### Sources:
 
-### Source:
+1. [The New York Times](https://www.nytimes.com/2016/07/25/sports/olympics/rio-olympic-village-australia.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/07/25/sports/25village-web/25village-web-facebookJumbo.jpg)
 
-1. [The New York Times](http://www.nytimes.com/2016/07/25/sports/olympics/rio-olympic-village-australia.html)
+### Changes:
+
+1. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-f.md) _2017-08-25 03:46:10 (First version)_
+2. [2016 Summer Olympics: The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/2016-summer-olympics-the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village.md) _2017-08-27 03:46:32 (Update)_
+2. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Three men are arrested for allegedly raping and robbing a foreign tourist on a minibus in Rio de Janeiro, Brazil, amid concerns about security before the country hosts 2014 FIFA World Cup and the 2016 Summer Olympics. ](/news/2013/04/2/three-men-are-arrested-for-allegedly-raping-and-robbing-a-foreign-tourist-on-a-minibus-in-rio-de-janeiro-brazil-amid-concerns-about-securi.md) _Context: Olympics, Rio de Janeiro_
 4. [Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest "favela" or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. ](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de-janeiro-s-biggest-favela-or-slum-in-a-bid-to-clean-the-city-ahead-of-the-2014-fifa-world.md) _Context: Olympics, Rio de Janeiro_
 5. [ The International Olympic Committee awards the 2016 Summer Olympics and the 2016 Summer Paralympics to Rio de Janeiro (Brazil). The other bidding cities were Chicago (United States), Tokyo (Japan) and Madrid (Spain). ](/news/2009/10/2/the-international-olympic-committee-awards-the-2016-summer-olympics-and-the-2016-summer-paralympics-to-rio-de-janeiro-brazil-the-other-b.md) _Context: Olympics, Rio de Janeiro_
-
-### Changes:
-
-1. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-f.md) _2017-08-25 03:46:10 (First version)_
-2. [2016 Summer Olympics: The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/2016-summer-olympics-the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village.md) _2017-08-27 03:46:32 (Update)_
-2. [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-fo.md) _(Current version)_

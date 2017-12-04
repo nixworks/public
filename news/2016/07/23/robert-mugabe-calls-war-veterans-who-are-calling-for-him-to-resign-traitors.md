@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.html)  [JSON](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.json)  [XML](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.xml)  
+
 ### [2016-07-23](/news/2016/07/23/index.md)
 
 # Robert Mugabe calls war veterans, who are calling for him to resign, traitors. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ (''The Washington Post](https://www.washingtonpost.com/world/africa/zimbabwe-probes-veterans-statement-making-break-from-mugabe/2016/07/23/f5e91e48-50c2-11e6-bf27-405106836f96_story.html)
+
+### Changes:
+
+1. [2016 Zimbabwe protests: Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/2016-zimbabwe-protests-robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _2017-08-27 03:46:32 (First version)_
+1. [Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. ](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-continue-despite-police-intimidation-and-pleas-by-president-robert-mugabe-for-them-to-stop.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
 4. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
 5. [Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md) _Context: 2016 Zimbabwe protests, Robert Mugabe_
-
-### Changes:
-
-1. [2016 Zimbabwe protests: Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/2016-zimbabwe-protests-robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _2017-08-27 03:46:32 (First version)_
-1. [Robert Mugabe calls war veterans, who are calling for him to resign, traitors. ](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-calling-for-him-to-resign-traitors.md) _(Current version)_

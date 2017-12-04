@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/23/a-seventeen-square-mile-fire-continues-to-burn-in-santa-clarita-california-near-los-angeles.html)  [JSON](/news/2016/07/23/a-seventeen-square-mile-fire-continues-to-burn-in-santa-clarita-california-near-los-angeles.json)  [XML](/news/2016/07/23/a-seventeen-square-mile-fire-continues-to-burn-in-santa-clarita-california-near-los-angeles.xml)  
+
 ### [2016-07-23](/news/2016/07/23/index.md)
 
 # A seventeen-square mile fire continues to burn in Santa Clarita, California, near Los Angeles. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/los-angeles-area-wildfire-prompts-evacuations-40821011)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
