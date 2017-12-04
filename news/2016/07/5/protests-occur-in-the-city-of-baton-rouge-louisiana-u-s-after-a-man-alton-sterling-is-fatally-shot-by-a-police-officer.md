@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/5/protests-occur-in-the-city-of-baton-rouge-louisiana-u-s-after-a-man-alton-sterling-is-fatally-shot-by-a-police-officer.html)  [JSON](/news/2016/07/5/protests-occur-in-the-city-of-baton-rouge-louisiana-u-s-after-a-man-alton-sterling-is-fatally-shot-by-a-police-officer.json)  [XML](/news/2016/07/5/protests-occur-in-the-city-of-baton-rouge-louisiana-u-s-after-a-man-alton-sterling-is-fatally-shot-by-a-police-officer.xml)  
+
 ### [2016-07-5](/news/2016/07/5/index.md)
 
 # Protests occur in the city of Baton Rouge, Louisiana, U.S., after a man, Alton Sterling is fatally shot by a police officer. 
@@ -5,7 +8,7 @@
 Two officers on administrative leave after man was shot ‘four to six times’ in chest and back after altercation with police outside convenience store
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/us-news/2016/jul/06/protests-in-baton-rouge-after-louisiana-police-shoot-alton-sterling-dead)
 1. [Cover Image](https://i.guim.co.uk/img/media/48a033261656ac1f46ed276bf032ffbf1c5b34d5/601_670_1820_1092/1820.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d3764dfbb4db5963d2d0183b3848d896)

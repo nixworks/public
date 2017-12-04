@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.html)  [JSON](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.json)  [XML](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.xml)  
+
 ### [2016-07-9](/news/2016/07/9/index.md)
 
 # Ahead of a court decision by the Permanent Court of Arbitration, China holds a naval drill in the disputed South China Sea raising tensions in the region. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/07/09/world/asia/ap-as-south-china-sea-china-drills.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/07/09/world/asia/ap-as-south-china-sea-china-drills.html)
 
 ### Related:
 

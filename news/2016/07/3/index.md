@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/3/index.html)  [JSON](2016/07/3/index.json)  [XML](2016/07/3/index.xml)  
+
 ## [2016-07-3](/news/2016/07/3/index.md)
 
 ### [Twin bombings in a pair of crowded commercial areas in Baghdad kill at least 125 people. ISIL claims responsibility. ](/news/2016/07/3/twin-bombings-in-a-pair-of-crowded-commercial-areas-in-baghdad-kill-at-least-125-people-isil-claims-responsibility.md)
@@ -16,7 +19,7 @@ At least eight people have died after a Russian plane on a fire-fighting mission
 Swiss-EU talks reveal determination of EU to make no concessions to UK over Brexit terms
 
 ### [Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as-president-and-made-statements-enc.md)
-_Context: Philippine Drug War, Philippine National Police, Rodrigo Duterte, addicts, illegal drug_
+_Context: Philippine National Police, Rodrigo Duterte, addicts, drug crackdown, illegal drug_
 
 ### [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md)
 Leader of conservative Les Republicains party announces he will step down as its head, paving the way to enter primaries ahead of 2017 contest

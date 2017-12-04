@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.html)  [JSON](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.json)  [XML](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-portugal-accident-idUSKCN0ZR1KL)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-portugal-accident-idUSKCN0ZR1KL)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

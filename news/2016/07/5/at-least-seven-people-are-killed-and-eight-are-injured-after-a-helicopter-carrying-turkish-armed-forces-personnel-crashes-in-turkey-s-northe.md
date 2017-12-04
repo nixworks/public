@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.html)  [JSON](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.json)  [XML](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.xml)  
+
 ### [2016-07-5](/news/2016/07/5/index.md)
 
 # At least seven people are killed and eight are injured after a helicopter carrying Turkish Armed Forces personnel crashes in Turkey's northern Giresun Province, on the Black Sea coast. 
@@ -5,10 +8,10 @@
 Seven people were killed and eight injured when a helicopter carrying Turkish military personnel, their wives and children crashed in the Black Sea region of northeast Turkey on Tuesday, the Turkish armed forces said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-crash-idUSKCN0ZL1ZR)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-turkey-crash-idUSKCN0ZL1ZR)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

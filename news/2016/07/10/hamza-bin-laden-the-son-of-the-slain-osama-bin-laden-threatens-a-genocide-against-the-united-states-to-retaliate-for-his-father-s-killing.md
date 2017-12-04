@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.html)  [JSON](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.json)  [XML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.xml)  
 
-* [HTML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.html)
-* [JSON](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.json)
-* [XML](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Hamza bin Laden, the son of the slain Osama bin Laden, threatens a genocide against the United States to retaliate for his father's killing. 

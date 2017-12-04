@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/12/in-a-landmark-ruling-the-supreme-court-of-kyrgyzstan-revokes-azimzhan-askarov-s-life-sentence-and-sends-the-case-to-a-lower-court-to-be-rev.html)  [JSON](/news/2016/07/12/in-a-landmark-ruling-the-supreme-court-of-kyrgyzstan-revokes-azimzhan-askarov-s-life-sentence-and-sends-the-case-to-a-lower-court-to-be-rev.json)  [XML](/news/2016/07/12/in-a-landmark-ruling-the-supreme-court-of-kyrgyzstan-revokes-azimzhan-askarov-s-life-sentence-and-sends-the-case-to-a-lower-court-to-be-rev.xml)  
+
 ### [2016-07-12](/news/2016/07/12/index.md)
 
 # In a landmark ruling, the Supreme Court of Kyrgyzstan revokes Azimzhan Askarov's life sentence and sends the case to a lower court to be reviewed. A prominent Kyrgyz political activist and recognized prisoner of conscience of Uzbek ethnicity, Askarov was convicted in 2011 of stirring up ethnic violence in 2010 between Uzbeks and Kyrgyz in southern Kyrgyzstan and sentenced to life in prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/kyrgyzstan-activist-askarov-sentence-revoked/27853446.html)
 

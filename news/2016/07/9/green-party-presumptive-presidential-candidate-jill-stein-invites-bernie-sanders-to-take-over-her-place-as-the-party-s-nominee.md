@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.html)  [JSON](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.json)  [XML](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.xml)  
+
 ### [2016-07-9](/news/2016/07/9/index.md)
 
 # Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. 
@@ -5,10 +8,15 @@
 The Greens’ probable presidential candidate Jill Stein has invited the Vermont Senator to take over the party’s ticket, making way for a “political movement” led by Sanders.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/bernie-sanders-green-party-ticket-jill-stein-offers-make-way-vermont-senators-2390239)
 1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/07/09/bernie-green.jpg)
+
+### Changes:
+
+1. [United States presidential elections, 2016: Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/united-states-presidential-elections-2016-green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-he.md) _2017-08-27 03:46:27 (First version)_
+1. [Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The Greens’ probable presidential candidate Jill Stein has invited the Vermont
 3. [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md) _Context: Green Party of the United States, Jill Stein_
 4. [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md) _Context: Green Party of the United States, Jill Stein_
 5. [The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. ](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.md) _Context: Green Party of the United States, Jill Stein_
-
-### Changes:
-
-1. [United States presidential elections, 2016: Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/united-states-presidential-elections-2016-green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-he.md) _2017-08-27 03:46:27 (First version)_
-1. [Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.md) _(Current version)_

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.html)  [JSON](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.json)  [XML](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.xml)  
 
-* [HTML](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.html)
-* [JSON](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.json)
-* [XML](/news/2016/07/10/the-leader-of-the-opposition-bill-shorten-concedes-defeat-as-continued-counting-in-marginal-seats-indicates-that-the-governing-coalition-o.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # The Leader of the Opposition, Bill Shorten, concedes defeat as continued counting in marginal seats indicates that the governing coalition of the Liberal Party and National Party will either win a narrow majority or be able to govern with the support of independents. Malcolm Turnbull will continue as Prime Minister of Australia and has claimed victory. 
@@ -13,7 +10,7 @@ Australian Prime Minister Malcolm Turnbull declared victory on Sunday in a marat
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-australia-election-idUSKCN0ZQ03R?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-australia-election-idUSKCN0ZQ03R?feedType=RSS&feedName=topNews)
 2. [The Guardian](https://www.theguardian.com/australia-news/live/2016/jul/10/australian-election-2016-bill-shorten-defeat-turnbull-victory)
 2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144816530&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC69081)
 

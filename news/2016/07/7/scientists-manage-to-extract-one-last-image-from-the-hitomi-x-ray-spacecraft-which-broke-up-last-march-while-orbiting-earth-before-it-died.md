@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.html)  [JSON](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.json)  [XML](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.xml)  
+
 ### [2016-07-7](/news/2016/07/7/index.md)
 
 # Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. 
@@ -5,7 +8,7 @@
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36732336)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5CBD/production/_90314732_8cc74140-8d3f-436d-b27b-1594e9999871.jpg)

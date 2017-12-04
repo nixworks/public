@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/15/in-painting-louise-hearman-wins-the-2016-archibald-prize-for-her-portrait-of-australian-comedian-satirist-and-actor-barry-humphries.html)  [JSON](/news/2016/07/15/in-painting-louise-hearman-wins-the-2016-archibald-prize-for-her-portrait-of-australian-comedian-satirist-and-actor-barry-humphries.json)  [XML](/news/2016/07/15/in-painting-louise-hearman-wins-the-2016-archibald-prize-for-her-portrait-of-australian-comedian-satirist-and-actor-barry-humphries.xml)  
+
 ### [2016-07-15](/news/2016/07/15/index.md)
 
 # In painting, Louise Hearman wins the 2016 Archibald Prize for her portrait of Australian comedian, satirist and actor Barry Humphries. 
@@ -5,7 +8,7 @@
 This year&#039;s Archibald Prize is awarded to Louise Hearman for her portrait of Australian comedian, satirist and actor Barry Humphries.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2016-07-15/archibald-2016-prize-won-by-louise-hearman-for-barry-humphries/7631814)
 1. [Cover Image](http://www.abc.net.au/news/image/7575714-1x1-700x700.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.html)  [JSON](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.json)  [XML](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.xml)  
+
 ### [2016-07-5](/news/2016/07/5/index.md)
 
 # Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. 
@@ -5,12 +8,17 @@
 And then there were three - Theresa May heads the Tory leadership race, as Liam Fox and Stephen Crabb leave the contest.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/britain-eu-wrapup-idINKCN0ZL1EM)
-2. [Reuters²](http://www.reuters.com/article/us-britain-eu-crabb-idUSKCN0ZL2GI)
+2. [Reuters²](https://www.reuters.com/article/us-britain-eu-crabb-idUSKCN0ZL2GI)
 3. [Sky News](http://news.sky.com/story/1722116/may-wins-first-tory-vote-as-fox-and-crabb-out)
 3. [Cover Image](http://e3.365dm.com/16/07/1600x900/tory-leadership-results-online-results-0700-1_3738062.png?20160707051225)
+
+### Changes:
+
+1. [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next.md) _2017-08-25 03:46:03 (First version)_
+1. [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ And then there were three - Theresa May heads the Tory leadership race, as Liam 
 3. [The new Prime Minister of the United Kingdom Theresa May begins forming her ministry following the end of the Second Cameron ministry. The former Mayor of London Boris Johnson is appointed Secretary of State for Foreign and Commonwealth Affairs, Philip Hammond is appointed as Chancellor of the Exchequer, Amber Rudd is appointed Home Secretary filling Theresa May's former position, Liam Fox is appointed as Secretary of State for International Trade and David Davis is appointed as minister for the newly created Secretary of State for Exiting the European Union. ](/news/2016/07/13/the-new-prime-minister-of-the-united-kingdom-theresa-may-begins-forming-her-ministry-following-the-end-of-the-second-cameron-ministry-the-f.md) _Context: Home Secretary, Liam Fox, Prime Minister, Theresa May_
 4. [Andrea Leadsom withdraws from the leadership election meaning that Theresa May will become the next leader of the Conservative Party and next Prime Minister of the United Kingdom. ](/news/2016/07/11/andrea-leadsom-withdraws-from-the-leadership-election-meaning-that-theresa-may-will-become-the-next-leader-of-the-conservative-party-and-nex.md) _Context: Andrea Leadsom, Conservative Party (UK) leadership election, 2016, Prime Minister, Theresa May_
 5. [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md) _Context: Conservative Party, Prime Minister, Theresa May_
-
-### Changes:
-
-1. [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next.md) _2017-08-25 03:46:03 (First version)_
-1. [Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. ](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-the-first-ballot-of-conservative-members-of-parliament-to-select-a-new-leader-and-the-next-p.md) _(Current version)_

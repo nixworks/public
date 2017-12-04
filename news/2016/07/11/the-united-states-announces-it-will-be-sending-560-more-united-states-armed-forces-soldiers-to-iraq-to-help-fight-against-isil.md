@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/the-united-states-announces-it-will-be-sending-560-more-united-states-armed-forces-soldiers-to-iraq-to-help-fight-against-isil.html)  [JSON](/news/2016/07/11/the-united-states-announces-it-will-be-sending-560-more-united-states-armed-forces-soldiers-to-iraq-to-help-fight-against-isil.json)  [XML](/news/2016/07/11/the-united-states-announces-it-will-be-sending-560-more-united-states-armed-forces-soldiers-to-iraq-to-help-fight-against-isil.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # The United States announces it will be sending 560 more United States Armed Forces soldiers to Iraq to help fight against ISIL. 
@@ -5,7 +8,7 @@
 The US is to send 560 more military personnel to Iraq to help in the fight against so-called Islamic State (IS), Defence Secretary Ash Carter says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-36766417)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2516/production/_90349490_mediaitem90349489.jpg)

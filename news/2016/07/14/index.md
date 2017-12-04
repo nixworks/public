@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/14/index.html)  [JSON](2016/07/14/index.json)  [XML](2016/07/14/index.xml)  
+
 ## [2016-07-14](/news/2016/07/14/index.md)
 
 ### [A suspected militant of Al-Shabaab shoots and kills four Kenyan police officers at a police station in Kapenguria, Kenya, where he was being held. The militant was later killed following a shootout with police. ](/news/2016/07/14/a-suspected-militant-of-al-shabaab-shoots-and-kills-four-kenyan-police-officers-at-a-police-station-in-kapenguria-kenya-where-he-was-being.md)

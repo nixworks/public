@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.html)  [JSON](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.json)  [XML](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.xml)  
+
 ### [2016-07-6](/news/2016/07/6/index.md)
 
 # South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/07/06/africa/oscar-pistorius-sentence/)
+
+### Changes:
+
+1. [Oscar Pistorius trial: South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/oscar-pistorius-trial-south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _2017-08-27 03:46:25 (First version)_
+1. [South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [South African athlete Oscar Pistorius is released from prison to serve the rest of his sentence for culpable homicide of Reeva Steenkamp under house arrest. ](/news/2015/10/19/south-african-athlete-oscar-pistorius-is-released-from-prison-to-serve-the-rest-of-his-sentence-for-culpable-homicide-of-reeva-steenkamp-und.md) _Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
 4. [A South African judge rules that the prosecution can appeal the decision not to convict Oscar Pistorius for the murder of Reeva Steenkamp in 2013 to the Supreme Court of Appeal. ](/news/2014/12/10/a-south-african-judge-rules-that-the-prosecution-can-appeal-the-decision-not-to-convict-oscar-pistorius-for-the-murder-of-reeva-steenkamp-in.md) _Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
 5. [South African athlete Oscar Pistorius is found guilty of the "culpable homicide" of his partner Reeva Steenkamp. ](/news/2014/09/12/south-african-athlete-oscar-pistorius-is-found-guilty-of-the-culpable-homicide-of-his-partner-reeva-steenkamp.md) _Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
-
-### Changes:
-
-1. [Oscar Pistorius trial: South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/oscar-pistorius-trial-south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _2017-08-27 03:46:25 (First version)_
-1. [South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md) _(Current version)_

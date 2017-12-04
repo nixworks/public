@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.html)  [JSON](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.json)  [XML](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.xml)  
+
 ### [2016-07-4](/news/2016/07/4/index.md)
 
 # Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. 
@@ -5,10 +8,15 @@
 Standard Life Investments suspends trading in its UK property fund for the first time since the financial crisis due to higher withdrawals following the Brexit vote.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-36708844)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/976C/production/_88346783_476643773.jpg)
+
+### Changes:
+
+1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-t.md) _2017-08-25 03:46:03 (First version)_
+1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Standard Life Investments suspends trading in its UK property fund for the first
 3. [ In pro-EU rallies, thousands of people protest in London against the United Kingdom withdrawal from the European Union and ask that Article 50 not be invoked. ](/news/2016/07/2/in-pro-eu-rallies-thousands-of-people-protest-in-london-against-the-united-kingdom-withdrawal-from-the-european-union-and-ask-that-article.md) _Context: United Kingdom withdrawal from the European Union_
 4. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: United Kingdom withdrawal from the European Union_
 5. [European Union leaders advise the United Kingdom that, after their EU exit, to retain access to the bloc's lucrative single market, the UK must allow free movement for EU workers. German Chancellor Angela Merkel and French President Francois Hollande reiterated that freedom of movement of EU citizens is non-negotiable. ](/news/2016/06/29/european-union-leaders-advise-the-united-kingdom-that-after-their-eu-exit-to-retain-access-to-the-bloc-s-lucrative-single-market-the-uk-m.md) _Context: United Kingdom withdrawal from the European Union_
-
-### Changes:
-
-1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-t.md) _2017-08-25 03:46:03 (First version)_
-1. [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.md) _(Current version)_

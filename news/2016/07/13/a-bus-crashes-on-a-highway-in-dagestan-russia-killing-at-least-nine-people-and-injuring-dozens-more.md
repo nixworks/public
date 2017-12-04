@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.html)  [JSON](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.json)  [XML](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.xml)  
+
 ### [2016-07-13](/news/2016/07/13/index.md)
 
 # A bus crashes on a highway in Dagestan, Russia, killing at least nine people and injuring dozens more. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-daghestan-bus-crash/27855681.html)
 

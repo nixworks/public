@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.html)  [JSON](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.json)  [XML](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.xml)  
+
 ### [2016-07-5](/news/2016/07/5/index.md)
 
 # NASA's "Juno" spacecraft reaches Jupiter and enters into its orbit after a five-year flight. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-36710768)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1549E/production/_90289178_033890559.jpg)

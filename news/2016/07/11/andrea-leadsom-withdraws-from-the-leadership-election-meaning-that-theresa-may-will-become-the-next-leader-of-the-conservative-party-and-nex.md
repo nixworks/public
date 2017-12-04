@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/andrea-leadsom-withdraws-from-the-leadership-election-meaning-that-theresa-may-will-become-the-next-leader-of-the-conservative-party-and-nex.html)  [JSON](/news/2016/07/11/andrea-leadsom-withdraws-from-the-leadership-election-meaning-that-theresa-may-will-become-the-next-leader-of-the-conservative-party-and-nex.json)  [XML](/news/2016/07/11/andrea-leadsom-withdraws-from-the-leadership-election-meaning-that-theresa-may-will-become-the-next-leader-of-the-conservative-party-and-nex.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # Andrea Leadsom withdraws from the leadership election meaning that Theresa May will become the next leader of the Conservative Party and next Prime Minister of the United Kingdom. 
@@ -5,10 +8,10 @@
 Rolling coverage of the day’s political developments as they happen, including Andrea Leadsom’s dramatic exit from the Tory party leadership race and Angela Eagle’s bid to lead Labour
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-36768148)
-2. [The Guardian](http://www.theguardian.com/politics/blog/live/2016/jul/11/andrea-leadsom-apologises-to-theresa-may-politics-live)
+2. [The Guardian](https://www.theguardian.com/politics/blog/live/2016/jul/11/andrea-leadsom-apologises-to-theresa-may-politics-live)
 2. [Cover Image](https://i.guim.co.uk/img/media/b91a799f6c3ead591c65dfb6e585474615127726/454_0_2451_1471/2451.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6fc2fa8c415c7eafe6ae130c0be0f09c)
 
 ### Related:

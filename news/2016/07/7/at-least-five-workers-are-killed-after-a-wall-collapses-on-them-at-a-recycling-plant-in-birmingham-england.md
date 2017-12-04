@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.html)  [JSON](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.json)  [XML](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.xml)  
+
 ### [2016-07-7](/news/2016/07/7/index.md)
 
 # At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. 
@@ -5,7 +8,7 @@
 Five men are killed when a wall collapses at a recycling site in the Nechells area of Birmingham.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-36736571)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FB2E/production/_90320346_policeatscene1.jpg)

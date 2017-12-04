@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.html)  [JSON](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.json)  [XML](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # The 127 people who were massacred in the Srebrenica massacre in 1995 and were subsequently discovered in mass graves are buried at the Srebrenica Genocide Memorial following a funeral. For the first time, Bosnian Serbs were not welcome to attend the ceremony. 
@@ -5,10 +8,10 @@
 Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica massacre buried in individual graves on Monday in a ceremony avoided by Serbs after survivors said they were not welcome because they denied genocide had occurred.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-bosnia-srebrenica-burial-idUSKCN0ZR1IC)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160711&t=2&i=1144952343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6A0TQ)
+1. [Reuters](https://www.reuters.com/article/us-bosnia-srebrenica-burial-idUSKCN0ZR1IC)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160711&t=2&i=1144952343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC6A0TQ)
 
 ### Related:
 

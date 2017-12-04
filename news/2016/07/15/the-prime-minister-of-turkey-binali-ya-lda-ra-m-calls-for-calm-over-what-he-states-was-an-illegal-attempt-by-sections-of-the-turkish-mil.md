@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.html)  [JSON](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.json)  [XML](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.xml)  
+
 ### [2016-07-15](/news/2016/07/15/index.md)
 
 # The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. 
@@ -5,14 +8,19 @@
 Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not to use the attempted coup as &ldquo;carte blanche to do whatever he wants,&quot; amid concerns the putsch has become a pretext for him to consolidate power.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/07/15/gunfire-heard-jets-seen-flying-in-turkish-capital-of-ankara.html)
+1. [CNBC](https://www.cnbc.com/2016/07/15/gunfire-heard-jets-seen-flying-in-turkish-capital-of-ankara.html)
 2. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempt-coup-turkey-prime-minister-says-n610531?cid=eml_nbn_20160715)
 3. [Reuters via Trust](http://news.trust.org/item/20160716024151-60u31)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/15/turkey-low-flying-jets-and-gunfire-heard-in-ankara1/)
 5. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/07/15/turkish-president-rejects-coup-attempt-urges-supporters-to-take-to-the-streets/?wpisrc=al_alert-COMBO-world%252Bnation)
 5. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/5/j/5ja3hynde6_pcyxpqbj4smsxreqtjmw6-xlarge.jpg)
+
+### Changes:
+
+1. [2016 Turkish coup d'etat attempt: The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/2016-turkish-coup-d-a-c-tat-attempt-the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-atte.md) _2017-08-27 03:46:30 (First version)_
+1. [The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.md) _(Current version)_
 
 ### Related:
 
@@ -21,8 +29,3 @@ Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not
 3. [Israeli Prime Minister Benjamin Netanyahu and Turkish Prime Minister Binali Yildirim announce their countries have agreed on a pact to normalize diplomatic relations that have been strained for six years since the Gaza flotilla raid when nine Turkish activists were killed. ](/news/2016/06/27/israeli-prime-minister-benjamin-netanyahu-and-turkish-prime-minister-binali-ya-lda-ra-m-announce-their-countries-have-agreed-on-a-pact-to-no.md) _Context: Binali Yildirim, Turkish Prime Minister_
 4. [The President of Turkey Recep Tayyip Erdogan formally approves his ally Binali Yildirim as the Prime Minister. ](/news/2016/05/24/the-president-of-turkey-recep-tayyip-erdoaan-formally-approves-his-ally-binali-ya-lda-ra-m-as-the-prime-minister.md) _Context: Binali Yildirim, Turkish Prime Minister_
 5. [ Binali Yildirim is appointed Prime Minister of Turkey after the resignation of Ahmet Davutoglu amid disagreements with President Recep Tayyip Erdogan. ](/news/2016/05/23/binali-ya-lda-ra-m-is-appointed-prime-minister-of-turkey-after-the-resignation-of-ahmet-davutoalu-amid-disagreements-with-president-recep.md) _Context: Binali Yildirim, Turkish Prime Minister_
-
-### Changes:
-
-1. [2016 Turkish coup d'etat attempt: The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/2016-turkish-coup-d-a-c-tat-attempt-the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-atte.md) _2017-08-27 03:46:30 (First version)_
-1. [The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.md) _(Current version)_

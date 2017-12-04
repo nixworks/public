@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/13/emperor-akihito-of-japan-intends-to-abdicate-within-a-few-years-citing-old-age-it-would-be-the-first-abdication-of-a-japanese-emperor-in-2.html)  [JSON](/news/2016/07/13/emperor-akihito-of-japan-intends-to-abdicate-within-a-few-years-citing-old-age-it-would-be-the-first-abdication-of-a-japanese-emperor-in-2.json)  [XML](/news/2016/07/13/emperor-akihito-of-japan-intends-to-abdicate-within-a-few-years-citing-old-age-it-would-be-the-first-abdication-of-a-japanese-emperor-in-2.xml)  
+
 ### [2016-07-13](/news/2016/07/13/index.md)
 
 # Emperor Akihito of Japan intends to abdicate within a few years, citing old age. It would be the first abdication of a Japanese emperor in 200 years; the last emperor to abdicate was Emperor Kokaku in 1817. 
@@ -5,7 +8,7 @@
 Monarch, 82, who has had health problems, is said to have announced intention to Imperial Household Agency
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-36784045)
 2. [The Guardian](https://www.theguardian.com/world/2016/jul/13/japans-emperor-akihito-plans-step-down-reports)
@@ -15,6 +18,6 @@ Monarch, 82, who has had health problems, is said to have announced intention to
 
 1. [The speech by Japanese Emperor Hirohito announcing the unconditional surrender of Japan is released in digital form. ](/news/2015/08/1/the-speech-by-japanese-emperor-hirohito-announcing-the-unconditional-surrender-of-japan-is-released-in-digital-form.md) _Context: Japan, Japanese emperor_
 2. [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md) _Context: Emperor Akihito, Japan_
-3. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-4. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-5. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
+3. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_
+4. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Japan_
+5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: Japan_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-remain-missing-after-flash-floods-ravage-the-khyber-pakhtunkhwa-province-of-pakistan.html)  [JSON](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-remain-missing-after-flash-floods-ravage-the-khyber-pakhtunkhwa-province-of-pakistan.json)  [XML](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-remain-missing-after-flash-floods-ravage-the-khyber-pakhtunkhwa-province-of-pakistan.xml)  
+
 ### [2016-07-3](/news/2016/07/3/index.md)
 
 # At least 31 people are killed and several more remain missing after flash floods ravage the Khyber Pakhtunkhwa province of Pakistan. 
@@ -5,7 +8,7 @@
 Several others remain missing after torrential rain causes havoc in the Khyber Pakhtunkhwa province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/dozens-dead-flash-floods-sweep-pakistan-160703061450868.html)
 

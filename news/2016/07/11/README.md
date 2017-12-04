@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/11/index.html)  [JSON](2016/07/11/index.json)  [XML](2016/07/11/index.xml)  
+
 ## [2016-07-11](/news/2016/07/11/index.md)
 
 ### [At least 10 Somali Armed Forces soldiers and 12 Al-Shabaab militants are killed in fighting near the town of Afgooye, Lower Shabelle. ](/news/2016/07/11/at-least-10-somali-armed-forces-soldiers-and-12-al-shabaab-militants-are-killed-in-fighting-near-the-town-of-afgooye-lower-shabelle.md)

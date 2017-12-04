@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/13/index.html)  [JSON](2016/07/13/index.json)  [XML](2016/07/13/index.xml)  
+
 ## [2016-07-13](/news/2016/07/13/index.md)
 
 ### [A car bomb explodes at a checkpoint north of Baghdad, killing at least seven people. ](/news/2016/07/13/a-car-bomb-explodes-at-a-checkpoint-north-of-baghdad-killing-at-least-seven-people.md)

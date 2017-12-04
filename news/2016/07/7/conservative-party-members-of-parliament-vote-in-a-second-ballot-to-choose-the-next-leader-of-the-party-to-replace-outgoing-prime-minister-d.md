@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.html)  [JSON](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.json)  [XML](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.xml)  
+
 ### [2016-07-7](/news/2016/07/7/index.md)
 
 # Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3678833/UK-Conservatives-choose-final-2-leadership-contenders.html)
 2. [BBC](http://www.bbc.com/news/live/uk-politics-36570120?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)

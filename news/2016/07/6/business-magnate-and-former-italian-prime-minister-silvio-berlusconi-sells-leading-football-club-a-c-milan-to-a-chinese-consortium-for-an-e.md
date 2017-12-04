@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.html)  [JSON](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.json)  [XML](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.xml)  
+
 ### [2016-07-6](/news/2016/07/6/index.md)
 
 # Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual EUR400 million. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-36721010)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/352A/production/_90301631_gettyimages-540052992.jpg)

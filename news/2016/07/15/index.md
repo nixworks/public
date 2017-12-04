@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/15/index.html)  [JSON](2016/07/15/index.json)  [XML](2016/07/15/index.xml)  
+
 ## [2016-07-15](/news/2016/07/15/index.md)
 
 ### [The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-attack-which-has-no.md)

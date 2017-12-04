@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/4/nigel-farage-resigns-as-leader-of-the-uk-independence-party-ukip-but-says-he-and-other-meps-mps-of-the-party-would-continue-to-carry-out-t.html)  [JSON](/news/2016/07/4/nigel-farage-resigns-as-leader-of-the-uk-independence-party-ukip-but-says-he-and-other-meps-mps-of-the-party-would-continue-to-carry-out-t.json)  [XML](/news/2016/07/4/nigel-farage-resigns-as-leader-of-the-uk-independence-party-ukip-but-says-he-and-other-meps-mps-of-the-party-would-continue-to-carry-out-t.xml)  
+
 ### [2016-07-4](/news/2016/07/4/index.md)
 
 # Nigel Farage resigns as leader of the UK Independence Party (UKIP) but says he and other MEPs-MPs of the party would continue to carry out their term in the European Parliament. 
@@ -5,7 +8,7 @@
 Brexit - Nigel Farage has announced he is standing down as leader of the UK Independence Party, saying he wants his life back.
 
 
-### Source:
+### Sources:
 
 1. [BBC via ''Radio New Zealand](http://www.radionz.co.nz/news/world/307929/farage-stands-down-as-ukip-leader)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

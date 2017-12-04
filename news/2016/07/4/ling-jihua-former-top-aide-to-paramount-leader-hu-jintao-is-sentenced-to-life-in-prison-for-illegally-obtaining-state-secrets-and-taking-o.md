@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/4/ling-jihua-former-top-aide-to-paramount-leader-hu-jintao-is-sentenced-to-life-in-prison-for-illegally-obtaining-state-secrets-and-taking-o.html)  [JSON](/news/2016/07/4/ling-jihua-former-top-aide-to-paramount-leader-hu-jintao-is-sentenced-to-life-in-prison-for-illegally-obtaining-state-secrets-and-taking-o.json)  [XML](/news/2016/07/4/ling-jihua-former-top-aide-to-paramount-leader-hu-jintao-is-sentenced-to-life-in-prison-for-illegally-obtaining-state-secrets-and-taking-o.xml)  
+
 ### [2016-07-4](/news/2016/07/4/index.md)
 
 # Ling Jihua, former top aide to paramount leader Hu Jintao, is sentenced to life in prison for illegally obtaining state secrets and taking over $11 million in bribes. Ling's misfortunes started when he was accused of trying to cover up a scandal connected to his 23-year-old son's deadly crash in a Ferrari in 2012. 
@@ -5,7 +8,7 @@
 Ling Jihua, former top aid to retired president Hu Jintao, has been sentenced to life in prison by the Chinese government for corruption.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/07/04/Former-Jintao-aid-Ling-Jihua-jailed-in-China-on-corruption-charges/4291467638647/?spt=hs&or=tn_int)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4291467638647/2016/1/05412e186a946fea6d40954f66601eda/v1.5/Former-Jintao-aid-Ling-Jihua-jailed-in-China-on-corruption-charges.jpg)

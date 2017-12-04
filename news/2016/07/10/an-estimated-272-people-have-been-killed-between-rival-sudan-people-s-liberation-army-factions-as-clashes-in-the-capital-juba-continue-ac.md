@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.html)  [JSON](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.json)  [XML](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.xml)  
 
-* [HTML](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.html)
-* [JSON](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.json)
-* [XML](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. 

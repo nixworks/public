@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.html)  [JSON](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.json)  [XML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.xml)  
 
-* [HTML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.html)
-* [JSON](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.json)
-* [XML](/news/2016/07/10/protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police-numerous-confrontations-and-ar.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. 
@@ -13,8 +10,8 @@ Protests against the shootings of two black men by police officers shut down mai
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-police-protests-idUSKCN0ZQ00O)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144851460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC690TX)
+1. [Reuters](https://www.reuters.com/article/us-usa-police-protests-idUSKCN0ZQ00O)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160710&t=2&i=1144851460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC690TX)
 
 ### Changes:
 

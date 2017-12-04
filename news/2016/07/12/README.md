@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/12/index.html)  [JSON](2016/07/12/index.json)  [XML](2016/07/12/index.xml)  
+
 ## [2016-07-12](/news/2016/07/12/index.md)
 
 ### [After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. ](/news/2016/07/12/after-five-days-of-fighting-that-left-272-people-dead-and-thousands-more-displaced-in-the-capital-juba-president-salva-kiir-mayardit-and-r.md)
@@ -16,7 +19,7 @@ LOS ANGELES (AP) — The owner of the AMC Theatre chain is buying European movie
 Twenty-three people have been killed and many more hurt in a head-on collision involving two passenger trains in southern Italy, officials say.
 
 ### [The Permanent Court of Arbitration rules in favor of the Philippines against China over territorial disputes in the South China Sea. ](/news/2016/07/12/the-permanent-court-of-arbitration-rules-in-favor-of-the-philippines-against-china-over-territorial-disputes-in-the-south-china-sea.md)
-Xi Jinping says China’s ‘territorial sovereignty and marine rights’ in the seas will not be affected
+An international panel in The Hague delivered a sweeping rebuke of China’s behavior, deciding that its expansive claim to sovereignty over the waters had no legal basis.
 
 ### [In a landmark ruling, the Supreme Court of Kyrgyzstan revokes Azimzhan Askarov's life sentence and sends the case to a lower court to be reviewed. A prominent Kyrgyz political activist and recognized prisoner of conscience of Uzbek ethnicity, Askarov was convicted in 2011 of stirring up ethnic violence in 2010 between Uzbeks and Kyrgyz in southern Kyrgyzstan and sentenced to life in prison. ](/news/2016/07/12/in-a-landmark-ruling-the-supreme-court-of-kyrgyzstan-revokes-azimzhan-askarov-s-life-sentence-and-sends-the-case-to-a-lower-court-to-be-rev.md)
 _Context: Azimzhan Askarov, Supreme Court of Kyrgyzstan, Uzbek, prisoner of conscience, stirring up ethnic violence in 2010_

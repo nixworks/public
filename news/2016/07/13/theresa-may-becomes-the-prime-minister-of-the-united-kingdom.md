@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/13/theresa-may-becomes-the-prime-minister-of-the-united-kingdom.html)  [JSON](/news/2016/07/13/theresa-may-becomes-the-prime-minister-of-the-united-kingdom.json)  [XML](/news/2016/07/13/theresa-may-becomes-the-prime-minister-of-the-united-kingdom.xml)  
+
 ### [2016-07-13](/news/2016/07/13/index.md)
 
 # Theresa May becomes the Prime Minister of the United Kingdom. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/12/revealed-what-theresa-may-really-thinks---trawl-of-speeches-over/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/07/12/theresemay121-xlarge_trans_NvBQzQNjv4BqGLLAPY3LddE1Qiv-bsIMYEpOjEuByBQ-qnj-v4gOKxM.jpg)

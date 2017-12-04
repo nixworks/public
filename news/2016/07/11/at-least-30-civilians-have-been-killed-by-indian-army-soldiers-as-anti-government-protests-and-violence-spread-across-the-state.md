@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.html)  [JSON](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.json)  [XML](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # At least 30 civilians have been killed by Indian Army soldiers as anti-government protests and violence spread across the state. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-News18](http://www.news18.com/news/india/kashmir-continues-to-boil-as-death-toll-touches-21-1267969.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/07/545828090.jpg)

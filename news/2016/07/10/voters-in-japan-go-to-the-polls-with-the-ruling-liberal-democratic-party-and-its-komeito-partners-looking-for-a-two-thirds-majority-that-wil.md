@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.html)  [JSON](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.json)  [XML](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.xml)  
 
-* [HTML](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.html)
-* [JSON](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.json)
-* [XML](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling-liberal-democratic-party-and-its-komeito-partners-looking-for-a-two-thirds-majority-that-wil.xml)
 ### [2016-07-10](/news/2016/07/10/index.md)
 
 # Voters in Japan go to the polls with the ruling Liberal Democratic Party and its Komeito partners looking for a two-thirds majority that will allow them to put forward a referendum to change the constitution. The governing parties won 70 of the 121 seats. 
@@ -15,7 +12,7 @@ TV exit polls show Prime Minister Shinzo Abe has won the two-thirds &quot;super 
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/07/10/voting-starts-japan)
 2. [AP via Crossroads Today](http://www.crossroadstoday.com/story/32409632/japan-coalition-scores-bigger-than-expected-election-win)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-07-10/abe-set-to-win-majority-in-upper-house-election-nhk)
+3. [Bloomberg](https://www.bloomberg.com/news/articles/2016-07-10/abe-set-to-win-majority-in-upper-house-election-nhk)
 3. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/2/0/20160708001271591324-original_800x600.jpg)
 
 ### Changes:

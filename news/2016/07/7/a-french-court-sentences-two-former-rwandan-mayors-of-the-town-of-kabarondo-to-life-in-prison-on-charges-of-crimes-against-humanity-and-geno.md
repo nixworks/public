@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.html)  [JSON](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.json)  [XML](/news/2016/07/7/a-french-court-sentences-two-former-rwandan-mayors-of-the-town-of-kabarondo-to-life-in-prison-on-charges-of-crimes-against-humanity-and-geno.xml)  
+
 ### [2016-07-7](/news/2016/07/7/index.md)
 
 # A French court sentences two former Rwandan mayors of the town of Kabarondo to life in prison on charges of crimes against humanity and genocide committed during the Rwandan Genocide in 1994. During the genocide, Hutu extremists massacred over 2,000 Tutsi who sought refuge in the town. 
@@ -5,7 +8,7 @@
 A French court sentences two former Rwandan mayors to life in prison for their role in the mass killings of ethnic Tutsis during the 1994 genocide.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36732357)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1471D/production/_90314738_mediaitem90314737.jpg)

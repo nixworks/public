@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.html)  [JSON](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.json)  [XML](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.xml)  
+
 ### [2016-07-5](/news/2016/07/5/index.md)
 
 # The Central Bank of Russia announces it will start buying the Chinese yuan in an attempt to diversify its foreign-currency reserves away from the Euro and the U.S. dollar and to become less vulnerable to Western sanctions. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/russia-buying-chinese-yuan-diversify-away-dollar-euro-less-vulnerable-western-sanctions/27838381.html)
 

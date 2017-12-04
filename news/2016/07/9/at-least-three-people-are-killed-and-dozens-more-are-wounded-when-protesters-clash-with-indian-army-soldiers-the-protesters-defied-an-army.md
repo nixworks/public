@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.html)  [JSON](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.json)  [XML](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.xml)  
+
 ### [2016-07-9](/news/2016/07/9/index.md)
 
 # At least three people are killed and dozens more are wounded when protesters clash with Indian Army soldiers. The protesters defied an army curfew and took part in the funeral of a top rebel commander of Hizbul Mujahideen. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/deadly-clashes-erupt-in-kashmir-after-killing-of-top-rebel-leader/27849062.html)
 

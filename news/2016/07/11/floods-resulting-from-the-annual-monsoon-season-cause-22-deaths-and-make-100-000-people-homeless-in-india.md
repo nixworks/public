@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.html)  [JSON](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.json)  [XML](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.xml)  
+
 ### [2016-07-11](/news/2016/07/11/index.md)
 
 # Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/floods-kill-22-people-in/2947664.html)
 

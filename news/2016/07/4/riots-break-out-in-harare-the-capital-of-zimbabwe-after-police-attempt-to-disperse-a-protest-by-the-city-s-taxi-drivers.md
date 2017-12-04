@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabwe-after-police-attempt-to-disperse-a-protest-by-the-city-s-taxi-drivers.html)  [JSON](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabwe-after-police-attempt-to-disperse-a-protest-by-the-city-s-taxi-drivers.json)  [XML](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabwe-after-police-attempt-to-disperse-a-protest-by-the-city-s-taxi-drivers.xml)  
+
 ### [2016-07-4](/news/2016/07/4/index.md)
 
 # Riots break out in Harare, the capital of Zimbabwe, after police attempt to disperse a protest by the city's taxi drivers. 
@@ -5,10 +8,10 @@
 A protest by Zimbabwean taxi drivers against a police crackdown turned violent on Monday when residents joined in and hurled rocks at police, who fired teargas to disperse the rioters.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-zimbabwe-protests-idUSKCN0ZK1DO)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160704&t=2&i=1144029350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC630TZ)
+1. [Reuters](https://www.reuters.com/article/us-zimbabwe-protests-idUSKCN0ZK1DO)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160704&t=2&i=1144029350&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC630TZ)
 
 ### Related:
 

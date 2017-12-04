@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2016/07/10/index.html)  [JSON](2016/07/10/index.json)  [XML](2016/07/10/index.xml)  
 
-* [HTML](2016/07/10/index.html)
-* [JSON](2016/07/10/index.json)
-* [XML](2016/07/10/index.xml)
 ## [2016-07-10](/news/2016/07/10/index.md)
 
 ### [An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. ](/news/2016/07/10/an-estimated-272-people-have-been-killed-between-rival-sudan-people-s-liberation-army-factions-as-clashes-in-the-capital-juba-continue-ac.md)

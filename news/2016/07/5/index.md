@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/5/index.html)  [JSON](2016/07/5/index.json)  [XML](2016/07/5/index.xml)  
+
 ## [2016-07-5](/news/2016/07/5/index.md)
 
 ### [Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. ](/news/2016/07/5/iraqi-forces-backed-by-u-s-airstrikes-advance-north-towards-isil-held-qayyarah-airfield-west-south-of-mosul.md)
