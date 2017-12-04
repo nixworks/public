@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/pharmaceutical-company-johnson-johnson-warns-that-one-of-its-wi-fi-enabled-insulin-pumps-for-diabetics-onetouch-ping-pump-is-at-risk-of.html)  [JSON](/news/2016/10/4/pharmaceutical-company-johnson-johnson-warns-that-one-of-its-wi-fi-enabled-insulin-pumps-for-diabetics-onetouch-ping-pump-is-at-risk-of.json)  [XML](/news/2016/10/4/pharmaceutical-company-johnson-johnson-warns-that-one-of-its-wi-fi-enabled-insulin-pumps-for-diabetics-onetouch-ping-pump-is-at-risk-of.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # Pharmaceutical company Johnson & Johnson warns that one of its Wi-Fi enabled insulin pumps for diabetics (OneTouch Ping pump) is at risk of being hacked, causing an overdose. 
@@ -5,7 +8,7 @@
 Pharmaceutical firm Johnson &amp; Johnson says one of its insulin pumps risks being hacked, causing a diabetic overdose.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-37551633)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15D9E/production/_91520598_onetouch-ping-offhover.png)

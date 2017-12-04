@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as-many-as-48-elderly-patients-at-the-oguchi-hospital-in-yokohama.html)  [JSON](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as-many-as-48-elderly-patients-at-the-oguchi-hospital-in-yokohama.json)  [XML](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as-many-as-48-elderly-patients-at-the-oguchi-hospital-in-yokohama.xml)  
+
 ### [2016-10-2](/news/2016/10/2/index.md)
 
 # Authorities arrest a Japanese man for killing as many as 48 elderly patients at the Oguchi Hospital in Yokohama. 
@@ -5,9 +8,9 @@
 Police in Japan are investigating whether a serial poisoner is responsible for killing as many as 48 elderly patients by injecting disinfectant into their intravenous drips. Suspicions began after an autopsy showed two elderly patients had been poisoned in Oguchi Hospital, Yokohama. Sozo Nishikawa and Nobuo Yamaki, both 88, died on 18 and 20 September respectively, after having a drip administered.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/japan-poison-hospital-elderly-patients-oguchi-hospital-yokohama-a7341391.html)
+1. [The Independent](https://www.independent.co.uk/news/world/asia/japan-poison-hospital-elderly-patients-oguchi-hospital-yokohama-a7341391.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/02/12/japan-hospital2.jpg)
 
 ### Related:
@@ -16,4 +19,4 @@ Police in Japan are investigating whether a serial poisoner is responsible for k
 2. [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md) _Context: Japan, Yokohama_
 3. [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _Context: Japan, Yokohama_
 4. [ The Final of the 2002 FIFA World Cup took place in Yokohama, Japan. Brazil defeated Germany and claimed the title for a record fifth time.](/news/2002/06/30/the-final-of-the-2002-fifa-world-cup-took-place-in-yokohama-japan-brazil-defeated-germany-and-claimed-the-title-for-a-record-fifth-time.md) _Context: Japan, Yokohama_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
+5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_

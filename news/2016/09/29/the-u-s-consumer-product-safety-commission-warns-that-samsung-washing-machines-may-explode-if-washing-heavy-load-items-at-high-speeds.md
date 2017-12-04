@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/29/the-u-s-consumer-product-safety-commission-warns-that-samsung-washing-machines-may-explode-if-washing-heavy-load-items-at-high-speeds.html)  [JSON](/news/2016/09/29/the-u-s-consumer-product-safety-commission-warns-that-samsung-washing-machines-may-explode-if-washing-heavy-load-items-at-high-speeds.json)  [XML](/news/2016/09/29/the-u-s-consumer-product-safety-commission-warns-that-samsung-washing-machines-may-explode-if-washing-heavy-load-items-at-high-speeds.xml)  
+
 ### [2016-09-29](/news/2016/09/29/index.md)
 
 # The U.S. Consumer Product Safety Commission warns that Samsung washing machines may explode if washing heavy load items at high speeds. 
@@ -5,7 +8,7 @@
 Samsung has confirmed it is in talks with US consumer watchdogs after a lawsuit against the firm over &quot;exploding&quot; washing machines.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-37503116)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7BB7/production/_91417613_gettyimages-461061560.jpg)

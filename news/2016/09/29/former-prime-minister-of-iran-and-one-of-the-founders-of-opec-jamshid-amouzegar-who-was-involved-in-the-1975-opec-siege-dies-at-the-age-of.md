@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/29/former-prime-minister-of-iran-and-one-of-the-founders-of-opec-jamshid-amouzegar-who-was-involved-in-the-1975-opec-siege-dies-at-the-age-of.html)  [JSON](/news/2016/09/29/former-prime-minister-of-iran-and-one-of-the-founders-of-opec-jamshid-amouzegar-who-was-involved-in-the-1975-opec-siege-dies-at-the-age-of.json)  [XML](/news/2016/09/29/former-prime-minister-of-iran-and-one-of-the-founders-of-opec-jamshid-amouzegar-who-was-involved-in-the-1975-opec-siege-dies-at-the-age-of.xml)  
+
 ### [2016-09-29](/news/2016/09/29/index.md)
 
 # Former Prime Minister of Iran and one of the founders of OPEC Jamshid Amouzegar, who was involved in the 1975 OPEC siege, dies at the age of 93. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Persian](http://www.bbc.com/persian/iran-37500264)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/branded_persian/157FD/production/_91416088_cebc9c2f-c7e4-4515-bda3-6feedb376379.jpg)

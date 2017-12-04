@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.html)  [JSON](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.json)  [XML](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/2016/09/28/495709481/sept-11-lawsuits-vote-today-could-be-first-reversal-of-an-obama-veto)
 1. [Cover Image](https://media.npr.org/assets/img/2016/09/27/gettyimages-531902426_wide-bf5ab4dbee29764285fa901d9b4e23aa4d879d87.jpg?s=1400)

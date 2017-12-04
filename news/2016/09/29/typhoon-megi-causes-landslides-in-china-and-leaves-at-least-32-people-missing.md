@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.html)  [JSON](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.json)  [XML](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.xml)  
+
 ### [2016-09-29](/news/2016/09/29/index.md)
 
 # Typhoon Megi causes landslides in China and leaves at least 32 people missing. 
@@ -5,10 +8,15 @@
 At least 32 people were reported missing after rain-saturated hillsides collapsed onto villages in south-eastern China following a typhoon.
 
 
-### Source:
+### Sources:
 
 1. [BT](http://home.bt.com/news/world-news/more-than-30-people-missing-in-china-landslides-following-typhoon-11364101592338)
 1. [Cover Image](http://home.bt.com/images/more-than-30-people-missing-in-china-landslides-following-typhoon-136410159229210401-160929041003.jpg)
+
+### Changes:
+
+1. [2016 Pacific typhoon season: Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/2016-pacific-typhoon-season-typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _2017-08-27 03:46:55 (First version)_
+1. [Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +24,4 @@ At least 32 people were reported missing after rain-saturated hillsides collapse
 2. [The Philippine government places more than two dozen provinces on alert before Typhoon Haima makes landfall over Luzon. Haima, downgraded by the Global Disaster Alert and Coordination System to a Category 4 storm, landfalls Cagayan province in the island's northeast. Weather forecasters expect the storm to impact up to 2.7 million people before veering northwest toward the Chinese coast on October 21. ](/news/2016/10/19/the-philippine-government-places-more-than-two-dozen-provinces-on-alert-before-typhoon-haima-makes-landfall-over-luzon-haima-downgraded-by.md) _Context: 2016 Pacific typhoon season, China_
 3. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _Context: 2016 Pacific typhoon season, Typhoon Megi_
 4. [Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people-have-been-evacuated-in-taiwa.md) _Context: 2016 Pacific typhoon season, China_
-5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
-
-### Changes:
-
-1. [2016 Pacific typhoon season: Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/2016-pacific-typhoon-season-typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _2017-08-27 03:46:55 (First version)_
-1. [Typhoon Megi causes landslides in China and leaves at least 32 people missing. ](/news/2016/09/29/typhoon-megi-causes-landslides-in-china-and-leaves-at-least-32-people-missing.md) _(Current version)_
+5. [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md) _Context: China_

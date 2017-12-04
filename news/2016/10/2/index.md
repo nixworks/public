@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/2/index.html)  [JSON](2016/10/2/index.json)  [XML](2016/10/2/index.xml)  
+
 ## [2016-10-2](/news/2016/10/2/index.md)
 
 ### [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md)
@@ -19,7 +22,7 @@ Theresa May says she will trigger Brexit by the end of March, telling the Tory p
 Police in Japan are investigating whether a serial poisoner is responsible for killing as many as 48 elderly patients by injecting disinfectant into their intravenous drips. Suspicions began after an autopsy showed two elderly patients had been poisoned in Oguchi Hospital, Yokohama. Sozo Nishikawa a...
 
 ### [Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. ](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referendum-on-whether-to-accept-mandatory-european-union-quotas-on-relocating-migrants-while-an-ove.md)
-_Context: EU, Hungarian migrant quota referendum, 2016, Hungary_
+_Context: European Union, Hungarian migrant quota referendum, 2016, Hungary_
 
 ### [Brazilian voters cast ballots in the nationwide election of mayors and city councils in 5,568 municipalities. Pollsters predict that the Workers' Party will fair poorly. This is the country's first election since the impeachment of former president Dilma Rousseff. ](/news/2016/10/2/brazilian-voters-cast-ballots-in-the-nationwide-election-of-mayors-and-city-councils-in-5-568-municipalities-pollsters-predict-that-the-wor.md)
 The Workers’ Party of ousted President Dilma Rousseff suffered heavy losses in Brazil’s municipal elections on Sunday, bearing the brunt of voter dissatisfaction with an economic recession and a corruption scandal that have plagued Latin America’s largest nation.

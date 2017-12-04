@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.html)  [JSON](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.json)  [XML](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # The Anti-Defamation League declares that the "Pepe the Frog" meme is a hate symbol, particularly when used alongside other racially-charged symbolism. 
 
-Pepe the Frog, a cartoon character turned Internet meme, has been added to the Anti-Defamation League’s database of hate symbols.
 
 
-### Source:
+
+### Sources:
 
 1. [The Anti-Defamation League](http://www.adl.org/combating-hate/hate-on-display/c/pepe-the-frog.html)
-2. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/09/28/pepe-the-frog-internet-meme-declared-hate-symbol-anti-defamation-league/91210140/)
+2. [USA Today](https://www.usatoday.com/story/news/nation-now/2016/09/28/pepe-the-frog-internet-meme-declared-hate-symbol-anti-defamation-league/91210140/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

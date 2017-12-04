@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/30/index.html)  [JSON](2016/09/30/index.json)  [XML](2016/09/30/index.xml)  
+
 ## [2016-09-30](/news/2016/09/30/index.md)
 
 ### [Ten thousand pro-government troops, mostly Iranian-led Shiite militants, amass near Aleppo in preparation of a final assault on rebel-held parts of the city. ](/news/2016/09/30/ten-thousand-pro-government-troops-mostly-iranian-led-shiite-militants-amass-near-aleppo-in-preparation-of-a-final-assault-on-rebel-held-p.md)

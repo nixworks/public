@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.html)  [JSON](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.json)  [XML](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. 
@@ -5,11 +8,16 @@
 Juan Manuel Santos will meet presidential predecessors to discuss peace with the Revolutionary Armed Forces of Colombia. The ceasefire has been extended after a peace deal was rejected Sunday by 50.2 percent of voters.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/santos-will-meet-uribe-and-pastrana-to-talk-farc-peace/a-35958255)
-2. [Reuters](http://www.reuters.com/article/us-colombia-peace-idUSKCN12422P)
+2. [Reuters](https://www.reuters.com/article/us-colombia-peace-idUSKCN12422P)
 2. [Cover Image](http://www.dw.com/image/35950469_304.jpg)
+
+### Changes:
+
+1. [Referendum: Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. ](/news/2016/10/4/referendum-colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-prede.md) _2017-08-27 03:46:57 (First version)_
+1. [Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. ](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Juan Manuel Santos will meet presidential predecessors to discuss peace with the
 3. [Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md) _Context: Colombian President, FARC, Juan Manuel Santos_
 4. [Colombian President Juan Manuel Santos and FARC guerrilla leader Rodrigo Londono, also known as Timochenko, sign a peace accord in Cartagena, ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a referendum on October 2.](/news/2016/09/26/colombian-president-juan-manuel-santos-and-farc-guerrilla-leader-rodrigo-londoa-o-also-known-as-timochenko-sign-a-peace-accord-in-cartagen.md) _Context: Colombia, FARC, Juan Manuel Santos_
 5. [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md) _Context: Colombia, Colombian President, Juan Manuel Santos_
-
-### Changes:
-
-1. [Referendum: Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. ](/news/2016/10/4/referendum-colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-prede.md) _2017-08-27 03:46:57 (First version)_
-1. [Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. ](/news/2016/10/4/colombian-government-and-farc-representatives-meet-in-havana-and-president-juan-manuel-santos-will-meet-with-presidential-predecessors-alv.md) _(Current version)_

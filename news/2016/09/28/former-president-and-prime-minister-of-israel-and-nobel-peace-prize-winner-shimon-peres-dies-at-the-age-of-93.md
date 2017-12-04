@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/28/former-president-and-prime-minister-of-israel-and-nobel-peace-prize-winner-shimon-peres-dies-at-the-age-of-93.html)  [JSON](/news/2016/09/28/former-president-and-prime-minister-of-israel-and-nobel-peace-prize-winner-shimon-peres-dies-at-the-age-of-93.json)  [XML](/news/2016/09/28/former-president-and-prime-minister-of-israel-and-nobel-peace-prize-winner-shimon-peres-dies-at-the-age-of-93.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # Former President and Prime Minister of Israel, and Nobel Peace Prize winner Shimon Peres dies at the age of 93. 
@@ -5,7 +8,7 @@
 Senior statesman dies after suffering a stroke two weeks ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37515057)
 2. [The Jerusalem Post](http://www.jpost.com/Israel-News/Former-President-Peres-dies-at-93-467659)

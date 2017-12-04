@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/27/index.html)  [JSON](2016/09/27/index.json)  [XML](2016/09/27/index.xml)  
+
 ## [2016-09-27](/news/2016/09/27/index.md)
 
 ### [The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. ](/news/2016/09/27/the-syrian-army-clashes-with-insurgents-in-the-1070-apartments-district-of-aleppo.md)
@@ -25,7 +28,7 @@ Thailand is investigating four suspected cases of Zika-related microcephaly in t
 Once in a while, the global health news is good. Today is one of those days. The Pan American Health Organization (PAHO) announced today that measles has been eliminated in the Americas region. “This is a historic day for our region and indeed the world,” said PAHO/WHO Director Carissa F. Etienn...
 
 ### [President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-1961.md)
-The ambassador must be approved by GOP-controlled Senate, where it will face resistance.
+_Context: Barack Obama, Cuba-United States relations, Jeffrey DeLaurentis, United States Ambassador to Cuba_
 
 ### [The Obama administration through the United States Department of Labor sues Peter Thiel's Palantir Technologies for alleged discrimination against Asians in its hiring practices. ](/news/2016/09/27/the-obama-administration-through-the-united-states-department-of-labor-sues-peter-thiel-s-palantir-technologies-for-alleged-discrimination-a.md)
 (This version of the Sept. 26 story, corrects paragraph 4 to show that Palantir issued a statement denying the allegations, which was contained in an earlier story, instead of that Palantir could not immediately be reached for comment, adds Palantir comment on Labor Department analysis in paragraph ...

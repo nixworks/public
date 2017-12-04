@@ -13,7 +13,8 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 1. [BBC](http://www.bbc.com/news/world-middle-east-42218042)
 2. [Deutsche Welle](http://www.dw.com/en/arab-world-warns-us-not-to-recognize-jerusalem-as-israeli-capital/a-41631128)
 3. [France 24](http://www.france24.com/en/20171203-jerusalem-israel-hamas-trump-palestinian)
-3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/jerusalem-1.jpg)
+4. [The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-5143479/Five-questions-potential-US-declaration-Jerusalem-Israels-capital.html)
+4. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/jerusalem-1.jpg)
 
 ### Changes:
 

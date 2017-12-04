@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/30/china-arrests-a-man-yang-qingpei-for-killing-his-parents-and-then-killing-17-neighbors-in-an-attempt-to-cover-up-his-crime-in-kunming-the.html)  [JSON](/news/2016/09/30/china-arrests-a-man-yang-qingpei-for-killing-his-parents-and-then-killing-17-neighbors-in-an-attempt-to-cover-up-his-crime-in-kunming-the.json)  [XML](/news/2016/09/30/china-arrests-a-man-yang-qingpei-for-killing-his-parents-and-then-killing-17-neighbors-in-an-attempt-to-cover-up-his-crime-in-kunming-the.xml)  
+
 ### [2016-09-30](/news/2016/09/30/index.md)
 
 # China arrests a man, Yang Qingpei, for killing his parents and then killing 17 neighbors in an attempt to cover up his crime in Kunming, the capital of Yunnan Province. 
@@ -5,7 +8,7 @@
 A Chinese man has confessed to killing his parents and then killing 17 neighbours in an attempt to cover up his crime, state media report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37521650)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/180D4/production/_91461589_mediaitem91461584.jpg)

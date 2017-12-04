@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.html)  [JSON](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.json)  [XML](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.xml)  
+
 ### [2016-10-3](/news/2016/10/3/index.md)
 
 # Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. 
@@ -5,11 +8,16 @@
 Chaba will now brush South Korea before moving into mainland Japan.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/10/03/powerful-typhoon-barrels-towards-japan)
 2. [Weather.com](https://weather.com/storms/typhoon/news/super-typhoon-chaba-okinawa-japan-forecast)
 2. [Cover Image](http://s.w-x.co/chaba-3oct16-himawari-am.jpg)
+
+### Changes:
+
+1. [2016 Pacific typhoon season: Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/2016-pacific-typhoon-season-typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-s.md) _2017-08-27 03:46:57 (First version)_
+1. [Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +25,4 @@ Chaba will now brush South Korea before moving into mainland Japan.
 2. [The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. ](/news/2016/09/4/the-death-toll-in-japan-from-typhoon-lionrock-rises-to-17-with-several-people-still-missing-typhoon-namtheun-is-now-threatening-the-main-is.md) _Context: 2016 Pacific typhoon season, Japan_
 3. [Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. ](/news/2016/09/20/typhoon-malakas-makes-landfall-on-the-southern-japanese-island-of-kyushu-dumping-heavy-rain-and-causing-flight-cancellations.md) _Context: 2016 Pacific typhoon season, Japan_
 4. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: 2016 Pacific typhoon season, Japan_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-
-### Changes:
-
-1. [2016 Pacific typhoon season: Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/2016-pacific-typhoon-season-typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-s.md) _2017-08-27 03:46:57 (First version)_
-1. [Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. ](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-145-knots-165-mph-heads-for-japan-s-southern-islands-with-storm-warnings-of-torrential-r.md) _(Current version)_
+5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/28/the-state-of-south-australia-suffers-widespread-blackouts-triggered-by-severe-weather-conditions.html)  [JSON](/news/2016/09/28/the-state-of-south-australia-suffers-widespread-blackouts-triggered-by-severe-weather-conditions.json)  [XML](/news/2016/09/28/the-state-of-south-australia-suffers-widespread-blackouts-triggered-by-severe-weather-conditions.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # The state of South Australia suffers widespread blackouts triggered by severe weather conditions. 
@@ -5,7 +8,7 @@
 South Australians are preparing for one of the most extreme weather systems to hit the state in recent decades.
 
 
-### Source:
+### Sources:
 
 1. [9 News](http://www.9news.com.au/national/2016/09/28/05/40/south-australia-braces-for-one-of-the-most-extreme-weather-systems-in-decades)
 1. [Cover Image](http://9network-vod-progressive.akamaized.net/media2/664969388001/2016/09/664969388001_5146522373001_5146495443001-vs.jpg)

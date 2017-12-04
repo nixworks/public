@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.html)  [JSON](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.json)  [XML](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.xml)  
+
 ### [2016-09-27](/news/2016/09/27/index.md)
 
 # Taiwan authorities close schools and offices as Typhoon Megi approaches the island. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star-Telegram](http://www.star-telegram.com/news/nation-world/world/article104379551.html)
+
+### Changes:
+
+1. [2016 Pacific typhoon season: Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/2016-pacific-typhoon-season-taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _2017-08-27 03:46:54 (First version)_
+1. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md) _Context: 2016 Pacific typhoon season, Taiwan_
 4. [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md) _Context: 2016 Pacific typhoon season, Taiwan_
 5. [Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. ](/news/2016/09/14/typhoon-meranti-hits-southern-taiwan-with-record-breaking-winds-and-heavy-rains-disrupting-transport-and-knocking-out-power-to-tens-of-thou.md) _Context: 2016 Pacific typhoon season, Taiwan_
-
-### Changes:
-
-1. [2016 Pacific typhoon season: Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/2016-pacific-typhoon-season-taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _2017-08-27 03:46:54 (First version)_
-1. [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md) _(Current version)_

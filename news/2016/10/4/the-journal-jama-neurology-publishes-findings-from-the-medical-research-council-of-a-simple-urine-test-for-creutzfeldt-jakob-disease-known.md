@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/the-journal-jama-neurology-publishes-findings-from-the-medical-research-council-of-a-simple-urine-test-for-creutzfeldt-jakob-disease-known.html)  [JSON](/news/2016/10/4/the-journal-jama-neurology-publishes-findings-from-the-medical-research-council-of-a-simple-urine-test-for-creutzfeldt-jakob-disease-known.json)  [XML](/news/2016/10/4/the-journal-jama-neurology-publishes-findings-from-the-medical-research-council-of-a-simple-urine-test-for-creutzfeldt-jakob-disease-known.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # The journal JAMA Neurology publishes findings from the Medical Research Council of a simple urine test for Creutzfeldt-Jakob disease (known as the human variant of mad cow disease), which is caused by deposits of prions. The current testing protocol is to obtain a sample of cerebrospinal fluid or brain tissue, or wait for a post-mortem after death. 
@@ -5,7 +8,7 @@
 UK scientists believe urine could be used for a quick and simple way to test for CJD or &quot;human mad cow disease&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/health-37541550)
 2. [UPI](http://www.upi.com/Health_News/2016/10/04/Urine-test-may-detect-Creutzfeldt-Jakob-disease/6701475582552/)

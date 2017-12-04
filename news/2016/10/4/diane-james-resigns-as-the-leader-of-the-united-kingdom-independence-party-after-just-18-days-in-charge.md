@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/diane-james-resigns-as-the-leader-of-the-united-kingdom-independence-party-after-just-18-days-in-charge.html)  [JSON](/news/2016/10/4/diane-james-resigns-as-the-leader-of-the-united-kingdom-independence-party-after-just-18-days-in-charge.json)  [XML](/news/2016/10/4/diane-james-resigns-as-the-leader-of-the-united-kingdom-independence-party-after-just-18-days-in-charge.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # Diane James resigns as the leader of the United Kingdom Independence Party after just 18 days in charge. 
@@ -5,7 +8,7 @@
 Nigel Farage says he is temporarily at the helm of the party - but insists he won&#039;t take on the &quot;rotten job&quot; permanently.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/ukips-diane-james-quits-as-leader-after-18-days-10605754)
 1. [Cover Image](http://e3.365dm.com/16/09/1600x900/f9be504a273a4db6fd03e55f217e351c89a8b4f2ca8a2e3dcd21ada840e1a0f5_3787456.jpg?20160916142158)

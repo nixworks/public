@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/3/the-u-s-supreme-court-declines-to-rehear-president-barack-obama-s-2014-plan-deferred-action-for-parents-of-americans-to-spare-from-deport.html)  [JSON](/news/2016/10/3/the-u-s-supreme-court-declines-to-rehear-president-barack-obama-s-2014-plan-deferred-action-for-parents-of-americans-to-spare-from-deport.json)  [XML](/news/2016/10/3/the-u-s-supreme-court-declines-to-rehear-president-barack-obama-s-2014-plan-deferred-action-for-parents-of-americans-to-spare-from-deport.xml)  
+
 ### [2016-10-3](/news/2016/10/3/index.md)
 
 # The U.S. Supreme Court declines to rehear President Barack Obama's 2014 plan (Deferred Action for Parents of Americans) to spare from deportation millions of immigrants in the country illegally, a case in which the justices split 4&ndash;4 in June. The justices' June 23 decision ("United States v. Texas") is final. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-immigration-idUSKCN1231FS)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161003&t=2&i=1155969563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC920ZO)
+1. [Reuters](https://www.reuters.com/article/us-usa-court-immigration-idUSKCN1231FS)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161003&t=2&i=1155969563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC920ZO)
 
 ### Related:
 

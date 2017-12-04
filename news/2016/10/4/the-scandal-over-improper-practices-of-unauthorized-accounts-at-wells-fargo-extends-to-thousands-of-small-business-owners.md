@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.html)  [JSON](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.json)  [XML](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # The scandal over improper practices of unauthorized accounts at Wells Fargo extends to thousands of small-business owners. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-wells-fargo-accounts-business-exclusi-idUSKCN124261)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161004&t=2&i=1156100982&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC931C8)
+1. [Reuters](https://www.reuters.com/article/us-wells-fargo-accounts-business-exclusi-idUSKCN124261)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161004&t=2&i=1156100982&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC931C8)
 
 ### Related:
 

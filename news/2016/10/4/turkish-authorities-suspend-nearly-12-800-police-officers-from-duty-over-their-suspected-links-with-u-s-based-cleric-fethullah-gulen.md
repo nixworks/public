@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/4/turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-fethullah-gulen.html)  [JSON](/news/2016/10/4/turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-fethullah-gulen.json)  [XML](/news/2016/10/4/turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-fethullah-gulen.xml)  
+
 ### [2016-10-4](/news/2016/10/4/index.md)
 
 # Turkish authorities suspend nearly 12,800 police officers from duty over their suspected links with U.S.-based cleric Fethullah Gulen. 
@@ -5,11 +8,16 @@
 12 channels are charged with broadcasting terror propaganda for the outlawed Kurdistan Workers Party
 
 
-### Source:
+### Sources:
 
 1. [Gulf News](http://gulfnews.com/news/mena/turkey/turkey-police-shut-down-pro-kurdish-tv-channel-live-on-air-1.1906713)
-2. [Reuters](http://www.reuters.com/article/us-turkey-security-police-idUSKCN12408Z)
+2. [Reuters](https://www.reuters.com/article/us-turkey-security-police-idUSKCN12408Z)
 2. [Cover Image](http://static.gulfnews.com/polopoly_fs/1.1906944!/image/2964763478.jpg_gen/derivatives/box_460346/2964763478.jpg)
+
+### Changes:
+
+1. [2016 Turkish purges: Turkish authorities suspend nearly 12,800 police officers from duty over their suspected links with U.S.-based cleric Fethullah Gulen. ](/news/2016/10/4/2016-turkish-purges-turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-f.md) _2017-08-27 03:46:57 (First version)_
+1. [Turkish authorities suspend nearly 12,800 police officers from duty over their suspected links with U.S.-based cleric Fethullah Gulen. ](/news/2016/10/4/turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-fethullah-gulen.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [Turkish authorities detain 55 military and intelligence agency personnel over suspected links to U.S.-based cleric Fethullah Gulen. ](/news/2016/10/5/turkish-authorities-detain-55-military-and-intelligence-agency-personnel-over-suspected-links-to-u-s-based-cleric-fethullah-ga1-4len.md) _Context: 2016 Turkish purges, Turkey_
 4. [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md) _Context: 2016 Turkish purges, Turkey_
 5. [Turkey suspends 11,500 teachers over alleged links to separatist terrorist organization Kurdistan Workers' Party (PKK) a week before the start of school. ](/news/2016/09/8/turkey-suspends-11-500-teachers-over-alleged-links-to-separatist-terrorist-organization-kurdistan-workers-party-pkk-a-week-before-the-sta.md) _Context: 2016 Turkish purges, Turkey_
-
-### Changes:
-
-1. [2016 Turkish purges: Turkish authorities suspend nearly 12,800 police officers from duty over their suspected links with U.S.-based cleric Fethullah Gulen. ](/news/2016/10/4/2016-turkish-purges-turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-f.md) _2017-08-27 03:46:57 (First version)_
-1. [Turkish authorities suspend nearly 12,800 police officers from duty over their suspected links with U.S.-based cleric Fethullah Gulen. ](/news/2016/10/4/turkish-authorities-suspend-nearly-12-800-police-officers-from-duty-over-their-suspected-links-with-u-s-based-cleric-fethullah-gulen.md) _(Current version)_

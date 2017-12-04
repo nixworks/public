@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/4/index.html)  [JSON](2016/10/4/index.json)  [XML](2016/10/4/index.xml)  
+
 ## [2016-10-4](/news/2016/10/4/index.md)
 
 ### [An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. ](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclists-who-open-fire-on-a-bus-traveling-to-hazara-town-quetta-pakistan-kills-four-women-from-p.md)

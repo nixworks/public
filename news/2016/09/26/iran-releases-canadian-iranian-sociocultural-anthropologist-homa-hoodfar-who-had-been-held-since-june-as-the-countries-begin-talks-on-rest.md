@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.html)  [JSON](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.json)  [XML](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.xml)  
+
 ### [2016-09-26](/news/2016/09/26/index.md)
 
 # Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. 
@@ -5,10 +8,15 @@
 Iran said on Monday it had freed a Canadian-Iranian academic detained since June, releasing her just a week after the two countries began talks on a potential restoration of diplomatic relations broken in 2012.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-iran-canada-arrests-idUSKCN11W1L1)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-iran-canada-arrests-idUSKCN11W1L1)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Canada-Iran relations: Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/canada-iran-relations-iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-coun.md) _2017-08-27 03:46:54 (First version)_
+1. [Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Iran said on Monday it had freed a Canadian-Iranian academic detained since June
 3. [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md) _Context: Canada, Iran_
 4. [After Iran's selection to the Commission on the Status of Women, a United Nations panel on women's rights, Canada cites "serious concerns" about Iran's participation in the panel and Iran's human-rights record. ](/news/2010/05/2/after-iranas-selection-to-the-commission-on-the-status-of-women-a-united-nations-panel-on-womenas-rights-canada-cites-aserious-conce.md) _Context: Canada, Iran_
 5. [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md) _Context: Canada, Iran_
-
-### Changes:
-
-1. [Canada-Iran relations: Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/canada-iran-relations-iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-coun.md) _2017-08-27 03:46:54 (First version)_
-1. [Iran releases Canadian-Iranian sociocultural anthropologist Homa Hoodfar, who had been held since June, as the countries begin talks on restoration of diplomatic ties. ](/news/2016/09/26/iran-releases-canadian-iranian-sociocultural-anthropologist-homa-hoodfar-who-had-been-held-since-june-as-the-countries-begin-talks-on-rest.md) _(Current version)_

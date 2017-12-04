@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/4/index.md)
 
-### [A source in the General People's Congress says former president Ali Abdullah Saleh is killed by sniper bullets. Residents say Houthi forces have blown up his house in Sana'a. ](/news/2017/12/4/a-source-in-the-general-people-s-congress-says-former-president-ali-abdullah-saleh-is-killed-by-sniper-bullets-residents-say-houthi-forces.md)
-_Context: Ali Abdullah Saleh, General People's Congress, Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
+### [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md)
+Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
 
 ### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
 The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20...
@@ -21,7 +21,7 @@ A foreign aid scheme is suspended by the government, following a BBC Panorama in
 ### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
 _Context: Daphne Caruana Galizia, Malta_
 
-### [A teenager in California is turned into police by his own mother where he confesses to molesting at least 50 children over a nearly 10 year period. ](/news/2017/12/4/a-teenager-in-california-is-turned-into-police-by-his-own-mother-where-he-confesses-to-molesting-at-least-50-children-over-a-nearly-10-year.md)
+### [A teenager from California is turned into the police by his own mother where he confesses to molesting at least 50 children over a nearly 10 year period. ](/news/2017/12/4/a-teenager-from-california-is-turned-into-the-police-by-his-own-mother-where-he-confesses-to-molesting-at-least-50-children-over-a-nearly-10.md)
 _Context: California_
 
 ### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-j.md)

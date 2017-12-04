@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/28/index.html)  [JSON](2016/09/28/index.json)  [XML](2016/09/28/index.xml)  
+
 ## [2016-09-28](/news/2016/09/28/index.md)
 
 ### [A U.S. drone strike in Nangarhar Province kills at least 21 people. ](/news/2016/09/28/a-u-s-drone-strike-in-nangarhar-province-kills-at-least-21-people.md)
@@ -10,7 +13,7 @@ The Sudanese government is allegedly using chemical weapons against its own peop
 Prosecutors investigating the 2014 downing of flight MH17 over eastern Ukraine say it was hit by a missile which was brought in from Russia.
 
 ### [The Anti-Defamation League declares that the "Pepe the Frog" meme is a hate symbol, particularly when used alongside other racially-charged symbolism. ](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.md)
-Pepe the Frog, a cartoon character turned Internet meme, has been added to the Anti-Defamation League’s database of hate symbols.
+_Context: Anti-Defamation League, Pepe the Frog_
 
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
 _Context: 2016 Pacific typhoon season, China, Taiwan, Typhoon Megi_

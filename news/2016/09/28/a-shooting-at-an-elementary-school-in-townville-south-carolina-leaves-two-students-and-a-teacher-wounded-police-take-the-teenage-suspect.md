@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/28/a-shooting-at-an-elementary-school-in-townville-south-carolina-leaves-two-students-and-a-teacher-wounded-police-take-the-teenage-suspect.html)  [JSON](/news/2016/09/28/a-shooting-at-an-elementary-school-in-townville-south-carolina-leaves-two-students-and-a-teacher-wounded-police-take-the-teenage-suspect.json)  [XML](/news/2016/09/28/a-shooting-at-an-elementary-school-in-townville-south-carolina-leaves-two-students-and-a-teacher-wounded-police-take-the-teenage-suspect.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # A shooting at an elementary school in Townville, South Carolina, leaves two students and a teacher wounded. Police take the teenage suspect into custody. Authorities find the shooter's father dead. One of the students dies two days later. 
@@ -5,7 +8,7 @@
 One of the students was in critical condition and the suspected attacker was in custody. The suspect&#x27;s father was found shot to death nearby.
 
 
-### Source:
+### Sources:
 
 1. [Greenville Online](http://www.greenvilleonline.com/story/news/crime/2016/10/01/jacob-hall-townville-elementary-shooting-victim-has-died/91395546/)
 2. [NBC News](http://www.nbcnews.com/news/us-news/shooting-injuries-reported-south-carolina-elementary-school-n656181)

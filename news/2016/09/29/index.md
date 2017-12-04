@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/29/index.html)  [JSON](2016/09/29/index.json)  [XML](2016/09/29/index.xml)  
+
 ## [2016-09-29](/news/2016/09/29/index.md)
 
 ### [The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. ](/news/2016/09/29/the-indian-army-claims-it-conducted-surgical-strikes-on-militant-camps-in-pakistan-across-the-line-of-control-allegedly-killing-several-sus.md)

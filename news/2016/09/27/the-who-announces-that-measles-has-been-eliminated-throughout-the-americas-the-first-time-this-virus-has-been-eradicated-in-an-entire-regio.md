@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/27/the-who-announces-that-measles-has-been-eliminated-throughout-the-americas-the-first-time-this-virus-has-been-eradicated-in-an-entire-regio.html)  [JSON](/news/2016/09/27/the-who-announces-that-measles-has-been-eliminated-throughout-the-americas-the-first-time-this-virus-has-been-eradicated-in-an-entire-regio.json)  [XML](/news/2016/09/27/the-who-announces-that-measles-has-been-eliminated-throughout-the-americas-the-first-time-this-virus-has-been-eradicated-in-an-entire-regio.xml)  
+
 ### [2016-09-27](/news/2016/09/27/index.md)
 
 # The WHO announces that measles has been eliminated throughout the Americas, the first time this virus has been eradicated in an entire region. The hemisphere's last endemic case of measles -- one which did not spring from an imported strain -- was in 2002. 
@@ -5,9 +8,9 @@
 Once in a while, the global health news is good. Today is one of those days. The Pan American Health Organization (PAHO) announced today that measles has been eliminated in the Americas region. “This is a historic day for our region and indeed the world,” said PAHO/WHO Director Carissa F. Etienne in a statement. “It &hellip;
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2016/09/28/health/measles-eradication-united-states.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2016/09/28/health/measles-eradication-united-states.html?_r=0)
 2. [UN Dispatch](http://www.undispatch.com/deadly-child-killing-disease-just-eradicated-entire-hemisphere/)
 2. [Cover Image](http://www.undispatch.com/un-content/uploads/2016/09/measles.jpg)
 

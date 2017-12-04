@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/28/the-royal-bank-of-scotland-announces-that-it-will-pay-us-1-1-billion-to-resolve-some-of-its-mortgage-claims-in-the-united-states.html)  [JSON](/news/2016/09/28/the-royal-bank-of-scotland-announces-that-it-will-pay-us-1-1-billion-to-resolve-some-of-its-mortgage-claims-in-the-united-states.json)  [XML](/news/2016/09/28/the-royal-bank-of-scotland-announces-that-it-will-pay-us-1-1-billion-to-resolve-some-of-its-mortgage-claims-in-the-united-states.xml)  
+
 ### [2016-09-28](/news/2016/09/28/index.md)
 
 # The Royal Bank of Scotland announces that it will pay US$1.1 billion to resolve some of its mortgage claims in the United States. 
@@ -5,10 +8,10 @@
 Royal Bank of Scotland Group Plc will pay $1.1 billion to resolve claims that it sold toxic mortgage-backed securities to credit unions that later failed, the U.S. National Credit Union Administration (NCUA) said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-royal-bank-scot-lawsuit-idUSKCN11X2O8)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160928&t=2&i=1155233972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8Q1GS)
+1. [Reuters](https://www.reuters.com/article/us-royal-bank-scot-lawsuit-idUSKCN11X2O8)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160928&t=2&i=1155233972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8Q1GS)
 
 ### Related:
 

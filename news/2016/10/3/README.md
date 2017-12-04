@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/3/index.html)  [JSON](2016/10/3/index.json)  [XML](2016/10/3/index.xml)  
+
 ## [2016-10-3](/news/2016/10/3/index.md)
 
 ### [The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/26/the-indian-space-research-organisation-isro-launches-cyclone-detection-satellite-scatsat-1-and-seven-other-satellites-into-orbit-from-the.html)  [JSON](/news/2016/09/26/the-indian-space-research-organisation-isro-launches-cyclone-detection-satellite-scatsat-1-and-seven-other-satellites-into-orbit-from-the.json)  [XML](/news/2016/09/26/the-indian-space-research-organisation-isro-launches-cyclone-detection-satellite-scatsat-1-and-seven-other-satellites-into-orbit-from-the.xml)  
+
 ### [2016-09-26](/news/2016/09/26/index.md)
 
 # The Indian Space Research Organisation (ISRO) launches cyclone detection satellite SCATSAT-1, and seven other satellites into orbit from the Satish Dhawan Space Centre in Sriharikota. The launch successfully demonstrates the Polar Satellite Launch Vehicle's capability of placing satellites in multiple orbits in a single launch. 
@@ -5,7 +8,7 @@
 Exactly at 9.12 a.m., the PSLV rocket standing 44.4 metres tall and weighing 320 tonne tore into the morning skies with fierce orange flames at its tail.
 
 
-### Source:
+### Sources:
 
 1. [The Economic Times](http://economictimes.indiatimes.com/news/science/pslvs-longest-flight-places-scatsat-1-into-orbit-in-copybook-launch/articleshow/54518176.cms)
 1. [Cover Image](http://img.etimg.com/thumb/msid-54518193,width-672,resizemode-4,imglength-126030/news/science/pslvs-longest-flight-places-scatsat-1-into-orbit-in-copybook-launch/launch.jpg)

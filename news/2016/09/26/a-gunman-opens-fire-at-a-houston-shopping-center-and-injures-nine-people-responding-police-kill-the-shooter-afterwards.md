@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-center-and-injures-nine-people-responding-police-kill-the-shooter-afterwards.html)  [JSON](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-center-and-injures-nine-people-responding-police-kill-the-shooter-afterwards.json)  [XML](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-center-and-injures-nine-people-responding-police-kill-the-shooter-afterwards.xml)  
+
 ### [2016-09-26](/news/2016/09/26/index.md)
 
 # A gunman opens fire at a Houston shopping center and injures nine people. Responding police kill the shooter afterwards. 
@@ -5,7 +8,7 @@
 A man dressed in a vintage military uniform emblazoned with a Nazi symbol and toting a Tommy Gun and a hand gun unleashed a flurry of bullets near a Houston shopping center on Monday morning, injuring nine people before he was shot dead by police.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2016/09/26/as-many-as-7-may-be-wounded-in-houston-shooting-report-says.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/26/0/0/694940094001_5141524126001_Disgruntled-lawyer-suspected-in-Houston-shooting.jpg?ve=1)
