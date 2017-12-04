@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/the-earth-has-lost-a-tenth-of-its-wilderness-in-the-last-two-decades.html)  [JSON](/news/2016/09/8/the-earth-has-lost-a-tenth-of-its-wilderness-in-the-last-two-decades.json)  [XML](/news/2016/09/8/the-earth-has-lost-a-tenth-of-its-wilderness-in-the-last-two-decades.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # The Earth has lost a tenth of its wilderness in the last two decades. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2016/09/08/the-world-has-lost-a-10th-of-all-its-wilderness-in-the-past-two-decades/)
 

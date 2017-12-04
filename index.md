@@ -3,10 +3,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/4/index.md)
 
+### [A source in the General People's Congress says former president Ali Abdullah Saleh is killed by sniper bullets. Residents say Houthi forces have blown up his house in Sana'a. ](/news/2017/12/4/a-source-in-the-general-people-s-congress-says-former-president-ali-abdullah-saleh-is-killed-by-sniper-bullets-residents-say-houthi-forces.md)
+_Context: Ali Abdullah Saleh, General People's Congress, Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
+
 ### [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md)
 A foreign aid scheme is suspended by the government, following a BBC Panorama investigation.
 
-### [Malta arrests 10 people over the October 16 murder of investigative journalist Daphne Caruana Galizia. ](/news/2017/12/4/malta-arrests-10-people-over-the-october-16-murder-of-investigative-journalist-daphne-caruana-galizia.md)
+### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
 _Context: Daphne Caruana Galizia, Malta_
 
 ### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/apple-announces-the-release-of-the-iphone-7-along-with-the-apple-watch-2.html)  [JSON](/news/2016/09/7/apple-announces-the-release-of-the-iphone-7-along-with-the-apple-watch-2.json)  [XML](/news/2016/09/7/apple-announces-the-release-of-the-iphone-7-along-with-the-apple-watch-2.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # Apple announces the release of the iPhone 7 along with the Apple Watch 2. 
@@ -5,7 +8,7 @@
 Apple yesterday launched the iPhone 7 and iPhone 7 Plus, along with the Apple Watch Series 2 and a set of wireless headphones called AirPods.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/technology/2016/09/07/apple-iphone-7-launch-leaked-on-twitter---live-from-the-stage-no/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/n/k/nkbm1ynte6nxgiqksoaxxbhce7ukajbt-xlarge.jpg)

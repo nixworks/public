@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/newly-revealed-secret-information-decoded-from-documents-from-the-mitrokhin-archive-a-collection-of-handwritten-notes-by-kgb-archivist-vas.html)  [JSON](/news/2016/09/8/newly-revealed-secret-information-decoded-from-documents-from-the-mitrokhin-archive-a-collection-of-handwritten-notes-by-kgb-archivist-vas.json)  [XML](/news/2016/09/8/newly-revealed-secret-information-decoded-from-documents-from-the-mitrokhin-archive-a-collection-of-handwritten-notes-by-kgb-archivist-vas.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # Newly-revealed secret information, decoded from documents from the Mitrokhin Archive, a collection of handwritten notes by KGB archivist Vasili Mitrokhin, who smuggled his notes out of Russia in the 1990s when he defected to Britain, show that Palestinian leader Mahmoud Abbas was once a "spy" under the Russian agency the KGB using the codename "Mole". 
@@ -5,7 +8,7 @@
 The Palestinian Authority very quickly denied the claims, calling them another Israeli slur against the president.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/09/08/palestinian-president-mahmoud-abbas-was-once-a-kgb-spy-codenamed-mole-report-claims/)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.html)  [JSON](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.json)  [XML](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/policy/energy-environment/294760-green-party-candidate-faces-charges-over-protest)
 

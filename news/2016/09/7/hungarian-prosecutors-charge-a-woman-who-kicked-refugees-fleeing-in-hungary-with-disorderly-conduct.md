@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/hungarian-prosecutors-charge-a-woman-who-kicked-refugees-fleeing-in-hungary-with-disorderly-conduct.html)  [JSON](/news/2016/09/7/hungarian-prosecutors-charge-a-woman-who-kicked-refugees-fleeing-in-hungary-with-disorderly-conduct.json)  [XML](/news/2016/09/7/hungarian-prosecutors-charge-a-woman-who-kicked-refugees-fleeing-in-hungary-with-disorderly-conduct.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # Hungarian prosecutors charge a woman who kicked refugees fleeing in Hungary with disorderly conduct. 
@@ -5,7 +8,7 @@
 Petra Laszlo charged with disorderly conduct after she was filmed kicking and tripping refugees fleeing police.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/09/hungary-indicts-camerawoman-kicked-refugees-160907192812272.html)
 

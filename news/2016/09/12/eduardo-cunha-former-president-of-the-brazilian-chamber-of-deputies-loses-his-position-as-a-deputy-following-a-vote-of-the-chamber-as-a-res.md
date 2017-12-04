@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/eduardo-cunha-former-president-of-the-brazilian-chamber-of-deputies-loses-his-position-as-a-deputy-following-a-vote-of-the-chamber-as-a-res.html)  [JSON](/news/2016/09/12/eduardo-cunha-former-president-of-the-brazilian-chamber-of-deputies-loses-his-position-as-a-deputy-following-a-vote-of-the-chamber-as-a-res.json)  [XML](/news/2016/09/12/eduardo-cunha-former-president-of-the-brazilian-chamber-of-deputies-loses-his-position-as-a-deputy-following-a-vote-of-the-chamber-as-a-res.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # Eduardo Cunha, former President of the Brazilian Chamber of Deputies loses his position as a Deputy following a vote of the Chamber as a result of a series of corruption scandals. 
@@ -5,9 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/sites/shannonsims/2016/09/12/brazils-most-powerful-and-corrupt-politician-just-went-down/#5a42cbe012b6)
+1. [Forbes](https://www.forbes.com/sites/shannonsims/2016/09/12/brazils-most-powerful-and-corrupt-politician-just-went-down/#5a42cbe012b6)
+1. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F528454356%2F960x0.jpg%3Ffit%3Dscale)
 
 ### Related:
 

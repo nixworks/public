@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.html)  [JSON](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.json)  [XML](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-37301920)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/16C8E/production/_91062339_madonnapa.jpg)

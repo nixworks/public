@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.html)  [JSON](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.json)  [XML](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.xml)  
+
 ### [2016-09-9](/news/2016/09/9/index.md)
 
 # General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Fortune](http://fortune.com/2016/09/09/gm-recall-software/)
 

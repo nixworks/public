@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/international-banking-company-wells-fargo-agrees-to-pay-190-million-including-100-million-to-the-u-s-consumer-financial-protection-burea.html)  [JSON](/news/2016/09/8/international-banking-company-wells-fargo-agrees-to-pay-190-million-including-100-million-to-the-u-s-consumer-financial-protection-burea.json)  [XML](/news/2016/09/8/international-banking-company-wells-fargo-agrees-to-pay-190-million-including-100-million-to-the-u-s-consumer-financial-protection-burea.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # International banking company Wells Fargo agrees to pay $190 million, including $100 million to the U.S. Consumer Financial Protection Bureau (largest ever for the agency), to settle a case involving deceptive sales that pushed customers into fee-generating accounts they never requested. The bank fired 5,300 employees over "inappropriate sales conduct." The firings took place over a five-year period. 
@@ -5,10 +8,10 @@
 Wells Fargo has long been the envy of the banking industry for its ability to sell multiple products to the same customer, but regulators on Thursday said those practices went too far in some instances.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-wells-fargo-settlement-idUSKCN11E2CJ)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160908&t=2&i=1152823130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8717Z)
+1. [Reuters](https://www.reuters.com/article/us-wells-fargo-settlement-idUSKCN11E2CJ)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160908&t=2&i=1152823130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8717Z)
 
 ### Related:
 

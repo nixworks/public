@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/6/bayer-reproposes-to-buy-monsanto-at-a-new-exchange-of-us-65-billion-including-debt.html)  [JSON](/news/2016/09/6/bayer-reproposes-to-buy-monsanto-at-a-new-exchange-of-us-65-billion-including-debt.json)  [XML](/news/2016/09/6/bayer-reproposes-to-buy-monsanto-at-a-new-exchange-of-us-65-billion-including-debt.xml)  
+
 ### [2016-09-6](/news/2016/09/6/index.md)
 
 # Bayer reproposes to buy Monsanto at a new exchange of US$65 billion including debt. 
@@ -5,9 +8,9 @@
 Bayer AG raised its offer to buy Monsanto Co. and create a new global leader in seeds and pesticides, though the German firm said the higher price depended on achieving a “negotiated transaction.”
 
 
-### Source:
+### Sources:
 
-1. [The Wall Street Journal](http://www.wsj.com/articles/bayer-raises-offer-to-buy-monsanto-1473121719)
+1. [The Wall Street Journal](https://www.wsj.com/articles/bayer-raises-offer-to-buy-monsanto-1473121719)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-OX457_0714ba_TOP_20160714120006.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.html)  [JSON](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.json)  [XML](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/09/11/asia-stock-markets-to-focus-on-fed-expectations-lower-oil-prices-china-data.html)
+1. [CNBC](https://www.cnbc.com/2016/09/11/asia-stock-markets-to-focus-on-fed-expectations-lower-oil-prices-china-data.html)
 
 ### Related:
 

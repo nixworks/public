@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/10/fiji-authorities-detain-two-opposition-party-leaders-a-prominent-trade-unionist-and-another-opposition-activist-following-their-participa.html)  [JSON](/news/2016/09/10/fiji-authorities-detain-two-opposition-party-leaders-a-prominent-trade-unionist-and-another-opposition-activist-following-their-participa.json)  [XML](/news/2016/09/10/fiji-authorities-detain-two-opposition-party-leaders-a-prominent-trade-unionist-and-another-opposition-activist-following-their-participa.xml)  
+
 ### [2016-09-10](/news/2016/09/10/index.md)
 
 # Fiji authorities detain two opposition party leaders, a prominent trade unionist, and another opposition activist, following their participation in Wednesday's forum on the Pacific island's 2013 constitution. A police spokesperson told the "Fiji Times" that several people were being questioned about comments made at the forum that, "Could affect the safety and security of all Fijians." 
@@ -5,10 +8,10 @@
 The leaders of Fiji&#39;s two opposition parties remained in police custody on Sunday, after their arrest over a meeting regarding the constitution.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/312994/fiji-opposition-leaders-detained,-offices-searched-by-police)
-2. [Reuters](http://www.reuters.com/article/us-fiji-politics-arrests-idUSKCN11G06D?il=0)
+2. [Reuters](https://www.reuters.com/article/us-fiji-politics-arrests-idUSKCN11G06D?il=0)
 2. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/8/index.html)  [JSON](2016/09/8/index.json)  [XML](2016/09/8/index.xml)  
+
 ## [2016-09-8](/news/2016/09/8/index.md)
 
 ### [Taliban militants storm the city of Tarinkot, the provincial capital of Afghanistan's Urozgan Province, with fighting reported on multiple fronts throughout the city. Local officials flee to the nearby Tarinkot Airport for shelter. ](/news/2016/09/8/taliban-militants-storm-the-city-of-tarinkot-the-provincial-capital-of-afghanistan-s-urozgan-province-with-fighting-reported-on-multiple-f.md)

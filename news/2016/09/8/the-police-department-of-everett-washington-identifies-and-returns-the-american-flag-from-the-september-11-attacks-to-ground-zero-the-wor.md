@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.html)  [JSON](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.json)  [XML](/news/2016/09/8/the-police-department-of-everett-washington-identifies-and-returns-the-american-flag-from-the-september-11-attacks-to-ground-zero-the-wor.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # The Police Department of Everett, Washington, identifies and returns the American flag from the September 11 attacks to Ground Zero, the World Trade Center site in New York City. 
@@ -5,7 +8,7 @@
 An American flag that turned up in Washington state two years ago is believed to be the flag that was raised by firefighters above the site of the 9/11 attacks on the World Trade Center in New York.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2016/09/08/911-flag-from-ground-zero-believed-to-be-lost-found-in-washington-state.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/07/0/0/694940094001_5115443917001_090716-fnr-rebuilding2-1280.jpg?ve=1)

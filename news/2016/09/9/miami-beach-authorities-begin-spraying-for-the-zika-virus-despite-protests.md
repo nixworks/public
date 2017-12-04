@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.html)  [JSON](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.json)  [XML](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.xml)  
+
 ### [2016-09-9](/news/2016/09/9/index.md)
 
 # Miami Beach authorities begin spraying for the Zika virus despite protests. 
@@ -5,10 +8,15 @@
 The spraying had been delayed a day after worried and angry residents complained to city officials and organized a small protest outside City Hall.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnews.com/storyline/zika-virus-outbreak/miami-beach-starts-spraying-zika-mosquitoes-after-protest-n645516)
 1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2016_36/1701991/160908-miami-beach-mosquito-spraying-mn-0910_10a1445313a74d6df79672167b1a5fe3.nbcnews-fp-1200-800.jpg)
+
+### Changes:
+
+1. [2015-16 Zika virus epidemic: Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/2015-16-zika-virus-epidemic-miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _2017-08-27 03:46:49 (First version)_
+1. [Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The spraying had been delayed a day after worried and angry residents complained
 3. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
 4. [Malaysia reports its first pregnant woman infected with the Zika virus. ](/news/2016/09/7/malaysia-reports-its-first-pregnant-woman-infected-with-the-zika-virus.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
 5. [A new infection of the Zika virus spreads to the Philippines. ](/news/2016/09/6/a-new-infection-of-the-zika-virus-spreads-to-the-philippines.md) _Context: 2015-16 Zika virus epidemic, Zika virus_
-
-### Changes:
-
-1. [2015-16 Zika virus epidemic: Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/2015-16-zika-virus-epidemic-miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _2017-08-27 03:46:49 (First version)_
-1. [Miami Beach authorities begin spraying for the Zika virus despite protests. ](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-zika-virus-despite-protests.md) _(Current version)_

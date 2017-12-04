@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/the-u-s-yosemite-national-park-expands-by-400-acres.html)  [JSON](/news/2016/09/7/the-u-s-yosemite-national-park-expands-by-400-acres.json)  [XML](/news/2016/09/7/the-u-s-yosemite-national-park-expands-by-400-acres.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # The U.S. Yosemite National Park expands by 400 acres. 
@@ -5,7 +8,7 @@
 Yosemite National Park in California is to gain a 400-acre addition, its largest expansion in nearly 70 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-37303251)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5D80/production/_91063932_035150886.jpg)

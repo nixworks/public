@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.html)  [JSON](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.json)  [XML](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.xml)  
+
 ### [2016-09-11](/news/2016/09/11/index.md)
 
 # In China, the Central Commission for Discipline Inspection places under investigation Tianjin mayor Huang Xingguo, who is also serving as acting Communist Party Secretary. 
@@ -5,7 +8,7 @@
 City’s acting Communist party chief is accused of ‘serious discipline breaches’ by investigators
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2016/sep/11/tianjin-mayor-accused-corruption-china)
 1. [Cover Image](https://i.guim.co.uk/img/media/3d0978742653abf24f4e9c0dab31b78a9b3ce027/342_173_3158_1896/3158.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=56c0abb7f4c71899ea6c23dc89bc0cdd)

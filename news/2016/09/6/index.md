@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/6/index.html)  [JSON](2016/09/6/index.json)  [XML](2016/09/6/index.xml)  
+
 ## [2016-09-6](/news/2016/09/6/index.md)
 
 ### [Philippine president Rodrigo Duterte declares a state of emergency in the whole country. In a warning to Abu Sayyaf, Duterte says "I will eat you alive." ](/news/2016/09/6/philippine-president-rodrigo-duterte-declares-a-state-of-emergency-in-the-whole-country-in-a-warning-to-abu-sayyaf-duterte-says-i-will-ea.md)

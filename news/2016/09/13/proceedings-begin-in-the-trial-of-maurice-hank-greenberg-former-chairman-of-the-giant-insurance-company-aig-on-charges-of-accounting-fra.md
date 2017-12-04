@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/13/proceedings-begin-in-the-trial-of-maurice-hank-greenberg-former-chairman-of-the-giant-insurance-company-aig-on-charges-of-accounting-fra.html)  [JSON](/news/2016/09/13/proceedings-begin-in-the-trial-of-maurice-hank-greenberg-former-chairman-of-the-giant-insurance-company-aig-on-charges-of-accounting-fra.json)  [XML](/news/2016/09/13/proceedings-begin-in-the-trial-of-maurice-hank-greenberg-former-chairman-of-the-giant-insurance-company-aig-on-charges-of-accounting-fra.xml)  
+
 ### [2016-09-13](/news/2016/09/13/index.md)
 
 # Proceedings begin in the trial of Maurice "Hank" Greenberg, former chairman of the giant insurance company AIG, on charges of accounting fraud. The 2005 indictment accuses Greenberg and AIG's former CFO of setting up bogus reinsurance transactions to conceal the insurer's financial difficulties in 2000 and 2001. 
@@ -5,11 +8,11 @@
 Opening arguments began on Tuesday in the trial of former American International Group Inc chairman Maurice &quot;Hank&quot; Greenberg over accounting fraud at the insurance giant some 16 years ago.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-greenberg-aig-case-idUSKCN11J12H)
-2. [The New York Times](http://www.nytimes.com/2016/09/12/business/dealbook/after-11-years-case-of-aigs-ex-chief-is-going-to-trial.html?_r=0)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160913&t=2&i=1153426525&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8C0FX)
+1. [Reuters](https://www.reuters.com/article/us-greenberg-aig-case-idUSKCN11J12H)
+2. [The New York Times](https://www.nytimes.com/2016/09/12/business/dealbook/after-11-years-case-of-aigs-ex-chief-is-going-to-trial.html?_r=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160913&t=2&i=1153426525&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8C0FX)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/7/air-china-receives-criticism-in-the-united-kingdom-after-it-releases-an-advertisement-warning-passengers-from-visiting-areas-of-london-popul.html)  [JSON](/news/2016/09/7/air-china-receives-criticism-in-the-united-kingdom-after-it-releases-an-advertisement-warning-passengers-from-visiting-areas-of-london-popul.json)  [XML](/news/2016/09/7/air-china-receives-criticism-in-the-united-kingdom-after-it-releases-an-advertisement-warning-passengers-from-visiting-areas-of-london-popul.xml)  
+
 ### [2016-09-7](/news/2016/09/7/index.md)
 
 # Air China receives criticism in the United Kingdom after it releases an advertisement warning passengers from visiting areas of London populated by blacks, Indians and Pakistanis. 
@@ -5,7 +8,7 @@
 The airline advises tourists &quot;not to go out alone at night, and females always to be accompanied by another person&quot;.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/air-china-under-fire-for-racist-warning-on-london-minority-areas-10568958)
 1. [Cover Image](http://e3.365dm.com/16/09/1600x900/1cee28dc6984b4520a2fdbb1b0f04f1b2cb246c4514c4ed54baf90a2757c4e3f_3781305.jpg?20160907155013)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/10/index.html)  [JSON](2016/09/10/index.json)  [XML](2016/09/10/index.xml)  
+
 ## [2016-09-10](/news/2016/09/10/index.md)
 
 ### [The U.S. Obama administration and the Russian Putin administration agree to a Syrian peace deal. The deal is intended to end combat in specified areas and create a joint center of combat to fight ISIL and Al-Nusra Front. ](/news/2016/09/10/the-u-s-obama-administration-and-the-russian-putin-administration-agree-to-a-syrian-peace-deal-the-deal-is-intended-to-end-combat-in-speci.md)

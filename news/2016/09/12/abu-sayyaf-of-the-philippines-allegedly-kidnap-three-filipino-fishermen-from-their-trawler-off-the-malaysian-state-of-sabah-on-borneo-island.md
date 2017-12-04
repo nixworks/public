@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.html)  [JSON](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.json)  [XML](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. 
@@ -5,11 +8,16 @@
 Authorities identify the three fishermen as Flipino Bajaus, who are believed to be among a crew of 11 on the boat.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.sg/filipino-militants-kidnap-three-fishermen-sabah-waters-3217)
 2. [The Sun Daily](http://m.thesundaily.my/node/393969)
 2. [Cover Image](http://data1.ibtimes.sg/en/full/1588/four-abducted-sarawakians-freed-by-by-abu-sayyaf.jpg)
+
+### Changes:
+
+1. [Moro conflict: Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/moro-conflict-abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-o.md) _2017-08-27 03:46:50 (First version)_
+1. [Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Authorities identify the three fishermen as Flipino Bajaus, who are believed to 
 3. [Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. ](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-others-injured-in-fighting-with-abu-sayyaf-militants-in-the-province-of-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 4. [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
 5. [Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. ](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu-sayyaf-off-the-coast-of-the-philippines.md) _Context: Abu Sayyaf, Moro conflict, Philippines_
-
-### Changes:
-
-1. [Moro conflict: Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/moro-conflict-abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-o.md) _2017-08-27 03:46:50 (First version)_
-1. [Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. ](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-three-filipino-fishermen-from-their-trawler-off-the-malaysian-state-of-sabah-on-borneo-island.md) _(Current version)_

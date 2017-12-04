@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.html)  [JSON](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.json)  [XML](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. 
@@ -5,7 +8,7 @@
 A sugar industry group paid for studies that underplayed the role that added sugars play in heart disease, researchers reported Monday.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnews.com/health/health-news/sugar-industry-manipulated-heart-studies-review-finds-n646836)
 1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_53/1359306/151231-sugar-mn-0900_dadaca5425deb5d8e9892bd6981d29ab.nbcnews-fp-1200-800.jpg)

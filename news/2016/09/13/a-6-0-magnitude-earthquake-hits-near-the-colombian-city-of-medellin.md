@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/13/a-6-0-magnitude-earthquake-hits-near-the-colombian-city-of-medellin.html)  [JSON](/news/2016/09/13/a-6-0-magnitude-earthquake-hits-near-the-colombian-city-of-medellin.json)  [XML](/news/2016/09/13/a-6-0-magnitude-earthquake-hits-near-the-colombian-city-of-medellin.xml)  
+
 ### [2016-09-13](/news/2016/09/13/index.md)
 
 # A 6.0 magnitude earthquake hits near the Colombian city of Medellin. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Express](http://www.express.co.uk/news/world/710404/Earthquake-Colombia-Medellin-Pablo-Escobar-terremoto-magnitude-South-America)
 1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/674x400/Colombia-Earthquake-710404.jpg)

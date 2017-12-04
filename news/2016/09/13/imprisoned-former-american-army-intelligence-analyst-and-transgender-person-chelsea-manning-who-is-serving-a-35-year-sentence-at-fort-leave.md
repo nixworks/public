@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.html)  [JSON](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.json)  [XML](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.xml)  
+
 ### [2016-09-13](/news/2016/09/13/index.md)
 
 # Imprisoned former American Army intelligence analyst and transgender person Chelsea Manning, who is serving a 35-year sentence at Fort Leavenworth, will have the military provide the costs of gender reassignment surgery. She was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly three-quarters of a million classified or unclassified but sensitive military and diplomatic documents. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/09/13/politics/chelsea-manning-gender-reassignment-surgery/)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/6/fox-news-on-the-record-host-greta-van-susteren-leaves-the-channel-after-14-years.html)  [JSON](/news/2016/09/6/fox-news-on-the-record-host-greta-van-susteren-leaves-the-channel-after-14-years.json)  [XML](/news/2016/09/6/fox-news-on-the-record-host-greta-van-susteren-leaves-the-channel-after-14-years.xml)  
+
 ### [2016-09-6](/news/2016/09/6/index.md)
 
 # Fox News "On The Record" host Greta Van Susteren leaves the channel after 14 years. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Breitbart News](http://www.breitbart.com/big-journalism/2016/09/06/greta-van-susteren-fox-news-host/)
 1. [Cover Image](http://media.breitbart.com/media/2015/08/greta-van-susteren-AP.jpg)

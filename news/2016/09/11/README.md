@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/11/index.html)  [JSON](2016/09/11/index.json)  [XML](2016/09/11/index.xml)  
+
 ## [2016-09-11](/news/2016/09/11/index.md)
 
 ### [Before a ceasefire takes effect tomorrow, over 100 people have been killed and over 100 injured in airstrikes on rebel-held Idlib. ](/news/2016/09/11/before-a-ceasefire-takes-effect-tomorrow-over-100-people-have-been-killed-and-over-100-injured-in-airstrikes-on-rebel-held-idlib.md)
@@ -22,10 +25,10 @@ _Context: 2016 Taoyuan bus crash, Taiwan_
 City’s acting Communist party chief is accused of ‘serious discipline breaches’ by investigators
 
 ### [Voters in Croatia go to the polls for a parliamentary election with the conservative Croatian Democratic Union taking an early lead. ](/news/2016/09/11/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-the-conservative-croatian-democratic-union-taking-an-early-lead.md)
-_Context: Croatia, Croatian Democratic Union, Croatian parliamentary election, 2016_
+The Croatian Democratic Union captured 61 seats, more than the rival Social Democrats but short of a clear governing majority.
 
 ### [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md)
-_Context: Democratic, Hillary Clinton, New York City, September 11 attacks, United States presidential election, 2016, pneumonia, presidential campaign_
+The incident, which occurred after months of questions about Mrs. Clinton’s health from Republicans, is likely to increase pressure on her to address the issue.
 
 ## [Previous Day...](/news/2016/09/10/index.md)
 

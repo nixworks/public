@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/6/a-study-concludes-that-typhoons-in-asia-are-becoming-stronger.html)  [JSON](/news/2016/09/6/a-study-concludes-that-typhoons-in-asia-are-becoming-stronger.json)  [XML](/news/2016/09/6/a-study-concludes-that-typhoons-in-asia-are-becoming-stronger.xml)  
+
 ### [2016-09-6](/news/2016/09/6/index.md)
 
 # A study concludes that typhoons in Asia are becoming stronger. 
@@ -5,7 +8,7 @@
 Giant storms that wreak havoc across China, Japan, Korea and the Philippines have grown 50% stronger in the past 40 years due to warming seas
 
 
-### Source:
+### Sources:
 
 1. [Nature Geoscience](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2792.html)
 2. [The Guardian](https://www.theguardian.com/environment/2016/sep/05/asian-typhoons-becoming-more-intense-study-finds)

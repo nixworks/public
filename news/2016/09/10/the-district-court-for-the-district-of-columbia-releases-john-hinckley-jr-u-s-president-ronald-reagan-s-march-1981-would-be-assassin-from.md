@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.html)  [JSON](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.json)  [XML](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.xml)  
+
 ### [2016-09-10](/news/2016/09/10/index.md)
 
 # The District Court for the District of Columbia releases John Hinckley Jr, U.S. President Ronald Reagan's March 1981 would-be assassin, from a psychiatric hospital after 35 years. 
@@ -5,7 +8,7 @@
 John Hinckley Jr, who tried to kill US President Ronald Reagan in 1981, is freed after 35 years in a psychiatric hospital.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-37328612)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/113E9/production/_90533607_mediaitem90533606.jpg)

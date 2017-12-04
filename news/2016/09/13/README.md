@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/13/index.html)  [JSON](2016/09/13/index.json)  [XML](2016/09/13/index.xml)  
+
 ## [2016-09-13](/news/2016/09/13/index.md)
 
 ### [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied-g.md)

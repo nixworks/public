@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.html)  [JSON](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.json)  [XML](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # Former Prime Minister of the United Kingdom David Cameron resigns as MP for Witney, triggering a by-election. 
@@ -5,7 +8,7 @@
 David Cameron has quit as an MP saying that he did not want his disagreements with Theresa May to become a &ldquo;distraction&rdquo;, amid a growing row over grammar schools.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/09/12/david-cameron-resigns-as-mp-for-witney/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/q/4/q4cdz1nte6n0-tgfait4hl8lvhnpocqp-xlarge.jpg)

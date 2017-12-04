@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/12/baracktrema-obamai-a-new-species-of-parasite-is-named-after-barack-obama.html)  [JSON](/news/2016/09/12/baracktrema-obamai-a-new-species-of-parasite-is-named-after-barack-obama.json)  [XML](/news/2016/09/12/baracktrema-obamai-a-new-species-of-parasite-is-named-after-barack-obama.xml)  
+
 ### [2016-09-12](/news/2016/09/12/index.md)
 
 # "Baracktrema obamai", a new species of parasite is named after Barack Obama. 
@@ -5,7 +8,7 @@
 A new species of parasitic flatworms found in turtles has been named after U.S. President Barack Obama. The researchers claimed that naming Baracktrema obamai after the president was an &#039;act of honor.&#039;
 
 
-### Source:
+### Sources:
 
 1. [Tech Times](http://www.techtimes.com/articles/176967/20160912/meet-baractrema-obamai-experts-name-new-parasite-after-barack-obama.htm)
 2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/09/09/scientists-like-barack-obama-so-much-that-they-named-a-parasite-after-him/)

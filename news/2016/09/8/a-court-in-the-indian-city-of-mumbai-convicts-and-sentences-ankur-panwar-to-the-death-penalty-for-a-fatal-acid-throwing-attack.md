@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.html)  [JSON](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.json)  [XML](/news/2016/09/8/a-court-in-the-indian-city-of-mumbai-convicts-and-sentences-ankur-panwar-to-the-death-penalty-for-a-fatal-acid-throwing-attack.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # A court in the Indian city of Mumbai convicts and sentences Ankur Panwar to the death penalty for a fatal acid-throwing attack. 
@@ -5,7 +8,7 @@
 An Indian man is sentenced to death for a fatal acid attack on a woman in Mumbai three years ago, in a landmark ruling.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-37304187)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/0240/production/_91067500_20130721_dli-sv-mn_preetirathi_0009_09.jpg)

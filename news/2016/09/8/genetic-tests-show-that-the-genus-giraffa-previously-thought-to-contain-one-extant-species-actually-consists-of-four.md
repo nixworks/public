@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previously-thought-to-contain-one-extant-species-actually-consists-of-four.html)  [JSON](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previously-thought-to-contain-one-extant-species-actually-consists-of-four.json)  [XML](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previously-thought-to-contain-one-extant-species-actually-consists-of-four.xml)  
+
 ### [2016-09-8](/news/2016/09/8/index.md)
 
 # Genetic tests show that the genus giraffa, previously thought to contain one extant species, actually consists of four. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-37311716)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/DA8B/production/_91074955_mediaitem91074953.jpg)

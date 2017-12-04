@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.html)  [JSON](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.json)  [XML](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.xml)  
+
 ### [2016-09-9](/news/2016/09/9/index.md)
 
 # More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. 
@@ -5,7 +8,7 @@
 Helicopters managed to extract 65 people from the gondolas late on Thursday — but then night fell, and the remaining trapped tourists had to wait until morning to be rescued.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/09/09/493238090/after-cable-cars-got-stuck-in-the-alps-dozens-spent-night-suspended-in-midair)
 1. [Cover Image](https://media.npr.org/assets/img/2016/09/09/gettyimages-600973218_wide-d2af1932099949499042a9a6e655d4a4b28d6aed.jpg?s=1400)

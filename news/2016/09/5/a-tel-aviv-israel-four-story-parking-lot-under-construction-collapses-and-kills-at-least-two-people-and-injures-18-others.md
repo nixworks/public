@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.html)  [JSON](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.json)  [XML](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.xml)  
+
 ### [2016-09-5](/news/2016/09/5/index.md)
 
 # A Tel Aviv, Israel, four story parking lot under construction collapses and kills at least two people and injures 18 others. 
@@ -5,7 +8,7 @@
 Multi-story parking garage gives way, injuring 23 in Ramat Hahayal neighborhood; rescuers manage to make contact with two trapped inside; efforts to continue overnight; previous incident at site believed not properly handled.
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.740303)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.740411.1473090244!/image/2349077637.jpg_gen/derivatives/headline_1200x630/2349077637.jpg)

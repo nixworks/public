@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.html)  [JSON](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.json)  [XML](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.xml)  
+
 ### [2016-09-9](/news/2016/09/9/index.md)
 
 # An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. 
@@ -5,7 +8,7 @@
 A Volkswagen engineer from Southern California pleaded guilty to charges he helped design and implement a software system that enabled the automaker’s diesel engines defeat emissions tests.
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/business/la-fi-volkswagen-engineer-20160909-snap-story.html)
 1. [Cover Image](http://www.trbimg.com/img-57d2d24c/turbine/la-fi-volkswagen-engineer-20160909-snap)

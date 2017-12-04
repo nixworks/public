@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/7/index.html)  [JSON](2016/09/7/index.json)  [XML](2016/09/7/index.xml)  
+
 ## [2016-09-7](/news/2016/09/7/index.md)
 
 ### [A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md)
@@ -43,7 +46,7 @@ The US State Department urges Bahrain to immediately release prominent human rig
 _Context: Iran, Iran-Saudi Arabia relations, Muslim, Saudi Arabia_
 
 ### [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md)
-_Context: Black Sea, P-8A Poseidon, Russia, Russia-United States relations, Russian SU-27 fighter jet, United States Navy_
+_Context: Black Sea, P-8A Poseidon, Russia, Russia-United States relations, Russian SU-27 fighter jet, U.S. Navy_
 
 ### [The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. ](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.md)
 _Context: Ajamu Baraka, Green Party of the United States, Jill Stein, Morton County, North Dakota, controversial pipeline construction site, presidential candidate_

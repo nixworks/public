@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/09/9/index.html)  [JSON](2016/09/9/index.json)  [XML](2016/09/9/index.xml)  
+
 ## [2016-09-9](/news/2016/09/9/index.md)
 
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
@@ -7,7 +10,7 @@ _Context: Kabul, United States Navy SEAL, War in Afghanistan (2015-present), hig
 Twelve people were killed late on Friday in two suicide bombings claimed by Islamic State at a shopping mall in eastern Baghdad, police and hospital sources said.
 
 ### [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md)
-Facebook decided Friday to reinstate the iconic, Vietnam War-era photograph of a naked girl running from a napalm attack. 
+_Context: Aftenposten, Facebook, Norway, Vietnam War, child pornography, napalm girl_
 
 ### [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md)
 _Context: General Motors, airbag_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.html)  [JSON](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.json)  [XML](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.xml)  
+
 ### [2016-09-5](/news/2016/09/5/index.md)
 
 # Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. 
@@ -5,13 +8,18 @@
 A car bomb hit the center of Kabul late on Monday, just hours after a Taliban suicide attack near the Defense Ministry killed at least 24 people including a number of senior security officials, and wounded 91 others, officials said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37278556)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN11B18O)
+2. [Reuters](https://www.reuters.com/article/us-afghanistan-blast-idUSKCN11B18O)
 3. [Sina Corp](http://english.sina.com/news/2016-09-05/detail-ifxvpxua7949541.shtml)
 4. [Today (Singapore](http://www.todayonline.com/world/blast-afghan-capital-kabul-casualties-feared-army-official)
-4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160905&t=2&i=1152364475&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8415K)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160905&t=2&i=1152364475&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC8415K)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/war-in-afghanistan-2015-present-two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-s.md) _2017-08-27 03:46:46 (First version)_
+1. [Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +28,3 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 3. [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 4. [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 5. [A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present): Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/war-in-afghanistan-2015-present-two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-s.md) _2017-08-27 03:46:46 (First version)_
-1. [Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. ](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-least-24-people-and-injure-91-others-including-senior-security-and-police-officials-after-s.md) _(Current version)_
