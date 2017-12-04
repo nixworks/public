@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/20/index.html)  [JSON](2016/07/20/index.json)  [XML](2016/07/20/index.xml)  
+
 ## [2016-07-20](/news/2016/07/20/index.md)
 
 ### [Prominent Ukrainian-based journalist Pavel Sheremet of the Ukrayinska Pravda is killed in a car bombing in Kiev. ](/news/2016/07/20/prominent-ukrainian-based-journalist-pavel-sheremet-of-the-ukrayinska-pravda-is-killed-in-a-car-bombing-in-kiev.md)

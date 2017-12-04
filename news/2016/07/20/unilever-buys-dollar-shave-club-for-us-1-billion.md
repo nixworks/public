@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/20/unilever-buys-dollar-shave-club-for-us-1-billion.html)  [JSON](/news/2016/07/20/unilever-buys-dollar-shave-club-for-us-1-billion.json)  [XML](/news/2016/07/20/unilever-buys-dollar-shave-club-for-us-1-billion.xml)  
+
 ### [2016-07-20](/news/2016/07/20/index.md)
 
 # Unilever buys Dollar Shave Club for US$1 billion. 
@@ -5,7 +8,7 @@
 Unilever buys US start-up Dollar Shave Club for a reported $1bn in cash as it looks to further expand into the male grooming business.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-36791928)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/28D7/production/_90455401_shave.png)

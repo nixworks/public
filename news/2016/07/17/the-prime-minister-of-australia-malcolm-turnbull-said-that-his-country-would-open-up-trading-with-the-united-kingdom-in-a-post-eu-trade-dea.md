@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/17/the-prime-minister-of-australia-malcolm-turnbull-said-that-his-country-would-open-up-trading-with-the-united-kingdom-in-a-post-eu-trade-dea.html)  [JSON](/news/2016/07/17/the-prime-minister-of-australia-malcolm-turnbull-said-that-his-country-would-open-up-trading-with-the-united-kingdom-in-a-post-eu-trade-dea.json)  [XML](/news/2016/07/17/the-prime-minister-of-australia-malcolm-turnbull-said-that-his-country-would-open-up-trading-with-the-united-kingdom-in-a-post-eu-trade-dea.xml)  
+
 ### [2016-07-17](/news/2016/07/17/index.md)
 
 # The Prime Minister of Australia, Malcolm Turnbull said that his country would open up trading with the United Kingdom in a post-EU trade deal. 
@@ -5,7 +8,7 @@
 Prime Minister Theresa May describes Australian calls for a free trade deal with Britain as &quot;very encouraging&quot;, insisting it shows Brexit can work for the UK.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-36818055)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/159CA/production/_90422588_mediaitem79906331.jpg)

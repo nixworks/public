@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.html)  [JSON](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.json)  [XML](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.xml)  
+
 ### [2016-07-17](/news/2016/07/17/index.md)
 
 # At least one person is reportedly killed and others are taken hostage after an armed group seized control of the police headquarters in the Erebuni District of Yerevan, Armenia. The gunmen are demanding the release of jailed opposition figure, Jirair Sefilian, according to Armenia's National Security Service. 
@@ -5,7 +8,7 @@
 One person was killed and least three wounded as an armed group seized a police station in Armenia&#039;s capital Yerevan. At least six hostages are still being held by the attackers, TASS reports citing police.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/351668-yerevan-police-gunmen-hostage/)
 1. [Cover Image](https://img.rt.com/files/2016.07/article/578b4aafc3618845738b4587.jpg)

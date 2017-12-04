@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/17/local-officials-report-eight-people-were-killed-on-friday-when-their-elevator-fell-18-stories-in-an-under-construction-apartment-building-in.html)  [JSON](/news/2016/07/17/local-officials-report-eight-people-were-killed-on-friday-when-their-elevator-fell-18-stories-in-an-under-construction-apartment-building-in.json)  [XML](/news/2016/07/17/local-officials-report-eight-people-were-killed-on-friday-when-their-elevator-fell-18-stories-in-an-under-construction-apartment-building-in.xml)  
+
 ### [2016-07-17](/news/2016/07/17/index.md)
 
 # Local officials report eight people were killed on Friday when their elevator fell 18 stories in an under-construction apartment building in the port city of Longkou in Shandong province of eastern China. 
@@ -5,7 +8,7 @@
 BEIJING (AP) — Eight people in an eastern Chinese city were killed when the construction elevator they were in plummeted from an apartment building, the local government said Sunday. The Longkou city government in Shandong…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/a0e589e239d34b3ea6c3e9ce0ab1c0b1/8-killed-after-construction-elevator-falls-eastern-china)
 

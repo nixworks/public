@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/19/united-states-president-barack-obama-and-his-vice-president-joe-biden-endorse-kamala-harris-over-loretta-sanchez-both-of-whom-are-democrats.html)  [JSON](/news/2016/07/19/united-states-president-barack-obama-and-his-vice-president-joe-biden-endorse-kamala-harris-over-loretta-sanchez-both-of-whom-are-democrats.json)  [XML](/news/2016/07/19/united-states-president-barack-obama-and-his-vice-president-joe-biden-endorse-kamala-harris-over-loretta-sanchez-both-of-whom-are-democrats.xml)  
+
 ### [2016-07-19](/news/2016/07/19/index.md)
 
 # United States president Barack Obama and his vice president Joe Biden endorse Kamala Harris over Loretta Sanchez, both of whom are Democrats. 
@@ -5,7 +8,7 @@
 Update on &apos;Essential Politics July archives&apos;
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-sac-essential-politics-updates-obama-biden-endorse-kamala-harris-for-1468889660-htmlstory.html)
 1. [Cover Image](http://www.trbimg.com/img-57b7444f/turbine/la-pol-sac-essential-politics-updates-obama-biden-endorse-kamala-harris-for-1468889660)

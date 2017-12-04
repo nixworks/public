@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/18/morocco-formally-announces-it-wishes-to-rejoin-the-african-union-32-years-after-leaving-over-its-recognition-of-the-sahrawi-arab-democratic.html)  [JSON](/news/2016/07/18/morocco-formally-announces-it-wishes-to-rejoin-the-african-union-32-years-after-leaving-over-its-recognition-of-the-sahrawi-arab-democratic.json)  [XML](/news/2016/07/18/morocco-formally-announces-it-wishes-to-rejoin-the-african-union-32-years-after-leaving-over-its-recognition-of-the-sahrawi-arab-democratic.xml)  
+
 ### [2016-07-18](/news/2016/07/18/index.md)
 
 # Morocco formally announces it wishes to rejoin the African Union 32 years after leaving over its recognition of the Sahrawi Arab Democratic Republic in Western Sahara. 
@@ -5,7 +8,7 @@
 Morocco formally announces its wish to rejoin the African Union, 32 years after leaving over a dispute about Western Sahara.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36822240)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/178E2/production/_90428469_gettyimages-97355465-1.jpg)

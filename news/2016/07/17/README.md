@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/17/index.html)  [JSON](2016/07/17/index.json)  [XML](2016/07/17/index.xml)  
+
 ## [2016-07-17](/news/2016/07/17/index.md)
 
 ### [At least one person is reportedly killed and others are taken hostage after an armed group seized control of the police headquarters in the Erebuni District of Yerevan, Armenia. The gunmen are demanding the release of jailed opposition figure, Jirair Sefilian, according to Armenia's National Security Service. ](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.md)
@@ -22,7 +25,7 @@ BEIJING (AP) — Eight people in an eastern Chinese city were killed when the co
 _Context: Breighton Aerodrome, United Kingdom_
 
 ### [At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wounded-by-a-gunman-in-baton-rouge-louisiana.md)
-3 police officers in Baton Rouge have been shot dead in La., with others wounded and one suspect dead, according to reports.
+Three US police officers have been killed and three injured in a shooting in the southern city of Baton Rouge, officials say.
 
 ### [Vietnamese police bus away about two dozen would-be protestors who gathered at Hoan Kiem Lake in central Hanoi to rally in support of the Permanent Court of Arbitration's South China Sea decision, and against China's rejection of the tribunal's ruling. This preemptive action, in effect, squashed the No-U group protest. ](/news/2016/07/17/vietnamese-police-bus-away-about-two-dozen-would-be-protestors-who-gathered-at-hoa-n-kiao-m-lake-in-central-hanoi-to-rally-in-support-of-the.md)
 Dozens of Vietnamese who gathered for an anti-China protest in central Hanoi have been taken away by police as they tried to rally support for an international tribunal&#039;s ruling rejecting Beijing&#039;s claims in the South China Sea.

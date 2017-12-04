@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/20/turkish-president-recep-tayyip-erdogan-declares-a-state-of-emergency-for-three-months-following-friday-night-s-failed-coup.html)  [JSON](/news/2016/07/20/turkish-president-recep-tayyip-erdogan-declares-a-state-of-emergency-for-three-months-following-friday-night-s-failed-coup.json)  [XML](/news/2016/07/20/turkish-president-recep-tayyip-erdogan-declares-a-state-of-emergency-for-three-months-following-friday-night-s-failed-coup.xml)  
+
 ### [2016-07-20](/news/2016/07/20/index.md)
 
 # Turkish President Recep Tayyip Erdogan declares a state of emergency for three months following Friday night's failed coup. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-36852080)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B5F0/production/_90467564_mediaitem90467563.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/19/a-crane-collapses-across-the-tappan-zee-bridge-in-new-york-no-vehicles-are-hit-but-several-contractors-suffer-minor-injuries.html)  [JSON](/news/2016/07/19/a-crane-collapses-across-the-tappan-zee-bridge-in-new-york-no-vehicles-are-hit-but-several-contractors-suffer-minor-injuries.json)  [XML](/news/2016/07/19/a-crane-collapses-across-the-tappan-zee-bridge-in-new-york-no-vehicles-are-hit-but-several-contractors-suffer-minor-injuries.xml)  
+
 ### [2016-07-19](/news/2016/07/19/index.md)
 
 # A crane collapses across the Tappan Zee Bridge in New York. No vehicles are hit, but several contractors suffer minor injuries. 
@@ -5,7 +8,7 @@
 No vehicles were hit by the crane.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcn.ws/29WgN4w)
 1. [Cover Image](http://a.abcnews.com/images/US/wabc_tappan_zee_bridge_crane_collapse_jc_160719_16x9_992.jpg)

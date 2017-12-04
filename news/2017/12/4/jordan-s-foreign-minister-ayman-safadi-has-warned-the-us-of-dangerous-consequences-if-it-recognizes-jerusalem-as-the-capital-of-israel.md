@@ -5,13 +5,14 @@ Formats: [HTML](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warne
 
 # Jordan's foreign minister Ayman Safadi has warned the US of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. 
 
-
+The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20;its&#x20;embassy&#x20;to&#x20;the&#x20;disputed&#x20;city.
 
 
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-42218042)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/01A8/production/_99042400_043316411.jpg)
+2. [France 24](http://www.france24.com/en/20171203-jerusalem-israel-hamas-trump-palestinian)
+2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/jerusalem-1.jpg)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/07/19/index.html)  [JSON](2016/07/19/index.json)  [XML](2016/07/19/index.xml)  
+
 ## [2016-07-19](/news/2016/07/19/index.md)
 
 ### [The British-based Syrian Observatory for Human Rights reports U.S.-led coalition airstrikes on the Islamic State-held city of Manbij in northern Syria kill at least 56 civilians, including 11 children, and injure dozens more. ](/news/2016/07/19/the-british-based-syrian-observatory-for-human-rights-reports-u-s-led-coalition-airstrikes-on-the-islamic-state-held-city-of-manbij-in-nort.md)

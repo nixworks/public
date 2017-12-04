@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/07/17/vietnamese-police-bus-away-about-two-dozen-would-be-protestors-who-gathered-at-hoa-n-kiao-m-lake-in-central-hanoi-to-rally-in-support-of-the.html)  [JSON](/news/2016/07/17/vietnamese-police-bus-away-about-two-dozen-would-be-protestors-who-gathered-at-hoa-n-kiao-m-lake-in-central-hanoi-to-rally-in-support-of-the.json)  [XML](/news/2016/07/17/vietnamese-police-bus-away-about-two-dozen-would-be-protestors-who-gathered-at-hoa-n-kiao-m-lake-in-central-hanoi-to-rally-in-support-of-the.xml)  
+
 ### [2016-07-17](/news/2016/07/17/index.md)
 
 # Vietnamese police bus away about two dozen would-be protestors who gathered at Hoan Kiem Lake in central Hanoi to rally in support of the Permanent Court of Arbitration's South China Sea decision, and against China's rejection of the tribunal's ruling. This preemptive action, in effect, squashed the No-U group protest. 
@@ -5,7 +8,7 @@
 Dozens of Vietnamese who gathered for an anti-China protest in central Hanoi have been taken away by police as they tried to rally support for an international tribunal&#039;s ruling rejecting Beijing&#039;s claims in the South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News.com.au](http://www.news.com.au/world/breaking-news/vietnam-police-detain-dozens-in-protest/news-story/0604284d4fdd4f0745d50eab18eed1b7)
 2. [AP](http://bigstory.ap.org/article/4b009e2b34444d4fba37c74d01fbe367/vietnam-police-detain-dozens-anti-china-protest)
