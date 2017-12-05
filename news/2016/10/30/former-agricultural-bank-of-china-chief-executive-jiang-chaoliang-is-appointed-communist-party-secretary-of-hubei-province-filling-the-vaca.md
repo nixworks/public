@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/30/former-agricultural-bank-of-china-chief-executive-jiang-chaoliang-is-appointed-communist-party-secretary-of-hubei-province-filling-the-vaca.html)  [JSON](/news/2016/10/30/former-agricultural-bank-of-china-chief-executive-jiang-chaoliang-is-appointed-communist-party-secretary-of-hubei-province-filling-the-vaca.json)  [XML](/news/2016/10/30/former-agricultural-bank-of-china-chief-executive-jiang-chaoliang-is-appointed-communist-party-secretary-of-hubei-province-filling-the-vaca.xml)  
+
 ### [2016-10-30](/news/2016/10/30/index.md)
 
 # Former Agricultural Bank of China chief executive Jiang Chaoliang is appointed Communist Party Secretary of Hubei province, filling the vacancy left by Li Hongzhong. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2016-10/29/content_27214977.htm)
 

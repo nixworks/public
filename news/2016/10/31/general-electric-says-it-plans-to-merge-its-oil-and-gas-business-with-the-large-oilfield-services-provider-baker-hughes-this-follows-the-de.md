@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/31/general-electric-says-it-plans-to-merge-its-oil-and-gas-business-with-the-large-oilfield-services-provider-baker-hughes-this-follows-the-de.html)  [JSON](/news/2016/10/31/general-electric-says-it-plans-to-merge-its-oil-and-gas-business-with-the-large-oilfield-services-provider-baker-hughes-this-follows-the-de.json)  [XML](/news/2016/10/31/general-electric-says-it-plans-to-merge-its-oil-and-gas-business-with-the-large-oilfield-services-provider-baker-hughes-this-follows-the-de.xml)  
+
 ### [2016-10-31](/news/2016/10/31/index.md)
 
 # General Electric says it plans to merge its oil and gas business with the large oilfield services provider Baker Hughes. This follows the demise of a merger plan between Baker Hughes and Halliburton. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-baker-hughes-m-a-ge-idUSKBN12V0XN)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161031&t=2&i=1159657830&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U0JD)
+1. [Reuters](https://www.reuters.com/article/us-baker-hughes-m-a-ge-idUSKBN12V0XN)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161031&t=2&i=1159657830&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEC9U0JD)
 
 ### Related:
 

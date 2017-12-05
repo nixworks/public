@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/30/index.html)  [JSON](2016/10/30/index.json)  [XML](2016/10/30/index.xml)  
+
 ## [2016-10-30](/news/2016/10/30/index.md)
 
 ### [A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. ](/news/2016/10/30/a-military-operation-in-north-sinai-governorate-left-4-soldiers-and-6-insurgents-dead.md)

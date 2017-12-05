@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.html)  [JSON](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.json)  [XML](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.xml)  
+
 ### [2016-10-30](/news/2016/10/30/index.md)
 
 # The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/10/29/middleeast/turkey-travel-warning-consulate/)
 

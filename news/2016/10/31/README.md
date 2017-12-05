@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/31/index.html)  [JSON](2016/10/31/index.json)  [XML](2016/10/31/index.xml)  
+
 ## [2016-10-31](/news/2016/10/31/index.md)
 
 ### [Police kill eight Students Islamic Movement of India members after their prison escape in Bhopal, India. ](/news/2016/10/31/police-kill-eight-students-islamic-movement-of-india-members-after-their-prison-escape-in-bhopal-india.md)

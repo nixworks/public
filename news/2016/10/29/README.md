@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/29/index.html)  [JSON](2016/10/29/index.json)  [XML](2016/10/29/index.xml)  
+
 ## [2016-10-29](/news/2016/10/29/index.md)
 
 ### [Five people are killed and several other civilians injured as armed terrorists, targeting Shia Muslims, open fire on participants of a Majlis at a home in the Nazimabad district of Karachi, Pakistan. ](/news/2016/10/29/five-people-are-killed-and-several-other-civilians-injured-as-armed-terrorists-targeting-shia-muslims-open-fire-on-participants-of-a-majli.md)

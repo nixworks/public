@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.html)  [JSON](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.json)  [XML](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.xml)  
+
 ### [2016-10-31](/news/2016/10/31/index.md)
 
 # At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_MINE_EXPLOSION_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

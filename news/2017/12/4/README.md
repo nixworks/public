@@ -6,6 +6,9 @@ Formats: [HTML](2017/12/4/index.html)  [JSON](2017/12/4/index.json)  [XML](2017/
 ### [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md)
 Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
 
+### [For the second time in three days, Israel carries out a missile strike on military facilities near Damascus. ](/news/2017/12/4/for-the-second-time-in-three-days-israel-carries-out-a-missile-strike-on-military-facilities-near-damascus.md)
+AT LEAST two massive explosions ripped through the Syrian capital after Israel launched three...
+
 ### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
 The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20...
 
