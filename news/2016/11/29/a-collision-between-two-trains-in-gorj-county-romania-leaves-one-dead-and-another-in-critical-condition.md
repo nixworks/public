@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/a-collision-between-two-trains-in-gorj-county-romania-leaves-one-dead-and-another-in-critical-condition.html)  [JSON](/news/2016/11/29/a-collision-between-two-trains-in-gorj-county-romania-leaves-one-dead-and-another-in-critical-condition.json)  [XML](/news/2016/11/29/a-collision-between-two-trains-in-gorj-county-romania-leaves-one-dead-and-another-in-critical-condition.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # A collision between two trains in Gorj County, Romania, leaves one dead and another in critical condition. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Realitatea](https://www.realitatea.net/accident-feroviar-grav-in-gorj-un-mecanic-de-tren-a-murit_2008133.html)
 2. [Stirileprotv.ro](http://stirileprotv.ro/stiri/actualitate/accident-feroviar-grav-langa-targu-jiu-doua-trenuri-s-au-izbit-frontal.html)

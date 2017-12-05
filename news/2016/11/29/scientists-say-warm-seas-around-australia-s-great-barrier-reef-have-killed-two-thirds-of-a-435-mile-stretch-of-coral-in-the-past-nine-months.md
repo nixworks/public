@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/scientists-say-warm-seas-around-australia-s-great-barrier-reef-have-killed-two-thirds-of-a-435-mile-stretch-of-coral-in-the-past-nine-months.html)  [JSON](/news/2016/11/29/scientists-say-warm-seas-around-australia-s-great-barrier-reef-have-killed-two-thirds-of-a-435-mile-stretch-of-coral-in-the-past-nine-months.json)  [XML](/news/2016/11/29/scientists-say-warm-seas-around-australia-s-great-barrier-reef-have-killed-two-thirds-of-a-435-mile-stretch-of-coral-in-the-past-nine-months.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # Scientists say warm seas around Australia's Great Barrier Reef have killed two-thirds of a 435-mile stretch of coral in the past nine months. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://mobile.reuters.com/article/newsOne/idUSKBN13O059)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161129&t=2&i=1163415436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAS031)

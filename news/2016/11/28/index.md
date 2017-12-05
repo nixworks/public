@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/28/index.html)  [JSON](2016/11/28/index.json)  [XML](2016/11/28/index.xml)  
+
 ## [2016-11-28](/news/2016/11/28/index.md)
 
 ### [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md)
@@ -13,7 +16,7 @@ Two Nepalese and one Sudanese UN staff taken to an unknown location by unidentif
 A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near an army facility in Cold Lake, northeast of Edmonton.
 
 ### [The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee-as-several-wildfires-burn-out-of-control-i.md)
-Wind conditions worsen and fires grow, threatening resort towns near Smokies.
+_Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee, Great Smoky Mountains National Park_
 
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
 _Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
@@ -43,7 +46,7 @@ Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over f
 _Context: Houthi, Yemen, Yemeni Civil War_
 
 ### [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md)
-_Context: Donald Trump, Hillary Clinton, Michigan, United States presidential election, 2016, electoral college_
+_Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Michigan, electoral college_
 
 ### [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md)
 Jill Stein said she plans to request a recount in Michigan as similar cases progress in Wisconsin and Pennsylvania.

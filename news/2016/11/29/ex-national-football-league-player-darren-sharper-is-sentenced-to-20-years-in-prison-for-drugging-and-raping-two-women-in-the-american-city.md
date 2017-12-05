@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.html)  [JSON](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.json)  [XML](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. 
@@ -5,7 +8,7 @@
 It was a routine the charismatic athlete had come to rely on.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-darren-sharper-sentencing-20161128-story.html)
 1. [Cover Image](http://www.trbimg.com/img-583f53ab/turbine/la-me-ln-darren-sharper-sentencing-20161128)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.html)  [JSON](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.json)  [XML](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.xml)  
+
 ### [2016-11-28](/news/2016/11/28/index.md)
 
 # Paul Nuttall wins an overall majority in a vote to become the UK Independence Party's (UKIP) leader, succeeding Nigel Farage. 
@@ -5,7 +8,7 @@
 Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over from Nigel Farage as leader.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-38125432)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/178AD/production/_92692469_mediaitem92692468.jpg)

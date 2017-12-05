@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.html)  [JSON](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.json)  [XML](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.xml)  
+
 ### [2016-11-30](/news/2016/11/30/index.md)
 
 # Two Hong Kong Youngspiration party Legislative Council election victors lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/4581859/hong-kong-independence-lawmakers-legislators-appeal/)
 

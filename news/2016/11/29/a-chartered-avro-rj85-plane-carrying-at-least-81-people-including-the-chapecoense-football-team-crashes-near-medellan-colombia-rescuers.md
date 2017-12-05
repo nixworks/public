@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.html)  [JSON](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.json)  [XML](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. 
@@ -5,12 +8,18 @@
 A plane carrying a Brazilian football team crashes in Colombia, killing 71 people on board.
 
 
-### Source:
+### Sources:
 
 1. [AP via MSN](http://www.msn.com/en-au/news/world/plane-with-brazilian-soccer-team-crashes-in-colombia/ar-AAkTcet?li=AAgfYrC&ocid=UP94DHP)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-38140981)
-3. [The Independent](http://www.independent.co.uk/news/world/americas/colombia-plane-crash-rescuers-find-survivors-brazilian-football-team-chapecoense-a7444926.html)
+3. [The Independent](https://www.independent.co.uk/news/world/americas/colombia-plane-crash-rescuers-find-survivors-brazilian-football-team-chapecoense-a7444926.html)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/C0BD/production/_92714394_mediaitem92714393.jpg)
+
+### Changes:
+
+1. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuer.md) _2017-08-25 03:46:55 (First version)_
+2. [LaMia Airlines Flight 2933: A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/lamia-airlines-flight-2933-a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-m.md) _2017-08-27 03:47:20 (Update)_
+2. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +28,3 @@ A plane carrying a Brazilian football team crashes in Colombia, killing 71 peopl
 3. [ At least five people are killed and 13 are missing after a landslide crushes homes in a poor area of the city of Medellin in Colombia. ](/news/2008/05/31/at-least-five-people-are-killed-and-13-are-missing-after-a-landslide-crushes-homes-in-a-poor-area-of-the-city-of-medellan-in-colombia.md) _Context: Colombia, Medellin_
 4. [ A U.S. Federal Air Marshal fatally shoots Rigoberto Alpizar on American Airlines Flight 924 in a jetway at Miami International Airport in Florida. Alpizar, a U.S. citizen who had disembarked from an American Airlines flight from Medellin, Colombia, claimed to have a bomb. No explosive was found. ](/news/2005/12/7/a-u-s-federal-air-marshal-fatally-shoots-rigoberto-alpizar-on-american-airlines-flight-924-in-a-jetway-at-miami-international-airport-in-f.md) _Context: Colombia, Medellin_
 5. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
-
-### Changes:
-
-1. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuer.md) _2017-08-25 03:46:55 (First version)_
-2. [LaMia Airlines Flight 2933: A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/lamia-airlines-flight-2933-a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-m.md) _2017-08-27 03:47:20 (Update)_
-2. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.md) _(Current version)_

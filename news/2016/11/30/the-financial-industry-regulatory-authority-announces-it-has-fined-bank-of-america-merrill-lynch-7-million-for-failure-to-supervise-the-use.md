@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.html)  [JSON](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.json)  [XML](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.xml)  
+
 ### [2016-11-30](/news/2016/11/30/index.md)
 
 # The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. 
@@ -5,10 +8,10 @@
 The Financial Industry Regulatory Authority said on Wednesday it fined Bank of America (BAC.N) Merrill Lynch $7 million for inadequate supervision of client brokerage accounts that used leverage to buy Puerto Rican municipal bonds and other securities.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-finra-bank-of-america-fine-idUSKBN13P25O)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161130&t=2&i=1163668836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAT1BV)
+1. [Reuters](https://www.reuters.com/article/us-finra-bank-of-america-fine-idUSKBN13P25O)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161130&t=2&i=1163668836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAT1BV)
 
 ### Related:
 

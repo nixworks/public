@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/30/south-africa-launches-the-hvtn-702-trial-for-an-experimental-aids-vaccine-which-will-involve-over-5-400-men-and-women-over-the-course-of-fo.html)  [JSON](/news/2016/11/30/south-africa-launches-the-hvtn-702-trial-for-an-experimental-aids-vaccine-which-will-involve-over-5-400-men-and-women-over-the-course-of-fo.json)  [XML](/news/2016/11/30/south-africa-launches-the-hvtn-702-trial-for-an-experimental-aids-vaccine-which-will-involve-over-5-400-men-and-women-over-the-course-of-fo.xml)  
+
 ### [2016-11-30](/news/2016/11/30/index.md)
 
 # South Africa launches the HVTN 702 trial for an experimental AIDS vaccine, which will involve over 5,400 men and women over the course of four years. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/aids-vaccine-final-nail-coffin-disease-161130142549896.html)
 

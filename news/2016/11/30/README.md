@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/30/index.html)  [JSON](2016/11/30/index.json)  [XML](2016/11/30/index.xml)  
+
 ## [2016-11-30](/news/2016/11/30/index.md)
 
 ### [ Afghan security forces killed 16 militants from Taliban group in Ghazni. ](/news/2016/11/30/afghan-security-forces-killed-16-militants-from-taliban-group-in-ghazni.md)
@@ -10,7 +13,7 @@ Rescue workers said more than 45 people had been killed in artillery bombardment
 Israeli jets fired two missiles from Lebanese airspace that struck near Damascus, Syrian state media say.
 
 ### [The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-colombian-conflict.md)
-_Context: Colombian conflict, Colombian government, Congress of Colombia, FARC, peace deal_
+_Context: Colombian conflict, Colombian government, Colombian peace process, Congress of Colombia, FARC_
 
 ### [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md)
 A handwritten score by Gustav Mahler fetches a record-breaking £4.5m at auction.
@@ -43,13 +46,13 @@ Further, the bench said people must show respect to the national anthem and the 
 Violent protests erupted in Haiti on Tuesday as losing candidates rejected the preliminary results of an election that indicated Jovenel Mo&iuml;&#8203;se would be the next president.
 
 ### [President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. ](/news/2016/11/30/president-elect-donald-trump-announces-that-his-team-has-made-a-deal-with-carrier-corporation-that-would-save-around-1-000-jobs-at-an-indian.md)
-The incoming Trump Administration and UTX have reached an agreement that will keep close to 1,000 jobs at Carrier in Indiana.
+Reversing a plan the president-elect had assailed, the company will keep roughly half of the 2,000 manufacturing jobs in Indiana that it was to shift to Mexico.
 
 ### [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md)
 _Context: Nepal_
 
 ### [The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. ](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pressure-towards-republican-candidate-pat-mccrory-to-accept-his-defeat-by-democratic-nominee-ro.md)
-SALEM, N.C. (Reuters) - A U.S. federal court on Tuesday set a March 15 deadline for North Carolina state lawmakers to redraw legislative districts found to be racially &quot;gerrymandered,&quot; and ordered a new round of elections by next November for the 28 seats at stake.
+Gov. Pat McCrory, trailing by thousands of votes three weeks after the election, is charging numerous irregularities, while Roy Cooper is declaring victory.
 
 ### [Reform candidate Rocky de la Fuente files for a sample recount in parts of Nevada. ](/news/2016/11/30/reform-candidate-rocky-de-la-fuente-files-for-a-sample-recount-in-parts-of-nevada.md)
 Roque “Rocky” De La Fuente, an independent candidate for president who garnered less than 1 percent of the vote in Nevada, filed late Tuesday for a recount of a sample of the state’s presidential ballots.

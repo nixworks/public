@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/the-israeli-ultra-orthodox-party-shas-proposes-a-bill-that-would-thwart-the-mixed-prayer-area-at-western-wall-by-placing-the-site-under-the.html)  [JSON](/news/2016/11/29/the-israeli-ultra-orthodox-party-shas-proposes-a-bill-that-would-thwart-the-mixed-prayer-area-at-western-wall-by-placing-the-site-under-the.json)  [XML](/news/2016/11/29/the-israeli-ultra-orthodox-party-shas-proposes-a-bill-that-would-thwart-the-mixed-prayer-area-at-western-wall-by-placing-the-site-under-the.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # The Israeli ultra-orthodox party Shas proposes a bill that would thwart the mixed prayer area at Western Wall by placing the site under the jurisdiction of the Chief Rabbinate; if approved, a NIS 10,000 fine would be given to those engaging in male-female prayer or women wrapping themselves in the traditional talit or laying tefillin. 
@@ -5,7 +8,7 @@
 The ultra-orthodox party proposes a bill that would thwart the mixed prayer area by placing the site under the jurisdiction of the Chief Rabbinate; if aproved, a NIS 10,000 fine would be given to those engaging in male-female prayer or women wrapping themselves in the traditional talit or laying tefillin.
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4885677,00.html)
 1. [Cover Image](http://www.ynetnews.com/PicServer4/2016/11/02/7358894/73588850100993640360no.jpg)

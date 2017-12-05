@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.html)  [JSON](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.json)  [XML](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.xml)  
+
 ### [2016-11-28](/news/2016/11/28/index.md)
 
 # North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. 
@@ -5,11 +8,16 @@
 The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to protest the controversial Dakota Access pipeline must immediately evacuate, North Dakota Gov. Jack Dalrymple declared Monday night. Dalrymple said the camp&#x27;s semi-permanent shelters were not &quot;suitable for winter habitation&quot; in accordance with state building codes.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/storyline/dakota-pipeline-protests/north-dakota-governor-orders-pipeline-protesters-leave-citing-winter-weather-n689366)
-2. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13N2EU)
+2. [Reuters](https://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13N2EU)
 2. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2016_48/1812006/161128-dakota-access-winter-2007_a69f7420d51520f7278b797ce606bf1d.nbcnews-fp-1200-800.jpg)
+
+### Changes:
+
+1. [Dakota Access Pipeline protests: North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. ](/news/2016/11/28/dakota-access-pipeline-protests-north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-an.md) _2017-08-27 03:47:19 (First version)_
+1. [North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. ](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to 
 3. [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md) _Context: Dakota Access Pipeline protests_
 4. [Bob Stenehjem, the Senate Majority Leader in the US state of North Dakota, is killed in an accident in Alaska. ](/news/2011/07/18/bob-stenehjem-the-senate-majority-leader-in-the-us-state-of-north-dakota-is-killed-in-an-accident-in-alaska.md) _Context: North Dakota_
 5. [Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md) _Context: North Dakota_
-
-### Changes:
-
-1. [Dakota Access Pipeline protests: North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. ](/news/2016/11/28/dakota-access-pipeline-protests-north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-an.md) _2017-08-27 03:47:19 (First version)_
-1. [North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. ](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-executive-order-which-expels-thousands-of-native-american-and-environmental-protesters-who-ar.md) _(Current version)_

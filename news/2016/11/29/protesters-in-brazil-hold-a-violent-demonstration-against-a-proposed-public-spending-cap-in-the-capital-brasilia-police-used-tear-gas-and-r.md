@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.html)  [JSON](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.json)  [XML](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # Protesters in Brazil hold a violent demonstration against a proposed public spending cap in the capital Brasilia. Police used tear gas and rubber bullets in order to disperse the demonstrators. 
@@ -5,9 +8,9 @@
 Thousands of demonstrators on Tuesday evening staged one of the strongest protests against Brazilian President Michel Temer and his fiscal-austerity agenda, turning over cars and trying to break into the country’s Senate as police fired tear gas and what appeared to be rubber bullets.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/thousands-protest-brazilian-president-ahead-of-vote-on-public-spending-cap-1480454223)
+1. [Wall Street Journal](https://www.wsj.com/articles/thousands-protest-brazilian-president-ahead-of-vote-on-public-spending-cap-1480454223)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-QZ569_2Rimc_TOPPER_20161129162800.jpg)
 
 ### Related:

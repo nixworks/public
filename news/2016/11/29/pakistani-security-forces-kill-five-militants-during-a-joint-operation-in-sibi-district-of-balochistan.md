@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/29/pakistani-security-forces-kill-five-militants-during-a-joint-operation-in-sibi-district-of-balochistan.html)  [JSON](/news/2016/11/29/pakistani-security-forces-kill-five-militants-during-a-joint-operation-in-sibi-district-of-balochistan.json)  [XML](/news/2016/11/29/pakistani-security-forces-kill-five-militants-during-a-joint-operation-in-sibi-district-of-balochistan.xml)  
+
 ### [2016-11-29](/news/2016/11/29/index.md)
 
 # Pakistani security forces kill five militants during a joint operation in Sibi District of Balochistan. 
@@ -5,7 +8,7 @@
 Security forces claim to have recovered land mines and other weapons from the militant hideouts.
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/news/1299411/five-suspected-militants-killed-in-balochistans-sibi)
 1. [Cover Image](http://i.dawn.com/medium/2016/11/583da583ccf76.jpg)

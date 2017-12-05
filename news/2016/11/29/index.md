@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/29/index.html)  [JSON](2016/11/29/index.json)  [XML](2016/11/29/index.xml)  
+
 ## [2016-11-29](/news/2016/11/29/index.md)
 
 ### [A bomb kills at least 4 Somali soldiers and another 11 are injured. ](/news/2016/11/29/a-bomb-kills-at-least-4-somali-soldiers-and-another-11-are-injured.md)
@@ -55,7 +58,7 @@ It was a routine the charismatic athlete had come to rely on.
 AU-PRINCE (Reuters) - Haitians have chosen banana exporter Jovenel Moise as their next president, provisional results released by the election council on Monday showed, with the political novice winning a majority and avoiding a second round runoff.
 
 ### [Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. ](/news/2016/11/29/park-geun-hye-says-she-is-willing-to-resign-and-offers-to-begin-the-process-of-removing-herself-from-power.md)
-_Context: 2016 South Korean political scandal, Park Geun-hye_
+Opposition lawmakers rejected the offer, calling it a ploy, and said they would call for a vote on Friday to impeach Ms. Park, who is embroiled in a corruption scandal.
 
 ### [President-elect Donald Trump names Tom Price as United States Secretary of Health and Human Services; former President George W. Bush Administration official and wife of Mitch McConnell Elaine Chao as United States Secretary of Transportation; ](/news/2016/11/29/president-elect-donald-trump-names-tom-price-as-united-states-secretary-of-health-and-human-services-former-president-george-w-bush-admini.md)
 Former Goldman Sachs executive Steve Mnuchin confirms he will be the new US treasury secretary.
