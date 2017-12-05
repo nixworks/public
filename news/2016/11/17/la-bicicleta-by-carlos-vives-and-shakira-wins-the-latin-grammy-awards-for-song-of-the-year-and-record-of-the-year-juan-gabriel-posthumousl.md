@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/17/la-bicicleta-by-carlos-vives-and-shakira-wins-the-latin-grammy-awards-for-song-of-the-year-and-record-of-the-year-juan-gabriel-posthumousl.html)  [JSON](/news/2016/11/17/la-bicicleta-by-carlos-vives-and-shakira-wins-the-latin-grammy-awards-for-song-of-the-year-and-record-of-the-year-juan-gabriel-posthumousl.json)  [XML](/news/2016/11/17/la-bicicleta-by-carlos-vives-and-shakira-wins-the-latin-grammy-awards-for-song-of-the-year-and-record-of-the-year-juan-gabriel-posthumousl.xml)  
+
 ### [2016-11-17](/news/2016/11/17/index.md)
 
 # "La Bicicleta" by Carlos Vives and Shakira wins the Latin Grammy Awards for Song of the Year and Record of the Year.Juan Gabriel posthumously wins the Latin Grammy Award for Album of the Year for "Los Duo, Vol. 2"

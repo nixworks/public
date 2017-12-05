@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.html)  [JSON](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.json)  [XML](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.xml)  
+
 ### [2016-11-17](/news/2016/11/17/index.md)
 
 # Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38041847)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CC2A/production/_92566225_mediaitem92566224.jpg)

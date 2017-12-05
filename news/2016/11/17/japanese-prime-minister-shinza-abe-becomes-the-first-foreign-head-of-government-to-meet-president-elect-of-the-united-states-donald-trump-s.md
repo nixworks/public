@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.html)  [JSON](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.json)  [XML](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.xml)  
+
 ### [2016-11-17](/news/2016/11/17/index.md)
 
 # Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. 
@@ -5,20 +8,20 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-trump-japan-idUSKBN13C0C8)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20161118&t=2&i=1162230194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAH0X2)
-
-### Related:
-
-1. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan-United States relations, Prime Minister of Japan, Shinzo Abe_
-2. [Although he lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/although-he-lost-the-popular-vote-donald-trump-the-republican-nominee-for-the-2016-presidential-election-becomes-the-president-elect-of-t.md) _Context: Donald Trump, President-elect, United States presidential election, 2016_
-3. [Japanese Prime Minister Shinzo Abe agrees to suspend work to expand the U.S. military base on Okinawa Island. Abe says his government will follow the court recommendation and settle several lawsuits over landfill work carried out to prepare for new runways. ](/news/2016/03/4/japanese-prime-minister-shinza-abe-agrees-to-suspend-work-to-expand-the-u-s-military-base-on-okinawa-island-abe-says-his-government-will.md) _Context: Japan-United States relations, Prime Minister of Japan, Shinzo Abe_
-4. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: Donald Trump, Japan-United States relations_
-5. [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md) _Context: Prime Minister of Japan, Shinzo Abe_
+1. [Reuters](https://www.reuters.com/article/us-usa-trump-japan-idUSKBN13C0C8)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20161118&t=2&i=1162230194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAH0X2)
 
 ### Changes:
 
 1. [Japan-United States relations: Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japan-united-states-relations-japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of.md) _2017-08-27 03:47:15 (First version)_
 1. [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md) _(Current version)_
+
+### Related:
+
+1. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Japan-United States relations, Prime Minister of Japan, Shinzo Abe_
+2. [Although he lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/although-he-lost-the-popular-vote-donald-trump-the-republican-nominee-for-the-2016-presidential-election-becomes-the-president-elect-of-t.md) _Context: 2016 U.S. presidential election, Donald Trump, President-elect_
+3. [Japanese Prime Minister Shinzo Abe agrees to suspend work to expand the U.S. military base on Okinawa Island. Abe says his government will follow the court recommendation and settle several lawsuits over landfill work carried out to prepare for new runways. ](/news/2016/03/4/japanese-prime-minister-shinza-abe-agrees-to-suspend-work-to-expand-the-u-s-military-base-on-okinawa-island-abe-says-his-government-will.md) _Context: Japan-United States relations, Prime Minister of Japan, Shinzo Abe_
+4. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump, Japan-United States relations_
+5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: Donald Trump, Japan-United States relations_

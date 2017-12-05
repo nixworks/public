@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/14/augustin-matata-ponyo-resigns-as-prime-minister-of-the-democratic-republic-of-the-congo.html)  [JSON](/news/2016/11/14/augustin-matata-ponyo-resigns-as-prime-minister-of-the-democratic-republic-of-the-congo.json)  [XML](/news/2016/11/14/augustin-matata-ponyo-resigns-as-prime-minister-of-the-democratic-republic-of-the-congo.xml)  
+
 ### [2016-11-14](/news/2016/11/14/index.md)
 
 # Augustin Matata Ponyo resigns as Prime Minister of the Democratic Republic of the Congo. 
@@ -5,7 +8,7 @@
 Congolese Prime Minister Augustin Matata Ponyo resigned on Monday as part of the national dialogue framework agreement which stipulates that an opposition leader takes the position of Prime Minister.
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/2016/11/14/dr-congo-prime-minister-matata-ponyo-resigns-as-part-of-peace-agreement/)
 1. [Cover Image](http://static.euronews.com/articles/349516/1024x538_349516.jpg?1479119048)

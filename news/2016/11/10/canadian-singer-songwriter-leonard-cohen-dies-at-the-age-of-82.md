@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/10/canadian-singer-songwriter-leonard-cohen-dies-at-the-age-of-82.html)  [JSON](/news/2016/11/10/canadian-singer-songwriter-leonard-cohen-dies-at-the-age-of-82.json)  [XML](/news/2016/11/10/canadian-singer-songwriter-leonard-cohen-dies-at-the-age-of-82.xml)  
+
 ### [2016-11-10](/news/2016/11/10/index.md)
 
 # Canadian singer-songwriter Leonard Cohen dies at the age of 82. 
@@ -5,9 +8,9 @@
 Leonard Cohen, the hugely influential singer and songwriter whose work spanned five decades, died at the age of 82.
 
 
-### Source:
+### Sources:
 
-1. [Rolling Stone](http://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792)
+1. [Rolling Stone](https://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792)
 1. [Cover Image](http://img.wennermedia.com/social/rs-leonard-cohen02-9f3d8003-0068-4dc4-8e2d-05de0c04179c-1-eea9be54-6684-4448-8c69-f133afce0d52.jpg)
 
 ### Related:

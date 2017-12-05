@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-oklahoma-city-reports-that-an-unarmed-black-man-terence-crutcher-shot-dead-on-september-16-by.html)  [JSON](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-oklahoma-city-reports-that-an-unarmed-black-man-terence-crutcher-shot-dead-on-september-16-by.json)  [XML](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-oklahoma-city-reports-that-an-unarmed-black-man-terence-crutcher-shot-dead-on-september-16-by.xml)  
+
 ### [2016-10-11](/news/2016/10/11/index.md)
 
 # The Office of the Chief Medical Examiner in Oklahoma City reports that an unarmed black man, Terence Crutcher, shot dead on September 16, by a white police officer, Betty Jo Shelby, had acute PCP intoxication. Authorities charged her with first-degree manslaughter. 
@@ -5,7 +8,7 @@
 An unarmed black man shot dead by a white police officer after his car broke down on a city street last month was high on the hallucinogenic drug PCP in when he died, according to toxicology tests released by a medical examiner Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2016/10/11/autopsy-oklahoma-police-victim-had-pcp-in-system-when-died.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/09/23/0/0/694940094001_5138156789001_Tulsa-cop-turns-herself-in-for-shooting-of-unarmed-man-.jpg?ve=1)

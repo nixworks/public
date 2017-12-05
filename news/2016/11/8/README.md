@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/8/index.html)  [JSON](2016/11/8/index.json)  [XML](2016/11/8/index.xml)  
+
 ## [2016-11-8](/news/2016/11/8/index.md)
 
 ### [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/15/the-families-of-those-killed-in-the-sandy-hook-elementary-school-shootings-of-2012-ask-the-connecticut-supreme-court-to-reverse-a-lower-cour.html)  [JSON](/news/2016/11/15/the-families-of-those-killed-in-the-sandy-hook-elementary-school-shootings-of-2012-ask-the-connecticut-supreme-court-to-reverse-a-lower-cour.json)  [XML](/news/2016/11/15/the-families-of-those-killed-in-the-sandy-hook-elementary-school-shootings-of-2012-ask-the-connecticut-supreme-court-to-reverse-a-lower-cour.xml)  
+
 ### [2016-11-15](/news/2016/11/15/index.md)
 
 # The families of those killed in the Sandy Hook Elementary School shootings of 2012 ask the Connecticut Supreme Court to reverse a lower court dismissal of their lawsuit against Remington Arms, maker of the Bushmaster rifle used by murderer Adam Lanza. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/connecticut-shooting-idUSL1N1DG1CS)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/connecticut-shooting-idUSL1N1DG1CS)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

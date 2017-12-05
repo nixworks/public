@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.html)  [JSON](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.json)  [XML](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.xml)  
+
 ### [2016-11-17](/news/2016/11/17/index.md)
 
 # President Joseph Kabila appoints Samy Badibanga as the new Prime Minister of the Democratic Republic of the Congo as part of a power-sharing deal agreed by the opposition and government. 
@@ -5,7 +8,7 @@
 Democratic Republic of Congo opposition leader Samy Badibanga has been named prime minister on Thursday as part of a power-sharing deal signed in October by the opposition and government.
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/2016/11/17/opposition-leader-samy-badibanga-named-prime-minister-of-dr-congo/)
 1. [Cover Image](http://static.euronews.com/articles/349879/1024x538_349879.jpg?1479390880)

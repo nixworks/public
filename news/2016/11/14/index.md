@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/14/index.html)  [JSON](2016/11/14/index.json)  [XML](2016/11/14/index.xml)  
+
 ## [2016-11-14](/news/2016/11/14/index.md)
 
 ### [A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/a-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md)

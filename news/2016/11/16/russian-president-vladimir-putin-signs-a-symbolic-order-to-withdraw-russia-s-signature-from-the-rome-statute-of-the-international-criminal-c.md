@@ -10,7 +10,7 @@ Vladimir Putin has signed an order to have Russia withdrawn from the Internation
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/russia-international-criminal-court-icc-leaves-pulls-out-withdraws-putin-assad-syria-war-aleppo-a7420676.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/russia-international-criminal-court-icc-leaves-pulls-out-withdraws-putin-assad-syria-war-aleppo-a7420676.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/31/16/vladimir-putin.jpg)
 
 ### Related:

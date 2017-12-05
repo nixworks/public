@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-suspect-used-in-the-attempted-murder-of-a-police-officer-to-five-unsolved-homicides-in-the-ci.html)  [JSON](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-suspect-used-in-the-attempted-murder-of-a-police-officer-to-five-unsolved-homicides-in-the-ci.json)  [XML](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-suspect-used-in-the-attempted-murder-of-a-police-officer-to-five-unsolved-homicides-in-the-ci.xml)  
+
 ### [2016-11-15](/news/2016/11/15/index.md)
 
 # Police in Anchorage, Alaska link a gun that a suspect used in the attempted murder of a police officer, to five unsolved homicides in the city which occurred over the summer. The suspect was killed during the murder attempt. 
@@ -5,7 +8,7 @@
 A gun used to shoot a police officer Saturday morning was the same weapon used in at least five homicides in the city so far this year, including two double homicides, Anchorage police said.
 
 
-### Source:
+### Sources:
 
 1. [Alaska Dispatch News](https://www.adn.com/alaska-news/crime-courts/2016/11/15/apd-gun-used-by-suspect-in-saturday-police-shooting-implicated-in-five-anchorage-homicides/)
 1. [Cover Image](https://www.adn.com/resizer/7SeJdZDDZV9oA695JL8t8CfCn6M=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/11/16115331/Ritchie-High-School-License-3x2.jpg?token=bar)

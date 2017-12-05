@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/12/gunshots-are-fired-in-crossgates-mall-in-guilderland-new-york-police-report-the-mall-has-been-cleared-they-are-looking-for-one-suspect.html)  [JSON](/news/2016/11/12/gunshots-are-fired-in-crossgates-mall-in-guilderland-new-york-police-report-the-mall-has-been-cleared-they-are-looking-for-one-suspect.json)  [XML](/news/2016/11/12/gunshots-are-fired-in-crossgates-mall-in-guilderland-new-york-police-report-the-mall-has-been-cleared-they-are-looking-for-one-suspect.xml)  
+
 ### [2016-11-12](/news/2016/11/12/index.md)
 
 # Gunshots are fired in Crossgates Mall in Guilderland, New York. Police report the mall has been cleared; they are looking for one suspect. 
@@ -5,7 +8,7 @@
 The Guilderland police chief says they are still looking for one suspect at this time.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/national/authorities-reports-of-shots-fired-at-new-york-mall/2016/11/12/89425dc4-a91c-11e6-ba46-53db57f0e351_story.html)
 2. [WTEN-TV](http://news10.com/2016/11/12/breaking-active-shooters-in-crossgates-mall/)

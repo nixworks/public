@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.html)  [JSON](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.json)  [XML](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.xml)  
+
 ### [2016-11-17](/news/2016/11/17/index.md)
 
 # The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. 
@@ -5,7 +8,7 @@
 One of Britain&#39;s biggest mobile phone companies has admitted to a major cyber-security breach which could put the personal data of millions of customers at risk.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/11/17/three-mobile-cyber-hack--six-million-customers-private-data-at-r/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/11/17/three-mobile-mascot-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/11/index.html)  [JSON](2016/10/11/index.json)  [XML](2016/10/11/index.xml)  
+
 ## [2016-10-11](/news/2016/10/11/index.md)
 
 ### [A gunman, reportedly wearing an Afghan police uniform, kills at least 14 people and wounds dozens more in the Shiite Karte Sakhi shrine in Kabul on the beginning of Ashura. Police kill the attacker. ](/news/2016/10/11/a-gunman-reportedly-wearing-an-afghan-police-uniform-kills-at-least-14-people-and-wounds-dozens-more-in-the-shiite-karte-sakhi-shrine-in-k.md)
@@ -34,7 +37,7 @@ U.S. investigators believe a Jordanian student pilot was trying to kill himself 
 Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in Asia and the Pacific, the World Health Organization (WHO) warns.
 
 ### [The U.S. Supreme Court hears arguments in a patent dispute between Apple Inc. and Samsung concerning both company's smart phone designs (Samsung Electronics v. Apple (15-777)). ](/news/2016/10/11/the-u-s-supreme-court-hears-arguments-in-a-patent-dispute-between-apple-inc-and-samsung-concerning-both-company-s-smart-phone-designs-sam.md)
-_Context: Apple Inc., Samsung, United States Supreme Court_
+_Context: Apple Inc., Samsung, Supreme Court of the United States_
 
 ### [The Obama administration through the U.S. Department of Justice announces that they will file criminal contempt of court charges against Maricopa County, Arizona sheriff Joe Arpaio for violating a judge's order to stop immigration patrols that led to a court finding of racial profiling. The charges carry a maximum penalty of six months in jail. ](/news/2016/10/11/the-obama-administration-through-the-u-s-department-of-justice-announces-that-they-will-file-criminal-contempt-of-court-charges-against-mar.md)
 Sheriff Joe Arpaio faces a misdemeanor charge of defying a court order to stop racial profiling of Latinos suspected of being in the U.S. illegally.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/14/a-russian-mig-29-crashes-in-the-mediterranean-sea-off-the-syrian-coast-the-pilot-ejected-safely-from-the-plane-and-is-unhurt.html)  [JSON](/news/2016/11/14/a-russian-mig-29-crashes-in-the-mediterranean-sea-off-the-syrian-coast-the-pilot-ejected-safely-from-the-plane-and-is-unhurt.json)  [XML](/news/2016/11/14/a-russian-mig-29-crashes-in-the-mediterranean-sea-off-the-syrian-coast-the-pilot-ejected-safely-from-the-plane-and-is-unhurt.xml)  
+
 ### [2016-11-14](/news/2016/11/14/index.md)
 
 # A Russian MiG-29 crashes in the Mediterranean Sea off the Syrian coast. The pilot ejected safely from the plane and is unhurt. 
@@ -5,7 +8,7 @@
 A Russian MiG-29 fighter jet crashes in the Mediterranean as it tries to land on an aircraft carrier.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-37978463)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15A9D/production/_92433788_mediaitem92433787.jpg)

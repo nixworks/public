@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/14/spanish-archaeologists-in-luxor-announce-the-discovery-of-an-approximately-3000-year-old-mummy-in-near-perfect-condition.html)  [JSON](/news/2016/11/14/spanish-archaeologists-in-luxor-announce-the-discovery-of-an-approximately-3000-year-old-mummy-in-near-perfect-condition.json)  [XML](/news/2016/11/14/spanish-archaeologists-in-luxor-announce-the-discovery-of-an-approximately-3000-year-old-mummy-in-near-perfect-condition.xml)  
+
 ### [2016-11-14](/news/2016/11/14/index.md)
 
 # Spanish archaeologists in Luxor announce the discovery of an approximately 3000 year old mummy in "near perfect" condition. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](https://www.msn.com/en-us/news/world/millennia-old-mummy-found-in-egypt-tomb/ar-AAkfmnf?ocid=ansmsnnews11)
 

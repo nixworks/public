@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-sentence-on-mohamed-morsi-and-five-other-members-of-the-muslim-brotherhood-the-court-orders.html)  [JSON](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-sentence-on-mohamed-morsi-and-five-other-members-of-the-muslim-brotherhood-the-court-orders.json)  [XML](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-sentence-on-mohamed-morsi-and-five-other-members-of-the-muslim-brotherhood-the-court-orders.xml)  
+
 ### [2016-11-15](/news/2016/11/15/index.md)
 
 # Egypt's court of cassation overturns the death sentence on Mohamed Morsi and five other members of the Muslim Brotherhood. The court orders a retrial of six men for their roles in releasing the prisoners from the Wadi el-Natrun prison. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37985498)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/A39C/production/_92448814_mediaitem92448813.jpg)

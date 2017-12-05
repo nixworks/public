@@ -1,10 +1,10 @@
+
+Formats: [HTML](2016/11/17/index.html)  [JSON](2016/11/17/index.json)  [XML](2016/11/17/index.xml)  
+
 ## [2016-11-17](/news/2016/11/17/index.md)
 
 ### [The Syrian Observatory for Human Rights reports a car bomb has killed at least ten people in the city of Azaz, Aleppo Governorate. ](/news/2016/11/17/the-syrian-observatory-for-human-rights-reports-a-car-bomb-has-killed-at-least-ten-people-in-the-city-of-azaz-aleppo-governorate.md)
 At least 13 people were killed and dozens were injured by a car bomb on Thursday which targeted a building used by a rebel group in the northern Syrian town of Azaz near the Turkish border, the Syrian Observatory for Human Rights said.
-
-### ["La Bicicleta" by Carlos Vives and Shakira wins the Latin Grammy Awards for Song of the Year and Record of the Year.Juan Gabriel posthumously wins the Latin Grammy Award for Album of the Year for "Los Duo, Vol. 2"](/news/2016/11/17/la-bicicleta-by-carlos-vives-and-shakira-wins-the-latin-grammy-awards-for-song-of-the-year-and-record-of-the-year-juan-gabriel-posthumousl.md)
-_Context: Carlos Vives, Juan Gabriel, La Bicicleta, Latin Grammy Award, Latin Grammy Award for Album of the Year, Los Duo, Vol. 2, Record of the Year, Shakira, Song of the Year_
 
 ### [At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in-mozambique-s-tete-provin.md)
 At least 73 people were killed and scores injured in Mozambique on Thursday as they tried to siphon fuel from an overturned truck which exploded, the government said.
@@ -13,7 +13,7 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 _Context: Europe, European migrant crisis, Libya, Mediterranean Sea_
 
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: Donald Trump, Japan-United States relations, President-elect, Prime Minister of Japan, Shinzo Abe, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Donald Trump, Japan-United States relations, President-elect, Prime Minister of Japan, Shinzo Abe_
 
 ### [The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. ](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.md)
 One of Britain&#39;s biggest mobile phone companies has admitted to a major cyber-security breach which could put the personal data of millions of customers at risk.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/13/eight-people-are-killed-and-36-are-arrested-in-clashes-between-the-myanmar-army-and-what-are-believed-to-be-rohingya-insurgents-in-rakhine-s.html)  [JSON](/news/2016/11/13/eight-people-are-killed-and-36-are-arrested-in-clashes-between-the-myanmar-army-and-what-are-believed-to-be-rohingya-insurgents-in-rakhine-s.json)  [XML](/news/2016/11/13/eight-people-are-killed-and-36-are-arrested-in-clashes-between-the-myanmar-army-and-what-are-believed-to-be-rohingya-insurgents-in-rakhine-s.xml)  
+
 ### [2016-11-13](/news/2016/11/13/index.md)
 
 # Eight people are killed and 36 are arrested in clashes between the Myanmar Army and what are believed to be Rohingya insurgents in Rakhine State. 
@@ -5,9 +8,9 @@
 Eight people died and 36 were arrested in clashes between the Myanmar army and what the government believes are Rohingya Muslim militants in northern Rakhine State, state media said on Sunday, in the largest escalation of the month-old conflict yet.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-myanmar-rohingya-idUSKBN13804H?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-idUSKBN13804H?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161113&t=2&i=1161472113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAC04F)
 
 ### Related:

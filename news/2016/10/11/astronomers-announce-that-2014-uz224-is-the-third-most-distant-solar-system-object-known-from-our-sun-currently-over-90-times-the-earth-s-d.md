@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.html)  [JSON](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.json)  [XML](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.xml)  
+
 ### [2016-10-11](/news/2016/10/11/index.md)
 
 # Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The International Astronomical Union Minor Planet Center](http://www.minorplanetcenter.net/mpec/K16/K16TA4.html)
 

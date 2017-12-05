@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/15/index.html)  [JSON](2016/11/15/index.json)  [XML](2016/11/15/index.xml)  
+
 ## [2016-11-15](/news/2016/11/15/index.md)
 
 ### [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md)

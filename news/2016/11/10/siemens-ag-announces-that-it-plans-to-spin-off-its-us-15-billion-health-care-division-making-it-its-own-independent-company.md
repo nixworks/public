@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/10/siemens-ag-announces-that-it-plans-to-spin-off-its-us-15-billion-health-care-division-making-it-its-own-independent-company.html)  [JSON](/news/2016/11/10/siemens-ag-announces-that-it-plans-to-spin-off-its-us-15-billion-health-care-division-making-it-its-own-independent-company.json)  [XML](/news/2016/11/10/siemens-ag-announces-that-it-plans-to-spin-off-its-us-15-billion-health-care-division-making-it-its-own-independent-company.xml)  
+
 ### [2016-11-10](/news/2016/11/10/index.md)
 
 # Siemens AG announces that it plans to spin off its US$15 billion health care division, making it its own independent company. 
@@ -5,9 +8,9 @@
 Siemens AG announced plans to spin off its $15 billion health-care division in one of the German engineering giant’s biggest portfolio revamps as it narrows focus on energy, transport and factory gear.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-10/siemens-profit-gains-company-plans-health-care-unit-listing)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-11-10/siemens-profit-gains-company-plans-health-care-unit-listing)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-markets-3d32d2f713.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/15/will-rogers-world-airport-in-oklahoma-city-suspends-all-arrival-and-departure-flights-after-at-least-one-person-is-shot-in-the-airport-s-par.html)  [JSON](/news/2016/11/15/will-rogers-world-airport-in-oklahoma-city-suspends-all-arrival-and-departure-flights-after-at-least-one-person-is-shot-in-the-airport-s-par.json)  [XML](/news/2016/11/15/will-rogers-world-airport-in-oklahoma-city-suspends-all-arrival-and-departure-flights-after-at-least-one-person-is-shot-in-the-airport-s-par.xml)  
+
 ### [2016-11-15](/news/2016/11/15/index.md)
 
 # Will Rogers World Airport in Oklahoma City suspends all arrival and departure flights after at least one person is shot in the airport's parking lot. Local media report that victim has been transported in "emergency condition" to a nearby hospital. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-oklahoma-shooting-idUSKBN13A2LE)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-oklahoma-shooting-idUSKBN13A2LE)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

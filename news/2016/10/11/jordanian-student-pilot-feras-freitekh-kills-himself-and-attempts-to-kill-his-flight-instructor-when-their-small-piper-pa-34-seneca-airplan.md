@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/11/jordanian-student-pilot-feras-freitekh-kills-himself-and-attempts-to-kill-his-flight-instructor-when-their-small-piper-pa-34-seneca-airplan.html)  [JSON](/news/2016/10/11/jordanian-student-pilot-feras-freitekh-kills-himself-and-attempts-to-kill-his-flight-instructor-when-their-small-piper-pa-34-seneca-airplan.json)  [XML](/news/2016/10/11/jordanian-student-pilot-feras-freitekh-kills-himself-and-attempts-to-kill-his-flight-instructor-when-their-small-piper-pa-34-seneca-airplan.xml)  
+
 ### [2016-10-11](/news/2016/10/11/index.md)
 
 # Jordanian student pilot Feras Freitekh kills himself and attempts to kill his flight instructor, when their small Piper PA-34 Seneca airplane crashes in East Hartford Connecticut. Investigators conclude the crash was an intentional act motivated by suicide based on the surviving instructor who said there was an argument and struggle for control. The FBI investigates. 
@@ -5,10 +8,10 @@
 U.S. investigators believe a Jordanian student pilot was trying to kill himself when he crashed a small plane in Connecticut this week but do not believe he was affiliated with militant groups, two federal officials familiar with the probe said on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-connecticut-crash-idUSKCN12D2J0)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161013&t=2&i=1157338502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9C1FW)
+1. [Reuters](https://www.reuters.com/article/us-connecticut-crash-idUSKCN12D2J0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161013&t=2&i=1157338502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC9C1FW)
 
 ### Related:
 

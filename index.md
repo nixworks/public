@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/4/index.md)
 
-### [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md)
+### [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md)
 Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
 
 ### [For the second time in three days, Israel carries out a missile strike on military facilities near Damascus. ](/news/2017/12/4/for-the-second-time-in-three-days-israel-carries-out-a-missile-strike-on-military-facilities-near-damascus.md)
@@ -29,6 +29,9 @@ _Context: Daphne Caruana Galizia, Malta_
 
 ### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md)
 The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Junqueras in jail, judging he’s likely to challenge the authority of the state again if released.
+
+### [Apple Inc. and Ireland agree on an interim deal to put EUR13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "sweetheart" corporate tax deals were illegal. In 2016, the European Commission found that an unfair advantage of EUR13 billion is to be reimbursed. ](/news/2017/12/4/apple-inc-and-ireland-agree-on-an-interim-deal-to-put-a-13-billion-in-an-escrow-fund-for-the-repayment-of-back-taxes-starting-early-2018.md)
+To keep EU regulators happy, Apple will begin paying unpaid taxes to Ireland, which will be saved into an escrow account.
 
 ### [The Eurogroup selects Mario Centeno, Portugal's Minister of Finance, to succeed Jeroen Dijsselbloem as their next president. ](/news/2017/12/4/the-eurogroup-selects-ma-rio-centeno-portugal-s-minister-of-finance-to-succeed-jeroen-dijsselbloem-as-their-next-president.md)
 Portuguese Finance Minister Mario Centeno has won the race to become the top official of the 19-country eurozone.

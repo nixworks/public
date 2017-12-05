@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/12/index.html)  [JSON](2016/11/12/index.json)  [XML](2016/11/12/index.xml)  
+
 ## [2016-11-12](/news/2016/11/12/index.md)
 
 ### [At least 52 people, including women and children, have been killed and more than 100 injured by a bomb explosion in the crowded Shah Noorani Shrine in Hub town, Lasbela District, Balochistan, Pakistan. ISIL has claimed responsibility. ](/news/2016/11/12/at-least-52-people-including-women-and-children-have-been-killed-and-more-than-100-injured-by-a-bomb-explosion-in-the-crowded-shah-noorani.md)
@@ -19,7 +22,7 @@ A high court in Zimbabwe dropped charges against a professional hunter who led t
 Hundreds of thousands called on President Park Geun-hye to resign amid a widening corruption and influence-peddling scandal.
 
 ### [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md)
-_Context: Anti-Trump protests, Donald Trump, New York City_
+Beyond the commotion in the streets, liberal activists are preparing legislative challenges and getting ready to support social services they assume will be gutted.
 
 ### [The Government of Colombia and rebel group FARC announce a new peace deal after an earlier agreement was rejected by a referendum six weeks ago. ](/news/2016/11/12/the-government-of-colombia-and-rebel-group-farc-announce-a-new-peace-deal-after-an-earlier-agreement-was-rejected-by-a-referendum-six-weeks.md)
 Colombia and Farc rebels reach a revised peace deal, six weeks after voters rejected the original.

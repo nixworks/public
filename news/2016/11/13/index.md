@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/13/index.html)  [JSON](2016/11/13/index.json)  [XML](2016/11/13/index.xml)  
+
 ## [2016-11-13](/news/2016/11/13/index.md)
 
 ### [Eight people are killed and 36 are arrested in clashes between the Myanmar Army and what are believed to be Rohingya insurgents in Rakhine State. ](/news/2016/11/13/eight-people-are-killed-and-36-are-arrested-in-clashes-between-the-myanmar-army-and-what-are-believed-to-be-rohingya-insurgents-in-rakhine-s.md)

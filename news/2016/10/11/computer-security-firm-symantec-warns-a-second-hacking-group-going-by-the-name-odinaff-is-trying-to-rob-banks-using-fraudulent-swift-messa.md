@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.html)  [JSON](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.json)  [XML](/news/2016/10/11/computer-security-firm-symantec-warns-a-second-hacking-group-going-by-the-name-odinaff-is-trying-to-rob-banks-using-fraudulent-swift-messa.xml)  
+
 ### [2016-10-11](/news/2016/10/11/index.md)
 
 # Computer security firm Symantec warns a second hacking group, going by the name Odinaff, is trying to rob banks using fraudulent SWIFT messages, the same approach that yielded U.S.$81 million in February's attack on Bangladesh's central bank. So far, the group has infected 10 to 20 organizations with this malware. 
@@ -5,9 +8,9 @@
 Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT users indicates a surge in cybercrime against financial institutions.
 
 
-### Source:
+### Sources:
 
-1. [ (Reuters](http://www.reuters.com/article/us-cyber-heist-malware-idUSKCN12B1L3?il=0)
+1. [ (Reuters](https://www.reuters.com/article/us-cyber-heist-malware-idUSKCN12B1L3?il=0)
 2. [Investopedia](http://www.investopedia.com/news/symantec-finds-new-attacks-swift-users-symc/)
 2. [Cover Image](http://i.investopedia.com/inv/genericcontentimages/all-purpose/shutterstock67023106.jpg)
 
