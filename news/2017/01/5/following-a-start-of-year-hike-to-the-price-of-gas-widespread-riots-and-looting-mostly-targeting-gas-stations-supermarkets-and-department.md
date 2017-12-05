@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.html)  [JSON](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.json)  [XML](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.xml)  
+
 ### [2017-01-5](/news/2017/01/5/index.md)
 
 # Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mexico-gasoline-idUSKBN14P0HP)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170106&t=2&i=1167814397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED050VD)
+1. [Reuters](https://www.reuters.com/article/us-mexico-gasoline-idUSKBN14P0HP)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170106&t=2&i=1167814397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED050VD)
 
 ### Related:
 

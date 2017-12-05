@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.html)  [JSON](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.json)  [XML](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.xml)  
+
 ### [2017-01-5](/news/2017/01/5/index.md)
 
 # Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/01/05/politics/paul-ryan-planned-parenthood-obamacare/)
+
+### Changes:
+
+1. [Obamacare repeal efforts: Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/obamacare-repeal-efforts-paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using.md) _2017-08-27 03:47:34 (First version)_
+1. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. ](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.md) _Context: Paul Ryan_
 4. [Talks between top Donald Trump advisers and Speaker Paul Ryan happen at the capital to discuss tax reform. ](/news/2017/01/9/talks-between-top-donald-trump-advisers-and-speaker-paul-ryan-happen-at-the-capital-to-discuss-tax-reform.md) _Context: Paul Ryan_
 5. [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md) _Context: Paul Ryan_
-
-### Changes:
-
-1. [Obamacare repeal efforts: Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/obamacare-repeal-efforts-paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using.md) _2017-08-27 03:47:34 (First version)_
-1. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _(Current version)_

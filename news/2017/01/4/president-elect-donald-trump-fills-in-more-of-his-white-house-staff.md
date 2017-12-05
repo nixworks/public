@@ -1,16 +1,24 @@
+
+Formats: [HTML](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.html)  [JSON](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.json)  [XML](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.xml)  
+
 ### [2017-01-4](/news/2017/01/4/index.md)
 
 # President-elect Donald Trump fills in more of his White House staff. 
 
-She predicted she&#39;d be Trump&#39;s Valerie Jarrett, and it looks like she was right. 
+Clayton has worked with some of the biggest names on Wall Street, including Goldman Sachs and Barclays.
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/homenews/administration/312681-trump-taps-top-aides-to-rnc-sessions-for-key-white-house-roles)
 2. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/01/04/trump-to-tap-wall-street-lawyer-jay-clayton-to-head-sec/)
-3. [USA Today](http://www.usatoday.com/story/life/people/2017/01/04/omarosa-gets-job-trump-white-house-public-liaison-leader/96167028/)
+3. [USA Today](https://www.usatoday.com/story/life/people/2017/01/04/omarosa-gets-job-trump-white-house-public-liaison-leader/96167028/)
 3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/presidential-transition-of-donald-trump-president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _2017-08-27 03:47:34 (First version)_
+1. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ She predicted she&#39;d be Trump&#39;s Valerie Jarrett, and it looks like she wa
 3. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 4. [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 5. [President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. ](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carson-for-united-states-secretary-of-housing-and-urban-development.md) _Context: Donald Trump, Presidential transition of Donald Trump_
-
-### Changes:
-
-1. [Presidential transition of Donald Trump: President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/presidential-transition-of-donald-trump-president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _2017-08-27 03:47:34 (First version)_
-1. [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md) _(Current version)_

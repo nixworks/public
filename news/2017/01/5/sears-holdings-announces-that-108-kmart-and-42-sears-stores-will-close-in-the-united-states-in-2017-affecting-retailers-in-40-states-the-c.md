@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-sears-stores-will-close-in-the-united-states-in-2017-affecting-retailers-in-40-states-the-c.html)  [JSON](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-sears-stores-will-close-in-the-united-states-in-2017-affecting-retailers-in-40-states-the-c.json)  [XML](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-sears-stores-will-close-in-the-united-states-in-2017-affecting-retailers-in-40-states-the-c.xml)  
+
 ### [2017-01-5](/news/2017/01/5/index.md)
 
 # Sears Holdings announces that 108 Kmart and 42 Sears stores will close in the United States in 2017, affecting retailers in 40 states. The company also announced it is selling its trademark Craftsman tool brand to Stanley Black & Decker for $900 million. 
 
-108 Kmarts and 42 Sears locations in 40 states will close this spring. 
+Sears Holdings Corp. agreed to sell its Craftsman tool brand to Stanley Black &amp; Decker Inc. for about $900 million, marking Chief Executive Officer Edward Lampert’s third move in the last two weeks to prop up the beleaguered retailer with fresh sources of funding.
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-01-05/stanley-to-buy-craftsman-brand-from-sears-for-about-900-million)
-2. [USA Today](http://www.usatoday.com/story/money/2017/01/05/sears-kmart-stores-closing/96195504/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA Today](https://www.usatoday.com/story/money/2017/01/05/sears-kmart-stores-closing/96195504/)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-markets-3d32d2f713.jpg)
 
 ### Related:
 

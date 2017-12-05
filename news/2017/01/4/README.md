@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/01/4/index.html)  [JSON](2017/01/4/index.json)  [XML](2017/01/4/index.xml)  
+
 ## [2017-01-4](/news/2017/01/4/index.md)
 
 ### [A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injuring-103-people.md)
 New York fire department responds to Long Island Rail Road train derailment at Brooklyn terminal
 
 ### [President-elect Donald Trump fills in more of his White House staff. ](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-his-white-house-staff.md)
-She predicted she&#39;d be Trump&#39;s Valerie Jarrett, and it looks like she was right. 
+Clayton has worked with some of the biggest names on Wall Street, including Goldman Sachs and Barclays.
 
 ### [Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves-torturing-and-scalping-a-bound.md)
 Chicago police are investigating a video appearing to show a man tied up and assaulted while attackers shout ‘fuck Donald Trump’ and ‘fuck white people’
