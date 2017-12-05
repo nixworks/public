@@ -22,7 +22,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 _Context: Egypt, Habib el-Adly, embezzlement_
 
 ### [Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clinton-for-possible-crimes-relat.md)
-_Context: Hillary Clinton, Kellyanne Conway, Presidency of Donald Trump, email server_
+“Lock her up”? The president-elect signaled that he would prefer to move on rather than pursue inquiries into Mrs. Clinton’s email use and the Clinton Foundation.
 
 ## [Previous Day...](/news/2016/11/21/index.md)
 

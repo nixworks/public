@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/21/index.html)  [JSON](2016/11/21/index.json)  [XML](2016/11/21/index.xml)  
+
 ## [2016-11-21](/news/2016/11/21/index.md)
 
 ### [ A largely ineffective 48-hour ceasefire comes to a head as both sides violate the terms of the armistice and continue clashing. At least 35 are killed, including 4 civilians. ](/news/2016/11/21/a-largely-ineffective-48-hour-ceasefire-comes-to-a-head-as-both-sides-violate-the-terms-of-the-armistice-and-continue-clashing-at-least-35.md)
@@ -16,7 +19,7 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 _Context: South Sudan Conflict, United Nations, World War II_
 
 ### [Novelist, playwright and short story writer William Trevor dies in Devon, England. ](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.md)
-Writers pay tribute to three-time winner of the Whitbread prize who was ‘at his best the equal of Chekhov’
+Irish by birth and upbringing but a longtime resident of Britain, Mr. Trevor focused his mournful, darkly funny short stories and novels on “the sadness of fate.”
 
 ### [The death toll from "Winter Storm Argos" in the U.S. state of New Hampshire rises to five. ](/news/2016/11/21/the-death-toll-from-winter-storm-argos-in-the-u-s-state-of-new-hampshire-rises-to-five.md)
 _Context: 2016-17 North American winter, New Hampshire_
@@ -31,7 +34,7 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 _Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Russia-United States relations, Syrian Civil War, Vladimir Putin_
 
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Polish, Russia, S-400 missile system, United States_
+_Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Polish citizens, Russia, S-400 missile system, United States_
 
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
 _Context: Philippine criminal law, Rodrigo Duterte_

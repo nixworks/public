@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.html)  [JSON](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.json)  [XML](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.xml)  
+
 ### [2016-10-10](/news/2016/10/10/index.md)
 
 # Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-37603756)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C822/production/_91743215_005024191.jpg)

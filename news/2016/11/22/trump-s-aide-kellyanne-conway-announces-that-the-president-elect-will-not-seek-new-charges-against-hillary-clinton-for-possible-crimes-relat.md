@@ -5,12 +5,13 @@ Formats: [HTML](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-th
 
 # Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. 
 
-
+“Lock her up”? The president-elect signaled that he would prefer to move on rather than pursue inquiries into Mrs. Clinton’s email use and the Clinton Foundation.
 
 
 ### Sources:
 
-1. [New York Times](http://www.nytimes.com/2016/11/22/us/politics/donald-trump-hillary-clinton-investigation.html)
+1. [New York Times](https://www.nytimes.com/2016/11/22/us/politics/donald-trump-hillary-clinton-investigation.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/11/23/us/23trump1/23trump1-facebookJumbo.jpg)
 
 ### Changes:
 

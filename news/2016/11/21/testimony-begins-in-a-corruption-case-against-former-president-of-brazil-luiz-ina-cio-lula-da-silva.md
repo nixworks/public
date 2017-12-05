@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.html)  [JSON](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.json)  [XML](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.xml)  
+
 ### [2016-11-21](/news/2016/11/21/index.md)
 
 # Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/article116206213.html)
+
+### Changes:
+
+1. [ Corruption investigation of Luiz Inacio Lula da Silva: Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/corruption-investigation-of-luiz-ina-cio-lula-da-silva-testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-c.md) _2017-08-27 03:47:16 (First version)_
+1. [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Former President of Brazil Lula da Silva will stand trial on obstruction of justice charges relating to the Petrobras scandal. ](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.md) _Context: Lula, President_
 4. [Former President of Brazil Luiz Inacio Lula da Silva is charged with money laundering. ](/news/2016/03/9/former-president-of-brazil-luiz-ina-cio-lula-da-silva-is-charged-with-money-laundering.md) _Context: Lula, President_
 5. [Brazilian police raid the home of ex-President Luiz Inacio Lula da Silva in relation to the Petrobras scandal. Lula is brought in for questioning. ](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-luiz-ina-cio-lula-da-silva-in-relation-to-the-petrobras-scandal-lula-is-brought-in-for-quest.md) _Context: Lula, President_
-
-### Changes:
-
-1. [ Corruption investigation of Luiz Inacio Lula da Silva: Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/corruption-investigation-of-luiz-ina-cio-lula-da-silva-testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-c.md) _2017-08-27 03:47:16 (First version)_
-1. [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.html)  [JSON](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.json)  [XML](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.xml)  
+
 ### [2016-10-10](/news/2016/10/10/index.md)
 
 # Samsung recalls and suspends production of its reformulated-version of Galaxy Note 7 smartphone due to the same persistent problem with battery fires and explosions. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2016/10/10/business/samsung-halts-output-galaxy-note-7-face-2-billion-recall-cost/#.V_sczPl9670)
 

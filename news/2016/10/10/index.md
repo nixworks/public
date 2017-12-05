@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/10/index.html)  [JSON](2016/10/10/index.json)  [XML](2016/10/10/index.xml)  
+
 ## [2016-10-10](/news/2016/10/10/index.md)
 
 ### [A suicide bombing kills at least 14 people, mostly police officers, in Lashkargah, Helmand Province, as Taliban insurgents advance upon the Afghan city. ](/news/2016/10/10/a-suicide-bombing-kills-at-least-14-people-mostly-police-officers-in-lashkargah-helmand-province-as-taliban-insurgents-advance-upon-the.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.html)  [JSON](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.json)  [XML](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.xml)  
+
 ### [2016-11-23](/news/2016/11/23/index.md)
 
 # Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. 
@@ -5,11 +8,16 @@
 Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus, killing at least nine people, and three Pakistani soldiers were killed in cross-border firing, Pakistani officials said on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/pakistan-india-kashmir-idINKBN13I0I2)
 2. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/deadly-clashes-in-kashmir-as-india-pakistan-tensions-deepen/2016/11/23/2b0a6533-2a18-495f-85ae-5dc06c287655_story.html)
 2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [2016 India-Pakistan military confrontation: Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/2016-india-pakistan-military-confrontation-pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit.md) _2017-08-27 03:47:17 (First version)_
+1. [Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus,
 3. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-terr.md) _Context: India, Pakistan_
 4. [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md) _Context: India, Pakistan_
 5. [Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india-says-it-rejects-these-alle.md) _Context: India, Pakistan_
-
-### Changes:
-
-1. [2016 India-Pakistan military confrontation: Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/2016-india-pakistan-military-confrontation-pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit.md) _2017-08-27 03:47:17 (First version)_
-1. [Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.md) _(Current version)_

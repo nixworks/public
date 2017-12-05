@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.html)  [JSON](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.json)  [XML](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.xml)  
+
 ### [2016-11-23](/news/2016/11/23/index.md)
 
 #  The $4B USS Zumwalt, thought to be the U.S. Navy's most technologically advanced vessel to date, suffers a large engineering malfunction while crossing the Panama Canal. This is the craft's second major malfunction since its launch less than a month prior. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/11/23/politics/navy-destroyer-zumwalt-panama-canal/index.html)
 

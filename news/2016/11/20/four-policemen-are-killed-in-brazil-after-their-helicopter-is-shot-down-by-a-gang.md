@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/20/four-policemen-are-killed-in-brazil-after-their-helicopter-is-shot-down-by-a-gang.html)  [JSON](/news/2016/11/20/four-policemen-are-killed-in-brazil-after-their-helicopter-is-shot-down-by-a-gang.json)  [XML](/news/2016/11/20/four-policemen-are-killed-in-brazil-after-their-helicopter-is-shot-down-by-a-gang.xml)  
+
 ### [2016-11-20](/news/2016/11/20/index.md)
 
 # Four policemen are killed in Brazil after their helicopter is shot down by a "gang". 
@@ -5,11 +8,11 @@
 A police helicopter in Rio de Janeiro crashed Saturday evening, killing four officers after a day of intense firefights between law enforcement and suspected criminals in the slum known as City of God.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38041847)
-2. [Reuters](http://www.reuters.com/article/us-brazil-violence-helicopter-idUSKBN13F017?il=0)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/us-brazil-violence-helicopter-idUSKBN13F017?il=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

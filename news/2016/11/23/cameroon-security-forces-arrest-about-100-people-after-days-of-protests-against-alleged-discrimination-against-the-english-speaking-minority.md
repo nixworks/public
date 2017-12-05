@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/23/cameroon-security-forces-arrest-about-100-people-after-days-of-protests-against-alleged-discrimination-against-the-english-speaking-minority.html)  [JSON](/news/2016/11/23/cameroon-security-forces-arrest-about-100-people-after-days-of-protests-against-alleged-discrimination-against-the-english-speaking-minority.json)  [XML](/news/2016/11/23/cameroon-security-forces-arrest-about-100-people-after-days-of-protests-against-alleged-discrimination-against-the-english-speaking-minority.xml)  
+
 ### [2016-11-23](/news/2016/11/23/index.md)
 
 # Cameroon security forces arrest about 100 people after days of protests against alleged discrimination against the English-speaking minority. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Trust](http://news.trust.org/item/20161123185828-pyv7c/?source=reTheWire)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/7449081e-6a25-480b-b27c-f635e770603a/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

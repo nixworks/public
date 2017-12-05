@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/23/index.html)  [JSON](2016/11/23/index.json)  [XML](2016/11/23/index.xml)  
+
 ## [2016-11-23](/news/2016/11/23/index.md)
 
 ### [Pakistani officials say nine civilians have been killed after cross-border Indian shelling hit their passenger bus in Neelam Valley, northeast of Muzaffarabad, while three Pakistani soldiers were killed in other cross-border firing incidents. ](/news/2016/11/23/pakistani-officials-say-nine-civilians-have-been-killed-after-cross-border-indian-shelling-hit-their-passenger-bus-in-neelam-valley-northea.md)
@@ -7,7 +10,7 @@ Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus,
 _Context: Brazilian Development Bank, Economy of Brazil, Government of Brazil_
 
 ### [Peabody Energy says it plans to file a reorganization plan in the middle of December because recent increases in the price of coal have eased conflicts among its creditors. ](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.md)
-U.S. coal producer Peabody Energy Corp (BTUUQ.PK) said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.
+U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.
 
 ### [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md)
 _Context: Ayatollah Khamenei, Iran, Iran-United States relations, Joint Comprehensive Plan of Action_

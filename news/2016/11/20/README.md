@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/11/20/index.html)  [JSON](2016/11/20/index.json)  [XML](2016/11/20/index.xml)  
+
 ## [2016-11-20](/news/2016/11/20/index.md)
 
 ### [At least 8 people are killed and more than a dozen others are injured following an attack on Tatmadaw checkpoints, police outposts and the 105th Mile Trade Center by several insurgent groups in Muse, Shan State. The State Counselor's office issues a statement claiming that the Kachin Independence Army, Ta'ang National Liberation Army and Myanmar National Democratic Alliance Army were involved in the attack. ](/news/2016/11/20/at-least-8-people-are-killed-and-more-than-a-dozen-others-are-injured-following-an-attack-on-tatmadaw-checkpoints-police-outposts-and-the-1.md)
-_Context: Internal conflict in Myanmar, Kachin Independence Army, Muse, Myanmar National Democratic Alliance Army, Myanmar State Counsellor, Myanmar's military, Shan State, Ta'ang National Liberation Army, insurgent groups, police_
+_Context: Internal conflict in Myanmar, Kachin Independence Army, Muse, Myanmar National Democratic Alliance Army, Shan State, State Counsellor, Ta'ang National Liberation Army, insurgent groups, police, security forces_
 
 ### [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md)
 Rebel shelling killed eight children at a school in the government-held part of Aleppo on Sunday and a barrel bomb killed a family of six in the rebel-held area, part of a heavy government bombardment that has knocked out all the hospitals.
@@ -13,7 +16,7 @@ _Context: Syria, Turkish Army, al-Bab, operation Euphrates Shield_
 At least 16 people died and 50 were wounded in Libya in four days of clashes between rival factions in the southern city of Sabha, a health official said on Sunday.
 
 ### [At least 142 people are killed and over 200 injured as the Indore-Patna Express derails near Pukhrayan in the Indian state of Uttar Pradesh. ](/news/2016/11/20/at-least-142-people-are-killed-and-over-200-injured-as-the-indoreapatna-express-derails-near-pukhrayan-in-the-indian-state-of-uttar-prades.md)
-The Indian Railways has issued helpline numbers for those seeking information
+The death toll was likely to rise after one of the country’s worst rail accidents in recent years.
 
 ### [Storm Angus brings strong winds and heavy rain to southern England and the Channel Islands. ](/news/2016/11/20/storm-angus-brings-strong-winds-and-heavy-rain-to-southern-england-and-the-channel-islands.md)
 The first named storm of winter - Storm Angus - is battering the south coast of England, with winds of up to 80mph forecast to sweep through some areas.

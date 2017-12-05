@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a-national-emergency-due-to-water-shortages-caused-by-a-drought.html)  [JSON](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a-national-emergency-due-to-water-shortages-caused-by-a-drought.json)  [XML](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a-national-emergency-due-to-water-shortages-caused-by-a-drought.xml)  
+
 ### [2016-11-21](/news/2016/11/21/index.md)
 
 # The President of Bolivia Evo Morales declares a national emergency due to water shortages caused by a drought. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Phys Org](http://phys.org/news/2016-11-bolivia-declares-drought-emergency.html)
 1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/peopleprotes.jpg)

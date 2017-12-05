@@ -39,5 +39,8 @@ Portuguese Finance Minister Mario Centeno has won the race to become the top off
 ### [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md)
 Capping months of speculation, President Trump on Monday signed a pair of executive orders to significantly shrink two of Utah’s national monuments – Bears Ears and the Grand Staircase-Escalante – that were created by his Democratic predecessors.
 
+### [Debbie Wesson Gibson, one of the women accusing Roy Moore of sexual misconduct, shares evidence of their relationship when she was 17 to the press. ](/news/2017/12/4/debbie-wesson-gibson-one-of-the-women-accusing-roy-moore-of-sexual-misconduct-shares-evidence-of-their-relationship-when-she-was-17-to-the.md)
+&ldquo;I do not know any of these women,&rdquo; the Senate candidate said at a recent campaign event.
+
 ## [Previous Day...](/news/2017/12/3/index.md)
 

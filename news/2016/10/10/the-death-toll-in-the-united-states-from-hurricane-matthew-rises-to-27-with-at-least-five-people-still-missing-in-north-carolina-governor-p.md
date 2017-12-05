@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.html)  [JSON](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.json)  [XML](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.xml)  
+
 ### [2016-10-10](/news/2016/10/10/index.md)
 
 # The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. 
@@ -5,7 +8,7 @@
 In North Carolina, teams searched for missing people and others stranded by floods.
 
 
-### Source:
+### Sources:
 
 1. [AP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-10-10/hurricane-matthew-toll-in-haiti-at-1000/7918640)
 2. [GPS locator](https://www.google.com/search?q=35.4N++72.0W&ie=utf-8&oe=utf-8)

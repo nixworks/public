@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.html)  [JSON](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.json)  [XML](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.xml)  
+
 ### [2016-11-23](/news/2016/11/23/index.md)
 
 # Peabody Energy says it plans to file a reorganization plan in the middle of December because recent increases in the price of coal have eased conflicts among its creditors. 
 
-U.S. coal producer Peabody Energy Corp (BTUUQ.PK) said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.
+U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKBN13I2KB)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161123&t=2&i=1162848130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAM1I8)
+1. [Reuters](https://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKBN13I2KB)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161123&t=2&i=1162848130&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAM1I8)
 
 ### Related:
 

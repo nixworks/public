@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.html)  [JSON](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.json)  [XML](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.xml)  
+
 ### [2016-11-21](/news/2016/11/21/index.md)
 
 # Novelist, playwright and short story writer William Trevor dies in Devon, England. 
 
-Writers pay tribute to three-time winner of the Whitbread prize who was ‘at his best the equal of Chekhov’
+Irish by birth and upbringing but a longtime resident of Britain, Mr. Trevor focused his mournful, darkly funny short stories and novels on “the sadness of fate.”
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/books/2016/nov/21/irish-writer-william-trevor-dies-aged-88)
 2. [The Irish Times](http://www.irishtimes.com/culture/books/william-trevor-writers-are-outsiders-with-no-place-in-society-1.2876818)
-3. [The New York Times](http://www.nytimes.com/2016/11/21/books/william-trevor-dead.html)
-3. [Cover Image](https://i.guim.co.uk/img/media/b968abbf25fcd631c57fba27c239198af42e007f/0_945_1744_1046/master/1744.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=12647dbc78493ed438d146fa2ef9da61)
+3. [The New York Times](https://www.nytimes.com/2016/11/21/books/william-trevor-dead.html)
+3. [Cover Image](https://static01.nyt.com/images/2016/11/22/arts/22TREVOR-OBIT/22TREVOR-OBIT-facebookJumbo.jpg)
 
 ### Related:
 

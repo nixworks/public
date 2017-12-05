@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mesa-petroleum-partners-140-million-as-a-result-of-systemic-underpayment-of-profits-and-owners.html)  [JSON](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mesa-petroleum-partners-140-million-as-a-result-of-systemic-underpayment-of-profits-and-owners.json)  [XML](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mesa-petroleum-partners-140-million-as-a-result-of-systemic-underpayment-of-profits-and-owners.xml)  
+
 ### [2016-11-23](/news/2016/11/23/index.md)
 
 # A Texas jury awards T. Boone Pickens and his Mesa Petroleum partners $140 million as a result of systemic underpayment of profits and ownership from 160 oil wells in Reeves and Pecos counties. 
@@ -5,9 +8,9 @@
 T. Boone Pickens accused J. Cleo Thompson and Delaware Basin Resources of attempting to cheat him out of profits and ownership interests.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/11/23/jury-awards-oil-magnate-pickens-140-million-ruling-companies-conspired-to-cheat-him-of-profits.html?__source=Twitter)
+1. [CNBC](https://www.cnbc.com/2016/11/23/jury-awards-oil-magnate-pickens-140-million-ruling-companies-conspired-to-cheat-him-of-profits.html?__source=Twitter)
 
 ### Related:
 
