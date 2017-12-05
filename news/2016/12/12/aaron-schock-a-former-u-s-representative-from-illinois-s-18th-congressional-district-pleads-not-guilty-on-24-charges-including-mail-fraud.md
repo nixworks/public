@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.html)  [JSON](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.json)  [XML](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. 
@@ -5,9 +8,9 @@
 A former U.S. representative whose lavish Washington office raised questions about use of taxpayer money pleaded not guilty on Monday to charges of defrauding the federal government and campaign committees, then trying to cover it up.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-illinois-crime-idUSKBN1412S8)
+1. [Reuters](https://www.reuters.com/article/us-illinois-crime-idUSKBN1412S8)
 1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165208540&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB1GJ)
 
 ### Related:

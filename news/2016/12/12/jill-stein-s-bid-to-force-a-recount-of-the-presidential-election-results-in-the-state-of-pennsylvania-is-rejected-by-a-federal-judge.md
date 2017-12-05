@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.html)  [JSON](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.json)  [XML](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # Jill Stein's bid to force a recount of the presidential election results in the state of Pennsylvania is rejected by a federal judge. 
 
-Decision poses another setback to Jill Stein&#39;s recount effort in Michigan, Pennsylvania and Wisconsin.
 
 
-### Source:
+
+### Sources:
 
 1. [MSN](https://www.msn.com/en-us/news/politics/trumps-victory-in-wisconsin-affirmed-following-recount/ar-AAltUUe)
-2. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/12/12/pennsylvania-recount-request-green-party/95328846/)
+2. [USA Today](https://www.usatoday.com/story/news/politics/elections/2016/12/12/pennsylvania-recount-request-green-party/95328846/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

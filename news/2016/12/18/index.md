@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/18/index.html)  [JSON](2016/12/18/index.json)  [XML](2016/12/18/index.xml)  
+
 ## [2016-12-18](/news/2016/12/18/index.md)
 
 ### [Rebels attack and burn several buses en route to evacuate ill and injured people from the besieged Syrian villages of Al-Fu'ah and Kafriya. ](/news/2016/12/18/rebels-attack-and-burn-several-buses-en-route-to-evacuate-ill-and-injured-people-from-the-besieged-syrian-villages-of-al-fu-ah-and-kafriya.md)
@@ -16,7 +19,7 @@ At least 10 people killed after fighters attack police and tourists in southern 
 Stephanie Del Valle of Puerto Rico was crowned Miss World 2016 on Sunday, edging out runners-up from the Dominican Republic and Indonesia winning the top prize in the 66th edition of the pageant held this year in the United States.
 
 ### [At least 49 people die in Irkutsk, Russia after consuming hawthorn-scented bath essence as if it were alcohol. The product has been found to contain methanol. ](/news/2016/12/18/at-least-49-people-die-in-irkutsk-russia-after-consuming-hawthorn-scented-bath-essence-as-if-it-were-alcohol-the-product-has-been-found-to.md)
-_Context: At least 49 people die, Irkutsk, Russia, methanol_
+The tragedy was a reminder that despite President Putin’s star turn on the world stage, Russia remains in many ways a struggling nation.
 
 ### [An Indonesian military Lockheed C-130 Hercules transport plane crashes in Papua province killing all 13 people on board. ](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.md)
 _Context: 2016 Indonesian Air Force Lockheed C-130 Hercules crash, Indonesia, Lockheed C-130 Hercules, Papua_

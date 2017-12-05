@@ -1,16 +1,24 @@
+
+Formats: [HTML](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.html)  [JSON](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.json)  [XML](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.xml)  
+
 ### [2016-12-13](/news/2016/12/13/index.md)
 
 # Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. 
 
+Yahya Jammeh, the dictator of Gambia, is trying to hold on to his throne after an electoral defeat.
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-38302533)
 2. [BBC](http://www.bbc.com/news/world-africa-38306325)
-3. [The New York Times](http://www.nytimes.com/2016/12/13/opinion/gambias-jammeh-weighs-whether-to-be-or-not-to-be-a-dictator.html?_r=0)
-3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9B86/production/_92941893_jammeh.jpg)
+3. [The New York Times](https://www.nytimes.com/2016/12/13/opinion/gambias-jammeh-weighs-whether-to-be-or-not-to-be-a-dictator.html?_r=0)
+3. [Cover Image](https://static01.nyt.com/images/2016/12/18/opinion/sunday/14reid-inyt/14reid-inyt-facebookJumbo.jpg)
+
+### Changes:
+
+1. [Aftermath of the Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/aftermath-of-the-gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refu.md) _2017-08-25 03:47:03 (First version)_
+1. [Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@
 3. [The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-polls.md) _Context: Gambian presidential election, 2016, Yahya Jammeh, the Gambia_
 4. [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md) _Context: Gambian presidential election, 2016, Yahya Jammeh, the Gambia_
 5. [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md) _Context: Gambian presidential election, 2016, Yahya Jammeh, the Gambia_
-
-### Changes:
-
-1. [Aftermath of the Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/aftermath-of-the-gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refu.md) _2017-08-25 03:47:03 (First version)_
-1. [Gambian security forces take over the headquarters of the electoral commission as the current president, Yahya Jammeh, refuses to accept the recent election results. ](/news/2016/12/13/gambian-security-forces-take-over-the-headquarters-of-the-electoral-commission-as-the-current-president-yahya-jammeh-refuses-to-accept-the.md) _(Current version)_

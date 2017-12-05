@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.html)  [JSON](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.json)  [XML](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.xml)  
+
 ### [2016-12-18](/news/2016/12/18/index.md)
 
 # Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. 
@@ -5,9 +8,14 @@
 At least 10 people killed after fighters attack police and tourists in southern city, Jordanian officials say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/12/jordan-police-patrols-attacked-al-karak-161218131120902.html)
+
+### Changes:
+
+1. [2016 Al-Karak attack: Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/2016-al-karak-attack-unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at.md) _2017-08-27 03:47:28 (First version)_
+1. [Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ At least 10 people killed after fighters attack police and tourists in southern 
 3. [Thousands of people march through the cities of Amman, Ma'an, Karak, Salt and Irbidin and other parts of Jordan, objecting to the government's inability to stop poverty and increased living costs. Prime Minister Samir Rifai, described as a "coward", is asked to resign. ](/news/2011/01/14/thousands-of-people-march-through-the-cities-of-amman-ma-an-karak-salt-and-irbidin-and-other-parts-of-jordan-objecting-to-the-government.md) _Context: Al-Karak, Jordan_
 4. [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _Context: Jordan_
 5. [Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident-in-which-two-jordanians-were-killed-yesterday.md) _Context: Jordan_
-
-### Changes:
-
-1. [2016 Al-Karak attack: Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/2016-al-karak-attack-unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at.md) _2017-08-27 03:47:28 (First version)_
-1. [Unknown militants stage a number of attacks across the city of Al-Karak in Jordan, killing five people and injuring at least 10 others. ](/news/2016/12/18/unknown-militants-stage-a-number-of-attacks-across-the-city-of-al-karak-in-jordan-killing-five-people-and-injuring-at-least-10-others.md) _(Current version)_

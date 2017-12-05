@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/12/index.html)  [JSON](2016/12/12/index.json)  [XML](2016/12/12/index.xml)  
+
 ## [2016-12-12](/news/2016/12/12/index.md)
 
 ### [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md)
@@ -28,7 +31,7 @@ _Context: China, China-Mexico relations, Donald Trump's positions on trade, Mexi
 The European Union and Cuba on Monday signed a deal to normalise ties that had been blocked for decades by human rights concerns under revolutionary icon Fidel Castro. Cuba was the only Latin American country not to have a &quot;dialogue and cooperation&quot; deal with the 28-nation EU covering issu...
 
 ### [Kenya threatens to leave the International Criminal Court. ](/news/2016/12/12/kenya-threatens-to-leave-the-international-criminal-court.md)
-_Context: International Criminal Court, Kenya_
+_Context: ICC, Kenya_
 
 ### [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md)
 Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the ninth United Nations Secretary-General, pledging to personally help broker peace in various conflicts and reform the 71-year old world body to become more effective.
@@ -37,13 +40,13 @@ Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the 
 _Context: Inter-Services Intelligence, Pakistan_
 
 ### [Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. ](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.md)
-Social Democratic Party won 46 percent of votes, according to preliminary results, a year after being forced from power.
+The case caps a long-running legal drama that has captivated the public and exposed ties between powerful politicians and the wealthy.
 
 ### [Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. ](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.md)
 A former U.S. representative whose lavish Washington office raised questions about use of taxpayer money pleaded not guilty on Monday to charges of defrauding the federal government and campaign committees, then trying to cover it up.
 
 ### [Jill Stein's bid to force a recount of the presidential election results in the state of Pennsylvania is rejected by a federal judge. ](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.md)
-Decision poses another setback to Jill Stein&#39;s recount effort in Michigan, Pennsylvania and Wisconsin.
+_Context: 2016 United States presidential election recounts, Jill Stein, Pennsylvania_
 
 ### [Bill English is elected as the leader of the New Zealand National Party and is now the country's Prime Minister. Paula Bennett is elected as English's deputy. ](/news/2016/12/12/bill-english-is-elected-as-the-leader-of-the-new-zealand-national-party-and-is-now-the-country-s-prime-minister-paula-bennett-is-elected-as.md)
 More than a decade after he tried and failed to become the country&#039;s leader, Bill English becomes New Zealand&#039;s 39th Prime Minister.
@@ -52,7 +55,7 @@ More than a decade after he tried and failed to become the country&#039;s leader
 _Context: Gambian presidential election, 2016, Senegal, Yahya Jammeh, the Gambia_
 
 ### [Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the-colectiv-nightclub-fire-tragedy-the.md)
-_Context: Colectiv nightclub fire, PSD, Prime Minister, Victor Ponta, earlier this month_
+Despite recent scandals, the Social Democratic Party secured a large lead in parliamentary elections. The main question now is who will be prime minister.
 
 ## [Previous Day...](/news/2016/12/11/index.md)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.html)  [JSON](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.json)  [XML](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.xml)  
+
 ### [2016-12-17](/news/2016/12/17/index.md)
 
 # The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. 
@@ -5,11 +8,16 @@
 China will return an underwater U.S. drone seized by a naval vessel this week in the South China Sea, both countries said on Saturday, but Beijing complained that Washington had been &quot;hyping up&quot; the incident.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-china-drone-idUSKBN14526J)
-2. [USA Today](http://www.usatoday.com/story/news/2016/12/17/china-returns-us-drone-after-explaining-seizure/95555610/)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161216&t=2&i=1165763179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBF1BT)
+1. [Reuters](https://www.reuters.com/article/us-usa-china-drone-idUSKBN14526J)
+2. [USA Today](https://www.usatoday.com/story/news/2016/12/17/china-returns-us-drone-after-explaining-seizure/95555610/)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161216&t=2&i=1165763179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBF1BT)
+
+### Changes:
+
+1. [China-United States relations: The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. ](/news/2016/12/17/china-united-states-relations-the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone.md) _2017-08-27 03:47:28 (First version)_
+1. [The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. ](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ China will return an underwater U.S. drone seized by a naval vessel this week in
 3. [A U.S. B-52 long-range bomber on a routine mission over the South China Sea mistakenly flew within two nautical miles of an artificial island built by China near the Cuarteron Reef in the disputed Spratly Islands archipelago, according to a senior U.S. defense official. The Chinese Defense Ministry issues a statement accusing the U.S. of deliberately raising tensions in the disputed region. ](/news/2015/12/18/a-u-s-b-52-long-range-bomber-on-a-routine-mission-over-the-south-china-sea-mistakenly-flew-within-two-nautical-miles-of-an-artificial-islan.md) _Context: Chinese Defense Ministry, South China Sea, United States_
 4. [In a Peking University speech in Beijing, US Pacific Command commander, Admiral Harry Harris, says the U.S. Navy's freedom-of-navigation patrols in the South China Sea are routine operations intended to demonstrate respect for international law principles. Harris reiterated they should not be construed as a threat to any country while emphasizing America's common ground with China. ](/news/2015/11/3/in-a-peking-university-speech-in-beijing-us-pacific-command-commander-admiral-harry-harris-says-the-u-s-navyas-freedom-of-navigation-p.md) _Context: China-United States relations, South China Sea, United States_
 5. [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md) _Context: China-United States relations, South China Sea, United States_
-
-### Changes:
-
-1. [China-United States relations: The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. ](/news/2016/12/17/china-united-states-relations-the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone.md) _2017-08-27 03:47:28 (First version)_
-1. [The Chinese Defense Ministry says it is in talks with the United States about returning an underwater drone taken Thursday from the South China Sea. The Pentagon says the drone, used for gathering weather and temperature data, is not armed. ](/news/2016/12/17/the-chinese-defense-ministry-says-it-is-in-talks-with-the-united-states-about-returning-an-underwater-drone-taken-thursday-from-the-south-ch.md) _(Current version)_

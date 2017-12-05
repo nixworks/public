@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.html)  [JSON](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.json)  [XML](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.xml)  
+
 ### [2016-12-14](/news/2016/12/14/index.md)
 
 # The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. 
 
+The increase was only the second since the financial crisis, and the central bank gave little indication that Donald J. Trump’s election altered its outlook.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2016/12/14/business/economy/fed-interest-rates-janet-yellen.html?emc=edit_na_20161214&nlid=66213151&ref=cta)
+1. [New York Times](https://www.nytimes.com/2016/12/14/business/economy/fed-interest-rates-janet-yellen.html?emc=edit_na_20161214&nlid=66213151&ref=cta)
+1. [Cover Image](https://static01.nyt.com/images/2016/12/14/business/fed-target-rate-1481736418468/fed-target-rate-1481736418468-facebookJumbo.png)
 
 ### Related:
 

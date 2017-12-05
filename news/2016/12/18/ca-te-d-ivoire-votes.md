@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/18/ca-te-d-ivoire-votes.html)  [JSON](/news/2016/12/18/ca-te-d-ivoire-votes.json)  [XML](/news/2016/12/18/ca-te-d-ivoire-votes.xml)  
+
 ### [2016-12-18](/news/2016/12/18/index.md)
 
 # Cote d'Ivoire votes. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Voice of America](http://www.voanews.com/a/ivory-coast-parliament-election/3640999.html)
 

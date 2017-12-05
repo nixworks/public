@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/16/nine-people-die-in-vancouver-british-columbia-from-overdoses-of-fentanyl.html)  [JSON](/news/2016/12/16/nine-people-die-in-vancouver-british-columbia-from-overdoses-of-fentanyl.json)  [XML](/news/2016/12/16/nine-people-die-in-vancouver-british-columbia-from-overdoses-of-fentanyl.xml)  
+
 ### [2016-12-16](/news/2016/12/16/index.md)
 
 # Nine people die in Vancouver, British Columbia from overdoses of fentanyl. 
@@ -5,11 +8,11 @@
 The BC coroners&rsquo; service says up to 13 people died from drug overdoses in the province within hours, six of them in Vancouver&rsquo;s Downtown Eastside.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38351958)
 2. [CTV News](http://www.ctvnews.ca/canada/up-to-13-people-die-from-drug-overdoses-in-b-c-within-hours-1.3206980)
-3. [The Globe and Mail](http://www.theglobeandmail.com/news/british-columbia/vancouver-sees-nine-fatal-overdoses-in-a-single-night/article33351966/)
+3. [The Globe and Mail](https://www.theglobeandmail.com/news/british-columbia/vancouver-sees-nine-fatal-overdoses-in-a-single-night/article33351966/)
 3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.3207026.1481923652!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/17/index.html)  [JSON](2016/12/17/index.json)  [XML](2016/12/17/index.xml)  
+
 ## [2016-12-17](/news/2016/12/17/index.md)
 
 ### [At least 13 people are killed and 56 others are wounded in a car bomb attack on a bus carrying off-duty soldiers in Kayseri Province, central Turkey. ](/news/2016/12/17/at-least-13-people-are-killed-and-56-others-are-wounded-in-a-car-bomb-attack-on-a-bus-carrying-off-duty-soldiers-in-kayseri-province-centra.md)

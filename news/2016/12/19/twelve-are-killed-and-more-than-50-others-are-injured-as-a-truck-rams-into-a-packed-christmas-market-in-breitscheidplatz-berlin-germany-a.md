@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.html)  [JSON](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.json)  [XML](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.xml)  
+
 ### [2016-12-19](/news/2016/12/19/index.md)
 
 # Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. 
@@ -5,11 +8,16 @@
 Fingerprints from a Tunisian suspect have been found inside the truck that smashed through a Berlin Christmas market on Monday in an attack that killed 12 people, and investigators assume the migrant was at the wheel, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://www.aljazeera.com/news/2016/12/lorry-ploughs-christmas-market-crowd-berlin-161219193437792.html)
-2. [Reuters](http://www.reuters.com/article/us-germany-truck-idUSKBN148287?il=0)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166299824&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK148)
+2. [Reuters](https://www.reuters.com/article/us-germany-truck-idUSKBN148287?il=0)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166299824&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK148)
+
+### Changes:
+
+1. [2016 Berlin attack: Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/2016-berlin-attack-twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz.md) _2017-08-27 03:47:28 (First version)_
+1. [Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Fingerprints from a Tunisian suspect have been found inside the truck that smash
 3. [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md) _Context: Berlin, Germany_
 4. [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md) _Context: Berlin, Germany_
 5. [During a rally in support of German comedian Jan Bohmermann, outside the Turkish embassy in Berlin, Bruno Kramm, head of the Berlin branch of Germany's Pirate Party, is arrested for "insulting a representative of a foreign state" by quoting a line from the comic's satirical poem about Turkish President Recep Tayyip Erdogan. ](/news/2016/04/23/during-a-rally-in-support-of-german-comedian-jan-baphmermann-outside-the-turkish-embassy-in-berlin-bruno-kramm-head-of-the-berlin-branch.md) _Context: Berlin, Germany_
-
-### Changes:
-
-1. [2016 Berlin attack: Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/2016-berlin-attack-twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz.md) _2017-08-27 03:47:28 (First version)_
-1. [Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.md) _(Current version)_

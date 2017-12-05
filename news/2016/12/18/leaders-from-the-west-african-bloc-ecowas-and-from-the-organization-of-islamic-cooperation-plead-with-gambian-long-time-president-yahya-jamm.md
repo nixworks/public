@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.html)  [JSON](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.json)  [XML](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.xml)  
+
 ### [2016-12-18](/news/2016/12/18/index.md)
 
 # Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. 
@@ -5,11 +8,16 @@
 Jammeh once said that he would rule for “one billion years” if “Allah says so.”
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2016/12/jammeh-step-west-african-leaders-161217134207866.html)
 2. [Quartz](http://qz.com/865333/muslim-countries-are-asking-gambias-president-yahya-jammeh-to-step-down/)
 2. [Cover Image](https://qzprod.files.wordpress.com/2016/12/gambian-president-yahya-jammeh-holds-up-a-koran-while-speaking-to-the-media-e1481906052757.jpg?quality=80&amp;strip=all&amp;w=1600)
+
+### Changes:
+
+1. [Gambian presidential election, 2016: Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/gambian-presidential-election-2016-leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-g.md) _2017-08-27 03:47:28 (First version)_
+1. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Jammeh once said that he would rule for “one billion years” if “Allah says
 3. [British Foreign Secretary Boris Johnson, during a visit to the Gambia, announces that the West African nation is to rejoin the Commonwealth of Nations following talks with Gambian President Adama Barrow. The Gambia withdrew from the Commonwealth in 2013 under Yahya Jammeh, who considered it a "neo-colonial institution". ](/news/2017/02/14/british-foreign-secretary-boris-johnson-during-a-visit-to-the-gambia-announces-that-the-west-african-nation-is-to-rejoin-the-commonwealth.md) _Context: President, West Africa, Yahya Jammeh_
 4. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md) _Context: Gambian presidential election, 2016, President, Yahya Jammeh_
 5. [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md) _Context: Gambian presidential election, 2016, President, Yahya Jammeh_
-
-### Changes:
-
-1. [Gambian presidential election, 2016: Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/gambian-presidential-election-2016-leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-g.md) _2017-08-27 03:47:28 (First version)_
-1. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _(Current version)_

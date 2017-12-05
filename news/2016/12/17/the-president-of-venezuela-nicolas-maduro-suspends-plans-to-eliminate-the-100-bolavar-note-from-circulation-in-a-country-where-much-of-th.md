@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.html)  [JSON](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.json)  [XML](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.xml)  
+
 ### [2016-12-17](/news/2016/12/17/index.md)
 
 # The President of Venezuela, Nicolas Maduro suspends plans to eliminate the 100 bolivar note from circulation, in a country where much of the population lives on cash, without bank accounts. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-economy-idUSKBN1460TD?il=0)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161218&t=2&i=1165853358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBH01C)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-economy-idUSKBN1460TD?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161218&t=2&i=1165853358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBH01C)
 
 ### Related:
 

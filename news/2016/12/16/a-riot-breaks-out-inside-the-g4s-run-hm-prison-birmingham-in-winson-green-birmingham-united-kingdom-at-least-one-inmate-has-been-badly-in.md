@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/16/a-riot-breaks-out-inside-the-g4s-run-hm-prison-birmingham-in-winson-green-birmingham-united-kingdom-at-least-one-inmate-has-been-badly-in.html)  [JSON](/news/2016/12/16/a-riot-breaks-out-inside-the-g4s-run-hm-prison-birmingham-in-winson-green-birmingham-united-kingdom-at-least-one-inmate-has-been-badly-in.json)  [XML](/news/2016/12/16/a-riot-breaks-out-inside-the-g4s-run-hm-prison-birmingham-in-winson-green-birmingham-united-kingdom-at-least-one-inmate-has-been-badly-in.xml)  
+
 ### [2016-12-16](/news/2016/12/16/index.md)
 
 # A riot breaks out inside the G4S-run HM Prison Birmingham in Winson Green, Birmingham, United Kingdom. At least one inmate has been badly injured. The Ministry of Justice says riot police have regained control of the prison. 
@@ -5,7 +8,7 @@
 Specialist team deal with incident involving hundreds of prisoners at city centre facility run by G4S
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-38349299)
 2. [The Guardian](https://www.theguardian.com/society/2016/dec/16/hmp-birmingham-prison-disturbance-winson-green)

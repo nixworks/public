@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.html)  [JSON](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.json)  [XML](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. 
 
-Social Democratic Party won 46 percent of votes, according to preliminary results, a year after being forced from power.
+The case caps a long-running legal drama that has captivated the public and exposed ties between powerful politicians and the wealthy.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/12/romania-polls-psd-161212062951523.html)
-2. [New York Times](http://www.nytimes.com/2016/12/12/business/international/christine-lagarde-trial-imf-france.html)
+2. [New York Times](https://www.nytimes.com/2016/12/12/business/international/christine-lagarde-trial-imf-france.html)
+2. [Cover Image](https://static01.nyt.com/images/2016/12/13/business/13LAGARDE2/13LAGARDE2-facebookJumbo.jpg)
 
 ### Related:
 

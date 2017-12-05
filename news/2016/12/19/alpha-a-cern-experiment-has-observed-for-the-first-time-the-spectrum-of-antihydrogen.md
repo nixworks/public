@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.html)  [JSON](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.json)  [XML](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.xml)  
+
 ### [2016-12-19](/news/2016/12/19/index.md)
 
 # ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CERN](https://home.cern/about/updates/2016/12/alpha-observes-light-spectrum-antimatter-first-time)
 

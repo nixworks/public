@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.html)  [JSON](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.json)  [XML](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.xml)  
+
 ### [2016-12-13](/news/2016/12/13/index.md)
 
 # Muhammad V becomes the new monarch of Malaysia. 
@@ -5,7 +8,7 @@
 The Sultan of Kelantan, Sultan Muhammad V is set to become the 15th Yang di-Pertuan Agong. Sultan Muhammad V was elected on Oct, 14, to become the next Yang di-Pertuan Agong, the head of state
 
 
-### Source:
+### Sources:
 
 1. [Malaysian Outlook](http://www.malaysiaoutlook.com/sultan-muhammad-v-set-to-reign-as-the-15th-yang-di-pertuan-agong/)
 1. [Cover Image](http://www.malaysiaoutlook.com/wp-content/uploads/2016/12/sultan-kelantan2.jpg)

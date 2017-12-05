@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/12/16/index.html)  [JSON](2016/12/16/index.json)  [XML](2016/12/16/index.xml)  
+
 ## [2016-12-16](/news/2016/12/16/index.md)
 
 ### [ Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. ](/news/2016/12/16/evacuations-following-the-failed-ceasefire-are-once-again-disrupted-by-the-syrian-forces-for-reasons-withheld-an-estimate-of-8000-people.md)
-_Context: Aleppo offensive (November-December 2016)_
+The evacuation breakdown came a day after more than 8,000 people from eastern Aleppo had been taken out. Many thousands are said to remain.
 
 ### [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md)
 Twelve soldiers were killed during an attack by Islamist militants in Burkina Faso, the army says.

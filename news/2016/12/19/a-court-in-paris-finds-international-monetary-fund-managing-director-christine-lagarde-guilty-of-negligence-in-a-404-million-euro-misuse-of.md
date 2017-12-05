@@ -1,17 +1,20 @@
+
+Formats: [HTML](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.html)  [JSON](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.json)  [XML](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.xml)  
+
 ### [2016-12-19](/news/2016/12/19/index.md)
 
 # A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. 
 
-Christine Lagarde, the head of the International Monetary Fund, has been found guilty of negligence over her handling of a long-running French fraud case.
+With the International Monetary Fund facing populist criticism and at a critical juncture, Ms. Lagarde was found guilty of charges linked to her time as France’s finance minister.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2016/12/19/news/christine-lagarde-trial-guilty-verdict/?iid=TL_Popular)
 2. [Fortune](http://fortune.com/2016/12/19/imf-chief-christine-lagarde-job/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/2016/12/19/imf-chief-christine-lagarde-found-negligence/)
-4. [The New York Times](http://www.nytimes.com/2016/12/19/business/imf-trial-christine-lagarde-france-verdict.html?_r=0)
-4. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/161219112627-christine-lagarde-imf-trial-780x439.jpg)
+4. [The New York Times](https://www.nytimes.com/2016/12/19/business/imf-trial-christine-lagarde-france-verdict.html?_r=0)
+4. [Cover Image](https://static01.nyt.com/images/2016/12/20/world/20Lagarde2/20Lagarde2-facebookJumbo.jpg)
 
 ### Related:
 

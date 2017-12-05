@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/12/15/index.html)  [JSON](2016/12/15/index.json)  [XML](2016/12/15/index.xml)  
+
 ## [2016-12-15](/news/2016/12/15/index.md)
 
 ### [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md)
 European Union leaders agreed on Thursday to extend economic sanctions against Russia over the turmoil in Ukraine until mid-2017, though some wanted a longer timespan over fear U.S. President-elect Donald Trump would ease pressure on Moscow.
 
 ### [Arizona Sheriff Joe Arpaio holds a press conference showing findings from 2 different forensic experts of "9 points of forgery" alleging President Obama's long form birth certificate was forged and also claims to have found the birth certificate used to make the forgery. ](/news/2016/12/15/arizona-sheriff-joe-arpaio-holds-a-press-conference-showing-findings-from-2-different-forensic-experts-of-9-points-of-forgery-alleging-pre.md)
-Arpaio and his aides announced that a five-year investigation had &quot;proved&quot; that Obama’s birth certificate from Hawaii in 1961 was a fake.
+_Context: Barack Obama citizenship conspiracy theories, Joe Arpaio_
 
 ### [Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. ](/news/2016/12/15/dylann-roof-is-convicted-of-the-racially-motivated-murder-of-nine-black-churchgoers-in-the-u-s-city-of-charleston-south-carolina.md)
 Admitted white nationalist Dylann Roof was quickly convicted by a South Carolina federal jury on Thursday of all 33 hate-crime charges against him in the Charleston church massacre trial. It took j…

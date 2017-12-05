@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.html)  [JSON](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.json)  [XML](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. 
@@ -5,10 +8,10 @@
 Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the ninth United Nations Secretary-General, pledging to personally help broker peace in various conflicts and reform the 71-year old world body to become more effective.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-un-guterres-idUSKBN14121H?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165158476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB14S)
+1. [Reuters](https://www.reuters.com/article/us-un-guterres-idUSKBN14121H?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161212&t=2&i=1165158476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBB14S)
 
 ### Related:
 

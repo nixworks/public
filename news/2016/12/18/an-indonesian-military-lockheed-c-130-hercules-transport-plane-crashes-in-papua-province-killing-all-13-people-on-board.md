@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.html)  [JSON](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.json)  [XML](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.xml)  
+
 ### [2016-12-18](/news/2016/12/18/index.md)
 
 # An Indonesian military Lockheed C-130 Hercules transport plane crashes in Papua province killing all 13 people on board. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/indonesian-military-plane-crashes-in-papua-killing-all-13/407255046/)
 

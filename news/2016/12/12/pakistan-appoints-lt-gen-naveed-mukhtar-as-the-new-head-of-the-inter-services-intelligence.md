@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.html)  [JSON](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.json)  [XML](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # Pakistan appoints Lt. Gen. Naveed Mukhtar as the new head of the Inter-Services Intelligence. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Seattle Times](http://www.seattletimes.com/nation-world/pakistan-appoints-new-spy-agency-chief-in-military-reshuffle/)
 1. [Cover Image](http://static.seattletimes.com/wp-content/uploads/2016/12/d06d986a109d4d369dae5d93a8cf26c5-1560x1038.jpg)

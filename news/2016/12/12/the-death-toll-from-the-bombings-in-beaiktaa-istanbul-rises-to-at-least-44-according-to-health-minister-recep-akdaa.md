@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.html)  [JSON](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.json)  [XML](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.xml)  
+
 ### [2016-12-12](/news/2016/12/12/index.md)
 
 # The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. 
@@ -5,12 +8,17 @@
 About 100 people are getting treatment in various hospitals, according to interior minister - Anadolu Agency
 
 
-### Source:
+### Sources:
 
 1. [Anadolu Agency](http://aa.com.tr/en/todays-headlines/death-toll-in-istanbul-terror-attack-rises-to-44/703825)
 2. [FOX News](http://www.foxnews.com/world/2016/12/12/turkey-bombing-235-people-detained-in-anti-terrorism-raids.html)
 3. [Reuters](http://reut.rs/2gQa5Nf)
 3. [Cover Image](http://aa.com.tr/uploads/Contents/2016/12/11/thumbs_m_c_f0071a47f35284087da9cef1a16795bf.jpg?v=175114)
+
+### Changes:
+
+1. [December 2016 Istanbul bombings: The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/december-2016-istanbul-bombings-the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-ministe.md) _2017-08-27 03:47:26 (First version)_
+1. [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ About 100 people are getting treatment in various hospitals, according to interi
 3. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _Context: Istanbul_
 4. [Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. ](/news/2017/04/30/saeed-karimian-the-founder-and-director-of-gem-tv-a-persian-language-network-based-in-dubai-is-shot-dead-in-istanbul-turkey-along-with.md) _Context: Istanbul_
 5. [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md) _Context: Istanbul_
-
-### Changes:
-
-1. [December 2016 Istanbul bombings: The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/december-2016-istanbul-bombings-the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-ministe.md) _2017-08-27 03:47:26 (First version)_
-1. [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md) _(Current version)_
