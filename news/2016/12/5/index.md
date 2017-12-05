@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/5/index.html)  [JSON](2016/12/5/index.json)  [XML](2016/12/5/index.xml)  
+
 ## [2016-12-5](/news/2016/12/5/index.md)
 
 ### [ At least 31 are killed in clashes in Kasai, DR Congo. ](/news/2016/12/5/at-least-31-are-killed-in-clashes-in-kasai-dr-congo.md)

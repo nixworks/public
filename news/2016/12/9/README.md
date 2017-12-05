@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/9/index.html)  [JSON](2016/12/9/index.json)  [XML](2016/12/9/index.xml)  
+
 ## [2016-12-9](/news/2016/12/9/index.md)
 
 ### [ Russia and the United States will continue talks on Aleppo after talks between the U.S. Secretary of State John Kerry and Foreign Minister Sergey Lavrov. ](/news/2016/12/9/russia-and-the-united-states-will-continue-talks-on-aleppo-after-talks-between-the-u-s-secretary-of-state-john-kerry-and-foreign-minister.md)
@@ -31,7 +34,7 @@ _Context: Cambodia, Sam Rainsy, in absentia_
 Court declines to sentence Dutch far-right leader over comments that were ‘demeaning towards Moroccan population’
 
 ### [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md)
-_Context: Constitutional Court, Hwang Kyo-ahn, Impeachment process against Park Geun-hye, Park Geun-hye, President of South Korea, Prime Minister, South Korea, impeach_
+A slowing economy, a growing nuclear threat from North Korea and a more assertive China are some of the challenges facing the country.
 
 ### [Opposition leader Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/opposition-leader-nana-akufo-addo-wins-the-presidency.md)
 Civil society urges election commission to quickly release results, as ruling party rejects opposition victory claims.
@@ -40,7 +43,7 @@ Civil society urges election commission to quickly release results, as ruling pa
 Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress&quot; on his family.
 
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-President-elect Donald Trump is expected to nominate Rep. Cathy McMorris Rodgers of Washington as his secretary of Interior, a source close to the transition told USA TODAY Friday.
+_Context: Donald Trump, Gary Cohn, Goldman Sachs, Presidential transition of Donald Trump, White House National Economic Council_
 
 ### [The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-after-conceding-defeat-to-adama-barrow.md)
 _Context: Adama Barrow, Gambian presidential election, 2016, President of Gambia, Yahya Jammeh_

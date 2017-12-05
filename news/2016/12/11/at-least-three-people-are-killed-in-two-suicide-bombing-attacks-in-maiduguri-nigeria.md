@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/11/at-least-three-people-are-killed-in-two-suicide-bombing-attacks-in-maiduguri-nigeria.html)  [JSON](/news/2016/12/11/at-least-three-people-are-killed-in-two-suicide-bombing-attacks-in-maiduguri-nigeria.json)  [XML](/news/2016/12/11/at-least-three-people-are-killed-in-two-suicide-bombing-attacks-in-maiduguri-nigeria.xml)  
+
 ### [2016-12-11](/news/2016/12/11/index.md)
 
 # At least three people are killed in two suicide bombing attacks in Maiduguri, Nigeria. 
@@ -5,10 +8,10 @@
 Two girl suicide bombers killed at least three people and wounded 17 at a market in the northeastern Nigerian city of Maiduguri on Sunday, a spokesman for state emergency agency NEMA, Sani Datti, said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nigeria-security-idUSKBN1400RK?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-nigeria-security-idUSKBN1400RK?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

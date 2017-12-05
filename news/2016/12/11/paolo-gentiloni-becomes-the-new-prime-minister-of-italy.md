@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.html)  [JSON](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.json)  [XML](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.xml)  
+
 ### [2016-12-11](/news/2016/12/11/index.md)
 
 # Paolo Gentiloni becomes the new Prime Minister of Italy. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38281643)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E698/production/_92923095_mediaitem92923094.jpg)
+
+### Changes:
+
+1. [Italian constitutional referendum, 2016: Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/italian-constitutional-referendum-2016-paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _2017-08-27 03:47:25 (First version)_
+1. [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md) _Context: Italian Prime Minister, Italian constitutional referendum, 2016_
 4. [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md) _Context: Italy, Paolo Gentiloni_
 5. [ During a visit to Iran, Prime Minister of Italy Matteo Renzi signs various bilateral agreements to enhance relations between the two countries, including plans for cooperation between the Italian electricity and gas company Enel and the National Iranian Oil Company. ](/news/2016/04/12/during-a-visit-to-iran-prime-minister-of-italy-matteo-renzi-signs-various-bilateral-agreements-to-enhance-relations-between-the-two-countr.md) _Context: Italian Prime Minister, Italy_
-
-### Changes:
-
-1. [Italian constitutional referendum, 2016: Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/italian-constitutional-referendum-2016-paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _2017-08-27 03:47:25 (First version)_
-1. [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md) _(Current version)_

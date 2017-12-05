@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.html)  [JSON](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.json)  [XML](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.xml)  
+
 ### [2016-12-9](/news/2016/12/9/index.md)
 
 # Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. 
@@ -5,7 +8,7 @@
 Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress&quot; on his family.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-38260448)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2903/production/_92899401_mediaitem92899400.jpg)

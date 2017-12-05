@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.html)  [JSON](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.json)  [XML](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.xml)  
+
 ### [2016-12-5](/news/2016/12/5/index.md)
 
 # Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [US Daily Mail](http://usdailymail.com/2016/12/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-ahead-of-snow/)
 1. [Cover Image](http://usdailymail.com/wp-content/uploads/2016/12/Alaska.jpg)

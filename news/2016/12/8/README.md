@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/8/index.html)  [JSON](2016/12/8/index.json)  [XML](2016/12/8/index.xml)  
+
 ## [2016-12-8](/news/2016/12/8/index.md)
 
 ### [As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report-released-today.md)
@@ -7,7 +10,7 @@ _Context: United Nations, War in Donbass_
 _Context: 2016 Aceh earthquake, Aceh, Indonesia_
 
 ### [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md)
-_Context: Oplan Tokhang, Philippine Drug War, Philippine National Police, Philippines, constitutional constraints, senators_
+_Context: Oplan Tokhang, Philippine National Police, Philippines, constitutional constraints, drug crackdown, senators_
 
 ### [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md)
 NZ Finance Minister Bill English is set to be appointed prime minister after two challengers withdrew.
@@ -16,7 +19,7 @@ NZ Finance Minister Bill English is set to be appointed prime minister after two
 min Park and Jack Kim
 
 ### [Carl's Jr.-Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md)
-_Context: Andrew Puzder, Carl's Jr., Hardee's, Presidential transition of Donald Trump, United States Secretary of Labor, minimum wage reform_
+Mr. Puzder, chief executive of the company behind Hardee’s and Carl’s Jr., also strongly supports repealing the Affordable Care Act.
 
 ### [American astronaut John Glenn dies at the age of 95. ](/news/2016/12/8/american-astronaut-john-glenn-dies-at-the-age-of-95.md)
 The former NASA Astronaut and current U.S. Senator John Glenn has been in the hospital for over a week. 

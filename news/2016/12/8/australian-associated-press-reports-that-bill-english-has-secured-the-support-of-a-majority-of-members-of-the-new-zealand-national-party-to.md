@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.html)  [JSON](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.json)  [XML](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.xml)  
+
 ### [2016-12-8](/news/2016/12/8/index.md)
 
 # Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. 
@@ -5,7 +8,7 @@
 NZ Finance Minister Bill English is set to be appointed prime minister after two challengers withdrew.
 
 
-### Source:
+### Sources:
 
 1. [AAP via Sky News Australia](http://www.skynews.com.au/news/top-stories/2016/12/08/bill-english-set-to-become-next-nz-pm.html)
 1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/news/top-stories/2016/12/08/skynews_1363084990.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)

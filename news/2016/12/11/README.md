@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/11/index.html)  [JSON](2016/12/11/index.json)  [XML](2016/12/11/index.xml)  
+
 ## [2016-12-11](/news/2016/12/11/index.md)
 
 ### [Two car bombings kill at least eight people in Fallujah. ](/news/2016/12/11/two-car-bombings-kill-at-least-eight-people-in-fallujah.md)
@@ -23,9 +26,6 @@ Two girl suicide bombers killed at least three people and wounded 17 at a market
 
 ### [Patti Smith performs in place of Bob Dylan in the Nobel Prize for Literature ceremony. ](/news/2016/12/11/patti-smith-performs-in-place-of-bob-dylan-in-the-nobel-prize-for-literature-ceremony.md)
 Representing the Nobel laureate at the prize-giving, the US singer admitted nerves in performance at Swedish academy
-
-### [Matt Terry wins The X Factor](/news/2016/12/11/matt-terry-wins-the-x-factor.md)
-_Context: Matt Terry, The X Factor_
 
 ### [Non-Organization of Petroleum Exporting Countries agree to cut oil output which will help increase the price of petroleum products in the world market. ](/news/2016/12/11/non-organization-of-petroleum-exporting-countries-agree-to-cut-oil-output-which-will-help-increase-the-price-of-petroleum-products-in-the-wo.md)
 Oil-producing countries that are not Opec members agree a global plan to cut output and boost price.

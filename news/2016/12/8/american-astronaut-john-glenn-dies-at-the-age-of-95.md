@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/8/american-astronaut-john-glenn-dies-at-the-age-of-95.html)  [JSON](/news/2016/12/8/american-astronaut-john-glenn-dies-at-the-age-of-95.json)  [XML](/news/2016/12/8/american-astronaut-john-glenn-dies-at-the-age-of-95.xml)  
+
 ### [2016-12-8](/news/2016/12/8/index.md)
 
 # American astronaut John Glenn dies at the age of 95. 
@@ -5,7 +8,7 @@
 The former NASA Astronaut and current U.S. Senator John Glenn has been in the hospital for over a week. 
 
 
-### Source:
+### Sources:
 
 1. [Space](http://www.space.com/34947-former-astronaut-john-glenn-hospitalized.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2MC82MTQvb3JpZ2luYWwvam9obl9nbGVubi5qcGc=)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.html)  [JSON](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.json)  [XML](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.xml)  
+
 ### [2016-12-11](/news/2016/12/11/index.md)
 
 # ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). 
@@ -5,9 +8,9 @@
 Isis has recaptured the ancient city of Palmyra in the face of heavy Russian air strikes and Syrian army resistance, nine months after it was driven from the city. Monitoring groups the Syrian Observatory for Human Rights and the Palmyra Coordination Committee (PCC) said militants stormed the city in a multi-pronged attack on Sunday afternoon. Russia earlier said it had helped repel the Isis assault, driving the jihadis back to orchards outside the city and killing 300 militants in the process.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/isis-pulls-out-of-ancient-palmyra-after-heavy-russian-bombing-a7467996.html)
+1. [The Independent](https://www.independent.co.uk/news/world/middle-east/isis-pulls-out-of-ancient-palmyra-after-heavy-russian-bombing-a7467996.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/10/16/isis-palmyra-battles.jpg)
 
 ### Related:

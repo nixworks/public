@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/5/a-federal-judge-in-michigan-mark-a-goldsmith-rules-that-a-recount-in-the-presidential-election-vote-in-that-state-must-begin-on-monday.html)  [JSON](/news/2016/12/5/a-federal-judge-in-michigan-mark-a-goldsmith-rules-that-a-recount-in-the-presidential-election-vote-in-that-state-must-begin-on-monday.json)  [XML](/news/2016/12/5/a-federal-judge-in-michigan-mark-a-goldsmith-rules-that-a-recount-in-the-presidential-election-vote-in-that-state-must-begin-on-monday.xml)  
+
 ### [2016-12-5](/news/2016/12/5/index.md)
 
 #  A federal judge in Michigan, Mark A. Goldsmith, rules that a recount in the Presidential Election vote in that state must begin on Monday, December 5. 
@@ -5,7 +8,7 @@
 Michigan must begin its presidential recount at noon Monday, a federal judge ruled in a late-night order that could make it more likely the state will complete
 
 
-### Source:
+### Sources:
 
 1. [The San Diego Union-Tribune](http://www.sandiegouniontribune.com/news/us-politics/ct-michigan-recount-20161204-story.html)
 1. [Cover Image](http://www.trbimg.com/img-584509c6/turbine/ct-michigan-recount-20161204)

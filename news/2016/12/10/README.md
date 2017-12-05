@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/10/index.html)  [JSON](2016/12/10/index.json)  [XML](2016/12/10/index.xml)  
+
 ## [2016-12-10](/news/2016/12/10/index.md)
 
 ### [The SOHR and Amaq announce that ISIL has captured an oil field north-west of Palmyra. ](/news/2016/12/10/the-sohr-and-amaq-announce-that-isil-has-captured-an-oil-field-north-west-of-palmyra.md)
@@ -31,10 +34,10 @@ _Context: China, North Korea, United Nations Security Council_
 Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and transparent elections’ are needed
 
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Burial of Ferdinand Marcos, Human Rights Day, Libingan ng mga Bayani, Philippine Drug War, Philippines, Rodrigo Duterte_
+_Context: Burial of Ferdinand Marcos, Human Rights Day, Libingan ng mga Bayani, Philippines, Rodrigo Duterte, drug crackdown_
 
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: Democratic, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_
+_Context: Democrat, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_
 
 ## [Previous Day...](/news/2016/12/9/index.md)
 

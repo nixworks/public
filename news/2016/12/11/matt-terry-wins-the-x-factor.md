@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/11/matt-terry-wins-the-x-factor.html)  [JSON](/news/2016/12/11/matt-terry-wins-the-x-factor.json)  [XML](/news/2016/12/11/matt-terry-wins-the-x-factor.xml)  
+
 ### [2016-12-11](/news/2016/12/11/index.md)
 
 # Matt Terry wins The X Factor

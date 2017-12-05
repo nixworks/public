@@ -1,16 +1,24 @@
+
+Formats: [HTML](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.html)  [JSON](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.json)  [XML](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.xml)  
+
 ### [2016-12-7](/news/2016/12/7/index.md)
 
 # At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. 
 
-A magnitude 6.5 earthquake struck off the coast of Sumatra, Indonesia.
 
 
-### Source:
+
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-asia-38232611)
-3. [USA Today](http://www.usatoday.com/story/news/2016/12/06/strong-earthquake-hits-off-sumatra/95061976/)
+3. [USA Today](https://www.usatoday.com/story/news/2016/12/06/strong-earthquake-hits-off-sumatra/95061976/)
 3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+
+### Changes:
+
+1. [2016 Aceh earthquake: At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/2016-aceh-earthquake-at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are.md) _2017-08-27 03:47:24 (First version)_
+1. [At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ A magnitude 6.5 earthquake struck off the coast of Sumatra, Indonesia.
 3. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _Context: Indonesia, magnitude_
 4. [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md) _Context: Aceh, Indonesia_
 5. [Tsunami warnings are issued for the Pacific region, including Indonesia and the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east-o.md) _Context: Indonesia, magnitude_
-
-### Changes:
-
-1. [2016 Aceh earthquake: At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/2016-aceh-earthquake-at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are.md) _2017-08-27 03:47:24 (First version)_
-1. [At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.md) _(Current version)_

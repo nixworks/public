@@ -12,8 +12,11 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 ### [French President Emmanuel Macron has told Donald Trump he is "concerned" the US leader could unilaterally recognize Jerusalem as Israel's capital. ](/news/2017/12/5/french-president-emmanuel-macron-has-told-donald-trump-he-is-concerned-the-us-leader-could-unilaterally-recognize-jerusalem-as-israel-s-ca.md)
 _Context: Donald Trump, Emmanuel Macron, Jerusalem, Positions on Jerusalem_
 
-### [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. A source in law enforcement says a notice of suspicion is being prepared. ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-police-then.md)
+### [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Prosecutor General of Ukraine Yuriy Lutsenko claims in a briefing that Saakashvili received $500,000 from the fugitive Serhiy Kurchenko for his activities in Ukraine. ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-police-then.md)
 Crowds of supporters demonstrate as anti-corruption campaigner is taken away by police from his home in Kiev
+
+### [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents.md)
+The move comes in retaliation for U.S. actions against the RT news network.
 
 ## [Previous Day...](/news/2017/12/4/index.md)
 

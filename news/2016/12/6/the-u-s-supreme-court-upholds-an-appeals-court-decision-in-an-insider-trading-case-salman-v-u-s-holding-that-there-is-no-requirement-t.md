@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/6/the-u-s-supreme-court-upholds-an-appeals-court-decision-in-an-insider-trading-case-salman-v-u-s-holding-that-there-is-no-requirement-t.html)  [JSON](/news/2016/12/6/the-u-s-supreme-court-upholds-an-appeals-court-decision-in-an-insider-trading-case-salman-v-u-s-holding-that-there-is-no-requirement-t.json)  [XML](/news/2016/12/6/the-u-s-supreme-court-upholds-an-appeals-court-decision-in-an-insider-trading-case-salman-v-u-s-holding-that-there-is-no-requirement-t.xml)  
+
 ### [2016-12-6](/news/2016/12/6/index.md)
 
 #  The U.S. Supreme Court upholds an appeals court decision in an insider trading case, Salman v. U.S., holding that there is no requirement that a tipper receive any pecuniary consideration for a breach of faith in order to predicate the prosecution of the tippee. 
@@ -5,7 +8,7 @@
 Bassam Salman, a Chicago grocery wholesaler, received stock tips from a friend, who had in turn received inside information from Salman’s brother-in-law, an investment banker at Citigroup. Salman made hundreds of thousands of dollars from the tips, but he was also charged with insider trading and se
 
 
-### Source:
+### Sources:
 
 1. [Scotusblog](http://www.scotusblog.com/2016/12/opinion-analysis-court-upholds-friends-and-family-insider-trading-conviction/#more-249652)
 1. [Cover Image](http://www.scotusblog.com/wp-content/uploads/2014/09/SocialLogo_400x400.jpg)

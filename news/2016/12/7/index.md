@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/7/index.html)  [JSON](2016/12/7/index.json)  [XML](2016/12/7/index.xml)  
+
 ## [2016-12-7](/news/2016/12/7/index.md)
 
 ### [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md)
@@ -13,7 +16,7 @@ _Context: Carrier Air Conditioner move to Mexico_
 The Dow industrials, S&amp;P 500 and small-cap focused Russell 2000 on Wednesday rose to all-time highs in intraday trade as stocks extend early gains and shake off early weakness in the health-care sector.
 
 ### [At least 96 people are killed following a 6.4 magnitude earthquake in Indonesia's Aceh region. Hundreds of people are injured and several buildings have collapsed. ](/news/2016/12/7/at-least-96-people-are-killed-following-a-6-4-magnitude-earthquake-in-indonesia-s-aceh-region-hundreds-of-people-are-injured-and-several-bu.md)
-A magnitude 6.5 earthquake struck off the coast of Sumatra, Indonesia.
+_Context: 2016 Aceh earthquake, Aceh, Indonesia, magnitude_
 
 ### [A Pakistan International Airlines aircraft carrying at least 48 people, including former singer Junaid Jamshed, crashes shortly after taking off from Chitral, Pakistan. ](/news/2016/12/7/a-pakistan-international-airlines-aircraft-carrying-at-least-48-people-including-former-singer-junaid-jamshed-crashes-shortly-after-taking.md)
 All 48 people on board a Pakistan Airlines plane were killed when it crashed in the north.
@@ -25,13 +28,10 @@ _Context: 2016 Great Smoky Mountains wildfires, Gatlinburg, Tennessee, arson_
 The race is tight with President John Mahama and his rival Nana Akufo Addo running neck and neck in opinion polls.
 
 ### [Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-leni.md)
-_Context: Leni Robredo, Liberal Party, Philippine Drug War, Philippines, Rodrigo Duterte_
-
-### [John F. Kelly is selected as Secretary of Homeland Security. [https:--www.washingtonpost.com-world-national-security-retired-marine-gen-john-f-kelly-picked-to-head-department-of-homeland-security-2016-12-07-165472f2-bbe6-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_kelly-1140a%3Ahomepage%2Fstory ("The Washington Post")]Linda McMahon is selected as Administrator of the Scott Pruitt is selected as Administrator of the Environmental Protection Agency](/news/2016/12/7/john-f-kelly-is-selected-as-secretary-of-homeland-security-https-www-washingtonpost-com-world-national-security-retired-marine-gen-john.md)
-_Context: Environmental Protection Agency, John  F. Kelly, Linda McMahon, Presidential transition of Donald Trump, Scott Pruitt, Secretary of Homeland Security, Small Business Administration_
+_Context: Leni Robredo, Liberal Party, Philippines, Rodrigo Duterte, drug crackdown_
 
 ### [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md)
-_Context: Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, U.S. District Judge for the Eastern District of Michigan, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, U.S. District Judge for the Eastern District of Michigan_
 
 ### [India has launched its Resourcesat-2A imaging satellite via its Polar Satellite Launch Vehicle (PSLV) rocket. ](/news/2016/12/7/india-has-launched-its-resourcesat-2a-imaging-satellite-via-its-polar-satellite-launch-vehicle-pslv-rocket.md)
 _Context: India, PSLV-C38_

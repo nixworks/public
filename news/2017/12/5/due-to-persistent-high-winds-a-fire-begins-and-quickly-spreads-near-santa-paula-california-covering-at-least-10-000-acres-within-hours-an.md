@@ -12,8 +12,3 @@ A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the footh
 
 1. [LA Times](http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html)
 1. [Cover Image](http://www.trbimg.com/img-5a266296/turbine/la-me-ln-school-fire-20171204)
-
-### Related:
-
-1. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: 2017 California wildfires_
-2. [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md) _Context: 2017 California wildfires_

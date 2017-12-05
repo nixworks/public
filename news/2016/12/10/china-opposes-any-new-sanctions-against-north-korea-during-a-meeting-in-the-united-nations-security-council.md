@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.html)  [JSON](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.json)  [XML](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.xml)  
+
 ### [2016-12-10](/news/2016/12/10/index.md)
 
 # China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/10/world/asia/ap-as-china-nkorea.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/12/10/world/asia/ap-as-china-nkorea.html)
 
 ### Related:
 

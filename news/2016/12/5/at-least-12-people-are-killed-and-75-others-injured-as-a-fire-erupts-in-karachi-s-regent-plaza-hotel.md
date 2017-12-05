@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.html)  [JSON](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.json)  [XML](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.xml)  
+
 ### [2016-12-5](/news/2016/12/5/index.md)
 
 # At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. 
@@ -5,7 +8,7 @@
 Most of the victims suffered from smoke inhalation or suffocated
 
 
-### Source:
+### Sources:
 
 1. [Dawn News](http://www.dawn.com/news/1300614)
 2. [The Express Tribune'' Pakistan](http://tribune.com.pk/story/1253711/11-killed-fire-erupts-karachis-regent-plaza-hotel/)

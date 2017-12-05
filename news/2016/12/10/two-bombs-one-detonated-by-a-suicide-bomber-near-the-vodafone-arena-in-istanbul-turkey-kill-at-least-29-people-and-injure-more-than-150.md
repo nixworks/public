@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.html)  [JSON](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.json)  [XML](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.xml)  
+
 ### [2016-12-10](/news/2016/12/10/index.md)
 
 # Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. 
@@ -5,12 +8,17 @@
 Twin blasts targeting police near a stadium in Istanbul kill 38 people and injure many.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-10-EU--Turkey-Explosions/id-8500622885bf4db5a9b022b98eced481)
 2. [BBC](http://www.bbc.com/news/world-europe-38276794)
-3. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKBN13Z0QS)
+3. [Reuters](https://www.reuters.com/article/us-turkey-blast-idUSKBN13Z0QS)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5B6A/production/_92920432_036834601.jpg)
+
+### Changes:
+
+1. [December 2016 Istanbul bombings: Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/december-2016-istanbul-bombings-two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29.md) _2017-08-27 03:47:25 (First version)_
+1. [Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ Twin blasts targeting police near a stadium in Istanbul kill 38 people and injur
 3. [The death toll from the bombings in Besiktas, Istanbul, rises to at least 44, according to Health Minister Recep Akdag. ](/news/2016/12/12/the-death-toll-from-the-bombings-in-beaiktaa-istanbul-rises-to-at-least-44-according-to-health-minister-recep-akdaa.md) _Context: December 2016 Istanbul bombings, Istanbul_
 4. [A motorcycle bomb in the Yenibosna neighborhood of Istanbul, Turkey, injures 10 civilians. ](/news/2016/10/6/a-motorcycle-bomb-in-the-yenibosna-neighborhood-of-istanbul-turkey-injures-10-civilians.md) _Context: Istanbul, Turkey_
 5. [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md) _Context: Istanbul, Turkey_
-
-### Changes:
-
-1. [December 2016 Istanbul bombings: Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/december-2016-istanbul-bombings-two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29.md) _2017-08-27 03:47:25 (First version)_
-1. [Two bombs, one detonated by a suicide bomber, near the Vodafone Arena in Istanbul, Turkey, kill at least 29 people and injure more than 150 others. Ten people have been arrested in relation to the bombings. ](/news/2016/12/10/two-bombs-one-detonated-by-a-suicide-bomber-near-the-vodafone-arena-in-istanbul-turkey-kill-at-least-29-people-and-injure-more-than-150.md) _(Current version)_

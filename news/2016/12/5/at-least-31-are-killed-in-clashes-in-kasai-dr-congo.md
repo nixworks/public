@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/5/at-least-31-are-killed-in-clashes-in-kasai-dr-congo.html)  [JSON](/news/2016/12/5/at-least-31-are-killed-in-clashes-in-kasai-dr-congo.json)  [XML](/news/2016/12/5/at-least-31-are-killed-in-clashes-in-kasai-dr-congo.xml)  
+
 ### [2016-12-5](/news/2016/12/5/index.md)
 
 #  At least 31 are killed in clashes in Kasai, DR Congo. 
@@ -5,10 +8,10 @@
 Clashes between a tribal militia and security forces in a province of central Congo killed at least 31 people at the weekend, its vice governor said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-congo-violence-idUSKBN13U2PR)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-congo-violence-idUSKBN13U2PR)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

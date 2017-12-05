@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-country-s-currency-from-rial-to-the-more-commonly-used-toman-the-bill-must-be-approved-by-the.html)  [JSON](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-country-s-currency-from-rial-to-the-more-commonly-used-toman-the-bill-must-be-approved-by-the.json)  [XML](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-country-s-currency-from-rial-to-the-more-commonly-used-toman-the-bill-must-be-approved-by-the.xml)  
+
 ### [2016-12-9](/news/2016/12/9/index.md)
 
 # Iranian government approved a bill to switch country's currency from rial to the more commonly used toman. The bill must be approved by the parliament. 
@@ -5,7 +8,7 @@
 Iran is preparing to switch its national currency from the rial to the toman - a move that could boost the value of the country’s national currency against the US dollar. 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/12/08/iran-considers-currency-change)
 2. [PressTV](http://www.presstv.ir/Detail/2016/12/08/496981/Iran-to-switch-currency-from-rial-to-toman)

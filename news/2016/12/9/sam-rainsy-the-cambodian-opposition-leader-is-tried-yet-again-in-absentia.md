@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.html)  [JSON](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.json)  [XML](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tried-yet-again-in-absentia.xml)  
+
 ### [2016-12-9](/news/2016/12/9/index.md)
 
 # Sam Rainsy, the Cambodian opposition leader, is tried yet again in absentia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2016/12/09/cambodia-exiled-opposition-leader-on-trial-again.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

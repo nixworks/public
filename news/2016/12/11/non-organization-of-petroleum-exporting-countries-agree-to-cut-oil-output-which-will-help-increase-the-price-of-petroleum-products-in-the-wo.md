@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/11/non-organization-of-petroleum-exporting-countries-agree-to-cut-oil-output-which-will-help-increase-the-price-of-petroleum-products-in-the-wo.html)  [JSON](/news/2016/12/11/non-organization-of-petroleum-exporting-countries-agree-to-cut-oil-output-which-will-help-increase-the-price-of-petroleum-products-in-the-wo.json)  [XML](/news/2016/12/11/non-organization-of-petroleum-exporting-countries-agree-to-cut-oil-output-which-will-help-increase-the-price-of-petroleum-products-in-the-wo.xml)  
+
 ### [2016-12-11](/news/2016/12/11/index.md)
 
 # Non-Organization of Petroleum Exporting Countries agree to cut oil output which will help increase the price of petroleum products in the world market. 
@@ -5,7 +8,7 @@
 Oil-producing countries that are not Opec members agree a global plan to cut output and boost price.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-38276667)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5439/production/_91416512_oilpumpap.jpg)

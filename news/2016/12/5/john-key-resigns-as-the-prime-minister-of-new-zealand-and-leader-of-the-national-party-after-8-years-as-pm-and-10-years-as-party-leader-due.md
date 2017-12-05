@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.html)  [JSON](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.json)  [XML](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.xml)  
+
 ### [2016-12-5](/news/2016/12/5/index.md)
 
 # John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. 
@@ -5,7 +8,7 @@
 John Key has resigned as New Zealand&#039;s prime minister in a sudden announcement.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2016/12/05/john-key-resigns-nz-prime-minister-0)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/key_0.jpg)

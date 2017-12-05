@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/6/index.html)  [JSON](2016/12/6/index.json)  [XML](2016/12/6/index.xml)  
+
 ## [2016-12-6](/news/2016/12/6/index.md)
 
 ### [ Six Pakistani nationals fishing in the Red Sea, off the coast of Mocha in the Taiz Governorate of Yemen, are killed and another six are unaccounted for after a Saudi air raid on a boat carrying 12 Pakistani sailors. ](/news/2016/12/6/six-pakistani-nationals-fishing-in-the-red-sea-off-the-coast-of-mocha-in-the-taiz-governorate-of-yemen-are-killed-and-another-six-are-una.md)
@@ -7,7 +10,7 @@ SANAA: Six Pakistani sailors were reportedly killed in a Saudi air strike target
 After weeks of close-quarter combat, Iraqi soldiers aim to sever important ISIL fighter route over the Tigris River. 
 
 ### [ After a meeting with President-elect of the United States Donald Trump, Masayoshi Son of SoftBank Group pledges to invest $50 billion in the United States and create 50,000 jobs. ](/news/2016/12/6/after-a-meeting-with-president-elect-of-the-united-states-donald-trump-masayoshi-son-of-softbank-group-pledges-to-invest-50-billion-in-th.md)
-_Context: Donald Trump, Masayoshi Son, President-elect, SoftBank Group, United States_
+Masayoshi Son, the founder of SoftBank, says a previously announced fund will create some 50,000 jobs by investing in American start-ups.
 
 ### [ Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. ](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flights-into-and-out-of-sea-tac-airport-due-to-ice-on-airport-runways-among-the-affected-air.md)
 Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea-Tac Airport. 
