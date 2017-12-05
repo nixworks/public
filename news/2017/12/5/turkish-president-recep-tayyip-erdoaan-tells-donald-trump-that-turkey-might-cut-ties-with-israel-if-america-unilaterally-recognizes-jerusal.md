@@ -11,7 +11,8 @@ Formats: [HTML](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-don
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-42232158)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/01A8/production/_99042400_043316411.jpg)
+2. [CNN](http://edition.cnn.com/2017/12/05/politics/trump-abbas-us-embassy-jerusalem/index.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/01A8/production/_99042400_043316411.jpg)
 
 ### Changes:
 
