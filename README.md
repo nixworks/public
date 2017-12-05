@@ -15,8 +15,11 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 ### [The last King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md)
 He was forced to abdicate in 1947 after the communists took over Romania following World War Two.
 
-### [Turkish President Tayyip Erdogan tells Donald Trump Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-tayyip-erdogan-tells-donald-trump-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusalem-as-its-ca.md)
-_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Tayyip Erdogan_
+### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if America unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-america-unilaterally-recognizes-jerusal.md)
+_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
+
+### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)
+Latest development in six-month-long Qatar dispute throws future of Gulf Cooperation Council into doubt
 
 ### [ As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Speeching again, he urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-p.md)
 Crowds of supporters demonstrate as anti-corruption campaigner is taken away by police from his home in Kiev
@@ -27,7 +30,7 @@ The move comes in retaliation for U.S. actions against the RT news network.
 ### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion however remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
 
-### [Reuters and Handelsblatt cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller-to.md)
+### [Reuters and "Handelsblatt" cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller.md)
 Special counsel Robert Mueller has asked Deutsche Bank to share data on the US president&#39;s business dealings, as his investigation into alleged Russian meddling in the US election widens.
 
 ### [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md)
