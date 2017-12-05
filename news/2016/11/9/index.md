@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2016/11/9/index.html)  [JSON](2016/11/9/index.json)  [XML](2016/11/9/index.xml)  
 
-* [HTML](2016/11/9/index.html)
-* [JSON](2016/11/9/index.json)
-* [XML](2016/11/9/index.xml)
 ## [2016-11-9](/news/2016/11/9/index.md)
 
 ### [The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. ](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.md)
@@ -19,7 +16,7 @@ _Context: Canada, United States_
 Only hours after Donald Trump was declared the winner in last night’s presidential election, it was business as usual in at least one Washington institution: the Supreme Court of the United States. With the seat left open by the death of Justice Antonin Scalia still vacant, presumably to be filled...
 
 ### [Although he lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/although-he-lost-the-popular-vote-donald-trump-the-republican-nominee-for-the-2016-presidential-election-becomes-the-president-elect-of-t.md)
-Maine has joined California, Nevada and Massachusetts in backing recreational marijuana use in state-wide polls.
+His surprise victory ended an erratic and grievance-filled campaign that took direct aim at his own party and long-held ideals of American democracy.
 
 ## [Previous Day...](/news/2016/11/8/index.md)
 

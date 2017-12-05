@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.html)  [JSON](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.json)  [XML](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # The funeral of Lukasz Urban, the driver killed in the course of last week's attack on a Christmas market in Berlin, takes place in his village of Banie near the German border. President of Poland Andrzej Duda and a German diplomat attend. 
@@ -5,7 +8,7 @@
 Truckers sound their horns across Poland as the first victim of the Berlin lorry attack is buried.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38470982)
 2. [Deutsche Welle](http://www.dw.com/en/poles-bid-farewell-to-first-victim-of-berlin-attack/a-36956779)

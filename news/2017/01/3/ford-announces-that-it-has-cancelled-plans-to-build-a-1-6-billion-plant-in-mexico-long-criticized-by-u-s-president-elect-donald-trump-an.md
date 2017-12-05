@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.html)  [JSON](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.json)  [XML](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.xml)  
+
 ### [2017-01-3](/news/2017/01/3/index.md)
 
 # Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. 
@@ -5,7 +8,7 @@
 Ford Motor Company on Tuesday announced plans to cancel the building of a $1.6 billion plant in Mexico and instead invest $700 million in a Michigan assembly plant, directly tying the decision to “pro-growth policies” championed by President-elect Donald Trump.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2017/01/03/news/economy/ford-700-jobs-trump/index.html)
 2. [Fox News](http://www.foxnews.com/politics/2017/01/03/ford-to-scrap-mexico-plant-invest-in-michigan-due-to-trump-policies.html)

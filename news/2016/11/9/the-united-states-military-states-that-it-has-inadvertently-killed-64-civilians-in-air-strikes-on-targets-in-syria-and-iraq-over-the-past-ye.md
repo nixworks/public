@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.html)  [JSON](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.json)  [XML](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.xml)  
 
-* [HTML](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.html)
-* [JSON](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.json)
-* [XML](/news/2016/11/9/the-united-states-military-states-that-it-has-inadvertently-killed-64-civilians-in-air-strikes-on-targets-in-syria-and-iraq-over-the-past-ye.xml)
 ### [2016-11-9](/news/2016/11/9/index.md)
 
 # The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. 

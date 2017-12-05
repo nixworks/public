@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/30/index.html)  [JSON](2016/12/30/index.json)  [XML](2016/12/30/index.xml)  
+
 ## [2016-12-30](/news/2016/12/30/index.md)
 
 ### [The funeral of Lukasz Urban, the driver killed in the course of last week's attack on a Christmas market in Berlin, takes place in his village of Banie near the German border. President of Poland Andrzej Duda and a German diplomat attend. ](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.md)
@@ -10,10 +13,10 @@ Six migrant workers died of suffocation in a fire that broke out in a Pune baker
 _Context: Coal India, Jharkhand_
 
 ### [A Cessna 525 carrying six passengers goes missing shortly after takeoff from Cleveland Burke Lakefront Airport in the United States. ](/news/2016/12/30/a-cessna-525-carrying-six-passengers-goes-missing-shortly-after-takeoff-from-cleveland-burke-lakefront-airport-in-the-united-states.md)
-The plane was traveling from Cleveland to Columbus.
+_Context: Cessna 525, Cleveland Burke Lakefront Airport, United States_
 
 ### [After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-recommends-expelling-35-american-dip.md)
-Trump says Putin is &#39;smart&#39; for not reciprocating Obama&#39;s diplomat expulsion.
+In a head-spinning turn, Mr. Putin decided against actions recommended just hours earlier by Sergey V. Lavrov in response to American sanctions and expulsions.
 
 ### [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md)
 Mali sends back two people deported from France on the same planes they came on.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.html)  [JSON](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.json)  [XML](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # Mali returns two people France deported on the same planes they arrived on. 
@@ -5,7 +8,7 @@
 Mali sends back two people deported from France on the same planes they came on.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-38467244)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/02AF/production/_93178600_airfranceafp.jpg)

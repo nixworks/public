@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.html)  [JSON](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.json)  [XML](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # Romanian President Klaus Iohannis designates social-democrat Sorin Grindeanu as the country's new prime minister, after the victory of the centre-left PSD earlier this month. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP by ''The Indian Express](http://indianexpress.com/article/world/romania-gets-new-pm-sorin-grindeanu-ending-political-turmoil-4451842/)
 1. [Cover Image](http://images.indianexpress.com/2016/12/sorin-grindeanu-480.jpg?w=480)

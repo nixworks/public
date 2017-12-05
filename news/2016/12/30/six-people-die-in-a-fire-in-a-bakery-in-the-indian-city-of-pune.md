@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/six-people-die-in-a-fire-in-a-bakery-in-the-indian-city-of-pune.html)  [JSON](/news/2016/12/30/six-people-die-in-a-fire-in-a-bakery-in-the-indian-city-of-pune.json)  [XML](/news/2016/12/30/six-people-die-in-a-fire-in-a-bakery-in-the-indian-city-of-pune.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # Six people die in a fire in a bakery in the Indian city of Pune. 
@@ -5,7 +8,7 @@
 Six migrant workers died of suffocation in a fire that broke out in a Pune bakery early morning on Friday, reports said.
 
 
-### Source:
+### Sources:
 
 1. [Firstpost](http://www.firstpost.com/india/pune-bakery-fire-six-workers-killed-in-kondhwas-cakes-and-bakes-fire-contained-3180352.html)
 1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2016/12/fire.jpg)

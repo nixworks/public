@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/3/the-u-s-commerce-department-announces-that-construction-spending-increased-0-9-percent-to-1-18-trillion-in-november-2016-the-highest-leve.html)  [JSON](/news/2017/01/3/the-u-s-commerce-department-announces-that-construction-spending-increased-0-9-percent-to-1-18-trillion-in-november-2016-the-highest-leve.json)  [XML](/news/2017/01/3/the-u-s-commerce-department-announces-that-construction-spending-increased-0-9-percent-to-1-18-trillion-in-november-2016-the-highest-leve.xml)  
+
 ### [2017-01-3](/news/2017/01/3/index.md)
 
 # The U.S. Commerce Department announces that construction spending increased 0.9 percent to $1.18 trillion in November 2016, the highest level since April 2006. 
@@ -5,9 +8,9 @@
 The Commerce Department said that construction spending increased 0.9 percent to $1.18 trillion, the highest level since April 2006.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2017/01/03/construction-spending-in-nov-2016-ism-manufacturing-in-dec.html)
+1. [CNBC](https://www.cnbc.com/2017/01/03/construction-spending-in-nov-2016-ism-manufacturing-in-dec.html)
 
 ### Related:
 

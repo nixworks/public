@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.html)  [JSON](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.json)  [XML](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.xml)  
 
-* [HTML](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.html)
-* [JSON](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.json)
-* [XML](/news/2016/11/9/the-immigration-website-of-canada-crashes-due-to-overflow-coinciding-with-the-election-in-the-united-states.xml)
 ### [2016-11-9](/news/2016/11/9/index.md)
 
 # The immigration website of Canada crashes due to overflow, coinciding with the election in the United States. 

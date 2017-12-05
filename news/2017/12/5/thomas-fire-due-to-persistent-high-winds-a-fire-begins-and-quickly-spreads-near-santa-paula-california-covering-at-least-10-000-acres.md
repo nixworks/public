@@ -3,15 +3,20 @@ Formats: [HTML](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
-#  Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres (31,000 acres reported) within hours and cutting power to 260,000 homes. Another fire due to winds has also been spotted in Sylmar and is currently at 1,000 acres (see local news for Creek Fire 2017.
+#  Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres (31,000 acres reported) within hours and cutting power to 260,000 homes. 
+
+A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the foothills near Thomas Aquinas College in Santa Paula, officials said.
 
 
+### Sources:
 
+1. [LA Times](http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5a266296/turbine/la-me-ln-school-fire-20171204)
 
 ### Changes:
 
 1. [Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres within hours and cutting power to 260,000 homes. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres-within-hours-an.md) _2017-12-05 12:30:08 (First version)_
-1. [ Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres (31,000 acres reported) within hours and cutting power to 260,000 homes. Another fire due to winds has also been spotted in Sylmar and is currently at 1,000 acres (see local news for Creek Fire 2017.](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres.md) _(Current version)_
+1. [ Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres (31,000 acres reported) within hours and cutting power to 260,000 homes. ](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres.md) _(Current version)_
 
 ### Related:
 

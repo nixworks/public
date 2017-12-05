@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.html)  [JSON](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.json)  [XML](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.xml)  
+
 ### [2017-01-3](/news/2017/01/3/index.md)
 
 # The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_TURKEY_STATE_OF_EMERGENCY?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

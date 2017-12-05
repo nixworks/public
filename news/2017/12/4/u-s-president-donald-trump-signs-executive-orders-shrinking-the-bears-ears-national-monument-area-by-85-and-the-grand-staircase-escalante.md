@@ -15,7 +15,7 @@ Capping months of speculation, President Trump on Monday signed a pair of execut
 
 ### Related:
 
-1. [French President Emmanuel Macron has told Donald Trump he is "concerned" the US leader could unilaterally recognize Jerusalem as Israel's capital. ](/news/2017/12/5/french-president-emmanuel-macron-has-told-donald-trump-he-is-concerned-the-us-leader-could-unilaterally-recognize-jerusalem-as-israel-s-ca.md) _Context: Donald Trump_
+1. [French President Emmanuel Macron has told Donald Trump he is "concerned" that the U.S. leader could unilaterally recognize Jerusalem as Israel's capital. ](/news/2017/12/5/french-president-emmanuel-macron-has-told-donald-trump-he-is-concerned-that-the-u-s-leader-could-unilaterally-recognize-jerusalem-as-isra.md) _Context: Donald Trump_
 2. [Deutsche Bank turns over Donald Trump's personal banking information to special prosecutor Robert Mueller. ](/news/2017/12/5/deutsche-bank-turns-over-donald-trump-s-personal-banking-information-to-special-prosecutor-robert-mueller.md) _Context: Donald Trump_
 3. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
 4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_

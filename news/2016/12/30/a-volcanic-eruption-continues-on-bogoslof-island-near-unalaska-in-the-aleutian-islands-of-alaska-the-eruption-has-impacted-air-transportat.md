@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/a-volcanic-eruption-continues-on-bogoslof-island-near-unalaska-in-the-aleutian-islands-of-alaska-the-eruption-has-impacted-air-transportat.html)  [JSON](/news/2016/12/30/a-volcanic-eruption-continues-on-bogoslof-island-near-unalaska-in-the-aleutian-islands-of-alaska-the-eruption-has-impacted-air-transportat.json)  [XML](/news/2016/12/30/a-volcanic-eruption-continues-on-bogoslof-island-near-unalaska-in-the-aleutian-islands-of-alaska-the-eruption-has-impacted-air-transportat.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # A volcanic eruption continues on Bogoslof Island near Unalaska, in the Aleutian Islands of Alaska. The eruption has impacted air transportation routes. 
@@ -5,7 +8,7 @@
 Seismic unrest continues at Bogoslof volcano. Scientists are watching the eruption around the clock -- even though monitoring stations are far from the site. Listen Now
 
 
-### Source:
+### Sources:
 
 1. [Alaska Public Radio Network](http://www.alaskapublic.org/2016/12/29/continued-unrest-at-bogoslof-volcano/)
 2. [CDA News](http://cdanews.com/2016/12/alaskas-bogoslof-island-volcano-erupts-for-the-third-time-in-a-week/)

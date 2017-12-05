@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.html)  [JSON](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.json)  [XML](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # China's State Council announces details of its intention to ban all ivory trade and processing activities by the end of 2017. 
@@ -5,7 +8,7 @@
 China announces a ban on all ivory trade and processing activities by the end of 2017.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-38470861)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1214/production/_93182640_mediaitem93182639.jpg)

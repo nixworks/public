@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped-after-a-pile-of-waste-collapses-in-a-coal-india-mine-in-jharkhand.html)  [JSON](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped-after-a-pile-of-waste-collapses-in-a-coal-india-mine-in-jharkhand.json)  [XML](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped-after-a-pile-of-waste-collapses-in-a-coal-india-mine-in-jharkhand.xml)  
+
 ### [2016-12-30](/news/2016/12/30/index.md)
 
 # At least seven people are killed and 30 trapped after a pile of waste collapses in a Coal India mine in Jharkhand. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/12/30/asia/mine-collapse-india/index.html)
-2. [Reuters](http://www.reuters.com/article/us-india-mine-collapse-idUSKBN14J0F0)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/us-india-mine-collapse-idUSKBN14J0F0)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
