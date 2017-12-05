@@ -15,7 +15,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 ### [French President Emmanuel Macron has told Donald Trump he is "concerned" that the U.S. leader could unilaterally recognize Jerusalem as Israel's capital. ](/news/2017/12/5/french-president-emmanuel-macron-has-told-donald-trump-he-is-concerned-that-the-u-s-leader-could-unilaterally-recognize-jerusalem-as-isra.md)
 _Context: Donald Trump, Emmanuel Macron, Jerusalem, Positions on Jerusalem_
 
-### [ As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Speeching again, he urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-police-the.md)
+### [ As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Speeching again, he urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-p.md)
 Crowds of supporters demonstrate as anti-corruption campaigner is taken away by police from his home in Kiev
 
 ### [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents.md)
@@ -24,8 +24,11 @@ The move comes in retaliation for U.S. actions against the RT news network.
 ### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion however remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
 
-### [Deutsche Bank gets a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/deutsche-bank-gets-a-subpoena-from-special-prosecutor-robert-mueller-to-turn-over-donald-trump-s-personal-banking-information.md)
-Deutsche Bank, Donald Trump’s biggest lender, is forced to submit documents after special prosecutor issues subpoena
+### [Reuters and Handelsblatt cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller-to.md)
+Special counsel Robert Mueller has asked Deutsche Bank to share data on the US president&#39;s business dealings, as his investigation into alleged Russian meddling in the US election widens.
+
+### [Former King of Romania, Michael I of Romania, dies at the age of 96. ](/news/2017/12/5/former-king-of-romania-michael-i-of-romania-dies-at-the-age-of-96.md)
+He was forced to abdicate in 1947 after the communists took over Romania following World War Two.
 
 ## [Previous Day...](/news/2017/12/4/index.md)
 
