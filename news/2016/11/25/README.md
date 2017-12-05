@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/25/index.html)  [JSON](2016/11/25/index.json)  [XML](2016/11/25/index.xml)  
+
 ## [2016-11-25](/news/2016/11/25/index.md)
 
 ### [Legal sales of recreational-use marijuana, authorized by Alaska ballot measure 2 in 2014, begin in Juneau, the state capital of Alaska. ](/news/2016/11/25/legal-sales-of-recreational-use-marijuana-authorized-by-alaska-ballot-measure-2-in-2014-begin-in-juneau-the-state-capital-of-alaska.md)
@@ -16,7 +19,7 @@ Forty-four people were killed and 103 injured when one Iranian passenger train c
 Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday after a woman and a six-year-old child died following a gas cylinder explosion, local police said.
 
 ### [At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-province-all-of-the-victims-were-displa.md)
-_Context: Afghanistan, Darzab District, Jozjan Province, War in Afghanistan (2015-present)_
+_Context: Afghan, Darzab District, Jozjan Province, War in Afghanistan (2015-present)_
 
 ### [Heavy rains lead to widespread flooding across northern Italy as several rivers have overflowed. One person is missing, presumed drowned. ](/news/2016/11/25/heavy-rains-lead-to-widespread-flooding-across-northern-italy-as-several-rivers-have-overflowed-one-person-is-missing-presumed-drowned.md)
 Little more than two weeks after Italian scientists warned that climate change had put much of the country at risk of flooding, parts of the northwest have been inundated by heavy…

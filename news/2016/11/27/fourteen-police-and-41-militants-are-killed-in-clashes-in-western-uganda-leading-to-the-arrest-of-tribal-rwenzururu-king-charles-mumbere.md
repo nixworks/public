@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/fourteen-police-and-41-militants-are-killed-in-clashes-in-western-uganda-leading-to-the-arrest-of-tribal-rwenzururu-king-charles-mumbere.html)  [JSON](/news/2016/11/27/fourteen-police-and-41-militants-are-killed-in-clashes-in-western-uganda-leading-to-the-arrest-of-tribal-rwenzururu-king-charles-mumbere.json)  [XML](/news/2016/11/27/fourteen-police-and-41-militants-are-killed-in-clashes-in-western-uganda-leading-to-the-arrest-of-tribal-rwenzururu-king-charles-mumbere.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # Fourteen police and 41 militants are killed in clashes in western Uganda, leading to the arrest of tribal Rwenzururu king Charles Mumbere. 
@@ -5,11 +8,11 @@
 Police storm a palace and arrest a traditional king in Uganda over clashes that have left 55 dead.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-38121581)
-2. [Reuters](http://www.reuters.com/article/us-uganda-security-idUSKBN13M0OG)
-3. [The New York Times](http://www.nytimes.com/aponline/2016/11/27/world/africa/ap-af-uganda-rebels.html)
+2. [Reuters](https://www.reuters.com/article/us-uganda-security-idUSKBN13M0OG)
+3. [The New York Times](https://www.nytimes.com/aponline/2016/11/27/world/africa/ap-af-uganda-rebels.html)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/ED7D/production/_92679706_mediaitem92679591.jpg)
 
 ### Related:

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.html)  [JSON](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.json)  [XML](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.xml)  
+
 ### [2016-11-25](/news/2016/11/25/index.md)
 
 # Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKBN13K14S)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161125&t=2&i=1163091216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAO1CF)
+1. [Reuters](https://www.reuters.com/article/us-brazil-politics-idUSKBN13K14S)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161125&t=2&i=1163091216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAO1CF)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/at-least-30-civilians-are-killed-in-an-attack-by-ethnic-nande-militias-in-eastern-democratic-republic-of-the-congo.html)  [JSON](/news/2016/11/27/at-least-30-civilians-are-killed-in-an-attack-by-ethnic-nande-militias-in-eastern-democratic-republic-of-the-congo.json)  [XML](/news/2016/11/27/at-least-30-civilians-are-killed-in-an-attack-by-ethnic-nande-militias-in-eastern-democratic-republic-of-the-congo.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # At least 30 civilians are killed in an attack by ethnic Nande militias in eastern Democratic Republic of the Congo. 
@@ -5,10 +8,10 @@
 An ethnic Nande militia in eastern Democratic Republic of Congo killed about 30 civilians, mostly Hutus, on Sunday morning, local sources said, in an apparent escalation of deadly violence between the two groups that has flared repeatedly this year.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-congo-killings-idUSKBN13M0BP)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-congo-killings-idUSKBN13M0BP)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

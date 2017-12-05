@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.html)  [JSON](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.json)  [XML](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. 
 
-A strong quake shook Central America&#x27;s Pacific coast as a hurricane barreled into Nicaragua and Costa Rica, but there were no reports of damage.
+By Nelson Renteria SAN SALVADOR (Reuters) - A strong earthquake off the Pacific Coast of Central America shook the region on Thursday just as a hurricane barreled into the Caribbean coasts of Nicaragua and Costa Rica, but there were no immediate reports of any quake damage. Emergency services in El
 
 
-### Source:
+### Sources:
 
 1. [Reuters via NBC News](http://www.nbcnews.com/news/world/magnitude-7-offshore-quake-shakes-central-america-hurricane-hits-n688091)
 2. [Reuters via Yahoo! Canada](https://ca.news.yahoo.com/magnitude-7-2-quake-strikes-off-pacific-coast-185650857.html)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10007c4w#executive)
-3. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2016_47/1808796/161125-nicaragua-quake-officials-850p_c7c9c4583371d70e04f8cea049621f88.nbcnews-fp-1200-800.jpg)
+3. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10007c4w#executive)
+3. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:
 

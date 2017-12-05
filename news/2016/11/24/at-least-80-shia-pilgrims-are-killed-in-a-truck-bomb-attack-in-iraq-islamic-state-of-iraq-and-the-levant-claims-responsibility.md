@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.html)  [JSON](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.json)  [XML](/news/2016/11/24/at-least-80-shia-pilgrims-are-killed-in-a-truck-bomb-attack-in-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # At least 80 Shia pilgrims are killed in a truck bomb attack in Iraq. Islamic State of Iraq and the Levant claims responsibility. 
@@ -5,7 +8,7 @@
 A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38090006)
 2. [RTE](http://www.rte.ie/news/2016/1124/834171-iraq-bomb/)
@@ -14,7 +17,7 @@ A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police
 ### Related:
 
 1. [Attacks targeting a Shi'ite Muslim gathering, a police check-point, and the family of an anti-Islamic State Sunni paramilitary leader, kill at least 55 people in Iraq. ](/news/2016/10/15/attacks-targeting-a-shi-ite-muslim-gathering-a-police-check-point-and-the-family-of-an-anti-islamic-state-sunni-paramilitary-leader-kill.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present), Shi'ite_
-2. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
-3. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: ISIL, Iraqi Civil War (2014-present), Shi'ite_
-4. [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
-5. [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
+2. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
+3. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_
+4. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: ISIL, Iraqi Civil War (2014-present), Shi'ite_
+5. [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md) _Context: ISIL, Iraq, Iraqi Civil War (2014-present)_

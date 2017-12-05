@@ -1,7 +1,10 @@
+
+Formats: [HTML](2016/11/24/index.html)  [JSON](2016/11/24/index.json)  [XML](2016/11/24/index.xml)  
+
 ## [2016-11-24](/news/2016/11/24/index.md)
 
 ### [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md)
-_Context: Colombia, FARC, peace deal_
+_Context: Colombia, Colombian peace process, FARC_
 
 ### [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md)
 Myanmar wants to rid the country of its Muslim minority, a senior UN official tells the BBC.
@@ -40,7 +43,7 @@ At least 67 people die in an accident at a power station under construction in J
 Tens of thousands of people are evacuated as wildfires sweep into the Israeli city of Haifa.
 
 ### [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md)
-A strong quake shook Central America&#x27;s Pacific coast as a hurricane barreled into Nicaragua and Costa Rica, but there were no reports of damage.
+By Nelson Renteria SAN SALVADOR (Reuters) - A strong earthquake off the Pacific Coast of Central America shook the region on Thursday just as a hurricane barreled into the Caribbean coasts of Nicaragua and Costa Rica, but there were no immediate reports of any quake damage. Emergency services in El
 
 ### [An Iraqi court has issued arrest warrants for two correspondents with a London-based pan-Arab newspaper "Asharq al-Awsat" over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. ](/news/2016/11/24/an-iraqi-court-has-issued-arrest-warrants-for-two-correspondents-with-a-london-based-pan-arab-newspaper-asharq-al-awsat-over-a-false-news.md)
 A Baghdad court has issued arrest warrants for two correspondents with a Saudi newspaper over a false news report accusing Iranian pilgrims of sexually harassing Iraqi women. A senior source in Iraq&#039;s judiciary said Wednesday that the warrants, based on the penal code&#039;s article 372 on reli...
@@ -52,7 +55,7 @@ It’s a reminder to her supporters that more Americans voted the way they did t
 Police clashed with supporters of presidential candidate Maryse Narcisse in Port-au-Prince as the nation awaits elections results. 
 
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: Austrian presidential election, 2016, EU, Freedom Party of Austria, Norbert Hofer_
+_Context: Austrian presidential election, 2016, European Union, Freedom Party of Austria, Norbert Hofer_
 
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
 _Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_

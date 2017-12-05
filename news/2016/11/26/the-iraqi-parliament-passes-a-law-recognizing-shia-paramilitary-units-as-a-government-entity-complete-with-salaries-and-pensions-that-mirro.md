@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/26/the-iraqi-parliament-passes-a-law-recognizing-shia-paramilitary-units-as-a-government-entity-complete-with-salaries-and-pensions-that-mirro.html)  [JSON](/news/2016/11/26/the-iraqi-parliament-passes-a-law-recognizing-shia-paramilitary-units-as-a-government-entity-complete-with-salaries-and-pensions-that-mirro.json)  [XML](/news/2016/11/26/the-iraqi-parliament-passes-a-law-recognizing-shia-paramilitary-units-as-a-government-entity-complete-with-salaries-and-pensions-that-mirro.xml)  
+
 ### [2016-11-26](/news/2016/11/26/index.md)
 
 # The Iraqi parliament passes a law recognizing Shia paramilitary units as a government entity, complete with salaries and pensions that mirror those of the military and the police. 
@@ -5,7 +8,7 @@
 Iraqi Sunnis say law was proof of Shia &quot;dictatorship&quot; but Prime Minister Abadi says force will defend &quot;all Iraqis&quot;.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/iraq-parliament-passes-law-legalising-shia-militias-161126133010696.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.html)  [JSON](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.json)  [XML](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Times-Picayune](http://www.nola.com/crime/index.ssf/2016/11/1_dead_9_wounded_on_bourbon_st.html#incart_big-photo)
 1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/tpphotos/photo/2016/11/27/21602751-large.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-against-forced-religious-conversions-carrying-a-minimum-five-year-sentence-and-a-maximum-senten.html)  [JSON](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-against-forced-religious-conversions-carrying-a-minimum-five-year-sentence-and-a-maximum-senten.json)  [XML](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-against-forced-religious-conversions-carrying-a-minimum-five-year-sentence-and-a-maximum-senten.xml)  
+
 ### [2016-11-25](/news/2016/11/25/index.md)
 
 # The Sindh province of Pakistan passes a law against forced religious conversions, carrying a minimum five-year sentence and a maximum sentence of life imprisonment, following criticism over protection of minorities in the country. 
@@ -5,7 +8,7 @@
 Sindh becomes first province to pass law in response to criticism over protection of country&#39;s religious minorities.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/pakistan-sindh-province-outlaws-forced-conversions-161125053322877.html)
 

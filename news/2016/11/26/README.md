@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/26/index.html)  [JSON](2016/11/26/index.json)  [XML](2016/11/26/index.xml)  
+
 ## [2016-11-26](/news/2016/11/26/index.md)
 
 ### [ A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/a-car-bomb-kills-at-least-20-in-mogadishu.md)

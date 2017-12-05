@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/24/centcom-reports-a-u-s-service-member-has-been-killed-in-a-ied-blast-near-the-town-of-ayn-issa-al-raqqah-governorate-becoming-the-first-u.html)  [JSON](/news/2016/11/24/centcom-reports-a-u-s-service-member-has-been-killed-in-a-ied-blast-near-the-town-of-ayn-issa-al-raqqah-governorate-becoming-the-first-u.json)  [XML](/news/2016/11/24/centcom-reports-a-u-s-service-member-has-been-killed-in-a-ied-blast-near-the-town-of-ayn-issa-al-raqqah-governorate-becoming-the-first-u.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # CENTCOM reports a U.S. service member has been killed in a IED blast near the town of Ayn Issa, Al-Raqqah Governorate, becoming the first U.S. military casualty in the conflict. 
@@ -5,7 +8,7 @@
 The service member was not identified.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/us-service-member-killed-explosion-syria/story?id=43765880)
 1. [Cover Image](http://a.abcnews.com/images/International/GTY-american-flag-army-military-uniform-jt-161124_16x9_992.jpg)

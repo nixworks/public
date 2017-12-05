@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/a-national-iranian-drilling-company-helicopter-crashes-into-the-caspian-sea-with-all-five-people-onboard-killed.html)  [JSON](/news/2016/11/27/a-national-iranian-drilling-company-helicopter-crashes-into-the-caspian-sea-with-all-five-people-onboard-killed.json)  [XML](/news/2016/11/27/a-national-iranian-drilling-company-helicopter-crashes-into-the-caspian-sea-with-all-five-people-onboard-killed.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # A National Iranian Drilling Company helicopter crashes into the Caspian Sea with all five people onboard killed. 
@@ -5,7 +8,7 @@
 Five people on board an Iranian helicopter were killed when it crashed into the Caspian Sea Sunday, state television reported.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2016/Nov-27/383004-helicopter-crashes-in-iran-killing-five-official.ashx)
 2. [Press TV](http://www.presstv.ir/Detail/2016/11/27/495357/iran-chopper-crash-air-abmulance-crash)

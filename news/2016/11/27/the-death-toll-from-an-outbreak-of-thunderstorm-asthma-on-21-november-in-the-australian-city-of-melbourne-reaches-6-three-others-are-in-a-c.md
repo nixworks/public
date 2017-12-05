@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/the-death-toll-from-an-outbreak-of-thunderstorm-asthma-on-21-november-in-the-australian-city-of-melbourne-reaches-6-three-others-are-in-a-c.html)  [JSON](/news/2016/11/27/the-death-toll-from-an-outbreak-of-thunderstorm-asthma-on-21-november-in-the-australian-city-of-melbourne-reaches-6-three-others-are-in-a-c.json)  [XML](/news/2016/11/27/the-death-toll-from-an-outbreak-of-thunderstorm-asthma-on-21-november-in-the-australian-city-of-melbourne-reaches-6-three-others-are-in-a-c.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # The death toll from an outbreak of thunderstorm asthma on 21 November in the Australian city of Melbourne reaches 6. Three others are in a critical condition. 
@@ -5,7 +8,7 @@
 The number of people in Melbourne dying from the rare phenomenon thunderstorm asthma rises to eight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-australia-38121579)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15A15/production/_92679588_mediaitem92679587.jpg)

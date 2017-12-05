@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.html)  [JSON](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.json)  [XML](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.xml)  
+
 ### [2016-11-26](/news/2016/11/26/index.md)
 
 # Cuban state television announces that former President Fidel Castro has died at age 90. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38114953)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/827F/production/_92670433_mediaitem92670431.jpg)

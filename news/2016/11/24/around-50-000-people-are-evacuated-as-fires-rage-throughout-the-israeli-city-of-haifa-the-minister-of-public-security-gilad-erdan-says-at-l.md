@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.html)  [JSON](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.json)  [XML](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. 
@@ -5,11 +8,16 @@
 Tens of thousands of people are evacuated as wildfires sweep into the Israeli city of Haifa.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-38088651)
 2. [FOX News](http://www.foxnews.com/world/2016/11/24/israel-battles-fires-for-third-day-4-palestinians-arrested.html)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4B18/production/_92642291_mediaitem92642283.jpg)
+
+### Changes:
+
+1. [November 2016 Israel wildfires: Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/november-2016-israel-wildfires-around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-publi.md) _2017-08-27 03:47:17 (First version)_
+1. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Tens of thousands of people are evacuated as wildfires sweep into the Israeli ci
 3. [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md) _Context: Haifa, Israel_
 4. [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md) _Context: Haifa, Israel_
 5. [ A car bomb is located and defused near a shopping mall in Haifa, Israel. ](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.md) _Context: Haifa, Israel_
-
-### Changes:
-
-1. [November 2016 Israel wildfires: Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/november-2016-israel-wildfires-around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-publi.md) _2017-08-27 03:47:17 (First version)_
-1. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _(Current version)_

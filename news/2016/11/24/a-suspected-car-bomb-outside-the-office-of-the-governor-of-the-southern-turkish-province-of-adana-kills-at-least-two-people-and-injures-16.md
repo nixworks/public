@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.html)  [JSON](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.json)  [XML](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # A suspected car bomb outside the office of the governor of the southern Turkish province of Adana kills at least two people and injures 16. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/explosion-southern-turkish-city-wounds-43753520)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

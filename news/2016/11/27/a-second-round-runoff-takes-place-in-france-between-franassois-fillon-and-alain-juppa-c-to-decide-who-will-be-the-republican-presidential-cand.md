@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.html)  [JSON](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.json)  [XML](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. 
@@ -5,10 +8,10 @@
 Francois Fillon looks set to win the French Republican primaries.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2016/11/27/francois-fillon-gains-695-in-the-first-partial-votes-of-the-french-republican-primaries)
-2. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN13M001?feedType=RSS&feedName=newsOne)
+2. [Reuters](https://www.reuters.com/article/us-france-election-idUSKBN13M001?feedType=RSS&feedName=newsOne)
 3. [Sky News](http://news.sky.com/story/francois-fillon-leads-alain-juppe-in-french-presidential-primary-10675189)
 4. [The Guardian](https://www.theguardian.com/world/2016/nov/27/francois-fillon-on-course-to-win-french-primary-to-be-candidate-for-the-right)
 4. [Cover Image](http://static.euronews.com/articles/350820/1000x563_350820.jpg)

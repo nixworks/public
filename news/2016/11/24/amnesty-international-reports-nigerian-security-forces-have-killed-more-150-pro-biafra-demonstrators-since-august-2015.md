@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/24/amnesty-international-reports-nigerian-security-forces-have-killed-more-150-pro-biafra-demonstrators-since-august-2015.html)  [JSON](/news/2016/11/24/amnesty-international-reports-nigerian-security-forces-have-killed-more-150-pro-biafra-demonstrators-since-august-2015.json)  [XML](/news/2016/11/24/amnesty-international-reports-nigerian-security-forces-have-killed-more-150-pro-biafra-demonstrators-since-august-2015.xml)  
+
 ### [2016-11-24](/news/2016/11/24/index.md)
 
 # Amnesty International reports Nigerian security forces have killed more 150 pro-Biafra demonstrators since August 2015. 
@@ -5,7 +8,7 @@
 Amnesty says Nigerian security forces have killed more than 150 protesters since August 2015.
 
 
-### Source:
+### Sources:
 
 1. [Amnesty](https://www.amnesty.org/en/latest/news/2016/11/peaceful-pro-biafra-activists-killed-in-chilling-crackdown/)
 2. [BBC](http://www.bbc.com/news/world-africa-38087836)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.html)  [JSON](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.json)  [XML](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.xml)  
+
 ### [2016-11-27](/news/2016/11/27/index.md)
 
 # The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. 
@@ -5,7 +8,7 @@
 Republican President-elect Donald Trump says an impending recount of votes in Wisconsin is a &quot;scam&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38121264)
 2. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/27/donald-trumps-new-explanation-for-losing-the-popular-vote-a-twitter-born-conspiracy-theory/)

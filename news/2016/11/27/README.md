@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/27/index.html)  [JSON](2016/11/27/index.json)  [XML](2016/11/27/index.xml)  
+
 ## [2016-11-27](/news/2016/11/27/index.md)
 
 ### [Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. ](/news/2016/11/27/syrian-armed-forces-have-captured-the-entire-hanano-district-in-eastern-aleppo-and-are-working-on-removing-mines-and-improvised-explosive-de.md)
