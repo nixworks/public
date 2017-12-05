@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.html)  [JSON](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.json)  [XML](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.xml)  
+
 ### [2016-12-29](/news/2016/12/29/index.md)
 
 # The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-idUSKBN14I17F)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161229&t=2&i=1167026386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBS0J6)
+1. [Reuters](https://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-idUSKBN14I17F)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20161229&t=2&i=1167026386&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBS0J6)
 
 ### Related:
 

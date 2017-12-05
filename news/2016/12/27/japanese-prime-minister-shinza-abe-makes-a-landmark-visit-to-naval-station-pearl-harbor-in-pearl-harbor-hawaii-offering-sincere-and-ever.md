@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.html)  [JSON](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.json)  [XML](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.xml)  
+
 ### [2016-12-27](/news/2016/12/27/index.md)
 
 # Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-38438714)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2355/production/_93154090_obamaabereu.jpg)
+
+### Changes:
+
+1. [Japan-United States relations: Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japan-united-states-relations-japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-h.md) _2017-08-27 03:47:32 (First version)_
+1. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md) _Context: Japan, Prime Minister of Japan, Shinzo Abe_
 4. [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md) _Context: Japan, Prime Minister of Japan, Shinzo Abe_
 5. [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md) _Context: Japan, Prime Minister of Japan, Shinzo Abe_
-
-### Changes:
-
-1. [Japan-United States relations: Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japan-united-states-relations-japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-h.md) _2017-08-27 03:47:32 (First version)_
-1. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/21/snow-falls-in-the-sahara-desert-for-the-first-time-in-37-years.html)  [JSON](/news/2016/12/21/snow-falls-in-the-sahara-desert-for-the-first-time-in-37-years.json)  [XML](/news/2016/12/21/snow-falls-in-the-sahara-desert-for-the-first-time-in-37-years.xml)  
+
 ### [2016-12-21](/news/2016/12/21/index.md)
 
 #  Snow falls in the Sahara desert for the first time in 37 years. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/12/21/travel/sahara-snow/)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/20/u-s-president-barack-obama-and-canadian-prime-minister-justin-trudeau-jointly-ban-offshore-oil-drilling-in-the-arctic-ocean-and-parts-of-th.html)  [JSON](/news/2016/12/20/u-s-president-barack-obama-and-canadian-prime-minister-justin-trudeau-jointly-ban-offshore-oil-drilling-in-the-arctic-ocean-and-parts-of-th.json)  [XML](/news/2016/12/20/u-s-president-barack-obama-and-canadian-prime-minister-justin-trudeau-jointly-ban-offshore-oil-drilling-in-the-arctic-ocean-and-parts-of-th.xml)  
+
 ### [2016-12-20](/news/2016/12/20/index.md)
 
 # U.S. President Barack Obama and Canadian Prime Minister Justin Trudeau jointly ban offshore oil drilling in the Arctic Ocean and parts of the Atlantic coast. 
@@ -5,7 +8,7 @@
 In 2015, 0.1 percent of U.S. federal offshore crude production came from the Arctic, White House says.
 
 
-### Source:
+### Sources:
 
 1. [Toronto Star](https://www.thestar.com/news/canada/2016/12/20/canada-us-announce-ban-on-offshore-oil-gas-licenses-in-arctic.html)
 2. [Washington Examiner](http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103)

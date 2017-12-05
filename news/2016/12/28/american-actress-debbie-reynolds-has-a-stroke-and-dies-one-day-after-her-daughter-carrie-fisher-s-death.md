@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/28/american-actress-debbie-reynolds-has-a-stroke-and-dies-one-day-after-her-daughter-carrie-fisher-s-death.html)  [JSON](/news/2016/12/28/american-actress-debbie-reynolds-has-a-stroke-and-dies-one-day-after-her-daughter-carrie-fisher-s-death.json)  [XML](/news/2016/12/28/american-actress-debbie-reynolds-has-a-stroke-and-dies-one-day-after-her-daughter-carrie-fisher-s-death.xml)  
+
 ### [2016-12-28](/news/2016/12/28/index.md)
 
 # American actress Debbie Reynolds has a stroke and dies one day after her daughter Carrie Fisher's death. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-38455777)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/161BC/production/_93165509_mediaitem93165507.jpg)

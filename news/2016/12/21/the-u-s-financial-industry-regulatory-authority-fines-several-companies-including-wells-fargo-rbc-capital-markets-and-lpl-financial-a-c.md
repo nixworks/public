@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/21/the-u-s-financial-industry-regulatory-authority-fines-several-companies-including-wells-fargo-rbc-capital-markets-and-lpl-financial-a-c.html)  [JSON](/news/2016/12/21/the-u-s-financial-industry-regulatory-authority-fines-several-companies-including-wells-fargo-rbc-capital-markets-and-lpl-financial-a-c.json)  [XML](/news/2016/12/21/the-u-s-financial-industry-regulatory-authority-fines-several-companies-including-wells-fargo-rbc-capital-markets-and-lpl-financial-a-c.xml)  
+
 ### [2016-12-21](/news/2016/12/21/index.md)
 
 # The U.S. Financial Industry Regulatory Authority fines several companies, including Wells Fargo, RBC Capital Markets, and LPL Financial, a combined $14.4 million for record-keeping problems that could have allowed company and customer documents to be altered. 
@@ -5,10 +8,10 @@
 The Financial Industry Regulatory Authority said it fined several Wells Fargo & Co businesses, RBC Capital Markets, LPL Financial and others a combined $14.4 million on Wednesday for record-keeping problems that may have allowed company and customer documents to be altered.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-wells-fargo-finra-idUSKBN14A1S4?il=0)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166296080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK13C)
+1. [Reuters](https://www.reuters.com/article/us-wells-fargo-finra-idUSKBN14A1S4?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166296080&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK13C)
 
 ### Related:
 

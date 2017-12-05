@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/27/the-journal-the-proceedings-of-the-national-academy-of-sciences-publishes-research-from-the-zoological-society-of-london-that-the-cheetah-po.html)  [JSON](/news/2016/12/27/the-journal-the-proceedings-of-the-national-academy-of-sciences-publishes-research-from-the-zoological-society-of-london-that-the-cheetah-po.json)  [XML](/news/2016/12/27/the-journal-the-proceedings-of-the-national-academy-of-sciences-publishes-research-from-the-zoological-society-of-london-that-the-cheetah-po.xml)  
+
 ### [2016-12-27](/news/2016/12/27/index.md)
 
 # The journal the Proceedings of the National Academy of Sciences publishes research from the Zoological Society of London that the cheetah population approaches extinction with only 7,100 individuals left alive in the wild as a result of a sudden crash in population. [http:--www.bbc.com-news-science-environment-38415906 (BBC)], [http:--www.pnas.org-content-early-2016-12-20-1611122114.abstract "(The Proceeding of the National Academy of Science)"]

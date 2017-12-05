@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/23/index.html)  [JSON](2016/12/23/index.json)  [XML](2016/12/23/index.xml)  
+
 ## [2016-12-23](/news/2016/12/23/index.md)
 
 ### [The bodies of over 100 Syrian Army POWs are reportedly found in what was the last rebel held territory of East Aleppo. Syrian Army officers claim they were executed by rebel forces. ](/news/2016/12/23/the-bodies-of-over-100-syrian-army-pows-are-reportedly-found-in-what-was-the-last-rebel-held-territory-of-east-aleppo-syrian-army-officers.md)

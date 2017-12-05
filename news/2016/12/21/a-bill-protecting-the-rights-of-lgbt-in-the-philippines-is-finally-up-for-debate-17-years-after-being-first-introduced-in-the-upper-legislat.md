@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/21/a-bill-protecting-the-rights-of-lgbt-in-the-philippines-is-finally-up-for-debate-17-years-after-being-first-introduced-in-the-upper-legislat.html)  [JSON](/news/2016/12/21/a-bill-protecting-the-rights-of-lgbt-in-the-philippines-is-finally-up-for-debate-17-years-after-being-first-introduced-in-the-upper-legislat.json)  [XML](/news/2016/12/21/a-bill-protecting-the-rights-of-lgbt-in-the-philippines-is-finally-up-for-debate-17-years-after-being-first-introduced-in-the-upper-legislat.xml)  
+
 ### [2016-12-21](/news/2016/12/21/index.md)
 
 # A bill protecting the rights of LGBT in the Philippines is finally up for debate 17 years after being first introduced in the upper legislature with the 2014 killing of a transwoman as the reason for its urgency. 
@@ -5,7 +8,7 @@
 It is the first time an anti-discrimination bill reaches the Senate plenary
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/156139-lgbt-anti-discrimination-bill-senate-plenary)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/CF7E98F405A343D3884A2B7F99BDFA47/pridemarch-10072013.jpg)

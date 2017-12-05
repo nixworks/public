@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.html)  [JSON](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.json)  [XML](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.xml)  
+
 ### [2016-12-20](/news/2016/12/20/index.md)
 
 # Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. 
 
+The Class of 2017 also includes Journey, Electric Light Orchestra and Yes, and a special honor goes to Chic’s Nile Rodgers.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2016/12/20/arts/music/rock-roll-hall-fame-inductees-2017.html)
+1. [The New York Times](https://www.nytimes.com/2016/12/20/arts/music/rock-roll-hall-fame-inductees-2017.html)
+1. [Cover Image](https://static01.nyt.com/images/2016/12/20/arts/21ROCKHALL-TUPAC-1482185311003/21ROCKHALL-TUPAC-1482185311003-facebookJumbo-v2.jpg)
 
 ### Related:
 

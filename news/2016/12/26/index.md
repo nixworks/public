@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/26/index.html)  [JSON](2016/12/26/index.json)  [XML](2016/12/26/index.xml)  
+
 ## [2016-12-26](/news/2016/12/26/index.md)
 
 ### [American Actor George S. Irving, best known for being one of the last members of the original production of "Oklahoma!" and voicing Heat Miser from "The Year Without a Santa Claus", dies at age 94. ](/news/2016/12/26/american-actor-george-s-irving-best-known-for-being-one-of-the-last-members-of-the-original-production-of-oklahoma-and-voicing-heat-mis.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/20/an-aerosucre-boeing-727-200-flight-4544-used-as-a-cargo-plane-crashes-shortly-after-takeoff-in-puerto-carreno-s-germa-n-olano-airport-en-r.html)  [JSON](/news/2016/12/20/an-aerosucre-boeing-727-200-flight-4544-used-as-a-cargo-plane-crashes-shortly-after-takeoff-in-puerto-carreno-s-germa-n-olano-airport-en-r.json)  [XML](/news/2016/12/20/an-aerosucre-boeing-727-200-flight-4544-used-as-a-cargo-plane-crashes-shortly-after-takeoff-in-puerto-carreno-s-germa-n-olano-airport-en-r.xml)  
+
 ### [2016-12-20](/news/2016/12/20/index.md)
 
 # An Aerosucre Boeing 727-200 Flight 4544, used as a cargo plane, crashes shortly after takeoff in Puerto Carreno's German Olano Airport en route to the Colombian capital Bogota killing five people and injuring one. 
@@ -5,7 +8,7 @@
 A cargo plane crashes shortly after take-off from the southern Colombian city of Puerto Carreno, reportedly killing five and injuring one crew member.
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/2016-12-21/cargo-plane-captured-on-camera-crashing-shortly-after-takeoff-/8139524)
 1. [Cover Image](http://www.abc.net.au/news/image/8139672-1x1-700x700.jpg)

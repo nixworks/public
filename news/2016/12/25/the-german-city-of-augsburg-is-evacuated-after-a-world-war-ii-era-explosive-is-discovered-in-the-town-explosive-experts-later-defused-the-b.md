@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.html)  [JSON](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.json)  [XML](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.xml)  
+
 ### [2016-12-25](/news/2016/12/25/index.md)
 
 # The German city of Augsburg is evacuated after a World War II-era explosive is discovered in the town. Explosive experts later defused the bomb. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/25/world/europe/ap-eu-germany-wwii-bomb.html?referer=https://news.google.com/)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/12/25/world/europe/ap-eu-germany-wwii-bomb.html?referer=https://news.google.com/)
 
 ### Related:
 

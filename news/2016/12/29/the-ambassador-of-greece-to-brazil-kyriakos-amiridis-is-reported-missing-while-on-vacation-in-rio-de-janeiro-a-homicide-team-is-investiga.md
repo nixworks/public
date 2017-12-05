@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.html)  [JSON](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.json)  [XML](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.xml)  
+
 ### [2016-12-29](/news/2016/12/29/index.md)
 
 # The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id5585)
 2. [O Globo](http://oglobo.globo.com/rio/embaixador-da-grecia-esta-desaparecido-no-rio-ha-3-dias-20706463)

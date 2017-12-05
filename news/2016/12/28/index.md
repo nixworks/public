@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/12/28/index.html)  [JSON](2016/12/28/index.json)  [XML](2016/12/28/index.xml)  
+
 ## [2016-12-28](/news/2016/12/28/index.md)
 
 ### [An explosion in Kabul leads to several casualties. Afghan police report that the attack was aimed at a member of the National Assembly, Fakori Behishti. ](/news/2016/12/28/an-explosion-in-kabul-leads-to-several-casualties-afghan-police-report-that-the-attack-was-aimed-at-a-member-of-the-national-assembly-fako.md)
 _Context: Afghan, Kabul, National Assembly, War in Afghanistan (2015-present)_
 
 ### [As part of an ongoing peace process, the Congress of Colombia approves an amnesty law for thousands of demobilizing FARC rebels. The amnesty does not apply to FARC rebels who have committed war crimes or human rights violations. ](/news/2016/12/28/as-part-of-an-ongoing-peace-process-the-congress-of-colombia-approves-an-amnesty-law-for-thousands-of-demobilizing-farc-rebels-the-amnesty.md)
-_Context: Colombian conflict, Congress of Colombia, FARC, human rights violations, peace deal, war crime_
+_Context: Colombian conflict, Colombian peace process, Congress of Colombia, FARC, human rights violations, war crime_
 
 ### [American actress Debbie Reynolds has a stroke and dies one day after her daughter Carrie Fisher's death. ](/news/2016/12/28/american-actress-debbie-reynolds-has-a-stroke-and-dies-one-day-after-her-daughter-carrie-fisher-s-death.md)
 _Context: Carrie Fisher, Debbie Reynolds, stroke_

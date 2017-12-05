@@ -3,9 +3,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/5/index.md)
 
-### [ Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres within hours and cutting power to 260,000 homes. ](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres.md)
-A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the foothills near Thomas Aquinas College in Santa Paula, officials said.
-
 ### [Gujrat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujrat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md)
 Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is just 670 kms southwest of the city
 
@@ -20,6 +17,9 @@ The move comes in retaliation for U.S. actions against the RT news network.
 
 ### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion however remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
+
+### [Deutsche Bank turns over Donald Trump's personal banking information to special prosecutor Robert Mueller. ](/news/2017/12/5/deutsche-bank-turns-over-donald-trump-s-personal-banking-information-to-special-prosecutor-robert-mueller.md)
+Deutsche Bank, Donald Trump’s biggest lender, is forced to submit documents after special prosecutor issues subpoena
 
 ---
 

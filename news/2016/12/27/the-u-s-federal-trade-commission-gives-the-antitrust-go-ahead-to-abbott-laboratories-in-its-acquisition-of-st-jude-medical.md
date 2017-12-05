@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.html)  [JSON](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.json)  [XML](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.xml)  
+
 ### [2016-12-27](/news/2016/12/27/index.md)
 
 # The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. 
@@ -5,10 +8,10 @@
 Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval for its proposed $25 billion acquisition of medical device maker St. Jude Medical Inc STJ.N, the U.S. Federal Trade Commission said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-stjude-m-a-abbott-idUSKBN14G1LD)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20161228&t=2&i=1166881795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBQ0QX)
+1. [Reuters](https://www.reuters.com/article/us-stjude-m-a-abbott-idUSKBN14G1LD)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20161228&t=2&i=1166881795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBQ0QX)
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.html)  [JSON](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.json)  [XML](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.xml)  
+
 ### [2016-12-26](/news/2016/12/26/index.md)
 
 #  CHP MP Ozturk Yilmaz says Turkey has expressed its readiness to work with president Assad of Syria. 
@@ -5,7 +8,7 @@
 Commenting on the recent trilateral meeting between Russia, Turkey and Iran on the Syrian crisis and the resulting joint statement on reviving the political process to end the conflict, Turkish opposition politician Öztürk Yılmaz noted to Sputnik that it is the first time Turkey has openly voiced its readiness to work with President Assad.
 
 
-### Source:
+### Sources:
 
 1. [Sputnik](https://sputniknews.com/middleeast/201612261049011249-russia-turkey-iran-syria/)
 1. [Cover Image](https://cdn1.img.sputniknews.com/images/104538/57/1045385767.jpg)

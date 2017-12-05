@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.html)  [JSON](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.json)  [XML](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.xml)  
+
 ### [2016-12-29](/news/2016/12/29/index.md)
 
 # Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkish-journalist-detained-over-social-media-postings/2016/12/29/0f2e60de-cda5-11e6-85cd-e66532e35a44_story.html)
 

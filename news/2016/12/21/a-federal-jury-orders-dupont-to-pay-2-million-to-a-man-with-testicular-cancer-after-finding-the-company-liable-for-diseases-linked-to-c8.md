@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/21/a-federal-jury-orders-dupont-to-pay-2-million-to-a-man-with-testicular-cancer-after-finding-the-company-liable-for-diseases-linked-to-c8.html)  [JSON](/news/2016/12/21/a-federal-jury-orders-dupont-to-pay-2-million-to-a-man-with-testicular-cancer-after-finding-the-company-liable-for-diseases-linked-to-c8.json)  [XML](/news/2016/12/21/a-federal-jury-orders-dupont-to-pay-2-million-to-a-man-with-testicular-cancer-after-finding-the-company-liable-for-diseases-linked-to-c8.xml)  
+
 ### [2016-12-21](/news/2016/12/21/index.md)
 
 #  A federal jury orders DuPont to pay $2 million to a man with testicular cancer after finding the company liable for diseases linked to C8, a Teflon-making chemical. 
@@ -5,11 +8,11 @@
 The verdict is the third time DuPont has been found liable for diseases linked to Teflon chemical exposure.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2016/12/21/dupont-ordered-to-pay-2-million-after-jurors-found-actual-malice-in-suit-over-chemical-linked-to-cancer.html)
-2. [Reuters](http://www.reuters.com/article/us-du-pont-verdict-idUSKBN14A24Z?il=0)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166314598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK18F)
+1. [CNBC](https://www.cnbc.com/2016/12/21/dupont-ordered-to-pay-2-million-after-jurors-found-actual-malice-in-suit-over-chemical-linked-to-cancer.html)
+2. [Reuters](https://www.reuters.com/article/us-du-pont-verdict-idUSKBN14A24Z?il=0)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161221&t=2&i=1166314598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBK18F)
 
 ### Related:
 

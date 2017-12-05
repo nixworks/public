@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.html)  [JSON](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.json)  [XML](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.xml)  
+
 ### [2016-12-25](/news/2016/12/25/index.md)
 
 # Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. 
@@ -5,7 +8,7 @@
 Pakistan has released 220 Indian fishermen detained for crossing into its territorial waters. Ties between the two countries have been tense over the Kashmir conflict. Activists say India should reciprocate the gesture.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/pakistan-frees-indian-fishermen-as-goodwill-gesture/a-36907084)
 1. [Cover Image](http://www.dw.com/image/18145752_304.jpg)

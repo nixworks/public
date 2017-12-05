@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.html)  [JSON](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.json)  [XML](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.xml)  
+
 ### [2016-12-27](/news/2016/12/27/index.md)
 
 # Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-cuba-castro-idUKKBN14G1N3?il=0)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20161228&t=2&i=1166879291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECBR00M)

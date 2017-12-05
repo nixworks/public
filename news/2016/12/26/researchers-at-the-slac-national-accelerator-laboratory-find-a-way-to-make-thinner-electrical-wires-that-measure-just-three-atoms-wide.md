@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/26/researchers-at-the-slac-national-accelerator-laboratory-find-a-way-to-make-thinner-electrical-wires-that-measure-just-three-atoms-wide.html)  [JSON](/news/2016/12/26/researchers-at-the-slac-national-accelerator-laboratory-find-a-way-to-make-thinner-electrical-wires-that-measure-just-three-atoms-wide.json)  [XML](/news/2016/12/26/researchers-at-the-slac-national-accelerator-laboratory-find-a-way-to-make-thinner-electrical-wires-that-measure-just-three-atoms-wide.xml)  
+
 ### [2016-12-26](/news/2016/12/26/index.md)
 
 # Researchers at the SLAC National Accelerator Laboratory find a way to make thinner electrical wires that measure just three atoms wide. 
@@ -5,7 +8,7 @@
 SLAC National Accelerator Laboratory is a U.S. Department of Energy (DOE) Office of Science laboratory operated by Stanford University.
 
 
-### Source:
+### Sources:
 
 1. [Phys.org](http://phys.org/news/2016-12-world-smallest-diamonds-wires-atoms.html)
 2. [SLAC](https://www6.slac.stanford.edu/news/2016-12-26-researchers-use-worlds-smallest-diamonds-make-wires-three-atoms-wide.aspx)

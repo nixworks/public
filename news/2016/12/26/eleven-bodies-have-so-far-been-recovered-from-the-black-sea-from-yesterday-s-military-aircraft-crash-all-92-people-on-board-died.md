@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.html)  [JSON](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.json)  [XML](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.xml)  
+
 ### [2016-12-26](/news/2016/12/26/index.md)
 
 # Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/12/26/europe/russian-military-jet-crash/index.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.html)  [JSON](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.json)  [XML](/news/2016/12/29/the-academic-phil-scraton-refuses-an-obe-granted-to-him-by-elizabeth-ii-in-her-2017-new-year-honours-list-for-his-work-on-the-hillsborough-d.xml)  
+
 ### [2016-12-29](/news/2016/12/29/index.md)
 
 # The academic Phil Scraton refuses an OBE granted to him by Elizabeth II in her 2017 New Year Honours list for his work on the Hillsborough disaster. Professor Scraton wrote "Hillsborough: The Truth", first published in 1990 and seen as the definitive account of the disaster. 
@@ -5,7 +8,7 @@
 Academic refuses honour in protest against ‘those who remained unresponsive’ to efforts for justice after the tragedy
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-england-merseyside-38457928)
 2. [The Guardian](https://www.theguardian.com/football/2016/dec/29/hillsborough-prof-phil-scraton-turns-down-obe)

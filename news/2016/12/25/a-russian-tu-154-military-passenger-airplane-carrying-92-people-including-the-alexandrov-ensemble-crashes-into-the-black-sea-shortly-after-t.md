@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.html)  [JSON](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.json)  [XML](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.xml)  
+
 ### [2016-12-25](/news/2016/12/25/index.md)
 
 # A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. 
@@ -5,7 +8,7 @@
 A Russian military plane crashed on Sunday in the Black Sea as it made its way to Syria with 92 people onboard, including musicians heading to celebrate the New Year with troops.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/12/russian-military-plane-disappears-radar-161225045201828.html)
 2. [FOX News](http://www.foxnews.com/world/2016/12/25/russian-plane-crashes-into-black-sea.html)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.html)  [JSON](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.json)  [XML](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.xml)  
+
 ### [2016-12-21](/news/2016/12/21/index.md)
 
 # Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-gambia-politics-court-idUSKBN14A1T0?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-gambia-politics-court-idUSKBN14A1T0?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of.md) _2017-08-25 03:47:05 (First version)_
+2. [Gambian presidential election, 2016: Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambian-presidential-election-2016-gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-f.md) _2017-08-27 03:47:29 (Update)_
+2. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md) _Context: Gambian presidential election, 2016, President, Yahya Jammeh_
 4. [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md) _Context: Gambian presidential election, 2016, President, Yahya Jammeh_
 5. [Voters in the Gambia go to the polls for an election, the country's first legislative election since longtime President Yahya Jammeh resigned and left the country. ](/news/2017/04/6/voters-in-the-gambia-go-to-the-polls-for-an-election-the-country-s-first-legislative-election-since-longtime-president-yahya-jammeh-resigne.md) _Context: President, Yahya Jammeh_
-
-### Changes:
-
-1. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of.md) _2017-08-25 03:47:05 (First version)_
-2. [Gambian presidential election, 2016: Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambian-presidential-election-2016-gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-f.md) _2017-08-27 03:47:29 (Update)_
-2. [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md) _(Current version)_

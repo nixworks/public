@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/29/index.html)  [JSON](2016/12/29/index.json)  [XML](2016/12/29/index.xml)  
+
 ## [2016-12-29](/news/2016/12/29/index.md)
 
 ### [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md)

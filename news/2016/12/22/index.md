@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/22/index.html)  [JSON](2016/12/22/index.json)  [XML](2016/12/22/index.xml)  
+
 ## [2016-12-22](/news/2016/12/22/index.md)
 
 ### [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md)

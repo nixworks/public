@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/27/the-philippine-coast-guard-looks-for-18-missing-sailors-from-a-ship-sunk-by-typhoon-nock-ten-nina-at-least-seven-people-are-confirmed-to.html)  [JSON](/news/2016/12/27/the-philippine-coast-guard-looks-for-18-missing-sailors-from-a-ship-sunk-by-typhoon-nock-ten-nina-at-least-seven-people-are-confirmed-to.json)  [XML](/news/2016/12/27/the-philippine-coast-guard-looks-for-18-missing-sailors-from-a-ship-sunk-by-typhoon-nock-ten-nina-at-least-seven-people-are-confirmed-to.xml)  
+
 ### [2016-12-27](/news/2016/12/27/index.md)
 
 # The Philippine Coast Guard looks for 18 missing sailors from a ship sunk by Typhoon Nock-ten (Nina). At least seven people are confirmed to have died in the storm. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-4067710/Philippines-searches-18-crewmen-ship-sunk-typhoon.html)
 

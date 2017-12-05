@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.html)  [JSON](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.json)  [XML](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.xml)  
+
 ### [2016-12-25](/news/2016/12/25/index.md)
 
 # A producer of Al Jazeera is arrested in Egypt. 
@@ -5,10 +8,10 @@
 Egypt confirmed on Sunday that it had arrested an Al Jazeera news producer, accusing him of &quot;provoking sedition&quot; on behalf of the Qatar-based broadcaster that it considers a mouthpiece of the banned Muslim Brotherhood.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-egypt-qatar-jazeera-idUSKBN14E0BR)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-egypt-qatar-jazeera-idUSKBN14E0BR)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

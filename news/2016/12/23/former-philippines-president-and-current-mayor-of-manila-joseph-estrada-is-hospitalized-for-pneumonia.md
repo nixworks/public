@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.html)  [JSON](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.json)  [XML](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.xml)  
+
 ### [2016-12-23](/news/2016/12/23/index.md)
 
 # Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/156385-erap-estrada-hospitalized)
 1. [Cover Image](https://assets.rappler.com/397D79B0F22A42E6999126032503804D/img/D9198DE2B78D47ABB8138AE9D040CB4C/erap-estrada-disqualification-case-sc-20150121-002.jpg)

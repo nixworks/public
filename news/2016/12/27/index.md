@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/27/index.html)  [JSON](2016/12/27/index.json)  [XML](2016/12/27/index.xml)  
+
 ## [2016-12-27](/news/2016/12/27/index.md)
 
 ### [Government forces push to capture a Houthi enclave in Bayhan District, on the border between Shabwa and Marib provinces, resulting at least 28 Houthi militants and 12 Yemeni soldiers killed. ](/news/2016/12/27/government-forces-push-to-capture-a-houthi-enclave-in-bayhan-district-on-the-border-between-shabwa-and-marib-provinces-resulting-at-least.md)
@@ -13,7 +16,7 @@ Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval f
 _Context: 2016 Pacific typhoon season, Philippine Coast Guard, Typhoon Nock-ten (2016)_
 
 ### [ At least 27 people are killed after drinking toxic alcohol in Pakistan. ](/news/2016/12/27/at-least-27-people-are-killed-after-drinking-toxic-alcohol-in-pakistan.md)
-At least 32 people, mostly Christians, died after consuming homemade liquor in a Pakistani town on Christmas, law enforcement said.
+Dozens more were sickened during holiday celebrations in Punjab Province, officials said. The police suspect they were drinking cheap homemade liquor.
 
 ### [ Israel's Foreign Ministry announces that it is "reducing" ties with some of the UN Security Council countries that voted to pass United Nations Security Council Resolution 2334. ](/news/2016/12/27/israel-s-foreign-ministry-announces-that-it-is-reducing-ties-with-some-of-the-un-security-council-countries-that-voted-to-pass-united-nat.md)
 Israel curbed relations with countries that voted in favor of a recent U.N. Security Council resolution condemning the country&#x27;s West Bank settlements.
@@ -29,9 +32,6 @@ Former Argentine President Cristina Fernandez was indicted on Tuesday on charges
 
 ### [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md)
 _Context: Cuba, Fidel Castro, National Assembly of People's Power, President, died_
-
-### [The journal the Proceedings of the National Academy of Sciences publishes research from the Zoological Society of London that the cheetah population approaches extinction with only 7,100 individuals left alive in the wild as a result of a sudden crash in population. [http:--www.bbc.com-news-science-environment-38415906 (BBC)], [http:--www.pnas.org-content-early-2016-12-20-1611122114.abstract "(The Proceeding of the National Academy of Science)"]](/news/2016/12/27/the-journal-the-proceedings-of-the-national-academy-of-sciences-publishes-research-from-the-zoological-society-of-london-that-the-cheetah-po.md)
-_Context: Proceedings of the National Academy of Sciences, Zoological Society of London, cheetah, extinction_
 
 ## [Previous Day...](/news/2016/12/26/index.md)
 

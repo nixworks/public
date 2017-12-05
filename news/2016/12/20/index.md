@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/20/index.html)  [JSON](2016/12/20/index.json)  [XML](2016/12/20/index.xml)  
+
 ## [2016-12-20](/news/2016/12/20/index.md)
 
 ### [Six people are arrested in Ankara for alleged involvement in the murder of Andrei Karlov, the Russian ambassador to Turkey. ](/news/2016/12/20/six-people-are-arrested-in-ankara-for-alleged-involvement-in-the-murder-of-andrei-karlov-the-russian-ambassador-to-turkey.md)
@@ -10,7 +13,7 @@ _Context: Aleppo, Aleppo offensive (November-December 2016), Hezbollah, Internat
 So-called Islamic State says one of its militants carried out the deadly Berlin lorry attack.
 
 ### [A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-controversial-drug-purge-c.md)
-_Context: Catanduanes, Philippine Drug War, Philippines_
+_Context: Catanduanes, Philippines, drug crackdown_
 
 ### [Four police officers and one suspect have been killed following a raid on an apartment near Al-Karak in Jordan. Two more suspects have been arrested under suspicions of connections with Sunday's attack in the city by the Islamic State. ](/news/2016/12/20/four-police-officers-and-one-suspect-have-been-killed-following-a-raid-on-an-apartment-near-al-karak-in-jordan-two-more-suspects-have-been.md)
 One suspect among five dead after raid on apartment in Jordanian province which saw a deadly castle assault on Sunday.
@@ -19,7 +22,7 @@ One suspect among five dead after raid on apartment in Jordanian province which 
 _Context: December 2016 Congolese protests, Democratic Republic of the Congo, Joseph Kabila, President_
 
 ### [Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. ](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.md)
-_Context: Joan Baez, Pearl Jam, Rock and Roll Hall of Fame, Tupac Shakur_
+The Class of 2017 also includes Journey, Electric Light Orchestra and Yes, and a special honor goes to Chic’s Nile Rodgers.
 
 ### [An explosion at a fireworks market in the city of Tultepec near Mexico City, kills at least 29 people and injures at least 70 others. Pyrotechnics is a major industry in Tultepec. ](/news/2016/12/20/an-explosion-at-a-fireworks-market-in-the-city-of-tultepec-near-mexico-city-kills-at-least-29-people-and-injures-at-least-70-others-pyrote.md)
 Images broadcast by Milenio showed smoke rising from the scorched ground and fireworks stands. Emergency crews were attending to victims and hosing down hotspots.

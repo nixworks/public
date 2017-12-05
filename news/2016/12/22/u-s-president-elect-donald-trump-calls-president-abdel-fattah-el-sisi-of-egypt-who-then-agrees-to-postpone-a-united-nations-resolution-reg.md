@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.html)  [JSON](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.json)  [XML](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.xml)  
+
 ### [2016-12-22](/news/2016/12/22/index.md)
 
 # U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. 
@@ -5,7 +8,7 @@
 Egypt confirms Security Council resolution against Israeli settlement activity was withdrawn after Trump called Sisi.
 
 
-### Source:
+### Sources:
 
 1. [al-Jazeera](http://www.aljazeera.com/news/2016/12/egypt-trump-sisi-resolution-israel-settlements-161223064418355.html)
 

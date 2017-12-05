@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.html)  [JSON](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.json)  [XML](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.xml)  
+
 ### [2016-12-22](/news/2016/12/22/index.md)
 
 # U.S. president Barack Obama scraps the National Security Entry-Exit Registration System (NSEERS), a registration system for Muslim immigrants. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/politics/obama-dumps-registry-for-some-immigrant-men-mostly-muslims/2016/12/22/e1f0e0c0-c858-11e6-acda-59924caa2450_story.html)
 
