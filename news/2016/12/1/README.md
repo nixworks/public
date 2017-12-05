@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/1/index.html)  [JSON](2016/12/1/index.json)  [XML](2016/12/1/index.xml)  
+
 ## [2016-12-1](/news/2016/12/1/index.md)
 
 ### [A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. ](/news/2016/12/1/a-united-nations-human-rights-commission-in-south-sudan-claims-a-steady-process-of-ethnic-cleansing-is-underway-in-the-war-torn-nation.md)
@@ -40,7 +43,7 @@ _Context: 2016 United States presidential election recounts, Jill Stein, Wiscons
 Surprise move not to stand for a second term in upcoming presidential election throws selection of a Socialist candidate wide open
 
 ### [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md)
-WASHINGTON – President-elect Donald Trump has selected James Mattis, a legendary, tough-talking retired Marine Corps general who favors a robust military and criticized the Obama administration&#39;s approach to war, to lead the Defense Department, accor
+_Context: Defense Secretary, Donald Trump, James Mattis, Presidential transition of Donald Trump, U.S. Marine_
 
 ### [Roscosmos cargo spacecraft Progress MS-04 fails to dock with the International Space Station after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. ](/news/2016/12/1/roscosmos-cargo-spacecraft-progress-ms-04-fails-to-dock-with-the-international-space-station-after-experiencing-a-rocket-failure-the-spacec.md)
 Russia’s space agency has confirmed that an unmanned cargo ship launched on Thursday to take supplies to the International Space Station has been lost.

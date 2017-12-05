@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/yoga-rumba-and-nowruz-are-classified-as-treasures-by-unesco.html)  [JSON](/news/2016/12/1/yoga-rumba-and-nowruz-are-classified-as-treasures-by-unesco.json)  [XML](/news/2016/12/1/yoga-rumba-and-nowruz-are-classified-as-treasures-by-unesco.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Yoga, rumba and Nowruz are classified as 'treasures' by UNESCO. 
@@ -5,7 +8,7 @@
 What are the unique traditions and social practices that Unesco wants to preserve?
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-38170872)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/112AF/production/_92791307_gettyimages-495410922-1.jpg)

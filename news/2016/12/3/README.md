@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/3/index.html)  [JSON](2016/12/3/index.json)  [XML](2016/12/3/index.xml)  
+
 ## [2016-12-3](/news/2016/12/3/index.md)
 
 ### [ Seven insurgents are killed in clashes northern Somalia. ](/news/2016/12/3/seven-insurgents-are-killed-in-clashes-northern-somalia.md)
@@ -28,7 +31,7 @@ _Context: China, China-United States relations, Donald Trump, One-China policy, 
 _Context: 2012 Pakistan garment factory fires, Bangkok, Karachi_
 
 ### [German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in-freiburg-while-a-similar-case.md)
-_Context: Afghanistan, Freiburg, Murder of Maria Ladenburger_
+_Context: Afghan, Freiburg, Murder of Maria Ladenburger_
 
 ### [Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. ](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.md)
 _Context: 2016 United States presidential election recounts, Commonwealth Court of Pennsylvania, Green Party of the United States, Jill Stein, Pennsylvania_

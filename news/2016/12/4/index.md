@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/4/index.html)  [JSON](2016/12/4/index.json)  [XML](2016/12/4/index.xml)  
+
 ## [2016-12-4](/news/2016/12/4/index.md)
 
 ### [The Russian Federal Security Service claims to have killed Rustam Asildarov, the leader of the Islamic State of Iraq and the Levant's Caucasus Province and four other militants in the Dagestan region. ](/news/2016/12/4/the-russian-federal-security-service-claims-to-have-killed-rustam-asildarov-the-leader-of-the-islamic-state-of-iraq-and-the-levant-s-caucas.md)

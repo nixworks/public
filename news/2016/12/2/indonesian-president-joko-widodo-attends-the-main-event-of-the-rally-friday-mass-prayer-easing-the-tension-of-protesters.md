@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.html)  [JSON](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.json)  [XML](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # Indonesian president Joko Widodo attends the main event of the rally, Friday mass prayer, easing the tension of protesters. 
@@ -5,7 +8,7 @@
 People&rsquo;s Consultative Assembly (MPR) speaker Zulkifli Hasan said the presence of President Joko &ldquo;Jokowi&rdquo; Widodo resulted in a mass prayer held by Islamic organizations at the National Monument (Monas) in Central Jakarta on Friday becoming cooler.
 
 
-### Source:
+### Sources:
 
 1. [The Jakarta Post](http://www.thejakartapost.com/news/2016/12/02/mass-prayer-becomes-cooler-with-jokowis-presence-mpr.html)
 1. [Cover Image](http://img.jakpost.net/c/2016/12/02/2016_12_02_17017_1480647675._large.jpg)

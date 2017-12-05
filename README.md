@@ -12,7 +12,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 ### [French President Emmanuel Macron has told Donald Trump he is "concerned" the US leader could unilaterally recognize Jerusalem as Israel's capital. ](/news/2017/12/5/french-president-emmanuel-macron-has-told-donald-trump-he-is-concerned-the-us-leader-could-unilaterally-recognize-jerusalem-as-israel-s-ca.md)
 _Context: Donald Trump, Emmanuel Macron, Jerusalem, Positions on Jerusalem_
 
-### [As police arrive at Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest. Police then take him away while hundreds of people are on the street. A source in the judiciary says a notice of suspicion is being prepared. ](/news/2017/12/5/as-police-arrive-at-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-police-then-take-him-away.md)
+### [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. A source in law enforcement says a notice of suspicion is being prepared. ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-police-then.md)
 Crowds of supporters demonstrate as anti-corruption campaigner is taken away by police from his home in Kiev
 
 ---

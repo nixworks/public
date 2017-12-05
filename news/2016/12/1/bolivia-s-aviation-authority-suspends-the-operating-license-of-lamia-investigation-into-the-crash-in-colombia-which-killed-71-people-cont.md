@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.html)  [JSON](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.json)  [XML](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. 
@@ -5,10 +8,15 @@
 Bolivia suspends the operating licence of LaMia, the airline whose plane crashed in Colombia killing 71 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38173708)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CF97/production/_92734135_mediaitem92734134.jpg)
+
+### Changes:
+
+1. [LaMia Flight 2933: Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/lamia-flight-2933-bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-kil.md) _2017-08-27 03:47:21 (First version)_
+1. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Bolivia suspends the operating licence of LaMia, the airline whose plane crashed
 3. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Bolivia_
 4. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
 5. [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md) _Context: Colombia_
-
-### Changes:
-
-1. [LaMia Flight 2933: Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/lamia-flight-2933-bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-kil.md) _2017-08-27 03:47:21 (First version)_
-1. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _(Current version)_

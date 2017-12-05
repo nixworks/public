@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/despite-criticism-by-un-special-envoy-for-yemen-42-cabinet-members-of-the-national-salvation-government-in-yemen-have-taken-oath-and-conven.html)  [JSON](/news/2016/12/1/despite-criticism-by-un-special-envoy-for-yemen-42-cabinet-members-of-the-national-salvation-government-in-yemen-have-taken-oath-and-conven.json)  [XML](/news/2016/12/1/despite-criticism-by-un-special-envoy-for-yemen-42-cabinet-members-of-the-national-salvation-government-in-yemen-have-taken-oath-and-conven.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Despite criticism by UN Special Envoy for Yemen, 42 cabinet members of the National Salvation Government in Yemen have taken oath and convened its first meeting. The new government, led by the former governor of Aden Abdel-Aziz bin Habtour, vowed to help UN efforts for peace and stability in the country.
@@ -5,7 +8,7 @@
 The leader of Yemen’s Houthi Ansarullah movement says the newly-formed National Salvation Government is aimed at boosting efforts to run the country’s domestic affairs and better serve the nation, saying everyone must work to pave the way for an eventual popular victory. Abdul-Malik al-Houthi made the remarks on Tuesday on the occasion of the 49th anniversary of South Yemen’s independence from Britain in the 1960s. “The formation of the National Salvation Government is of great importance as it will consolidate positions inside the country and efforts to provide service to the people,” he said, according to Yemen’s al-Masirah television. “Everyone should make efforts so the Yemeni people emerge victorious in the end.” Houthi also urged the public to hold rallies in support of the new administration and ignore efforts made by certain parties to create division among the nation’s ranks. Earlier on Tuesday, the new Yemeni government was sworn in after the Houthi Ansarullah movement and
 
 
-### Source:
+### Sources:
 
 1. [Al Manar tv](http://english.almanar.com.lb/117643)
 2. [Muslim Times](http://muslimtimes.co/2016/11/30/new-government-aimed-at-better-serving-yemenis-houthi-leader/)

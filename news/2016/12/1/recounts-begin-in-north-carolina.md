@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/recounts-begin-in-north-carolina.html)  [JSON](/news/2016/12/1/recounts-begin-in-north-carolina.json)  [XML](/news/2016/12/1/recounts-begin-in-north-carolina.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Recounts begin in North Carolina. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/12/01/politics/north-carolina-governor-recount/)
 

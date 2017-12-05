@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/the-russian-central-bank-says-hackers-who-were-attempting-to-steal-about-5-billion-rubles-did-take-more-than-2-billion-31-million-this.html)  [JSON](/news/2016/12/2/the-russian-central-bank-says-hackers-who-were-attempting-to-steal-about-5-billion-rubles-did-take-more-than-2-billion-31-million-this.json)  [XML](/news/2016/12/2/the-russian-central-bank-says-hackers-who-were-attempting-to-steal-about-5-billion-rubles-did-take-more-than-2-billion-31-million-this.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # The Russian Central Bank says hackers, who were attempting to steal about 5 billion rubles, did take more than 2 billion ($31 million) this year from member bank accounts. 
@@ -5,11 +8,11 @@
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2016/12/02/technology/russia-central-bank-hack/index.html)
-2. [Reuters](http://www.reuters.com/article/us-russia-cenbank-cyberattack-idUSKBN13R1TO)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163970127&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB11CI)
+2. [Reuters](https://www.reuters.com/article/us-russia-cenbank-cyberattack-idUSKBN13R1TO)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163970127&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB11CI)
 
 ### Related:
 

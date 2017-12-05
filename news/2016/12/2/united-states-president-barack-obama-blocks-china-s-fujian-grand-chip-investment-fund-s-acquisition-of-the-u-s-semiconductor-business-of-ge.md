@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.html)  [JSON](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.json)  [XML](/news/2016/12/2/united-states-president-barack-obama-blocks-china-s-fujian-grand-chip-investment-fund-s-acquisition-of-the-u-s-semiconductor-business-of-ge.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # United States President Barack Obama blocks China's Fujian Grand Chip Investment Fund's acquisition of the U.S. semiconductor business of German-based Aixtron because of national security concerns. The German Economy Ministry withdrew its approval in October. 
@@ -5,11 +8,11 @@
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2016-12-02/obama-blocks-chinese-takeover-of-aixtron-as-u-s-security-risk)
-2. [Reuters](http://www.reuters.com/article/us-russia-cenbank-cyberattack-idUSKBN13R1TO)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163970127&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB11CI)
+2. [Reuters](https://www.reuters.com/article/us-russia-cenbank-cyberattack-idUSKBN13R1TO)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161202&t=2&i=1163970127&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECB11CI)
 
 ### Related:
 

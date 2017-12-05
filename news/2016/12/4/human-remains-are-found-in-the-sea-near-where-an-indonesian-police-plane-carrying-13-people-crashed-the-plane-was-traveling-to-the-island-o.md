@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/4/human-remains-are-found-in-the-sea-near-where-an-indonesian-police-plane-carrying-13-people-crashed-the-plane-was-traveling-to-the-island-o.html)  [JSON](/news/2016/12/4/human-remains-are-found-in-the-sea-near-where-an-indonesian-police-plane-carrying-13-people-crashed-the-plane-was-traveling-to-the-island-o.json)  [XML](/news/2016/12/4/human-remains-are-found-in-the-sea-near-where-an-indonesian-police-plane-carrying-13-people-crashed-the-plane-was-traveling-to-the-island-o.xml)  
+
 ### [2016-12-4](/news/2016/12/4/index.md)
 
 # Human remains are found in the sea near where an Indonesian police plane carrying 13 people crashed. The plane was traveling to the island of Batam. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3996608/Indonesian-police-plane-missing-13-board.html)
 

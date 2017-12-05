@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.html)  [JSON](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.json)  [XML](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. 
@@ -5,7 +8,7 @@
 The bloc suspends Venezuela for failing to meet basic trade and human rights rules.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38181198)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/3908/production/_92800641_gettyimages-586144646.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/the-international-union-of-pure-and-applied-chemistry-announces-official-names-for-recently-discovered-superheavy-elements-nihonium-113-m.html)  [JSON](/news/2016/12/2/the-international-union-of-pure-and-applied-chemistry-announces-official-names-for-recently-discovered-superheavy-elements-nihonium-113-m.json)  [XML](/news/2016/12/2/the-international-union-of-pure-and-applied-chemistry-announces-official-names-for-recently-discovered-superheavy-elements-nihonium-113-m.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # The International Union of Pure and Applied Chemistry announces official names for recently-discovered superheavy elements Nihonium (113), Moscovium (115), Tennessine (117), and Oganesson (118). 
@@ -5,7 +8,7 @@
 The periodic table just got some new members, as the International Union of Pure and Applied Chemistry has officially accepted new names for four elements. Element numbers 113, 115, 117 and 118 wil…
 
 
-### Source:
+### Sources:
 
 1. [BGR](http://bgr.com/2016/12/02/new-elements-discovered-periodic-names/)
 2. [Live Science](http://www.livescience.com/57050-4-new-superheavy-elements-names-approved.html)

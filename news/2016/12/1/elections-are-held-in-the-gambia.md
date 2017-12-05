@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/elections-are-held-in-the-gambia.html)  [JSON](/news/2016/12/1/elections-are-held-in-the-gambia.json)  [XML](/news/2016/12/1/elections-are-held-in-the-gambia.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Elections are held in The Gambia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2016/11/gambia-president-warns-election-protest-161130163024674.html)
 

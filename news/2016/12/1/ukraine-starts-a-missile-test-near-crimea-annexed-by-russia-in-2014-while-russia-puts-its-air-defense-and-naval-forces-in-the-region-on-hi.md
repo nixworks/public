@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.html)  [JSON](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.json)  [XML](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-missiles-idUSKBN13P2TD)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161201&t=2&i=1163760703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAT1OB)
+1. [Reuters](https://www.reuters.com/article/us-ukraine-crisis-missiles-idUSKBN13P2TD)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161201&t=2&i=1163760703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECAT1OB)
 
 ### Related:
 

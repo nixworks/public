@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/3/at-least-three-first-responders-are-injured-battling-a-10-alarm-fire-that-s-spread-to-seven-buildings-in-cambridge-massachusetts-us.html)  [JSON](/news/2016/12/3/at-least-three-first-responders-are-injured-battling-a-10-alarm-fire-that-s-spread-to-seven-buildings-in-cambridge-massachusetts-us.json)  [XML](/news/2016/12/3/at-least-three-first-responders-are-injured-battling-a-10-alarm-fire-that-s-spread-to-seven-buildings-in-cambridge-massachusetts-us.xml)  
+
 ### [2016-12-3](/news/2016/12/3/index.md)
 
 # At least three first responders are injured battling a 10-alarm fire that's spread to seven buildings in Cambridge, Massachusetts (US). 
@@ -5,7 +8,7 @@
 Cambridge police spokesman Jeremy Warnick says there have been some injuries reported, but none of them are serious
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/firefighters-battle-10-alarm-blaze-cambridge-massachusetts/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2016/12/03/101e5c0b-c3aa-4f86-9da5-d3afaea8ce55/cambridge-10-alarm-fire-2016-12-3.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/12/2/index.html)  [JSON](2016/12/2/index.json)  [XML](2016/12/2/index.xml)  
+
 ## [2016-12-2](/news/2016/12/2/index.md)
 
 ### [ A military operation leaves three Turkish soldiers dead and another three wounded in Hakkari Province, Turkey. ](/news/2016/12/2/a-military-operation-leaves-three-turkish-soldiers-dead-and-another-three-wounded-in-hakkac-ri-province-turkey.md)
@@ -28,7 +31,7 @@ _Context: China, Heilongjiang, Qitaihe_
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.
 
 ### [United States President-elect Donald Trump holds a telephone conversation with Taiwanese President Tsai Ing-wen, the first known contact between a U.S. president or president-elect with a Taiwanese leader since the United States recognized the People's Republic of China in 1979. ](/news/2016/12/2/united-states-president-elect-donald-trump-holds-a-telephone-conversation-with-taiwanese-president-tsai-ing-wen-the-first-known-contact-bet.md)
-China lodged a diplomatic protest on Saturday after U.S. President-elect Donald Trump spoke by phone with President Tsai Ing-wen of Taiwan, but blamed the self-ruled island Beijing claims as its own for the &quot;petty&quot; move.
+The president-elect spoke by phone with the president of Taiwan in the first such contact since the United States severed diplomatic relations with the island.
 
 ### [Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. ](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-american-trading-bloc-for-failing-to-meet-membership-requirements-on-trade-and-human-rights.md)
 The bloc suspends Venezuela for failing to meet basic trade and human rights rules.

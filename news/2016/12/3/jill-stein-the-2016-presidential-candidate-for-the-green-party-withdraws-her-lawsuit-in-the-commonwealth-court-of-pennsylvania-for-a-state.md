@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.html)  [JSON](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.json)  [XML](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.xml)  
+
 ### [2016-12-3](/news/2016/12/3/index.md)
 
 # Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2016/12/03/504285672/jill-stein-campaign-drops-her-recount-effort-in-pennsylvania)
 1. [Cover Image](https://media.npr.org/assets/img/2016/12/03/gettyimages-594382996_wide-50d30b7bcc745b46fcebca09cb7373a2cb15116b.jpg?s=1400)

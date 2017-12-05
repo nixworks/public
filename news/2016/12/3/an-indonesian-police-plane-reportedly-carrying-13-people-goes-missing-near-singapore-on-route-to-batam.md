@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.html)  [JSON](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.json)  [XML](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.xml)  
+
 ### [2016-12-3](/news/2016/12/3/index.md)
 
 # An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. 
@@ -5,7 +8,7 @@
 Indonesian authorities say a police airplane with 13 people on board has lost contact during a flight to the island of Batam near Singapore.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/12/03/police-plane-with-13-on-board-missing-in-indonesia.html)
 2. [Koran Tempo](http://en.tempo.co/read/news/2016/12/04/055825261/SAR-Team-Sets-Up-6-Posts-for-the-Crashed-Police-Plane-Search)

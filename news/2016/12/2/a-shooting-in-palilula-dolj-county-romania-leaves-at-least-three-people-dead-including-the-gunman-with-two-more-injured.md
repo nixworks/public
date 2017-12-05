@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/a-shooting-in-palilula-dolj-county-romania-leaves-at-least-three-people-dead-including-the-gunman-with-two-more-injured.html)  [JSON](/news/2016/12/2/a-shooting-in-palilula-dolj-county-romania-leaves-at-least-three-people-dead-including-the-gunman-with-two-more-injured.json)  [XML](/news/2016/12/2/a-shooting-in-palilula-dolj-county-romania-leaves-at-least-three-people-dead-including-the-gunman-with-two-more-injured.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # A shooting in Palilula, Dolj County, Romania, leaves at least three people dead, including the gunman, with two more injured. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Digi 24](http://www.digi24.ro/stiri/actualitate/evenimente/impuscaturi-la-palilula-o-persoana-a-murit-624439)
 2. [Realitatea.net](https://www.realitatea.net/impu-caturi-in-plina-strada-in-dolj-o-persoana-a-murit-iar-alte-doua-sunt-grav-ranite_2009089.html)

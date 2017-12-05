@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/1/six-members-of-one-family-including-three-children-are-found-dead-in-bapheimkirchen-austria-police-suspect-a-murder-suicide-by-one-of-th.html)  [JSON](/news/2016/12/1/six-members-of-one-family-including-three-children-are-found-dead-in-bapheimkirchen-austria-police-suspect-a-murder-suicide-by-one-of-th.json)  [XML](/news/2016/12/1/six-members-of-one-family-including-three-children-are-found-dead-in-bapheimkirchen-austria-police-suspect-a-murder-suicide-by-one-of-th.xml)  
+
 ### [2016-12-1](/news/2016/12/1/index.md)
 
 # Six members of one family, including three children, are found dead in Boheimkirchen, Austria. Police suspect a murder-suicide by one of the female relatives. 
@@ -5,7 +8,7 @@
 Six bodies are found in a house west of Vienna after a suspected family shooting.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-38172365)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FBA3/production/_92791446_austriahousenewepa1dec.jpg)

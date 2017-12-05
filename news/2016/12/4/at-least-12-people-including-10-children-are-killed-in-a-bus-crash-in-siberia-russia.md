@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/4/at-least-12-people-including-10-children-are-killed-in-a-bus-crash-in-siberia-russia.html)  [JSON](/news/2016/12/4/at-least-12-people-including-10-children-are-killed-in-a-bus-crash-in-siberia-russia.json)  [XML](/news/2016/12/4/at-least-12-people-including-10-children-are-killed-in-a-bus-crash-in-siberia-russia.xml)  
+
 ### [2016-12-4](/news/2016/12/4/index.md)
 
 # At least 12 people, including 10 children, are killed in a bus crash in Siberia, Russia. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [RFERL](http://www.rferl.org/a/russia-siberia-crash-bus-acrobics-team-children/28156580.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.html)  [JSON](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.json)  [XML](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.xml)  
+
 ### [2016-12-2](/news/2016/12/2/index.md)
 
 # At least 18 people die and two more are injured in a bus accident in Hubei, China. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News Agency](http://news.xinhuanet.com/english/2016-12/02/c_135876961.htm)
 
