@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/18/in-melbourne-australia-a-homeless-asylum-seeker-battling-mental-issues-from-myanmar-s-persecuted-rohingya-community-set-himself-on-fire-in.html)  [JSON](/news/2016/11/18/in-melbourne-australia-a-homeless-asylum-seeker-battling-mental-issues-from-myanmar-s-persecuted-rohingya-community-set-himself-on-fire-in.json)  [XML](/news/2016/11/18/in-melbourne-australia-a-homeless-asylum-seeker-battling-mental-issues-from-myanmar-s-persecuted-rohingya-community-set-himself-on-fire-in.xml)  
+
 ### [2016-11-18](/news/2016/11/18/index.md)
 
 # In Melbourne Australia, a homeless asylum seeker battling mental issues from Myanmar's persecuted Rohingya community set himself on fire in an arson attack that injured 26 people. Victoria's Premier Daniel Andrews there was no suggestion the suspect had terrorist motives.
@@ -5,7 +8,7 @@
 Victoria&#039;s Premier Daniel Andrews says an arson attack in which a man set himself on fire and injured 26 people in a Melbourne bank was not an act of terror and shouldn&#039;t be used as a &quot;political weapon&quot;.
 
 
-### Source:
+### Sources:
 
 1. [Austalia AP](http://www.news.com.au/national/breaking-news/vic-bank-blaze-not-act-of-terror-andrews/news-story/4f8a6e2a7f9e31babc1d52a5d130f4a8)
 1. [Cover Image](https://secure.gravatar.com/blavatar/99ae28ba58e6719abd9d8575bdc18a54?s=200&amp;ts=1491153656)

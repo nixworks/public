@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/19/index.html)  [JSON](2016/11/19/index.json)  [XML](2016/11/19/index.xml)  
+
 ## [2016-11-19](/news/2016/11/19/index.md)
 
 ### [At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md)

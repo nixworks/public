@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/11/18/index.html)  [JSON](2016/11/18/index.json)  [XML](2016/11/18/index.xml)  
+
 ## [2016-11-18](/news/2016/11/18/index.md)
 
 ### [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
@@ -7,7 +10,7 @@ _Context: Abu Sayyaf, Moro conflict, Philippines, Sulu_
 Al Jazeera crew captures dramatic footage of attack as babies are rescued from incubators by panicked staff.
 
 ### [The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. ](/news/2016/11/18/the-world-health-organization-declares-an-end-to-its-global-health-crisis-over-the-spread-of-the-zika-virus-as-it-has-been-shown-to-be-a-dan.md)
-_Context: World Health Organization, Zika virus, Zika virus outbreak, malaria, mosquito-borne disease, yellow fever_
+The World Health Organization said it did not consider the crisis over for the mosquito-borne virus.
 
 ### [The U.S. Court of Appeals for the Seventh Circuit denies the release of Brendan Dassey, subject of the 2015 documentary series "Making a Murderer". ](/news/2016/11/18/the-u-s-court-of-appeals-for-the-seventh-circuit-denies-the-release-of-brendan-dassey-subject-of-the-2015-documentary-series-making-a-mur.md)
 _Context: Brendan Dassey, Making a Murderer, U.S. Court of Appeals for the Seventh Circuit_

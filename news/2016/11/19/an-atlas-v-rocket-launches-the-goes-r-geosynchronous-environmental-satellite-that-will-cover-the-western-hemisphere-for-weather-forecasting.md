@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.html)  [JSON](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.json)  [XML](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.xml)  
+
 ### [2016-11-19](/news/2016/11/19/index.md)
 
 # An Atlas V rocket launches the GOES-R geosynchronous environmental satellite that will cover the Western Hemisphere for weather forecasting. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Florida Today](http://www.floridatoday.com/)
 

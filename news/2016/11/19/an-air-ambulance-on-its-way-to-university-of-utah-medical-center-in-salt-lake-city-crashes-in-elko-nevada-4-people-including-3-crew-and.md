@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/11/19/an-air-ambulance-on-its-way-to-university-of-utah-medical-center-in-salt-lake-city-crashes-in-elko-nevada-4-people-including-3-crew-and.html)  [JSON](/news/2016/11/19/an-air-ambulance-on-its-way-to-university-of-utah-medical-center-in-salt-lake-city-crashes-in-elko-nevada-4-people-including-3-crew-and.json)  [XML](/news/2016/11/19/an-air-ambulance-on-its-way-to-university-of-utah-medical-center-in-salt-lake-city-crashes-in-elko-nevada-4-people-including-3-crew-and.xml)  
+
 ### [2016-11-19](/news/2016/11/19/index.md)
 
 #  An air ambulance on its way to University of Utah Medical Center in Salt Lake City crashes in Elko, Nevada. 4 people, including 3 crew and one patient are killed, and vehicles on the ground are damaged during the crash. 
@@ -5,7 +8,7 @@
 Three crew members and a patient were killed when the plane, carrying a heart-disease patient, crashed in a parking lot in Elko Friday night.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/4-killed-crash-air-ambulance-flight-northern-nevada-n686301)
 1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_46/1803026/ap_16324654219019_b661a59d30b1209ad6b7ef6a58bed6ac.nbcnews-fp-1200-800.jpg)
