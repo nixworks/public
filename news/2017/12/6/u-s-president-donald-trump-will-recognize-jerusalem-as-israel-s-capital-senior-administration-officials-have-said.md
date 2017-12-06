@@ -12,8 +12,10 @@ The announcement would change decades of US foreign policy and has alarmed many 
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/pope-francis-urges-status-quo-jerusalem-calls-wisdom-51608418)
 2. [BBC](http://www.bbc.com/news/world-middle-east-42246564)
-3. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/in-break-with-decades-of-u-s-policy-trump-to-recognize-jerusalem-as-israels-capital-idUSKBN1DZ04V)
-3. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05q724c.jpg)
+3. [Express UK](https://www.express.co.uk/news/world/888739/Donald-Trump-Jerusalem-Israel-capital-news-US-Manuel-Hassassian)
+4. [Reuters](https://www.reuters.com/article/us-usa-trump-israel-china/china-says-trump-plan-to-move-embassy-in-israel-could-spark-new-hostility-idUSKBN1E013T)
+5. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/in-break-with-decades-of-u-s-policy-trump-to-recognize-jerusalem-as-israels-capital-idUSKBN1DZ04V)
+5. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05q724c.jpg)
 
 ### Changes:
 
