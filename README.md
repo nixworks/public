@@ -12,8 +12,8 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 ### [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. This backs an Israel claim of controlling the entire city as its indivisible capital. The expected move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said-this-backs-an-israel-cl.md)
 The announcement would change decades of US foreign policy and has alarmed many Muslim countries.
 
-### [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a conference that the West snatches Muslim babies. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-conference-that-the-west-snatches-muslim-babies.md)
-_Context: Foreign relations of Turkey, Recep Tayyip Erdogan_
+### [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. For Erdogan, western modernization is an anti-islamic threat, reports HuffingtonPost.de. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-ak-parti-organized-conference-that-the-west-snatches-m.md)
+“#Turkey&#39;s president Erdogan now says the West snatches babies from Muslim families, accuses #Netherlands &amp; #Austria of committing massacre and murder. https://t.co/TMDpX93ph4”
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md)
 The court has increased the bail for the Russian senator from 5 mln to 40 mln euros
