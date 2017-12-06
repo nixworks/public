@@ -14,7 +14,7 @@ Crowds of supporters demonstrate as anti-corruption campaigner is taken away by 
 2. [Interfax Ukraine](http://en.interfax.com.ua/news/general/467179.html)
 3. [Reuters](https://www.reuters.com/article/us-ukraine-saakashvili/saakashvili-supporters-free-him-from-police-van-after-detention-in-kiev-idUSKBN1DZ0VU)
 4. [The Guardian](https://www.theguardian.com/world/2017/dec/05/former-georgian-president-mikheil-saakashvili-is-detained-in-ukraine)
-5. [US News Report](https://www.usnews.com/news/world/articles/2017-12-05/former-georgian-president-saakashvili-detained-in-kiev)
+5. [U.S. News & World Report](https://www.usnews.com/news/world/articles/2017-12-05/former-georgian-president-saakashvili-detained-in-kiev)
 5. [Cover Image](https://i.guim.co.uk/img/media/2624df30b3d9b93fca44a04eb9b2b100e12f67dd/0_63_3005_1803/master/3005.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=931d1090941cd0a7d11bd3d3281a7174)
 
 ### Changes:

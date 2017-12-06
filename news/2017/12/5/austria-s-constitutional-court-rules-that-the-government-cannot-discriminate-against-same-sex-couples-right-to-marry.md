@@ -10,7 +10,7 @@ Although civil partnership had been permitted since 2010, the country’s highes
 
 ### Sources:
 
-1. [New York Times](https://www.nytimes.com/2017/12/05/world/europe/austria-gay-marriage.html)
+1. [The New York Times](https://www.nytimes.com/2017/12/05/world/europe/austria-gay-marriage.html)
 1. [Cover Image](https://static01.nyt.com/images/2017/12/05/world/06austria/merlin_130907717_e880736a-cb7f-43bf-be69-673e3644db28-facebookJumbo.jpg)
 
 ### Related:
