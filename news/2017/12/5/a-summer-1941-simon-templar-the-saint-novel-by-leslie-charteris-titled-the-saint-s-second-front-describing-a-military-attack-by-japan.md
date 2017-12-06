@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/5/a-summer-1941-simon-templar-the-saint-novel-by-l
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
-# A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was thought lost all along. 
+# A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was presumed lost. 
 
 A LOST novel of the spy thriller The Saint which predicted the attack on Pearl Harbour but was scrapped for political reasons has been rediscovered. Written in summer 1941, the story by Leslie Char…
 

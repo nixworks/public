@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/5/index.md)
 
-### [A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was thought lost all along. ](/news/2017/12/5/a-summer-1941-simon-templar-the-saint-novel-by-leslie-charteris-titled-the-saint-s-second-front-describing-a-military-attack-by-japan.md)
+### [A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was presumed lost. ](/news/2017/12/5/a-summer-1941-simon-templar-the-saint-novel-by-leslie-charteris-titled-the-saint-s-second-front-describing-a-military-attack-by-japan.md)
 A LOST novel of the spy thriller The Saint which predicted the attack on Pearl Harbour but was scrapped for political reasons has been rediscovered. Written in summer 1941, the story by Leslie Char…
 
 ### [Eurofighter Typhoon offers Belgium a national "Cyberdefense Network"--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft. ](/news/2017/12/5/eurofighter-typhoon-offers-belgium-a-national-cyberdefense-network-asuggesting-telecommunications-security-on-par-with-united-kingdom-int.md)
