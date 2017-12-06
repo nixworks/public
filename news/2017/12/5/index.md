@@ -18,6 +18,9 @@ A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the footh
 ### [Gujarat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujarat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md)
 Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is just 670 kms southwest of the city
 
+### [A passenger train runs into the rear of a freight train at Meerbusch, Germany. Forty-seven people are injured, three seriously.](/news/2017/12/5/a-passenger-train-runs-into-the-rear-of-a-freight-train-at-meerbusch-germany-forty-seven-people-are-injured-three-seriously.md)
+A passenger train crashed into a goods train near the city of Düsseldorf, emergency services say.
+
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
 _Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
 
