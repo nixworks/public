@@ -16,7 +16,7 @@ Toxic air is putting the brain development of millions of infants under one at r
 The announcement would change decades of US foreign policy and has alarmed many Muslim countries.
 
 ### [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan said at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's ministers "know" of such cases in the Netherlands and Austria. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-said-at-a-ak-parti-organized-conference-that-the-west-snatches-mus.md)
-_Context: AK Parti, Foreign relations of Turkey, Recep Tayyip Erdogan_
+_Context: AK Parti, Foreign relations of Turkey, Recep Tayyip Erdogan, Turkish journalist in exile_
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md)
 The court has increased the bail for the Russian senator from 5 mln to 40 mln euros
@@ -24,7 +24,7 @@ The court has increased the bail for the Russian senator from 5 mln to 40 mln eu
 ### [The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. ](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agreement-that-enables-prime-minister-saad-hariri-to-officially-withdraw-his-unexpected-november.md)
 It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation, which alone promises good tidings for the Lebanese, especially during the festive season.
 
-### [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-mikheil-saakashvili-a-police-source-says-po.md)
+### [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-pol.md)
 On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasizing that he had 24 hours to appear before law enforcement officers
 
 ### [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md)
@@ -32,6 +32,9 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 
 ### [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md)
 The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
+
+### [An Institute for Science and International Security study indicates that--between March 2014 and September 2017 and to varying degrees--a total of 49 countries violated United Nations sanctions against North Korea. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-thatabetween-march-2014-and-september-2017-and-to-varying-degreesaa.md)
+A new report names 49 countries that have violated international sanctions against North Korea in the last three years.
 
 ---
 
