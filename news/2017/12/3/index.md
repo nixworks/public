@@ -22,7 +22,7 @@ Netanyahu and his family are suspected of accepting expensive gifts in return fo
 The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to Cairo.
 
 ### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md)
-_Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
+_Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, French, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
 
 ### [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md)
 _Context: Kiev, Ukrainian crisis, opposition, parliament_

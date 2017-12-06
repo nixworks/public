@@ -12,8 +12,14 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 ### [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. This backs an Israel claim of controlling the entire city as its indivisible capital. The expected move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said-this-backs-an-israel-cl.md)
 The announcement would change decades of US foreign policy and has alarmed many Muslim countries.
 
+### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail. Kerimov was arrested November 20 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-kerimov-was-arrested-november-20-in-a-money-lau.md)
+The court has increased the bail for the Russian senator from 5 mln to 40 mln euros
+
 ### [The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. ](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agreement-that-enables-prime-minister-saad-hariri-to-officially-withdraw-his-unexpected-november.md)
 It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation, which alone promises good tidings for the Lebanese, especially during the festive season.
+
+### [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless Mikheil Saakashvili. ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-mikheil-saakashvili.md)
+_Context: Crisis in Ukraine, Kiev, Mikheil Saakashvili, Ukraine_
 
 ### [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md)
 The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
@@ -84,7 +90,7 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 Jeffrey Feltman will meet foreign minister and other diplomats in highest-level UN visit to country in more than six years
 
 ### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: E.U. Ecofin, France, Tax Cuts and Jobs Act of 2017, United States, value added_
+_Context: E.U. Ecofin, French, Tax Cuts and Jobs Act of 2017, United States, value added_
 
 ### [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md)
 _Context: Executive Order 13769, Supreme Court of the United States, legal challenges_

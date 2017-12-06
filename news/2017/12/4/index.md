@@ -16,7 +16,7 @@ The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;cont
 Jeffrey Feltman will meet foreign minister and other diplomats in highest-level UN visit to country in more than six years
 
 ### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: E.U. Ecofin, France, Tax Cuts and Jobs Act of 2017, United States, value added_
+_Context: E.U. Ecofin, French, Tax Cuts and Jobs Act of 2017, United States, value added_
 
 ### [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md)
 _Context: Executive Order 13769, Supreme Court of the United States, legal challenges_
