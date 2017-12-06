@@ -12,17 +12,20 @@ The announcement would change decades of US foreign policy and has alarmed many 
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/pope-francis-urges-status-quo-jerusalem-calls-wisdom-51608418)
 2. [BBC](http://www.bbc.com/news/world-middle-east-42246564)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-jerusalem-israel-capital-declaration-20171206-story.html)
-4. [Express UK](https://www.express.co.uk/news/world/888739/Donald-Trump-Jerusalem-Israel-capital-news-US-Manuel-Hassassian)
-5. [Reuters](https://www.reuters.com/article/us-usa-trump-israel-china/china-says-trump-plan-to-move-embassy-in-israel-could-spark-new-hostility-idUSKBN1E013T)
-6. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/in-break-with-decades-of-u-s-policy-trump-to-recognize-jerusalem-as-israels-capital-idUSKBN1DZ04V)
-6. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05q724c.jpg)
+3. [CNN](http://edition.cnn.com/2017/12/06/politics/president-donald-trump-jerusalem/index.html)
+4. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-jerusalem-israel-capital-declaration-20171206-story.html)
+5. [Express UK](https://www.express.co.uk/news/world/888739/Donald-Trump-Jerusalem-Israel-capital-news-US-Manuel-Hassassian)
+6. [Reuters](https://www.reuters.com/article/us-usa-trump-israel-cable/u-s-asks-officials-to-defer-travel-to-israel-west-bank-to-december-20-idUSKBN1E02HU)
+7. [Reuters](https://www.reuters.com/article/us-usa-trump-israel-china/china-says-trump-plan-to-move-embassy-in-israel-could-spark-new-hostility-idUSKBN1E013T)
+8. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/in-break-with-decades-of-u-s-policy-trump-to-recognize-jerusalem-as-israels-capital-idUSKBN1DZ04V)
+8. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05q724c.jpg)
 
 ### Changes:
 
 1. [US President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. ](/news/2017/12/6/us-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said.md) _2017-12-06 10:30:05 (First version)_
 2. [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said.md) _2017-12-06 12:30:05 (Update)_
-2. [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. This backs an Israel claim of controlling the entire city as its indivisible capital. The expected move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said-this-backs-an-israel-cl.md) _(Current version)_
+3. [U.S. President Donald Trump announces that the U.S. will recognize Jerusalem as the indivisible capital of Israel (which backs an Israeli claim of controlling the entire city as its indivisible capital), and will start the process of moving its embassy from Tel Aviv to Jerusalem. The move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-announces-that-the-u-s-will-recognize-jerusalem-as-the-indivisible-capital-of-israel-which-backs-an-israeli-cl.md) _2017-12-06 19:30:06 (Update)_
+3. [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. This backs an Israel claim of controlling the entire city as its indivisible capital. The expected move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said-this-backs-an-israel-cl.md) _(Current version)_
 
 ### Related:
 

@@ -3,22 +3,22 @@ Formats: [HTML](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-cla
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
-# Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. For Erdogan, western modernization is an anti-islamic threat, reports HuffingtonPost.de. 
+# Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. 
 
-“#Turkey&#39;s president Erdogan now says the West snatches babies from Muslim families, accuses #Netherlands &amp; #Austria of committing massacre and murder. https://t.co/TMDpX93ph4”
+
 
 
 ### Sources:
 
 1. [Geenstijl.nl](https://www.geenstijl.nl/5139760/erdogan-nederlanders-zijn-babysnatchers/)
 2. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/erdogan-houdt-absurde-tirade-op-vrouwencongres-het-westen-steelt-baby-s-van-moslimfamilies~a141c35e/)
-3. [Twitter](https://twitter.com/abdbozkurt/status/938320573880569857)
-3. [Cover Image](https://pbs.twimg.com/ext_tw_video_thumb/938315680281219073/pu/img/3dxzujqsLVTLPwIz.jpg)
+2. [Cover Image](https://images2.persgroep.net/rcs/qRBUeB6zvo-6Wu4K4UvXRC-s14I/diocontent/115925772/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
 
 ### Changes:
 
 1. [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a conference that the West snatches Muslim babies. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-conference-that-the-west-snatches-muslim-babies.md) _2017-12-06 17:30:05 (First version)_
-1. [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. For Erdogan, western modernization is an anti-islamic threat, reports HuffingtonPost.de. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-ak-parti-organized-conference-that-the-west-snatches-m.md) _(Current version)_
+2. [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan said at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's ministers "know" of such cases in the Netherlands and Austria. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-said-at-a-ak-parti-organized-conference-that-the-west-snatches-mus.md) _2017-12-06 19:30:06 (Update)_
+2. [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-ak-parti-organized-conference-that-the-west-snatches-m.md) _(Current version)_
 
 ### Related:
 

@@ -9,10 +9,13 @@ New York&#39;s Metropolitan Museum of Art has refused to remove a 1938 painting 
 ### [Finland celebrates its 100 years of independence. ](/news/2017/12/6/finland-celebrates-its-100-years-of-independence.md)
 Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuopio.
 
-### [U.S. President Donald Trump announces that the U.S. will recognize Jerusalem as the indivisible capital of Israel (which backs an Israeli claim of controlling the entire city as its indivisible capital), and will start the process of moving its embassy from Tel Aviv to Jerusalem. The move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-announces-that-the-u-s-will-recognize-jerusalem-as-the-indivisible-capital-of-israel-which-backs-an-israeli-cl.md)
+### [17 million babies are snatched by toxic air worldwide, putting their brain development at risk, reports UNICEF. ](/news/2017/12/6/17-million-babies-are-snatched-by-toxic-air-worldwide-putting-their-brain-development-at-risk-reports-unicef.md)
+Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.
+
+### [U.S. President Donald Trump will recognize Jerusalem as Israel's capital, senior administration officials have said. This backs an Israel claim of controlling the entire city as its indivisible capital. The expected move of the United States embassy would set a precedent. ](/news/2017/12/6/u-s-president-donald-trump-will-recognize-jerusalem-as-israel-s-capital-senior-administration-officials-have-said-this-backs-an-israel-cl.md)
 The announcement would change decades of US foreign policy and has alarmed many Muslim countries.
 
-### [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan said at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's ministers "know" of such cases in the Netherlands and Austria. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-said-at-a-ak-parti-organized-conference-that-the-west-snatches-mus.md)
+### [Turkish journalist in exile Abdullah Bozkurt claims Recep Tayyip Erdogan saying at a AK Parti-organized conference that the West snatches Muslim babies. Erdogan's "ministers know" of such cases in the Netherlands and Austria. ](/news/2017/12/6/turkish-journalist-in-exile-abdullah-bozkurt-claims-recep-tayyip-erdoaan-saying-at-a-ak-parti-organized-conference-that-the-west-snatches-m.md)
 _Context: AK Parti, Foreign relations of Turkey, Recep Tayyip Erdogan_
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md)
