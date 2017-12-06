@@ -31,7 +31,7 @@ _Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
 ### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)
 Latest development in six-month-long Qatar dispute throws future of Gulf Cooperation Council into doubt
 
-### [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. This is in retaliation to the U.S. Justice Department requiring Russia Today to register as a foreign agent. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents-this-is-in-retaliation-to.md)
+### [Russia names Voice of America, Radio Free Europe-Radio Liberty and seven affiliated news media as foreign agents. ](/news/2017/12/5/russia-names-voice-of-america-radio-free-europe-radio-liberty-and-seven-affiliated-news-media-as-foreign-agents.md)
 The move comes in retaliation for U.S. actions against the RT news network.
 
 ### [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md)
