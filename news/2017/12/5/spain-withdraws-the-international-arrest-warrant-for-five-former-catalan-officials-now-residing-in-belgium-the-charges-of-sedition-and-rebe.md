@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
-# Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion however remain. 
+# Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. 
 
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
 

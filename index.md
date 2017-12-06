@@ -1,15 +1,25 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/5/index.md)
+## [News](/news/2017/12/6/index.md)
+
+### [The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. ](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agreement-that-enables-prime-minister-saad-hariri-to-officially-withdraw-his-unexpected-november.md)
+It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation, which alone promises good tidings for the Lebanese, especially during the festive season.
+
+---
+
+## [Yesterday](/news/2017/12/5/index.md)
+
+### [The last King of Romania, Michael I, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-dies-at-the-age-of-96.md)
+He was forced to abdicate in 1947 after the communists took over Romania following World War Two.
 
 ### [A summer 1941 Simon Templar (The Saint) novel by Leslie Charteris, titled "The Saint's Second Front", describing a military attack by Japan on America--and subsequently rejected from publication for political reasons--emerges at a private auction after the work was presumed lost. ](/news/2017/12/5/a-summer-1941-simon-templar-the-saint-novel-by-leslie-charteris-titled-the-saint-s-second-front-describing-a-military-attack-by-japan.md)
 A LOST novel of the spy thriller The Saint which predicted the attack on Pearl Harbour but was scrapped for political reasons has been rediscovered. Written in summer 1941, the story by Leslie Char…
 
-### [Eurofighter Typhoon offers Belgium a national "Cyberdefense Network"--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft. ](/news/2017/12/5/eurofighter-typhoon-offers-belgium-a-national-cyberdefense-network-asuggesting-telecommunications-security-on-par-with-united-kingdom-int.md)
-_Context: Belgium, Eurofighter Typhoon, United Kingdom, multirole combat aircraft_
+### [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md)
+_Context: Belgium, Eurofighter GmbH, Eurofighter Typhoon, United Kingdom, cyber defense, multirole combat aircraft_
 
-### [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 45,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md)
+### [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 50,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md)
 A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the foothills near Thomas Aquinas College in Santa Paula, officials said.
 
 ### [Gujarat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujarat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md)
@@ -27,21 +37,24 @@ The move comes in retaliation for U.S. actions against the RT news network.
 ### [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md)
 Crowds of supporters demonstrate as anti-corruption campaigner is taken away by police from his home in Kiev
 
-### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion however remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
+### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
 
 ### [Reuters and "Handelsblatt" cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller.md)
 Special counsel Robert Mueller has asked Deutsche Bank to share data on the US president&#39;s business dealings, as his investigation into alleged Russian meddling in the US election widens.
 
+### [Austria's Constitutional Court rules that the government cannot discriminate against same-sex couples' right to marry. ](/news/2017/12/5/austria-s-constitutional-court-rules-that-the-government-cannot-discriminate-against-same-sex-couples-right-to-marry.md)
+Although civil partnership had been permitted since 2010, the country’s highest court found that marriage should also be open to same-sex couples.
+
+### [After several days of violent protests due to allegations of electoral fraud, Honduran police have announced that they will not enforce a government-mandated curfew. ](/news/2017/12/5/after-several-days-of-violent-protests-due-to-allegations-of-electoral-fraud-honduran-police-have-announced-that-they-will-not-enforce-a-go.md)
+All national police will refuse to enforce a curfew after days of deadly violence triggered by allegations of electoral fraud
+
 ### [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md)
 The move by the longtime Democratic congressman from Michigan came after top House Democrats and House Speaker Paul Ryan, R-Wis., had called on him to resign.
 
-### [The last King of Romania, Michael I, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-dies-at-the-age-of-96.md)
-He was forced to abdicate in 1947 after the communists took over Romania following World War Two.
-
 ---
 
-## [Yesterday](/news/2017/12/4/index.md)
+## [Day Before Yesterday](/news/2017/12/4/index.md)
 
 ### [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md)
 Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
@@ -84,35 +97,7 @@ Capping months of speculation, President Trump on Monday signed a pair of execut
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/3/index.md)
-
-### [The Royal Saudi Air Force bombs Houthi positions in southern Sana'a in support of Ali Abdullah Saleh-headed General People's Congress. ](/news/2017/12/3/the-royal-saudi-air-force-bombs-houthi-positions-in-southern-sana-a-in-support-of-ali-abdullah-saleh-headed-general-people-s-congress.md)
-Aircraft from the Saudi-led coalition bombed Houthi positions in Sanaa overnight on Sunday, residents and local media said, aiming to shore up supporters of former Yemeni president Ali Abdullah Saleh as they battle the Iran-aligned Houthi group.
-
-### [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md)
-_Context: Nicolas Maduro, Venezuela, cryptocurrency, petro, socioeconomic crisis_
-
-### [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-the.md)
-_Context: South Korea, Yeongheung Island_
-
-### [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md)
-_Context: Communist Party of China, General Secretary of the Communist Party of China, History of the Communist Party of China, Xi Jinping_
-
-### [In Tel Aviv, up to 20,000 people demonstrate in front of the home of the Attorney General of Israel, Avichai Mandelblit, against the slow pace of corruption investigations against Prime Minister of Israel Benjamin Netanyahu. ](/news/2017/12/3/in-tel-aviv-up-to-20-000-people-demonstrate-in-front-of-the-home-of-the-attorney-general-of-israel-avichai-mandelblit-against-the-slow-pa.md)
-Netanyahu and his family are suspected of accepting expensive gifts in return for political favors for several wealthy donors, including the Hollywood producer and media magnate Arnon Milchan.
-
-### [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md)
-The family of Ahmed Shafiq had voiced fears he was kidnapped after returning to Cairo.
-
-### [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md)
-_Context: Corse-du-Sud, Corsica, Corsican Assembly, Corsican territorial election, France, Haute Corse, La Republique En Marche!, Pe a Corsica, departments, election threshold, miscellaneous right, region, territorial collectivity_
-
-### [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md)
-_Context: Kiev, Ukrainian Crisis, opposition, parliament_
-
----
-
-## [Previous Day...](/news/2017/12/2/index.md)
+## [Previous Day...](/news/2017/12/3/index.md)
 
 ---
 

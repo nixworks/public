@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-q
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
-# Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 45,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. 
+# Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 50,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. 
 
 A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the foothills near Thomas Aquinas College in Santa Paula, officials said.
 
@@ -19,7 +19,7 @@ A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the footh
 1. [Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres within hours and cutting power to 260,000 homes. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres-within-hours-an.md) _2017-12-05 12:30:08 (First version)_
 2. [ Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 10,000 acres (31,000 acres reported) within hours and cutting power to 260,000 homes. ](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-10-000-acres.md) _2017-12-05 15:30:07 (Update)_
 3. [ Thomas Fire : Due to persistent high winds, a fire begins and quickly spreads near Santa Paula, California, covering at least 31,000 acres within hours, spreading into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/thomas-fire-due-to-persistent-high-winds-a-fire-begins-and-quickly-spreads-near-santa-paula-california-covering-at-least-31-000-acres.md) _2017-12-05 19:30:06 (Update)_
-3. [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 45,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md) _(Current version)_
+3. [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 50,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md) _(Current version)_
 
 ### Related:
 
