@@ -18,17 +18,20 @@ _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, sa
 ### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
 _Context: Czech Republic, European Commission, European migrant crisis, Hungary, Poland, Treaty on European Union, court, voting right_
 
-### [At least three people are killed in a school shooting at Aztec High School in New Mexico. A suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-a-suspect-is-reportedly-in-custody.md)
+### [At least three people, including a suspect, are killed in a school shooting at Aztec High School in New Mexico. Multiple others are badly injured. A second suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-including-a-suspect-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-multiple-others-are-badly-in.md)
 _Context: Aztec High School_
 
 ### [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
 
+### [15 countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/15-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiations.md)
+&quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
+
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
 
-### [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md)
-India&rsquo;s influence in Nepal was once unrivaled, but China has now become a player.
+### [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md)
+This was slightly above from the first phase when 65 per cent voters had exercised their franchise on November 26.
 
 ---
 
