@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2017/12/7/index.md)
 
 ### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
-_Context: Czech Republic, Israel, West Jerusalem_
+_Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
 
 ### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
 Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders

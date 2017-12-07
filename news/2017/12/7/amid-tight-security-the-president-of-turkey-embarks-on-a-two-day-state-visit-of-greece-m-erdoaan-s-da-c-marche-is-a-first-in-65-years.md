@@ -10,8 +10,9 @@ Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relati
 
 ### Sources:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/dec/07/turkish-president-erdogan-to-make-landmark-visit-to-greece)
-1. [Cover Image](https://i.guim.co.uk/img/media/21a97bdcda505586e9eee9df42529efdf0e544b7/336_0_3992_2396/master/3992.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0c2eed0f4caa6ef223d9c9f982955fa1)
+1. [Reuters](https://www.reuters.com/article/us-greece-turkey-erdogan-treaty/greek-president-tells-turkeys-erdogan-no-treaty-revision-idUSKBN1E1186)
+2. [The Guardian](https://www.theguardian.com/world/2017/dec/07/turkish-president-erdogan-to-make-landmark-visit-to-greece)
+2. [Cover Image](https://i.guim.co.uk/img/media/21a97bdcda505586e9eee9df42529efdf0e544b7/336_0_3992_2396/master/3992.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0c2eed0f4caa6ef223d9c9f982955fa1)
 
 ### Related:
 
