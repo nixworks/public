@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.html)  [JSON](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.json)  [XML](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.xml)  
 
-* [HTML](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.html)
-* [JSON](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.json)
-* [XML](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. 

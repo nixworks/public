@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.html)  [JSON](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.json)  [XML](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.xml)  
 
-* [HTML](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.html)
-* [JSON](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.json)
-* [XML](/news/2017/10/2/the-nobel-prize-committee-awards-americans-jeffrey-c-hall-michael-rosbash-and-michael-w-young-the-prize-for-their-work-on-molecular-mech.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # The Nobel Prize committee awards Americans Jeffrey C. Hall, Michael Rosbash, and Michael W. Young the prize for their work on molecular mechanisms that control circadian systems. 
@@ -28,4 +25,4 @@ Scientists share prize awarded for discoveries of molecular mechanisms controlli
 2. [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md) _Context: Nobel Prize, United States_
 3. [American 1964 Nobel Prize-winning physicist Charles Hard Townes, who helped invent the now-ubiquitous laser, dies at the age of 99. ](/news/2015/01/27/american-1964-nobel-prize-winning-physicist-charles-hard-townes-who-helped-invent-the-now-ubiquitous-laser-dies-at-the-age-of-99.md) _Context: Nobel Prize, United States_
 4. [ The other 2005 Nobel Prizes are handed out in Stockholm to Barry J. Marshall and Robin Warren (Physiology or Medicine), Roy J. Glauber and John L. Hall and Theodor W. Hnsch (Physics), Robert H. Grubbs, Richard R. Schrock and Yves Chauvin (Chemistry), Robert J. Aumann and Thomas C. Schelling (Economics), and Harold Pinter (Literature). ](/news/2005/12/10/the-other-2005-nobel-prizes-are-handed-out-in-stockholm-to-barry-j-marshall-and-robin-warren-physiology-or-medicine-roy-j-glauber-and.md) _Context: Nobel Prize, Nobel Prize in Physiology or Medicine_
-5. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: United States_
+5. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: United States_

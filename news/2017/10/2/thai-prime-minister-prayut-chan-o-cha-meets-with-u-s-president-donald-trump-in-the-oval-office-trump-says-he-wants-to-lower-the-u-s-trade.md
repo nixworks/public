@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.html)  [JSON](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.json)  [XML](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.xml)  
 
-* [HTML](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.html)
-* [JSON](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.json)
-* [XML](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. 
@@ -19,7 +16,7 @@
 ### Related:
 
 1. [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md) _Context: Donald Trump, Oval Office_
-2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump_
-4. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: Donald Trump_
-5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: Donald Trump_
+2. [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md) _Context: Donald Trump_
+3. [Reuters and "Handelsblatt" cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md) _Context: Donald Trump_
+5. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_

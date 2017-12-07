@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.html)  [JSON](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.json)  [XML](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.xml)  
 
-* [HTML](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.html)
-* [JSON](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.json)
-* [XML](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). 
@@ -26,6 +23,6 @@
 
 1. [ North Korea raises the value of its currency for the first time in 17 years. ](/news/2009/12/1/north-korea-raises-the-value-of-its-currency-for-the-first-time-in-17-years.md) _Context: North Korea, W_
 2. [ American, French and Israeli naval forces rescue three Syrian and Egyptian sailors from a North Korean ship that sank in international waters off the coast of Nahariya. ](/news/2005/04/21/american-french-and-israeli-naval-forces-rescue-three-syrian-and-egyptian-sailors-from-a-north-korean-ship-that-sank-in-international-wate.md) _Context: Egypt, North Korea_
-3. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
-4. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
-5. [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md) _Context: North Korea_
+3. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Egypt_
+4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
+5. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_

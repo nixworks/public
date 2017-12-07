@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.html)  [JSON](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.json)  [XML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.xml)  
 
-* [HTML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.html)
-* [JSON](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.json)
-* [XML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.xml)
 ### [2017-10-2](/news/2017/10/2/index.md)
 
 # Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. 
