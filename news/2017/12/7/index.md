@@ -16,7 +16,13 @@ Meeting to be held as Palestinian protests and global criticism grow over Trump 
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
 ### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
-_Context: Czech Republic, European Commission, European Union, European migrant crisis, Hungary, Poland, Treaty on European Union, court_
+_Context: Czech Republic, European Commission, European migrant crisis, Hungary, Poland, Treaty on European Union, court, voting right_
+
+### [At least three people are killed in a school shooting at Aztec High School in New Mexico. A suspect is reportedly in custody. ](/news/2017/12/7/at-least-three-people-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico-a-suspect-is-reportedly-in-custody.md)
+_Context: Aztec High School_
+
+### [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md)
+An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
 
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
