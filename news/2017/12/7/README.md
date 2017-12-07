@@ -6,11 +6,8 @@ Formats: [HTML](2017/12/7/index.html)  [JSON](2017/12/7/index.json)  [XML](2017/
 ### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
 _Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
 
-### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
+### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65.md)
 Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders
-
-### [The United Nations Security Council meeting described on December 6 is expected for December 8. ](/news/2017/12/7/the-united-nations-security-council-meeting-described-on-december-6-is-expected-for-december-8.md)
-Meeting to be held as Palestinian protests and global criticism grow over Trump recognising Jerusalem as Israeli capital
 
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
@@ -21,14 +18,14 @@ _Context: Czech Republic, European Commission, European migrant crisis, Hungary,
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
 _Context: Aztec High School, Aztec High School shooting_
 
-### [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md)
+### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
 
 ### [15 countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/15-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiations.md)
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
-### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: 1994 bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister, possible_
+### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
+_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister_
 
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 

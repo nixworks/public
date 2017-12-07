@@ -6,11 +6,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
 _Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
 
-### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
+### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65.md)
 Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders
-
-### [The United Nations Security Council meeting described on December 6 is expected for December 8. ](/news/2017/12/7/the-united-nations-security-council-meeting-described-on-december-6-is-expected-for-december-8.md)
-Meeting to be held as Palestinian protests and global criticism grow over Trump recognising Jerusalem as Israeli capital
 
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
@@ -21,14 +18,14 @@ _Context: Czech Republic, European Commission, European migrant crisis, Hungary,
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
 _Context: Aztec High School, Aztec High School shooting_
 
-### [Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-he-risks-142-years-in-prison.md)
+### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
 
 ### [15 countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/15-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiations.md)
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
-### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: 1994 bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister, possible_
+### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
+_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister_
 
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
@@ -64,7 +61,7 @@ Toxic air is putting the brain development of millions of infants under one at r
 ### [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md)
 The U.S. State Department issued a cable to all its diplomatic posts worldwide on Wednesday asking its officials to defer non-essential travel to Israel, Jerusalem and the West Bank until Dec. 20 according to a copy of the cable seen by Reuters.
 
-### [Investigators discover brain abnormalities in the victims. They are now carefully not using the term "sonic" to describe the attacks and there is growing skepticism it was caused by a sonic device, with the sound heard by victims being a by-product of the brain damage. The white matter of the brain showed changes which doctors believe could not be caused by sound. ](/news/2017/12/6/investigators-discover-brain-abnormalities-in-the-victims-they-are-now-carefully-not-using-the-term-sonic-to-describe-the-attacks-and-the.md)
+### [Investigators discover brain abnormalities in the victims. They are now carefully not using the term "sonic" to describe the attacks and there is growing skepticism it was caused by a sonic device, with the sound heard by victims being a by-product of the brain damage. The white matter of the brains showed changes which doctors believe could not be caused by sound. ](/news/2017/12/6/investigators-discover-brain-abnormalities-in-the-victims-they-are-now-carefully-not-using-the-term-sonic-to-describe-the-attacks-and-the.md)
 WASHINGTON (AP) — Doctors treating the U.S. embassy victims of suspected attacks in Cuba have discovered brain abnormalities as they search for clues to explain hearing, vision, balance and memory damage, The Associated Press has learned.
 
 ### [An Institute for Science and International Security study indicates that (between March 2014 and September 2017 and to varying degrees) a total of 49 countries violated United Nations sanctions against North Korea. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-that-between-march-2014-and-september-2017-and-to-varying-degrees-a-to.md)
@@ -76,7 +73,7 @@ The court has increased the bail for the Russian senator from 5 mln to 40 mln eu
 ### [The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. ](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agreement-that-enables-prime-minister-saad-hariri-to-officially-withdraw-his-unexpected-november.md)
 It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation, which alone promises good tidings for the Lebanese, especially during the festive season.
 
-### [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md)
+### [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md)
 On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasizing that he had 24 hours to appear before law enforcement officers
 
 ### [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md)
@@ -111,7 +108,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 A passenger train crashed into a goods train near the city of Düsseldorf, emergency services say.
 
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
-_Context: Donald Trump, Erdogan, Jerusalem, Positions on Jerusalem_
+_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
 
 ### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)
 Latest development in six-month-long Qatar dispute throws future of Gulf Cooperation Council into doubt

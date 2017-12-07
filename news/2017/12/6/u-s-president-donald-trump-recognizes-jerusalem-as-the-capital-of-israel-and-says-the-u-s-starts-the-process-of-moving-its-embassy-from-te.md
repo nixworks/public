@@ -19,7 +19,8 @@ The U.S. State Department issued a cable to all its diplomatic posts worldwide o
 7. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-jerusalem-israel-capital-declaration-20171206-story.html)
 8. [Reuters](https://www.reuters.com/article/us-usa-trump-israel-cable/u-s-asks-officials-to-defer-travel-to-israel-west-bank-to-december-20-idUSKBN1E02HU)
 9. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/trump-recognizes-jerusalem-as-israels-capital-defying-allies-and-foes-idUSKBN1E01PS)
-9. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+10. [The Guardian](https://www.theguardian.com/world/2017/dec/07/jerusalem-un-security-council-us-recognition-jerusalem-donald-trump-israel-capital)
+10. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 

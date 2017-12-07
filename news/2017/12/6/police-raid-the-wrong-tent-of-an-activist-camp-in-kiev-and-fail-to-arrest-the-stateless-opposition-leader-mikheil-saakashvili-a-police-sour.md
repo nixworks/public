@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-i
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
-# Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". 
+# Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". 
 
 On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasizing that he had 24 hours to appear before law enforcement officers
 
@@ -19,7 +19,7 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 1. [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless Mikheil Saakashvili. ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-mikheil-saakashvili.md) _2017-12-06 15:30:05 (First version)_
 2. [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-mikheil-saakashvili-a-police-source-says-po.md) _2017-12-06 21:30:06 (Update)_
 3. [Ukraine police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/ukraine-police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-pol.md) _2017-12-06 22:30:06 (Update)_
-3. [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be let off the leash "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md) _(Current version)_
+3. [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md) _(Current version)_
 
 ### Related:
 
