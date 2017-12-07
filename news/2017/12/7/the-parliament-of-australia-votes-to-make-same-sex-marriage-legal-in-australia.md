@@ -3,10 +3,14 @@ Formats: [HTML](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-s
 
 ### [2017-12-7](/news/2017/12/7/index.md)
 
-# The Parliament of Australia votes to make same sex marriage legal in Australia.
+# The Parliament of Australia votes to make same sex marriage legal in Australia. 
 
 
 
+
+### Sources:
+
+1. [The Australian](http://www.theaustralian.com.au/national-affairs/politicsnow-ssm-bill-decided-today-citizenship-saga-continues/news-story/642ba787fcb52a24f08d61be8ac650d7)
 
 ### Related:
 

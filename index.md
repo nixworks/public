@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/7/index.md)
 
+### [The Parliament of Australia votes to make same sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
+_Context: Australia, Parliament of Australia, Same sex marriage in Australia, same sex marriage_
+
 ### [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md)
 India&rsquo;s influence in Nepal was once unrivaled, but China has now become a player.
 
