@@ -27,14 +27,17 @@ An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Part
 ### [15 countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/15-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiations.md)
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
-### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: 1994 bombing, Cristina Fernandez de Kirchner, President of Argentina, community center, possible_
+### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
+_Context: 1994 bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister, possible_
 
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
 
 ### [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md)
 When Nepalis head to the polls today for the first time since 1999, it will be hailed as a historic step forward—the start of a new democratic era for a country that has suffered from years of violence, instability, and government ineptitude. But hope for the future should not obscure the challeng...
+
+### [The Social Democratic Party congress votes to start talks on "whether and in what form" to support a new federal government. ](/news/2017/12/7/the-social-democratic-party-congress-votes-to-start-talks-on-whether-and-in-what-form-to-support-a-new-federal-government.md)
+The Latest on efforts to form a new government in Germany (all times local):
 
 ## [Previous Day...](/news/2017/12/6/index.md)
 
