@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/26/index.html)  [JSON](2017/10/26/index.json)  [XML](2017/10/26/index.xml)  
+
 ## [2017-10-26](/news/2017/10/26/index.md)
 
 ### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)

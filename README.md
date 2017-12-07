@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/6/index.md)
+## [News](/news/2017/12/7/index.md)
+
+### [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md)
+India&rsquo;s influence in Nepal was once unrivaled, but China has now become a player.
+
+---
+
+## [Yesterday](/news/2017/12/6/index.md)
 
 ### [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md)
 Combat operations at this stage and on this territory are over, according to the Russian Defense Ministry 
@@ -12,11 +19,14 @@ New York&#39;s Metropolitan Museum of Art has refused to remove a 1938 painting 
 ### [Finland celebrates its 100 years of independence. ](/news/2017/12/6/finland-celebrates-its-100-years-of-independence.md)
 Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuopio.
 
-### [UNICEF reports that as many as 17 million babies face potential brain development issues due to rising pollution levels worldwide. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels-worldwide.md)
+### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
 Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.
 
-### [U.S. President Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-tel-aviv.md)
+### [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md)
 The U.S. State Department issued a cable to all its diplomatic posts worldwide on Wednesday asking its officials to defer non-essential travel to Israel, Jerusalem and the West Bank until Dec. 20 according to a copy of the cable seen by Reuters.
+
+### [Investigators discover brain abnormalities in the victims. They are now carefully not using the term "sonic" to describe the attacks and there is growing skepticism it was caused by a sonic device, with the sound heard by victims being a by-product of the brain damage. The white matter of the brain showed changes which doctors believe could not be caused by sound. ](/news/2017/12/6/investigators-discover-brain-abnormalities-in-the-victims-they-are-now-carefully-not-using-the-term-sonic-to-describe-the-attacks-and-the.md)
+WASHINGTON (AP) — Doctors treating the U.S. embassy victims of suspected attacks in Cuba have discovered brain abnormalities as they search for clues to explain hearing, vision, balance and memory damage, The Associated Press has learned.
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md)
 The court has increased the bail for the Russian senator from 5 mln to 40 mln euros
@@ -30,15 +40,15 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 ### [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md)
 &quot;If I take such a decision...&quot;
 
-### [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md)
-The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
-
 ### [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md)
 We’re seeing how it looked when the Universe was a toddler
 
+### [An Institute for Science and International Security study indicates that--between March 2014 and September 2017 and to varying degrees--a total of 49 countries violated United Nations sanctions against North Korea. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-thatabetween-march-2014-and-september-2017-and-to-varying-degreesaa.md)
+A new report names 49 countries that have violated international sanctions against North Korea in the last three years.
+
 ---
 
-## [Yesterday](/news/2017/12/5/index.md)
+## [Day Before Yesterday](/news/2017/12/5/index.md)
 
 ### [The last King of Romania, Michael I, dies at the age of 96. ](/news/2017/12/5/the-last-king-of-romania-michael-i-dies-at-the-age-of-96.md)
 He was forced to abdicate in 1947 after the communists took over Romania following World War Two.
@@ -87,50 +97,7 @@ The move by the longtime Democratic congressman from Michigan came after top Hou
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/4/index.md)
-
-### [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md)
-Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.
-
-### [For the second time in three days, Israel carries out a missile strike on military facilities near Damascus. ](/news/2017/12/4/for-the-second-time-in-three-days-israel-carries-out-a-missile-strike-on-military-facilities-near-damascus.md)
-AT LEAST two massive explosions ripped through the Syrian capital after Israel launched three...
-
-### [Jordan's foreign minister Ayman Safadi has warned the U.S. of "dangerous consequences" if it recognizes Jerusalem as the capital of Israel. ](/news/2017/12/4/jordan-s-foreign-minister-ayman-safadi-has-warned-the-u-s-of-dangerous-consequences-if-it-recognizes-jerusalem-as-the-capital-of-israel.md)
-The&#x20;Palestinian&#x20;Islamist&#x20;movement&#x20;Hamas&#x20;which&#x20;controls&#x20;Gaza&#x20;called&#x20;Saturday&#x20;for&#x20;a&#x20;new&#x20;&quot;intifada&quot;&#x20;if&#x20;Washington&#x20;recognises&#x20;Jerusalem&#x20;as&#x20;the&#x20;capital&#x20;of&#x20;Israel&#x20;or&#x20;moves&#x20...
-
-### [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md)
-Jeffrey Feltman will meet foreign minister and other diplomats in highest-level UN visit to country in more than six years
-
-### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: E.U. Ecofin, French, Tax Cuts and Jobs Act of 2017, United States, value added_
-
-### [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md)
-_Context: Executive Order 13769, Supreme Court of the United States, legal challenges_
-
-### [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the Salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md)
-A foreign aid scheme is suspended by the government, following a BBC Panorama investigation.
-
-### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
-_Context: Daphne Caruana Galizia, Malta_
-
-### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md)
-The Spanish Supreme Court decided to keep former Catalan Vice President Oriol Junqueras in jail, judging he’s likely to challenge the authority of the state again if released.
-
-### [Apple Inc. and Ireland agree on an interim deal to put EUR13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "sweetheart" corporate tax deals were illegal. In 2016, the European Commission found that an unfair advantage of EUR13 billion is to be reimbursed. ](/news/2017/12/4/apple-inc-and-ireland-agree-on-an-interim-deal-to-put-a-13-billion-in-an-escrow-fund-for-the-repayment-of-back-taxes-starting-early-2018.md)
-To keep EU regulators happy, Apple will begin paying unpaid taxes to Ireland, which will be saved into an escrow account.
-
-### [The Eurogroup selects Mario Centeno, Portugal's Minister of Finance, to succeed Jeroen Dijsselbloem as their next president. ](/news/2017/12/4/the-eurogroup-selects-ma-rio-centeno-portugal-s-minister-of-finance-to-succeed-jeroen-dijsselbloem-as-their-next-president.md)
-Portuguese Finance Minister Mario Centeno has won the race to become the top official of the 19-country eurozone.
-
-### [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md)
-Capping months of speculation, President Trump on Monday signed a pair of executive orders to significantly shrink two of Utah’s national monuments – Bears Ears and the Grand Staircase-Escalante – that were created by his Democratic predecessors.
-
-### [Debbie Wesson Gibson, one of the women accusing Roy Moore of sexual misconduct, shares evidence of their relationship when she was 17 to the press. ](/news/2017/12/4/debbie-wesson-gibson-one-of-the-women-accusing-roy-moore-of-sexual-misconduct-shares-evidence-of-their-relationship-when-she-was-17-to-the.md)
-&ldquo;I do not know any of these women,&rdquo; the Senate candidate said at a recent campaign event.
-
----
-
-## [Previous Day...](/news/2017/12/3/index.md)
+## [Previous Day...](/news/2017/12/4/index.md)
 
 ---
 

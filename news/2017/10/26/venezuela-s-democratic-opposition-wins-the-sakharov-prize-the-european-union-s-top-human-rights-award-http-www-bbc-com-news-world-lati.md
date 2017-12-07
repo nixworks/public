@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/26/venezuela-s-democratic-opposition-wins-the-sakharov-prize-the-european-union-s-top-human-rights-award-http-www-bbc-com-news-world-lati.html)  [JSON](/news/2017/10/26/venezuela-s-democratic-opposition-wins-the-sakharov-prize-the-european-union-s-top-human-rights-award-http-www-bbc-com-news-world-lati.json)  [XML](/news/2017/10/26/venezuela-s-democratic-opposition-wins-the-sakharov-prize-the-european-union-s-top-human-rights-award-http-www-bbc-com-news-world-lati.xml)  
+
 ### [2017-10-26](/news/2017/10/26/index.md)
 
 # Venezuela's democratic opposition wins the Sakharov Prize, the European Union's top human rights award. ([http:--www.bbc.com-news-world-latin-america-41760899 BBC])

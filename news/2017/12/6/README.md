@@ -12,11 +12,14 @@ New York&#39;s Metropolitan Museum of Art has refused to remove a 1938 painting 
 ### [Finland celebrates its 100 years of independence. ](/news/2017/12/6/finland-celebrates-its-100-years-of-independence.md)
 Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuopio.
 
-### [UNICEF reports that as many as 17 million babies face potential brain development issues due to rising pollution levels worldwide. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-face-potential-brain-development-issues-due-to-rising-pollution-levels-worldwide.md)
+### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
 Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.
 
-### [U.S. President Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-tel-aviv.md)
+### [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md)
 The U.S. State Department issued a cable to all its diplomatic posts worldwide on Wednesday asking its officials to defer non-essential travel to Israel, Jerusalem and the West Bank until Dec. 20 according to a copy of the cable seen by Reuters.
+
+### [Investigators discover brain abnormalities in the victims. They are now carefully not using the term "sonic" to describe the attacks and there is growing skepticism it was caused by a sonic device, with the sound heard by victims being a by-product of the brain damage. The white matter of the brain showed changes which doctors believe could not be caused by sound. ](/news/2017/12/6/investigators-discover-brain-abnormalities-in-the-victims-they-are-now-carefully-not-using-the-term-sonic-to-describe-the-attacks-and-the.md)
+WASHINGTON (AP) — Doctors treating the U.S. embassy victims of suspected attacks in Cuba have discovered brain abnormalities as they search for clues to explain hearing, vision, balance and memory damage, The Associated Press has learned.
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested November 20-21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-novem.md)
 The court has increased the bail for the Russian senator from 5 mln to 40 mln euros
@@ -30,11 +33,11 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 ### [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md)
 &quot;If I take such a decision...&quot;
 
-### [The U.S. Government Accountability Office starts a study into the--currently unregulated--length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-theacurrently-unregulatedalength-of-freight-trains.md)
-The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
-
 ### [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md)
 We’re seeing how it looked when the Universe was a toddler
+
+### [An Institute for Science and International Security study indicates that--between March 2014 and September 2017 and to varying degrees--a total of 49 countries violated United Nations sanctions against North Korea. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-thatabetween-march-2014-and-september-2017-and-to-varying-degreesaa.md)
+A new report names 49 countries that have violated international sanctions against North Korea in the last three years.
 
 ## [Previous Day...](/news/2017/12/5/index.md)
 

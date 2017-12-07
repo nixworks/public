@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.html)  [JSON](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.json)  [XML](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.xml)  
+
 ### [2017-10-26](/news/2017/10/26/index.md)
 
 # A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.html)  [JSON](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.json)  [XML](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.xml)  
+
 ### [2017-10-26](/news/2017/10/26/index.md)
 
 # Voters in Kenya go to the polls following the annulment of the results in the Kenyan general election. The President of Kenya Uhuru Kenyatta wins with a 98% majority following an opposition boycott. 

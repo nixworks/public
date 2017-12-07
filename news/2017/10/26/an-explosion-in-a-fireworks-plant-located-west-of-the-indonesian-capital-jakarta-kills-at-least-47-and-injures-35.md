@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.html)  [JSON](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.json)  [XML](/news/2017/10/26/an-explosion-in-a-fireworks-plant-located-west-of-the-indonesian-capital-jakarta-kills-at-least-47-and-injures-35.xml)  
+
 ### [2017-10-26](/news/2017/10/26/index.md)
 
 # An explosion in a fireworks plant located west of the Indonesian capital Jakarta kills at least 47 and injures 35. 
