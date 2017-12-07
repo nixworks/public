@@ -5,14 +5,14 @@ Formats: [HTML](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-r
 
 # Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. 
 
-This was slightly above from the first phase when 65 per cent voters had exercised their franchise on November 26.
+When Nepalis head to the polls today for the first time since 1999, it will be hailed as a historic step forward—the start of a new democratic era for a country that has suffered from years of violence, instability, and government ineptitude. But hope for the future should not obscure the challenging legacies of the past.
 
 
 ### Sources:
 
 1. [Economic Times](https://economictimes.indiatimes.com/news/international/world-news/nepal-clocks-67-voter-turnout-in-final-phase-of-historic-poll/articleshow/61970116.cms)
-2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/nepal-votes-thursday-will-china-or-india-come-out-the-winner/2017/12/05/41473934-d550-11e7-9ad9-ca0619edfa05_story.html)
-2. [Cover Image](https://img.etimg.com/thumb/msid-61970116,width-672,resizemode-4,imgsize-65827/nepal-clocks-67-voter-turnout-in-final-phase-of-historic-poll.jpg)
+2. [Foreign Affairs](https://www.foreignaffairs.com/articles/nepal/2017-12-07/election-nepal-decades-making)
+2. [Cover Image](https://files.foreignaffairs.com/styles/large-crop-landscape/s3/images/articles/2017/12/06/nepal_election_rts1kzo9.jpg?itok=YzAddpkb)
 
 ### Changes:
 
