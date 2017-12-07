@@ -34,8 +34,8 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 ### [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md)
 _Context: Bangkok, Michelin, Michelin Guide, Thailand_
 
-### [The Silence Breakers ("#MeToo") are named Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-metoo-are-named-time-person-of-the-year.md)
-_Context: The Silence Breakers (''#MeToo''), Time Person of the Year, Weinstein effect_
+### [The "Silence Breakers", including those involved in the #MeToo movement are named Time Magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md)
+ NEW YORK (AP) — The &#34;Silence Breakers&#34; — those who have shared their stories about sexual assault and harassment — have been named Time magazine&#39;s Person of the Year. 
 
 ### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
 Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.

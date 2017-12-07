@@ -15,7 +15,7 @@ The hip-hop mogul and Def Jam founder has said ‘I don’t want to be a distrac
 
 ### Related:
 
-1. [The Silence Breakers ("#MeToo") are named Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-metoo-are-named-time-person-of-the-year.md) _Context: Weinstein effect_
+1. [The "Silence Breakers", including those involved in the #MeToo movement are named Time Magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md) _Context: Weinstein effect_
 2. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Weinstein effect_
 3. [NBC News announces that it has terminated their employment of Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-their-employment-of-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-ina.md) _Context: Weinstein effect_
 4. [John Conyers stands down as the ranking Democrat on the United States House Committee on the Judiciary following a series of sexual harassment allegations. ](/news/2017/11/26/john-conyers-stands-down-as-the-ranking-democrat-on-the-united-states-house-committee-on-the-judiciary-following-a-series-of-sexual-harassme.md) _Context: Weinstein effect_
