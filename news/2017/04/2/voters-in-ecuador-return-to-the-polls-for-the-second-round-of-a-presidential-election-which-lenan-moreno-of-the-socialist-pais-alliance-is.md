@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.html)  [JSON](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.json)  [XML](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.xml)  
+
 ### [2017-04-2](/news/2017/04/2/index.md)
 
 # Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. 
@@ -5,11 +8,16 @@
 Ecuador votes in a crucial presidential election runoff on Sunday. Here’s why the race matters.
 
 
-### Source:
+### Sources:
 
 1. [SBS News](http://www.sbs.com.au/news/article/2017/04/02/ecuador-determines-its-future-key-poll-and-maybe-assanges)
 2. [TeleSUR](http://www.telesurtv.net/english/news/Ecuadors-Lenin-Moreno-Defeats-Banker-in-Presidential-Election-20170402-0037.html)
 2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20170402001302030172-original.jpg)
+
+### Changes:
+
+1. [Ecuadorian general election, 2017: Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/ecuadorian-general-election-2017-voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moren.md) _2017-08-27 03:48:05 (First version)_
+1. [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Ecuador votes in a crucial presidential election runoff on Sunday. Here’s why 
 3. [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md) _Context: Ecuador_
 4. [The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. ](/news/2017/02/2/the-national-liberation-army-releases-former-congressman-odin-sanchez-who-had-been-held-hostage-by-the-rebel-group-since-april-2016-paving.md) _Context: Ecuador_
 5. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Ecuador_
-
-### Changes:
-
-1. [Ecuadorian general election, 2017: Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/ecuadorian-general-election-2017-voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moren.md) _2017-08-27 03:48:05 (First version)_
-1. [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md) _(Current version)_

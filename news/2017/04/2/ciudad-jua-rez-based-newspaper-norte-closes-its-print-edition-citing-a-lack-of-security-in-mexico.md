@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.html)  [JSON](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.json)  [XML](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.xml)  
+
 ### [2017-04-2](/news/2017/04/2/index.md)
 
 # Ciudad Juarez-based newspaper "Norte" closes its print edition, citing a lack of security in Mexico. 
@@ -5,7 +8,7 @@
 Norte editor tells readers the paper is closing because the safety of reporters cannot be guaranteed
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/mexican-newspaper-closes-citing-insecurity-journalists-46525864)
 2. [Guardian](https://www.theguardian.com/world/2017/apr/03/adios-mexican-newspaper-norte-closes-after-of-journalist)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/2/index.html)  [JSON](2017/04/2/index.json)  [XML](2017/04/2/index.xml)  
+
 ## [2017-04-2](/news/2017/04/2/index.md)
 
 ### [India inaugurates the 9.2-kilometer Chenani-Nashri Tunnel, in the state of Jammu and Kashmir. ](/news/2017/04/2/india-inaugurates-the-9-2-kilometer-chenani-nashri-tunnel-in-the-state-of-jammu-and-kashmir.md)
@@ -18,7 +21,7 @@ Police say the custodian of a Sufi shrine tortured and killed 20 people after po
 ### [Voters in Armenia go to the polls for an election, the first since constitutional changes were approved in a referendum in 2015, which changed the country's governance from a semi-presidential system to a parliamentary republic. Opinion polls predict a tight race between the nationalist Republican Party, led by President Serzh Sargsyan, and the centre-right Prosperous Armenia, led by Gagik Tsarukyan. With votes from 64% of the polling stations counted, the Republican Party leads with 49.7% of votes. ](/news/2017/04/2/voters-in-armenia-go-to-the-polls-for-an-election-the-first-since-constitutional-changes-were-approved-in-a-referendum-in-2015-which-chang.md)
 Armenia’s ruling Republican Party led by the president has taken a clear lead in the parliamentary polls with 49.7% of the vote, according to data processed from 64% of the polling stations
 
-### [Voters in Serbia go to the polls for an election, which Prime Minster Aleksandar Vucic of the conservative Serbian Progressive Party is expected to win. In projections, Vucic gets around 55% of the votes, avoiding a second round. ](/news/2017/04/2/voters-in-serbia-go-to-the-polls-for-an-election-which-prime-minster-aleksandar-vuaia-of-the-conservative-serbian-progressive-party-is-ex.md)
+### [Voters in Serbia go to the polls for an election, which Prime Minister Aleksandar Vucic of the conservative Serbian Progressive Party is expected to win. In projections, Vucic gets around 55% of the votes, avoiding a second round. ](/news/2017/04/2/voters-in-serbia-go-to-the-polls-for-an-election-which-prime-minister-aleksandar-vuaia-of-the-conservative-serbian-progressive-party-is-e.md)
 Conservative Prime Minister Aleksandar Vucic won Serbia&#039;s presidential election on Sunday, confirming his domination of the Balkan country.
 
 ### [Voters in Ecuador return to the polls for the second round of a presidential election, which Lenin Moreno of the socialist PAIS Alliance is predicted to narrowly win over the center-right Creating Opportunities's Guillermo Lasso. With 94.18% of the votes counted, Moreno leads with 51.07%. According to the national election commission, it was a transparent and successful election. ](/news/2017/04/2/voters-in-ecuador-return-to-the-polls-for-the-second-round-of-a-presidential-election-which-lenan-moreno-of-the-socialist-pais-alliance-is.md)

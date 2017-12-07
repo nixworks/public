@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.html)  [JSON](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.json)  [XML](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.xml)  
+
 ### [2017-04-18](/news/2017/04/18/index.md)
 
 # American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-weetabix-m-a-post-holdings-idUSKBN17J1Q4)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170417&t=2&i=1180949843&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3G10F)

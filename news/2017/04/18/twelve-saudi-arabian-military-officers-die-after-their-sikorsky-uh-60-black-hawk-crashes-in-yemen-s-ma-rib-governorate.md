@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.html)  [JSON](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.json)  [XML](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.xml)  
+
 ### [2017-04-18](/news/2017/04/18/index.md)
 
 # Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. 
@@ -5,15 +8,15 @@
 A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry news website said the cause was friendly fire.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-saudi-idUSKBN17K1W0?il=0)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Saudi Arabia_
-2. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Saudi Arabia_
-3. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Saudi Arabia_
-4. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
-5. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_
+1. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: Saudi Arabia_
+2. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Saudi Arabia_
+3. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Saudi Arabia_
+4. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _Context: Saudi Arabia_
+5. [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md) _Context: Saudi Arabia_

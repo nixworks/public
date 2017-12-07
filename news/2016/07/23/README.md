@@ -12,7 +12,7 @@ The Islamic State claimed responsibility for the recent twin explosions that roc
 ### [Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film "Psycho" for the final season of the American television series "Bates Motel". ](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-role-of-marion-crane-from-the-1960-classic-horror-film-psycho-for-the-final-season-of-the-am.md)
 _Context: Bates Motel, Marion Crane, Psycho, Rihanna_
 
-### [Wikileaks reveals that Ariana Grande was prevented from perfoming in the White House because of the July 2015 donut-licking incident. ](/news/2016/07/23/wikileaks-reveals-that-ariana-grande-was-prevented-from-perfoming-in-the-white-house-because-of-the-july-2015-donut-licking-incident.md)
+### [Wikileaks reveals that Ariana Grande was prevented from performing in the White House because of the July 2015 donut-licking incident. ](/news/2016/07/23/wikileaks-reveals-that-ariana-grande-was-prevented-from-performing-in-the-white-house-because-of-the-july-2015-donut-licking-incident.md)
 _Context: Ariana Grande, White House, donut_
 
 ### [Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-accused-local-officials-of-coveri.md)

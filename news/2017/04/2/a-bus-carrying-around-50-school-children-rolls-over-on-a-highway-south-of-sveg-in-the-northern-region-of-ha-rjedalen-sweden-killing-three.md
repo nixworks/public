@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.html)  [JSON](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.json)  [XML](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.xml)  
+
 ### [2017-04-2](/news/2017/04/2/index.md)
 
 # A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. 
@@ -5,10 +8,15 @@
 Three people were killed when a bus carrying around 50 school children and a few adults rolled over on a road in northern Sweden on Sunday, news agency TT said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.com/article/us-sweden-accident-idUSKBN1740A9)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170402&t=2&i=1179019646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED31088)
+
+### Changes:
+
+1. [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md) _2017-05-02 03:50:58 (First version)_
+1. [A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Three people were killed when a bus carrying around 50 school children and a few
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Swedish_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Swedish_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
-
-### Changes:
-
-1. [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md) _2017-05-02 03:50:58 (First version)_
-1. [A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.md) _(Current version)_
