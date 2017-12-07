@@ -1,0 +1,17 @@
+
+Formats: [HTML](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.html)  [JSON](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.json)  [XML](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.xml)  
+
+### [2017-12-7](/news/2017/12/7/index.md)
+
+# The Parliament of Australia votes to make same sex marriage legal in Australia.
+
+
+
+
+### Related:
+
+1. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissolv.md) _Context: Australia, Parliament of Australia_
+2. [Australia raises security for its Parliament after conducting raids that arrest dozens of suspected terrorists. ](/news/2014/09/19/australia-raises-security-for-its-parliament-after-conducting-raids-that-arrest-dozens-of-suspected-terrorists.md) _Context: Australia, Parliament of Australia_
+3. [Australia's High Court rules same-sex marriages held in the country are invalid. ](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.md) _Context: Australia, Same sex marriage in Australia_
+4. [Australian Capital Territory becomes the first Australian territory to legalize same-sex marriage while the Government of Australia launches a legal challenge in the High Court. ](/news/2013/10/22/australian-capital-territory-becomes-the-first-australian-territory-to-legalize-same-sex-marriage-while-the-government-of-australia-launches.md) _Context: Australia, same sex marriage_
+5. [Prime Minister Julia Gillard confirms she does not support the legalisation of same-sex marriage in Australia, ](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.md) _Context: Australia, same sex marriage_
