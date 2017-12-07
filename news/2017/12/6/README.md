@@ -12,6 +12,9 @@ New York&#39;s Metropolitan Museum of Art has refused to remove a 1938 painting 
 ### [Finland celebrates its 100 years of independence. ](/news/2017/12/6/finland-celebrates-its-100-years-of-independence.md)
 Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuopio.
 
+### [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md)
+_Context: Bangkok, Michelin, Michelin Guide, Thailand_
+
 ### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
 Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.
 
