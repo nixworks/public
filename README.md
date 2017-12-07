@@ -15,6 +15,12 @@ Meeting to be held as Palestinian protests and global criticism grow over Trump 
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
+### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
+_Context: Czech Republic, European Commission, European Union, European migrant crisis, Hungary, Poland, Treaty on European Union, court_
+
+### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
+&quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
+
 ### [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md)
 India&rsquo;s influence in Nepal was once unrivaled, but China has now become a player.
 
@@ -64,7 +70,7 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 ### [The U.S. Government Accountability Office starts a study into the (currently unregulated) length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-the-currently-unregulated-length-of-freight-trains.md)
 The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
 
-### [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md)
+### [A study published in "Nature" and the "Astrophysical Journal Letters" describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ev.md)
 We’re seeing how it looked when the Universe was a toddler
 
 ---

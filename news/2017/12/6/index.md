@@ -45,7 +45,7 @@ On Tuesday, Ukraine’s prosecutor-general gave Saakashvili an ultimatum emphasi
 ### [The U.S. Government Accountability Office starts a study into the (currently unregulated) length of freight trains. ](/news/2017/12/6/the-u-s-government-accountability-office-starts-a-study-into-the-currently-unregulated-length-of-freight-trains.md)
 The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.
 
-### [A study published in Nature and the Astrophysical Journal Letters describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ever.md)
+### [A study published in "Nature" and the "Astrophysical Journal Letters" describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. ](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysical-journal-letters-describes-the-discovery-of-the-most-distant-supermassive-black-hole-ev.md)
 We’re seeing how it looked when the Universe was a toddler
 
 ## [Previous Day...](/news/2017/12/5/index.md)

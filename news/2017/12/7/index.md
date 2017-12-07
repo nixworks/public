@@ -15,6 +15,12 @@ Meeting to be held as Palestinian protests and global criticism grow over Trump 
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
+### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
+_Context: Czech Republic, European Commission, European Union, European migrant crisis, Hungary, Poland, Treaty on European Union, court_
+
+### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
+&quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
+
 ### [Voters in Nepal go to the polls for the second round of a legislative election. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-legislative-election.md)
 India&rsquo;s influence in Nepal was once unrivaled, but China has now become a player.
 
