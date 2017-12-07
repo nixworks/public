@@ -22,7 +22,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 A passenger train crashed into a goods train near the city of Düsseldorf, emergency services say.
 
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
-_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
+_Context: Donald Trump, Erdogan, Jerusalem, Positions on Jerusalem_
 
 ### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)
 Latest development in six-month-long Qatar dispute throws future of Gulf Cooperation Council into doubt

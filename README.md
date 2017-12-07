@@ -3,6 +3,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/7/index.md)
 
+### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
+_Context: Czech Republic, Israel, West Jerusalem_
+
+### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. M. Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-m-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
+Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders
+
+### [The United Nations Security Council meeting described on December 6 is expected for December 8. ](/news/2017/12/7/the-united-nations-security-council-meeting-described-on-december-6-is-expected-for-december-8.md)
+Meeting to be held as Palestinian protests and global criticism grow over Trump recognising Jerusalem as Israeli capital
+
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
@@ -81,7 +90,7 @@ Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is
 A passenger train crashed into a goods train near the city of Düsseldorf, emergency services say.
 
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
-_Context: Donald Trump, Jerusalem, Positions on Jerusalem, Recep Tayyip Erdogan_
+_Context: Donald Trump, Erdogan, Jerusalem, Positions on Jerusalem_
 
 ### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)
 Latest development in six-month-long Qatar dispute throws future of Gulf Cooperation Council into doubt
