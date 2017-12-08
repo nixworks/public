@@ -10,8 +10,9 @@ Formats: [HTML](/news/2017/12/7/united-states-senator-al-franken-announces-that-
 
 ### Sources:
 
-1. [Time](http://time.com/5053057/al-franken-resigns-senate-seat-minnesota/)
-1. [Cover Image](https://timedotcom.files.wordpress.com/2016/10/al-franken.jpg?quality&#x3D;85)
+1. [Fox News](http://www.foxnews.com/politics/2017/12/07/rep-trent-franks-r-ariz-expected-to-resign.html)
+2. [Time](http://time.com/5053057/al-franken-resigns-senate-seat-minnesota/)
+2. [Cover Image](https://timedotcom.files.wordpress.com/2016/10/al-franken.jpg?quality&#x3D;85)
 
 ### Changes:
 
