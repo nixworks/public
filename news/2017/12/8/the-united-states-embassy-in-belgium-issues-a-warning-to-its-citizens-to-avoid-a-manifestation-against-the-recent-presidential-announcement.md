@@ -10,8 +10,10 @@ Formats: [HTML](/news/2017/12/8/the-united-states-embassy-in-belgium-issues-a-wa
 
 ### Sources:
 
-1. [Het Laatste Nieuws](https://www.hln.be/nieuws/binnenland/amerikaanse-ambassade-waarschuwt-landgenoten-voor-jeruzalem-manifestatie-in-brussel~a8c34f4e/)
-1. [Cover Image](https://images3.persgroep.net/rcs/fhm_uwMvnS2d_gAkz3T_5DLG84w/diocontent/20736985/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
+1. [BBC](http://www.bbc.com/news/world-middle-east-42278644)
+2. [Het Laatste Nieuws](https://www.hln.be/nieuws/binnenland/amerikaanse-ambassade-waarschuwt-landgenoten-voor-jeruzalem-manifestatie-in-brussel~a8c34f4e/)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-russia-jerusalem/russias-lavrov-u-s-decision-on-jerusalem-contradicts-common-sense-idUSKBN1E21EH)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/98DC/production/_99123193_eb2b8fdd-97ab-461d-b04a-451d1481cb0d.jpg)
 
 ### Related:
 
