@@ -6,14 +6,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-the-tomioka-hachiman-shrine-in-japan.md)
 A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed Tomioka Hachimangu shrine has left three dead — including the chief priestess an
 
-### [A railway trade union announces a work strike that will not halt trains. ](/news/2017/12/8/a-railway-trade-union-announces-a-work-strike-that-will-not-halt-trains.md)
-_Context: Positivism, Surrealism_
-
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
 _Context: European Union, Japan_
 
 ### [The United States embassy in Belgium issues a warning to its citizens to avoid a manifestation against the "recent Presidential announcement" and avoid all protest locations. ](/news/2017/12/8/the-united-states-embassy-in-belgium-issues-a-warning-to-its-citizens-to-avoid-a-manifestation-against-the-recent-presidential-announcement.md)
-_Context: Belgium, Israel-United States relations, Positions on Jerusalem, United States, recent Presidential announcement_
+News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
 _Context: Brexit, European Union, Ireland, United Kingdom_
