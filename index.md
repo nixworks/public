@@ -26,7 +26,7 @@ _Context: Czech Republic, European Commission, European migrant crisis, Hungary,
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
-_Context: Aztec High School, Aztec High School shooting_
+_Context: Aztec High School, Aztec High School shooting, New Mexico_
 
 ### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
@@ -74,7 +74,7 @@ The U.S. State Department issued a cable to all its diplomatic posts worldwide o
 ### [Investigators discover brain abnormalities in the victims. They are now carefully not using the term "sonic" to describe the attacks and there is growing skepticism it was caused by a sonic device, with the sound heard by victims being a by-product of the brain damage. The white matter of the brains showed changes which doctors believe could not be caused by sound. ](/news/2017/12/6/investigators-discover-brain-abnormalities-in-the-victims-they-are-now-carefully-not-using-the-term-sonic-to-describe-the-attacks-and-the.md)
 WASHINGTON (AP) — Doctors treating the U.S. embassy victims of suspected attacks in Cuba have discovered brain abnormalities as they search for clues to explain hearing, vision, balance and memory damage, The Associated Press has learned.
 
-### [An Institute for Science and International Security study indicates that (between March 2014 and September 2017 and to varying degrees) a total of 49 countries violated United Nations sanctions against North Korea. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-that-between-march-2014-and-september-2017-and-to-varying-degrees-a-to.md)
+### [An Institute for Science and International Security study indicates that (between March 2014 and September 2017) a total of 49 countries violated United Nations sanctions against North Korea to varying degrees. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-that-between-march-2014-and-september-2017-a-total-of-49-countries-vio.md)
 A new report names 49 countries that have violated international sanctions against North Korea in the last three years.
 
 ### [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested on November 21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-on-no.md)

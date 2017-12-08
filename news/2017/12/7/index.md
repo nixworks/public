@@ -19,7 +19,7 @@ _Context: Czech Republic, European Commission, European migrant crisis, Hungary,
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
-_Context: Aztec High School, Aztec High School shooting_
+_Context: Aztec High School, Aztec High School shooting, New Mexico_
 
 ### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
