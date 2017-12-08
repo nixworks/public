@@ -3,13 +3,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/8/index.md)
 
+### [Rebels in North Kivu kill at least 14 United Nations peacekeepers and wound 53 others, most of them Tanzanian and Congolese. An unknown number of the rebels are killed. Nearly 300 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/rebels-in-north-kivu-kill-at-least-14-united-nations-peacekeepers-and-wound-53-others-most-of-them-tanzanian-and-congolese-an-unknown-numb.md)
+Peacekeeping mission in DRC is largest, most expensive in world; aimed at calming armed groups in vast, mineral-rich nation
+
 ### [Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-the-tomioka-hachiman-shrine-in-japan.md)
 A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed Tomioka Hachimangu shrine has left three dead — including the chief priestess an
 
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
 _Context: European Union, Japan_
 
-### [President Donald Trump approves to declare an emergency, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/president-donald-trump-approves-to-declare-an-emergency-allowing-the-federal-emergency-management-agency-to-coordinate-disaster-relief-effo.md)
+### [President Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/president-donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coord.md)
 President Trump approved California’s request for an emergency declaration Friday.According to a White House press release, Trump order...
 
 ### [The United States embassy in Belgium issues a warning to its citizens to avoid a manifestation against the "recent Presidential announcement" and avoid all protest locations. ](/news/2017/12/8/the-united-states-embassy-in-belgium-issues-a-warning-to-its-citizens-to-avoid-a-manifestation-against-the-recent-presidential-announcement.md)
@@ -26,6 +29,9 @@ Opponents see bill as an erosion of judicial independence under populist Law and
 
 ### [President Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/president-trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash.md)
 President Trump signed stopgap legislation Friday to prevent a government shutdown ahead of the midnight Friday deadline.
+
+### [Deputy National Security Advisor Dina Powell is announced to be leaving the Trump administration by early next year. The "Washington Post" reports she is "leaving on good terms". ](/news/2017/12/8/deputy-national-security-advisor-dina-powell-is-announced-to-be-leaving-the-trump-administration-by-early-next-year-the-washington-post-r.md)
+Deputy national security adviser Dina Powell will step down from her position early next year, the White House said Friday. 
 
 ### [Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace slams the claim as a cover-up. ](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-originates-from-the-mayak-plant-a-probe-found-no-trace-of-ruthenium-106-after-last-september-s.md)
 _Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, Mayak, Ruthenium-106_
