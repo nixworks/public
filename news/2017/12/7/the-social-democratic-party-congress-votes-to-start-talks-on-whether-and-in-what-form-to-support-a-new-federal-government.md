@@ -10,7 +10,7 @@ The Latest on efforts to form a new government in Germany (all times local):
 
 ### Sources:
 
-1. [Washington Post](https://www.washingtonpost.com/world/europe/the-latest-german-social-democrats-back-talks-on-government/2017/12/07/54ec7fa6-db79-11e7-a241-0848315642d0_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/the-latest-german-social-democrats-back-talks-on-government/2017/12/07/54ec7fa6-db79-11e7-a241-0848315642d0_story.html)
 
 ### Related:
 
