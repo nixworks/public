@@ -6,7 +6,7 @@ Formats: [HTML](2017/12/7/index.html)  [JSON](2017/12/7/index.json)  [XML](2017/
 ### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
 _Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
 
-### [Amid tight security, the President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/amid-tight-security-the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65.md)
+### [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
 Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders
 
 ### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
@@ -25,9 +25,9 @@ An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Part
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
 ### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, Presidency of Mauricio Macri, President of Argentina, community center, foreign affairs minister_
+_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister_
 
-### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
+### [United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-announces-that-he-will-resign-in-the-coming-weeks-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
 
 ### [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md)
