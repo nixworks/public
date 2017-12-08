@@ -18,3 +18,7 @@ A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed 
 
 1. [Three people are killed in a rampage involving swords near a shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-a-shrine-in-japan.md) _2017-12-08 14:30:07 (First version)_
 1. [Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-the-tomioka-hachiman-shrine-in-japan.md) _(Current version)_
+
+### Related:
+
+1. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Crime in Japan_
