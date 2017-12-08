@@ -24,6 +24,12 @@ Japan is to acquire medium-range, air-launched cruise missiles, capable of strik
 ### [Poland's Sejm approves controversial judiciary changes. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes.md)
 Opponents see bill as an erosion of judicial independence under populist Law and Justice party
 
+### [President Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/president-trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash.md)
+President Trump signed stopgap legislation Friday to prevent a government shutdown ahead of the midnight Friday deadline.
+
+### [Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace slams the claim as a cover-up. ](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-originates-from-the-mayak-plant-a-probe-found-no-trace-of-ruthenium-106-after-last-september-s.md)
+_Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, Mayak, Ruthenium-106_
+
 ---
 
 ## [Yesterday](/news/2017/12/7/index.md)
