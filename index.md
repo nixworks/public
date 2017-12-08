@@ -13,7 +13,7 @@ Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relati
 _Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
 
 ### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
-_Context: Czech Republic, European Commission, European migrant crisis, Hungary, Poland, Treaty on European Union, court, voting right_
+_Context: Czech Republic, European Commission, European migrant crisis, Hungary, Polish, Treaty on European Union, court, voting right_
 
 ### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
 _Context: Aztec High School, Aztec High School shooting_
@@ -21,11 +21,11 @@ _Context: Aztec High School, Aztec High School shooting_
 ### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
 An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
 
-### [15 countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/15-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiations.md)
+### [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md)
 &quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
 
 ### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister_
+_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, Presidency of Mauricio Macri, President of Argentina, community center, foreign affairs minister_
 
 ### [United States Senator Al Franken resigns amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-resigns-amid-sexual-harassment-allegations.md)
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
@@ -35,6 +35,9 @@ When Nepalis head to the polls today for the first time since 1999, it will be h
 
 ### [The Social Democratic Party congress votes to start talks on "whether and in what form" to support a new federal government. ](/news/2017/12/7/the-social-democratic-party-congress-votes-to-start-talks-on-whether-and-in-what-form-to-support-a-new-federal-government.md)
 The Latest on efforts to form a new government in Germany (all times local):
+
+### [Polish Prime Minister Beata Szydlo resigns just hours after surviving an opposition no-confidence motion. She will be replaced by Finance Minister Mateusz Morawiecki, according to the ruling Law and Justice party. ](/news/2017/12/7/polish-prime-minister-beata-szydao-resigns-just-hours-after-surviving-an-opposition-no-confidence-motion-she-will-be-replaced-by-finance-m.md)
+She is replaced by Finance Minister Mateusz Morawiecki after weeks of speculation.
 
 ---
 
@@ -52,7 +55,7 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 ### [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md)
 _Context: Bangkok, Michelin, Michelin Guide, Thailand_
 
-### [The "Silence Breakers", including those involved in the #MeToo movement are named Time Magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md)
+### [The "Silence Breakers", including those involved in the #MeToo movement, are named Time Magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md)
  NEW YORK (AP) — The &#34;Silence Breakers&#34; — those who have shared their stories about sexual assault and harassment — have been named Time magazine&#39;s Person of the Year. 
 
 ### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
