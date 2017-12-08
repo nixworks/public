@@ -9,6 +9,9 @@ A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed 
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
 _Context: European Union, Japan_
 
+### [President Donald Trump approves to declare an emergency, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/president-donald-trump-approves-to-declare-an-emergency-allowing-the-federal-emergency-management-agency-to-coordinate-disaster-relief-effo.md)
+President Trump approved California’s request for an emergency declaration Friday.According to a White House press release, Trump order...
+
 ### [The United States embassy in Belgium issues a warning to its citizens to avoid a manifestation against the "recent Presidential announcement" and avoid all protest locations. ](/news/2017/12/8/the-united-states-embassy-in-belgium-issues-a-warning-to-its-citizens-to-avoid-a-manifestation-against-the-recent-presidential-announcement.md)
 News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
 
