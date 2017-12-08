@@ -3,20 +3,23 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/8/index.md)
 
+### [Three people are killed in a rampage involving swords near a shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-a-shrine-in-japan.md)
+A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed Tomioka Hachimangu shrine has left three dead — including the chief priestess an
+
 ### [The United States embassy in Belgium issues a warning to its citizens to avoid a manifestation against the "recent Presidential announcement" and avoid all protest locations. ](/news/2017/12/8/the-united-states-embassy-in-belgium-issues-a-warning-to-its-citizens-to-avoid-a-manifestation-against-the-recent-presidential-announcement.md)
 _Context: Belgium, Israel-United States relations, Positions on Jerusalem, United States, recent Presidential announcement_
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the UK and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-uk-and.md)
 _Context: Brexit, European Union, Ireland, United Kingdom_
 
-### [The Japanese Minister of Defense says his country is to procures cruise missiles able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procures-cruise-missiles-able-to-reach-north-korea.md)
+### [The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-missiles-able-to-reach-north-korea.md)
 Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
 
 ---
 
 ## [Yesterday](/news/2017/12/7/index.md)
 
-### [The Czech Republic recognizes West Jerusalem as Israel's capital. ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital.md)
+### [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md)
 _Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
 
 ### [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
