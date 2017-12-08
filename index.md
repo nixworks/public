@@ -3,11 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/8/index.md)
 
-### [Rebels in North Kivu kill at least 14 United Nations peacekeepers and wound 53 others, most of them Tanzanian and Congolese. An unknown number of the rebels are killed. Nearly 300 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/rebels-in-north-kivu-kill-at-least-14-united-nations-peacekeepers-and-wound-53-others-most-of-them-tanzanian-and-congolese-an-unknown-numb.md)
-Peacekeeping mission in DRC is largest, most expensive in world; aimed at calming armed groups in vast, mineral-rich nation
-
-### [Reporters Without Borders accuses Swedish Doctors for Human Rights of being Russian agents. ](/news/2017/12/8/reporters-without-borders-accuses-swedish-doctors-for-human-rights-of-being-russian-agents.md)
-Vanessa Beeley on Geneva Press Club conference on the White Helmets, Reporters Without Borders, their funding and sponsors.
+### [Suspected (by the U.N) Allied Democratic Forces militants in North Kivu kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, wounding 53 other people. An unknown number of the rebels are killed. Nearly 300 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-by-the-u-n-allied-democratic-forces-militants-in-north-kivu-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and.md)
+António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’
 
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
 _Context: European Union, Japan, Japan-European Union relations_
