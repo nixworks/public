@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/9/index.md)
 
-### [Iraq announces victory in its war against the Islamic State. ](/news/2017/12/9/iraq-announces-victory-in-its-war-against-the-islamic-state.md)
+### [Iraq announces that its war against so-called Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-so-called-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vil.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
