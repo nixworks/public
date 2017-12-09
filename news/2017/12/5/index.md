@@ -48,5 +48,8 @@ All national police will refuse to enforce a curfew after days of deadly violenc
 ### [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md)
 The move by the longtime Democratic congressman from Michigan came after top House Democrats and House Speaker Paul Ryan, R-Wis., had called on him to resign.
 
+### [In just a few hours, DeepMind's AI AlphaZero learn to master both chess and shogi, beating top chess software Stockfish and Elmo without domain knowledge. ](/news/2017/12/5/in-just-a-few-hours-deepmind-s-ai-alphazero-learn-to-master-both-chess-and-shogi-beating-top-chess-software-stockfish-and-elmo-without-dom.md)
+While Artificial Intelligence is fascinating, incredible and all sorts of other shiny superlatives, it is also terrifying. If you’ll recall, Google’s DeepMind created an AI that bested the world’s best Go players. It’s an incredibly complex Chinese board game that takes years to master. The ...
+
 ## [Previous Day...](/news/2017/12/4/index.md)
 

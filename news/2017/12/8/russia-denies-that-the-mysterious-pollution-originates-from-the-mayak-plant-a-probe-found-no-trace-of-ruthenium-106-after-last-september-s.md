@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-orig
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
-# Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace slams the claim as a cover-up. 
+# Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace criticises the claim, claiming it to be a cover-up. 
 
 
 
