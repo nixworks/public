@@ -3,17 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/9/index.md)
 
-### [Iraq has announced that its war against the so-called Islamic State is over.](/news/2017/12/9/iraq-has-announced-that-its-war-against-the-so-called-islamic-state-is-over.md)
+### [Iraq announces victory in its war against the so-called Islamic State.](/news/2017/12/9/iraq-announces-victory-in-its-war-against-the-so-called-islamic-state.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
-### [Archaeologists in Egypt have displayed items, including a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-have-displayed-items-including-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-nile-city-of-lux.md)
+### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
 ---
 
 ## [Yesterday](/news/2017/12/8/index.md)
 
-### [Suspected (by the United Nations) Allied Democratic Forces militants in North Kivu kill at least 15 United Nations MONUSCO peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-by-the-united-nations-allied-democratic-forces-militants-in-north-kivu-kill-at-least-15-united-nations-monusco-peacekeepers-mos.md)
+### [Suspected (by the United Nations) Allied Democratic Forces militants in North Kivu, Democratic Republic of Congo, kill at least 15 United Nations MONUSCO peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-by-the-united-nations-allied-democratic-forces-militants-in-north-kivu-democratic-republic-of-congo-kill-at-least-15-united-na.md)
 António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’
 
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
@@ -28,7 +28,7 @@ News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
 _Context: Brexit negotiations, European Union, Ireland, United Kingdom_
 
-### [The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-missiles-able-to-reach-north-korea.md)
+### [The Japanese Minister of Defense says his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-that-ren.md)
 Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
 
 ### [Poland's Sejm approves controversial judiciary changes amid accusations of threat to democracy. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes-amid-accusations-of-threat-to-democracy.md)
