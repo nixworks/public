@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/8/index.md)
 
+### [Suspected (by the United Nations) Allied Democratic Forces militants in North Kivu kill at least 15 United Nations MONUSCO peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-by-the-united-nations-allied-democratic-forces-militants-in-north-kivu-kill-at-least-15-united-nations-monusco-peacekeepers-mos.md)
+António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’
+
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
 _Context: European Union, Japan, Japan-European Union relations_
 
@@ -33,8 +36,8 @@ President Trump signed stopgap legislation Friday to prevent a government shutdo
 ### [The White House announces that Deputy National Security Advisor Dina Powell will leave the Trump administration early 2018. ](/news/2017/12/8/the-white-house-announces-that-deputy-national-security-advisor-dina-powell-will-leave-the-trump-administration-early-2018.md)
 Deputy national security adviser Dina Powell will step down from her position early next year, the White House said Friday. 
 
-### [Mikheil Saakashvili is arrested again by the Ukrainian security service. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-ukrainian-security-service-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md)
-_Context: Mikheil Saakashvili, Petro Poroshenko, Ukrainian crisis, Ukrainian security service_
+### [Mikheil Saakashvili is arrested again by the National Police of Ukraine. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-national-police-of-ukraine-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md)
+_Context: Mikheil Saakashvili, National Police of Ukraine, Petro Poroshenko, Ukrainian crisis_
 
 ### [Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace criticises the claim, claiming it to be a cover-up. ](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-originates-from-the-mayak-plant-a-probe-found-no-trace-of-ruthenium-106-after-last-september-s.md)
 _Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, Mayak, Ruthenium-106_
