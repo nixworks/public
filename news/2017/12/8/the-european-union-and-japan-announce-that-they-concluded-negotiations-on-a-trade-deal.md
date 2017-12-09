@@ -10,8 +10,8 @@ Formats: [HTML](/news/2017/12/8/the-european-union-and-japan-announce-that-they-
 
 ### Sources:
 
-1. [Reuters mobile](http://uk.mobile.reuters.com/article/amp/idUKKBN1E21QH)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171208&t=2&i=1213113707&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEDB7158)
+1. [Reuters](https://www.reuters.com/article/us-japan-eu-trade/eu-japan-conclude-worlds-largest-free-trade-agreement-idUSKBN1E21BT)
+1. [Cover Image](/resources/r/?m=02&d=20171208&t=2&i=1213068888&w=400&r=LYNXMPEDB70U7)
 
 ### Related:
 
