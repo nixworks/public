@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/8/index.html)  [JSON](2017/12/8/index.json)  [XML](2017/
 
 ## [2017-12-8](/news/2017/12/8/index.md)
 
-### [Suspected (by the United Nations) Allied Democratic Forces militants in North Kivu, Democratic Republic of Congo, kill at least 15 United Nations MONUSCO peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-by-the-united-nations-allied-democratic-forces-militants-in-north-kivu-democratic-republic-of-congo-kill-at-least-15-united-na.md)
+### [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md)
 António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’
 
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
