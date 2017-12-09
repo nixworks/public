@@ -13,13 +13,13 @@ _Context: European Union, Japan, Japan-European Union relations_
 President Trump approved California’s request for an emergency declaration Friday.According to a White House press release, Trump order...
 
 ### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israelas-capital-by-the-united-states-runs-c.md)
-_Context: Israel-United States relations, Minister of Foreign Affairs, Positions on Jerusalem#United States, Russia, Sergei Lavrov_
+News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
 _Context: Brexit negotiations, European Union, Ireland, United Kingdom_
 
 ### [The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-missiles-able-to-reach-north-korea.md)
- Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, a controversial purchase of what will become the longest-range
+Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
 
 ### [Poland's Sejm approves controversial judiciary changes amid accusations of threat to democracy. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes-amid-accusations-of-threat-to-democracy.md)
 Opponents see bill as an erosion of judicial independence under populist Law and Justice party
@@ -32,6 +32,9 @@ President Trump signed stopgap legislation Friday to prevent a government shutdo
 
 ### [The White House announces that Deputy National Security Advisor Dina Powell will leave the Trump administration early 2018. ](/news/2017/12/8/the-white-house-announces-that-deputy-national-security-advisor-dina-powell-will-leave-the-trump-administration-early-2018.md)
 Deputy national security adviser Dina Powell will step down from her position early next year, the White House said Friday. 
+
+### [Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace slams the claim as a cover-up. ](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-originates-from-the-mayak-plant-a-probe-found-no-trace-of-ruthenium-106-after-last-september-s.md)
+_Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, Mayak, Ruthenium-106_
 
 ## [Previous Day...](/news/2017/12/7/index.md)
 

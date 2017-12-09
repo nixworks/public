@@ -5,13 +5,14 @@ Formats: [HTML](/news/2017/12/8/the-japanese-minister-of-defense-says-his-countr
 
 # The Japanese Minister of Defense says his country is to procure missiles, able to reach North Korea. 
 
- Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, a controversial purchase of what will become the longest-range
+Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
 
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR)
-1. [Cover Image](/resources/r/?m=02&d=20171208&t=2&i=1213045159&w=400&r=LYNXMPEDB70KD)
+1. [RT](https://www.rt.com/newsline/412404-japan-missiles-north-korea/)
+2. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR)
+2. [Cover Image](https://www.rt.com/static/img/og-logo-rt.png)
 
 ### Changes:
 

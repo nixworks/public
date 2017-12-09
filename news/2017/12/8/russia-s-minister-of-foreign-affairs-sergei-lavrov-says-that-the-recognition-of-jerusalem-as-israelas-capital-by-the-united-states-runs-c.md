@@ -5,15 +5,16 @@ Formats: [HTML](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavr
 
 # Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." 
 
-
+News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
 
 
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-42278644)
-2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-russia-jerusalem/russias-lavrov-u-s-decision-on-jerusalem-contradicts-common-sense-idUSKBN1E21EH)
-3. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/palestinians-muslims-worldwide-hold-day-of-rage-over-jerusalem-idUSKBN1E211I)
-3. [Cover Image](/resources/r/?m=02&d=20171208&t=2&i=1213100945&w=400&r=LYNXMPEDB7134)
+2. [RT](https://www.rt.com/news/412084-trump-israel-capital-jerusalem/)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-russia-jerusalem/russias-lavrov-u-s-decision-on-jerusalem-contradicts-common-sense-idUSKBN1E21EH)
+4. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/palestinians-muslims-worldwide-hold-day-of-rage-over-jerusalem-idUSKBN1E211I)
+4. [Cover Image](https://cdni.rt.com/files/2017.12/article/5a2a9206fc7e93031f8b4567.jpg)
 
 ### Related:
 
