@@ -3,10 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/9/index.md)
 
-### [Iraq announces victory in its war against the so-called Islamic State.](/news/2017/12/9/iraq-announces-victory-in-its-war-against-the-so-called-islamic-state.md)
+### [Iraq announces victory in its war against the Islamic State. ](/news/2017/12/9/iraq-announces-victory-in-its-war-against-the-islamic-state.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
-### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
+### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
 ---
@@ -28,7 +28,7 @@ News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
 _Context: Brexit negotiations, European Union, Ireland, United Kingdom_
 
-### [The Japanese Minister of Defense says his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-that-ren.md)
+### [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md)
 Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
 
 ### [Poland's Sejm approves controversial judiciary changes amid accusations of threat to democracy. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes-amid-accusations-of-threat-to-democracy.md)
@@ -37,7 +37,7 @@ Opponents see bill as an erosion of judicial independence under populist Law and
 ### [Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. ](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-swords-near-the-tomioka-hachiman-shrine-in-japan.md)
 A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed Tomioka Hachimangu shrine has left three dead — including the chief priestess an
 
-### [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md)
+### [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md)
 Rep&#x2e;&#x20;Trent&#x20;Franks&#x20;says&#x20;he&#x20;is&#x20;resigning&#x20;immediately&#x20;instead&#x20;of&#x20;at&#x20;the&#x20;end&#x20;of&#x20;January&#x2e;&#x20;&#x20;The&#x20;Arizona&#x20;Republican&#x20;had&#x20;announced&#x20;only&#x20;Thursday&#x20;that&#x20;he&#x20;would&#x20;leave&#x2...
 
 ### [Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash-out-diffe.md)

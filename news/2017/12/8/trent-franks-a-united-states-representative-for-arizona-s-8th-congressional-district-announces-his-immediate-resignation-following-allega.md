@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/8/trent-franks-a-united-states-representative-for-
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
-# Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. 
+# Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. 
 
 Rep&#x2e;&#x20;Trent&#x20;Franks&#x20;says&#x20;he&#x20;is&#x20;resigning&#x20;immediately&#x20;instead&#x20;of&#x20;at&#x20;the&#x20;end&#x20;of&#x20;January&#x2e;&#x20;&#x20;The&#x20;Arizona&#x20;Republican&#x20;had&#x20;announced&#x20;only&#x20;Thursday&#x20;that&#x20;he&#x20;would&#x20;leave&#x20;the&#x20;House&#x20;over&#x20;accusations&#x20;that&#x20;he&#x20;asked&#x20;two&#x20;former&#x20;aides&#x20;to&#x20;bear&#x20;his&#x20;child&#x20;as&#x20;surrogate&#x20;mothers&#x2e;
 
@@ -16,7 +16,7 @@ Rep&#x2e;&#x20;Trent&#x20;Franks&#x20;says&#x20;he&#x20;is&#x20;resigning&#x20;i
 ### Changes:
 
 1. [Trent Franks, a United States representative for Arizona's Arizona's 8th congressional district, announces his immediate resignation, following allegations he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-arizona-s-8th-congressional-district-announces-his-immediate-resignation-follow.md) _2017-12-09 07:30:07 (First version)_
-1. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _(Current version)_
+1. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _(Current version)_
 
 ### Related:
 

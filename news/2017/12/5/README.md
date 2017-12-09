@@ -36,9 +36,6 @@ Crowds of supporters demonstrate as anti-corruption campaigner is taken away by 
 ### [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md)
 The Supreme Court says Carles Puigdemont and others have shown a willingness to return to Spain.
 
-### [Reuters and "Handelsblatt" cite a source claiming that, weeks ago, Deutsche Bank received a subpoena from special prosecutor Robert Mueller to turn over Donald Trump's personal banking information. ](/news/2017/12/5/reuters-and-handelsblatt-cite-a-source-claiming-that-weeks-ago-deutsche-bank-received-a-subpoena-from-special-prosecutor-robert-mueller.md)
-Special counsel Robert Mueller has asked Deutsche Bank to share data on the US president&#39;s business dealings, as his investigation into alleged Russian meddling in the US election widens.
-
 ### [Austria's Constitutional Court rules that the government cannot discriminate against same-sex couples' right to marry. ](/news/2017/12/5/austria-s-constitutional-court-rules-that-the-government-cannot-discriminate-against-same-sex-couples-right-to-marry.md)
 Although civil partnership had been permitted since 2010, the country’s highest court found that marriage should also be open to same-sex couples.
 
