@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/30/a-rare-minor-earthquake-centered-7-mi-northeast
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
-# A rare minor earthquake centered 7 mi northeast of Dover, Delaware is felt throughout the Mid-Atlantic United States. 
+# A rare minor earthquake centered 7 mi northeast of Dover, Delaware, is felt throughout the Mid-Atlantic United States. 
 
 The earthquake was centered in the Delaware Bay.
 
@@ -15,7 +15,7 @@ The earthquake was centered in the Delaware Bay.
 ### Changes:
 
 1. [A minor earthquake centered 7 mi northeast of Dover, Delaware, is felt throughout the Mid-Atlantic United States. ](/news/2017/11/30/a-minor-earthquake-centered-7-mi-northeast-of-dover-delaware-is-felt-throughout-the-mid-atlantic-united-states.md) _2017-12-01 14:30:05 (First version)_
-1. [A rare minor earthquake centered 7 mi northeast of Dover, Delaware is felt throughout the Mid-Atlantic United States. ](/news/2017/11/30/a-rare-minor-earthquake-centered-7-mi-northeast-of-dover-delaware-is-felt-throughout-the-mid-atlantic-united-states.md) _(Current version)_
+1. [A rare minor earthquake centered 7 mi northeast of Dover, Delaware, is felt throughout the Mid-Atlantic United States. ](/news/2017/11/30/a-rare-minor-earthquake-centered-7-mi-northeast-of-dover-delaware-is-felt-throughout-the-mid-atlantic-united-states.md) _(Current version)_
 
 ### Related:
 

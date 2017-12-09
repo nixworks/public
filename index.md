@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/9/index.md)
 
-### [Iraq has announced that its war against so-called Islamic State is over.](/news/2017/12/9/iraq-has-announced-that-its-war-against-so-called-islamic-state-is-over.md)
+### [Iraq has announced that its war against the so-called Islamic State is over.](/news/2017/12/9/iraq-has-announced-that-its-war-against-the-so-called-islamic-state-is-over.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### [Archaeologists in Egypt have displayed items, including a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor.](/news/2017/12/9/archaeologists-in-egypt-have-displayed-items-including-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-nile-city-of-lux.md)
