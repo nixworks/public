@@ -12,8 +12,11 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
-### ["The New York Times" reports that Donald Trump would watch CNN, Fox and MSNBC. He would spend at least four hours a day watching television. ](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-would-watch-cnn-fox-and-msnbc-he-would-spend-at-least-four-hours-a-day-watching-television.md)
+### ["The New York Times" reports that Donald Trump spends at least four hours a day watching the news on television instead of doing his job as President.](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-spends-at-least-four-hours-a-day-watching-the-news-on-television-instead-of-doing-his-job-as.md)
 President Trump spends at least four hours a day watching television, according to a new report.
+
+### [The 16-hectare hamlet of Alwine in Uebigau-Wahrenbruck, Germany, is sold for 140.000 EUR. ](/news/2017/12/9/the-16-hectare-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-germany-is-sold-for-140-000-a.md)
+_Context: Alwine, Germany, Uebigau-Wahrenbruck_
 
 ---
 

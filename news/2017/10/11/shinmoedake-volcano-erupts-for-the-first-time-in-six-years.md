@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-in-six-years.html)  [JSON](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-in-six-years.json)  [XML](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-in-six-years.xml)  
+
 ### [2017-10-11](/news/2017/10/11/index.md)
 
 # Shinmoedake volcano erupts for the first time in six years. 

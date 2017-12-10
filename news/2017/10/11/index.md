@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/11/index.html)  [JSON](2017/10/11/index.json)  [XML](2017/10/11/index.xml)  
+
 ## [2017-10-11](/news/2017/10/11/index.md)
 
 ### [Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. ](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-center-in-damascus-killing-two-people-and-injuring-six-others.md)
