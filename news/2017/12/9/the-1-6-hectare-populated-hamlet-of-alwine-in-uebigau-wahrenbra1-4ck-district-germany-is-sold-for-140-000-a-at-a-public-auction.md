@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-ue
 
 # The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. 
 
-
+Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
 
 
 ### Sources:
 
-1. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/duits-dorpje-bij-opbod-verkocht-aan-anonieme-bieder~ae8dec82/)
-1. [Cover Image](https://images0.persgroep.net/rcs/4GdCEqGKzbAmogQ575xfj5ejW-Y/diocontent/116013522/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
+1. [AFP via Daily Nation](http://www.nation.co.ke/news/world/German-village-Alwine-sold-Sh16m/1068-4221622-vknt4e/index.html)
+1. [Cover Image](http://www.nation.co.ke/image/view/-/4221624/medRes/1831992/-/rttajyz/-/vil-pic.jpg)
 
 ### Changes:
 

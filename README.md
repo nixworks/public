@@ -13,7 +13,7 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
 ### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
-_Context: Alwine, Germany, Uebigau-Wahrenbruck, auction, hectare_
+Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
 
 ---
 
