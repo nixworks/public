@@ -12,15 +12,15 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
-### ["The New York Times" reports that Donald Trump spends at least four hours a day watching the news on television instead of doing his job as President.](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-spends-at-least-four-hours-a-day-watching-the-news-on-television-instead-of-doing-his-job-as.md)
-President Trump spends at least four hours a day watching television, according to a new report.
-
-### [The 16-hectare hamlet of Alwine in Uebigau-Wahrenbruck, Germany, is sold for 140.000 EUR. ](/news/2017/12/9/the-16-hectare-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-germany-is-sold-for-140-000-a.md)
-_Context: Alwine, Germany, Uebigau-Wahrenbruck_
+### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
+_Context: Alwine, Germany, Uebigau-Wahrenbruck, auction, hectare_
 
 ---
 
 ## [Yesterday](/news/2017/12/8/index.md)
+
+### [Russian jets carry out airstrikes in a village in the northwestern Idlib province, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-province-where-a-de-escalation-zone-exists-killing-at-least-five.md)
+_Context: Idlib province, Syrian Civil War_
 
 ### [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md)
 António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’

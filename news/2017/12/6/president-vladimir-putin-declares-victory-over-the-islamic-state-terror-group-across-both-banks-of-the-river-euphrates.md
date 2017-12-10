@@ -10,8 +10,9 @@ Combat operations at this stage and on this territory are over, according to the
 
 ### Sources:
 
-1. [TASS](http://tass.com/politics/979442)
-1. [Cover Image](https://phototass2.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20171206/1182900.jpg)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-airstrikes/russian-air-strikes-kill-21-in-eastern-syria-monitor-idUSKBN1E0216)
+2. [TASS](http://tass.com/politics/979442)
+2. [Cover Image](https://phototass2.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20171206/1182900.jpg)
 
 ### Related:
 
