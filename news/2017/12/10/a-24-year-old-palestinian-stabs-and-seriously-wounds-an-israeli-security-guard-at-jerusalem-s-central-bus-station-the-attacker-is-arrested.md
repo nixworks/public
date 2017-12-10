@@ -5,14 +5,15 @@ Formats: [HTML](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-w
 
 #  A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. 
 
-Israeli police say that a security guard has been stabbed near Jerusalem&#039;s central bus station. Police spokesman Micky Rosenfeld says the guard was seriously wounded Sunday and his attacker arrested. The Magen David Adom medical service says a 30-year-old male suffered a stabbing wound in his upper body. 
+Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;s central bus station.
 
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/israel-jerusalem-bus-station-security-guard-stabbing-police-palestinians-us-embassy-donald-trump-a8102096.html)
-2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/israeli-police-security-guard-seriously-wounded-in-stabbing-at-jerusalems-central-bus-station/2017/12/10/379b5094-dda9-11e7-b2e9-8c636f076c76_story.html)
-2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/12/10/13/israel-attack.jpg)
+1. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/palestinian-stabs-israeli-in-jerusalem-anti-trump-protest-flares-in-beirut-idUSKBN1E40FQ)
+2. [The Independent](http://www.independent.co.uk/news/world/middle-east/israel-jerusalem-bus-station-security-guard-stabbing-police-palestinians-us-embassy-donald-trump-a8102096.html)
+3. [The Washington Post](https://www.washingtonpost.com/world/middle_east/israeli-police-security-guard-seriously-wounded-in-stabbing-at-jerusalems-central-bus-station/2017/12/10/379b5094-dda9-11e7-b2e9-8c636f076c76_story.html)
+3. [Cover Image](/resources/r/?m=02&d=20171210&t=2&i=1213478044&w=400&r=LYNXMPEDB90IL)
 
 ### Changes:
 
