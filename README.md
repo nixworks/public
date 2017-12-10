@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [ A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. ](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-wounds-an-israeli-security-guard-at-jerusalem-s-central-bus-station-the-attacker-is-arrested.md)
 Israeli police say that a security guard has been stabbed near Jerusalem&#039;s central bus station. Police spokesman Micky Rosenfeld says the guard was seriously wounded Sunday and his attacker arrested. The Magen David Adom medical service says a 30-year-old male suffered a stabbing wound in his u...
 
-### [The death sentence against scientist Ahmadreza Djalali has been declared executable. Apparently, his Iranian lawyer failed to file appeals. ](/news/2017/12/10/the-death-sentence-against-scientist-ahmadreza-djalali-has-been-declared-executable-apparently-his-iranian-lawyer-failed-to-file-appeals.md)
+### [Scientists report that the death sentence against Ahmadreza Djalali has been declared executable. Apparently, his Iranian lawyer did not appeal against the charges of spying. ](/news/2017/12/10/scientists-report-that-the-death-sentence-against-ahmadreza-djalali-has-been-declared-executable-apparently-his-iranian-lawyer-did-not-app.md)
 _Context: Ahmadreza Djalali_
 
 ---
@@ -21,9 +21,6 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
-
-### ["The New York Times" reports that Donald Trump spends at least four hours a day watching the news on television. ](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-spends-at-least-four-hours-a-day-watching-the-news-on-television.md)
-With Twitter as his Excalibur, the president takes on his doubters, powered by long spells of cable news and a dozen Diet Cokes. But if Mr. Trump has yet to bend the presidency to his will, he is at least wrestling it to a draw.
 
 ### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
 Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
