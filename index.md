@@ -1,26 +1,36 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/9/index.md)
+## [News](/news/2017/12/10/index.md)
+
+### [ A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. ](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-wounds-an-israeli-security-guard-at-jerusalem-s-central-bus-station-the-attacker-is-arrested.md)
+Israeli police say that a security guard has been stabbed near Jerusalem&#039;s central bus station. Police spokesman Micky Rosenfeld says the guard was seriously wounded Sunday and his attacker arrested. The Magen David Adom medical service says a 30-year-old male suffered a stabbing wound in his u...
+
+### [The death sentence against scientist Ahmadreza Djalali has been declared executable. Apparently, his Iranian lawyer failed to file appeals. ](/news/2017/12/10/the-death-sentence-against-scientist-ahmadreza-djalali-has-been-declared-executable-apparently-his-iranian-lawyer-failed-to-file-appeals.md)
+_Context: Ahmadreza Djalali_
+
+---
+
+## [Yesterday](/news/2017/12/9/index.md)
 
 ### [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md)
 _Context: Gaza, Recently changed U.S. position on Jerusalem, West Bank_
 
-### [Iraq announces that its war against so-called Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-so-called-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vil.md)
+### [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
-### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-in-the-ancient-ni.md)
+### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
-### ["The New York Times" reports that Donald Trump spends at least four hours a day watching the news on television. He watches CNN, Fox and MSNBC. ](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-spends-at-least-four-hours-a-day-watching-the-news-on-television-he-watches-cnn-fox-and-msn.md)
-President Trump spends at least four hours a day watching television, according to a new report.
+### ["The New York Times" reports that Donald Trump spends at least four hours a day watching the news on television. ](/news/2017/12/9/the-new-york-times-reports-that-donald-trump-spends-at-least-four-hours-a-day-watching-the-news-on-television.md)
+With Twitter as his Excalibur, the president takes on his doubters, powered by long spells of cable news and a dozen Diet Cokes. But if Mr. Trump has yet to bend the presidency to his will, he is at least wrestling it to a draw.
 
 ### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
 Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
 
 ---
 
-## [Yesterday](/news/2017/12/8/index.md)
+## [Day Before Yesterday](/news/2017/12/8/index.md)
 
 ### [Russian jets carry out airstrikes in a village in the northwestern Idlib province, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-province-where-a-de-escalation-zone-exists-killing-at-least-five.md)
 _Context: Idlib province, Syrian Civil War_
@@ -66,47 +76,7 @@ _Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, 
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/7/index.md)
-
-### [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md)
-_Context: Czech Republic, Israel, Positions on Jerusalem, West Jerusalem_
-
-### [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md)
-Erdoğan’s comments on eve of historic Athens visit aimed at bolstering relations draws sharp rebuke from Greek leaders
-
-### [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md)
-_Context: Czech Republic, European Commission, European migrant crisis, Hungary, Polish, Treaty on European Union, court, voting right_
-
-### [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md)
-&quot;These countries are short-circuiting the norms to make a working party first,&quot; said Biswajit Dhar, professor-Centre for Economic Studies and Planning at Jawaharlal Nehru University.
-
-### [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md)
-_Context: Australia, Parliament of Australia, Same-sex marriage in Australia, same-sex marriage_
-
-### [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md)
-_Context: Aztec High School, Aztec High School shooting, New Mexico_
-
-### [Peoples' Democratic Party's co-chair Selahattin Demirtas remains behind bars until the next hearing, scheduled for February 14, 2018. He risks 142 years in prison. ](/news/2017/12/7/peoplesa-democratic-partyas-co-chair-selahattin-demirtaa-remains-behind-bars-until-the-next-hearing-scheduled-for-february-14-2018-h.md)
-An Ankara court ruled on Thursday to keep pro-Kurdish Peoples’ Democratic Party’s co-chair (HDP) Selahattin Demirtaş behind bars. During the &hellip;
-
-### [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md)
-_Context: AMIA bombing, Cristina Fernandez, Hector Timerman, President of Argentina, community center, foreign affairs minister_
-
-### [United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-announces-that-he-will-resign-in-the-coming-weeks-amid-sexual-harassment-allegations.md)
-&quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 
-
-### [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md)
-When Nepalis head to the polls today for the first time since 1999, it will be hailed as a historic step forward—the start of a new democratic era for a country that has suffered from years of violence, instability, and government ineptitude. But hope for the future should not obscure the challeng...
-
-### [The Social Democratic Party congress votes to start talks on "whether and in what form" to support a new federal government. ](/news/2017/12/7/the-social-democratic-party-congress-votes-to-start-talks-on-whether-and-in-what-form-to-support-a-new-federal-government.md)
-The Latest on efforts to form a new government in Germany (all times local):
-
-### [Polish Prime Minister Beata Szydlo resigns just hours after surviving an opposition no-confidence motion. She will be replaced by Finance Minister Mateusz Morawiecki, according to the ruling Law and Justice party. ](/news/2017/12/7/polish-prime-minister-beata-szydao-resigns-just-hours-after-surviving-an-opposition-no-confidence-motion-she-will-be-replaced-by-finance-m.md)
-She is replaced by Finance Minister Mateusz Morawiecki after weeks of speculation.
-
----
-
-## [Previous Day...](/news/2017/12/6/index.md)
+## [Previous Day...](/news/2017/12/7/index.md)
 
 ---
 
