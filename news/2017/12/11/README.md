@@ -3,6 +3,9 @@ Formats: [HTML](2017/12/11/index.html)  [JSON](2017/12/11/index.json)  [XML](201
 
 ## [2017-12-11](/news/2017/12/11/index.md)
 
+### [An explosion takes place near New York City's Port Authority Bus Terminal. A suspect, injured by the blast, is in custody. ](/news/2017/12/11/an-explosion-takes-place-near-new-york-city-s-port-authority-bus-terminal-a-suspect-injured-by-the-blast-is-in-custody.md)
+A suspect was in custody after a blast forced evacuations of the Port Authority and the Port Authority and Times Square subway stations.
+
 ### [Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. ](/news/2017/12/11/saudi-arabia-has-announced-it-will-lift-a-ban-on-commercial-cinemas-that-has-lasted-more-than-three-decades.md)
 _Context: Cinema of Saudi Arabia_
 
