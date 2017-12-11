@@ -9,7 +9,7 @@ A suspect was in custody after a blast forced evacuations of the Port Authority 
 ### [Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. ](/news/2017/12/11/saudi-arabia-has-announced-it-will-lift-a-ban-on-commercial-cinemas-that-has-lasted-more-than-three-decades.md)
 _Context: Cinema of Saudi Arabia_
 
-### [A GBP6bn deal to sell 24 Eurofighter Typhoons to Qatar was announced. ](/news/2017/12/11/a-gbp6bn-deal-to-sell-24-eurofighter-typhoons-to-qatar-was-announced.md)
+### [A GBP6bn deal to sell 24 Eurofighter Typhoons to Qatar was announced. ](/news/2017/12/11/a-agbp6bn-deal-to-sell-24-eurofighter-typhoons-to-qatar-was-announced.md)
 The move will help safeguard thousands of jobs at BAE Systems, mainly at Warton in Lancashire.
 
 ### [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md)
