@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.html)  [JSON](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.json)  [XML](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.xml)  
+
 ### [2016-03-29](/news/2016/03/29/index.md)
 
 # Samuel Moreno Rojas, the former mayor of the Colombian capital Bogota, is jailed for 18 years for taking bribes to award ambulance contracts. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Town Hall](http://townhall.com/news/politics-elections/2016/03/29/exmayor-of-colombias-capital-jailed-18-years-for-graft-n2140740)
 1. [Cover Image](https://media.townhall.com/townhall/reu/ha/2016/89/5205f4c5-2e4c-43ce-8e8a-b462e5f86634.jpg)

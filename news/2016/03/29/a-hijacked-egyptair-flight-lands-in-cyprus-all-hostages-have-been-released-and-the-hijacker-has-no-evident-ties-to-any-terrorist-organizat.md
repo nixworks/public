@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.html)  [JSON](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.json)  [XML](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.xml)  
+
 ### [2016-03-29](/news/2016/03/29/index.md)
 
 # A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. 
@@ -5,10 +8,15 @@
 Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in Cyprus with 55 passengers on board
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/mar/29/hijacked-egyptair-passenger-plane-lands-in-cyprus-reports)
+1. [The Guardian](https://www.theguardian.com/world/2016/mar/29/hijacked-egyptair-passenger-plane-lands-in-cyprus-reports)
 1. [Cover Image](https://i.guim.co.uk/img/media/07ca2b2b432bc48bdd84b9b677c941c2160a8c65/0_0_5381_3229/master/5381.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=19f3600b9794417106763585d0702108)
+
+### Changes:
+
+1. [EgyptAir Flight 181: A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/egyptair-flight-181-a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-an.md) _2017-08-27 03:45:24 (First version)_
+1. [A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in
 3. [Greek and Turkish local leaders of Cyprus resume talks to end the division of the island before a high level multilateral conference takes place in Geneva this week in the latest effort to reunify the island. ](/news/2017/01/9/greek-and-turkish-local-leaders-of-cyprus-resume-talks-to-end-the-division-of-the-island-before-a-high-level-multilateral-conference-takes-p.md) _Context: Cyprus_
 4. [Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the-proposal-of-a-ro.md) _Context: Cyprus_
 5. [The leaders of northern and southern Cyprus meet in Switzerland to restart talks about reuniting the island. ](/news/2016/11/7/the-leaders-of-northern-and-southern-cyprus-meet-in-switzerland-to-restart-talks-about-reuniting-the-island.md) _Context: Cyprus_
-
-### Changes:
-
-1. [EgyptAir Flight 181: A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/egyptair-flight-181-a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-an.md) _2017-08-27 03:45:24 (First version)_
-1. [A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.md) _(Current version)_

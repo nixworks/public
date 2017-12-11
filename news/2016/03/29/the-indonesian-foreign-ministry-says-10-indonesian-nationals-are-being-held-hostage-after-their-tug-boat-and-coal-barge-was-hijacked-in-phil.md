@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.html)  [JSON](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.json)  [XML](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.xml)  
+
 ### [2016-03-29](/news/2016/03/29/index.md)
 
 # The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/9e1fdb4fc3d448cfb91e33dbf2f26057/indonesia-says-10-nationals-held-hostage-after-ship)
 

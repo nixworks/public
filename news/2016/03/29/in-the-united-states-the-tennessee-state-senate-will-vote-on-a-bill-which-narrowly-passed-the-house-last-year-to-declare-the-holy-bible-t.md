@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate-will-vote-on-a-bill-which-narrowly-passed-the-house-last-year-to-declare-the-holy-bible-t.html)  [JSON](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate-will-vote-on-a-bill-which-narrowly-passed-the-house-last-year-to-declare-the-holy-bible-t.json)  [XML](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate-will-vote-on-a-bill-which-narrowly-passed-the-house-last-year-to-declare-the-holy-bible-t.xml)  
+
 ### [2016-03-29](/news/2016/03/29/index.md)
 
 # In the United States, the Tennessee state Senate will vote on a bill, which narrowly passed the House last year, to declare the Holy Bible the official book of Tennessee. Governor Bill Haslam (R) was among those who opposed the bill in 2015. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/cb7a87231b62490685c91c43d7d9dff8)
 2. [Chattanooga Times Free Press](http://www.timesfreepress.com/news/politics/state/story/2016/mar/28/new-chapter-opens-state-bill-making-bible-tns-official-book/357495/)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.html)  [JSON](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.json)  [XML](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.xml)  
+
 ### [2016-03-29](/news/2016/03/29/index.md)
 
 # Alaska Airlines cancels additional flights, due to the ongoing eruption of Mount Pavlof on the Alaska Peninsula. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Alaska Dispatch News](http://www.adn.com/article/20160329/more-flights-canceled-tuesday-pavlof-volcano-eruption-slows)
 

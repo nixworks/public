@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/03/29/index.html)  [JSON](2016/03/29/index.json)  [XML](2016/03/29/index.xml)  
+
 ## [2016-03-29](/news/2016/03/29/index.md)
 
 ### [Belgium officials lower the official death toll from 35 to 32, with nearly 100 still hospitalized. ](/news/2016/03/29/belgium-officials-lower-the-official-death-toll-from-35-to-32-with-nearly-100-still-hospitalized.md)
@@ -40,7 +43,7 @@ _Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
 Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in Cyprus with 55 passengers on board
 
 ### [Corey Lewandowski, campaign manager for U.S. presidential candidate Donald Trump, is charged with battery for allegedly grabbing former Breitbart News journalist Michelle Fields on March 8. ](/news/2016/03/29/corey-lewandowski-campaign-manager-for-u-s-presidential-candidate-donald-trump-is-charged-with-battery-for-allegedly-grabbing-former-brei.md)
-Nearly a month of jousting on social media culminated Tuesday in the arrest of a top Donald Trump presidential campaign aide on misdemeanor battery charges following a March 8 incident involving a reporter.
+His formal arrest was detailed in a police report that cited new security-camera images showing Mr. Lewandowski pulling a reporter out of his way after Mr. Trump spoke in Florida on March 8.
 
 ### [Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge-north-carolina-to-repeal-a-new-state-law.md)
 _Context: North Carolina, Transgender rights in the United States, chief executive officer_

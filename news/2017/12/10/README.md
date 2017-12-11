@@ -18,7 +18,7 @@ _Context: Capital punishment in Iran, Iran, Vrije Universiteit Brussel_
 ### [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md)
 President Maduro says the three main opposition parties cannot compete against him in 2018.
 
-### [Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-2004 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. ](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-trace-the-source-of-the-deadly-2002-2004-sars-virus-outbreak-which-killed-774-people-in-37-co.md)
+### [Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-2004 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. ](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-trace-the-source-of-the-deadly-2002a2004-sars-virus-outbreak-which-killed-774-people-in-37.md)
 Genetic source found for disease that killed 750 round the world
 
 ## [Previous Day...](/news/2017/12/9/index.md)
