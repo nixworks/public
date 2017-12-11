@@ -11,8 +11,8 @@ Welcome to our Emmys live blog! The 68th annual Emmy Awards telecast is finally 
 ### Sources:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-09-19/game-of-thrones-rules-the-emmys/7857210)
-2. [Variety](http://variety.com/2016/tv/news/emmys-2016-live-blog-1201862241/)
-2. [Cover Image](https://pmcvariety.files.wordpress.com/2016/09/emmys-placeholder.jpg?w=1000&amp;h=563&amp;crop=1)
+2. [Variety](https://variety.com/2016/tv/news/emmys-2016-live-blog-1201862241/)
+2. [Cover Image](https://pmcvariety.files.wordpress.com/2016/09/emmys-placeholder.jpg?w=700&#038;h=393&#038;crop=1)
 
 ### Changes:
 
