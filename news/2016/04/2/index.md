@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/2/index.html)  [JSON](2016/04/2/index.json)  [XML](2016/04/2/index.xml)  
+
 ## [2016-04-2](/news/2016/04/2/index.md)
 
 ### [Armenia and Azerbaijan exchange gunfire for the third successive day after an escalation of a dispute over the boundaries between Azerbaijan and the disputed Nagorno-Karabakh Republic. ](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-third-successive-day-after-an-escalation-of-a-dispute-over-the-boundaries-between-azerbaijan.md)
@@ -10,7 +13,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.
 
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
+_Context: Anbar province, Hit, Hit offensive (2016), Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
 
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
 Five soldiers and one special forces police officer have been killed in a bomb attack in south-eastern Turkey blamed on Kurdish rebels, reports say.
@@ -43,13 +46,13 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 Members of Indian women activist group Bhumata Ranragini Brigade were prevented from entering Shani Shingnapur temple on Saturday.
 
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
 
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)
 _Context: President of Vietnam, Tran Dai Quang_
 
 ### [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md)
-_Context: Al Arabiya, Beirut, Hezbollah, Iran, Lebanese, Saudi Arabia_
+_Context: Al Arabiya, Beirut, Hezbollah, Iran, Lebanon, Saudi Arabia_
 
 ### [The Governor of the U.S. territory of Guam Eddie Calvo announces his intention to hold a plebiscite to decide the future political status of the island. Calvo said he hopes to start a successful "education campaign" on the issue before filing a petition to start a referendum. If the plebiscite does take place, voters on Guam would be asked to select which political status they would prefer; independence, statehood, or free association However, the possible vote would be non-binding as any change in political status would require an act of Congress in Washington, D.C.. Guam is currently on the United Nations list of Non-Self-Governing Territories in need of decolonization. ](/news/2016/04/2/the-governor-of-the-u-s-territory-of-guam-eddie-calvo-announces-his-intention-to-hold-a-plebiscite-to-decide-the-future-political-status-of.md)
 Voters in Guam may finally get the chance to vote on the territory&#39;s political status, with the US territory&#39;s governor announcing an ambitious plan to add a plebiscite to November&#39;s election ballot.

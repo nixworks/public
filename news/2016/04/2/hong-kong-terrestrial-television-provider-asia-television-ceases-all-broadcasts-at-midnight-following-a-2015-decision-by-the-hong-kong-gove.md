@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/hong-kong-terrestrial-television-provider-asia-television-ceases-all-broadcasts-at-midnight-following-a-2015-decision-by-the-hong-kong-gove.html)  [JSON](/news/2016/04/2/hong-kong-terrestrial-television-provider-asia-television-ceases-all-broadcasts-at-midnight-following-a-2015-decision-by-the-hong-kong-gove.json)  [XML](/news/2016/04/2/hong-kong-terrestrial-television-provider-asia-television-ceases-all-broadcasts-at-midnight-following-a-2015-decision-by-the-hong-kong-gove.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # Hong Kong terrestrial television provider Asia Television ceases all broadcasts at midnight, following a 2015 decision by the Hong Kong Government not to renew its television license. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Fortune.com](http://fortune.com/2016/04/02/asia-television-closes-down/)
 

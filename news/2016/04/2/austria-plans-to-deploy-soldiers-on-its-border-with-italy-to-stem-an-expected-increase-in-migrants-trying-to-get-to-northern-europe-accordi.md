@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/austria-plans-to-deploy-soldiers-on-its-border-with-italy-to-stem-an-expected-increase-in-migrants-trying-to-get-to-northern-europe-accordi.html)  [JSON](/news/2016/04/2/austria-plans-to-deploy-soldiers-on-its-border-with-italy-to-stem-an-expected-increase-in-migrants-trying-to-get-to-northern-europe-accordi.json)  [XML](/news/2016/04/2/austria-plans-to-deploy-soldiers-on-its-border-with-italy-to-stem-an-expected-increase-in-migrants-trying-to-get-to-northern-europe-accordi.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # Austria plans to deploy soldiers on its border with Italy to stem an expected increase in migrants trying to get to northern Europe, according to Austrian Defence Minister Hans Peter Doskozil. "As the EU's external borders are not yet effectively protected, Austria will soon ramp up strict border controls. That means massive border controls on the Brenner Pass, and with soldiers," Doskozil told German daily newspaper "Die Welt". 
@@ -5,10 +8,10 @@
 Austria plans to deploy soldiers at the Brenner border with Italy to stem an expected increase in migrants trying to get to northern Europe, Defence Minister Hans Peter Doskozil told news outlets on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-austria-idUSKCN0WZ0E8)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160402&t=2&i=1129671514&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3107X)
+1. [Reuters](https://www.reuters.com/article/us-europe-migrants-austria-idUSKCN0WZ0E8)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160402&t=2&i=1129671514&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3107X)
 
 ### Related:
 

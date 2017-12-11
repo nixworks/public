@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-confrontation-with-lo.html)  [JSON](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-confrontation-with-lo.json)  [XML](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-confrontation-with-lo.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. 
@@ -5,10 +8,16 @@
 Belgian police made a series of arrests of right-wing and anti-racist protesters in Brussels on Saturday, and riot squads engaged in a tense confrontation with local youths in the district of Molenbeek.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-belgium-blast-protests-idUSKCN0WZ0MJ)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160402&t=2&i=1129709842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC310DK)
+1. [Reuters](https://www.reuters.com/article/us-belgium-blast-protests-idUSKCN0WZ0MJ)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160402&t=2&i=1129709842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC310DK)
+
+### Changes:
+
+1. [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md) _2017-08-25 03:45:06 (First version)_
+2. [Aftermath of the 2016 Brussels bombings: Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-2016-brussels-bombings-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads.md) _2017-08-27 03:45:28 (Update)_
+2. [Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-confrontation-with-lo.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ Belgian police made a series of arrests of right-wing and anti-racist protesters
 3. [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
 4. [ Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. ](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-have-been-charged-with-terrorist-offenses-linked-to-last-month-s-brussels-bombing-also-three.md) _Context: 2016 Brussels bombings, Belgium, Brussels_
 5. [A Belgian court condemns a United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/a-belgian-court-condemns-a-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sentence-for-human-trafficking-a.md) _Context: Belgium, Brussels_
-
-### Changes:
-
-1. [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md) _2017-08-25 03:45:06 (First version)_
-2. [Aftermath of the 2016 Brussels bombings: Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-2016-brussels-bombings-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads.md) _2017-08-27 03:45:28 (Update)_
-2. [Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-confrontation-with-lo.md) _(Current version)_

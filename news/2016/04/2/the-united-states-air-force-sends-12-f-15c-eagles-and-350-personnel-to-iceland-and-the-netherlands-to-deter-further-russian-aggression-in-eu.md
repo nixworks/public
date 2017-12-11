@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.html)  [JSON](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.json)  [XML](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. 
@@ -5,9 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/04/02/politics/f-15s-deployed-to-iceland-and-netherlands/index.html)
+
+### Changes:
+
+1. [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-e.md) _2017-08-25 03:45:07 (First version)_
+2. [NATO-Russia relations: The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/nato-russia-relations-the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further.md) _2017-08-27 03:45:27 (Update)_
+2. [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,3 @@
 3. [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md) _Context: NATO-Russia relations, Russia_
 4. [Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, "Admiral Kuznetsov", en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-kuznetsov-en-route-to-syr.md) _Context: NATO-Russia relations, Russia_
 5. [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md) _Context: NATO-Russia relations, Russia_
-
-### Changes:
-
-1. [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-e.md) _2017-08-25 03:45:07 (First version)_
-2. [NATO-Russia relations: The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/nato-russia-relations-the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further.md) _2017-08-27 03:45:27 (Update)_
-2. [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md) _(Current version)_

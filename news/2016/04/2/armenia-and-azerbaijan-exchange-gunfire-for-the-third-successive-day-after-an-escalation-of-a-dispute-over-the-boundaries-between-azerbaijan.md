@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-third-successive-day-after-an-escalation-of-a-dispute-over-the-boundaries-between-azerbaijan.html)  [JSON](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-third-successive-day-after-an-escalation-of-a-dispute-over-the-boundaries-between-azerbaijan.json)  [XML](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-third-successive-day-after-an-escalation-of-a-dispute-over-the-boundaries-between-azerbaijan.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # Armenia and Azerbaijan exchange gunfire for the third successive day after an escalation of a dispute over the boundaries between Azerbaijan and the disputed Nagorno-Karabakh Republic. 
@@ -5,7 +8,7 @@
 Hostilities on the border of the disputed Nagorno-Karabakh region with Azerbaijan flared up overnight, with reports of gun and mortar fire, as well as casualties on both sides. Azeri and Armenian Defense Ministries accused each other of provoking the escalation.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/338102-armenia-azerbaijan-karabakh-violence/)
 1. [Cover Image](https://img.rt.com/files/2016.04/article/56ff6a90c36188377b8b45fb.jpg)

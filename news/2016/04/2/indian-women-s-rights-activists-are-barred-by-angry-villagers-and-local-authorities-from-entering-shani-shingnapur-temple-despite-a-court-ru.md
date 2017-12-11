@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.html)  [JSON](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.json)  [XML](/news/2016/04/2/indian-women-s-rights-activists-are-barred-by-angry-villagers-and-local-authorities-from-entering-shani-shingnapur-temple-despite-a-court-ru.xml)  
+
 ### [2016-04-2](/news/2016/04/2/index.md)
 
 # Indian women's rights activists are barred by angry villagers and local authorities from entering Shani Shingnapur temple despite a court ruling guaranteeing access. Breaking with a centuries-old tradition, the high court in Mumbai ruled women have a fundamental right to enter Hindu temples across the state of Maharashtra, and the government has the responsibility to protect their rights. Bhumata Ranragini Brigade leader Trupti Desai and 25 other supporters were detained by police. All India Mahila Congress President Shobha Oza and Delhi Commission for Women chairwoman Swati Maliwal called the actions of locals and authorities "completely shameful." 
@@ -5,7 +8,7 @@
 Members of Indian women activist group Bhumata Ranragini Brigade were prevented from entering Shani Shingnapur temple on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2016/04/02/Womens-rights-activists-blocked-from-entering-temple-in-India/1601459602310/?spt=hts&or=4)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/1601459602310/2016/1/14596059997435/v2.1/Womens-rights-activists-blocked-from-entering-temple-in-India.jpg)
