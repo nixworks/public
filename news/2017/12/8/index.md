@@ -15,7 +15,7 @@ _Context: European Union, Japan, Japan-European Union relations_
 ### [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md)
 President Trump approved California’s request for an emergency declaration Friday.According to a White House press release, Trump order...
 
-### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israelas-capital-by-the-united-states-runs-c.md)
+### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md)
 News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
