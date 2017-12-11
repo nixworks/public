@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/11/a-house-fire-in-salford-united-kingdom-kills-th
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
-# A house fire in Salford United Kingdom kills three children. 
+# A house fire in Salford, United Kingdom, kills three children. 
 
 A man and woman are arrested on suspicion of murder after three children are killed in the blaze.
 

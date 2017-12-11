@@ -18,6 +18,9 @@ _Context: Changsha, China_
 ### [A GBP6 billion ($8 billion) deal to sell 24 Eurofighter Typhoons to Qatar is announced. ](/news/2017/12/11/a-agbp6-billion-8-billion-deal-to-sell-24-eurofighter-typhoons-to-qatar-is-announced.md)
 The move will help safeguard thousands of jobs at BAE Systems, mainly at Warton in Lancashire.
 
+### [A house fire in Salford, United Kingdom, kills three children. ](/news/2017/12/11/a-house-fire-in-salford-united-kingdom-kills-three-children.md)
+A man and woman are arrested on suspicion of murder after three children are killed in the blaze.
+
 ### [The Thomas Fire is the fifth largest in modern Californian history. ](/news/2017/12/11/the-thomas-fire-is-the-fifth-largest-in-modern-californian-history.md)
 The blaze raging in Ventura and Santa Barbara counties covers more ground than New York City. And as other, smaller fires are reined in, weather forecasts portend the Thomas Fire will spread.
 
@@ -25,7 +28,7 @@ The blaze raging in Ventura and Santa Barbara counties covers more ground than N
 _Context: Colleen Kollar-Kotelly, Transgender personnel in the United States military, Trump administration_
 
 ### [Hassan Nasrallah, the Secretary-General of Hezbollah, vows to return to Israel. Tens of thousands of people demonstrate in South Beirut. ](/news/2017/12/11/hassan-nasrallah-the-secretary-general-of-hezbollah-vows-to-return-to-israel-tens-of-thousands-of-people-demonstrate-in-south-beirut.md)
-_Context: Beirut, Hassan Nasrallah, Israel, Secretary-General of Hezbollah, United States recognition of Jerusalem_
+_Context: Beirut, Hassan Nasrallah, Israel, Secretary-General of Hezbollah_
 
 ### [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md)
 _Context: Mikheil Saakashvili, Ukrainian crisis, house arrest, opposition leader_
