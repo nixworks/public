@@ -10,7 +10,7 @@ Donald Trump is a rookie candidate — a potential superstar of vast promise, bu
 
 ### Sources:
 
-1. [New York Post](http://nypost.com/2016/04/14/the-post-endorses-donald-trump/)
+1. [New York Post](https://nypost.com/2016/04/14/the-post-endorses-donald-trump/)
 2. [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/04/15/new-york-post-endorses-trump-he-reflects-the-best-of-new-york-values/)
 2. [Cover Image](https://thenypost.files.wordpress.com/2016/04/trumpchad.jpg?quality=90&amp;strip=all&amp;w=1200)
 
@@ -21,8 +21,8 @@ Donald Trump is a rookie candidate — a potential superstar of vast promise, bu
 
 ### Related:
 
-1. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
-2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump_
-4. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: Donald Trump_
-5. [United States president Donald Trump's daughter Ivanka visits Japan. ](/news/2017/11/3/united-states-president-donald-trump-s-daughter-ivanka-visits-japan.md) _Context: Donald Trump_
+1. [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md) _Context: Donald Trump_
+2. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: Donald Trump_
+3. [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md) _Context: Donald Trump_
+5. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
