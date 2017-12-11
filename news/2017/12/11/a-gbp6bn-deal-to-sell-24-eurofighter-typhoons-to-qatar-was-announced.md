@@ -16,7 +16,8 @@ The move will help safeguard thousands of jobs at BAE Systems, mainly at Warton 
 ### Changes:
 
 1. [A GBP6bn deal to sell Eurofighter Typhoons to Qatar will help safeguard thousands of UK jobs. ](/news/2017/12/11/a-gbp6bn-deal-to-sell-eurofighter-typhoons-to-qatar-will-help-safeguard-thousands-of-uk-jobs.md) _2017-12-11 13:30:07 (First version)_
-1. [A GBP6bn deal to sell 24 Eurofighter Typhoons to Qatar was announced. ](/news/2017/12/11/a-gbp6bn-deal-to-sell-24-eurofighter-typhoons-to-qatar-was-announced.md) _(Current version)_
+2. [A GBP6bn deal to sell 24 Eurofighter Typhoons to Qatar was announced. ](/news/2017/12/11/a-agbp6bn-deal-to-sell-24-eurofighter-typhoons-to-qatar-was-announced.md) _2017-12-11 16:30:06 (Update)_
+2. [A GBP6bn deal to sell 24 Eurofighter Typhoons to Qatar was announced. ](/news/2017/12/11/a-gbp6bn-deal-to-sell-24-eurofighter-typhoons-to-qatar-was-announced.md) _(Current version)_
 
 ### Related:
 
