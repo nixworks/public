@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-i
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
-# Mount Hope in a disputed region of Antarctica is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in Great Britain. 
+# Mount Hope in a disputed region of Antarctica is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. 
 
 Scientists re-measure the tallest mountains in the Antarctic territory claimed by Britain.
 
@@ -16,7 +16,7 @@ Scientists re-measure the tallest mountains in the Antarctic territory claimed b
 ### Changes:
 
 1. [Mount Hope in a disputed region of Antarctica claimed by the United Kingdom is found to be the highest mountain in British territory. Ben Nevis in Scotland is the highest mountain in Great Britain or Northern Ireland. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-claimed-by-the-united-kingdom-is-found-to-be-the-highest-mountain-in-british-territory-ben-ne.md) _2017-12-11 07:30:08 (First version)_
-1. [Mount Hope in a disputed region of Antarctica is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in Great Britain. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in-s.md) _(Current version)_
+1. [Mount Hope in a disputed region of Antarctica is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in-s.md) _(Current version)_
 
 ### Related:
 
