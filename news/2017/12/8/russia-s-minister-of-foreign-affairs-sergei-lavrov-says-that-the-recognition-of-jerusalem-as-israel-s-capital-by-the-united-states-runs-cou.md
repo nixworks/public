@@ -14,7 +14,8 @@ News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has 
 2. [RT](https://www.rt.com/news/412084-trump-israel-capital-jerusalem/)
 3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-russia-jerusalem/russias-lavrov-u-s-decision-on-jerusalem-contradicts-common-sense-idUSKBN1E21EH)
 4. [Reuters](https://www.reuters.com/article/us-usa-trump-israel/palestinians-muslims-worldwide-hold-day-of-rage-over-jerusalem-idUSKBN1E211I)
-4. [Cover Image](https://cdni.rt.com/files/2017.12/article/5a2a9206fc7e93031f8b4567.jpg)
+5. [The Wall Street Journal](https://www.wsj.com/articles/fourteen-of-15-security-council-members-denounce-u-s-stance-on-jerusalem-1512777971)
+5. [Cover Image](https://cdni.rt.com/files/2017.12/article/5a2a9206fc7e93031f8b4567.jpg)
 
 ### Changes:
 

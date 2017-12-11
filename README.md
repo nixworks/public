@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [An explosion takes place near New York City's Port Authority Bus Terminal. A suspect, injured by the blast, is in custody. ](/news/2017/12/11/an-explosion-takes-place-near-new-york-city-s-port-authority-bus-terminal-a-suspect-injured-by-the-blast-is-in-custody.md)
 A suspect was in custody after a blast forced evacuations of the Port Authority and the Port Authority and Times Square subway stations.
 
+### [President Vladimir Putin announced that Russian forces will withdraw from Syria now that ISIS has been defeated in the country. ](/news/2017/12/11/president-vladimir-putin-announced-that-russian-forces-will-withdraw-from-syria-now-that-isis-has-been-defeated-in-the-country.md)
+Russian President Vladimir Putin ordered the withdrawal of Russian troops from Syria during a surprise visit to Khmeimim Airbase.
+
 ### [Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. ](/news/2017/12/11/saudi-arabia-has-announced-it-will-lift-a-ban-on-commercial-cinemas-that-has-lasted-more-than-three-decades.md)
 _Context: Cinema of Saudi Arabia_
 
@@ -23,7 +26,7 @@ Scientists re-measure the tallest mountains in the Antarctic territory claimed b
 Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;s central bus station.
 
 ### [ An Iraqi military parade in Baghdad celebrates final victory over the Islamic State of Iraq and the Levant. Prime Minister Haider al-Abadi declares December 10 an annual national holiday. ](/news/2017/12/10/an-iraqi-military-parade-in-baghdad-celebrates-final-victory-over-the-islamic-state-of-iraq-and-the-levant-prime-minister-haider-al-abadi.md)
-_Context: Baghdad, Haider al-Abadi, Iraqi Civil War, Islamic State of Iraq and the Levant_
+_Context: Baghdad, Haider al-Abadi, ISIS, Iraqi Civil War_
 
 ### [New evacuations are ordered as the fires spread toward a string of California coastal cities. Santa Ana winds and rugged mountain terrain continue to hamper firefighting efforts. Authorities report the Thomas Fire is only 15 percent contained. ](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread-toward-a-string-of-california-coastal-cities-santa-ana-winds-and-rugged-mountain-terrain-co.md)
  A massive California wildfire that has already destroyed nearly 800 structures scorched another 56,000 acres on Sunday, making it the fifth largest such blaze 
@@ -44,7 +47,7 @@ Genetic source found for disease that killed 750 round the world
 ### [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md)
 _Context: Gaza, United States recognition of Jerusalem, West Bank_
 
-### [Iraq announces that its war against Islamic State (ISIL) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-isil-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupa.md)
+### [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md)
@@ -52,9 +55,6 @@ A mummy dating back about 3,500 years is among items discovered in the two tombs
 
 ### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
 Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
-
-### [The Met Office issues warnings for Scotland, Northern Ireland and parts of northern England as Storm Caroline brings heavy snow and plunging temperatures to the United Kingdom. Road, rail and air travel are likely to be heavily disrupted, according to the Met. ](/news/2017/12/9/the-met-office-issues-warnings-for-scotland-northern-ireland-and-parts-of-northern-england-as-storm-caroline-brings-heavy-snow-and-plunging.md)
-Weather warnings are still in place for large parts of the UK with more snow and ice forecast as temperatures plummet.
 
 ---
 

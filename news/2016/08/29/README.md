@@ -1,10 +1,13 @@
+
+Formats: [HTML](2016/08/29/index.html)  [JSON](2016/08/29/index.json)  [XML](2016/08/29/index.xml)  
+
 ## [2016-08-29](/news/2016/08/29/index.md)
 
 ### [At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. ](/news/2016/08/29/at-least-12-philippine-army-soldiers-die-in-clashes-with-the-abu-sayyaf.md)
 At least 12 soldiers from the Philippines have died during heavy fighting with Abu Sayyaf militants in the south, the military says.
 
 ### [The death toll of a suicide bombing in the southern Yemeni city of Aden rises to at least 71. Islamic State in Iraq and the Levant claims responsibility. ](/news/2016/08/29/the-death-toll-of-a-suicide-bombing-in-the-southern-yemeni-city-of-aden-rises-to-at-least-71-islamic-state-in-iraq-and-the-levant-claims-re.md)
-A suicide bomber killed at least 54 people when he drove a car bomb into a militia compound in Aden on Monday, the health ministry said, in one of the deadliest attacks claimed by Islamic State in the southern Yemeni port city.
+ A suicide bomber killed at least 54 people when he drove a car bomb into a militia compound in Aden on Monday, the health ministry said, in one of the deadlies
 
 ### [A curfew has ended in the Indian state of Jammu and Kashmir after 52 days of protest allowing for an all-party delegation to visit the state on Sunday. ](/news/2016/08/29/a-curfew-has-ended-in-the-indian-state-of-jammu-and-kashmir-after-52-days-of-protest-allowing-for-an-all-party-delegation-to-visit-the-state.md)
 For the first time in 52 days, cur the first time in 52 days, curfew was lifted from the entire Kashmir valley , barring three police stations, on Monday, setting the stage for the visit of an all-party delegation to the state on September 4.
