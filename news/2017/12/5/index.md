@@ -10,7 +10,7 @@ He was forced to abdicate in 1947 after the communists took over Romania followi
 A LOST novel of the spy thriller The Saint which predicted the attack on Pearl Harbour but was scrapped for political reasons has been rediscovered. Written in summer 1941, the story by Leslie Char…
 
 ### [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md)
-_Context: Belgium, Eurofighter GmbH, Eurofighter Typhoon, United Kingdom, cyber defense, multirole combat aircraft_
+_Context: Belgium, Eurofighter GmbH, Eurofighter Typhoons, United Kingdom, cyber defense, multirole combat aircraft_
 
 ### [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 50,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md)
 A fast-moving, wind-fueled brush fire has burned about 10,000 acres in the foothills near Thomas Aquinas College in Santa Paula, officials said.

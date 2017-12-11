@@ -14,7 +14,7 @@ INDIANAPOLIS — In a stunning triumph for a political outsider, Donald Trump al
 2. [CNN](http://edition.cnn.com/2016/05/03/politics/indiana-primary-results-live-updates/index.html)
 3. [NBC News](http://www.nbcnews.com/politics/2016-election/sanders-wins-indiana-democratic-primary-n567426)
 4. [NPR](http://www.npr.org/2016/05/03/476515029/4-things-to-watch-in-the-indiana-primary)
-5. [New York Post](http://nypost.com/2016/05/03/donald-trump-wins-indiana-primary/)
+5. [New York Post](https://nypost.com/2016/05/03/donald-trump-wins-indiana-primary/)
 5. [Cover Image](https://thenypost.files.wordpress.com/2016/05/gop_2016_trump-4.jpg?quality=90&amp;strip=all&amp;w=1200)
 
 ### Related:
