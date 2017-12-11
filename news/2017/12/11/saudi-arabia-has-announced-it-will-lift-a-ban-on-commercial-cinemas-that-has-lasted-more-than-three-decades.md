@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/11/saudi-arabia-has-announced-it-will-lift-a-ban-o
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
-# Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades.
+# Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. 
 
 
 
