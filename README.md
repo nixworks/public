@@ -1,7 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/11/index.md)
+## [News](/news/2017/12/12/index.md)
+
+### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions.md)
+_Context: Alabama, Jeff Sessions, United States Attorney General, United States Senate, United States elections, 2017_
+
+### [An influential member of the Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/an-influential-member-of-the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace.md)
+Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
+
+---
+
+## [Yesterday](/news/2017/12/11/index.md)
 
 ### [An attempted terrorist attack occurs when a homemade pipe bomb worn by a man exploded near New York City's Port Authority Bus Terminal. Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. ](/news/2017/12/11/an-attempted-terrorist-attack-occurs-when-a-homemade-pipe-bomb-worn-by-a-man-exploded-near-new-york-city-s-port-authority-bus-terminal-thre.md)
 A suspect was in custody after a blast forced evacuations of the Port Authority and the Port Authority and Times Square subway stations.
@@ -44,7 +54,7 @@ Scientists re-measure the tallest mountains in the Antarctic territory claimed b
 
 ---
 
-## [Yesterday](/news/2017/12/10/index.md)
+## [Day Before Yesterday](/news/2017/12/10/index.md)
 
 ### [A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. ](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-wounds-an-israeli-security-guard-at-jerusalem-s-central-bus-station-the-attacker-is-arrested.md)
 Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;s central bus station.
@@ -66,23 +76,7 @@ Genetic source found for disease that killed 750 round the world
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/9/index.md)
-
-### [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md)
-_Context: Gaza, United States recognition of Jerusalem, West Bank_
-
-### [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md)
-PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
-
-### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md)
-A mummy dating back about 3,500 years is among items discovered in the two tombs.
-
-### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140,000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
-Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
-
----
-
-## [Previous Day...](/news/2017/12/8/index.md)
+## [Previous Day...](/news/2017/12/9/index.md)
 
 ---
 

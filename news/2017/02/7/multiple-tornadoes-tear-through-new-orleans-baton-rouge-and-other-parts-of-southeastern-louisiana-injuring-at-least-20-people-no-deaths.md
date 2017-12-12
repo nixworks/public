@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.html)  [JSON](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.json)  [XML](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.xml)  
+
 ### [2017-02-7](/news/2017/02/7/index.md)
 
 # Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. 
@@ -5,10 +8,10 @@
 NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday injured about 20 people, destroyed homes and businesses, flipped cars and trucks, and left about 10,000 customers without power, but no deaths…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/a4d2d8f9dd0e45c6bb94321dbe109ce7/tornado-warnings-issued-louisiana-and-mississippi)
-2. [Reuters](http://www.reuters.com/article/louisiana-tornado-idUSL1N1FS1GZ)
+2. [Reuters](https://www.reuters.com/article/louisiana-tornado-idUSL1N1FS1GZ)
 2. [Cover Image](http://binaryapi.ap.org/76749def8b804d7ab5ba55ad65c64e74/460x.jpg)
 
 ### Related:

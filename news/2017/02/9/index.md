@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/9/index.html)  [JSON](2017/02/9/index.json)  [XML](2017/02/9/index.xml)  
+
 ## [2017-02-9](/news/2017/02/9/index.md)
 
 ### [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md)
@@ -7,7 +10,7 @@ _Context: Battle of al-Bab, Russia, Syria, Syrian Civil War, Turkish troops, al-
 Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy in Jowzjan and killed six staff.
 
 ### [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md)
-_Context: Egypt, Gaza Strip_
+_Context: Egypt, Gaza_
 
 ### [A fire at the Flamanville Nuclear Power Plant in northwest France caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause a radioactive leak. ](/news/2017/02/9/a-fire-at-the-flamanville-nuclear-power-plant-in-northwest-france-caused-an-explosion-in-a-non-nuclear-part-of-the-station-one-reactor-wa.md)
 A fire caused an explosion at the Flamanville nuclear power plant in northwest France on Thursday, leading the operator EDF to take a reactor offline, but there was no risk to the reactor, EDF and a local official said on Thursday.
@@ -22,7 +25,7 @@ Pictures posted on social media show blacked-out streets, lit only by headlights
 The president had earlier called the policy on Taiwan into question, a red line for China.
 
 ### [When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump, raised the possibility of extending the 2010 New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump declined, stating that this treaty is a bad deal for the United States. ](/news/2017/02/9/when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-trump-raised-the-possibility-of-exte.md)
-In his first call as president with Russian leader Vladimir Putin, Donald Trump denounced a treaty that caps U.S. and Russian deployment of nuclear warheads as a bad deal for the United States, according to two U.S. officials and one former U.S. official with knowledge of the call.
+ In his first call as president with Russian leader Vladimir Putin, Donald Trump denounced a treaty that caps U.S. and Russian deployment of nuclear warheads as
 
 ### [The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block-a-lower-court-ruling-that-br.md)
 _Context: U.S. immigration suspension, United States Court of Appeals for the Ninth Circuit_
@@ -31,7 +34,7 @@ _Context: U.S. immigration suspension, United States Court of Appeals for the Ni
 A Kenyan government order to forcibly repatriate 260,000 Somalis is ruled an act of persecution.
 
 ### [Romanian Justice Minister Florin Iordache resigns after losing the support of Prime-Minister Sorin Grindeanu. ](/news/2017/02/9/romanian-justice-minister-florin-iordache-resigns-after-losing-the-support-of-prime-minister-sorin-grindeanu.md)
-_Context: 2017 Romanian protests, Florin Iordache, Justice Minister, Romania, Sorin Grindeanu_
+ Romanian Justice Minister Florin Iordache resigned on Thursday after a decree on corruption that he drafted triggered a week of street protests, international 
 
 ### [Democrat Congressman Jerrold Nadler files a Resolution of Inquiry motion aimed at clarifying Donald Trump's relationship to Russia as well as potential conflicts of interest arising from his businesses. ](/news/2017/02/9/democrat-congressman-jerrold-nadler-files-a-resolution-of-inquiry-motion-aimed-at-clarifying-donald-trump-s-relationship-to-russia-as-well-a.md)
 Rep. Jerrold Nadler (D-N.Y.) filed a &ldquo;resolution of inquiry,&rdquo; a tactic used to force presidents and executive-branch agencies to share records with Congress.

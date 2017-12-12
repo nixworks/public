@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/10/iran-marks-its-38th-anniversary-of-the-iranian-revolution-with-nationwide-rallies-and-ceremonies-the-ceremony-also-contains-some-anti-trump.html)  [JSON](/news/2017/02/10/iran-marks-its-38th-anniversary-of-the-iranian-revolution-with-nationwide-rallies-and-ceremonies-the-ceremony-also-contains-some-anti-trump.json)  [XML](/news/2017/02/10/iran-marks-its-38th-anniversary-of-the-iranian-revolution-with-nationwide-rallies-and-ceremonies-the-ceremony-also-contains-some-anti-trump.xml)  
+
 ### [2017-02-10](/news/2017/02/10/index.md)
 
 # Iran marks its 38th anniversary of the Iranian Revolution with nationwide rallies and ceremonies. The ceremony also contains some anti-Trump protests. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-trump-iran-anniversary-idUSKBN15P0QV)
+1. [Reuters](https://www.reuters.com/article/us-usa-trump-iran-anniversary-idUSKBN15P0QV)
 2. [The New York Times](https://www.nytimes.com/2017/02/10/world/middleeast/iran-revolution-anniversary.html?_r=0)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170210&t=2&i=1172155859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED190M2)
+2. [Cover Image](/resources/r/?m=02&d=20170210&t=2&i=1172155859&w=400&r=LYNXMPED190M2)
 
 ### Related:
 

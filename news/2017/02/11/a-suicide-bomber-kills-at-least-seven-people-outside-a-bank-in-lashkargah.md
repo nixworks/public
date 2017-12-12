@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.html)  [JSON](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.json)  [XML](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.xml)  
+
 ### [2017-02-11](/news/2017/02/11/index.md)
 
 # A suicide bomber kills at least seven people outside a bank in Lashkargah. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN15Q0DL?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-afghanistan-blast-idUSKBN15Q0DL?il=0)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md) _2017-08-27 03:47:48 (First version)_
+1. [A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: War in Afghanistan (2015-present)_
 4. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md) _Context: Lashkargah_
 5. [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md) _Context: War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present): A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/war-in-afghanistan-2015-present-a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md) _2017-08-27 03:47:48 (First version)_
-1. [A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md) _(Current version)_

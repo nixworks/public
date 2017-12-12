@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/10/index.html)  [JSON](2017/02/10/index.json)  [XML](2017/02/10/index.xml)  
+
 ## [2017-02-10](/news/2017/02/10/index.md)
 
 ### [French police arrest three men and a 16-year-old girl found with bomb-making materials in a Montpellier flat. The female suspect had been spotted online saying she wanted to either leave for the Syria-Iraq conflict or mount an attack in France, and recorded a video in which she pledged allegiance to ISIL. ](/news/2017/02/10/french-police-arrest-three-men-and-a-16-year-old-girl-found-with-bomb-making-materials-in-a-montpellier-flat-the-female-suspect-had-been-sp.md)
@@ -7,7 +10,7 @@ Three men and a girl of 16 are found with bomb-making materials in a police raid
 Three people remain in critical condition after an alleged firebomb attack on the Hong Kong metro, which hurt at least 16 other commuters. One man, Cheung Kam-fai, 60, was arrested following the incident at Tsim Sha Tsui station, on the Tsuen Wan Line, during the Friday evening rush hour. He has now...
 
 ### [British consumer goods company Reckitt Benckiser agrees to buy U.S. baby formula maker Mead Johnson Nutrition for $16.6 billion. ](/news/2017/02/10/british-consumer-goods-company-reckitt-benckiser-agrees-to-buy-u-s-baby-formula-maker-mead-johnson-nutrition-for-16-6-billion.md)
-Reckitt Benckiser (RB.L) has agreed to buy U.S. baby formula maker Mead Johnson Nutrition (MJN.N) for $16.6 billion, giving the British consumer goods company a new product line and expanding its presence in developing markets.
+ Reckitt Benckiser has agreed to buy U.S. baby formula maker Mead Johnson Nutrition for $16.6 billion, giving the British consumer goods company a new product l
 
 ### [At least seven people have been killed in the Bangli Regency of Bali after a landslide caused by torrential rain. ](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.md)
 At least 12 people are dead after a landslide in Bali overnight that wiped out several homes.
@@ -28,7 +31,7 @@ WARSAW, Poland (AP) — Prime Minister Beata Szydlo suffered injuries in a car c
 Major funding commitment to help ‘virtually bankrupt’ country shake off legacy of dictatorship, as President Adama Barrow promises better life for Gambians
 
 ### [Aboard Air Force One, President Trump tells reporters he is considering issuing a revised policy banning citizens of certain countries traveling to the United States. ](/news/2017/02/10/aboard-air-force-one-president-trump-tells-reporters-he-is-considering-issuing-a-revised-policy-banning-citizens-of-certain-countries-trave.md)
-U.S. President Donald Trump is considering issuing a new executive order banning citizens of certain countries traveling to the United States after his initial attempt to clamp down on immigration and refugees snarled to a halt amid political and judicial chaos.
+ U.S. President Donald Trump is considering issuing a new executive order banning citizens of certain countries traveling to the United States after his initial
 
 ### [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md)
 _Context: $, Alejandro Toledo, Brazil, Odebrecht, Peru, President, bribes_

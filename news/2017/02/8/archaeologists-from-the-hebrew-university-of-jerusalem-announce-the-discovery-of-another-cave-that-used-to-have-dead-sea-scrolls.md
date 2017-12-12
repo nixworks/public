@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/8/archaeologists-from-the-hebrew-university-of-jerusalem-announce-the-discovery-of-another-cave-that-used-to-have-dead-sea-scrolls.html)  [JSON](/news/2017/02/8/archaeologists-from-the-hebrew-university-of-jerusalem-announce-the-discovery-of-another-cave-that-used-to-have-dead-sea-scrolls.json)  [XML](/news/2017/02/8/archaeologists-from-the-hebrew-university-of-jerusalem-announce-the-discovery-of-another-cave-that-used-to-have-dead-sea-scrolls.xml)  
+
 ### [2017-02-8](/news/2017/02/8/index.md)
 
 # Archaeologists from the Hebrew University of Jerusalem announce the discovery of another cave that used to have Dead Sea Scrolls. 
@@ -5,7 +8,7 @@
 Empty storage jars and a scrap of parchment unearthed in dig carried out by Hebrew U, IAA at site apparently looted in the 1940s
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/new-dead-sea-scroll-cave-found-near-qumran-but-scrolls-are-gone/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2017/02/hu170208_ahiaddigs.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.html)  [JSON](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.json)  [XML](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.xml)  
+
 ### [2017-02-8](/news/2017/02/8/index.md)
 
 # Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. 
@@ -5,10 +8,16 @@
 A second separatist commander is killed days after another pro-Russian rebel dies in a car bombing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-38905110)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/8B80/production/_94221753_gettyimages-456900842-1.jpg)
+
+### Changes:
+
+1. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his ''nom de guerre'' "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-d.md) _2017-08-25 03:47:22 (First version)_
+2. [War in Donbass: Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/war-in-donbass-donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast.md) _2017-08-27 03:47:47 (Update)_
+2. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ A second separatist commander is killed days after another pro-Russian rebel die
 3. [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md) _Context: Donetsk People's Republic, War in Donbass_
 4. [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md) _Context: Donetsk People's Republic, War in Donbass_
 5. [The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the-country-during.md) _Context: Donetsk People's Republic, War in Donbass_
-
-### Changes:
-
-1. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his ''nom de guerre'' "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-d.md) _2017-08-25 03:47:22 (First version)_
-2. [War in Donbass: Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/war-in-donbass-donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast.md) _2017-08-27 03:47:47 (Update)_
-2. [Donetsk People's Republic commander Mikhail Tolstykh, better known by his "nom de guerre" "Givi", is killed in a bomb blast in Makiivka, Donetsk Oblast. DPR officials blame the Security Service of Ukraine for the attack. ](/news/2017/02/8/donetsk-people-s-republic-commander-mikhail-tolstykh-better-known-by-his-nom-de-guerre-givi-is-killed-in-a-bomb-blast-in-makiivka-don.md) _(Current version)_

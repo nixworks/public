@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.html)  [JSON](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.json)  [XML](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.xml)  
+
 ### [2017-02-10](/news/2017/02/10/index.md)
 
 # At least seven people have been killed in the Bangli Regency of Bali after a landslide caused by torrential rain. 
@@ -5,7 +8,7 @@
 At least 12 people are dead after a landslide in Bali overnight that wiped out several homes.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News Australia](http://www.abc.net.au/news/2017-02-10/at-least-seven-killed-in-bali-landslide/8260104)
 1. [Cover Image](http://www.abc.net.au/news/image/8260582-1x1-700x700.jpg)

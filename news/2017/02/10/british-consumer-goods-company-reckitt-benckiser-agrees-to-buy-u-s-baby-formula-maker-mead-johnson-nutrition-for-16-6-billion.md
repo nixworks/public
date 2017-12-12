@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/02/10/british-consumer-goods-company-reckitt-benckiser-agrees-to-buy-u-s-baby-formula-maker-mead-johnson-nutrition-for-16-6-billion.html)  [JSON](/news/2017/02/10/british-consumer-goods-company-reckitt-benckiser-agrees-to-buy-u-s-baby-formula-maker-mead-johnson-nutrition-for-16-6-billion.json)  [XML](/news/2017/02/10/british-consumer-goods-company-reckitt-benckiser-agrees-to-buy-u-s-baby-formula-maker-mead-johnson-nutrition-for-16-6-billion.xml)  
+
 ### [2017-02-10](/news/2017/02/10/index.md)
 
 # British consumer goods company Reckitt Benckiser agrees to buy U.S. baby formula maker Mead Johnson Nutrition for $16.6 billion. 
 
-Reckitt Benckiser (RB.L) has agreed to buy U.S. baby formula maker Mead Johnson Nutrition (MJN.N) for $16.6 billion, giving the British consumer goods company a new product line and expanding its presence in developing markets.
+ Reckitt Benckiser has agreed to buy U.S. baby formula maker Mead Johnson Nutrition for $16.6 billion, giving the British consumer goods company a new product l
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mead-johnson-m-a-reckitt-benc-grp-idUSKBN15P0MV)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170211&t=2&i=1172251987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1A03E)
+1. [Reuters](https://www.reuters.com/article/us-mead-johnson-m-a-reckitt-benc-grp-idUSKBN15P0MV)
+1. [Cover Image](/resources/r/?m=02&d=20170211&t=2&i=1172251987&w=400&r=LYNXMPED1A03E)
 
 ### Related:
 

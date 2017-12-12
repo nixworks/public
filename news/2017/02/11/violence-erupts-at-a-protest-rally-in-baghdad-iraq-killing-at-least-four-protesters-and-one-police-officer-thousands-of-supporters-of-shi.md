@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.html)  [JSON](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.json)  [XML](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.xml)  
+
 ### [2017-02-11](/news/2017/02/11/index.md)
 
 # Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. 
@@ -5,7 +8,7 @@
 At least seven killed during demonstration by Muqtada al-Sadr loyalists demanding overhaul of Iraq&#39;s electoral system.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/protesters-killed-violence-grips-baghdad-rally-170211140644671.html)
 

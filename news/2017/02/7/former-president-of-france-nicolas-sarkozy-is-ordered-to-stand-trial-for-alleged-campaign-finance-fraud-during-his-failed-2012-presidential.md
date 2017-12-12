@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.html)  [JSON](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.json)  [XML](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.xml)  
+
 ### [2017-02-7](/news/2017/02/7/index.md)
 
 # Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/02/07/former-french-president-sarkozy-to-face-trial-for-fraud.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/07/former-french-president-sarkozy-to-face-trial-for-fraud/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1486470078581.jpg?ve=1)

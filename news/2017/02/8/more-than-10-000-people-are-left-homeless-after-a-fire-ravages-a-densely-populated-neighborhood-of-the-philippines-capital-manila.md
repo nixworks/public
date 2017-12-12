@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.html)  [JSON](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.json)  [XML](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.xml)  
+
 ### [2017-02-8](/news/2017/02/8/index.md)
 
 # More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. 
@@ -5,7 +8,7 @@
 A massive fire swept through crowded shanty town near the docks in Manila, destroying houses and leaving 15,000 people homeless, authorities in the Philippine capital said on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/02/08/shanty-town-fire-philippines-leaves-15000-homeless/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/video_previews/j/n/jnehlpote6zxkcugf1lozfxgf4gom2v-xlarge.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.html)  [JSON](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.json)  [XML](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.xml)  
+
 ### [2017-02-10](/news/2017/02/10/index.md)
 
 # A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/feb/10/peru-ex-president-alejandro-toledo-faces-arrest-on-bribery-charges)
 1. [Cover Image](https://i.guim.co.uk/img/media/ccd5126cb5bad8bdd19fa6e11ba4b0e728c19f1c/0_308_3733_2239/master/3733.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=edb5b43da2ac2cc84a16212cc72495fb)

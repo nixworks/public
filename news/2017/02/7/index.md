@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/7/index.html)  [JSON](2017/02/7/index.json)  [XML](2017/02/7/index.xml)  
+
 ## [2017-02-7](/news/2017/02/7/index.md)
 
 ### [A suicide bombing at the Supreme Court of Afghanistan in Kabul kills at least 20 people and injures 41 others, 10 of whom are in critical condition. ](/news/2017/02/7/a-suicide-bombing-at-the-supreme-court-of-afghanistan-in-kabul-kills-at-least-20-people-and-injures-41-others-10-of-whom-are-in-critical-co.md)
@@ -7,7 +10,7 @@ At least 41 other were wounded in the Kabul explosion, including 10 of them in c
 Civilians killed and multi-storey buildings collapse in some of the heaviest strikes to hit rebel-held city in months.
 
 ### [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md)
-_Context: Houthi, Mocha, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
+ Yemeni government forces backed by Gulf Arab troops have secured the Red Sea coast city of al-Mokha, United Arab Emirates news agency WAM reported on Tuesday, 
 
 ### [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md)
 NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday injured about 20 people, destroyed homes and businesses, flipped cars and trucks, and left about 10,000 customers without power, but no deaths…
@@ -19,7 +22,7 @@ _Context: 2012 presidential election, Nicolas Sarkozy, President of France_
 The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and lawyers for the states of Washington and Minnesota to argue the matter Tuesday.
 
 ### [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md)
-_Context: Russian president, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
+_Context: President, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
 
 ### [Incumbent Australian Senator Cory Bernardi defects from the centre-right Liberal Party of Australia to establish his own minor party, the Australian Conservatives. ](/news/2017/02/7/incumbent-australian-senator-cory-bernardi-defects-from-the-centre-right-liberal-party-of-australia-to-establish-his-own-minor-party-the-au.md)
 South Australian senator Cory Bernardi officially quits the Liberal Party to establish the Australian Conservatives.
