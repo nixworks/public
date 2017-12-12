@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/8/index.html)  [JSON](2017/03/8/index.json)  [XML](2017/03/8/index.xml)  
+
 ## [2017-03-8](/news/2017/03/8/index.md)
 
 ### [A suicide bomber and unidentified gunmen dressed as doctors attack a military hospital in Kabul, killing at least 38 people and wounding dozens more. ISIL claims responsibility for the attack. ](/news/2017/03/8/a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military-hospital-in-kabul-killing-at-least-38-people-and-wounding-doz.md)
@@ -10,7 +13,7 @@ Suicide bomb explosions target wedding ceremony in a village near the Iraqi city
 The deployment marks a new escalation in the war in Syria.
 
 ### [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md)
-U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the second time in a little over two years, faced with a challenging retail environment and an unsatisfying partnership with wireless provider Sprint Corp.
+ U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the second time in a little over two years, faced with a challenging retail enviro
 
 ### [The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. ](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window-on-the-maltese-island-of-gozo-collapses-due-to-a-storm.md)
 Updated 2.39pm - Added Environment Minister comments The Azure Window has collapsed and it is not just the top part which has fallen off - even the stacks have gone. Roger Chessell, a Xagħra resident, was at Dwejra when the window collapsed at about 9.40am, having gone to take pictures of the...
@@ -19,7 +22,7 @@ Updated 2.39pm - Added Environment Minister comments The Azure Window has collap
 The teenage girls die a day after a riot erupted at the shelter near Guatemala City.
 
 ### [Abdellatif Midras, a member of the Moroccan Parliament, is shot dead in Casablanca. ](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.md)
-A Moroccan lawmaker was shot dead in front of his home on Tuesday night in Casablanca in what appeared to be a personal dispute.
+ A Moroccan lawmaker was shot dead in front of his home on Tuesday night in Casablanca in what appeared to be a personal dispute.
 
 ### [The Day Without a Woman general strike occurs. ](/news/2017/03/8/the-day-without-a-woman-general-strike-occurs.md)
 Can silence and absence be loud in a digital space?

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/8/a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military-hospital-in-kabul-killing-at-least-38-people-and-wounding-doz.html)  [JSON](/news/2017/03/8/a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military-hospital-in-kabul-killing-at-least-38-people-and-wounding-doz.json)  [XML](/news/2017/03/8/a-suicide-bomber-and-unidentified-gunmen-dressed-as-doctors-attack-a-military-hospital-in-kabul-killing-at-least-38-people-and-wounding-doz.xml)  
+
 ### [2017-03-8](/news/2017/03/8/index.md)
 
 # A suicide bomber and unidentified gunmen dressed as doctors attack a military hospital in Kabul, killing at least 38 people and wounding dozens more. ISIL claims responsibility for the attack. 
@@ -5,7 +8,7 @@
 Gunmen dressed as medics fought security forces for hours in assault on military hospital in Afghan capital
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/08/gunmen-dressed-as-doctors-attack-military-hospital-in-kabul)
 1. [Cover Image](https://i.guim.co.uk/img/media/b36caa2459d44edb5b85346f0f535c08a14ad3f6/0_0_2972_1784/master/2972.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7d29a81b7656f29a1935c8967556ca56)

@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.html)  [JSON](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.json)  [XML](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.xml)  
+
 ### [2017-03-8](/news/2017/03/8/index.md)
 
 # Abdellatif Midras, a member of the Moroccan Parliament, is shot dead in Casablanca. 
 
-A Moroccan lawmaker was shot dead in front of his home on Tuesday night in Casablanca in what appeared to be a personal dispute.
+ A Moroccan lawmaker was shot dead in front of his home on Tuesday night in Casablanca in what appeared to be a personal dispute.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-morocco-crime-idUSKBN16F1B7)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-morocco-crime-idUSKBN16F1B7)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 

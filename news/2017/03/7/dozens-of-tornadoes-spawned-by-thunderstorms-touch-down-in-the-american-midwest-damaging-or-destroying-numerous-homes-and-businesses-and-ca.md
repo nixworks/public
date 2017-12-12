@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/7/dozens-of-tornadoes-spawned-by-thunderstorms-touch-down-in-the-american-midwest-damaging-or-destroying-numerous-homes-and-businesses-and-ca.html)  [JSON](/news/2017/03/7/dozens-of-tornadoes-spawned-by-thunderstorms-touch-down-in-the-american-midwest-damaging-or-destroying-numerous-homes-and-businesses-and-ca.json)  [XML](/news/2017/03/7/dozens-of-tornadoes-spawned-by-thunderstorms-touch-down-in-the-american-midwest-damaging-or-destroying-numerous-homes-and-businesses-and-ca.xml)  
+
 ### [2017-03-7](/news/2017/03/7/index.md)
 
 # Dozens of tornadoes spawned by thunderstorms touch down in the American Midwest, damaging or destroying numerous homes and businesses and causing some injuries. The Johnson County Executive Airport in Olathe, Kansas is closed following heavy damage caused by the severe weather. 
@@ -5,7 +8,7 @@
 The Midwest was slammed with 29 reported tornadoes Monday, according to the National Weather Service Storm Prediction Center, leaving a trail of damaged homes and displaced and injured residents. Missouri, Illinois, and Kansas were among the states hit. &quot;These 29 reported tornadoes occurred...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/tornadoes-slam-midwest-leaving-trail-destroyed-homes-displaced/story?id=45957111)
 1. [Cover Image](http://a.abcnews.com/images/US/HT-tornado-damage-01-as-170307_16x9_992.jpg)
