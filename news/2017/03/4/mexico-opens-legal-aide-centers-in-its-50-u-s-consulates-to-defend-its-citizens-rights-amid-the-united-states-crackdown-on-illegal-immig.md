@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.html)  [JSON](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.json)  [XML](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.xml)  
+
 ### [2017-03-4](/news/2017/03/4/index.md)
 
 # Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. 
@@ -5,10 +8,16 @@
 MIAMI — Not only is the Mexican government not building a wall; it’s spending $50 million to beef up its legal aid to migrants who fear deportation, a response to President Donald Trump’s crackdown on illegal immigration. All 50 Mexican consulates in the U.S. on launched legal assistance centers to form partnerships with nonprofit groups and tap lawyers to help those fearing Trump’s policies. The diplomatic effort comes as the two countries are in a rift over Trump’s plans for a border wall. While Trump says Mexico will pay for it one way or another, Mexico says it won’t. It was also unveiled less than two weeks after new guidelines came out aimed at aggressively detaining and deporting immigrants by increasing the number of federal agents and strengthening cooperation with local law
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Toledo Blade](http://www.toledoblade.com/Nation/2017/03/03/Mexico-consulates-launch-effort-to-help-migrants.html)
 1. [Cover Image](/image/2017/03/03/Mexican-Immigrant-Centers.jpg)
+
+### Changes:
+
+1. [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immi.md) _2017-08-25 03:47:31 (First version)_
+2. [Mexico-United States relations: Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-united-states-relations-mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-s.md) _2017-08-27 03:47:56 (Update)_
+2. [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ MIAMI — Not only is the Mexican government not building a wall; it’s spendin
 3. [Luis Videgaray Caso resigns as Mexico's finance minister amid fallout over President Enrique Pena Nieto's controversial meeting with U.S. presidential candidate Donald Trump in Mexico City. Videgaray is revealed to have been the main advocate of arranging the meeting. ](/news/2016/09/7/luis-videgaray-caso-resigns-as-mexico-s-finance-minister-amid-fallout-over-president-enrique-pea-a-nieto-s-controversial-meeting-with-u-s-p.md) _Context: Luis Videgaray Caso_
 4. [U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexico-city-after-accepting-an-invitat.md) _Context: Mexico-United States relations_
 5. [ One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military. ](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garza-claimed-that-mexican-soldiers-had-helped-drug-smugglers-to-escape-pursuit-by-texas-state-p.md) _Context: Foreign Minister_
-
-### Changes:
-
-1. [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immi.md) _2017-08-25 03:47:31 (First version)_
-2. [Mexico-United States relations: Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-united-states-relations-mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-s.md) _2017-08-27 03:47:56 (Update)_
-2. [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.md) _(Current version)_

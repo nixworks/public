@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/3/index.html)  [JSON](2017/03/3/index.json)  [XML](2017/03/3/index.xml)  
+
 ## [2017-03-3](/news/2017/03/3/index.md)
 
 ### [The Air Accidents Investigation Branch determines that a pilot error was the cause of the crash. ](/news/2017/03/3/the-air-accidents-investigation-branch-determines-that-a-pilot-error-was-the-cause-of-the-crash.md)

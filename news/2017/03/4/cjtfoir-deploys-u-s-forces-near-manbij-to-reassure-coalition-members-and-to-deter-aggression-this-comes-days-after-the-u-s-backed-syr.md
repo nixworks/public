@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.html)  [JSON](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.json)  [XML](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.xml)  
+
 ### [2017-03-4](/news/2017/03/4/index.md)
 
 # CJTFOIR deploys U.S. forces near Manbij to "reassure Coalition" members and to "deter aggression." This comes days after the U.S.-backed Syrian Democratic Forces' Manbij Military Council agreed to hand over territory west of Manbij to the Syrian Army to create a buffer zone between the SDF and Turkish-backed rebels. 
@@ -5,11 +8,11 @@
 Moments ago, several Islamist factions claimed to have shot down a MiG-21 MiG-23 fighter jet in the northern countryside of Idlib. Ahrar al-Sham said one o
 
 
-### Source:
+### Sources:
 
 1. [Al Masdar News](https://www.almasdarnews.com/article/breaking-engine-failure-forces-syrian-pilot-crash-turkish-territory/)
 2. [Daily Sabah](https://www.dailysabah.com/syrian-crisis/2017/03/04/plane-reportedly-shot-down-by-syrian-opposition-crashes-in-southeastern-turkey)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airplane-idUSKBN16B0KB?il=0)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-airplane-idUSKBN16B0KB?il=0)
 4. [Rudaw](http://www.rudaw.net/english/middleeast/syria/040320171)
 4. [Cover Image](https://media.almasdarnews.com/wp-content/uploads/2017/03/C6FeEIIWAAEAzVz.jpg)
 

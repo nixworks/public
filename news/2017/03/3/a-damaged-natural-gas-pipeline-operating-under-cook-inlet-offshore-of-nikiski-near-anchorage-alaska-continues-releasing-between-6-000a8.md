@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.html)  [JSON](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.json)  [XML](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.xml)  
+
 ### [2017-03-3](/news/2017/03/3/index.md)
 
 # A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. 
@@ -5,11 +8,16 @@
 It&#039;s pumping out 210,000 cubic feet of gas per day, but a fix isn&#039;t expected until later this month at the earliest.
 
 
-### Source:
+### Sources:
 
 1. [Peninsula Clarion](http://peninsulaclarion.com/news/2017-03-01/dec-hilcorp-must-sample-and-monitor-underwater-gas-leak)
 2. [Popular Mechanics](http://www.popularmechanics.com/technology/infrastructure/a25519/natural-gas-leak-cook-inlet-continues/)
 2. [Cover Image](http://pop.h-cdn.co/assets/17/09/1488493153-692024037.jpg)
+
+### Changes:
+
+1. [2016-2017 Cook Inlet natural gas leak: A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/2016-2017-cook-inlet-natural-gas-leak-a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska.md) _2017-08-27 03:47:56 (First version)_
+1. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ It&#039;s pumping out 210,000 cubic feet of gas per day, but a fix isn&#039;t ex
 3. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: natural gas_
 4. [Police in Anchorage, Alaska link a gun that a suspect used in the attempted murder of a police officer, to five unsolved homicides in the city which occurred over the summer. The suspect was killed during the murder attempt. ](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-suspect-used-in-the-attempted-murder-of-a-police-officer-to-five-unsolved-homicides-in-the-ci.md) _Context: Anchorage, Alaska_
 5. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: natural gas_
-
-### Changes:
-
-1. [2016-2017 Cook Inlet natural gas leak: A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/2016-2017-cook-inlet-natural-gas-leak-a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska.md) _2017-08-27 03:47:56 (First version)_
-1. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _(Current version)_

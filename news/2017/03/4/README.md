@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/4/index.html)  [JSON](2017/03/4/index.json)  [XML](2017/03/4/index.xml)  
+
 ## [2017-03-4](/news/2017/03/4/index.md)
 
 ### [According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. ](/news/2017/03/4/according-to-provincial-officials-at-least-eight-people-are-killed-and-another-22-are-injured-by-a-roadside-bomb-in-farah-province-however.md)
@@ -19,10 +22,10 @@ _Context: Kim Jong-nam, Malaysia, Malaysia-North Korea relations, North Korea_
 MIAMI — Not only is the Mexican government not building a wall; it’s spending $50 million to beef up its legal aid to migrants who fear deportation, a response to President Donald Trump’s crackdown on illegal immigration. All 50 Mexican consulates in the U.S. on launched legal assistance cente...
 
 ### [Public Safety Minister Ralph Goodale says Canada will not tighten its border because more migrants, reacting to the United States immigration crackdown, are illegally crossing into Canada from the U.S. Goodale added the issue had not risen to a scale that required hindering the flow of goods and people moving across the world's longest undefended border. ](/news/2017/03/4/public-safety-minister-ralph-goodale-says-canada-will-not-tighten-its-border-because-more-migrants-reacting-to-the-united-states-immigratio.md)
-Canada will not tighten its border to deter migrants crossing illegally from the United States in the wake of a U.S. immigration crackdown because the numbers are not big enough to cause alarm, a government minister said on Saturday.
+ Canada will not tighten its border to deter migrants crossing illegally from the United States in the wake of a U.S. immigration crackdown because the numbers 
 
 ### [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md)
-_Context: Amnesty International, Capital punishment in Jordan, Jordan, hanging_
+ Jordan executed 15 people on Saturday, including 10 convicted on terrorism charges ranging from an attack a decade ago on Western tourists to the slaying of a 
 
 ### [U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month-before-the-2016-presidential-election.md)
 Barack Obama has rejected claims by Donald Trump that he wiretapped him during the late stages of the US presidential election campaign.
