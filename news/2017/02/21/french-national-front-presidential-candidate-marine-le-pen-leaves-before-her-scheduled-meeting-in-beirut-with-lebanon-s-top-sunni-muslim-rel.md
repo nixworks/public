@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.html)  [JSON](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.json)  [XML](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/marine-le-pen-stirs-headscarf-controversy-lebanon-170221150240682.html)
-2. [Reuters](http://www.reuters.com/article/us-france-election-lepen-idUSKBN1600R6)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170221&t=2&i=1173466395&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1K0E1)
+2. [Reuters](https://www.reuters.com/article/us-france-election-lepen-idUSKBN1600R6)
+2. [Cover Image](/resources/r/?m=02&d=20170221&t=2&i=1173466395&w=400&r=LYNXMPED1K0E1)
+
+### Changes:
+
+1. [France-Lebanon relations: French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/france-lebanon-relations-french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-le.md) _2017-08-27 03:47:51 (First version)_
+1. [French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. ](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-she-is-stepping-down-as-leader-of-the-national-front.md) _Context: Marine Le Pen, National Front_
 4. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: Marine Le Pen, National Front_
 5. [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md) _Context: Marine Le Pen, National Front_
-
-### Changes:
-
-1. [France-Lebanon relations: French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/france-lebanon-relations-french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-le.md) _2017-08-27 03:47:51 (First version)_
-1. [French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.md) _(Current version)_

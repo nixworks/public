@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.html)  [JSON](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.json)  [XML](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/nagorno-karabakh-referendum-azerbaijan-armenia/28323000.html)
 

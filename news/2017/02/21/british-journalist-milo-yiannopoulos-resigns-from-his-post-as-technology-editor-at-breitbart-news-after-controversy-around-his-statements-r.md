@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/british-journalist-milo-yiannopoulos-resigns-from-his-post-as-technology-editor-at-breitbart-news-after-controversy-around-his-statements-r.html)  [JSON](/news/2017/02/21/british-journalist-milo-yiannopoulos-resigns-from-his-post-as-technology-editor-at-breitbart-news-after-controversy-around-his-statements-r.json)  [XML](/news/2017/02/21/british-journalist-milo-yiannopoulos-resigns-from-his-post-as-technology-editor-at-breitbart-news-after-controversy-around-his-statements-r.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # British journalist Milo Yiannopoulos resigns from his post as technology editor at Breitbart news, after controversy around his statements regarding underage sex. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39043496)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/13482/production/_94787987_milo_976ap.jpg)

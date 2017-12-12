@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.html)  [JSON](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.json)  [XML](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.xml)  
+
 ### [2017-02-20](/news/2017/02/20/index.md)
 
 # Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. 
 
-Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the area, the Philippine coastguard said on Monday.
+ Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the ar
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-philippines-militants-idUSKBN15Z0J1)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-philippines-militants-idUSKBN15Z0J1)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 

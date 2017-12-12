@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/19/index.html)  [JSON](2017/02/19/index.json)  [XML](2017/02/19/index.xml)  
+
 ## [2017-02-19](/news/2017/02/19/index.md)
 
 ### [Iraq Prime Minister Haider al-Abadi says U.S.-backed Iraqi forces have launched an operation to regain control of western Mosul from ISIL militants. The United Nations says humanitarian agencies are setting up in these older sections of the city where, already, food and fuel supplies are dwindling, running water is scarce, and electricity in many neighborhoods is unreliable for the estimated 800,000 civilians. ](/news/2017/02/19/iraq-prime-minister-haider-al-abadi-says-u-s-backed-iraqi-forces-have-launched-an-operation-to-regain-control-of-western-mosul-from-isil-mi.md)
@@ -16,10 +19,10 @@ MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces kil
 _Context: $, Kraft Heinz, Unilever_
 
 ### [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md)
-_Context: 2017 Afghanistan avalanches, Afghanistan_
+_Context: 2017 Afghanistan avalanches, Afghan_
 
 ### [An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners-on.md)
-Mongolia has agreed with the International Monetary Fund and other partners for a $5.5 billion economic stabilization package, according to a statement from the IMF on Sunday.
+ Mongolia has agreed with the International Monetary Fund and other partners for a $5.5 billion economic stabilization package, according to a statement from th
 
 ### [Voters head to the polls to select the National Assembly and a new president with former vice-president Lenin Moreno facing off against former bank president Guillermo Lasso, and six other opposition candidates. There will be an April 2 runoff unless the leader receives 40 percent of the votes and is at least 10 percentage points ahead of the others. In addition, there's a tax haven referendum. ](/news/2017/02/19/voters-head-to-the-polls-to-select-the-national-assembly-and-a-new-president-with-former-vice-president-lenan-moreno-facing-off-against-for.md)
 _Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenin Moreno, National Assembly, tax haven referendum_

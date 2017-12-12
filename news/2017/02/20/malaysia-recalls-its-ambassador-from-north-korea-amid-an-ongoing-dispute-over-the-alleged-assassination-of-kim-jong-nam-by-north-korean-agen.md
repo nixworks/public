@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.html)  [JSON](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.json)  [XML](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.xml)  
+
 ### [2017-02-20](/news/2017/02/20/index.md)
 
 # Malaysia recalls its ambassador from North Korea amid an ongoing dispute over the alleged assassination of Kim Jong-nam by North Korean agents in the country. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-39024570)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/782B/production/_94736703_mediaitem94736702.jpg)

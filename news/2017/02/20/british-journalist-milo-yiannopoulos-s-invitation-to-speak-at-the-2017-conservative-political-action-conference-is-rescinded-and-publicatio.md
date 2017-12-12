@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/20/british-journalist-milo-yiannopoulos-s-invitation-to-speak-at-the-2017-conservative-political-action-conference-is-rescinded-and-publicatio.html)  [JSON](/news/2017/02/20/british-journalist-milo-yiannopoulos-s-invitation-to-speak-at-the-2017-conservative-political-action-conference-is-rescinded-and-publicatio.json)  [XML](/news/2017/02/20/british-journalist-milo-yiannopoulos-s-invitation-to-speak-at-the-2017-conservative-political-action-conference-is-rescinded-and-publicatio.xml)  
+
 ### [2017-02-20](/news/2017/02/20/index.md)
 
 # British journalist Milo Yiannopoulos's invitation to speak at the 2017 Conservative Political Action Conference is rescinded, and publication of his book "Dangerous" by Simon & Schuster is cancelled after a video is posted allegedly containing statements of his condoning sexual relations with boys as young as thirteen. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times via MSN](http://www.msn.com/en-us/news/us/milo-yiannopoulos%e2%80%99s-pedophilia-comments-cost-him-cpac-role-and-book-deal/ar-AAn94Fw?li=BBnbfcL&ocid=iehp)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/21/index.html)  [JSON](2017/02/21/index.json)  [XML](2017/02/21/index.xml)  
+
 ## [2017-02-21](/news/2017/02/21/index.md)
 
 ### [Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. ](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-people-near-a-district-court-in-charsadda-jamaat-ul-ahrar-claimed-responsibility-for-the-attack.md)
@@ -10,7 +13,7 @@ _Context: Breitbart, Milo Yiannopoulos_
 _Context: Verizon Communications, Yahoo!, two data breaches Yahoo disclosed_
 
 ### [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md)
-Restaurant Brands International said it would expand Popeyes in the U.S. and globally.
+_Context: Burger King, Popeyes Louisiana Kitchen, Restaurant Brands International, US$_
 
 ### [A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. ](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.md)
 A pilot and four passengers die as a result of Victoria&#039;s worst civil aviation accident in 30 years, after a plane crashes into a Melbourne shopping centre.
@@ -28,7 +31,7 @@ _Context: France-Lebanon relations, Marine Le Pen, National Front, Sunni Muslim,
 Swedish police say riots broke out overnight in a predominantly immigrant Stockholm suburb after officers arrested a suspect on drug charges.
 
 ### [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md)
-_Context: $, Austria, Dmytro Firtash, India, Ukraine, United States, bribes, titanium_
+_Context: $, Austria, Dmytro Firtash, India, U.S., Ukraine, bribes, titanium_
 
 ### [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md)
 The sentence, which also included a year&rsquo;s probation and a demotion in rank, was lighter than expected

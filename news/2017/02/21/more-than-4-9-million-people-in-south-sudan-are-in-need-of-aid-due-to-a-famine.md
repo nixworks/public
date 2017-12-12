@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/more-than-4-9-million-people-in-south-sudan-are-in-need-of-aid-due-to-a-famine.html)  [JSON](/news/2017/02/21/more-than-4-9-million-people-in-south-sudan-are-in-need-of-aid-due-to-a-famine.json)  [XML](/news/2017/02/21/more-than-4-9-million-people-in-south-sudan-are-in-need-of-aid-due-to-a-famine.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # More than 4.9 million people in South Sudan are in need of aid due to a famine. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/02/20/africa/south-sudan-famine/index.html)
 

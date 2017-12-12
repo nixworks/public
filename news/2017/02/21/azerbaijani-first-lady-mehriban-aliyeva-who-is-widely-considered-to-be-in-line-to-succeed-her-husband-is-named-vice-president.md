@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.html)  [JSON](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.json)  [XML](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # Azerbaijani First Lady Mehriban Aliyeva, who is widely considered to be in line to succeed her husband, is named vice president. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BNO News](http://bnonews.com/news/index.php/news/id5701)
 1. [Cover Image](https://pbs.twimg.com/profile_images/615514275864444928/VI9Hcg1j_400x400.png)

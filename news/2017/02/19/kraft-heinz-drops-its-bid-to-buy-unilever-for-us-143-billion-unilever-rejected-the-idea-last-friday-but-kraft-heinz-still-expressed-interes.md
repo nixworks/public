@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.html)  [JSON](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.json)  [XML](/news/2017/02/19/kraft-heinz-drops-its-bid-to-buy-unilever-for-us-143-billion-unilever-rejected-the-idea-last-friday-but-kraft-heinz-still-expressed-interes.xml)  
+
 ### [2017-02-19](/news/2017/02/19/index.md)
 
 # Kraft Heinz drops its bid to buy Unilever for US$143 billion. Unilever rejected the idea last Friday but Kraft Heinz still expressed interest in finding an agreement. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-39022692)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/14337/production/_94734728_mediaitem94734727.jpg)

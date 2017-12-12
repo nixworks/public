@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.html)  [JSON](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.json)  [XML](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. 
@@ -5,7 +8,7 @@
 A pilot and four passengers die as a result of Victoria&#039;s worst civil aviation accident in 30 years, after a plane crashes into a Melbourne shopping centre.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2017-02-21/essendon-airport-emergency/8288964)
 1. [Cover Image](http://www.abc.net.au/news/image/8288988-1x1-700x700.jpg)

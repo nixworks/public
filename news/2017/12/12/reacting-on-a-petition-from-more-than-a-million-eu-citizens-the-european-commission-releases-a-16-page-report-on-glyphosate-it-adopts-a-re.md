@@ -10,7 +10,7 @@ Formats: [HTML](/news/2017/12/12/reacting-on-a-petition-from-more-than-a-million
 
 ### Sources:
 
-1. [Le Figaro](http://www.lefigaro.fr/flash-eco/2017/12/12/97002-20171212FILWWW00205-la-commission-officialise-le-renouvellement-du-glyphosate.php)
+1. [Le Figaro'' and Reuters](http://www.lefigaro.fr/flash-eco/2017/12/12/97002-20171212FILWWW00205-la-commission-officialise-le-renouvellement-du-glyphosate.php)
 
 ### Related:
 

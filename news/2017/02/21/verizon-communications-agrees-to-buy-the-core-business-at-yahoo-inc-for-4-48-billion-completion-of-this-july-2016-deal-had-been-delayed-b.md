@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-business-at-yahoo-inc-for-4-48-billion-completion-of-this-july-2016-deal-had-been-delayed-b.html)  [JSON](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-business-at-yahoo-inc-for-4-48-billion-completion-of-this-july-2016-deal-had-been-delayed-b.json)  [XML](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-business-at-yahoo-inc-for-4-48-billion-completion-of-this-july-2016-deal-had-been-delayed-b.xml)  
+
 ### [2017-02-21](/news/2017/02/21/index.md)
 
 # Verizon Communications agrees to buy the core business at Yahoo Inc. for $4.48 billion. Completion of this July 2016 deal had been delayed because of two data breaches Yahoo disclosed last year. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN1601EK)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170221&t=2&i=1173529402&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1K0RJ)
+1. [Reuters](https://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN1601EK)
+1. [Cover Image](/resources/r/?m=02&d=20170221&t=2&i=1173529402&w=400&r=LYNXMPED1K0RJ)
 
 ### Related:
 

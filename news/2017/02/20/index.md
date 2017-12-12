@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/02/20/index.html)  [JSON](2017/02/20/index.json)  [XML](2017/02/20/index.xml)  
+
 ## [2017-02-20](/news/2017/02/20/index.md)
 
 ### [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md)
-Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the area, the Philippine coastguard said on Monday.
+ Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the ar
 
 ### [At least 11 people, all belonging to the same family, are killed in a grenade attack on their home in Laghman Province, according to provincial officials. ](/news/2017/02/20/at-least-11-people-all-belonging-to-the-same-family-are-killed-in-a-grenade-attack-on-their-home-in-laghman-province-according-to-provinc.md)
 _Context: Laghman Province, War in Afghanistan (2015-present)_
@@ -22,7 +25,7 @@ American tech giant Amazon promised to create 15,000 new full-time jobs across E
 ‘Man-made’ food crisis threatens 100,000 people after war and a collapsing economy devastate agriculture in the country
 
 ### [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at-le.md)
-A family of five hid under a mattress as tornado-like winds howled over their home San Antonio home.
+Here&#039;s the latest on severe weather that hit the Lone Star State late Sunday into early Monday.
 
 ### [Malaysia recalls its ambassador from North Korea amid an ongoing dispute over the alleged assassination of Kim Jong-nam by North Korean agents in the country. ](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.md)
 _Context: Death of Kim Jong-nam, Kim Jong-nam, Malaysia, Malaysia-North Korea relations, North Korea_
@@ -37,10 +40,10 @@ Russia dismisses allegations that it was involved in attempted overthrow in Octo
 _Context: Albuquerque, New Mexico, Antisemitism in the United States, Jewish, Jewish Community Center, bomb threat_
 
 ### [Russia's Permanent Representative to the United Nations Vitaly Churkin dies suddenly in New York City. He would have turned 65 on Tuesday. ](/news/2017/02/20/russia-s-permanent-representative-to-the-united-nations-vitaly-churkin-dies-suddenly-in-new-york-city-he-would-have-turned-65-on-tuesday.md)
-_Context: New York City, Permanent Representative of Russia, Russia, Vitaly Churkin_
+(This story corrects in sixth paragraph that Churkin was taken to a hospital from the Russian mission, not the Russian embassy.)
 
 ### [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md)
-_Context: Donald Trump, Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, National Security Advisor, U.S. President, U.S. soldiers_
+_Context: Donald Trump, Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, U.S. National Security Advisor, U.S. President, United States soldier_
 
 ## [Previous Day...](/news/2017/02/19/index.md)
 

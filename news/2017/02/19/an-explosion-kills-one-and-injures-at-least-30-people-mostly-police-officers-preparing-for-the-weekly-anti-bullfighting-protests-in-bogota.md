@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/19/an-explosion-kills-one-and-injures-at-least-30-people-mostly-police-officers-preparing-for-the-weekly-anti-bullfighting-protests-in-bogota.html)  [JSON](/news/2017/02/19/an-explosion-kills-one-and-injures-at-least-30-people-mostly-police-officers-preparing-for-the-weekly-anti-bullfighting-protests-in-bogota.json)  [XML](/news/2017/02/19/an-explosion-kills-one-and-injures-at-least-30-people-mostly-police-officers-preparing-for-the-weekly-anti-bullfighting-protests-in-bogota.xml)  
+
 ### [2017-02-19](/news/2017/02/19/index.md)
 
 # An explosion kills one and injures at least 30 people, mostly police officers preparing for the weekly anti-bullfighting protests in Bogota, Colombia. Bullfighting resumed last month after a four-year lull, per a Supreme Court order. Responsibility has not been determined. 
@@ -5,10 +8,10 @@
 Animal rights activists were due to hold an anti-bullfighting march close to where the blast happened.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39023341)
-2. [Reuters](http://www.reuters.com/article/us-colombia-blast-bullfighting-idUSKBN15Y0PV?il=0)
+2. [Reuters](https://www.reuters.com/article/us-colombia-blast-bullfighting-idUSKBN15Y0PV?il=0)
 3. [i24news](http://www.i24news.tv/en/news/international/americas/138092-170219-explosion-in-colombian-capital-kills-a-policeman-injures-30-official)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/16E1B/production/_94732739_2a389bf4-a118-4de5-a629-908f1c8dcafc.jpg)
 

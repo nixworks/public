@@ -9,8 +9,8 @@ Westfield owns and operates 35 shopping centers in the US and United Kingdom.
 ### [Mayor of San Francisco Ed Lee dies of an apparent heart attack. Supervisor London Breed becomes acting Mayor. ](/news/2017/12/12/mayor-of-san-francisco-ed-lee-dies-of-an-apparent-heart-attack-supervisor-london-breed-becomes-acting-mayor.md)
 _Context: Ed Lee, London Breed, San Francisco_
 
-### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions.md)
-_Context: Alabama, Jeff Sessions, United States Attorney General, United States Senate, United States elections, 2017_
+### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md)
+_Context: Alabama, D, Doug Jones, Jeff Sessions, R, Roy Moore, United States Attorney General, United States Senate, United States Senate special election in Alabama, 2017_
 
 ### [An influential member of the Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/an-influential-member-of-the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace.md)
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
@@ -60,6 +60,9 @@ Scientists re-measure the tallest mountains in the Antarctic territory claimed b
 
 ### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md)
  At a time when China is working on an ambitious lunar program, President Donald Trump vowed on Monday that the United States will remain the leader in space ex
+
+### [The Y-linked protein NLGN4Y transfer from one brother to a next by transfer through the motherwomb, the mother's bloodstream, and her created antibodies reaching her next fetus' brain, together appear to influence the gayness of the next brother. ](/news/2017/12/11/the-y-linked-protein-nlgn4y-transfer-from-one-brother-to-a-next-by-transfer-through-the-motherwomb-the-mother-s-bloodstream-and-her-create.md)
+National Academy of Sciences
 
 ---
 
