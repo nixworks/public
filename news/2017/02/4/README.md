@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/02/4/index.html)  [JSON](2017/02/4/index.json)  [XML](2017/02/4/index.xml)  
+
 ## [2017-02-4](/news/2017/02/4/index.md)
 
 ### [A rebel commander is killed by a bomb in eastern Ukraine while three Ukrainian Army soldiers are killed in fighting. At least 33 people have been killed in fighting over the past week. ](/news/2017/02/4/a-rebel-commander-is-killed-by-a-bomb-in-eastern-ukraine-while-three-ukrainian-army-soldiers-are-killed-in-fighting-at-least-33-people-have.md)
 A top rebel commander in eastern Ukraine has been killed in a car bombing that rebels are blaming on Ukraine&#039;s special services.
 
 ### [Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. ](/news/2017/02/4/australian-foreign-minister-julie-bishop-says-australia-will-honor-the-agreement-to-accept-refugees-from-central-america-even-though-the-u-s.md)
-Australian Foreign Minister Julie Bishop said on Saturday that a controversial refugee resettlement deal with the United States would go ahead, despite U.S. immigration officials postponing interviews with asylum seekers.
+ Australian Foreign Minister Julie Bishop said on Saturday that a controversial refugee resettlement deal with the United States would go ahead, despite U.S. im
 
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md)
 _Context: Donald Trump, Donbass, Petro Poroshenko, Russia, U.S. President, Ukraine-United States relations, Ukrainian President, War in Donbass_
