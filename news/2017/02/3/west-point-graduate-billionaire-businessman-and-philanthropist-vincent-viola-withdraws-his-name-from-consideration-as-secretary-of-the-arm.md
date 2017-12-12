@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.html)  [JSON](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.json)  [XML](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.xml)  
+
 ### [2017-02-3](/news/2017/02/3/index.md)
 
 # West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. 
@@ -5,11 +8,16 @@
 Vincent Viola, owner of the NHL&#039;s Florida Panthers, faced problems divesting his business holdings to take over the role. 
 
 
-### Source:
+### Sources:
 
 1. [Military Times](http://www.militarytimes.com/articles/trump-viola-withdraws-army-secretary)
-2. [Reuters](http://www.reuters.com/article/us-usa-trump-army-idUSKBN15J06G)
+2. [Reuters](https://www.reuters.com/article/us-usa-trump-army-idUSKBN15J06G)
 2. [Cover Image](http://snagfilms-a.akamaihd.net/6b/b2/b77d2d2b4581aff57d956f77e519/vincent-viola-2417.jpg)
+
+### Changes:
+
+1. [Political appointments of Donald Trump: West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. ](/news/2017/02/3/political-appointments-of-donald-trump-west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-fr.md) _2017-08-27 03:47:45 (First version)_
+1. [West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. ](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Vincent Viola, owner of the NHL&#039;s Florida Panthers, faced problems divestin
 3. [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md) _Context: U.S. military_
 4. [The South Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. ](/news/2017/08/26/the-south-korean-military-reports-north-korea-has-fired-several-short-range-projectiles-into-the-sea-from-its-eastern-kangwon-province-the.md) _Context: U.S. military_
 5. [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md) _Context: Political appointments of Donald Trump_
-
-### Changes:
-
-1. [Political appointments of Donald Trump: West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. ](/news/2017/02/3/political-appointments-of-donald-trump-west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-fr.md) _2017-08-27 03:47:45 (First version)_
-1. [West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. ](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-philanthropist-vincent-viola-withdraws-his-name-from-consideration-as-secretary-of-the-arm.md) _(Current version)_

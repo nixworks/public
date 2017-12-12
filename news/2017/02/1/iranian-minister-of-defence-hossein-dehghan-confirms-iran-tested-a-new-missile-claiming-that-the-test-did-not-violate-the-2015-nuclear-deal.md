@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.html)  [JSON](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.json)  [XML](/news/2017/02/1/iranian-minister-of-defence-hossein-dehghan-confirms-iran-tested-a-new-missile-claiming-that-the-test-did-not-violate-the-2015-nuclear-deal.xml)  
+
 ### [2017-02-1](/news/2017/02/1/index.md)
 
 # Iranian Minister of Defence Hossein Dehghan confirms Iran tested a new missile, claiming that the test did not violate the 2015 nuclear deal nor UN resolution 2231. 
 
-Iran said on Wednesday it had test-fired a new ballistic missile, prompting a tough response from a senior adviser to U.S. President Donald Trump.
+ Iran said on Wednesday it had test-fired a new ballistic missile, prompting a tough response from a senior adviser to U.S. President Donald Trump.
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://presstv.ir/Detail/2017/02/01/508673/Iran-Dehqan-Resolution-2231-JCPOA)
-2. [Reuters](http://www.reuters.com/article/us-usa-iran-missiles-idUSKBN15G3ZO)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170201&t=2&i=1171054010&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED102V6)
+2. [Reuters](https://www.reuters.com/article/us-usa-iran-missiles-idUSKBN15G3ZO)
+2. [Cover Image](/resources/r/?m=02&d=20170201&t=2&i=1171054010&w=400&r=LYNXMPED102V6)
 
 ### Related:
 

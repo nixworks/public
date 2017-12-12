@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.html)  [JSON](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.json)  [XML](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.xml)  
+
 ### [2017-02-3](/news/2017/02/3/index.md)
 
 # The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. 
@@ -5,10 +8,15 @@
 Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/iran-us-new-sanctions-treasury-missile-test/28277671.html)
 2. [The Washington Post](https://www.washingtonpost.com/sports/iran-bars-us-wrestlers-from-tournament-in-response-to-trumps-travel-ban/2017/02/03/234c4e88-ea28-11e6-80c2-30e57e57e05d_story.html)
+
+### Changes:
+
+1. [Iran-United States relations: The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/iran-united-states-relations-the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter.md) _2017-08-27 03:47:45 (First version)_
+1. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 3. [The United States Navy says the USS "Thunderbolt" fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran, Iran-United States relations_
 4. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: Iran, Iran-United States relations_
 5. [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md) _Context: Iran, Iran-United States relations_
-
-### Changes:
-
-1. [Iran-United States relations: The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/iran-united-states-relations-the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter.md) _2017-08-27 03:47:45 (First version)_
-1. [The United States Department of the Treasury announces new sanctions against Iran in response to the latter's recent ballistic missile test. Thirteen people and twelve entities with ties to Iran have been affected. ](/news/2017/02/3/the-united-states-department-of-the-treasury-announces-new-sanctions-against-iran-in-response-to-the-latter-s-recent-ballistic-missile-test.md) _(Current version)_

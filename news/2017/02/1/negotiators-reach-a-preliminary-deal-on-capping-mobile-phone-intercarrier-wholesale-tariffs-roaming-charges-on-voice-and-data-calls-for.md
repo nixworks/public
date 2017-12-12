@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.html)  [JSON](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.json)  [XML](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.xml)  
+
 ### [2017-02-1](/news/2017/02/1/index.md)
 
 # Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. 
 
-European lawmakers clinched a deal early on Wednesday to cap the wholesale charges mobile service operators pay each other to enable their customers to use their mobile phones in other European countries, paving the way for the abolition of roaming fees in June.
+ European lawmakers clinched a deal early on Wednesday to cap the wholesale charges mobile service operators pay each other to enable their customers to use the
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-eu-telecoms-roaming-idUSKBN15G2YB)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170201&t=2&i=1170944123&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED101G5)
+1. [Reuters](https://www.reuters.com/article/us-eu-telecoms-roaming-idUSKBN15G2YB)
+1. [Cover Image](/resources/r/?m=02&d=20170201&t=2&i=1170944123&w=400&r=LYNXMPED101G5)
+
+### Changes:
+
+1. [Negotiators reach a preliminary deal on capping mobile phone intercarrier (''wholesale'') tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-f.md) _2017-08-25 03:47:19 (First version)_
+2. [European Union roaming regulations: Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/european-union-roaming-regulations-negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming.md) _2017-08-27 03:47:44 (Update)_
+2. [Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ European lawmakers clinched a deal early on Wednesday to cap the wholesale charg
 3. [ The Bank of England says that consumer debt in the United Kingdom has passed one trillion pounds for the first time. Coupled with increasing interest rates, this increased amount of debt has caused a sharp rise in the number of people seeking help with money problems &ndash; up 44% on five years ago. ](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.md) _Context: consumer_
 4. [ The United States Federal Trade Commission opens the National Do Not Call Registry. This registry gives consumers an opportunity to limit the telemarketing calls they receive. On October 1, 2003, when the National Do Not Call Registry became enforced, most telemarketers were required to remove the numbers on the registry from their call lists. See http:--donotcall.gov- or call 1-888 382-1222 for registration.,](/news/2003/06/27/the-united-states-federal-trade-commission-opens-the-national-do-not-call-registry-this-registry-gives-consumers-an-opportunity-to-limit-t.md) _Context: consumer_
 5. [ An Illinois court ordered the tobacco company Philip Morris to pay $10.1 billion for misleading consumers with the word "light." The company appeals.](/news/2003/03/21/an-illinois-court-ordered-the-tobacco-company-philip-morris-to-pay-10-1-billion-for-misleading-consumers-with-the-word-light-the-compan.md) _Context: consumer_
-
-### Changes:
-
-1. [Negotiators reach a preliminary deal on capping mobile phone intercarrier (''wholesale'') tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-f.md) _2017-08-25 03:47:19 (First version)_
-2. [European Union roaming regulations: Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/european-union-roaming-regulations-negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming.md) _2017-08-27 03:47:44 (Update)_
-2. [Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.md) _(Current version)_

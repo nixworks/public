@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/1/according-to-a-report-released-by-malegapuru-william-makgoba-94-mentally-ill-patients-in-south-africa-died-from-starvation-dehydration-and.html)  [JSON](/news/2017/02/1/according-to-a-report-released-by-malegapuru-william-makgoba-94-mentally-ill-patients-in-south-africa-died-from-starvation-dehydration-and.json)  [XML](/news/2017/02/1/according-to-a-report-released-by-malegapuru-william-makgoba-94-mentally-ill-patients-in-south-africa-died-from-starvation-dehydration-and.xml)  
+
 ### [2017-02-1](/news/2017/02/1/index.md)
 
 # According to a report released by Malegapuru William Makgoba, 94 mentally ill patients in South Africa died from starvation, dehydration and diarrhea between March and December 2016 because of a "reckless" government attempt to save money by transferring the patients from a specialized institution to care centres with "invalid licenses". 
@@ -5,7 +8,7 @@
 A &quot;reckless&quot; attempt to save cash leads to starvation and dehydration deaths, ombudsman says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/38826196)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/C814/production/_93902215_img_3274.jpg)

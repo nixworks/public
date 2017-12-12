@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/02/3/index.html)  [JSON](2017/02/3/index.json)  [XML](2017/02/3/index.xml)  
+
 ## [2017-02-3](/news/2017/02/3/index.md)
 
 ### [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md)
-_Context: Afghan police, Faryab Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Faryab Province, Taliban, War in Afghanistan (2015-present), police_
 
 ### [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md)
 Military says a total of 47 fighters killed in northern Syria in clashes and air raids in the past 24 hours.
@@ -22,7 +25,7 @@ Rio gold medalist Kyle Snyder among Americans prohibited from competing.
 _Context: Interior Minister, Pedro Pablo Kuczynski, President, Venezuela_
 
 ### [Per the Afghan government's request, the United Nations drops sanctions against Hezb-e Islami party leader and former Prime Minister Gulbuddin Hekmatyar. This potentially sets up his return to Afghanistan, which is part of the country's peace deal with its second largest militant group, signed in September 2016. ](/news/2017/02/3/per-the-afghan-government-s-request-the-united-nations-drops-sanctions-against-hezb-e-islami-party-leader-and-former-prime-minister-gulbudd.md)
-The United Nations Security Council has dropped sanctions against Afghan strongman Gulbuddin Hekmatyar, potentially paving the way for the notorious warlord to return openly to Afghanistan.
+ The United Nations Security Council has dropped sanctions against Afghan strongman Gulbuddin Hekmatyar, potentially paving the way for the notorious warlord to
 
 ### [The High Court of Australia rules that Rod Culleton was ineligible for election as a candidate for Pauline Hanson's One Nation Party in Western Australia in the Federal election and is ineligible to serve in the Senate of Australia. ](/news/2017/02/3/the-high-court-of-australia-rules-that-rod-culleton-was-ineligible-for-election-as-a-candidate-for-pauline-hanson-s-one-nation-party-in-west.md)
 After a protracted legal battle that began almost as soon as he was elected, Rod Culleton&#039;s election has been ruled ineligible by the High Court.
