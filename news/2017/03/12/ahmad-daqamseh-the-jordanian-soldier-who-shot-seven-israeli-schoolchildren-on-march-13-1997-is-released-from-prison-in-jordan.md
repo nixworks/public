@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/03/12/ahmad-daqamseh-the-jordanian-soldier-who-shot-seven-israeli-schoolchildren-on-march-13-1997-is-released-from-prison-in-jordan.html)  [JSON](/news/2017/03/12/ahmad-daqamseh-the-jordanian-soldier-who-shot-seven-israeli-schoolchildren-on-march-13-1997-is-released-from-prison-in-jordan.json)  [XML](/news/2017/03/12/ahmad-daqamseh-the-jordanian-soldier-who-shot-seven-israeli-schoolchildren-on-march-13-1997-is-released-from-prison-in-jordan.xml)  
+
 ### [2017-03-12](/news/2017/03/12/index.md)
 
 # Ahmad Daqamseh, the Jordanian soldier who shot seven Israeli schoolchildren on March 13, 1997, is released from prison in Jordan. 
 
+ A Jordanian soldier who killed seven Israeli schoolgirls has been freed after serving 20 years in prison, with many Jordanians celebrating his release and call
 
 
+### Sources:
 
-### Source:
-
-1. [Reuters](http://www.reuters.com/article/us-jordan-israel-soldier-idUSKBN16J00F)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170312&t=2&i=1175814999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2B00I)
+1. [Reuters](https://www.reuters.com/article/us-jordan-israel-soldier-idUSKBN16J00F)
+1. [Cover Image](/resources/r/?m=02&d=20170312&t=2&i=1175814999&w=400&r=LYNXMPED2B00I)
 
 ### Related:
 

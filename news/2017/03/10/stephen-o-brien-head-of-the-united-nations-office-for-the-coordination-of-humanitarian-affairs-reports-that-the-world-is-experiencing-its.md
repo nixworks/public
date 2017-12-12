@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.html)  [JSON](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.json)  [XML](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.xml)  
+
 ### [2017-03-10](/news/2017/03/10/index.md)
 
 # Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. 
@@ -5,7 +8,7 @@
 The UN humanitarian chief pleads for help to avoid &quot;a catastrophe&quot; in four countries.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39238808)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/AA51/production/_95110634_6451c74a-2c7c-459c-89df-22216d3abc4f.jpg)

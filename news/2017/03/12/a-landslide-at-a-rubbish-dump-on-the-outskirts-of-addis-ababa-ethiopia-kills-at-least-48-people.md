@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-of-addis-ababa-ethiopia-kills-at-least-48-people.html)  [JSON](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-of-addis-ababa-ethiopia-kills-at-least-48-people.json)  [XML](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-of-addis-ababa-ethiopia-kills-at-least-48-people.xml)  
+
 ### [2017-03-12](/news/2017/03/12/index.md)
 
 # A landslide at a rubbish dump on the outskirts of Addis Ababa, Ethiopia, kills at least 48 people. 
@@ -5,7 +8,7 @@
 Many had scavenged at the rubbish dump to make a living - and some even lived there permanently.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-39247381)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/DB8A/production/_95120265_4173f67f-5dc3-4319-a4fc-688d7d20e420.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/12/former-president-of-the-generalitat-of-catalonia-artur-mas-is-banned-from-holding-public-office-for-two-years-after-organising-an-unoffici.html)  [JSON](/news/2017/03/12/former-president-of-the-generalitat-of-catalonia-artur-mas-is-banned-from-holding-public-office-for-two-years-after-organising-an-unoffici.json)  [XML](/news/2017/03/12/former-president-of-the-generalitat-of-catalonia-artur-mas-is-banned-from-holding-public-office-for-two-years-after-organising-an-unoffici.xml)  
+
 ### [2017-03-12](/news/2017/03/12/index.md)
 
 # Former President of the Generalitat of Catalonia, Artur Mas, is banned from holding public office for two years after organising an unofficial, unconstitutional independence referendum in 2014. 
@@ -5,7 +8,7 @@
 Two-year ban comes with €36,500 fine for disobeying Spanish constitutional court over 2014 independence referendum
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/13/catalan-ex-president-artur-mas-barred-from-holding-public-office)
 1. [Cover Image](https://i.guim.co.uk/img/media/a81ec4442a9a96c697953b57b3d99c81c4806255/369_143_3774_2264/master/3774.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=b0bdddd2f8db6b106a92f91236ce3c97)
