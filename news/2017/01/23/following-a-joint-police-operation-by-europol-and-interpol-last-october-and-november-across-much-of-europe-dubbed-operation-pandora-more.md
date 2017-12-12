@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.html)  [JSON](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.json)  [XML](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.xml)  
+
 ### [2017-01-23](/news/2017/01/23/index.md)
 
 # Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. 
@@ -5,7 +8,7 @@
 Stolen artworks, cultural items and archaeological items recovered in a European sting operation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-38723099)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/4251/production/_93777961_operationpandora3.jpg)

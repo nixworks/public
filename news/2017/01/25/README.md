@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/25/index.html)  [JSON](2017/01/25/index.json)  [XML](2017/01/25/index.xml)  
+
 ## [2017-01-25](/news/2017/01/25/index.md)
 
 ### [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md)
@@ -22,10 +25,10 @@ The German government voted Wednesday to scrap a &quot;lese majeste&quot; law th
 _Context: Duma, Russia, domestic violence_
 
 ### [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md)
-_Context: Belgium, Lilianne Ploumen, Mexico City policy, Netherlands, United States, Women's rights_
+_Context: Belgium, Lilianne Ploumen, Mexico City policy, Netherlands, U.S., Women's rights_
 
 ### [The Vatican City State announces that Pope Francis will name a Pontifical Delegate to head the Sovereign Military Order of Malta after Prince and Grand Master Matthew Festing's unexpected forced resignation in a spat over condoms. ](/news/2017/01/25/the-vatican-city-state-announces-that-pope-francis-will-name-a-pontifical-delegate-to-head-the-sovereign-military-order-of-malta-after-princ.md)
-Pope Francis will name his own man to run the Knights of Malta temporarily after the head of the ancient chivalric and charity institution resigned in the climax of a bitter dispute over sovereignty with the Vatican.
+ Pope Francis will name his own man to run the Knights of Malta temporarily after the head of the ancient chivalric and charity institution resigned in the clim
 
 ### [United States President Donald Trump announces that he intends to seek an investigation into possible voter fraud from last year's election. ](/news/2017/01/25/united-states-president-donald-trump-announces-that-he-intends-to-seek-an-investigation-into-possible-voter-fraud-from-last-year-s-election.md)
 President Trump announced Wednesday that he will be asking for a “major investigation” into alleged nationwide voter fraud – a day after his press secretary was grilled on Trump’s claims that 3-5 million people had voted illegally in November.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.html)  [JSON](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.json)  [XML](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.xml)  
+
 ### [2017-01-23](/news/2017/01/23/index.md)
 
 # John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/01/23/business/dealbook/aetna-humana-deal-blocked.html)
 

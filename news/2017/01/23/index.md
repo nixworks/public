@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/23/index.html)  [JSON](2017/01/23/index.json)  [XML](2017/01/23/index.xml)  
+
 ## [2017-01-23](/news/2017/01/23/index.md)
 
 ### [The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. ](/news/2017/01/23/the-yemeni-army-claims-to-have-recaptured-the-port-city-of-mocha-from-houthi-rebels.md)

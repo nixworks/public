@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/25/the-dow-jones-industrial-average-breaks-20-000-for-the-first-time-ever.html)  [JSON](/news/2017/01/25/the-dow-jones-industrial-average-breaks-20-000-for-the-first-time-ever.json)  [XML](/news/2017/01/25/the-dow-jones-industrial-average-breaks-20-000-for-the-first-time-ever.xml)  
+
 ### [2017-01-25](/news/2017/01/25/index.md)
 
 # The Dow Jones Industrial Average breaks 20,000 for the first time ever. 
@@ -5,9 +8,9 @@
 Stocks closed at all-time highs after a series of executive orders from President Donald Trump increased bullish sentiment on Wall Street.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2017/01/25/us-markets.html)
+1. [CNBC](https://www.cnbc.com/2017/01/25/us-markets.html)
 
 ### Related:
 

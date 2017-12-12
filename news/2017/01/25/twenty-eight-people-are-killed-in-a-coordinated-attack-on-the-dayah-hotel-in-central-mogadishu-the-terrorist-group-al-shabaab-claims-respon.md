@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.html)  [JSON](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.json)  [XML](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.xml)  
+
 ### [2017-01-25](/news/2017/01/25/index.md)
 
 # Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. 
@@ -5,11 +8,16 @@
 Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a popular Mogadishu hotel, setting off two car bombs and opening fire on security guards, according to the city&#x27;s main ambulance service. The attack, claimed by the Al-Qaeda-aligned Shabaab insurgents, began when a car loaded
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/somalia-car-bomb-attack-targets-mogadishu-hotel-170125061508189.html)
 2. [Yahoo](https://www.yahoo.com/news/least-seven-killed-mogadishu-hotel-attack-police-084256456.html)
 2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/tKzS.C7LULsJfnrrXd2yBQ--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/783e98c2660d0ebc61c37369f0dbea08012a174a.jpg)
+
+### Changes:
+
+1. [War in Somalia (2009-present): Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/war-in-somalia-2009-present-twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrori.md) _2017-08-27 03:47:41 (First version)_
+1. [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a po
 3. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 4. [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
 5. [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
-
-### Changes:
-
-1. [War in Somalia (2009-present): Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/war-in-somalia-2009-present-twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrori.md) _2017-08-27 03:47:41 (First version)_
-1. [Twenty-eight people are killed in a coordinated attack on the Dayah Hotel in central Mogadishu. The terrorist group Al-Shabaab claims responsibility. ](/news/2017/01/25/twenty-eight-people-are-killed-in-a-coordinated-attack-on-the-dayah-hotel-in-central-mogadishu-the-terrorist-group-al-shabaab-claims-respon.md) _(Current version)_

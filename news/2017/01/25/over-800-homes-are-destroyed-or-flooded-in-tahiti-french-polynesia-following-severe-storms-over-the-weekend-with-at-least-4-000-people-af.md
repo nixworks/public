@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/25/over-800-homes-are-destroyed-or-flooded-in-tahiti-french-polynesia-following-severe-storms-over-the-weekend-with-at-least-4-000-people-af.html)  [JSON](/news/2017/01/25/over-800-homes-are-destroyed-or-flooded-in-tahiti-french-polynesia-following-severe-storms-over-the-weekend-with-at-least-4-000-people-af.json)  [XML](/news/2017/01/25/over-800-homes-are-destroyed-or-flooded-in-tahiti-french-polynesia-following-severe-storms-over-the-weekend-with-at-least-4-000-people-af.xml)  
+
 ### [2017-01-25](/news/2017/01/25/index.md)
 
 # Over 800 homes are destroyed or flooded in Tahiti, French Polynesia, following severe storms over the weekend, with at least 4,000 people affected. 
@@ -5,7 +8,7 @@
 More than 800 homes have been destroyed or flooded and 4000 people have been affected by flooding in French Polynesia after the weekend&#39;s severe storms.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/323047/800-homes-destroyed-or-flooded-in-tahiti-storms)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)
