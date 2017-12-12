@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/22/united-states-president-barack-obama-signs-the-frank-r-lautenberg-chemical-safety-for-the-21st-century-act-into-law-the-legislation-is-the.html)  [JSON](/news/2016/06/22/united-states-president-barack-obama-signs-the-frank-r-lautenberg-chemical-safety-for-the-21st-century-act-into-law-the-legislation-is-the.json)  [XML](/news/2016/06/22/united-states-president-barack-obama-signs-the-frank-r-lautenberg-chemical-safety-for-the-21st-century-act-into-law-the-legislation-is-the.xml)  
+
 ### [2016-06-22](/news/2016/06/22/index.md)
 
 # United States President Barack Obama signs the Frank R. Lautenberg Chemical Safety for the 21st Century Act into law. The legislation is the first major overhaul of toxic chemicals rules in America in 40 years. 
@@ -5,9 +8,9 @@
 The Frank R. Lautenberg Chemical Safety for the 21st Century Act updates the Toxic Substances Control Act, giving the EPA more oversight and stronger tools to monitor chemicals
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/06/22/us/politics/ap-us-obama-chemical-regulation.html?_r=0)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/2016/06/22/us/politics/ap-us-obama-chemical-regulation.html?_r=0)
 2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/06/22/obamatoxic/)
 
 ### Related:

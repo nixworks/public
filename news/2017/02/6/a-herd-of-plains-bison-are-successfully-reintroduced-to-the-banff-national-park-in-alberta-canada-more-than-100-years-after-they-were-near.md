@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/6/a-herd-of-plains-bison-are-successfully-reintroduced-to-the-banff-national-park-in-alberta-canada-more-than-100-years-after-they-were-near.html)  [JSON](/news/2017/02/6/a-herd-of-plains-bison-are-successfully-reintroduced-to-the-banff-national-park-in-alberta-canada-more-than-100-years-after-they-were-near.json)  [XML](/news/2017/02/6/a-herd-of-plains-bison-are-successfully-reintroduced-to-the-banff-national-park-in-alberta-canada-more-than-100-years-after-they-were-near.xml)  
+
 ### [2017-02-6](/news/2017/02/6/index.md)
 
 # A herd of Plains bison are successfully reintroduced to the Banff National Park in Alberta, Canada, more than 100 years after they were nearly hunted out of existence. 
@@ -5,7 +8,7 @@
 The staged reintroduction since the end of last month is going smoothly, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-38888269)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/8CDC/production/_94006063_5d8c398e-6c08-4d23-9fac-c08ed41bcaa5.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/22/a-severe-thunderstorm-and-tornado-near-yancheng-jiangsu-province-china-kills-at-least-98-people-see-2016-jiangsu-tornado.html)  [JSON](/news/2016/06/22/a-severe-thunderstorm-and-tornado-near-yancheng-jiangsu-province-china-kills-at-least-98-people-see-2016-jiangsu-tornado.json)  [XML](/news/2016/06/22/a-severe-thunderstorm-and-tornado-near-yancheng-jiangsu-province-china-kills-at-least-98-people-see-2016-jiangsu-tornado.xml)  
+
 ### [2016-06-22](/news/2016/06/22/index.md)
 
 # A severe thunderstorm and tornado near Yancheng, Jiangsu Province, China, kills at least 98 people. See 2016 Jiangsu tornado. 
@@ -5,7 +8,7 @@
 A tornado and hailstorm kill at least 98 people and injure nearly 800 in the east Chinese province of Jiangsu, says state media.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-36607600)
 2. [The Seattle Times](http://www.seattletimes.com/nation-world/china-state-media-say-51-killed-in-tornado-in-eastern-province-of-jiangsu-large-numbers-of-buildings-destroyed/)

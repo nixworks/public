@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.html)  [JSON](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.json)  [XML](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.xml)  
+
 ### [2017-02-6](/news/2017/02/6/index.md)
 
 # Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-royals-queen-sapphire-idUSKBN15L005)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170207&t=2&i=1171666686&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED150WV)
+1. [Reuters](https://www.reuters.com/article/us-britain-royals-queen-sapphire-idUSKBN15L005)
+1. [Cover Image](/resources/r/?m=02&d=20170207&t=2&i=1171666686&w=400&r=LYNXMPED150WV)
 
 ### Related:
 

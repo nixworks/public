@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.html)  [JSON](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.json)  [XML](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.xml)  
+
 ### [2017-02-5](/news/2017/02/5/index.md)
 
 # Turkish police arrest over 400 suspected ISIL members in raids across the country. 
@@ -5,14 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/turkey-detains-hundreds-major-anti-isil-operation-170205124649016.html)
 
 ### Related:
 
-1. [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md) _Context: ISIL_
-2. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
-3. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL_
-4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: ISIL_
-5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: ISIL_
+1. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
+2. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_
+3. [During a visit to Syria, his first, President Vladimir Putin announces that a significant part of Russian forces will withdraw from Syria now that ISIL has been defeated in the country. ](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vladimir-putin-announces-that-a-significant-part-of-russian-forces-will-withdraw-from-syria-no.md) _Context: ISIL_
+4. [ An Iraqi military parade in Baghdad celebrates final victory over the Islamic State of Iraq and the Levant. Prime Minister Haider al-Abadi declares December 10 an annual national holiday. ](/news/2017/12/10/an-iraqi-military-parade-in-baghdad-celebrates-final-victory-over-the-islamic-state-of-iraq-and-the-levant-prime-minister-haider-al-abadi.md) _Context: ISIL_
+5. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL_

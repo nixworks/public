@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/5/index.html)  [JSON](2017/02/5/index.json)  [XML](2017/02/5/index.xml)  
+
 ## [2017-02-5](/news/2017/02/5/index.md)
 
 ### [Heavy snow and avalanches kill dozens of people in Afghanistan and northern Pakistan, while Kabul International Airport is closed due to snow and ice on the runway. ](/news/2017/02/5/heavy-snow-and-avalanches-kill-dozens-of-people-in-afghanistan-and-northern-pakistan-while-kabul-international-airport-is-closed-due-to-sno.md)
@@ -13,10 +16,10 @@ The 9th U.S. Circuit Court of Appeals denied a Trump administration request to h
 _Context: 2017 Romanian protests, Romania, Sorin Grindeanu_
 
 ### [Following diplomatic mediation by the European Union and the United States, minority Serbs tear down a concrete wall in Mitrovica. The city's majority Albanians regarded the wall as a provocation. ](/news/2017/02/5/following-diplomatic-mediation-by-the-european-union-and-the-united-states-minority-serbs-tear-down-a-concrete-wall-in-mitrovica-the-city.md)
-_Context: Albanians, EU, Mitrovica, Serbs, United States_
+_Context: Albanians, European Union, Mitrovica, Serbs, U.S._
 
 ### [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md)
-The Pentagon has failed to disclose up to thousands of air strikes the U.S. military carried out over several years in Iraq, Syria, and Afghanistan against militants in those countries, the Military Times reported on Sunday.
+ The Pentagon has failed to disclose up to thousands of air strikes the U.S. military carried out over several years in Iraq, Syria, and Afghanistan against mil
 
 ## [Previous Day...](/news/2017/02/4/index.md)
 

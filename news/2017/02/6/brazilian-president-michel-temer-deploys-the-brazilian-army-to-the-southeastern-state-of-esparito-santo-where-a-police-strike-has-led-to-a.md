@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/6/brazilian-president-michel-temer-deploys-the-brazilian-army-to-the-southeastern-state-of-esparito-santo-where-a-police-strike-has-led-to-a.html)  [JSON](/news/2017/02/6/brazilian-president-michel-temer-deploys-the-brazilian-army-to-the-southeastern-state-of-esparito-santo-where-a-police-strike-has-led-to-a.json)  [XML](/news/2017/02/6/brazilian-president-michel-temer-deploys-the-brazilian-army-to-the-southeastern-state-of-esparito-santo-where-a-police-strike-has-led-to-a.xml)  
+
 ### [2017-02-6](/news/2017/02/6/index.md)
 
 # Brazilian President Michel Temer deploys the Brazilian Army to the southeastern state of Espirito Santo, where a police strike has led to a wave of violence and looting, including dozens of murders in the state capital, Vitoria. 
@@ -5,9 +8,9 @@
 As many as 50 people have died in crimewave, according to local reports, as Espirito Santo police stopped work over pay dispute amid worst recession
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-violence-espirito-santo-idUSKBN15L26A)
+1. [Reuters](https://www.reuters.com/article/us-brazil-violence-espirito-santo-idUSKBN15L26A)
 2. [The Guardian](https://www.theguardian.com/world/2017/feb/06/brazil-police-strike-crimewave-troops-espirito-santo)
 2. [Cover Image](https://i.guim.co.uk/img/media/39c3f634d219c5524dbc35ae052867959ad640ab/0_78_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=84e3217d0f2842bbc6dd4e089b64ff12)
 

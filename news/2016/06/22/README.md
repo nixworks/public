@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/22/index.html)  [JSON](2016/06/22/index.json)  [XML](2016/06/22/index.xml)  
+
 ## [2016-06-22](/news/2016/06/22/index.md)
 
 ### [The Islamic State of Iraq and the Levant declares war on the Philippines. ](/news/2016/06/22/the-islamic-state-of-iraq-and-the-levant-declares-war-on-the-philippines.md)
@@ -7,10 +10,10 @@ The so-called Islamic State, or ISIS, released a video early on Wednesday in an 
 At least 18 civilians have been killed in air strikes in the Syrian city of Raqqa, the headquarters of so-called Islamic State, activists say.
 
 ### [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md)
-_Context: Fallujah, ISIL, Iraqi government forces, Shi'ite volunteers, United Nations, during fighting_
+_Context: Fallujah, ISIL, Iraqi Armed Forces, Shi'ite volunteers, United Nations, during fighting_
 
 ### [Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-responsibility.md)
-_Context: Amjad Sabri, Pakistan, Pakistani Taliban, Sectarianism in Pakistan, Sufi_
+Mr. Sabri, a prominent singer of Sufi devotional songs, had been named in a blasphemy case, and a wing of the Pakistani Taliban made an unconfirmed claim of responsibility in the killing.
 
 ### [Gunmen kill a Nigerian driver and kidnap seven people near Calabar, Nigeria. The group, which was escorted by a security pickup that reportedly had four armed policemen, includes five expatriate and two Nigerian contractors working for Macmahon Holdings' United Cement Company plant in the Akpabuyo district. Police report two of the workers escaped. Police commissioner Jimoh Ozi-Obeh says no ransom has been received. ](/news/2016/06/22/gunmen-kill-a-nigerian-driver-and-kidnap-seven-people-near-calabar-nigeria-the-group-which-was-escorted-by-a-security-pickup-that-reporte.md)
 The government has confirmed that a South African man was among the contractors kidnapped in Nigeria.
@@ -22,7 +25,7 @@ At least 56 people die in Bihar and more killed in nearby Uttar Pradesh, with mo
 A tornado and hailstorm kill at least 98 people and injure nearly 800 in the east Chinese province of Jiangsu, says state media.
 
 ### [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md)
-_Context: BM25 Musudan, North Korea, North Korea-South Korea relations, South Korea, intermediate-range ballistic missile, its nuclear weapons program_
+_Context: BM25 Musudan, North Korea, North Korea and weapons of mass destruction, North Korea-South Korea relations, South Korea, intermediate-range ballistic missile_
 
 ### [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md)
 Jordan declares its border regions with Syria and Iraq to be closed military zones, following a deadly suicide bombing that killed six
