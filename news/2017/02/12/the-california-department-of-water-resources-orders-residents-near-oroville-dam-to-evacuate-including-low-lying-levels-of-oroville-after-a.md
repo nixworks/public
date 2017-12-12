@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/12/the-california-department-of-water-resources-orders-residents-near-oroville-dam-to-evacuate-including-low-lying-levels-of-oroville-after-a.html)  [JSON](/news/2017/02/12/the-california-department-of-water-resources-orders-residents-near-oroville-dam-to-evacuate-including-low-lying-levels-of-oroville-after-a.json)  [XML](/news/2017/02/12/the-california-department-of-water-resources-orders-residents-near-oroville-dam-to-evacuate-including-low-lying-levels-of-oroville-after-a.xml)  
+
 ### [2017-02-12](/news/2017/02/12/index.md)
 
 # The California Department of Water Resources orders residents near Oroville Dam to evacuate, including low-lying levels of Oroville, after an emergency spillway severely eroded. 
@@ -5,7 +8,7 @@
 Officials in northern California ordered residents near the Oroville Dam to evacuate the area Sunday after an emergency spillway severely eroded.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2017/02/12/officials-order-evacuations-areas-near-damaged-california-dam.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2017/02/12/officials-order-evacuations-areas-near-damaged-california-dam/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1486949529903.jpg?ve=1)

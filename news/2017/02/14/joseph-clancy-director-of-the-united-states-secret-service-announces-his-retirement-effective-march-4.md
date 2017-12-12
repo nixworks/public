@@ -1,13 +1,16 @@
+
+Formats: [HTML](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.html)  [JSON](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.json)  [XML](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.xml)  
+
 ### [2017-02-14](/news/2017/02/14/index.md)
 
 # Joseph Clancy, Director of the United States Secret Service, announces his retirement effective March 4. 
 
-Clancy retires two years after returning to right the then-troubled agency
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/politics/2017/02/14/secret-service-director-joseph-clancy-leaving-agency/97893974/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/politics/2017/02/14/secret-service-director-joseph-clancy-leaving-agency/97893974/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

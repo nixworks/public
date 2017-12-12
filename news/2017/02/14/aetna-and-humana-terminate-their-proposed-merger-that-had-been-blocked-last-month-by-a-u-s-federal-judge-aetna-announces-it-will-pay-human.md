@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merger-that-had-been-blocked-last-month-by-a-u-s-federal-judge-aetna-announces-it-will-pay-human.html)  [JSON](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merger-that-had-been-blocked-last-month-by-a-u-s-federal-judge-aetna-announces-it-will-pay-human.json)  [XML](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merger-that-had-been-blocked-last-month-by-a-u-s-federal-judge-aetna-announces-it-will-pay-human.xml)  
+
 ### [2017-02-14](/news/2017/02/14/index.md)
 
 # Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana the $1 billion fee for calling off the agreement. 
 
-The two healthcare giants said they were no longer pursuing the deal. A federal judge blocked the merger in January, citing its likely adverse effect on competition in the health insurance market.
+Aetna and Humana said they have terminated their merger agreement after a U.S. District Court Judge earlier this month ruled against the deal, effectively blocking the combination.
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/sites/brucejapsen/2017/02/14/aetna-gives-up-on-merger-will-pay-humana-1b-breakup-fee/#4b72d60b150a)
+1. [Forbes](https://www.forbes.com/sites/brucejapsen/2017/02/14/aetna-gives-up-on-merger-will-pay-humana-1b-breakup-fee/#4b72d60b150a)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/14/515167491/aetna-and-humana-call-off-merger-after-court-decision)
-2. [Cover Image](https://media.npr.org/assets/img/2017/02/14/ap_16117589745828_wide-e4f3628abe4c4d13c312de9f4f3c70f5f5df89a0.jpg?s=1400)
+2. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39556749%2F960x0.jpg%3Ffit%3Dscale)
 
 ### Related:
 

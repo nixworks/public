@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.html)  [JSON](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.json)  [XML](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.xml)  
+
 ### [2017-02-12](/news/2017/02/12/index.md)
 
 # Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. 
@@ -5,9 +8,14 @@
 Four suspected fighters and two Indian soldiers killed in gun battle in a village in Indian-administered Kashmir.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/india-army-kills-suspected-rebels-kashmir-170212080349706.html)
+
+### Changes:
+
+1. [Kashmir conflict: Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/kashmir-conflict-four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu.md) _2017-08-27 03:47:48 (First version)_
+1. [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Four suspected fighters and two Indian soldiers killed in gun battle in a villag
 3. [Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. ](/news/2016/11/29/militants-launch-an-attack-on-an-indian-army-base-in-the-town-of-nagrota-at-least-7-soldiers-and-3-insurgents-die-in-the-attack.md) _Context: Indian Army, Kashmir conflict_
 4. [Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. ](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.md) _Context: Indian Army, Jammu and Kashmir_
 5. [ Hundreds of people take to the streets of Handwara, Jammu and Kashmir after Indian Army soldiers shot dead at least two people during a protest against an alleged case of sexual harassment by an army soldier against a young woman. ](/news/2016/04/12/hundreds-of-people-take-to-the-streets-of-handwara-jammu-and-kashmir-after-indian-army-soldiers-shot-dead-at-least-two-people-during-a-pro.md) _Context: Indian Army, Jammu and Kashmir_
-
-### Changes:
-
-1. [Kashmir conflict: Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/kashmir-conflict-four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu.md) _2017-08-27 03:47:48 (First version)_
-1. [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md) _(Current version)_

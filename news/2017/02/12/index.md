@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/02/12/index.html)  [JSON](2017/02/12/index.json)  [XML](2017/02/12/index.xml)  
+
 ## [2017-02-12](/news/2017/02/12/index.md)
 
 ### [A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. ](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs-a-vehicle-outside-aden-international-airport-wounding-at-least-three-yemeni-soldiers.md)
-An Apache helicopter from a Saudi-led military coalition wounded three Yemeni soldiers when it fired a missile at a military vehicle outside Aden International Airport on Sunday, Yemeni security officials said.
+ An Apache helicopter from a Saudi-led military coalition wounded three Yemeni soldiers when it fired a missile at a military vehicle outside Aden International
 
 ### [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md)
 Four suspected fighters and two Indian soldiers killed in gun battle in a village in Indian-administered Kashmir.
@@ -19,7 +22,7 @@ _Context: 2009 Black Saturday bushfires, Australia, Dunedoo, New South Wales, Ne
 Officials in northern California ordered residents near the Oroville Dam to evacuate the area Sunday after an emergency spillway severely eroded.
 
 ### [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md)
-_Context: North Korea, its nuclear weapons program, the sea_
+_Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
 
 ### [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md)
 The new law will make it easier for third-generation immigrants to become citizens.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/14/index.html)  [JSON](2017/02/14/index.json)  [XML](2017/02/14/index.xml)  
+
 ## [2017-02-14](/news/2017/02/14/index.md)
 
 ### [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md)
@@ -13,7 +16,7 @@ _Context: Congolese military, Kasai-Central, Kasai-Central clashes (2016-present
 Simmering tensions between Anthem Inc. and Cigna Corp. exploded Tuesday as Cigna sued to end their $48 billion deal, and Anthem moments later said it would fight to keep the merger alive.
 
 ### [Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana the $1 billion fee for calling off the agreement. ](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merger-that-had-been-blocked-last-month-by-a-u-s-federal-judge-aetna-announces-it-will-pay-human.md)
-The two healthcare giants said they were no longer pursuing the deal. A federal judge blocked the merger in January, citing its likely adverse effect on competition in the health insurance market.
+Aetna and Humana said they have terminated their merger agreement after a U.S. District Court Judge earlier this month ruled against the deal, effectively blocking the combination.
 
 ### [The United States sanctions Vice President of Venezuela Tareck El Aissami for allegedly "playing a significant role in international narcotics trafficking". The sanctions freeze his assets in the U.S. and bar him from entering the country. ](/news/2017/02/14/the-united-states-sanctions-vice-president-of-venezuela-tareck-el-aissami-for-allegedly-playing-a-significant-role-in-international-narcoti.md)
 The US says Tareck El Aissami has played &quot;a significant role in international narcotics trafficking&quot;.
@@ -28,7 +31,7 @@ State media says more than 800 people have been detained in operations carried o
 _Context: Dominican Republic, Facebook Live, San Pedro de Macoris_
 
 ### [Joseph Clancy, Director of the United States Secret Service, announces his retirement effective March 4. ](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.md)
-Clancy retires two years after returning to right the then-troubled agency
+_Context: Director of the United States Secret Service, Joseph Clancy_
 
 ### [The United Arab Emirates announces at the World Government Summit that its planned passenger drone will begin operations in July. ](/news/2017/02/14/the-united-arab-emirates-announces-at-the-world-government-summit-that-its-planned-passenger-drone-will-begin-operations-in-july.md)
 _Context: United Arab Emirates, World Government Summit, passenger drone_
