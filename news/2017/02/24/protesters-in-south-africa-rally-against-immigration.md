@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/24/protesters-in-south-africa-rally-against-immigration.html)  [JSON](/news/2017/02/24/protesters-in-south-africa-rally-against-immigration.json)  [XML](/news/2017/02/24/protesters-in-south-africa-rally-against-immigration.xml)  
+
 ### [2017-02-24](/news/2017/02/24/index.md)
 
 # Protesters in South Africa rally against immigration. 
@@ -5,7 +8,7 @@
 South&#x20;African&#x20;police&#x20;fired&#x20;rubber&#x20;bullets&#x20;and&#x20;stun&#x20;grenades&#x20;to&#x20;break&#x20;up&#x20;clashes&#x20;between&#x20;local&#x20;protesters&#x20;and&#x20;migrants&#x20;in&#x20;Pretoria&#x20;on&#x20;Friday&#x20;at&#x20;a&#x20;march&#x20;against&#x20;immigration.
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20170224-south-africa-anti-immigrant-protesters-clash-nigerian)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/southafrica-m.jpg)

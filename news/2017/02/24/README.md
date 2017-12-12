@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/24/index.html)  [JSON](2017/02/24/index.json)  [XML](2017/02/24/index.xml)  
+
 ## [2017-02-24](/news/2017/02/24/index.md)
 
 ### [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md)

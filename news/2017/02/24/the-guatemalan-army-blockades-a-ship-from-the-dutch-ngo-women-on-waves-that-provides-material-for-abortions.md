@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.html)  [JSON](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.json)  [XML](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.xml)  
+
 ### [2017-02-24](/news/2017/02/24/index.md)
 
 # The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39073367)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/17FE/production/_94824160_mediaitem94824159.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/23/a-philippine-court-orders-the-arrest-of-duterte-critic-and-liberal-senator-leila-de-lima-she-later-voluntarily-turned-herself-in-the-next-d.html)  [JSON](/news/2017/02/23/a-philippine-court-orders-the-arrest-of-duterte-critic-and-liberal-senator-leila-de-lima-she-later-voluntarily-turned-herself-in-the-next-d.json)  [XML](/news/2017/02/23/a-philippine-court-orders-the-arrest-of-duterte-critic-and-liberal-senator-leila-de-lima-she-later-voluntarily-turned-herself-in-the-next-d.xml)  
+
 ### [2017-02-23](/news/2017/02/23/index.md)
 
 # A Philippine court orders the arrest of Duterte critic and Liberal senator Leila de Lima. She later voluntarily turned herself in the next day 
@@ -5,7 +8,7 @@
 De Lima, a vocal critic of President Duterte, is facing drug trafficking charges during her term as a justice secretary.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/philippine-court-orders-arrest-senator-leila-de-lima-170223140039218.html)
 2. [PDI](http://newsinfo.inquirer.net/874861/after-awaiting-arrest-at-senate-de-lima-turns-self-in)

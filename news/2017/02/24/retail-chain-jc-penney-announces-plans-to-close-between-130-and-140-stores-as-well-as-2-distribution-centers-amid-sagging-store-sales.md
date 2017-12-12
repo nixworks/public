@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/24/retail-chain-jc-penney-announces-plans-to-close-between-130-and-140-stores-as-well-as-2-distribution-centers-amid-sagging-store-sales.html)  [JSON](/news/2017/02/24/retail-chain-jc-penney-announces-plans-to-close-between-130-and-140-stores-as-well-as-2-distribution-centers-amid-sagging-store-sales.json)  [XML](/news/2017/02/24/retail-chain-jc-penney-announces-plans-to-close-between-130-and-140-stores-as-well-as-2-distribution-centers-amid-sagging-store-sales.xml)  
+
 ### [2017-02-24](/news/2017/02/24/index.md)
 
 # Retail chain JC Penney announces plans to close between 130 and 140 stores, as well as 2 distribution centers, amid sagging store sales. 
@@ -5,9 +8,9 @@
 In January, J.C. Penney CEO Marvin Ellison said the department store chain was getting ready to downsize its fleet.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2017/02/24/jc-penney-earnings-q4-2016.html)
+1. [CNBC](https://www.cnbc.com/2017/02/24/jc-penney-earnings-q4-2016.html)
 
 ### Related:
 

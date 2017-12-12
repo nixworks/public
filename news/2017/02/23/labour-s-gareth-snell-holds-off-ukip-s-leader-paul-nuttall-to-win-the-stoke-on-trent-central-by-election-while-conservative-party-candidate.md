@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/23/labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while-conservative-party-candidate.html)  [JSON](/news/2017/02/23/labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while-conservative-party-candidate.json)  [XML](/news/2017/02/23/labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while-conservative-party-candidate.xml)  
+
 ### [2017-02-23](/news/2017/02/23/index.md)
 
 # Labour's Gareth Snell holds off UKIP's leader Paul Nuttall to win the Stoke-on-Trent Central by-election, while Conservative Party candidate Trudy Harrison wins the Copeland by-election, the first gain for a governing party since 1982. 
@@ -5,10 +8,15 @@
 The Conservatives take Cumbrian seat from Labour but the opposition holds off UKIP in Stoke Central.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-39064149)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/2488/production/_94825390_trudyharrisonwins_reuters.jpg)
+
+### Changes:
+
+1. [United Kingdom by-elections: Labour's Gareth Snell holds off UKIP's leader Paul Nuttall to win the Stoke-on-Trent Central by-election, while Conservative Party candidate Trudy Harrison wins the Copeland by-election, the first gain for a governing party since 1982. ](/news/2017/02/23/united-kingdom-by-elections-labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while.md) _2017-08-27 03:47:53 (First version)_
+1. [Labour's Gareth Snell holds off UKIP's leader Paul Nuttall to win the Stoke-on-Trent Central by-election, while Conservative Party candidate Trudy Harrison wins the Copeland by-election, the first gain for a governing party since 1982. ](/news/2017/02/23/labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while-conservative-party-candidate.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The Conservatives take Cumbrian seat from Labour but the opposition holds off UK
 3. [ A by-election for the Hartlepool constituency of the UK parliament, to fill the seat of Peter Mandelson, who resigned to take up a role in the European Union, results in a win for Labour (12,752), with the Liberal Democrats second (10,719). The Conservative Party (3,044) is pushed into fourth place by the UK Independence Party (3,193). ](/news/2004/09/30/a-by-election-for-the-hartlepool-constituency-of-the-uk-parliament-to-fill-the-seat-of-peter-mandelson-who-resigned-to-take-up-a-role-in.md) _Context: Conservative Party, Labour, UK Independence Party_
 4. [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md) _Context: Conservative Party, Labour_
 5. [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md) _Context: Conservative Party, Labour_
-
-### Changes:
-
-1. [United Kingdom by-elections: Labour's Gareth Snell holds off UKIP's leader Paul Nuttall to win the Stoke-on-Trent Central by-election, while Conservative Party candidate Trudy Harrison wins the Copeland by-election, the first gain for a governing party since 1982. ](/news/2017/02/23/united-kingdom-by-elections-labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while.md) _2017-08-27 03:47:53 (First version)_
-1. [Labour's Gareth Snell holds off UKIP's leader Paul Nuttall to win the Stoke-on-Trent Central by-election, while Conservative Party candidate Trudy Harrison wins the Copeland by-election, the first gain for a governing party since 1982. ](/news/2017/02/23/labour-s-gareth-snell-holds-off-ukip-s-leader-paul-nuttall-to-win-the-stoke-on-trent-central-by-election-while-conservative-party-candidate.md) _(Current version)_

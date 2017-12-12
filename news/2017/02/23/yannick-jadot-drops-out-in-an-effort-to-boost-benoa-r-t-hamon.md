@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.html)  [JSON](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.json)  [XML](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.xml)  
+
 ### [2017-02-23](/news/2017/02/23/index.md)
 
 # Yannick Jadot drops out in an effort to boost Benoit Hamon. 
@@ -5,10 +8,15 @@
 French Green party candidate Yannick Jadot has said he will support Socialist presidential candidate Benoit Hamon. Shifting alliances ahead of April-May elections have cast uncertainty over the vote. 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/french-green-candidate-jadot-drops-from-presidential-race/a-37696085)
 1. [Cover Image](http://www.dw.com/image/37239827_304.jpg)
+
+### Changes:
+
+1. [French presidential election, 2017: Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/french-presidential-election-2017-yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _2017-08-27 03:47:53 (First version)_
+1. [Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ French Green party candidate Yannick Jadot has said he will support Socialist pr
 3. [Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-legislative-election-to-begin-choosi.md) _Context: last month's presidential election_
 4. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: last month's presidential election_
 5. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: last month's presidential election_
-
-### Changes:
-
-1. [French presidential election, 2017: Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/french-presidential-election-2017-yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _2017-08-27 03:47:53 (First version)_
-1. [Yannick Jadot drops out in an effort to boost Benoit Hamon. ](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-benoa-r-t-hamon.md) _(Current version)_

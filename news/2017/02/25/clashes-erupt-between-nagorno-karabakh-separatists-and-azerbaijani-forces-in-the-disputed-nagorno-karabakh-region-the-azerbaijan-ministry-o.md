@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.html)  [JSON](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.json)  [XML](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.xml)  
+
 ### [2017-02-25](/news/2017/02/25/index.md)
 
 # Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/armenians-azerbaijanis-trade-accusations-over-karabakh-fighting/28331782.html)
+
+### Changes:
+
+1. [Nagorno-Karabakh conflict: Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/nagorno-karabakh-conflict-clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region.md) _2017-08-27 03:47:53 (First version)_
+1. [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md) _Context: Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 4. [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md) _Context: Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict_
 5. [Five more Azeri troops are killed in overnight fighting with ethnic Armenians in Nagorno-Karabakh. The casualties bring the death toll to at least 13 in a flare-up of violence over the last few days around Nagorno-Karabakh. Russia has said that any further escalation is unacceptable. ](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.md) _Context: Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
-
-### Changes:
-
-1. [Nagorno-Karabakh conflict: Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/nagorno-karabakh-conflict-clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region.md) _2017-08-27 03:47:53 (First version)_
-1. [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md) _(Current version)_

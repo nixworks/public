@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/25/voting-takes-place-in-atlanta-georgia-to-elect-a-new-chair-of-the-democratic-national-committee-candidates-include-sally-boynton-brown-k.html)  [JSON](/news/2017/02/25/voting-takes-place-in-atlanta-georgia-to-elect-a-new-chair-of-the-democratic-national-committee-candidates-include-sally-boynton-brown-k.json)  [XML](/news/2017/02/25/voting-takes-place-in-atlanta-georgia-to-elect-a-new-chair-of-the-democratic-national-committee-candidates-include-sally-boynton-brown-k.xml)  
+
 ### [2017-02-25](/news/2017/02/25/index.md)
 
 # Voting takes place in Atlanta, Georgia, to elect a new Chair of the Democratic National Committee. Candidates include Sally Boynton Brown, Keith Ellison, Jehmu Greene and former United States Secretary of Labor Tom Perez. 
@@ -5,7 +8,7 @@
 Perez was elected Saturday as the new DNC chair, tasked with rebuilding the factionalized party after the November election.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/02/25/politics/dnc-chair-election/)
 2. [NBC News](http://www.nbcnews.com/politics/elections/dnc-race-tom-perez-becomes-dnc-chair-narrow-election-victory-n725596)

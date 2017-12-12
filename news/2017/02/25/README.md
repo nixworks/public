@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/02/25/index.html)  [JSON](2017/02/25/index.json)  [XML](2017/02/25/index.xml)  
+
 ## [2017-02-25](/news/2017/02/25/index.md)
 
 ### [The Syrian Observatory for Human Rights reports that militants attacked two Syrian Armed Forces bases in Homs, killing at least 42 people, including a senior intelligence officer. ](/news/2017/02/25/the-syrian-observatory-for-human-rights-reports-that-militants-attacked-two-syrian-armed-forces-bases-in-homs-killing-at-least-42-people-i.md)
 City centre in Homs in lockdown after twin suicide attacks leave scores dead.
 
 ### [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md)
-_Context: Afghan police, Jowzjan Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Jowzjan Province, Taliban, War in Afghanistan (2015-present), police_
 
 ### [Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-reporting-on-the-battle-for-mosul.md)
 Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as she covers clashes.
@@ -13,7 +16,7 @@ Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as
 _Context: Azerbaijan, Azerbaijan Ministry of Defense, Nagorno-Karabakh, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 
 ### [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md)
-French President Francois Hollande fired back at Donald Trump on Saturday after the U.S. president remarked in a speech that a friend thought &quot;Paris is no longer Paris&quot; after attacks by Islamist militants.
+_Context: Conservative Political Action Conference, Donald Trump, France-United States relations, Francois Hollande, President of France_
 
 ### [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police do not believe terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md)
 One man has died from his injuries and two others were injured after being struck by a car in Heidelberg. The knife-wielding driver was intercepted by a police patrol and shot by an officer following a brief standoff.
