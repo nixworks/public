@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/1/the-church-of-norway-officially-ceases-to-be-the-state-church-of-norway-after-almost-500-years.html)  [JSON](/news/2017/01/1/the-church-of-norway-officially-ceases-to-be-the-state-church-of-norway-after-almost-500-years.json)  [XML](/news/2017/01/1/the-church-of-norway-officially-ceases-to-be-the-state-church-of-norway-after-almost-500-years.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # The Church of Norway officially ceases to be the state church of Norway after almost 500 years. 
@@ -5,7 +8,7 @@
 The Church of Norway and the Norwegian government are set to go their separate ways at the beginning of 2017 after almost 500 years of being together.
 
 
-### Source:
+### Sources:
 
 1. [The Christian Daily](http://christiandaily.com/article/norways-church-and-state-to-divorce-after-almost-500-years/59710.htm)
 1. [Cover Image](http://img.christiandaily.com/full/5556/church-in-norway.jpg)

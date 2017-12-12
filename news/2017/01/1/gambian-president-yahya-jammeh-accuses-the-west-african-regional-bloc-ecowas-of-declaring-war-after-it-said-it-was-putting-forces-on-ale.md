@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.html)  [JSON](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.json)  [XML](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. 
 
-Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step down at the end of his mandate this month.
+ Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-gambia-politics-idUSKBN14L15P)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170101&t=2&i=1167280292&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED000M1)
+1. [Reuters](https://www.reuters.com/article/us-gambia-politics-idUSKBN14L15P)
+1. [Cover Image](/resources/r/?m=02&d=20170101&t=2&i=1167280292&w=400&r=LYNXMPED000M1)
 
 ### Related:
 

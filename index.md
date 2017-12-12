@@ -15,6 +15,9 @@ _Context: Alabama, Jeff Sessions, United States Attorney General, United States 
 ### [An influential member of the Opposition in Syria urges Vladimir Putin to put pressure on Bashar al-Assad in order to rescue the Geneva peace talks. ](/news/2017/12/12/an-influential-member-of-the-opposition-in-syria-urges-vladimir-putin-to-put-pressure-on-bashar-al-assad-in-order-to-rescue-the-geneva-peace.md)
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
 
+### [Reacting on a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the scientific reviewing process. ](/news/2017/12/12/reacting-on-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
+_Context: EU citizen, European Commission, Regulation of chemicals, glyphosate, petition_
+
 ---
 
 ## [Yesterday](/news/2017/12/11/index.md)

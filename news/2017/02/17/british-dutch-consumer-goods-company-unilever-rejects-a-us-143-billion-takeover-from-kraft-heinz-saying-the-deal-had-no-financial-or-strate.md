@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.html)  [JSON](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.json)  [XML](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.xml)  
+
 ### [2017-02-17](/news/2017/02/17/index.md)
 
 # British-Dutch consumer goods company Unilever rejects a US$143 billion takeover from Kraft Heinz, saying the deal had no financial or strategic merit. Nevertheless, Kraft is still interested in finding agreement; it has until March 17 to make a final bid under UK takeover rules. 
 
-U.S. food company Kraft Heinz Co made a surprise $143 billion offer for Unilever Plc in a bid to build a global consumer goods giant, although it was flatly rejected on Friday by the maker of Lipton tea and Dove soap.
+ U.S. food company Kraft Heinz Co made a surprise $143 billion offer for Unilever Plc in a bid to build a global consumer goods giant, although it was flatly re
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-unilever-m-a-kraft-idUSKBN15W18Y)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170217&t=2&i=1173133622&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1G11Y)
+1. [Reuters](https://www.reuters.com/article/us-unilever-m-a-kraft-idUSKBN15W18Y)
+1. [Cover Image](/resources/r/?m=02&d=20170217&t=2&i=1173133622&w=400&r=LYNXMPED1G11Y)
 
 ### Related:
 

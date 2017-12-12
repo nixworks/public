@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migrants-on-the-moroccan-spanish-border-along-ceuta-as-they-attempt-to-climb-and-rush-the-borde.html)  [JSON](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migrants-on-the-moroccan-spanish-border-along-ceuta-as-they-attempt-to-climb-and-rush-the-borde.json)  [XML](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migrants-on-the-moroccan-spanish-border-along-ceuta-as-they-attempt-to-climb-and-rush-the-borde.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # Spanish and Moroccan authorities clash with migrants on the Moroccan-Spanish border along Ceuta, as they attempt to climb and rush the border fence. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Express UK](http://www.express.co.uk/news/world/741773/video-migrants-storm-spanish-enclave-over-border-fence-ceuta)
 1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/750x445/741773.jpg)

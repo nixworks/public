@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/18/omar-abdel-rahman-convicted-in-the-1993-world-trade-center-bombing-dies-in-his-federal-prison-cell-in-butner-north-carolina.html)  [JSON](/news/2017/02/18/omar-abdel-rahman-convicted-in-the-1993-world-trade-center-bombing-dies-in-his-federal-prison-cell-in-butner-north-carolina.json)  [XML](/news/2017/02/18/omar-abdel-rahman-convicted-in-the-1993-world-trade-center-bombing-dies-in-his-federal-prison-cell-in-butner-north-carolina.xml)  
+
 ### [2017-02-18](/news/2017/02/18/index.md)
 
 # Omar Abdel-Rahman, convicted in the 1993 World Trade Center bombing, dies in his federal prison cell in Butner, North Carolina. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/02/18/us/omar-abdel-rahman-world-trade-center-bombing-plotter-dead/index.html)
 

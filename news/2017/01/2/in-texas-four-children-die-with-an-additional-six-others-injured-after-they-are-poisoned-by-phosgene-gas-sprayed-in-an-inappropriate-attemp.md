@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.html)  [JSON](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.json)  [XML](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.xml)  
+
 ### [2017-01-2](/news/2017/01/2/index.md)
 
 # In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. 
@@ -5,7 +8,7 @@
 A poisonous gas believed to have been released when someone tried to wash away a pesticide that had been sprayed under a Texas home killed four children and left six other people hospitalized, officials said Monday.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2017/01/03/4-children-die-in-texas-pesticide-gas-poisoning-others-injured.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

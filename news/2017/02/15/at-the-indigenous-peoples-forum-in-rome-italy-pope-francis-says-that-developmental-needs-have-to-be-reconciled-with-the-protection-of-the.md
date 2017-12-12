@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.html)  [JSON](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.json)  [XML](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.xml)  
+
 ### [2017-02-15](/news/2017/02/15/index.md)
 
 # At the Indigenous Peoples Forum in Rome, Italy, Pope Francis says that developmental needs have to be reconciled with the protection of the particular characteristics of indigenous peoples and their territories. This is taken by some as a reference to the Standing Rock Sioux and other groups opposing the Dakota Access Pipeline. 
 
-Pope Francis appeared on Wednesday to back Native Americans seeking to halt part of the Dakota Access Pipeline, saying indigenous cultures have a right to defend &quot;their ancestral relationship to the earth&quot;.
+ Pope Francis appeared on Wednesday to back Native Americans seeking to halt part of the Dakota Access Pipeline, saying indigenous cultures have a right to defe
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-pope-idUSKBN15U1VA)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170215&t=2&i=1172813637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1E117)
+1. [Reuters](https://www.reuters.com/article/us-north-dakota-pipeline-pope-idUSKBN15U1VA)
+1. [Cover Image](/resources/r/?m=02&d=20170215&t=2&i=1172813637&w=400&r=LYNXMPED1E117)
 
 ### Related:
 

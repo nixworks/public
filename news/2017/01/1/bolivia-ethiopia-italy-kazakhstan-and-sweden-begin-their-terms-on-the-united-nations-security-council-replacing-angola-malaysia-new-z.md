@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.html)  [JSON](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.json)  [XML](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Inter Press Service News](http://www.ipsnews.net/2016/06/ethiopia-kazakhstan-sweden-among-new-members-of-un-security-council/)
 

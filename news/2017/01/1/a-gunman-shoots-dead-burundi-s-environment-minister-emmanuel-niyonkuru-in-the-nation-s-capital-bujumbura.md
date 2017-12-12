@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.html)  [JSON](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.json)  [XML](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # A gunman shoots dead Burundi's environment minister Emmanuel Niyonkuru in the nation's capital, Bujumbura. 
@@ -5,7 +8,7 @@
 Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;in&#x20;the&#x20;capital&#x20;Bujumbura&#x20;early&#x20;Sunday,&#x20;police&#x20;said,&#x20;the&#x20;first&#x20;assassination&#x20;of&#x20;its&#x20;kind&#x20;since&#x20;the&#x20;country&#x20;was&#x20;plunged&#x20;into&#x20;political&#x20;turmoil&#x20;in&#x20;2015.
 
 
-### Source:
+### Sources:
 
 1. [FRANCE 24](http://www.france24.com/en/20170101-burundi-minister-assassinated-police)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/burundi-minister-shot-dead.jpg)

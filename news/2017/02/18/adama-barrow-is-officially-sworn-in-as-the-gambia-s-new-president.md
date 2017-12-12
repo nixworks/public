@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.html)  [JSON](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.json)  [XML](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.xml)  
+
 ### [2017-02-18](/news/2017/02/18/index.md)
 
 # Adama Barrow is officially sworn in as the Gambia's new President. 
@@ -5,7 +8,7 @@
 Thousands witness Adama Barrow becoming the third Gambian president in history.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39011393)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/5EEE/production/_94720342_8060659f-7401-4527-b98b-f0e8ad7f8267.jpg)

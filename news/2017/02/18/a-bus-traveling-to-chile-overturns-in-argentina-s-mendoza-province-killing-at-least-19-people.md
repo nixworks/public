@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.html)  [JSON](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.json)  [XML](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.xml)  
+
 ### [2017-02-18](/news/2017/02/18/index.md)
 
 # A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-argentina-crash-idUSKBN15X0EY?il=0)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170218&t=2&i=1173211155&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1H0OC)
+1. [Reuters](https://www.reuters.com/article/us-argentina-crash-idUSKBN15X0EY?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170218&t=2&i=1173211155&w=400&r=LYNXMPED1H0OC)
 
 ### Related:
 

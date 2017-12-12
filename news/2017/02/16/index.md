@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/16/index.html)  [JSON](2017/02/16/index.json)  [XML](2017/02/16/index.xml)  
+
 ## [2017-02-16](/news/2017/02/16/index.md)
 
 ### [At least 70 people are killed and more than 150 injured in suicide bombing at Lal Shahbaz Qalandar Shrine in Sehwan, Sindh, Pakistan; 50 of the injured are in critical condition, medical emergency has been declared in the hospitals of Hyderabad, Dadu and Jamshoro. ](/news/2017/02/16/at-least-70-people-are-killed-and-more-than-150-injured-in-suicide-bombing-at-lal-shahbaz-qalandar-shrine-in-sehwan-sindh-pakistan-50-of.md)
@@ -31,7 +34,7 @@ _Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International Uni
 _Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, United States Senate_
 
 ### [Hundreds of restaurants and other businesses in U.S. cities close their doors after activists called on immigrants to stay home from work, avoid shopping or eating out, and skip classes Thursday for #ADayWithoutImmigrants, to protest the President's immigration reforms and highlight the immigrant community's contributions to the United States. ](/news/2017/02/16/hundreds-of-restaurants-and-other-businesses-in-u-s-cities-close-their-doors-after-activists-called-on-immigrants-to-stay-home-from-work-a.md)
-On Thursday, small businesses around the country—many of them restaurants—are closing as their foreign-born employees walk out.
+ Businesses shut their doors, students skipped class and thousands of demonstrators took to the streets in cities across the United States on Thursday to protes
 
 ## [Previous Day...](/news/2017/02/15/index.md)
 

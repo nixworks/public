@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/1/quirino-ordaz-coppel-is-sworn-in-as-governor-of-the-mexican-state-of-sinaloa.html)  [JSON](/news/2017/01/1/quirino-ordaz-coppel-is-sworn-in-as-governor-of-the-mexican-state-of-sinaloa.json)  [XML](/news/2017/01/1/quirino-ordaz-coppel-is-sworn-in-as-governor-of-the-mexican-state-of-sinaloa.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # Quirino Ordaz Coppel is sworn in as Governor of the Mexican state of Sinaloa. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Periódico Zócalo](http://www.zocalo.com.mx/seccion/articulo/quirino-ordaz-coppel-asume-gobierno-de-sinaloa)
 1. [Cover Image](http://www.zocalo.com.mx/images/uploads/articles/dfbfg.jpg)

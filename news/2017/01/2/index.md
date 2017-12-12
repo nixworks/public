@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/01/2/index.html)  [JSON](2017/01/2/index.json)  [XML](2017/01/2/index.xml)  
+
 ## [2017-01-2](/news/2017/01/2/index.md)
 
 ### [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md)
-_Context: 2017 Istanbul nightclub attack, ISIL, Syria, Turkey_
+_Context: 2017 Istanbul nightclub attack, Islamic State in Iraq and the Levant, Syria, Turkey_
 
 ### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
 _Context: Baghdad, Iraq, January 2017 Baghdad bombings_
@@ -10,7 +13,7 @@ _Context: Baghdad, Iraq, January 2017 Baghdad bombings_
 A poisonous gas believed to have been released when someone tried to wash away a pesticide that had been sprayed under a Texas home killed four children and left six other people hospitalized, officials said Monday.
 
 ### [A wildfire destroys at least 100 homes in Valparaso, Chile, causing the evacuation of about 400 people. The Chilean Ministry of the Interior and Public Security reports that at least 19 people suffered from minor injuries. ](/news/2017/01/2/a-wildfire-destroys-at-least-100-homes-in-valparaiso-chile-causing-the-evacuation-of-about-400-people-the-chilean-ministry-of-the-interio.md)
-A large fire broke out in the coastal Chilean city of Valparaiso on Monday evening, burning at least 100 homes, prompting the evacuation of about 400 people and sending plumes of smoke high into the air.
+ A large fire broke out in the coastal Chilean city of Valparaiso on Monday evening, burning at least 100 homes, prompting the evacuation of about 400 people an
 
 ### [A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. ](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.md)
 _Context: Alabama, Southern United States_
@@ -22,7 +25,7 @@ Two toddlers among the victims of crash involving a minivan and a pick-up truck 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [Prisoners kill at least 56 people in a prison riot in Manaus, Brazil. ](/news/2017/01/2/prisoners-kill-at-least-56-people-in-a-prison-riot-in-manaus-brazil.md)
-_Context: 2017 Manaus prison riot, Brazil, Manaus, prison riot_
+ Drug gangs sparked a prison riot that killed 56 people, with decapitated bodies thrown over prison walls in the bloodiest violence in more than two decades in 
 
 ### [ In New Haven Connecticut, two men are suspected of approaching a man claiming to have a gun, took his cellphone and wallet. Then they stole his SUV and apparently lost control as they were killed when their stolen SUV accidentally crashed into and seriously damaged a synagogue ](/news/2017/01/2/in-new-haven-connecticut-two-men-are-suspected-of-approaching-a-man-claiming-to-have-a-gun-took-his-cellphone-and-wallet-then-they-stole.md)
 NEW HAVEN — Two men suspected of a carjacking in New Haven were killed when the stolen car crashed into a synagogue following a police chase. Ne

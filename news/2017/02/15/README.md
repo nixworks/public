@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/15/index.html)  [JSON](2017/02/15/index.json)  [XML](2017/02/15/index.xml)  
+
 ## [2017-02-15](/news/2017/02/15/index.md)
 
 ### [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md)
@@ -10,7 +13,7 @@ _Context: Baghdad, Iraqi Civil War (2014-present)_
 The Eurovision Song Contest hits a major road bump, as 21 top level staff resign.
 
 ### [At the Indigenous Peoples Forum in Rome, Italy, Pope Francis says that developmental needs have to be reconciled with the protection of the particular characteristics of indigenous peoples and their territories. This is taken by some as a reference to the Standing Rock Sioux and other groups opposing the Dakota Access Pipeline. ](/news/2017/02/15/at-the-indigenous-peoples-forum-in-rome-italy-pope-francis-says-that-developmental-needs-have-to-be-reconciled-with-the-protection-of-the.md)
-Pope Francis appeared on Wednesday to back Native Americans seeking to halt part of the Dakota Access Pipeline, saying indigenous cultures have a right to defend &quot;their ancestral relationship to the earth&quot;.
+ Pope Francis appeared on Wednesday to back Native Americans seeking to halt part of the Dakota Access Pipeline, saying indigenous cultures have a right to defe
 
 ### [At least eight homes are destroyed as a wildfire rages out of control in the Port Hills, in the southern outskirts of Christchurch, New Zealand. A pilot died when his helicopter crashed while fighting the fire. ](/news/2017/02/15/at-least-eight-homes-are-destroyed-as-a-wildfire-rages-out-of-control-in-the-port-hills-in-the-southern-outskirts-of-christchurch-new-zeal.md)
 Paul Askin has spent many years fearing terrible news about his son Steve. - New Zealand Herald

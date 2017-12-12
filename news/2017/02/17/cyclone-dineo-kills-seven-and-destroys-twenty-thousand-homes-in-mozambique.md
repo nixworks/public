@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.html)  [JSON](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.json)  [XML](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.xml)  
+
 ### [2017-02-17](/news/2017/02/17/index.md)
 
 # Cyclone Dineo kills seven and destroys twenty-thousand homes in Mozambique. 
@@ -5,7 +8,7 @@
 About 130,000 people have been affected by the storm.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/mozambique-storm-dineo-557810)
 1. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/02/17/mozambique-flooded-homes.jpg)

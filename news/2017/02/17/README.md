@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/02/17/index.html)  [JSON](2017/02/17/index.json)  [XML](2017/02/17/index.xml)  
+
 ## [2017-02-17](/news/2017/02/17/index.md)
 
 ### [Up to seven suicide bombers blow themselves up after failing in an attempt to attack a camp for displaced people near Maiduguri, Nigeria. ](/news/2017/02/17/up-to-seven-suicide-bombers-blow-themselves-up-after-failing-in-an-attempt-to-attack-a-camp-for-displaced-people-near-maiduguri-nigeria.md)
@@ -10,7 +13,7 @@ _Context: Pakistan army, Shrine of Lal Shahbaz Qalandar, War in North-West Pakis
 Alex Hern analyses the Facebook founder’s 5,700-word mission statement on the goals of Facebook and highlights what he really meant and what he left out
 
 ### [British-Dutch consumer goods company Unilever rejects a US$143 billion takeover from Kraft Heinz, saying the deal had no financial or strategic merit. Nevertheless, Kraft is still interested in finding agreement; it has until March 17 to make a final bid under UK takeover rules. ](/news/2017/02/17/british-dutch-consumer-goods-company-unilever-rejects-a-us-143-billion-takeover-from-kraft-heinz-saying-the-deal-had-no-financial-or-strate.md)
-U.S. food company Kraft Heinz Co made a surprise $143 billion offer for Unilever Plc in a bid to build a global consumer goods giant, although it was flatly rejected on Friday by the maker of Lipton tea and Dove soap.
+ U.S. food company Kraft Heinz Co made a surprise $143 billion offer for Unilever Plc in a bid to build a global consumer goods giant, although it was flatly re
 
 ### [Cyclone Dineo kills seven and destroys twenty-thousand homes in Mozambique. ](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.md)
 About 130,000 people have been affected by the storm.
@@ -28,7 +31,7 @@ _Context: Africa, European migrant crisis, Morocco, Spain_
 _Context: Cristina, Spain, fraud_
 
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
-_Context: Leila de Lima, Philippine Drug War, Philippines, Vitaliano Aguirre II_
+_Context: Leila de Lima, Philippines, Vitaliano Aguirre II, drug crackdown_
 
 ### [With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/with-a-52a46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-administrator-of-the-environmental-protection.md)
 Scott Pruitt has attracted scorn from Democrats and environmentalists and praise from conservatives and the energy industry.

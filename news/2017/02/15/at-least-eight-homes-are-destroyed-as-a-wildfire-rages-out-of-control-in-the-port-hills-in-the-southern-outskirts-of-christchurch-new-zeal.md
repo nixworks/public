@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/15/at-least-eight-homes-are-destroyed-as-a-wildfire-rages-out-of-control-in-the-port-hills-in-the-southern-outskirts-of-christchurch-new-zeal.html)  [JSON](/news/2017/02/15/at-least-eight-homes-are-destroyed-as-a-wildfire-rages-out-of-control-in-the-port-hills-in-the-southern-outskirts-of-christchurch-new-zeal.json)  [XML](/news/2017/02/15/at-least-eight-homes-are-destroyed-as-a-wildfire-rages-out-of-control-in-the-port-hills-in-the-southern-outskirts-of-christchurch-new-zeal.xml)  
+
 ### [2017-02-15](/news/2017/02/15/index.md)
 
 # At least eight homes are destroyed as a wildfire rages out of control in the Port Hills, in the southern outskirts of Christchurch, New Zealand. A pilot died when his helicopter crashed while fighting the fire. 
@@ -5,7 +8,7 @@
 Paul Askin has spent many years fearing terrible news about his son Steve. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [Stuff](http://www.stuff.co.nz/the-press/news/89420865/Homes-destroyed-hundreds-evacuated-as-Christchurch-Port-Hills-fire-rage-out-of-control)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11801538)

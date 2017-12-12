@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.html)  [JSON](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.json)  [XML](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.xml)  
+
 ### [2017-01-2](/news/2017/01/2/index.md)
 
 # A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_DEEP_SOUTH_SEVERE_WEATHER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

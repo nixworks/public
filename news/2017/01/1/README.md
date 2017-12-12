@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/01/1/index.html)  [JSON](2017/01/1/index.json)  [XML](2017/01/1/index.xml)  
+
 ## [2017-01-1](/news/2017/01/1/index.md)
 
 ### [A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md)
 A gunman is on the run after at least 39 people were killed in an attack on an Istanbul nightclub.
 
 ### [A suicide car bomb explosion and gunmen attack in Iraqi al-Qadisiya town situated in west of Najaf, kills at least 7 people and injures more than 17 others. Yesterday, 29 people were killed in a bomb explosion at a busy market in Iraq's capital Baghdad. ISIS claims responsibility. ](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-in-iraqi-al-qadisiya-town-situated-in-west-of-najaf-kills-at-least-7-people-and-injures-more.md)
-TEHRAN (Tasnim) – A car bomb exploded in a district of Iraq’s holy city of Najaf on Sunday, leaving at least six people dead and 22 others wounded.
+ Islamic State attacked an Iraqi police checkpoint near the southern city of Najaf on Sunday, killing seven policemen as government forces in the north made mor
 
 ### [A gunman shoots dead Burundi's environment minister Emmanuel Niyonkuru in the nation's capital, Bujumbura. ](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.md)
 Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;in&#x20;the&#x20;capital&#x20;Bujumbura&#x20;early&#x20;Sunday,&#x20;police&#x20;said,&#x20;the&#x20;first&#x20;assassination&#x20;of&#x20;its&#x20;kind&#x20;since&#x20;the&#x20;country&#x20;was&#x20;plunged&#x20;into&#x...
@@ -13,7 +16,7 @@ Burundi&#x27;s&#x20;environment&#x20;minister&#x20;was&#x20;shot&#x20;dead&#x20;
 Twenty-three people have been killed and 17 injured in a ferry accident off the coast of Jakarta.
 
 ### [Kim Jong Un, the leader of North Korea, claims that the country is close to developing an intercontinental ballistic missile. ](/news/2017/01/1/kim-jong-un-the-leader-of-north-korea-claims-that-the-country-is-close-to-developing-an-intercontinental-ballistic-missile.md)
-North Korean leader Kim Jong Un said on Sunday that the isolated, nuclear-capable country was close to test-launching an intercontinental ballistic missile (ICBM).
+ North Korean leader Kim Jong Un said on Sunday that the isolated, nuclear-capable country was close to test-launching an intercontinental ballistic missile (IC
 
 ### [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md)
 Security Council passes resolution supporting truce and planned peace talks despite signs of shakiness on the ground.
@@ -25,7 +28,7 @@ UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nati
 _Context: Angola, Bolivia, Ethiopia, Italy, Kazakhstan, Malaysia, New Zealand, Spain, Swedish, United Nations Security Council election, 2016, Venezuela_
 
 ### [Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. ](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.md)
-Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step down at the end of his mandate this month.
+ Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step
 
 ### [A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murderasuicide-at-a-new-year-s-eve-party-in-the.md)
 _Context: Campinas, Campinas massacre, New Year's Eve, murder-suicide, southeast Brazilian_

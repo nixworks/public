@@ -1,20 +1,23 @@
+
+Formats: [HTML](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-in-iraqi-al-qadisiya-town-situated-in-west-of-najaf-kills-at-least-7-people-and-injures-more.html)  [JSON](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-in-iraqi-al-qadisiya-town-situated-in-west-of-najaf-kills-at-least-7-people-and-injures-more.json)  [XML](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-in-iraqi-al-qadisiya-town-situated-in-west-of-najaf-kills-at-least-7-people-and-injures-more.xml)  
+
 ### [2017-01-1](/news/2017/01/1/index.md)
 
 # A suicide car bomb explosion and gunmen attack in Iraqi al-Qadisiya town situated in west of Najaf, kills at least 7 people and injures more than 17 others. Yesterday, 29 people were killed in a bomb explosion at a busy market in Iraq's capital Baghdad. ISIS claims responsibility. 
 
-TEHRAN (Tasnim) – A car bomb exploded in a district of Iraq’s holy city of Najaf on Sunday, leaving at least six people dead and 22 others wounded.
+ Islamic State attacked an Iraqi police checkpoint near the southern city of Najaf on Sunday, killing seven policemen as government forces in the north made mor
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-attack-idUSKBN14L0X3?il=0)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-attack-idUSKBN14L0X3?il=0)
 2. [Tasnim News Agency](https://www.tasnimnews.com/en/news/2017/01/01/1284497/multiple-casualties-as-bombing-rocks-neighborhood-in-iraqi-holy-city)
-2. [Cover Image](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/10/12/13951012110253799595033.jpg)
+2. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _Context: ISIS_
-2. [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md) _Context: ISIS_
-3. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _Context: ISIS_
-4. [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: ISIS_
-5. [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md) _Context: ISIS_
+1. [Russian airstrikes hit residential buildings in the ISIS-held village of Al-Shafah in Deir Ezzor province, killing at least 53 civilians, including 21 children. ](/news/2017/11/26/russian-airstrikes-hit-residential-buildings-in-the-isis-held-village-of-al-shafah-in-deir-ezzor-province-killing-at-least-53-civilians-in.md) _Context: ISIS_
+2. [According to the Syrian Observatory for Human Rights, the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces. Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ](/news/2017/11/2/according-to-the-syrian-observatory-for-human-rights-the-city-of-deir-ez-zor-has-largely-been-cleared-of-isis-fighters-by-the-syrian-armed.md) _Context: ISIS_
+3. [Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md) _Context: ISIS_
+4. [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md) _Context: ISIS_
+5. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _Context: ISIS_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.html)  [JSON](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.json)  [XML](/news/2017/02/17/authorities-in-the-state-of-pennsylvania-discover-the-seoul-virus-a-member-of-the-hantavirus-family-in-a-contained-scientific-breeding-fac.xml)  
+
 ### [2017-02-17](/news/2017/02/17/index.md)
 
 # Authorities in the state of Pennsylvania discover the Seoul virus, a member of the Hantavirus family, in a contained scientific breeding-facility for rats. 
@@ -5,7 +8,7 @@
 The remaining rats in the Pennsylvania facility were euthanized to prevent the spread of the disease.
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://philadelphia.cbslocal.com/2017/02/17/pennsylvania-rat-seoul-virus/)
 1. [Cover Image](https://cbsphilly.files.wordpress.com/2017/02/gettyimages-629947810.jpg?w=1500)

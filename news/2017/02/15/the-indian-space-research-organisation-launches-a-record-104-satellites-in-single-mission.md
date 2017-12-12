@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/15/the-indian-space-research-organisation-launches-a-record-104-satellites-in-single-mission.html)  [JSON](/news/2017/02/15/the-indian-space-research-organisation-launches-a-record-104-satellites-in-single-mission.json)  [XML](/news/2017/02/15/the-indian-space-research-organisation-launches-a-record-104-satellites-in-single-mission.xml)  
+
 ### [2017-02-15](/news/2017/02/15/index.md)
 
 #  The Indian Space Research Organisation launches a record 104 satellites in single mission. 
@@ -5,7 +8,7 @@
 The mission overtakes the previous record of 37 satellites launched by Russia in 2014.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-38977803)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/70E9/production/_94650982_mediaitem94650980.jpg)

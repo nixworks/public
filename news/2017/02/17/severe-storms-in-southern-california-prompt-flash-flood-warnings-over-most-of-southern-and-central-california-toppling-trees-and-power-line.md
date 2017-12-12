@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/17/severe-storms-in-southern-california-prompt-flash-flood-warnings-over-most-of-southern-and-central-california-toppling-trees-and-power-line.html)  [JSON](/news/2017/02/17/severe-storms-in-southern-california-prompt-flash-flood-warnings-over-most-of-southern-and-central-california-toppling-trees-and-power-line.json)  [XML](/news/2017/02/17/severe-storms-in-southern-california-prompt-flash-flood-warnings-over-most-of-southern-and-central-california-toppling-trees-and-power-line.xml)  
+
 ### [2017-02-17](/news/2017/02/17/index.md)
 
 # Severe storms in southern California prompt flash flood warnings over most of southern and central California, toppling trees and power lines, and delaying over 300 flights from Los Angeles International Airport. Since the largest El Nino of 1997-98 and 2009-10.
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Health/wireStory/powerful-storm-pelts-california-bring-risk-flooding-45560406)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)
