@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.html)  [JSON](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.json)  [XML](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.xml)  
+
 ### [2017-02-27](/news/2017/02/27/index.md)
 
 # The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. 
@@ -5,7 +8,7 @@
 (UPDATED) The 4 ousted senators join the Senate minority bloc
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/162710-senate-revamp-ouster-liberal-party-senators)
 1. [Cover Image](https://assets.rappler.com/9D45399B7E7A46B3AA55558C8BB5A3D5/img/68339D4916824A75BFA9F84AB59E4CE2/recto-pimentel-senate-president-pro-tempore-20170227.jpg)

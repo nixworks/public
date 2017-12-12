@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/28/the-royal-thai-government-has-fired-police-general-jumpol-manmai-for-extremely-evil-misconduct-and-political-interests-which-threatened-na.html)  [JSON](/news/2017/02/28/the-royal-thai-government-has-fired-police-general-jumpol-manmai-for-extremely-evil-misconduct-and-political-interests-which-threatened-na.json)  [XML](/news/2017/02/28/the-royal-thai-government-has-fired-police-general-jumpol-manmai-for-extremely-evil-misconduct-and-political-interests-which-threatened-na.xml)  
+
 ### [2017-02-28](/news/2017/02/28/index.md)
 
 # The Royal Thai Government has fired Police General Jumpol Manmai for "extremely evil" misconduct and political interests which threatened national security. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKBN1670EM)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170228&t=2&i=1174315589&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED1R06H)
+1. [Reuters](https://www.reuters.com/article/us-thailand-king-idUSKBN1670EM)
+1. [Cover Image](/resources/r/?m=02&d=20170228&t=2&i=1174315589&w=400&r=LYNXMPED1R06H)
 
 ### Related:
 

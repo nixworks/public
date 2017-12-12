@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-president-bakri-hassan-saleh-as-prime-minister-of-sudan-the-first-person-to-hold-the-post-sinc.html)  [JSON](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-president-bakri-hassan-saleh-as-prime-minister-of-sudan-the-first-person-to-hold-the-post-sinc.json)  [XML](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-president-bakri-hassan-saleh-as-prime-minister-of-sudan-the-first-person-to-hold-the-post-sinc.xml)  
+
 ### [2017-03-1](/news/2017/03/1/index.md)
 
 # Sudanese President Omar al-Bashir names Vice President Bakri Hassan Saleh as Prime Minister of Sudan, the first person to hold the post since it was abolished following the 1989 Sudanese coup d'etat. 
 
-Sudanese President Omar Hassan al-Bashir named his first vice president and long-time ally Hassan Saleh to the newly created post of prime minister on Wednesday, the clearest sign yet that he intends for him to one day take over.
+ Sudanese President Omar Hassan al-Bashir named his first vice president and long-time ally Hassan Saleh to the newly created post of prime minister on Wednesda
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-sudan-politics-idUSKBN1685KP)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170301&t=2&i=1174559321&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED202VK)
+1. [Reuters](https://www.reuters.com/article/us-sudan-politics-idUSKBN1685KP)
+1. [Cover Image](/resources/r/?m=02&d=20170301&t=2&i=1174559321&w=400&r=LYNXMPED202VK)
 
 ### Related:
 

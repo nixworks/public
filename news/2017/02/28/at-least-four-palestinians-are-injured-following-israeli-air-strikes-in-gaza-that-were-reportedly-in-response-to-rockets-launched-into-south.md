@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.html)  [JSON](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.json)  [XML](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.xml)  
+
 ### [2017-02-28](/news/2017/02/28/index.md)
 
 # At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. 
@@ -5,10 +8,15 @@
 At least four Palestinians have reportedly been wounded in Gaza after the Israeli Air Force conducted a series of retaliatory strikes against Hamas after the group allegedly fired a rocket into southern Israel.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/378825-israel-gaza-hamas-strikes/)
 1. [Cover Image](https://img.rt.com/files/2017.02/article/58b4d0cbc3618863038b461e.jpg)
+
+### Changes:
+
+1. [Gaza-Israel conflict: At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md) _2017-08-27 03:47:54 (First version)_
+1. [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ At least four Palestinians have reportedly been wounded in Gaza after the Israel
 3. [Israeli Air Force planes hit two Hamas targets in Gaza in retaliation for rocket fire from the Palestinian territory. ](/news/2015/12/13/israeli-air-force-planes-hit-two-hamas-targets-in-gaza-in-retaliation-for-rocket-fire-from-the-palestinian-territory.md) _Context: Gaza-Israel conflict, Hamas_
 4. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _Context: Gaza-Israel conflict, Hamas_
 5. [In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-facility-located-within-th.md) _Context: Gaza-Israel conflict, Hamas_
-
-### Changes:
-
-1. [Gaza-Israel conflict: At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/gaza-israel-conflict-at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-roc.md) _2017-08-27 03:47:54 (First version)_
-1. [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md) _(Current version)_

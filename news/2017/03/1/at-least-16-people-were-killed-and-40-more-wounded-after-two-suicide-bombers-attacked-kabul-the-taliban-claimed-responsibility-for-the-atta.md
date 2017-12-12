@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.html)  [JSON](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.json)  [XML](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.xml)  
+
 ### [2017-03-1](/news/2017/03/1/index.md)
 
 # At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. 
@@ -5,9 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/afghanistan-kabul-blast-gunbattle/28340312.html)
+
+### Changes:
+
+1. [At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md) _2017-08-25 03:47:30 (First version)_
+2. [War in Afghanistan (2015-present): At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/war-in-afghanistan-2015-present-at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliba.md) _2017-08-27 03:47:55 (Update)_
+2. [At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,3 @@
 3. [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 4. [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 5. [A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md) _2017-08-25 03:47:30 (First version)_
-2. [War in Afghanistan (2015-present): At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/war-in-afghanistan-2015-present-at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliba.md) _2017-08-27 03:47:55 (Update)_
-2. [At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.html)  [JSON](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.json)  [XML](/news/2017/02/28/the-hershey-company-announces-it-will-cut-about-15-percent-of-its-global-workforce-2-700-jobs-to-return-its-international-businesses-to-p.xml)  
+
 ### [2017-02-28](/news/2017/02/28/index.md)
 
 # The Hershey Company announces it will cut about 15 percent of its global workforce (~2,700 jobs) to return its international businesses to profitability as quickly as possible. The layoffs will have a greater impact on the international workforce. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2017/02/28/news/companies/hershey-job-cuts/index.html)
 1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/151021024754-hersheys-780x439.jpg)

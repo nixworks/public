@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.html)  [JSON](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.json)  [XML](/news/2017/02/28/a-police-sniper-accidentally-fires-his-weapon-while-changing-position-and-injures-two-people-during-a-speech-by-french-president-franassois-h.xml)  
+
 ### [2017-02-28](/news/2017/02/28/index.md)
 
 # A police sniper accidentally fires his weapon while changing position and injures two people during a speech by French President Francois Hollande in Villognon. 
@@ -5,7 +8,7 @@
 The shot was fired as a police sniper shifted position on a roof about 100m from Mr Hollande.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39121997)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4482/production/_94883571_mediaitem94883569.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.html)  [JSON](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.json)  [XML](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.xml)  
+
 ### [2017-03-1](/news/2017/03/1/index.md)
 
 # Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAKBN16858B?sp=true)
+
+### Changes:
+
+1. [Origin of life: Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/origin-of-life-scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreli.md) _2017-08-27 03:47:55 (First version)_
+1. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [A shooting at a daycare kills two people in Gatineau, Quebec, Canada. ](/news/2013/04/5/a-shooting-at-a-daycare-kills-two-people-in-gatineau-quebec-canada.md) _Context: Canada, Quebec_
 4. [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md) _Context: Canada, Quebec_
 5. [ Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval--Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe--Bagot for the Bloc Quebecois. ](/news/2007/09/17/incumbent-parties-lose-two-of-three-by-elections-in-canadian-federal-parliamentary-ridings-in-quebec-thomas-mulcair-takes-the-liberal-stro.md) _Context: Canada, Quebec_
-
-### Changes:
-
-1. [Origin of life: Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/origin-of-life-scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreli.md) _2017-08-27 03:47:55 (First version)_
-1. [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md) _(Current version)_

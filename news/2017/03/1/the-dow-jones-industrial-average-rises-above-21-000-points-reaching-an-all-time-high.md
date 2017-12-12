@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.html)  [JSON](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.json)  [XML](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.xml)  
+
 ### [2017-03-1](/news/2017/03/1/index.md)
 
 # The Dow Jones Industrial Average rises above 21,000 points, reaching an all-time high. 
@@ -5,7 +8,7 @@
 Investors bet big on U.S. stocks, giving the market its biggest one-day gain in nearly four months and pushing the major indexes to record highs. The Dow Jones industrial average topped 21,000
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-markets-20170301-story.html)
 1. [Cover Image](http://www.trbimg.com/img-58b75162/turbine/la-fi-markets-20170301)

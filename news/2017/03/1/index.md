@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/1/index.html)  [JSON](2017/03/1/index.json)  [XML](2017/03/1/index.xml)  
+
 ## [2017-03-1](/news/2017/03/1/index.md)
 
 ### [At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-atta.md)
@@ -7,19 +10,19 @@ _Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 Investors bet big on U.S. stocks, giving the market its biggest one-day gain in nearly four months and pushing the major indexes to record highs. The Dow Jones industrial average topped 21,000
 
 ### [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md)
-_Context: EU, Georgia-European Union relations, Georgian, Ireland, United Kingdom, member states_
+_Context:  Georgian, European Union, Georgia-European Union relations, Ireland, United Kingdom, member states_
 
 ### [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md)
 Russia and China have vetoed a UN Security Council proposal that would have banned the supply of helicopters to the Syrian government, and blacklisted eleven Syrian military commanders over allegations of toxic gas attacks.
 
 ### [After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo-duterte-orders-the-p.md)
-_Context: Philippine Drug War, Philippine National Police, Rodrigo Duterte, South Korea, kidnapping and killing of_
+_Context: Philippine National Police, Rodrigo Duterte, South Korea, drug crackdown, kidnapping and killing of_
 
 ### [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md)
-Siti Aisyah and Doan Thi Huong face a mandatory death sentence if convicted
+_Context: Doan Thi Huong, Indonesia, Kim Jong-nam, Kim Jong-nam's assassination, Kim Jong-un, Kuala Lumpur International Airport, North Korea, Siti Aisyah, Vietnam_
 
 ### [Sudanese President Omar al-Bashir names Vice President Bakri Hassan Saleh as Prime Minister of Sudan, the first person to hold the post since it was abolished following the 1989 Sudanese coup d'etat. ](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-president-bakri-hassan-saleh-as-prime-minister-of-sudan-the-first-person-to-hold-the-post-sinc.md)
-Sudanese President Omar Hassan al-Bashir named his first vice president and long-time ally Hassan Saleh to the newly created post of prime minister on Wednesday, the clearest sign yet that he intends for him to one day take over.
+ Sudanese President Omar Hassan al-Bashir named his first vice president and long-time ally Hassan Saleh to the newly created post of prime minister on Wednesda
 
 ### [Pakalitha Mosisili, the Prime Minister of Lesotho loses a confidence motion in the Parliament of Lesotho, and may call a snap election. ](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho-loses-a-confidence-motion-in-the-parliament-of-lesotho-and-may-call-a-snap-election.md)
 _Context: Pakalitha Mosisili, Parliament of Lesotho, Prime Minister of Lesotho, confidence motion_

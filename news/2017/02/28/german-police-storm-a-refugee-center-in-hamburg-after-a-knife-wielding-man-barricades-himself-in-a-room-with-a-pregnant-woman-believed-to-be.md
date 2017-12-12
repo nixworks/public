@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.html)  [JSON](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.json)  [XML](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.xml)  
+
 ### [2017-02-28](/news/2017/02/28/index.md)
 
 # German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. 
@@ -5,7 +8,7 @@
 A refugee center in Hamburg was stormed by police on Tuesday after a man armed with a knife barricaded himself inside a room with a woman, believed to be his partner. The man was injured before being arrested, according to local reports. 
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/378893-hamburg-knife-barricade-refugee/)
 1. [Cover Image](https://img.rt.com/files/2017.02/article/58b56666c36188aa198b45c5.jpg)

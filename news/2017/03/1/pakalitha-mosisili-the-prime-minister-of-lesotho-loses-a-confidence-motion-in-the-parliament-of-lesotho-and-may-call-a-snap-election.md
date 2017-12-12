@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho-loses-a-confidence-motion-in-the-parliament-of-lesotho-and-may-call-a-snap-election.html)  [JSON](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho-loses-a-confidence-motion-in-the-parliament-of-lesotho-and-may-call-a-snap-election.json)  [XML](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho-loses-a-confidence-motion-in-the-parliament-of-lesotho-and-may-call-a-snap-election.xml)  
+
 ### [2017-03-1](/news/2017/03/1/index.md)
 
 # Pakalitha Mosisili, the Prime Minister of Lesotho loses a confidence motion in the Parliament of Lesotho, and may call a snap election. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [SABC](http://www.sabc.co.za/news/a/a0dd578040400fd09d64ddb29663e5e6/Lesothos-Prime-Minister-loses-confidence-vote-20170301)
 

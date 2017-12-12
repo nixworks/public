@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/02/28/index.html)  [JSON](2017/02/28/index.json)  [XML](2017/02/28/index.xml)  
+
 ## [2017-02-28](/news/2017/02/28/index.md)
 
 ### [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md)
-_Context: Afghan police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Helmand Province, Taliban, War in Afghanistan (2015-present), police_
 
 ### [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md)
 At least four Palestinians have reportedly been wounded in Gaza after the Israeli Air Force conducted a series of retaliatory strikes against Hamas after the group allegedly fired a rocket into southern Israel.
