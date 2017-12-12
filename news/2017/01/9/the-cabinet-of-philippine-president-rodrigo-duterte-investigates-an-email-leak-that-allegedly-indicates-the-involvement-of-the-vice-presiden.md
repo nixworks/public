@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/9/the-cabinet-of-philippine-president-rodrigo-duterte-investigates-an-email-leak-that-allegedly-indicates-the-involvement-of-the-vice-presiden.html)  [JSON](/news/2017/01/9/the-cabinet-of-philippine-president-rodrigo-duterte-investigates-an-email-leak-that-allegedly-indicates-the-involvement-of-the-vice-presiden.json)  [XML](/news/2017/01/9/the-cabinet-of-philippine-president-rodrigo-duterte-investigates-an-email-leak-that-allegedly-indicates-the-involvement-of-the-vice-presiden.xml)  
+
 ### [2017-01-9](/news/2017/01/9/index.md)
 
 # The cabinet of Philippine President Rodrigo Duterte investigates an email leak that allegedly indicates the involvement of the vice president Leni Robredo in attempts to overthrow Duterte. 
@@ -5,7 +8,7 @@
 Malacanang is investigating the alleged &quot;LeniLeaks&quot; controversy that shows a supposed plot by supporters of Vice President Leni Robredo to discredit and eventually unseat President Rodrigo Duterte. 
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN](http://news.abs-cbn.com/news/01/09/17/palace-investigates-lenileaks)
 1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/01/09/010917_leni.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.html)  [JSON](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.json)  [XML](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.xml)  
+
 ### [2017-01-16](/news/2017/01/16/index.md)
 
 # The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. 
@@ -5,10 +8,15 @@
 Boost for talks backed by Russia and Turkey as opposition groups consent to send delegation to press for ceasefire
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/16/syrian-rebels-agree-to-attend-peace-talks-kazakhstan)
 1. [Cover Image](https://i.guim.co.uk/img/media/ed7f0c9c4f5440db68f33ee1b2784a5422974094/0_30_5760_3456/master/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3c335a3e3e2654e154efe67aac57084a)
+
+### Changes:
+
+1. [Syrian Civil War: Syrian peace process: The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/syrian-civil-war-syrian-peace-process-the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan.md) _2017-08-27 03:47:37 (First version)_
+1. [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Boost for talks backed by Russia and Turkey as opposition groups consent to send
 3. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: Syrian Civil War, Syrian government_
 4. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: Syrian Civil War, Syrian peace process_
 5. [Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. ](/news/2016/06/15/syrian-government-airstrikes-hit-rebel-held-areas-in-aleppo-killing-at-least-34-people.md) _Context: Syrian Civil War, Syrian government_
-
-### Changes:
-
-1. [Syrian Civil War: Syrian peace process: The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/syrian-civil-war-syrian-peace-process-the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan.md) _2017-08-27 03:47:37 (First version)_
-1. [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md) _(Current version)_

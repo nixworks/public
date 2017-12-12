@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/7/index.html)  [JSON](2017/01/7/index.json)  [XML](2017/01/7/index.xml)  
+
 ## [2017-01-7](/news/2017/01/7/index.md)
 
 ### [A fuel truck explodes in the Syrian town of Azaz, near the border with Turkey, killing at least 43 people, according to the Syrian Observatory for Human Rights. ](/news/2017/01/7/a-fuel-truck-explodes-in-the-syrian-town-of-azaz-near-the-border-with-turkey-killing-at-least-43-people-according-to-the-syrian-observato.md)

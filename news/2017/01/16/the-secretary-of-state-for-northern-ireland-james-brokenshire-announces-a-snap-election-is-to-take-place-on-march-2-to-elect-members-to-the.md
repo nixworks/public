@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/16/the-secretary-of-state-for-northern-ireland-james-brokenshire-announces-a-snap-election-is-to-take-place-on-march-2-to-elect-members-to-the.html)  [JSON](/news/2017/01/16/the-secretary-of-state-for-northern-ireland-james-brokenshire-announces-a-snap-election-is-to-take-place-on-march-2-to-elect-members-to-the.json)  [XML](/news/2017/01/16/the-secretary-of-state-for-northern-ireland-james-brokenshire-announces-a-snap-election-is-to-take-place-on-march-2-to-elect-members-to-the.xml)  
+
 ### [2017-01-16](/news/2017/01/16/index.md)
 
 # The Secretary of State for Northern Ireland James Brokenshire announces a snap election is to take place on March 2 to elect members to the Northern Ireland Assembly after the Democratic Unionist Party (DUP) and Sinn Fein failed to agree on a power-sharing agreement. 
@@ -5,7 +8,7 @@
 Vote will take place on 2 March, James Brokenshire says, after deadline for deal passes, triggering collapse of power-sharing executive
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/uk-news/2017/jan/16/northern-ireland-assembly-elections-announced)
 1. [Cover Image](https://i.guim.co.uk/img/media/4d279071c7bcb0368ce1ffd64b770e95f28b5a01/0_186_4896_2938/master/4896.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=497df4b005c610eab4ea1dbe32c853d5)

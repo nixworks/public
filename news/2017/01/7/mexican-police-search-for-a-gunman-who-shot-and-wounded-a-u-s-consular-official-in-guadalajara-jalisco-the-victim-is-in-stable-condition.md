@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.html)  [JSON](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.json)  [XML](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.xml)  
+
 ### [2017-01-7](/news/2017/01/7/index.md)
 
 # Mexican police search for a gunman who shot and wounded a U.S. Consular official in Guadalajara, Jalisco. The victim is in stable condition. 
@@ -5,7 +8,7 @@
 U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for information on attacker
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/gunman-shoots-wounds-u-s-consular-official-in-mexico-guadalajara/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/07/81953928-9d0a-49f0-bf7d-f6be4b33ef5b/usconsulate.png)

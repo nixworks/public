@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.html)  [JSON](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.json)  [XML](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.xml)  
+
 ### [2017-01-20](/news/2017/01/20/index.md)
 
 # Search continues for missing firefighters in Tehran's Plasco Building site after the building's deadly fire and collapsing last day. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/01/20/middleeast/iran-tehran-building-fire-collapse/)
 

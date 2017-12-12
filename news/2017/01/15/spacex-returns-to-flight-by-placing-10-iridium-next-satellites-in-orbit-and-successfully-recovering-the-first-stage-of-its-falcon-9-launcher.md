@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-next-satellites-in-orbit-and-successfully-recovering-the-first-stage-of-its-falcon-9-launcher.html)  [JSON](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-next-satellites-in-orbit-and-successfully-recovering-the-first-stage-of-its-falcon-9-launcher.json)  [XML](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-next-satellites-in-orbit-and-successfully-recovering-the-first-stage-of-its-falcon-9-launcher.xml)  
+
 ### [2017-01-15](/news/2017/01/15/index.md)
 
 # SpaceX returns to flight by placing 10 Iridium NEXT satellites in orbit and successfully recovering the first stage of its Falcon 9 launcher on a droneship. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/science/2017/01/live-saturday-spacex-will-attempt-a-return-to-flight/)
+1. [Ars Technica](https://arstechnica.com/science/2017/01/live-saturday-spacex-will-attempt-a-return-to-flight/)
 1. [Cover Image](https://cdn.arstechnica.net/wp-content/uploads/2017/01/spacex-760x380.jpg)
 
 ### Related:

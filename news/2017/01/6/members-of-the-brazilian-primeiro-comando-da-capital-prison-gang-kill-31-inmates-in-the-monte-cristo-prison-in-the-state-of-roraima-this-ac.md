@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.html)  [JSON](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.json)  [XML](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-capital-prison-gang-kill-31-inmates-in-the-monte-cristo-prison-in-the-state-of-roraima-this-ac.xml)  
+
 ### [2017-01-6](/news/2017/01/6/index.md)
 
 # Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-prison-idUSKBN14Q1FR)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170106&t=2&i=1167863325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED051DB)
+1. [Reuters](https://www.reuters.com/article/us-brazil-prison-idUSKBN14Q1FR)
+1. [Cover Image](/resources/r/?m=02&d=20170106&t=2&i=1167863325&w=400&r=LYNXMPED051DB)
 
 ### Related:
 

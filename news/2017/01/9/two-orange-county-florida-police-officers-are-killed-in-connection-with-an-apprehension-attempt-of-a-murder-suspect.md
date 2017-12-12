@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/01/9/two-orange-county-florida-police-officers-are-killed-in-connection-with-an-apprehension-attempt-of-a-murder-suspect.html)  [JSON](/news/2017/01/9/two-orange-county-florida-police-officers-are-killed-in-connection-with-an-apprehension-attempt-of-a-murder-suspect.json)  [XML](/news/2017/01/9/two-orange-county-florida-police-officers-are-killed-in-connection-with-an-apprehension-attempt-of-a-murder-suspect.xml)  
+
 ### [2017-01-9](/news/2017/01/9/index.md)
 
 # Two Orange County, Florida police officers are killed in connection with an apprehension attempt of a murder suspect. 
 
-A man wanted for killing his former girlfriend fatally shot an Orlando, Florida, police officer on Monday, authorities said, prompting a manhunt and a reward of up to $60,000.
+ A man wanted for killing his former girlfriend fatally shot an Orlando, Florida, police officer on Monday, authorities said, prompting a manhunt and a reward o
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/01/09/us/orlando-shooting-officers-profiles/)
-2. [Reuters](http://www.reuters.com/article/us-florida-police-idUSKBN14T240)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170109&t=2&i=1168138261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED081KI)
+2. [Reuters](https://www.reuters.com/article/us-florida-police-idUSKBN14T240)
+2. [Cover Image](/resources/r/?m=02&d=20170109&t=2&i=1168138261&w=400&r=LYNXMPED081KI)
 
 ### Related:
 

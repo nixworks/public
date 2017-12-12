@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/20/japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-less-confusing-for-u.html)  [JSON](/news/2017/01/20/japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-less-confusing-for-u.json)  [XML](/news/2017/01/20/japanese-toilet-industries-agreed-to-standardize-the-iconography-of-electric-toilet-seat-controls-in-order-to-make-them-less-confusing-for-u.xml)  
+
 ### [2017-01-20](/news/2017/01/20/index.md)
 
 # Japanese toilet industries agreed to standardize the iconography of electric toilet seat controls in order to make them less confusing for users. 
@@ -5,7 +8,7 @@
 An association of Japanese toilet makers will unify pictograms on toilets with bidet functions to help foreign visitors use them. The nine companies in the
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/programmes/p04q0qk0)
 2. [Japan Sanitary Equipment Industry Association](http://www.sanitary-net.com/news/news1142)

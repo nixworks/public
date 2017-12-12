@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.html)  [JSON](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.json)  [XML](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.xml)  
+
 ### [2017-01-19](/news/2017/01/19/index.md)
 
 # The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. 
@@ -5,7 +8,7 @@
 The 17-story Plasco building in central Tehran has collapsed after a fire engulfed its top floors. Although the building was evacuated, dozens of emergency responders are feared trapped under the rubble.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-01-19-ML-Iran-Fire/id-8fc552ddb97a4e0b88ba3971650b1eee)
 2. [Deutsche Welle](http://www.dw.com/en/irans-oldest-high-rise-tower-collapses-in-fire/a-37186503)

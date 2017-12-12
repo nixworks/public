@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/11/president-elect-of-the-united-states-donald-trump-holds-his-first-post-election-press-conference-in-new-york-city.html)  [JSON](/news/2017/01/11/president-elect-of-the-united-states-donald-trump-holds-his-first-post-election-press-conference-in-new-york-city.json)  [XML](/news/2017/01/11/president-elect-of-the-united-states-donald-trump-holds-his-first-post-election-press-conference-in-new-york-city.xml)  
+
 ### [2017-01-11](/news/2017/01/11/index.md)
 
 #  President-elect of the United States Donald Trump holds his first post-election press conference in New York City. 
@@ -5,7 +8,7 @@
 The president-elect is sure be asked about unverified reports that Russia has gathered potentially compromising information on him
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/donald-trump-holds-first-post-election-press-conference-live-updates/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2017/01/11/d8fb2dc9-30c1-4064-8dd5-277b55cce514/rtx2yiqn.jpg)

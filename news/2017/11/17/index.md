@@ -10,7 +10,10 @@ _Context: Iraqi Army, Iraqi Civil War (2014-present), Islamic State in Iraq and 
 _Context: 2017 in archaeology, Australia, Lake Mungo, Mungo Man, New South Wales_
 
 ### [The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
-_Context: Argentine Navy, San Juan, Submarine incidents_
+_Context: Argentine Navy, Disappearance of ARA San Juan, San Juan_
+
+### [Evelyn Wever-Croes becomes the first female Prime Minister of Aruba following the 2017 general election in September. ](/news/2017/11/17/evelyn-wever-croes-becomes-the-first-female-prime-minister-of-aruba-following-the-2017-general-election-in-september.md)
+_Context: 2017 general election, Aruba, Evelyn Wever-Croes, Prime Minister_
 
 ### [At least five people are killed at a demonstration in Nairobi after supporters of Raila Odinga and members of the National Super Alliance clash with the Kenya Police. ](/news/2017/11/17/at-least-five-people-are-killed-at-a-demonstration-in-nairobi-after-supporters-of-raila-odinga-and-members-of-the-national-super-alliance-cl.md)
 _Context: Kenya Police, Nairobi, National Super Alliance, Politics of Kenya, Raila Odinga_

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.html)  [JSON](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.json)  [XML](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.xml)  
 
-* [HTML](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.html)
-* [JSON](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.json)
-* [XML](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. 
@@ -18,7 +15,7 @@ The blast happened at the time when dozens of people were busy shopping in the v
 3. [Bernama via AstroAwan](http://english.astroawani.com/malaysia-news/6-killed-30-injured-blast-hits-vegetable-market-nw-pakistan-129724)
 4. [Dawn News](http://www.dawn.com/news/1309800/several-injured-in-blast-at-parachinar-market)
 5. [Radio Pakistan](http://www.radio.gov.pk/21-Jan-2017/6-killed-30-injured-in-parachinar-blast)
-6. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN15507W)
+6. [Reuters](https://www.reuters.com/article/us-pakistan-blast-idUSKBN15507W)
 6. [Cover Image](http://img.astroawani.com/2016-11/81479112827_SuicideBombGeneric.jpg)
 
 ### Changes:

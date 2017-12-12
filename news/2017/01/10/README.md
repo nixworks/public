@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/10/index.html)  [JSON](2017/01/10/index.json)  [XML](2017/01/10/index.xml)  
+
 ## [2017-01-10](/news/2017/01/10/index.md)
 
 ### [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md)
@@ -10,7 +13,7 @@ George Lucas has chosen L.A.&apos;s Exposition Park for his Museum of Narrative 
 TEHRAN:&nbsp;Iran said Tuesday it had finally received an official invitation from Saudi Arabia for its pilgrims to attend this year&acute;s hajj, two weeks after Riyadh announced it. There was no...
 
 ### [The foreign ministry of the People's Republic of China confirms that the country's head of state Xi Jinping will attend the World Economic Forum in Davos, Switzerland, this year, making him the first President of China to attend the high-profile event. ](/news/2017/01/10/the-foreign-ministry-of-the-people-s-republic-of-china-confirms-that-the-country-s-head-of-state-xi-jinping-will-attend-the-world-economic-f.md)
-President Xi Jinping this month will become the first Chinese head of state to attend the World Economic Forum (WEF) in Davos, which this year will dwell on the rising public anger with globalization and the coming U.S. presidency of Donald Trump.
+ President Xi Jinping this month will become the first Chinese head of state to attend the World Economic Forum (WEF) in Davos, which this year will dwell on th
 
 ### [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md)
 Palestinian officials call for protests in mosques to object to the proposed move from Tel Aviv to Jerusalem, and say it would violate Oslo peace agreements

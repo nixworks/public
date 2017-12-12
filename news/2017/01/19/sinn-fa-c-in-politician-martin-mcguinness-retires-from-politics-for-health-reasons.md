@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.html)  [JSON](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.json)  [XML](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.xml)  
+
 ### [2017-01-19](/news/2017/01/19/index.md)
 
 # Sinn Fein politician Martin McGuinness retires from politics for health reasons. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nireland-politics-mcguinness-idUSKBN1532RM)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170119&t=2&i=1169378669&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0I1JG)
+1. [Reuters](https://www.reuters.com/article/us-nireland-politics-mcguinness-idUSKBN1532RM)
+1. [Cover Image](/resources/r/?m=02&d=20170119&t=2&i=1169378669&w=400&r=LYNXMPED0I1JG)
 
 ### Related:
 

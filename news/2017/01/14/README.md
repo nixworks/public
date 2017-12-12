@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/01/14/index.html)  [JSON](2017/01/14/index.json)  [XML](2017/01/14/index.xml)  
+
 ## [2017-01-14](/news/2017/01/14/index.md)
 
 ### [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md)
-Iraqi special forces drove back Islamic State militants in the Mosul University campus on Saturday, while elite police units took over large areas along the east bank of the Tigris river, military officials said.
+ Iraqi special forces drove back Islamic State militants in the Mosul University campus on Saturday, while elite police units took over large areas along the ea
 
 ### [ Ringling Bros. and Barnum & Bailey Circus announces it will cease operation in May after 146 years, due to lower attendance, higher operating costs and protests from animal rights activists. ](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announces-it-will-cease-operation-in-may-after-146-years-due-to-lower-attendance-higher-operati.md)
 After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.&quot; The owner of the Ringling Bros. and Barnum &amp; Bailey Circus told The Associated Press that the show will close forever in May. The circus will be visiting Baltimore for the last time at Royal Farms Arena April ...

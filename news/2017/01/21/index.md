@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2017/01/21/index.html)  [JSON](2017/01/21/index.json)  [XML](2017/01/21/index.xml)  
 
-* [HTML](2017/01/21/index.html)
-* [JSON](2017/01/21/index.json)
-* [XML](2017/01/21/index.xml)
 ## [2017-01-21](/news/2017/01/21/index.md)
 
 ### [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md)
@@ -16,7 +13,7 @@ _Context: Jordan, Syrian Civil War_
 _Context: Jeddah, Saudi Arabia_
 
 ### [Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. ](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-shell-lands-on-the-home-in-which-they-were-staying.md)
-Eight people were killed on Saturday after a shell landed on a house in southern Rafah, in the north of Sinai, eye witnesses and medical sources said.
+ Eight people were killed on Saturday after a shell landed on a house in southern Rafah, in the north of Sinai, eye witnesses and medical sources said.
 
 ### [The Hirakhand express 18448, a scheduled passenger train from Jagdalpur to Bhubaneswar, derails near Kuneru in the Indian state of Andhra Pradesh. At least 25 are killed and around 200 others are injured. ](/news/2017/01/21/the-hirakhand-express-18448-a-scheduled-passenger-train-from-jagdalpur-to-bhubaneswar-derails-near-kuneru-in-the-indian-state-of-andhra-pr.md)
 The incident took place around 11 pm yesterday when the train was on its way to Bhubaneswar from Jagdalpur.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committed-the-2016-orlando-mass-shooting-is-arrested-and-charged-with-obstructing-the-investigation.html)  [JSON](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committed-the-2016-orlando-mass-shooting-is-arrested-and-charged-with-obstructing-the-investigation.json)  [XML](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committed-the-2016-orlando-mass-shooting-is-arrested-and-charged-with-obstructing-the-investigation.xml)  
+
 ### [2017-01-16](/news/2017/01/16/index.md)
 
 # Noor Salman, the wife of Omar Mateen who committed the 2016 Orlando mass shooting is arrested and charged with obstructing the investigation of the case. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](https://www.nytimes.com/2017/01/16/us/politics/noor-salman-arrested-orlando-shooting-omar-mateen.html)
 

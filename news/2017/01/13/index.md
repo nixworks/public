@@ -1,13 +1,16 @@
+
+Formats: [HTML](2017/01/13/index.html)  [JSON](2017/01/13/index.json)  [XML](2017/01/13/index.xml)  
+
 ## [2017-01-13](/news/2017/01/13/index.md)
 
 ### [The Organisation for the Prohibition of Chemical Weapons says, for the first time, that they suspect Syrian President Bashar al-Assad and other senior officials of the Syrian government are responsible for the use of chemical weapons in the conflict. ](/news/2017/01/13/the-organisation-for-the-prohibition-of-chemical-weapons-says-for-the-first-time-that-they-suspect-syrian-president-bashar-al-assad-and-ot.md)
-International investigators have said for the first time that they suspect President Bashar al-Assad and his brother are responsible for the use of chemical weapons in the Syrian conflict, according to a document seen by Reuters.
+ International investigators have said for the first time that they suspect President Bashar al-Assad and his brother are responsible for the use of chemical we
 
 ### [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md)
-_Context: Europe, France, Great Britain, January 2017 European cold wave_
+_Context: Europe, French, Great Britain, January 2017 European cold wave_
 
 ### [A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-school-closures-and-a-traffic-fatality-in-mis.md)
-A winter storm bringing icy rain to the Great Plains and Midwest claimed the life of a Missouri woman on Friday, prompted the delay of an NFL football game and threatened power outages and treacherous conditions throughout the weekend.
+ A winter storm bringing icy rain to the Great Plains and Midwest claimed the life of a Missouri woman on Friday, prompted the delay of an NFL football game and
 
 ### [President of the United States Barack Obama signs an order to ease sanctions against Sudan, citing the country's efforts to "reduce internal conflict, improve humanitarian access to people requiring aid and curtail terrorism". ](/news/2017/01/13/president-of-the-united-states-barack-obama-signs-an-order-to-ease-sanctions-against-sudan-citing-the-country-s-efforts-to-reduce-internal.md)
 The White House says the move recognises apparent progress on terrorism and humanitarian access.

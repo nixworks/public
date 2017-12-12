@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.html)  [JSON](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.json)  [XML](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.xml)  
+
 ### [2017-01-7](/news/2017/01/7/index.md)
 
 # Nana Akufo-Addo is sworn in as the fifth President of Ghana. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-38539751)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FE88/production/_93306156_akufo-add.jpg)

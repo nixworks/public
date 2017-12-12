@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/16/index.html)  [JSON](2017/01/16/index.json)  [XML](2017/01/16/index.xml)  
+
 ## [2017-01-16](/news/2017/01/16/index.md)
 
 ### [ISIL's third attack against the Syrian government's forces in the city of Deir ez-Zor reportedly splits the government held area in two. An estimated 14,000 ISIL fighters are participating in the attack according to the government. ](/news/2017/01/16/isil-s-third-attack-against-the-syrian-government-s-forces-in-the-city-of-deir-ez-zor-reportedly-splits-the-government-held-area-in-two-an.md)
@@ -16,10 +19,10 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 _Context: Crimea, Eastern Ukraine, International Court of Justice, Russia, Russia-Ukraine relations, Ukraine, War in Donbass_
 
 ### [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md)
-_Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
+ An Egyptian court rejected on Monday a government plan to transfer two uninhabited Red Sea islands to Saudi Arabia, in a final ruling that prompted cheers in t
 
 ### [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md)
-_Context: Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, U.S. Marine, Vaernes Air Station_
+ Some 300 U.S. Marines landed in Norway on Monday for a six-month deployment, the first time since World War Two that foreign troops have been allowed to be sta
 
 ### [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md)
 A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yong

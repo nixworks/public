@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.html)  [JSON](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.json)  [XML](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.xml)  
+
 ### [2017-01-16](/news/2017/01/16/index.md)
 
 # Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. 
 
+ Some 300 U.S. Marines landed in Norway on Monday for a six-month deployment, the first time since World War Two that foreign troops have been allowed to be sta
 
 
+### Sources:
 
-### Source:
-
-1. [Reuters](http://www.reuters.com/article/us-norway-usa-military-idUSKBN1501CD)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0F11Y)
+1. [Reuters](https://www.reuters.com/article/us-norway-usa-military-idUSKBN1501CD)
+1. [Cover Image](/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=400&r=LYNXMPED0F11Y)
 
 ### Related:
 

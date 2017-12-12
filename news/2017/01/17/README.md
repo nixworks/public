@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/17/index.html)  [JSON](2017/01/17/index.json)  [XML](2017/01/17/index.xml)  
+
 ## [2017-01-17](/news/2017/01/17/index.md)
 
 ### [A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-least-90-people-and-injur.md)
@@ -10,7 +13,7 @@ British American Tobacco agreed Tuesday to pay almost $50 billion for control of
 _Context: Malaysia Airlines Flight 370_
 
 ### [Deutsche Bank agrees to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the years leading up to the 2008 financial crisis. ](/news/2017/01/17/deutsche-bank-agrees-to-a-7-2-billion-settlement-with-the-u-s-department-of-justice-over-its-sale-and-pooling-of-toxic-mortgage-securities.md)
-Deutsche Bank (DBKGn.DE) has agreed to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the run-up to the 2008 financial crisis.
+ Deutsche Bank has agreed to a $7.2 billion settlement with the U.S. Department of Justice over its sale and pooling of toxic mortgage securities in the run-up 
 
 ### [Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md)
 _Context: Benjamin Netanyahu, Israeli-Palestinian peace process_

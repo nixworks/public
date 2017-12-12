@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/11/the-elbphilharmonie-concert-hall-in-hamburg-germany-is-officially-inaugurated-with-light-shows-and-concerts-of-the-elbphilharmonie-orchest.html)  [JSON](/news/2017/01/11/the-elbphilharmonie-concert-hall-in-hamburg-germany-is-officially-inaugurated-with-light-shows-and-concerts-of-the-elbphilharmonie-orchest.json)  [XML](/news/2017/01/11/the-elbphilharmonie-concert-hall-in-hamburg-germany-is-officially-inaugurated-with-light-shows-and-concerts-of-the-elbphilharmonie-orchest.xml)  
+
 ### [2017-01-11](/news/2017/01/11/index.md)
 
 #  The Elbphilharmonie concert hall in Hamburg, Germany is officially inaugurated with light shows and concerts of the Elbphilharmonie Orchestra. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/01/10/arts/music/elbphilharmonie-an-architectural-gift-to-gritty-hamburg-germany.html?_r=0)
 

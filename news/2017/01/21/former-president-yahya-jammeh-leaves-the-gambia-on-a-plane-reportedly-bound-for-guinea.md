@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.html)  [JSON](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.json)  [XML](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.xml)  
 
-* [HTML](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.html)
-* [JSON](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.json)
-* [XML](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. 

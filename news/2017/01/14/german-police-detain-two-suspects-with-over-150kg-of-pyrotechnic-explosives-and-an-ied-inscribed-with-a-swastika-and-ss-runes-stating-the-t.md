@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/14/german-police-detain-two-suspects-with-over-150kg-of-pyrotechnic-explosives-and-an-ied-inscribed-with-a-swastika-and-ss-runes-stating-the-t.html)  [JSON](/news/2017/01/14/german-police-detain-two-suspects-with-over-150kg-of-pyrotechnic-explosives-and-an-ied-inscribed-with-a-swastika-and-ss-runes-stating-the-t.json)  [XML](/news/2017/01/14/german-police-detain-two-suspects-with-over-150kg-of-pyrotechnic-explosives-and-an-ied-inscribed-with-a-swastika-and-ss-runes-stating-the-t.xml)  
+
 ### [2017-01-14](/news/2017/01/14/index.md)
 
 # German police detain two suspects with over 150kg of pyrotechnic explosives and an IED inscribed with a swastika and SS runes, stating the two may have a connection to a neo-Nazi terrorist group. 
@@ -5,7 +8,7 @@
 Two suspects detained with 155 kilograms of pyrotechnic explosives may have links to a neo-Nazi terrorist group, German DPA news agency reported, citing a local prosecutor’s office. One reportedly had an explosive device bearing a swastika and SS signs.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/373668-germany-explosives-police-detain)
 1. [Cover Image](https://img.rt.com/files/2017.01/article/5879fa45c46188bc598b4569.jpg)

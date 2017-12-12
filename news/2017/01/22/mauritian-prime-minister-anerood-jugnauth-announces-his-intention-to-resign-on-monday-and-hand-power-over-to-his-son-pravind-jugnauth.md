@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.html)  [JSON](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.json)  [XML](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.xml)  
+
 ### [2017-01-22](/news/2017/01/22/index.md)
 
 # Mauritian Prime Minister Anerood Jugnauth announces his intention to resign on Monday and hand power over to his son, Pravind Jugnauth. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-38709203)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/CD3F/production/_93734525_gettyimages-494803266.jpg)

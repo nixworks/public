@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/8/pakistan-has-decided-to-impose-official-prohibition-on-jundallah-and-splinter-groups-that-claim-responsibility-for-terror-attacks.html)  [JSON](/news/2017/01/8/pakistan-has-decided-to-impose-official-prohibition-on-jundallah-and-splinter-groups-that-claim-responsibility-for-terror-attacks.json)  [XML](/news/2017/01/8/pakistan-has-decided-to-impose-official-prohibition-on-jundallah-and-splinter-groups-that-claim-responsibility-for-terror-attacks.xml)  
+
 ### [2017-01-8](/news/2017/01/8/index.md)
 
 # Pakistan has decided to impose official prohibition on Jundallah and splinter groups that claim responsibility for terror attacks. 
@@ -5,7 +8,7 @@
 ISLAMABAD: The government has decided to impose a ban on Jundullah and all the terrorist groups that claim responsibility for terror attacks. Sources said that the National Counter Terrorism...
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://dailytimes.com.pk/pakistan/08-Jan-17/govt-decides-to-slap-ban-on-jundullah)
 2. [The News](https://www.thenews.com.pk/print/177663-Govt-to-ban-Jundullah-other-terrorist-groups)

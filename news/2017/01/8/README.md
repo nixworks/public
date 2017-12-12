@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/8/index.html)  [JSON](2017/01/8/index.json)  [XML](2017/01/8/index.xml)  
+
 ## [2017-01-8](/news/2017/01/8/index.md)
 
 ### [A truck rams into a group of Israeli soldiers in a deliberate attack in East Jerusalem, killing four and wounding 21. The perpetrator was previously convicted of terrorism and was jailed for 10 years. ](/news/2017/01/8/a-truck-rams-into-a-group-of-israeli-soldiers-in-a-deliberate-attack-in-east-jerusalem-killing-four-and-wounding-21-the-perpetrator-was-pr.md)

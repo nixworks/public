@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/19/index.html)  [JSON](2017/01/19/index.json)  [XML](2017/01/19/index.xml)  
+
 ## [2017-01-19](/news/2017/01/19/index.md)
 
 ### [ISIL militants execute 12 people in Palmyra, according to the Syrian Observatory for Human Rights. ](/news/2017/01/19/isil-militants-execute-12-people-in-palmyra-according-to-the-syrian-observatory-for-human-rights.md)
@@ -7,10 +10,10 @@ Islamic State jihadists behead four people and shoot eight dead in the ancient S
 U.S. officials confirm that two Air Force stealth B-2 bombers struck two ISIS camps in Libya 28 miles south of Sirte on Wednesday night. One official called the airstrikes &quot;a huge success,&quot; with more than 80 ISIS fighters killed. The airstrikes targeted 80 to 100 ISIS fighters in multiple ...
 
 ### [Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the costs of buying-leasing a car when recruiting new drivers. ](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.md)
-Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to settle claims by the U.S. government that it exaggerated prospective earnings in seeking to recruit drivers and downplayed the costs of buying or leasing a car, documents filed with a federal court on Thursday showed.
+ Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to settle claims by the U.S. government that it exaggerated prospective earnings in se
 
 ### [A small plane carrying Brazilian Supreme Court Justice Teori Zavascki crashes into the sea near the tourist town of Paraty in the state of Rio de Janeiro, killing the magistrate and two other people. Zavascki had been handling the politically-charged Operation Car Wash corruption trials. ](/news/2017/01/19/a-small-plane-carrying-brazilian-supreme-court-justice-teori-zavascki-crashes-into-the-sea-near-the-tourist-town-of-paraty-in-the-state-of-r.md)
-_Context: Brazilian Supreme Court, Operation Car Wash, Paraty, Rio de Janeiro, Teori Zavascki_
+ Brazilian Supreme Court Justice Teori Zavascki, who was overseeing a graft investigation into scores of powerful politicians, was killed in a plane crash on Th
 
 ### [The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. ](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.md)
 The 17-story Plasco building in central Tehran has collapsed after a fire engulfed its top floors. Although the building was evacuated, dozens of emergency responders are feared trapped under the rubble.
@@ -40,7 +43,7 @@ Adama Barrow is sworn in as Gambian president in Senegal as strongman Yahya Jamm
 _Context: Martin McGuinness, Sinn Fein_
 
 ### [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md)
-_Context: Presidential transition of Donald Trump, Secretary of Agriculture, Sonny Perdue, Trump administration_
+_Context: Cabinet of Donald Trump, Presidential transition of Donald Trump, Secretary of Agriculture, Sonny Perdue_
 
 ## [Previous Day...](/news/2017/01/18/index.md)
 

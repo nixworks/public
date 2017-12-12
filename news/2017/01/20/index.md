@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/01/20/index.html)  [JSON](2017/01/20/index.json)  [XML](2017/01/20/index.xml)  
+
 ## [2017-01-20](/news/2017/01/20/index.md)
 
 ### [ISIL militants destroy part of Palmyra's ancient Roman theatre. ](/news/2017/01/20/isil-militants-destroy-part-of-palmyra-s-ancient-roman-theatre.md)
-An air strike killed more than 40 members of the jihadist group Jabhat Fateh al-Sham in northwestern Syria on Thursday night, the Syrian Observatory for Human Rights said.
+ An air strike killed more than 40 members of the jihadist group Jabhat Fateh al-Sham in northwestern Syria on Thursday night, the Syrian Observatory for Human 
 
 ### [The Woody Harrelson biopic "Lost in London" makes history as the first full-length feature film to be filmed and theatrically released simultaneously. ](/news/2017/01/20/the-woody-harrelson-biopic-lost-in-london-makes-history-as-the-first-full-length-feature-film-to-be-filmed-and-theatrically-released-simul.md)
 Woody Harrelson says he has no intention of making another live movie like Lost in London.
@@ -34,7 +37,7 @@ Donald J Trump has capped the day of his inauguration with dancing and celebrati
 The Gambian strongman Yahya Jammeh has agreed to step down, officials involved in negotiations say.
 
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Cabinet, Defense Secretary, Donald Trump, James Mattis, John F. Kelly, Secretary of Homeland Security, Trump administration, U.S. President_
+_Context: Cabinet, Cabinet of Donald Trump, Defense Secretary, Donald Trump, James Mattis, John F. Kelly, Secretary of Homeland Security, U.S. President_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

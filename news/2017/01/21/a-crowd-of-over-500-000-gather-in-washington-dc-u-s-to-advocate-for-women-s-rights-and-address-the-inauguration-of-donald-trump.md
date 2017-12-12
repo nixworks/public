@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.html)  [JSON](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.json)  [XML](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.xml)  
 
-* [HTML](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.html)
-* [JSON](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.json)
-* [XML](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump 

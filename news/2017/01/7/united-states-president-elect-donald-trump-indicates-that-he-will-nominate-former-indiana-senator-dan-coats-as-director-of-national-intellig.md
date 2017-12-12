@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.html)  [JSON](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.json)  [XML](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.xml)  
+
 ### [2017-01-7](/news/2017/01/7/index.md)
 
 # United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. 
@@ -5,10 +8,15 @@
 US President-elect Donald Trump names Dan Coats as his national intelligence director
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-38543124)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B96E/production/_93307474_mediaitem93307473.jpg)
+
+### Changes:
+
+1. [Presidential transition of Donald Trump: United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/presidential-transition-of-donald-trump-united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-d.md) _2017-08-27 03:47:34 (First version)_
+1. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ US President-elect Donald Trump names Dan Coats as his national intelligence dir
 3. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 4. [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md) _Context: Donald Trump, Presidential transition of Donald Trump_
 5. [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md) _Context: Donald Trump, Presidential transition of Donald Trump_
-
-### Changes:
-
-1. [Presidential transition of Donald Trump: United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/presidential-transition-of-donald-trump-united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-d.md) _2017-08-27 03:47:34 (First version)_
-1. [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.html)  [JSON](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.json)  [XML](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.xml)  
+
 ### [2017-01-7](/news/2017/01/7/index.md)
 
 # Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/breaking/20170107-portugal-former-president-mario-soares-dies-92)
 

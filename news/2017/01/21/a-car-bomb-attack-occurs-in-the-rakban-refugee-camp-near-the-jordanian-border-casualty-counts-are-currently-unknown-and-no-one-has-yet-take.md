@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.html)  [JSON](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.json)  [XML](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.xml)  
 
-* [HTML](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.html)
-* [JSON](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.json)
-* [XML](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.xml)
 ### [2017-01-21](/news/2017/01/21/index.md)
 
 # A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. 

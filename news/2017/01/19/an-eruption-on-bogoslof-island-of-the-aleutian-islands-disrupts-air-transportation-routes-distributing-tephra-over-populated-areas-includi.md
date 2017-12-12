@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-islands-disrupts-air-transportation-routes-distributing-tephra-over-populated-areas-includi.html)  [JSON](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-islands-disrupts-air-transportation-routes-distributing-tephra-over-populated-areas-includi.json)  [XML](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-islands-disrupts-air-transportation-routes-distributing-tephra-over-populated-areas-includi.xml)  
+
 ### [2017-01-19](/news/2017/01/19/index.md)
 
 # An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, 660 mi away from the volcano. 
@@ -5,7 +8,7 @@
 Pilots avoided the ash cloud, which rose to above 31,000 feet overnight Wednesday, but there were no reports of ash falling on land.
 
 
-### Source:
+### Sources:
 
 1. [Alaska Dispatch News](https://www.adn.com/alaska-news/aviation/2017/01/19/another-bogoslof-eruption-sends-ash-over-alaska-peninsula-kodiak-island/)
 1. [Cover Image](https://www.adn.com/resizer/WLyhVukTzuEIsreVKNozLkOZZ0g=/1200x0/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2017/01/19065207/1484788448.jpg?token=bar)

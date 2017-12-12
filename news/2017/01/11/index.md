@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/01/11/index.html)  [JSON](2017/01/11/index.json)  [XML](2017/01/11/index.xml)  
+
 ## [2017-01-11](/news/2017/01/11/index.md)
 
 ### [At least 11 people are killed in a bombing in Kandahar, including five UAE diplomats. ](/news/2017/01/11/at-least-11-people-are-killed-in-a-bombing-in-kandahar-including-five-uae-diplomats.md)
 Bombing in Kandahar kills seven people, including five UAE diplomats, and wounds Ambassador Juma al-Kaabi.
 
 ### [Taiwan scrambles navy ships and jets as Chinese warships, led by the aircraft carrier "Liaoning", sail through the Taiwan Strait following exercises in the South China Sea. ](/news/2017/01/11/taiwan-scrambles-navy-ships-and-jets-as-chinese-warships-led-by-the-aircraft-carrier-liaoning-sail-through-the-taiwan-strait-following-e.md)
-Taiwan scrambled jets and navy ships on Wednesday as a group of Chinese warships, led by its sole aircraft carrier, sailed through the Taiwan Strait, the latest sign of heightened tension between Beijing and the self-ruled island.
+ Taiwan scrambled jets and navy ships on Wednesday as a group of Chinese warships, led by its sole aircraft carrier, sailed through the Taiwan Strait, the lates
 
 ### [ The Elbphilharmonie concert hall in Hamburg, Germany is officially inaugurated with light shows and concerts of the Elbphilharmonie Orchestra. ](/news/2017/01/11/the-elbphilharmonie-concert-hall-in-hamburg-germany-is-officially-inaugurated-with-light-shows-and-concerts-of-the-elbphilharmonie-orchest.md)
 _Context: Elbphilharmonie, Elbphilharmonie Orchestra, Hamburg_
@@ -22,7 +25,7 @@ _Context: Crime in El Salvador, El Salvador, homicide rate_
 The president-elect is sure be asked about unverified reports that Russia has gathered potentially compromising information on him
 
 ### [The Special Inspector General for Afghanistan Reconstruction releases a report on Afghanistan, saying that the Afghan Armed Forces are not capable of securing the country and have lost more territory to the Taliban, the most since the United States invasion of Afghanistan in 2001. ](/news/2017/01/11/the-special-inspector-general-for-afghanistan-reconstruction-releases-a-report-on-afghanistan-saying-that-the-afghan-armed-forces-are-not-c.md)
-_Context: Afghanistan, Special Inspector General for Afghanistan Reconstruction, Taliban, United States invasion of Afghanistan, military personnel_
+_Context: Afghan, Special Inspector General for Afghanistan Reconstruction, Taliban, United States invasion of Afghanistan, military personnel_
 
 ### [Norway becomes the first country to start a complete switch-off of national FM radio stations. The change, from the analogue FM system to digital audio broadcasting, is expected to be completed by the end of the year. Some, such as the Norwegian Local Radio Association, are concerned about the impact on motorists and the elderly. ](/news/2017/01/11/norway-becomes-the-first-country-to-start-a-complete-switch-off-of-national-fm-radio-stations-the-change-from-the-analogue-fm-system-to-di.md)
 From this week, Norway will start switching off its national FM network, forcing people to switch to digital audio broadcasting (DAB) or miss out

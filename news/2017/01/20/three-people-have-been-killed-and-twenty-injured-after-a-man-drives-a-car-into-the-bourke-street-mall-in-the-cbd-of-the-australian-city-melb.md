@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.html)  [JSON](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.json)  [XML](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.xml)  
+
 ### [2017-01-20](/news/2017/01/20/index.md)
 
 # Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Yahoo! Australia](https://au.news.yahoo.com/a/34233875/man-kills-three-injures-20-in-bourke-st/#page1)
 2. [Nine Network](http://www.9news.com.au/National/2017/01/20/13/41/Number-of-pedestrians-injured-in-Melbourne-cbd)

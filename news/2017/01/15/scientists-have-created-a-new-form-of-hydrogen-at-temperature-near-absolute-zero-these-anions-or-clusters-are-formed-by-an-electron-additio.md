@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/15/scientists-have-created-a-new-form-of-hydrogen-at-temperature-near-absolute-zero-these-anions-or-clusters-are-formed-by-an-electron-additio.html)  [JSON](/news/2017/01/15/scientists-have-created-a-new-form-of-hydrogen-at-temperature-near-absolute-zero-these-anions-or-clusters-are-formed-by-an-electron-additio.json)  [XML](/news/2017/01/15/scientists-have-created-a-new-form-of-hydrogen-at-temperature-near-absolute-zero-these-anions-or-clusters-are-formed-by-an-electron-additio.xml)  
+
 ### [2017-01-15](/news/2017/01/15/index.md)
 
 # Scientists have created a new form of hydrogen at temperature near absolute zero. These anions or clusters are formed by an electron addition to liquid helium nanodroplets doped with molecular hydrogen or deuterium. 
@@ -5,7 +8,7 @@
 As the element that makes up 75 percent of all the mass in the Universe, and more than 90 percent of all the atoms, we’re all pretty well acquainted with hydrogen.
 
 
-### Source:
+### Sources:
 
 1. [Science Alert](http://www.sciencealert.com/physicists-have-created-a-new-form-of-hydrogen)
 2. [Science News](https://www.sciencenews.org/article/new-form-hydrogen-created)

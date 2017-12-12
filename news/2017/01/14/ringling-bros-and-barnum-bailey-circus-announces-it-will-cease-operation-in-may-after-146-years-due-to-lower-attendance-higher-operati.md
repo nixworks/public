@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announces-it-will-cease-operation-in-may-after-146-years-due-to-lower-attendance-higher-operati.html)  [JSON](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announces-it-will-cease-operation-in-may-after-146-years-due-to-lower-attendance-higher-operati.json)  [XML](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announces-it-will-cease-operation-in-may-after-146-years-due-to-lower-attendance-higher-operati.xml)  
+
 ### [2017-01-14](/news/2017/01/14/index.md)
 
 #  Ringling Bros. and Barnum & Bailey Circus announces it will cease operation in May after 146 years, due to lower attendance, higher operating costs and protests from animal rights activists. 
@@ -5,7 +8,7 @@
 After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.&quot; The owner of the Ringling Bros. and Barnum &amp; Bailey Circus told The Associated Press that the show will close forever in May. The circus will be visiting Baltimore for the last time at Royal Farms Arena April 20, 2017 - April 30, 2017.
 
 
-### Source:
+### Sources:
 
 1. [CBS News - Baltimore](http://baltimore.cbslocal.com/2017/01/14/ringling-bros-and-barnum-bailey-circus-due-to-close-in-may-after-146-years/)
 1. [Cover Image](https://cbsbaltimore.files.wordpress.com/2016/05/480667600.jpg?w=594)

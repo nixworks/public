@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/22/index.html)  [JSON](2017/01/22/index.json)  [XML](2017/01/22/index.xml)  
+
 ## [2017-01-22](/news/2017/01/22/index.md)
 
 ### [A 7.9 magnitude earthquake hits west of Panguna, Papua New Guinea, beneath Bougainville Island. No immediate reports of casualties or major damage. Tsunami alert for Papua New Guinea and the Solomon Islands is rescinded. ](/news/2017/01/22/a-7-9-magnitude-earthquake-hits-west-of-panguna-papua-new-guinea-beneath-bougainville-island-no-immediate-reports-of-casualties-or-major.md)
@@ -10,7 +13,7 @@ Chile has requested international help to deal with forest fires.
 Seven of those killed were in a Georgia trailer park apparently struck by a tornado.
 
 ### [A shootout between armed robbers and civilian bystanders at the Rolling Oaks Mall in San Antonio, Texas, U.S., leaves one dead and seven wounded. ](/news/2017/01/22/a-shootout-between-armed-robbers-and-civilian-bystanders-at-the-rolling-oaks-mall-in-san-antonio-texas-u-s-leaves-one-dead-and-seven-wou.md)
-A bystander to a botched robbery at a Texas jewelry store was killed on Sunday, before one of the two robbers involved shot and wounded six other people while fleeing, police said on Sunday.
+ A bystander to a botched robbery at a Texas jewelry store was killed on Sunday, before one of the two robbers involved shot and wounded six other people while 
 
 ### [Mauritian Prime Minister Anerood Jugnauth announces his intention to resign on Monday and hand power over to his son, Pravind Jugnauth. ](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.md)
 _Context: Anerood Jugnauth, Mauritian Prime Minister, Pravind Jugnauth_
@@ -19,7 +22,7 @@ _Context: Anerood Jugnauth, Mauritian Prime Minister, Pravind Jugnauth_
 &quot;Now we can build,&quot; a Jerusalem official says, as a staunch Israel supporter takes office in the US.
 
 ### [Voting takes place in the first round of the French Socialist Party presidential primary to select a candidate to run in this year's presidential election. ](/news/2017/01/22/voting-takes-place-in-the-first-round-of-the-french-socialist-party-presidential-primary-to-select-a-candidate-to-run-in-this-year-s-preside.md)
-Benoit Hamon, a former Socialist government rebel won the first round of a primary on Sunday and will meet ex-prime minister Manuel Valls in a runoff to decide who will be the candidate of the beleaguered left in a presidential election in spring.
+ Benoit Hamon, a former Socialist government rebel won the first round of a primary on Sunday and will meet ex-prime minister Manuel Valls in a runoff to decide
 
 ### [The Indian state government of Tamil Nadu lifts its ban on the sport of Jallikattu, following five days of protests by demonstrators against the ban. ](/news/2017/01/22/the-indian-state-government-of-tamil-nadu-lifts-its-ban-on-the-sport-of-jallikattu-following-five-days-of-protests-by-demonstrators-against.md)
 _Context: India, Jallikattu, Tamil Nadu_

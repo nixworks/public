@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.html)  [JSON](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.json)  [XML](/news/2017/01/11/reuters-reports-on-the-basis-of-anonymous-chinese-bankers-that-the-state-administration-of-foreign-exchange-is-instructing-them-to-keep-qu.xml)  
+
 ### [2017-01-11](/news/2017/01/11/index.md)
 
 # Reuters reports, on the basis of anonymous Chinese bankers, that the State Administration of Foreign Exchange is instructing them to keep quiet about any negative analysis of prospects for the yuan. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/uk-china-regulator-banks-exclusive-idUSKBN14V0CP)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170111&t=2&i=1168328340&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0A0E6)
+1. [Reuters](https://www.reuters.com/article/uk-china-regulator-banks-exclusive-idUSKBN14V0CP)
+1. [Cover Image](/resources/r/?m=02&d=20170111&t=2&i=1168328340&w=400&r=LYNXMPED0A0E6)
 
 ### Related:
 

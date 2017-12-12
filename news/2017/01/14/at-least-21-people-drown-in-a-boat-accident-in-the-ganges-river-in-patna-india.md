@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/14/at-least-21-people-drown-in-a-boat-accident-in-the-ganges-river-in-patna-india.html)  [JSON](/news/2017/01/14/at-least-21-people-drown-in-a-boat-accident-in-the-ganges-river-in-patna-india.json)  [XML](/news/2017/01/14/at-least-21-people-drown-in-a-boat-accident-in-the-ganges-river-in-patna-india.xml)  
+
 ### [2017-01-14](/news/2017/01/14/index.md)
 
 # At least 21 people drown in a boat accident in the Ganges River in Patna, India. 
@@ -5,7 +8,7 @@
 According to sources, it was a small boat which was overloaded with people 
 
 
-### Source:
+### Sources:
 
 1. [News 18 India](http://www.news18.com/news/india/patna-boat-accident-at-least-15-drown-several-missing-nitish-orders-probe-1335825.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2017/01/PATNA-BOAT_SHOT_1.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/15/index.html)  [JSON](2017/01/15/index.json)  [XML](2017/01/15/index.xml)  
+
 ## [2017-01-15](/news/2017/01/15/index.md)
 
 ### [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md)

@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.html)  [JSON](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.json)  [XML](/news/2017/01/19/uber-agrees-to-pay-20-million-to-settle-u-s-federal-trade-commission-claims-the-company-exaggerated-prospective-earnings-and-downplayed-th.xml)  
+
 ### [2017-01-19](/news/2017/01/19/index.md)
 
 # Uber agrees to pay $20 million to settle U.S. Federal Trade Commission claims the company exaggerated prospective earnings and downplayed the costs of buying-leasing a car when recruiting new drivers. 
 
-Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to settle claims by the U.S. government that it exaggerated prospective earnings in seeking to recruit drivers and downplayed the costs of buying or leasing a car, documents filed with a federal court on Thursday showed.
+ Ride-hailing company Uber Technologies Inc has agreed to pay $20 million to settle claims by the U.S. government that it exaggerated prospective earnings in se
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-uber-ftc-idUSKBN15334C)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170119&t=2&i=1169400743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0I1PW)
+1. [Reuters](https://www.reuters.com/article/us-uber-ftc-idUSKBN15334C)
+1. [Cover Image](/resources/r/?m=02&d=20170119&t=2&i=1169400743&w=400&r=LYNXMPED0I1PW)
 
 ### Related:
 

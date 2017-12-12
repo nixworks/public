@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/6/russia-begins-to-withdraw-its-forces-from-syria-with-its-aircraft-carrier-battle-group-being-the-first-to-leave-the-united-nations-says-th.html)  [JSON](/news/2017/01/6/russia-begins-to-withdraw-its-forces-from-syria-with-its-aircraft-carrier-battle-group-being-the-first-to-leave-the-united-nations-says-th.json)  [XML](/news/2017/01/6/russia-begins-to-withdraw-its-forces-from-syria-with-its-aircraft-carrier-battle-group-being-the-first-to-leave-the-united-nations-says-th.xml)  
+
 ### [2017-01-6](/news/2017/01/6/index.md)
 
 # Russia begins to withdraw its forces from Syria, with its aircraft carrier battle group being the first to leave. The United Nations says the ceasefire is "largely holding". 
@@ -5,7 +8,7 @@
 Russia begins reducing its forces in Syria, starting with its aircraft carrier group, the military says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-38528654)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1749C/production/_93288359_admkuznetsovreuters.jpg)
