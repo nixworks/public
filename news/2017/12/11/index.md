@@ -39,7 +39,7 @@ President Macron under pressure to negotiate after nationalists demand talks in 
 ### [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md)
 Scientists re-measure the tallest mountains in the Antarctic territory claimed by Britain.
 
-### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a manned mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-manned-mission-to-the-moon-while-als.md)
+### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md)
  At a time when China is working on an ambitious lunar program, President Donald Trump vowed on Monday that the United States will remain the leader in space ex
 
 ## [Previous Day...](/news/2017/12/10/index.md)

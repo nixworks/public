@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/27/protests-take-place-in-cameroon-following-the-arrest-of-several-opposition-leaders-and-internet-services-being-cut-off-in-the-nation-s-engli.html)  [JSON](/news/2017/01/27/protests-take-place-in-cameroon-following-the-arrest-of-several-opposition-leaders-and-internet-services-being-cut-off-in-the-nation-s-engli.json)  [XML](/news/2017/01/27/protests-take-place-in-cameroon-following-the-arrest-of-several-opposition-leaders-and-internet-services-being-cut-off-in-the-nation-s-engli.xml)  
+
 ### [2017-01-27](/news/2017/01/27/index.md)
 
 # Protests take place in Cameroon following the arrest of several opposition leaders and internet services being cut off in the nation's English-speaking areas. 
@@ -5,7 +8,7 @@
 Opposition leaders have been arrested and the internet has been cut in English-speaking regions for more than a week.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/programmes/insidestory/2017/01/cameroon-english-speakers-170127041221360.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2017/1/27/477af900a0824b69b8d93f7c0696bf7e_18.jpg)

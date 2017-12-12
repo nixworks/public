@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/26/ard-van-der-steur-the-minister-of-security-and-justice-of-the-netherlands-resigns-after-allegedly-misinforming-the-house-of-representatives.html)  [JSON](/news/2017/01/26/ard-van-der-steur-the-minister-of-security-and-justice-of-the-netherlands-resigns-after-allegedly-misinforming-the-house-of-representatives.json)  [XML](/news/2017/01/26/ard-van-der-steur-the-minister-of-security-and-justice-of-the-netherlands-resigns-after-allegedly-misinforming-the-house-of-representatives.xml)  
+
 ### [2017-01-26](/news/2017/01/26/index.md)
 
 # Ard van der Steur the Minister of Security and Justice of the Netherlands resigns after allegedly misinforming the House of Representatives over the fallout of a payments scandal. 
@@ -5,7 +8,7 @@
 The resignation of Ard van der Steur weakens the government of Mark Rutte ahead of an election.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-38761549)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/14977/production/_93834348_hi037529098.jpg)

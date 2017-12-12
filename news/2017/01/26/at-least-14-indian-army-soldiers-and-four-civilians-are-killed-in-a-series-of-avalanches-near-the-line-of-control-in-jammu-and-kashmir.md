@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.html)  [JSON](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.json)  [XML](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.xml)  
+
 ### [2017-01-26](/news/2017/01/26/index.md)
 
 # At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. 
@@ -5,7 +8,7 @@
 The troops died in two separate incidents near the Line of Control dividing the disputed territory.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-38758340)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1105A/production/_93822796_3d3ebbb5-c5b9-4e8d-bc19-26ab2a298f2f.jpg)

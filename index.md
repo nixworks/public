@@ -39,7 +39,7 @@ President Macron under pressure to negotiate after nationalists demand talks in 
 ### [Mount Hope, in a disputed region of Antarctica, is found to be the highest mountain in territory claimed by the United Kingdom. Ben Nevis in Scotland is the highest mountain in the United Kingdom. ](/news/2017/12/11/mount-hope-in-a-disputed-region-of-antarctica-is-found-to-be-the-highest-mountain-in-territory-claimed-by-the-united-kingdom-ben-nevis-in.md)
 Scientists re-measure the tallest mountains in the Antarctic territory claimed by Britain.
 
-### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a manned mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-manned-mission-to-the-moon-while-als.md)
+### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md)
  At a time when China is working on an ambitious lunar program, President Donald Trump vowed on Monday that the United States will remain the leader in space ex
 
 ---
@@ -77,7 +77,7 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 ### [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md)
 A mummy dating back about 3,500 years is among items discovered in the two tombs.
 
-### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140.000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
+### [The 1.6-hectare populated hamlet of Alwine in Uebigau-Wahrenbruck district, Germany, is sold for 140,000 EUR at a public auction. ](/news/2017/12/9/the-1-6-hectare-populated-hamlet-of-alwine-in-uebigau-wahrenbra1-4ck-district-germany-is-sold-for-140-000-a-at-a-public-auction.md)
 Its empty homes and ageing residents mirror the wider fate of east German hinterlands.
 
 ---

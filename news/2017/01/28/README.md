@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/28/index.html)  [JSON](2017/01/28/index.json)  [XML](2017/01/28/index.xml)  
+
 ## [2017-01-28](/news/2017/01/28/index.md)
 
 ### [The World Food Programme cuts food aid to over 1.4 million displaced Iraqis by 50%, citing payment delays from donor states. ](/news/2017/01/28/the-world-food-programme-cuts-food-aid-to-over-1-4-million-displaced-iraqis-by-50-citing-payment-delays-from-donor-states.md)
@@ -16,7 +19,7 @@ Prime minister also uses last leg of diplomatic tour to issue warning to Turkish
 The ACLU filed a legal challenge to President Donald Trump&#039;s order to deny U.S. entry to refugees from seven countries.
 
 ### [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md)
-An Italian court on Saturday ordered ex-prime minister Silvio Berlusconi to stand trial on charges he bribed witnesses to silence them over accusations he paid for sex with young women.
+ An Italian court on Saturday ordered ex-prime minister Silvio Berlusconi to stand trial on charges he bribed witnesses to silence them over accusations he paid
 
 ## [Previous Day...](/news/2017/01/27/index.md)
 

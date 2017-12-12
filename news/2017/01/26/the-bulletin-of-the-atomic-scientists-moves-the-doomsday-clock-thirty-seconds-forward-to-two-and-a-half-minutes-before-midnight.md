@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/26/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-and-a-half-minutes-before-midnight.html)  [JSON](/news/2017/01/26/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-and-a-half-minutes-before-midnight.json)  [XML](/news/2017/01/26/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-and-a-half-minutes-before-midnight.xml)  
+
 ### [2017-01-26](/news/2017/01/26/index.md)
 
 # The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two and a half minutes before midnight. 
@@ -5,7 +8,7 @@
 The Bulletin of Atomic Scientists singled out President Trump in noting that the symbolic clock has moved 30 seconds closer to the end of humanity.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/01/26/the-doomsday-clock-just-moved-again-its-now-two-and-a-half-minutes-to-midnight/)
 

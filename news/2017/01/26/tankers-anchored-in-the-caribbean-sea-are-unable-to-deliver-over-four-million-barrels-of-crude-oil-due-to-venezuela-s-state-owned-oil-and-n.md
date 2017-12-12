@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.html)  [JSON](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.json)  [XML](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.xml)  
+
 ### [2017-01-26](/news/2017/01/26/index.md)
 
 # Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. 
 
-More than 4 million barrels of Venezuelan crude and fuels are sitting in tankers anchored in the Caribbean sea, unable to reach their final destination because state-run PDVSA cannot pay for hull cleaning, inspections, and other port services, according to internal documents and Reuters data.
+ More than 4 million barrels of Venezuelan crude and fuels are sitting in tankers anchored in the Caribbean sea, unable to reach their final destination because
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-pdvsa-tankers-idUSKBN15A0JA)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170126&t=2&i=1170220909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0P0AO)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-pdvsa-tankers-idUSKBN15A0JA)
+1. [Cover Image](/resources/r/?m=02&d=20170126&t=2&i=1170220909&w=400&r=LYNXMPED0P0AO)
 
 ### Related:
 
