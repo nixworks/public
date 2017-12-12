@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.html)  [JSON](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.json)  [XML](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.xml)  
+
 ### [2017-01-31](/news/2017/01/31/index.md)
 
 # Consultancy PwC says that global banks with business both in London and on the European continent must plan for a hard Brexit that entails a break with many of the benefits of the Euro system, and a short transition period. 
 
-Global banks must plan for a &quot;hard&quot; Brexit or risk breaching regulatory requirements and disrupting business, according to an industry report seen by Reuters, the first since Prime Minister May said she would take Britain out of the single market.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-britain-eu-banks-idUSKBN15F1XQ)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170131&t=2&i=1170881180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED0U0ZA)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/article/us-britain-eu-banks-idUSKBN15F1XQ)
+1. [Cover Image](/resources/r/?m=02&d=20170131&t=2&i=1170881180&w=400&r=LYNXMPED0U0ZA)
 
 ### Related:
 

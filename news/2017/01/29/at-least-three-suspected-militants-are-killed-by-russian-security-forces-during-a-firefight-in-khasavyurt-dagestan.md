@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.html)  [JSON](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.json)  [XML](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.xml)  
+
 ### [2017-01-29](/news/2017/01/29/index.md)
 
 # At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/three-suspected-militants-killed-daghestan/28265863.html)
+
+### Changes:
+
+1. [Insurgency in the North Caucasus: At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/insurgency-in-the-north-caucasus-at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt.md) _2017-08-27 03:47:43 (First version)_
+1. [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
 4. [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
 5. [Insurgency in the North Caucasus: Five policemen are killed in a female suicide bombing by the widow of a killed Islamic militant in Dagestan, Russia. ](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.md) _Context: Dagestan, Insurgency in the North Caucasus, Russia_
-
-### Changes:
-
-1. [Insurgency in the North Caucasus: At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/insurgency-in-the-north-caucasus-at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt.md) _2017-08-27 03:47:43 (First version)_
-1. [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md) _(Current version)_

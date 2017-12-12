@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/01/30/index.html)  [JSON](2017/01/30/index.json)  [XML](2017/01/30/index.xml)  
+
 ## [2017-01-30](/news/2017/01/30/index.md)
 
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)
@@ -7,7 +10,7 @@ _Context: Pro-Russian militants, Ukrainian military, War in Donbass, since Sunda
 _Context: Deir ez-Zor Governorate, ISIL, Russian Defence Ministry, Russian military intervention, Syria_
 
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
-_Context: Chechnya, Insurgency in the North Caucasus, Russian police, Shali_
+_Context: Chechnya, Insurgency in the North Caucasus, Russian authorities, Shali_
 
 ### [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md)
 A suspected U.S. drone strike killed two men believed to be al-Qaeda militants in central Yemen, local officials said early on Monday, hours after American commandos carried out the first military operation authorized by President Donald Trump. 
@@ -22,7 +25,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 _Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippines_
 
 ### [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-regul.md)
-Drugstore chain Walgreens Boots Alliance Inc (WBA.O) said its deal to buy smaller rival Rite Aid Corp (RAD.N) would now take six months longer to close and also reduced its offer price as it expects to divest more stores to gain regulatory approval.
+ Drugstore chain Walgreens Boots Alliance Inc said its deal to buy smaller rival Rite Aid Corp would now take six months longer to close and also reduced its of
 
 ### [Several avalanches in Gorno-Badakhshan, Tajikistan, caused by heavy snowfall over the weekend, leave at least seven people dead. ](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.md)
 _Context: Gorno-Badakhshan, Tajikistan_
@@ -31,7 +34,7 @@ _Context: Gorno-Badakhshan, Tajikistan_
 The petition suggested it should be canceled &quot;because it would cause embarrassment&quot; to Queen Elizabeth II.
 
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: ISIL, Iraq, Iraq-United States relations, Iraqi Parliament, President Donald Trump's travel ban, United States_
+_Context: Executive Order 13769, ISIL, Iraq, Iraq-United States relations, Iraqi Parliament, U.S._
 
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)
 The Philippine police are to suspend their controversial war on drugs until &ldquo;corrupt&rdquo; officers can be rooted out, the chief of the force said on Monday, following the killing of a South Korean businessman.

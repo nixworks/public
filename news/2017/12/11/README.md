@@ -6,8 +6,8 @@ Formats: [HTML](2017/12/11/index.html)  [JSON](2017/12/11/index.json)  [XML](201
 ### [An attempted terrorist attack occurs when a homemade pipe bomb worn by a man exploded near New York City's Port Authority Bus Terminal. Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. ](/news/2017/12/11/an-attempted-terrorist-attack-occurs-when-a-homemade-pipe-bomb-worn-by-a-man-exploded-near-new-york-city-s-port-authority-bus-terminal-thre.md)
 A suspect was in custody after a blast forced evacuations of the Port Authority and the Port Authority and Times Square subway stations.
 
-### [During a visit to Syria, his first, President Vladimir Putin announces that Russian forces will withdraw from Syria now that ISIL has been defeated in the country. ](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vladimir-putin-announces-that-russian-forces-will-withdraw-from-syria-now-that-isil-has-been-d.md)
-Russian President Vladimir Putin ordered the withdrawal of Russian troops from Syria during a surprise visit to Khmeimim Airbase.
+### [During a visit to Syria, his first, President Vladimir Putin announces that a significant part of Russian forces will withdraw from Syria now that ISIL has been defeated in the country. ](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vladimir-putin-announces-that-a-significant-part-of-russian-forces-will-withdraw-from-syria-no.md)
+Russia begins withdrawing some of its troops from Syria, as President Putin visits the country.
 
 ### [The Ministry of Culture of Saudi Arabia announces that it will lift a ban on commercial cinemas that has lasted more than three decades. ](/news/2017/12/11/the-ministry-of-culture-of-saudi-arabia-announces-that-it-will-lift-a-ban-on-commercial-cinemas-that-has-lasted-more-than-three-decades.md)
 _Context: Cinema of Saudi Arabia, Ministry of Culture of Saudi Arabia_

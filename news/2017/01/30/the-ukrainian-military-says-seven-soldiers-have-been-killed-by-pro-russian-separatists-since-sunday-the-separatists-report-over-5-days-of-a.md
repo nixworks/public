@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.html)  [JSON](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.json)  [XML](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.xml)  
+
 ### [2017-01-30](/news/2017/01/30/index.md)
 
 # The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-ukriane-crisis-casualties-idUSKBN15E0QS)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-ukriane-crisis-casualties-idUSKBN15E0QS)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of.md) _2017-08-25 03:47:18 (First version)_
+2. [War in Donbass: The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/war-in-donbass-the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report.md) _2017-08-27 03:47:43 (Update)_
+2. [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md) _Context: Ukrainian military, War in Donbass_
 4. [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md) _Context: Ukrainian military, War in Donbass_
 5. [Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _Context: Ukrainian military, War in Donbass_
-
-### Changes:
-
-1. [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of.md) _2017-08-25 03:47:18 (First version)_
-2. [War in Donbass: The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/war-in-donbass-the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report.md) _2017-08-27 03:47:43 (Update)_
-2. [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md) _(Current version)_

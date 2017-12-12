@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.html)  [JSON](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.json)  [XML](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.xml)  
+
 ### [2017-01-30](/news/2017/01/30/index.md)
 
 # Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. 
@@ -5,10 +8,15 @@
 The once-powerful tycoon is sent to a high security prison in Rio, accused of paying bribes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-38796393)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/7AFE/production/_93868413_mediaitem93880572.jpg)
+
+### Changes:
+
+1. [Operation Car Wash: Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/operation-car-wash-brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-g.md) _2017-08-27 03:47:43 (First version)_
+1. [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The once-powerful tycoon is sent to a high security prison in Rio, accused of pa
 3. [Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-foreign-bribery-laws-i.md) _Context: Brazil, Operation Car Wash_
 4. [Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. ](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.md) _Context: Rio de Janeiro, Sergio Cabral Filho_
 5. [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md) _Context: Brazil, Operation Car Wash_
-
-### Changes:
-
-1. [Operation Car Wash: Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/operation-car-wash-brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-g.md) _2017-08-27 03:47:43 (First version)_
-1. [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md) _(Current version)_

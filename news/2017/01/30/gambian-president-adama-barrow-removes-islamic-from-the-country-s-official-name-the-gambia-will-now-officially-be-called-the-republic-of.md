@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/30/gambian-president-adama-barrow-removes-islamic-from-the-country-s-official-name-the-gambia-will-now-officially-be-called-the-republic-of.html)  [JSON](/news/2017/01/30/gambian-president-adama-barrow-removes-islamic-from-the-country-s-official-name-the-gambia-will-now-officially-be-called-the-republic-of.json)  [XML](/news/2017/01/30/gambian-president-adama-barrow-removes-islamic-from-the-country-s-official-name-the-gambia-will-now-officially-be-called-the-republic-of.xml)  
+
 ### [2017-01-30](/news/2017/01/30/index.md)
 
 # Gambian President Adama Barrow removes "Islamic" from the country's official name. The Gambia will now officially be called The Republic of The Gambia. Barrow also vows to reform the National Intelligence Agency, accused by human rights groups of forced disappearances and torture under Yahya Jammeh. 
@@ -5,7 +8,7 @@
 Gambian new President, Adama Barrow has removed the word &quot;Islamic&quot; from Gambia&#39;s official name.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/gambia-president-adama-barrow-pl|edges-reforms-170128194124520.html)
 2. [All Africa](http://allafrica.com/stories/201701300021.html)

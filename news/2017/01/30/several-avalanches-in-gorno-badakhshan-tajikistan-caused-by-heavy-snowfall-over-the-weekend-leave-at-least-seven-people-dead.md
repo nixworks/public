@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.html)  [JSON](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.json)  [XML](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.xml)  
+
 ### [2017-01-30](/news/2017/01/30/index.md)
 
 # Several avalanches in Gorno-Badakhshan, Tajikistan, caused by heavy snowfall over the weekend, leave at least seven people dead. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/tajikistan-avalanches-7-dead/28267476.html)
 

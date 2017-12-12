@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/01/29/index.html)  [JSON](2017/01/29/index.json)  [XML](2017/01/29/index.xml)  
+
 ## [2017-01-29](/news/2017/01/29/index.md)
 
 ### [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md)
-A U.S. commando died and three others were wounded carrying out a deadly dawn raid on the al Qaeda militant group in southern Yemen on Sunday, in the first military operation authorized by President Donald Trump.
+ A U.S. commando died and three others were wounded carrying out a deadly dawn raid on the al Qaeda militant group in southern Yemen on Sunday, in the first mil
 
 ### [The Syrian Army recaptures all of the towns and villages in the Barada river valley near Damascus from rebel forces. ](/news/2017/01/29/the-syrian-army-recaptures-all-of-the-towns-and-villages-in-the-barada-river-valley-near-damascus-from-rebel-forces.md)
 The advance of government forces comes a week after fruitless negotiations between Damascus and rebels in Astana.
