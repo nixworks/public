@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/26/index.html)  [JSON](2017/03/26/index.json)  [XML](2017/03/26/index.xml)  
+
 ## [2017-03-26](/news/2017/03/26/index.md)
 
 ### [A Ukrainian military Mi-2 transport helicopter crashes after hitting a power line near Kramatorsk, Donetsk Oblast, killing all five people aboard. ](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.md)
@@ -7,7 +10,7 @@ _Context: Donetsk Oblast, Kramatorsk, Mi-2, Ukrainian military_
 _Context: Cincinnati, Ohio_
 
 ### [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md)
-Russian police detained opposition leader Alexei Navalny in central Moscow on Sunday at a rally which Navalny had called to protest against corruption.
+ Russian police detained opposition leader Alexei Navalny in central Moscow on Sunday at a rally which Navalny had called to protest against corruption.
 
 ### [Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls-predict-a-close-contest-between-borisso.md)
 _Context: Boyko Borissov, Bulgaria, Bulgarian parliamentary election, 2017, GERB, Prime Minister, Socialist Party_

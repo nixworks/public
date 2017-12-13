@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-and-injures-fourteen-others.html)  [JSON](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-and-injures-fourteen-others.json)  [XML](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-and-injures-fourteen-others.xml)  
+
 ### [2017-03-26](/news/2017/03/26/index.md)
 
 # A shooting in Cincinnati, Ohio, kills one person and injures fourteen others. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/03/26/us/ohio-nightclub-shooting/index.html)
 

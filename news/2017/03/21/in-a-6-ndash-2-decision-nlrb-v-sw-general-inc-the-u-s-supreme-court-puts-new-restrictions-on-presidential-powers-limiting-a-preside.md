@@ -10,8 +10,8 @@ Formats: [HTML](/news/2017/03/21/in-a-6-ndash-2-decision-nlrb-v-sw-general-inc-t
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-executive-idUSKBN16S25E)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170321&t=2&i=1177428990&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2K1DI)
+1. [Reuters](https://www.reuters.com/article/us-usa-court-executive-idUSKBN16S25E)
+1. [Cover Image](/resources/r/?m=02&d=20170321&t=2&i=1177428990&w=400&r=LYNXMPED2K1DI)
 
 ### Changes:
 
@@ -20,8 +20,8 @@ Formats: [HTML](/news/2017/03/21/in-a-6-ndash-2-decision-nlrb-v-sw-general-inc-t
 
 ### Related:
 
-1. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Donald Trump, U.S. Senator_
-2. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _Context: Donald Trump, United States Supreme Court_
+1. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Donald Trump, United States Senate_
+2. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _Context: Donald Trump, Supreme Court of the United States_
 3. [U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-durin.md) _Context: Barack Obama, Donald Trump_
-4. [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md) _Context: United States Supreme Court, rules_
-5. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md) _Context: U.S. Senator, United States Supreme Court_
+4. [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md) _Context: Supreme Court of the United States, rules_
+5. [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md) _Context: Supreme Court of the United States, United States Senate_

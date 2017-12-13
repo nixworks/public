@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.html)  [JSON](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.json)  [XML](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronaut-thomas-pesquet-take-a-spacewalk-outside-of-the-international-space-station-to-prepare-the-v.xml)  
+
 ### [2017-03-24](/news/2017/03/24/index.md)
 
 # NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. 
@@ -5,7 +8,7 @@
 Two astronauts are taking a spacewalk outside the International Space Station today (March 24) to prepare the outpost for a new docking ring among other upgrades.
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/36198-space-station-astronauts-march-24-spacewalk-webcast.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA2My85MjYvb3JpZ2luYWwvZXhwZWRpdGlvbi01MC1zcGFjZXdhbGstcHJlcC1qYW4tMTMtMjAxNy5qcGc=)

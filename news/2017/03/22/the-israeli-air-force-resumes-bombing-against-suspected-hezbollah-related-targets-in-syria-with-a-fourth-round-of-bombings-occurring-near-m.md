@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.html)  [JSON](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.json)  [XML](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.xml)  
+
 ### [2017-03-22](/news/2017/03/22/index.md)
 
 # The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Financial Times](https://www.ft.com/content/e5625674-0ee6-11e7-b030-768954394623)
+
+### Changes:
+
+1. [March 2017 Israel-Syria incident: The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/march-2017-israel-syria-incident-the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourt.md) _2017-08-27 03:48:01 (First version)_
+1. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The Israeli Air Force reportedly conducts an airstrike near Damascus International Airport, in Syria's capital, the target apparently a weapons shipment reportedly intended for Lebanese terrorist organization Hezbollah, according to Syrian opposition groups. ](/news/2015/11/11/the-israeli-air-force-reportedly-conducts-an-airstrike-near-damascus-international-airport-in-syria-s-capital-the-target-apparently-a-weap.md) _Context: Hezbollah, Israeli Air Force, Syria_
 4. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Israeli Air Force, Syria_
 5. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: March 2017 Israel-Syria incident, Syria_
-
-### Changes:
-
-1. [March 2017 Israel-Syria incident: The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/march-2017-israel-syria-incident-the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourt.md) _2017-08-27 03:48:01 (First version)_
-1. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _(Current version)_

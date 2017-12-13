@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/02/2/the-government-of-honduras-declares-a-state-of-emergency-with-3-649-suspected-cases-of-the-zika-virus-in-the-past-three-months.html)  [JSON](/news/2016/02/2/the-government-of-honduras-declares-a-state-of-emergency-with-3-649-suspected-cases-of-the-zika-virus-in-the-past-three-months.json)  [XML](/news/2016/02/2/the-government-of-honduras-declares-a-state-of-emergency-with-3-649-suspected-cases-of-the-zika-virus-in-the-past-three-months.xml)  
+
 ### [2016-02-2](/news/2016/02/2/index.md)
 
 # The Government of Honduras declares a state of emergency with 3,649 suspected cases of the Zika virus in the past three months. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Journal Star Online](http://www.jsonline.com/news/usandworld/national/the-latest-who-declares-zika-virus-international-emergency-mjsurnpublicidaporg49a5b547cf3d4c588b0920-367243501.html)
 

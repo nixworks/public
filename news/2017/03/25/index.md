@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/03/25/index.html)  [JSON](2017/03/25/index.json)  [XML](2017/03/25/index.xml)  
+
 ## [2017-03-25](/news/2017/03/25/index.md)
 
 ### [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md)
 Bangladesh has seen an escalation of suspected jihadist violence in recent weeks.
 
 ### [According to a local police chief, at least seven militants are killed by Afghan security forces in Logar Province. ](/news/2017/03/25/according-to-a-local-police-chief-at-least-seven-militants-are-killed-by-afghan-security-forces-in-logar-province.md)
-_Context: Afghan police, Logar Province, War in Afghanistan (2015-present)_
+_Context: Logar Province, War in Afghanistan (2015-present), police_
 
 ### [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md)
 _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
@@ -13,7 +16,7 @@ _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
 _Context: Bashar al-Assad, Haifa, Hezbollah, Israel, March 2017 Israel-Syria incident, Scud, Syria_
 
 ### [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md)
-Four Egyptian soldiers were killed in an explosion that hit their armored vehicle on Saturday in the northern Sinai peninsula, where the government is battling an Islamic State-led insurgency, security sources said.
+ Four Egyptian soldiers were killed in an explosion that hit their armored vehicle on Saturday in the northern Sinai peninsula, where the government is battling
 
 ### [A vehicle mounts the pavement and runs into pedestrians in Islington, London, injuring 4. The teenage perpetrators are found carrying offensive weapons, but are not assumed to be terrorists. ](/news/2017/03/25/a-vehicle-mounts-the-pavement-and-runs-into-pedestrians-in-islington-london-injuring-4-the-teenage-perpetrators-are-found-carrying-offens.md)
 Three people were injured when the car mounted the pavement and sent bodies &quot;into the air&quot;.
@@ -25,7 +28,7 @@ _Context: Chicago, Driehaus Architecture Prize, New Classical architecture, Robe
 _Context: Hong Kong, Langham Place_
 
 ### [European Union leaders gather in Rome to mark 60 years since the Treaty of Rome was signed. ](/news/2017/03/25/european-union-leaders-gather-in-rome-to-mark-60-years-since-the-treaty-of-rome-was-signed.md)
-_Context: EU, Treaty of Rome_
+_Context: European Union, Treaty of Rome_
 
 ### [The UK-US air travel ban on laptops and other electronic devices in the passenger cabin comes into effect. ](/news/2017/03/25/the-uk-us-air-travel-ban-on-laptops-and-other-electronic-devices-in-the-passenger-cabin-comes-into-effect.md)
 The US and UK bans affect direct flights from some Middle East airports.

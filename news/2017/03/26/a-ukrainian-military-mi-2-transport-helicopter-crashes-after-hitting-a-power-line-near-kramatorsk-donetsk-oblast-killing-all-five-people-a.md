@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.html)  [JSON](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.json)  [XML](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.xml)  
+
 ### [2017-03-26](/news/2017/03/26/index.md)
 
 # A Ukrainian military Mi-2 transport helicopter crashes after hitting a power line near Kramatorsk, Donetsk Oblast, killing all five people aboard. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-helicopter-idUSKBN16X0RQ)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-ukraine-crisis-helicopter-idUSKBN16X0RQ)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 

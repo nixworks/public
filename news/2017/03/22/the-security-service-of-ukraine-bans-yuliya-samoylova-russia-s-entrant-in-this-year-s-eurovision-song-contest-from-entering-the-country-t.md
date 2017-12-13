@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/22/the-security-service-of-ukraine-bans-yuliya-samoylova-russia-s-entrant-in-this-year-s-eurovision-song-contest-from-entering-the-country-t.html)  [JSON](/news/2017/03/22/the-security-service-of-ukraine-bans-yuliya-samoylova-russia-s-entrant-in-this-year-s-eurovision-song-contest-from-entering-the-country-t.json)  [XML](/news/2017/03/22/the-security-service-of-ukraine-bans-yuliya-samoylova-russia-s-entrant-in-this-year-s-eurovision-song-contest-from-entering-the-country-t.xml)  
+
 ### [2017-03-22](/news/2017/03/22/index.md)
 
 # The Security Service of Ukraine bans Yuliya Samoylova, Russia's entrant in this year's Eurovision Song Contest, from entering the country. This follows allegations that she had toured in Crimea following its annexation by Russia. 
@@ -5,7 +8,7 @@
 The Eurovision song contest, nominally an apolitical festival of pop music confections and cheerfully tacky costumes, erupted into a political dispute Wednesday after Ukraine banned Russia&rsquo;s contestant from entering the country.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/entertainment/music/ukraine-documents-ready-to-ban-russias-eurovision-entry/2017/03/22/030e7e96-0efb-11e7-aa57-2ca1b05c41b8_story.html)
 

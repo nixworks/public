@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/25/a-45-meter-long-escalator-at-langham-place-in-hong-kong-malfunctions-injuring-at-least-18-people.html)  [JSON](/news/2017/03/25/a-45-meter-long-escalator-at-langham-place-in-hong-kong-malfunctions-injuring-at-least-18-people.json)  [XML](/news/2017/03/25/a-45-meter-long-escalator-at-langham-place-in-hong-kong-malfunctions-injuring-at-least-18-people.xml)  
+
 ### [2017-03-25](/news/2017/03/25/index.md)
 
 # A 45-meter long escalator at Langham Place in Hong Kong malfunctions injuring at least 18 people. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/viral/382370-hong-kong-escalator-injuries/)
 

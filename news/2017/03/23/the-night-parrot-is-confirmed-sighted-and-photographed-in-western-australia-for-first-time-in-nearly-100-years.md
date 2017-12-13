@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.html)  [JSON](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.json)  [XML](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.xml)  
+
 ### [2017-03-23](/news/2017/03/23/index.md)
 
 # The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. 
@@ -5,7 +8,7 @@
 Birdwatchers ‘elated’ after snapping photo of the endangered species in state’s arid interior in discovery that could significantly impact on mining developments
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/environment/2017/mar/23/night-parrot-sighting-confirmed-in-western-australia-for-first-time-in-100-years)
 1. [Cover Image](https://i.guim.co.uk/img/media/18ae61b71416cf49a44d3b88252763f36857b749/0_70_2954_1773/master/2954.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7712e28aadb1acf3722f92dc6f0deda1)

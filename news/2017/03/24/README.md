@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/24/index.html)  [JSON](2017/03/24/index.json)  [XML](2017/03/24/index.xml)  
+
 ## [2017-03-24](/news/2017/03/24/index.md)
 
 ### [Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. ](/news/2017/03/24/six-chechen-soldiers-along-with-six-militants-are-killed-in-a-nighttime-attack-on-a-russian-national-guard-base-in-chechnya.md)
@@ -16,7 +19,7 @@ Three people, including a teenager, were injured after a gunman opened fire outs
 An aid group finds two capsized boats capable of carrying 100 migrants each, and only five bodies.
 
 ### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
-_Context: EU, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
+_Context: European Union, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
 
 ### [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md)
 _Context: Cairo, Egypt, Hosni Mubarak_
@@ -25,10 +28,10 @@ _Context: Cairo, Egypt, Hosni Mubarak_
 _Context: Abubacarr Tambadou, President, Yahya Jammeh, the Gambia_
 
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)
-_Context: Germain Katanga, International Criminal Court, warlord_
+_Context: Germain Katanga, ICC, warlord_
 
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: Donald Trump, Keystone XL, United States_
+_Context: Donald Trump, Keystone XL, U.S._
 
 ### [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md)
 _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Obamacare_

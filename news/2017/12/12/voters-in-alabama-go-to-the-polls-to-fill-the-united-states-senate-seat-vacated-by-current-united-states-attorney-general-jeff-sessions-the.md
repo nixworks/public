@@ -5,12 +5,14 @@ Formats: [HTML](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-u
 
 # Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). 
 
-
+Results for the U.S. Senate special election between Roy S. Moore, a Republican, and Doug Jones, a Democrat.
 
 
 ### Sources:
 
-1. [CNN](http://www.cnn.com/2017/12/12/politics/alabama-senate-race/index.html)
+1. [AP via New York Times](https://www.nytimes.com/elections/results/alabama-senate-special-election-roy-moore-doug-jones)
+2. [CNN](http://www.cnn.com/2017/12/12/politics/alabama-senate-race/index.html)
+2. [Cover Image](https://int.nyt.com/applications/elections/2017/assets/images/general-AL.png)
 
 ### Changes:
 

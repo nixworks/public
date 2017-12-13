@@ -1,15 +1,23 @@
+
+Formats: [HTML](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.html)  [JSON](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.json)  [XML](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.xml)  
+
 ### [2017-03-26](/news/2017/03/26/index.md)
 
 # Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. 
 
-Russian police detained opposition leader Alexei Navalny in central Moscow on Sunday at a rally which Navalny had called to protest against corruption.
+ Russian police detained opposition leader Alexei Navalny in central Moscow on Sunday at a rally which Navalny had called to protest against corruption.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-protests-idUSKBN16X0G8)
-2. [Reuters](http://www.reuters.com/article/us-russia-protests-navalny-idUSKBN16X0HR)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170326&t=2&i=1178083060&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2P0CY)
+1. [Reuters](https://www.reuters.com/article/us-russia-protests-idUSKBN16X0G8)
+2. [Reuters](https://www.reuters.com/article/us-russia-protests-navalny-idUSKBN16X0HR)
+2. [Cover Image](/resources/r/?m=02&d=20170326&t=2&i=1178083060&w=400&r=LYNXMPED2P0CY)
+
+### Changes:
+
+1. [2017 Russian protests: Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/2017-russian-protests-authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _2017-08-27 03:48:03 (First version)_
+1. [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Russian police detained opposition leader Alexei Navalny in central Moscow on Su
 3. [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md) _Context: 2017 Russian protests, Alexei Navalny_
 4. [Russia's leading opposition activists Boris Nemtsov, Alexei Navalny, Ilya Yashin are jailed for 7-10 days for disobeying a police officer while protesting against the Bolotnaya square case. The previous day, in Moscow police detained over 400 people, including Nadezhda Tolokonnikova and Maria Alyokhina. ](/news/2014/02/25/russia-s-leading-opposition-activists-boris-nemtsov-alexei-navalny-ilya-yashin-are-jailed-for-7-10-days-for-disobeying-a-police-officer-wh.md) _Context: Alexei Navalny, Russia_
 5. [Prominent Russian opposition figure Alexei Navalny registers himself to stand in September's vote for Moscow mayor. ](/news/2013/07/10/prominent-russian-opposition-figure-alexei-navalny-registers-himself-to-stand-in-september-s-vote-for-moscow-mayor.md) _Context: Alexei Navalny, Russia_
-
-### Changes:
-
-1. [2017 Russian protests: Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/2017-russian-protests-authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _2017-08-27 03:48:03 (First version)_
-1. [Authorities detain hundreds of people, including Alexei Navalny, at anti-corruption protests across Russia. ](/news/2017/03/26/authorities-detain-hundreds-of-people-including-alexei-navalny-at-anti-corruption-protests-across-russia.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/22/index.html)  [JSON](2017/03/22/index.json)  [XML](2017/03/22/index.xml)  
+
 ## [2017-03-22](/news/2017/03/22/index.md)
 
 ### [An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-police-officer-and-subsequent.md)

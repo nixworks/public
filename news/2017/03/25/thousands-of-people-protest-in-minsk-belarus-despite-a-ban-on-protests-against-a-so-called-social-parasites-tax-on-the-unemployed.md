@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.html)  [JSON](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.json)  [XML](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.xml)  
+
 ### [2017-03-25](/news/2017/03/25/index.md)
 
 # Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. 
@@ -5,10 +8,15 @@
 Demonstrators opposed to a tax on the under-employed take to the streets despite a ban.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-39393351)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/25BD/production/_95316690_c4fd9a30-6cdc-4f09-a4ec-381761c747e4.jpg)
+
+### Changes:
+
+1. [2017 Belarusian protests: Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/2017-belarusian-protests-thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-t.md) _2017-08-27 03:48:03 (First version)_
+1. [Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Demonstrators opposed to a tax on the under-employed take to the streets despite
 3. [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md) _Context: Belarus, Minsk_
 4. [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md) _Context: Belarus, Minsk_
 5. [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md) _Context: Belarus, Minsk_
-
-### Changes:
-
-1. [2017 Belarusian protests: Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/2017-belarusian-protests-thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-t.md) _2017-08-27 03:48:03 (First version)_
-1. [Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. ](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-despite-a-ban-on-protests-against-a-so-called-social-parasites-tax-on-the-unemployed.md) _(Current version)_

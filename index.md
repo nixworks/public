@@ -1,29 +1,42 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/12/index.md)
+## [News](/news/2017/12/13/index.md)
+
+### [Belgium's biggest government party says that they will not accept the energy transition agreement that was reached on December 11 by Belgium's four ministers of energy, citing mainly financial arguments to currently refuse the closure of the nuclear power stations. The agreement is inspired by Germany's Energiewende. ](/news/2017/12/13/belgium-s-biggest-government-party-says-that-they-will-not-accept-the-energy-transition-agreement-that-was-reached-on-december-11-by-belgium.md)
+_Context: Energiewende, Germany, Politics in Belgium_
+
+### [Minnesota Governor Mark Dayton is scheduled to announce the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-is-scheduled-to-announce-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-u.md)
+Minnesotans will learn Wednesday who their next senator will be. At a 10 a.m. news conference at the Capitol, Gov. Mark Dayton will announce his choice to replace U.S. Sen. Al Franken.
+
+---
+
+## [Yesterday](/news/2017/12/12/index.md)
 
 ### [Unibail-Rodamco agrees to purchase shopping mall owner Westfield Corporation for $15.7 billion. ](/news/2017/12/12/unibail-rodamco-agrees-to-purchase-shopping-mall-owner-westfield-corporation-for-15-7-billion.md)
 Westfield owns and operates 35 shopping centers in the US and United Kingdom.
 
-### [Mayor of San Francisco Ed Lee dies of an apparent heart attack. Supervisor London Breed becomes acting Mayor. ](/news/2017/12/12/mayor-of-san-francisco-ed-lee-dies-of-an-apparent-heart-attack-supervisor-london-breed-becomes-acting-mayor.md)
-_Context: Ed Lee, Government of San Francisco, London Breed, San Francisco_
-
-### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md)
-_Context: Alabama, D, Doug Jones, Jeff Sessions, R, Roy Moore, United States Attorney General, United States Senate, United States Senate special election in Alabama, 2017_
-
-### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)
-Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
+### [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md)
+Gas has resumed flowing through an Austrian gas hub after an earlier explosion cut off supplies to several European countries. Italy has declared a state of emergency.
 
 ### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. Glyphosate is a systemic herbicide and crop desiccant commonly sold under the trademark "Roundup". The petitioners fear that the herbicide causes cancer. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
 _Context: EU citizen, European Commission, Regulation of chemicals, causes cancer, crop desiccant, glyphosate, petition, systemic herbicide, trademark_
 
-### [This year's "Arctic Report Card" reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-i.md)
+### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)
+Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
+
+### [Mayor of San Francisco Ed Lee dies of an apparent heart attack. Supervisor London Breed becomes acting Mayor. ](/news/2017/12/12/mayor-of-san-francisco-ed-lee-dies-of-an-apparent-heart-attack-supervisor-london-breed-becomes-acting-mayor.md)
+_Context: Ed Lee, Government of San Francisco, London Breed, Mayor of San Francisco_
+
+### [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md)
+Results for the U.S. Senate special election between Roy S. Moore, a Republican, and Doug Jones, a Democrat.
+
+### [This year's Arctic Report Card reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-in.md)
 _Context: Arctic Report Card, Climate change in the Arctic, ocean surface, sea ice, warming_
 
 ---
 
-## [Yesterday](/news/2017/12/11/index.md)
+## [Day Before Yesterday](/news/2017/12/11/index.md)
 
 ### [An attempted terrorist attack occurs when a homemade pipe bomb worn by a man exploded near New York City's Port Authority Bus Terminal. Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. ](/news/2017/12/11/an-attempted-terrorist-attack-occurs-when-a-homemade-pipe-bomb-worn-by-a-man-exploded-near-new-york-city-s-port-authority-bus-terminal-thre.md)
 A suspect was in custody after a blast forced evacuations of the Port Authority and the Port Authority and Times Square subway stations.
@@ -64,34 +77,12 @@ Scientists re-measure the tallest mountains in the Antarctic territory claimed b
 ### [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md)
  At a time when China is working on an ambitious lunar program, President Donald Trump vowed on Monday that the United States will remain the leader in space ex
 
-### [The Y-linked protein NLGN4Y transfer from an older brother to a younger by transfer through the motherwomb, the mother's bloodstream, and her created antibodies reaching her next male fetus' brain, together appear to influence the gayness of the next brother. ](/news/2017/12/11/the-y-linked-protein-nlgn4y-transfer-from-an-older-brother-to-a-younger-by-transfer-through-the-motherwomb-the-mother-s-bloodstream-and-he.md)
+### [The Y-linked protein NLGN4Y transfer from an older brother to a younger by transfer through the mother's womb, the mother's bloodstream, and her created antibodies reaching her next male fetus' brain, together appear to influence the gayness of the next brother. ](/news/2017/12/11/the-y-linked-protein-nlgn4y-transfer-from-an-older-brother-to-a-younger-by-transfer-through-the-mother-s-womb-the-mother-s-bloodstream-and.md)
 National Academy of Sciences
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/10/index.md)
-
-### [A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. ](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-wounds-an-israeli-security-guard-at-jerusalem-s-central-bus-station-the-attacker-is-arrested.md)
-Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;s central bus station.
-
-### [ An Iraqi military parade in Baghdad celebrates final victory over the Islamic State of Iraq and the Levant. Prime Minister Haider al-Abadi declares December 10 an annual national holiday. ](/news/2017/12/10/an-iraqi-military-parade-in-baghdad-celebrates-final-victory-over-the-islamic-state-of-iraq-and-the-levant-prime-minister-haider-al-abadi.md)
-_Context: Baghdad, Haider al-Abadi, ISIL, Iraqi Civil War_
-
-### [New evacuations are ordered as the fires spread toward a string of California coastal cities. Santa Ana winds and rugged mountain terrain continue to hamper firefighting efforts. Authorities report the Thomas Fire is only 15 percent contained. ](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread-toward-a-string-of-california-coastal-cities-santa-ana-winds-and-rugged-mountain-terrain-co.md)
- A massive California wildfire that has already destroyed nearly 800 structures scorched another 56,000 acres on Sunday, making it the fifth largest such blaze 
-
-### [The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable, since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. ](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-universiteit-brussel-guest-lecturer-ahmadreza-djalali-is-now-executable-since-his-iranian-la.md)
-_Context: Capital punishment in Iran, Iran, Vrije Universiteit Brussel_
-
-### [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md)
-President Maduro says the three main opposition parties cannot compete against him in 2018.
-
-### [Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-04 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. ](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-trace-the-source-of-the-deadly-2002a04-sars-virus-outbreak-which-killed-774-people-in-37-co.md)
-Genetic source found for disease that killed 750 round the world
-
----
-
-## [Previous Day...](/news/2017/12/9/index.md)
+## [Previous Day...](/news/2017/12/10/index.md)
 
 ---
 

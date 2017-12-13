@@ -1,14 +1,22 @@
+
+Formats: [HTML](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.html)  [JSON](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.json)  [XML](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.xml)  
+
 ### [2017-03-25](/news/2017/03/25/index.md)
 
 # A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. 
 
-Four Egyptian soldiers were killed in an explosion that hit their armored vehicle on Saturday in the northern Sinai peninsula, where the government is battling an Islamic State-led insurgency, security sources said.
+ Four Egyptian soldiers were killed in an explosion that hit their armored vehicle on Saturday in the northern Sinai peninsula, where the government is battling
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-egypt-insurgency-idUSKBN16W0JP)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-egypt-insurgency-idUSKBN16W0JP)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Sinai insurgency: A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/sinai-insurgency-a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _2017-08-27 03:48:03 (First version)_
+1. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Four Egyptian soldiers were killed in an explosion that hit their armored vehicl
 3. [A day after the second round of parliamentary elections closes, militants attack a hotel housing election judges in the provincial capital of al-Arish in Egypt's North Sinai. At least seven people are killed and 12 others injured, including two judges. The Islamic State's Wilayat Sinai branch claims responsibility. ](/news/2015/11/24/a-day-after-the-second-round-of-parliamentary-elections-closes-militants-attack-a-hotel-housing-election-judges-in-the-provincial-capital-o.md) _Context: Arish, North Sinai Governorate, Sinai insurgency_
 4. [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md) _Context: Arish, North Sinai Governorate, Sinai insurgency_
 5. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Egyptian Army, Sinai insurgency_
-
-### Changes:
-
-1. [Sinai insurgency: A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/sinai-insurgency-a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _2017-08-27 03:48:03 (First version)_
-1. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _(Current version)_

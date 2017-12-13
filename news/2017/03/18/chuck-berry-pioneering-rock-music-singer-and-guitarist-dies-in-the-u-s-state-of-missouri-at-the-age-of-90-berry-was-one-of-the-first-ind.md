@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/18/chuck-berry-pioneering-rock-music-singer-and-guitarist-dies-in-the-u-s-state-of-missouri-at-the-age-of-90-berry-was-one-of-the-first-ind.html)  [JSON](/news/2017/03/18/chuck-berry-pioneering-rock-music-singer-and-guitarist-dies-in-the-u-s-state-of-missouri-at-the-age-of-90-berry-was-one-of-the-first-ind.json)  [XML](/news/2017/03/18/chuck-berry-pioneering-rock-music-singer-and-guitarist-dies-in-the-u-s-state-of-missouri-at-the-age-of-90-berry-was-one-of-the-first-ind.xml)  
+
 ### [2017-03-18](/news/2017/03/18/index.md)
 
 # Chuck Berry, pioneering rock music singer and guitarist, dies in the U.S. state of Missouri at the age of 90. Berry was one of the first inductees in the Rock and Roll Hall of Fame. 
@@ -5,7 +8,7 @@
 Tributes pour in for the legendary guitarist and songwriter after he dies in Missouri aged 90.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39318602)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11E24/production/_95225237_mediaitem95224964.jpg)

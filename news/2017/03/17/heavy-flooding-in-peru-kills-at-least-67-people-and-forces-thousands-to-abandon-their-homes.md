@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.html)  [JSON](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.json)  [XML](/news/2017/03/17/heavy-flooding-in-peru-kills-at-least-67-people-and-forces-thousands-to-abandon-their-homes.xml)  
+
 ### [2017-03-17](/news/2017/03/17/index.md)
 
 # Heavy flooding in Peru kills at least 67 people and forces thousands to abandon their homes. 
@@ -5,7 +8,7 @@
 Devastating downpour, caused by high ocean temperatures, could not have been predicted, president said, months after state of emergency declared for wildfires
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/mar/17/peru-floods-ocean-climate-change)
 1. [Cover Image](https://i.guim.co.uk/img/media/034284799be5277fafaefb3d419c6466d11b804b/0_178_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8f627839dba8616f917f7b965e6866dd)

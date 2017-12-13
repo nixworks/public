@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/22/a-jury-acquits-the-former-head-of-the-now-closed-massachusetts-pharmacy-new-england-compounding-center-barry-cadden-on-25-counts-of-secon.html)  [JSON](/news/2017/03/22/a-jury-acquits-the-former-head-of-the-now-closed-massachusetts-pharmacy-new-england-compounding-center-barry-cadden-on-25-counts-of-secon.json)  [XML](/news/2017/03/22/a-jury-acquits-the-former-head-of-the-now-closed-massachusetts-pharmacy-new-england-compounding-center-barry-cadden-on-25-counts-of-secon.xml)  
+
 ### [2017-03-22](/news/2017/03/22/index.md)
 
 # A jury acquits the former head of the now-closed Massachusetts pharmacy, New England Compounding Center, Barry Cadden, on 25 counts of second-degree murder but convicts him of racketeering and other crimes in a meningitis outbreak that was traced to fungus-contaminated drugs and killed 64 people across the country. Cadden disregarded sanitary conditions to boost production and make more money. 
@@ -5,7 +8,7 @@
 BOSTON (AP) — The former head of a Massachusetts pharmacy was acquitted Wednesday of murder allegations but convicted of racketeering and other 
 
 
-### Source:
+### Sources:
 
 1. [Boston.com](https://www.boston.com/news/local-news/2017/03/22/verdict-reached-in-trial-over-deadly-us-meningitis-outbreak)
 1. [Cover Image](https://www.boston.com/wp-content/uploads/2017/03/Bedford_170322_CADDEN_002-850x478.jpg)

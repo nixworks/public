@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.html)  [JSON](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.json)  [XML](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.xml)  
+
 ### [2017-03-24](/news/2017/03/24/index.md)
 
 # The Gambia's justice minister Abubacarr Tambadou states that the country will establish a Truth and Reconciliation Commission "within the next six months" to investigate allegations of abuse dating from the time of former President Yahya Jammeh. According to Tambadou, public hearings are scheduled to get underway by year's end. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39378345)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/629C/production/_93644252_jammehglasses.jpg)

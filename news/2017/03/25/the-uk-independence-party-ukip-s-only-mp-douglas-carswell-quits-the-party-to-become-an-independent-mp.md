@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/25/the-uk-independence-party-ukip-s-only-mp-douglas-carswell-quits-the-party-to-become-an-independent-mp.html)  [JSON](/news/2017/03/25/the-uk-independence-party-ukip-s-only-mp-douglas-carswell-quits-the-party-to-become-an-independent-mp.json)  [XML](/news/2017/03/25/the-uk-independence-party-ukip-s-only-mp-douglas-carswell-quits-the-party-to-become-an-independent-mp.xml)  
+
 ### [2017-03-25](/news/2017/03/25/index.md)
 
 # The UK Independence Party (UKIP)'s only MP, Douglas Carswell, quits the party to become an independent MP. 
@@ -5,7 +8,7 @@
 MP for Clacton announces he is to become independent MP, having previously defected to Ukip from the Conservatives
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/politics/2017/mar/25/ukips-only-mp-douglas-carswell-quits-party)
 1. [Cover Image](https://i.guim.co.uk/img/media/43ba3378cb39566aa64b6db8a6771b52d1510afd/0_152_2691_1613/master/2691.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=392a3fce92f0171ff20db27fd035e3fd)
