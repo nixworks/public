@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.html)  [JSON](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.json)  [XML](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.xml)  
+
 ### [2017-05-9](/news/2017/05/9/index.md)
 
 # The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/05/09/politics/georgia-6-special-election/index.html)
 
