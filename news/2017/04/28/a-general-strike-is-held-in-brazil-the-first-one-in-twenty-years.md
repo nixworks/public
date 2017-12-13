@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.html)  [JSON](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.json)  [XML](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.xml)  
+
 ### [2017-04-28](/news/2017/04/28/index.md)
 
 # A general strike is held in Brazil, the first one in twenty years. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-brazil-strike-20170428-story.html)
 1. [Cover Image](http://www.trbimg.com/img-5903f488/turbine/la-fg-brazil-strike-20170428)

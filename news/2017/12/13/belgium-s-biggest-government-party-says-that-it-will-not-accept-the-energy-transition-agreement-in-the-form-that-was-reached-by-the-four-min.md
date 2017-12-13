@@ -11,7 +11,9 @@ Formats: [HTML](/news/2017/12/13/belgium-s-biggest-government-party-says-that-it
 ### Sources:
 
 1. [De Standaard](http://m.standaard.be/cnt/dmf20171212_03239793)
-1. [Cover Image](https://dsocdn.akamaized.net/Assets/Images_Upload/2017/12/12/archiefbeeld.jpg)
+2. [La Libre Belgique](http://www.lalibre.be/economie/conjoncture/charles-michel-ne-laissera-personne-torpiller-le-pacte-energetique-ecolo-et-cdh-l-accusent-de-s-etre-ecrase-devant-la-n-va-5a30d8f1cd7095d1cd65b542)
+2. [Cover Image](http://o2.llb.be/image/thumb/5a30f696cd70b488fb2b8cb1.jpg
+)
 
 ### Changes:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon-indonesia-issues-several-fatwas-one-of-which-opposes-child-marriage.html)  [JSON](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon-indonesia-issues-several-fatwas-one-of-which-opposes-child-marriage.json)  [XML](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon-indonesia-issues-several-fatwas-one-of-which-opposes-child-marriage.xml)  
+
 ### [2017-04-27](/news/2017/04/27/index.md)
 
 # A congress of female Islamic clerics in Cirebon, Indonesia, issues several fatwas, one of which opposes child marriage. 
@@ -5,7 +8,7 @@
 Female Islamic clerics in Indonesia declared a series of fatwas Thursday, including one to tackle child marriage, a rare example of women taking a leading religious role in the Muslim-majority country.
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/female-muslim-clerics-in-indonesia-issue-rare-fatwas-8797872)
 1. [Cover Image](http://www.channelnewsasia.com/blob/8797870/ad49fcc994e0fd8fe1fe687edd7114ad/among-the-fatwas-issued-was-one-against-women-being-sexually-abused--and-one-against-environmental-destruction-in-a-country-that-struggles-every-year-with-huge-fires-that-are-started-illegally-and-dev-1493303390769-2-data.jpg)

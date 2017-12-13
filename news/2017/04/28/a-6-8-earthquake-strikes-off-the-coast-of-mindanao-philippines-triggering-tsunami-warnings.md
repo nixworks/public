@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.html)  [JSON](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.json)  [XML](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.xml)  
+
 ### [2017-04-28](/news/2017/04/28/index.md)
 
 # A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/28/earthquake-measuring-72-hitsoff-mindanao-philippines/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/12/01/Breaking-news-xlarge_trans_NvBQzQNjv4BqCTY-E8UrRAHHViyaH5PP43GTJFJS74MYhNY6w3GNbO8.png)

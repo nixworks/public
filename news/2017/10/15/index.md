@@ -6,6 +6,9 @@ Formats: [HTML](2017/10/15/index.html)  [JSON](2017/10/15/index.json)  [XML](201
 ### [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md)
 Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.
 
+### [ A homeless man was arrested after he was seen walking away from fire he started allegedly "to keep warm" in Sonoma County, California. ICE asked to detain him for deportation but Sheriff Rob Giordano declined. The Sheriff determined the suspect was unlikely to be connected to any of the deadlyOctober 2017 Northern California wildfires](/news/2017/10/15/a-homeless-man-was-arrested-after-he-was-seen-walking-away-from-fire-he-started-allegedly-to-keep-warm-in-sonoma-county-california-ice.md)
+Right-wing media sites Breitbart and InfoWars – without evidence – link the arrest of a 29-year-old Latino man Sunday October 15, 2017 to the catastrophic wine country fires that have killed at least 28 people in the area.
+
 ### [Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. ](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.md)
 For the first time, an elected president is due to peacefully hand over power.
 

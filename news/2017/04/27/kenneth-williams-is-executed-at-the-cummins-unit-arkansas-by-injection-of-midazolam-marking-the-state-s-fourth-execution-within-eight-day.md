@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/27/kenneth-williams-is-executed-at-the-cummins-unit-arkansas-by-injection-of-midazolam-marking-the-state-s-fourth-execution-within-eight-day.html)  [JSON](/news/2017/04/27/kenneth-williams-is-executed-at-the-cummins-unit-arkansas-by-injection-of-midazolam-marking-the-state-s-fourth-execution-within-eight-day.json)  [XML](/news/2017/04/27/kenneth-williams-is-executed-at-the-cummins-unit-arkansas-by-injection-of-midazolam-marking-the-state-s-fourth-execution-within-eight-day.xml)  
+
 ### [2017-04-27](/news/2017/04/27/index.md)
 
 # Kenneth Williams is executed at the Cummins Unit, Arkansas, by injection of midazolam, marking the state's fourth execution within eight days before the drug passes its expiration date. 
@@ -5,7 +8,7 @@
 Arkansas executed convicted killer Kenneth Williams on Thursday, who was the fourth inmate put to death in the state in a little more than a week.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/storyline/lethal-injection/arkansas-executes-kenneth-williams-4th-lethal-injection-week-n752086)
 1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_17/1966371/170415-kenneth-williams-arkansas-313p-rs_758e203680da15ee5dc6d4c7e1a256de.nbcnews-fp-1200-800.jpg)

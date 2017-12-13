@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.html)  [JSON](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.json)  [XML](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.xml)  
+
 ### [2017-04-27](/news/2017/04/27/index.md)
 
 # The Bundestag approves a ban on burqas being worn by members of the German civil service. 
@@ -5,7 +8,7 @@
 In a late night sitting, the lower house of parliament has approved a raft of security measures and a draft ban on face veils. The ban would only apply to civil servants in Germany.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/bundestag-bans-face-veils-for-civil-servants-amid-security-measures/a-38619204)
 1. [Cover Image](http://www.dw.com/image/38606697_304.jpg)

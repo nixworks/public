@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.html)  [JSON](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.json)  [XML](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.xml)  
+
 ### [2017-04-27](/news/2017/04/27/index.md)
 
 # A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. 
@@ -5,7 +8,7 @@
 All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coastal authority says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-39734998)
 1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p0518qnm.jpg)
