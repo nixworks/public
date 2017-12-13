@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.html)  [JSON](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.json)  [XML](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.xml)  
+
 ### [2017-04-7](/news/2017/04/7/index.md)
 
 # Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-india-floods-idUSKBN1791HW?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170407&t=2&i=1179747727&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED360OS)
+1. [Reuters](https://www.reuters.com/article/us-india-floods-idUSKBN1791HW?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170407&t=2&i=1179747727&w=400&r=LYNXMPED360OS)
 
 ### Related:
 

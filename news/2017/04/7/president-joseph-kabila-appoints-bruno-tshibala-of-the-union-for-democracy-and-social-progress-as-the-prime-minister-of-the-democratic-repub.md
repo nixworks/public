@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.html)  [JSON](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.json)  [XML](/news/2017/04/7/president-joseph-kabila-appoints-bruno-tshibala-of-the-union-for-democracy-and-social-progress-as-the-prime-minister-of-the-democratic-repub.xml)  
+
 ### [2017-04-7](/news/2017/04/7/index.md)
 
 # President Joseph Kabila appoints Bruno Tshibala of the Union for Democracy and Social Progress as the Prime Minister of the Democratic Republic of the Congo. Kabila's earlier announcement of his decision to appoint a new prime minister prompted Samy Badibanga to resign from the role after less than five months in office. 
@@ -5,7 +8,7 @@
 Announcement likely to further divide the president&#39;s opponents in a country that has been rocked by violence.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/04/kabila-names-bruno-tshibala-drc-prime-minister-170407201215507.html)
 

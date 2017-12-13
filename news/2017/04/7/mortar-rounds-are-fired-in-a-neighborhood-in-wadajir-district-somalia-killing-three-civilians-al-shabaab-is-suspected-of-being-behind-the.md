@@ -1,14 +1,22 @@
+
+Formats: [HTML](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.html)  [JSON](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.json)  [XML](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.xml)  
+
 ### [2017-04-7](/news/2017/04/7/index.md)
 
 # Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. 
 
-Mortar shells fired into homes in the Somali capital of Mogadishu has killed three people and wounded five, police and ambulance services said on Friday, a day after the government changed heads of security agencies.
+ Mortar shells fired into homes in the Somali capital of Mogadishu has killed three people and wounded five, police and ambulance services said on Friday, a day
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKBN1791R9?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-somalia-security-idUSKBN1791R9?il=0)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [War in Somalia (2009-present): Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/war-in-somalia-2009-present-mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab.md) _2017-08-27 03:48:07 (First version)_
+1. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Mortar shells fired into homes in the Somali capital of Mogadishu has killed thr
 3. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 4. [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 5. [Al-Shabaab says it has killed at least 60 Ethiopian soldiers in an attack on a AMISOM base in central Somalia. ](/news/2016/06/9/al-shabaab-says-it-has-killed-at-least-60-ethiopian-soldiers-in-an-attack-on-a-amisom-base-in-central-somalia.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
-
-### Changes:
-
-1. [War in Somalia (2009-present): Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/war-in-somalia-2009-present-mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab.md) _2017-08-27 03:48:07 (First version)_
-1. [Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. ](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wadajir-district-somalia-killing-three-civilians-al-shabaab-is-suspected-of-being-behind-the.md) _(Current version)_

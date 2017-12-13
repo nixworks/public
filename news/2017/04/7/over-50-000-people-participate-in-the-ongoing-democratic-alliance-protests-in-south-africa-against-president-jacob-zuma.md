@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/7/over-50-000-people-participate-in-the-ongoing-democratic-alliance-protests-in-south-africa-against-president-jacob-zuma.html)  [JSON](/news/2017/04/7/over-50-000-people-participate-in-the-ongoing-democratic-alliance-protests-in-south-africa-against-president-jacob-zuma.json)  [XML](/news/2017/04/7/over-50-000-people-participate-in-the-ongoing-democratic-alliance-protests-in-south-africa-against-president-jacob-zuma.xml)  
+
 ### [2017-04-7](/news/2017/04/7/index.md)
 
 # Over 50,000 people participate in the ongoing Democratic Alliance protests in South Africa against President Jacob Zuma. 
@@ -5,7 +8,7 @@
 Desmond Tutu made an appearance at protests in Cape Town 
 
 
-### Source:
+### Sources:
 
 1. [NewsTalk](http://www.newstalk.com/Thousands-protest-in-South-Africa-against-President-Zouma)
 2. [Sowetan Live](http://www.sowetanlive.co.za/news/2017/04/08/zumamustfall-campaign-to-hold-national-day-of-action)

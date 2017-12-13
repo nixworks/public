@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/7/artifacts-from-triquet-island-south-west-of-hunter-island-in-british-columbia-are-found-to-date-back-14-000-years-marking-the-discovery.html)  [JSON](/news/2017/04/7/artifacts-from-triquet-island-south-west-of-hunter-island-in-british-columbia-are-found-to-date-back-14-000-years-marking-the-discovery.json)  [XML](/news/2017/04/7/artifacts-from-triquet-island-south-west-of-hunter-island-in-british-columbia-are-found-to-date-back-14-000-years-marking-the-discovery.xml)  
+
 ### [2017-04-7](/news/2017/04/7/index.md)
 
 #  Artifacts from Triquet Island, south-west of Hunter Island in British Columbia, are found to date back 14,000 years, marking the discovery of the oldest village in North America. 
@@ -5,7 +8,7 @@
 Scientists say the artifacts exhumed on the remote island are painting a picture of how our civilization began.
 
 
-### Source:
+### Sources:
 
 1. [CTV News](http://vancouverisland.ctvnews.ca/14-000-year-old-village-unearthed-on-b-c-island-by-uvic-student-1.3358511)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.3358516.1491588859!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
