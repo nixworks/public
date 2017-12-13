@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.html)  [JSON](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.json)  [XML](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.xml)  
+
 ### [2017-04-24](/news/2017/04/24/index.md)
 
 # Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. 
@@ -5,7 +8,7 @@
 She is currently on her third long-duration stay aboard the space station
 
 
-### Source:
+### Sources:
 
 1. [Mirror](http://www.mirror.co.uk/science/peggy-whitson-breaks-record-longest-10286608)
 1. [Cover Image](http://i3.mirror.co.uk/incoming/article10193507.ece/ALTERNATES/s1200/NASA-Astronaught-Peggy-Whitson.jpg)

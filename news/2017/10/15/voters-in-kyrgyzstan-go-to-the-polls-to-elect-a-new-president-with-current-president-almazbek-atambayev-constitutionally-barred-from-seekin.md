@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.html)  [JSON](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.json)  [XML](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a-new-president-with-current-president-almazbek-atambayev-constitutionally-barred-from-seekin.xml)  
+
 ### [2017-10-15](/news/2017/10/15/index.md)
 
 # Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. 

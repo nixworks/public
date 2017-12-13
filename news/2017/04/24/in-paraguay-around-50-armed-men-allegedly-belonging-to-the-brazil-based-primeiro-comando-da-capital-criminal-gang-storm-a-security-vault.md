@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.html)  [JSON](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.json)  [XML](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.xml)  
+
 ### [2017-04-24](/news/2017/04/24/index.md)
 
 # In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. 
@@ -5,7 +8,7 @@
 Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters turned city into a battle zone before fleeing in speedboats with about $6m
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/apr/25/paraguay-heist-brazil-gangsters-dynamite-speedboat)
 1. [Cover Image](https://i.guim.co.uk/img/media/d96e9d8e284476c60ce51b7847d35406ab0b2949/0_161_5568_3341/master/5568.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bd42a6954f7a6495ecbb6bfda72ec9b9)
