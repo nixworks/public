@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.html)  [JSON](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.json)  [XML](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.xml)  
+
 ### [2017-04-5](/news/2017/04/5/index.md)
 
 # A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. 
@@ -5,7 +8,7 @@
 A military fighter jet that left Joint Base Andrews Wednesday morning crashed about two miles south on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/05/military-jet-crashes-after-taking-off-from-joint-base-andrews-report.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/05/0/0/694940094001_5386171281001_5386154001001-vs.jpg?ve=1)

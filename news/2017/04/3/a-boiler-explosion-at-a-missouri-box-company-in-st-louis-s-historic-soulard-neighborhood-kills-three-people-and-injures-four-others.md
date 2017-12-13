@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/3/a-boiler-explosion-at-a-missouri-box-company-in-st-louis-s-historic-soulard-neighborhood-kills-three-people-and-injures-four-others.html)  [JSON](/news/2017/04/3/a-boiler-explosion-at-a-missouri-box-company-in-st-louis-s-historic-soulard-neighborhood-kills-three-people-and-injures-four-others.json)  [XML](/news/2017/04/3/a-boiler-explosion-at-a-missouri-box-company-in-st-louis-s-historic-soulard-neighborhood-kills-three-people-and-injures-four-others.xml)  
+
 ### [2017-04-3](/news/2017/04/3/index.md)
 
 # A boiler explosion at a Missouri box company in St. Louis's historic Soulard neighborhood kills three people and injures four others. 
@@ -5,7 +8,7 @@
 Explosion sent boiler from box company nearly a block, where it crashed into the offices of a laundry company.
 
 
-### Source:
+### Sources:
 
 1. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/dead-injured-after-explosion-sends-boiler-flying-through-roof-of/article_61510e02-abac-5ce4-b087-8c2a174a1456.html)
 2. [St. Louis Public Radio](http://news.stlpublicradio.org/post/boiler-explosion-kills-3-injures-4-others-soulard-neighborhood#stream/0)

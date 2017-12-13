@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/4/english-computer-scientist-sir-timothy-john-berners-lee-is-awarded-the-2016-a-m-turing-award-for-inventing-the-world-wide-web-the-first-w.html)  [JSON](/news/2017/04/4/english-computer-scientist-sir-timothy-john-berners-lee-is-awarded-the-2016-a-m-turing-award-for-inventing-the-world-wide-web-the-first-w.json)  [XML](/news/2017/04/4/english-computer-scientist-sir-timothy-john-berners-lee-is-awarded-the-2016-a-m-turing-award-for-inventing-the-world-wide-web-the-first-w.xml)  
+
 ### [2017-04-4](/news/2017/04/4/index.md)
 
 #  English computer scientist Sir Timothy John Berners-Lee is awarded the 2016 A.M. Turing Award for inventing the World Wide Web, the first web browser, and the protocols and algorithms that allow the Web to scale. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Association for Computing Machinery](http://amturing.acm.org/award_winners/berners-lee_8087960.cfm)
 

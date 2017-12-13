@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/04/6/index.html)  [JSON](2017/04/6/index.json)  [XML](2017/04/6/index.xml)  
+
 ## [2017-04-6](/news/2017/04/6/index.md)
 
 ### [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md)
 A device is made safe as Russian police investigating the metro bombing make further arrests.
 
 ### [Two Iraqi Army pilots are killed when their Mi-24 helicopter is shot down by ISIS over the city of Mosul. ](/news/2017/04/6/two-iraqi-army-pilots-are-killed-when-their-mi-24-helicopter-is-shot-down-by-isis-over-the-city-of-mosul.md)
-Two Iraqi army pilots were killed on Thursday when their helicopter was shot down over the city of Mosul by Islamic State, according to a military statement.
+ Two Iraqi army pilots were killed on Thursday when their helicopter was shot down over the city of Mosul by Islamic State, according to a military statement.
 
 ### [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md)
 Second Israeli lightly wounded after Palestinian ploughed into two Israelis, both in their 20s, at junction outside of the settlement of Ofra

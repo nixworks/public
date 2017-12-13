@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/4/index.html)  [JSON](2017/04/4/index.json)  [XML](2017/04/4/index.xml)  
+
 ## [2017-04-4](/news/2017/04/4/index.md)
 
 ### [A toxic gas attack, allegedly by Syrian warplanes, kills at least 83 and injures many more in rebel-held Khan Shaykhun, Idlib. ](/news/2017/04/4/a-toxic-gas-attack-allegedly-by-syrian-warplanes-kills-at-least-83-and-injures-many-more-in-rebel-held-khan-shaykhun-idlib.md)
-The Britain-based Syrian Observatory for Human Rights monitoring group says there were 58 killed, while Union of Medical Care Organizations says at least 100 were killed
+At least 83 people — including 25 children — died and at least 350 others were injured in the incident in northern Idlib province, southwest of Aleppo, the relief agency UOSSM told NBC News.
 
 ### [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md)
 IRBIL: The UN said on Tuesday it is expanding camps for displaced people around Mosul, as airstrikes resumed on Daesh positions in Iraq’s second largest city.More than 300,000 people have fled Mosul since the start of the US-backed campaign in October, the office of the UN Humanitarian Coordinator...

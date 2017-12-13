@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/6/seven-i-holdings-co-the-parent-company-of-the-7-eleven-convenience-store-chain-agrees-to-acquire-the-retail-operations-of-sunoco-for-3.html)  [JSON](/news/2017/04/6/seven-i-holdings-co-the-parent-company-of-the-7-eleven-convenience-store-chain-agrees-to-acquire-the-retail-operations-of-sunoco-for-3.json)  [XML](/news/2017/04/6/seven-i-holdings-co-the-parent-company-of-the-7-eleven-convenience-store-chain-agrees-to-acquire-the-retail-operations-of-sunoco-for-3.xml)  
+
 ### [2017-04-6](/news/2017/04/6/index.md)
 
 # Seven & I Holdings Co., the parent company of the 7-Eleven convenience store chain, agrees to acquire the retail operations of Sunoco for $3.3 billion. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-sunoco-lp-m-a-seven-i-hldgs-idUSKBN1780IT?il=0)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170406&t=2&i=1179587391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED350AP)
+1. [Reuters](https://www.reuters.com/article/us-sunoco-lp-m-a-seven-i-hldgs-idUSKBN1780IT?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170406&t=2&i=1179587391&w=400&r=LYNXMPED350AP)
 
 ### Related:
 

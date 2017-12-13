@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.html)  [JSON](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.json)  [XML](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.xml)  
+
 ### [2017-04-5](/news/2017/04/5/index.md)
 
 # Mexican Beltran Leyva Cartel drug lord Alfredo Beltran Leyva is sentenced to life in prison and ordered to forfeit $US529,200,000. 
@@ -5,7 +8,7 @@
 Alfredo Beltran Leyva, also known as Mochomo, one of the leaders of the Beltran Leyva Organization, a Mexican drug-trafficking cartel responsible for importing multi-ton quantities of cocaine and methamphetamine into the United States, was sentenced today to life in prison for his participation in an international narcotics trafficking conspiracy.
 
 
-### Source:
+### Sources:
 
 1. [U.S. Department of Justice](https://www.justice.gov/opa/pr/alfredo-beltran-leyva-sentenced-life-prison-leading-international-drug-trafficking-conspiracy)
 1. [Cover Image](https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg)

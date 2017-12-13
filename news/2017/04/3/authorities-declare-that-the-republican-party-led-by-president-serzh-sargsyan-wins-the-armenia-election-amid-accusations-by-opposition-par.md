@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.html)  [JSON](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.json)  [XML](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.xml)  
+
 ### [2017-04-3](/news/2017/04/3/index.md)
 
 # Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. 
@@ -5,9 +8,14 @@
 European observers also report &#39;pressure on civil servants&#39; in elections won by President Serzh Sarksyan.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/04/armenia-elections-tainted-vote-buying-osce-monitors-170403113052011.html)
+
+### Changes:
+
+1. [Armenian parliamentary election, 2017: Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _2017-08-27 03:48:06 (First version)_
+1. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ European observers also report &#39;pressure on civil servants&#39; in elections
 3. [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md) _Context: Armenia, OSCE, Serzh Sargsyan_
 4. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Armenia, Serzh Sargsyan_
 5. [The Constitutional Court of Armenia upholds the reelection of President Serzh Sargsyan in the recent presidential election. ](/news/2013/03/14/the-constitutional-court-of-armenia-upholds-the-reelection-of-president-serzh-sargsyan-in-the-recent-presidential-election.md) _Context: Armenia, Serzh Sargsyan_
-
-### Changes:
-
-1. [Armenian parliamentary election, 2017: Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/armenian-parliamentary-election-2017-authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-elec.md) _2017-08-27 03:48:06 (First version)_
-1. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _(Current version)_

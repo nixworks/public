@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.html)  [JSON](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.json)  [XML](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.xml)  
+
 ### [2017-04-6](/news/2017/04/6/index.md)
 
 # Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. 
@@ -5,7 +8,7 @@
 The move allows for a return to democracy after a 2014 coup, but the military will retain influence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39517889)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E1BC/production/_95488775_hi038874426.jpg)
