@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.html)  [JSON](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.json)  [XML](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333-whales-in-the-antarctic-the-japanese-government-states-that-the-purpose-was-for-research.xml)  
+
 ### [2017-03-31](/news/2017/03/31/index.md)
 
 # A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. 
@@ -5,7 +8,7 @@
 The government is skirting an international ban on whale hunting by saying theyâ€™re doing research.
 
 
-### Source:
+### Sources:
 
 1. [New York Magazine](http://nymag.com/daily/intelligencer/2017/03/japan-slaughters-333-whales-in-annual-antarctic-hunt.html)
 1. [Cover Image](http://pixel.nymag.com/imgs/daily/intelligencer/2017/03/31/31-japan-whaling-minke.w1200.h630.jpg)
@@ -16,4 +19,4 @@ The government is skirting an international ban on whale hunting by saying theyâ
 2. [The United Nations International Court of Justice rules that Japan's Antarctic whaling program is not scientific but commercial and forbids grants of further permits. ](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.md) _Context: Antarctic, Japan_
 3. [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md) _Context: Antarctic, Japan_
 4. [ Chris Ellison, the Australian Minister for Justice, warns anti-whaling protesters and the Japanese whaling fleet that they could face questioning over recent clashes in the Southern Ocean. Meanwhile, the crew were evacuated from the largest ship in the Japanese Antarctic fleet, the "Nisshin Maru," following a fire. ](/news/2007/02/15/chris-ellison-the-australian-minister-for-justice-warns-anti-whaling-protesters-and-the-japanese-whaling-fleet-that-they-could-face-quest.md) _Context: Antarctic, Japan_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
+5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_

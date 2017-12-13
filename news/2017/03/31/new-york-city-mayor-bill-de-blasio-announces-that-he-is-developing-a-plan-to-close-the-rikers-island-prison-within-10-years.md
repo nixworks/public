@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.html)  [JSON](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.json)  [XML](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.xml)  
+
 ### [2017-03-31](/news/2017/03/31/index.md)
 
 # New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. 
@@ -5,7 +8,7 @@
 New York Mayor Bill de Blasio says he wants to close the troubled Rikers Island prison within 10 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39461242)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1714D/production/_95414549_f5ae86d4-282b-4368-8920-bde8414a74f4.jpg)

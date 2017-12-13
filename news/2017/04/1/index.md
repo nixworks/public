@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/1/index.html)  [JSON](2017/04/1/index.json)  [XML](2017/04/1/index.xml)  
+
 ## [2017-04-1](/news/2017/04/1/index.md)
 
 ### [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md)
@@ -22,7 +25,7 @@ More than 20 crew are feared dead after a South Korean cargo vessel went missing
 The latest court ruling replaces a previous decision that appeared to completely neuter the National Assembly.
 
 ### [After two weeks of social unrest in French Guiana, the French government promises EUR1 billion for education, healthcare, security, and justice. ](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guiana-the-french-government-promises-a-1-billion-for-education-healthcare-security-and-just.md)
-_Context: social unrest in French Guiana_
+ France offered one billion euros ($1.06 billion) in aid for French Guiana on Saturday after protests swept the French territory in South America in recent days
 
 ## [Previous Day...](/news/2017/03/31/index.md)
 

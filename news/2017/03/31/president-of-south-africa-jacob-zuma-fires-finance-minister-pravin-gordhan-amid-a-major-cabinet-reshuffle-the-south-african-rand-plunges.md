@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.html)  [JSON](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.json)  [XML](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.xml)  
+
 ### [2017-03-31](/news/2017/03/31/index.md)
 
 # President of South Africa Jacob Zuma fires finance minister Pravin Gordhan amid a major cabinet reshuffle. The South African rand plunges. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/03/31/africa/south-africa-zuma-pravin-gordhan/)
 

@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-o
 
 # A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. 
 
-Three people were killed when a bus carrying around 50 school children and a few adults rolled over on a road in northern Sweden on Sunday, news agency TT said.
+ Three people were killed when a bus carrying around 50 school children and a few adults rolled over on a road in northern Sweden on Sunday, news agency TT said
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-sweden-accident-idUSKBN1740A9)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170402&t=2&i=1179019646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED31088)
+1. [Reuters](https://www.reuters.com/article/us-sweden-accident-idUSKBN1740A9)
+1. [Cover Image](/resources/r/?m=02&d=20170402&t=2&i=1179019646&w=400&r=LYNXMPED31088)
 
 ### Changes:
 

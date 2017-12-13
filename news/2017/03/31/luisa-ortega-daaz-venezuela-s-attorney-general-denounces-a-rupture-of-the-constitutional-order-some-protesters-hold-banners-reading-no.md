@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.html)  [JSON](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.json)  [XML](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.xml)  
+
 ### [2017-03-31](/news/2017/03/31/index.md)
 
 # Luisa Ortega Diaz, Venezuela's attorney general, denounces a rupture of the constitutional order. Some protesters hold banners reading: "No To Dictatorship". 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN1721P8)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170331&t=2&i=1178842239&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2U15T)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-politics-idUSKBN1721P8)
+1. [Cover Image](/resources/r/?m=02&d=20170401&t=2&i=1178973260&w=400&r=LYNXMPED302M8)
 
 ### Related:
 

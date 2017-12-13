@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.html)  [JSON](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.json)  [XML](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.xml)  
+
 ### [2017-04-1](/news/2017/04/1/index.md)
 
 # A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [DPA via News Limited](http://www.news.com.au/world/breaking-news/indonesian-landslide-buries-up-to-27/news-story/4e13917fabc16b127a8fa1979e24bd77)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

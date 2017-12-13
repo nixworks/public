@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controversial-ruling-the-court-restores-legislative-power-to-the-national-assembly-however-the-c.html)  [JSON](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controversial-ruling-the-court-restores-legislative-power-to-the-national-assembly-however-the-c.json)  [XML](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controversial-ruling-the-court-restores-legislative-power-to-the-national-assembly-however-the-c.xml)  
+
 ### [2017-04-1](/news/2017/04/1/index.md)
 
 # Venezuela's Supreme Court reverses their controversial ruling. The court restores legislative power to the National Assembly. However, the court's decision still allows President Nicolas Maduro to enter joint-venture deals. 
@@ -5,7 +8,7 @@
 The latest court ruling replaces a previous decision that appeared to completely neuter the National Assembly.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39468045)
 2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/denounced-as-a-dictatorship-venezuela-backs-down-reverses-court-ruling/2017/04/01/88451da8-1659-11e7-bb16-269934184168_story.html)
