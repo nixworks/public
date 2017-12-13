@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/10/index.html)  [JSON](2017/04/10/index.json)  [XML](2017/04/10/index.xml)  
+
 ## [2017-04-10](/news/2017/04/10/index.md)
 
 ### [Government-aligned militias kill 16 people during a raid in Wau, South Sudan. ](/news/2017/04/10/government-aligned-militias-kill-16-people-during-a-raid-in-wau-south-sudan.md)
-At least 10 people were killed in the South Sudanese town of Wau on Monday, as ethnic militias went house to house searching for people from other groups, witnesses said.
+ At least 16 people were killed in the South Sudanese town of Wau on Monday, said the United Nations, as witnesses said ethnic militiamen went house to house se
 
 ### [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md)
 The bomber, posing as a military trainee, detonates explosives strapped to his waist, killing nine soldiers. 
@@ -10,7 +13,7 @@ The bomber, posing as a military trainee, detonates explosives strapped to his w
 The acclaimed slavery novel has been rewarded alongside Lynn Nottage’s factory drama Sweat and Matthew Desmond’s nonfiction work Evicted
 
 ### [Aspen Skiing Company and KSL Capital Partners agree to acquire Intrawest for $1.5 billion. ](/news/2017/04/10/aspen-skiing-company-and-ksl-capital-partners-agree-to-acquire-intrawest-for-1-5-billion.md)
-A-Center;Updates Swift Transportation, Bain Capital and Cinven)
+(Updates Swift Transportation, Anglo American, AT&T, Rent-A-Center, Eskom and Bain Capital; adds Maersk, Whole Foods, Stefanel, Banco and Xcerra)
 
 ### [The United Kingdom-based Jaeger fashion chain collapses into administration after failing to find a buyer. ](/news/2017/04/10/the-united-kingdom-based-jaeger-fashion-chain-collapses-into-administration-after-failing-to-find-a-buyer.md)
 Jaeger collapses into administration after failing to find a buyer, putting 700 UK jobs at risk.
@@ -25,13 +28,13 @@ _Context: China, Cross-Strait relations_
 A gunman opened fire inside his wife&#x27;s elementary school classroom in San Bernardino on Monday, killing her and one a student before shooting himself.
 
 ### [A federal district court for southern Texas rules that the state's voter ID law was passed in 2011 with the intent to discriminate against minority voters. The 5th Circuit Court of Appeals previously found that the law had the effect of discriminating against minority voters, and remanded the case to the district court for further action. ](/news/2017/04/10/a-federal-district-court-for-southern-texas-rules-that-the-state-s-voter-id-law-was-passed-in-2011-with-the-intent-to-discriminate-against-m.md)
-A Texas law that requires voters to show identification before casting ballots was enacted with the intent to discriminate against black and Hispanic voters, a U.S. federal judge ruled on Monday.
+ A Texas law that requires voters to show identification before casting ballots was enacted with the intent to discriminate against black and Hispanic voters, a
 
 ### [ Pakistan sentences former Indian Navy officer Kulbhushan Yadav to death for espionage and sabotage. ](/news/2017/04/10/pakistan-sentences-former-indian-navy-officer-kulbhushan-yadav-to-death-for-espionage-and-sabotage.md)
 Jadhav, a former Indian naval officer, was sentenced for spying, sabotage in Karachi and Balochistan: ISPR.
 
 ### [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md)
-Donald Trump reveled in the biggest political victory of his presidency at a White House ceremony on Monday in which his Supreme Court pick Neil Gorsuch was sworn in, poised to make an instant impact on a court once again dominated by conservatives.
+_Context: Donald Trump, Neil Gorsuch, Neil Gorsuch Supreme Court nomination, U.S. Supreme Court, White House_
 
 ### [Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. ](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.md)
 The conservative Republican&#x27;s days in office could be numbered as the state&#x27;s House Judiciary Committee began impeachment hearings Monday.

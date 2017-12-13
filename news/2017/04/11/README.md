@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/11/index.html)  [JSON](2017/04/11/index.json)  [XML](2017/04/11/index.xml)  
+
 ## [2017-04-11](/news/2017/04/11/index.md)
 
 ### [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md)

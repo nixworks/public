@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/10/the-australian-research-council-reports-that-two-thirds-of-the-great-barrier-reef-have-suffered-from-severe-coral-bleaching-denoting-a-seco.html)  [JSON](/news/2017/04/10/the-australian-research-council-reports-that-two-thirds-of-the-great-barrier-reef-have-suffered-from-severe-coral-bleaching-denoting-a-seco.json)  [XML](/news/2017/04/10/the-australian-research-council-reports-that-two-thirds-of-the-great-barrier-reef-have-suffered-from-severe-coral-bleaching-denoting-a-seco.xml)  
+
 ### [2017-04-10](/news/2017/04/10/index.md)
 
 # The Australian Research Council reports that two thirds of the Great Barrier Reef have suffered from severe coral bleaching, denoting a second consecutive year of severe bleaching. 
@@ -5,7 +8,7 @@
 Two-thirds of the Great Barrier Reef is now devastated by severe coral bleaching, Queensland scientists say.
 
 
-### Source:
+### Sources:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2017-04-10/great-barrier-reef-severe-coral-bleaching-hits-two-thirds/8429662)
 1. [Cover Image](http://www.abc.net.au/news/image/8430104-1x1-700x700.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.html)  [JSON](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.json)  [XML](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.xml)  
+
 ### [2017-04-10](/news/2017/04/10/index.md)
 
 # Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. 
@@ -5,7 +8,7 @@
 The conservative Republican&#x27;s days in office could be numbered as the state&#x27;s House Judiciary Committee began impeachment hearings Monday.
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/robert-bentley-alabama-governor-jail-resigning-impeachment-2017-4)
 2. [NBC News](http://www.nbcnews.com/news/us-news/impeachment-hearings-alabama-love-gov-begin-n744646)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/10/starting-this-spring-the-state-of-new-york-will-offer-free-four-year-public-college-tuition-for-residents-whose-families-make-less-than-10.html)  [JSON](/news/2017/04/10/starting-this-spring-the-state-of-new-york-will-offer-free-four-year-public-college-tuition-for-residents-whose-families-make-less-than-10.json)  [XML](/news/2017/04/10/starting-this-spring-the-state-of-new-york-will-offer-free-four-year-public-college-tuition-for-residents-whose-families-make-less-than-10.xml)  
+
 ### [2017-04-10](/news/2017/04/10/index.md)
 
 # Starting this spring, the state of New York will offer free four-year public college tuition for residents whose families make less than $100,000, the first state in the country to do so. 
@@ -5,7 +8,7 @@
 Starting this fall, college tuition will be covered for all New York residents making less than $100,000 a year.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/education/new-york-becomes-first-state-offer-free-four-year-college-n744561)
 1. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2015_26/1091301/150624-college-grad-mt-1634_cfc07e84c392b1cba0abdec5b847a7d4.nbcnews-fp-1200-800.jpg)

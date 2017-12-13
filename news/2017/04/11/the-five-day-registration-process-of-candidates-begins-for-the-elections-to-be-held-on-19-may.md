@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.html)  [JSON](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.json)  [XML](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.xml)  
+
 ### [2017-04-11](/news/2017/04/11/index.md)
 
 # The five-day registration process of candidates begins for the elections to be held on 19 May. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Mehr News](http://en.mehrnews.com/news/124714/Registration-process-begins-for-12th-Presidential-Elections)
+
+### Changes:
+
+1. [Iranian presidential election, 2017: The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/iranian-presidential-election-2017-the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _2017-08-27 03:48:08 (First version)_
+1. [The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Incumbent President Hassan Rouhani is re-elected with 23.5 million votes, defeating Ebrahim Raisi who received 15.7 million votes. ](/news/2017/05/20/incumbent-president-hassan-rouhani-is-re-elected-with-23-5-million-votes-defeating-ebrahim-raisi-who-received-15-7-million-votes.md) _Context: re-elected_
 4. [Voters in Iran go to the polls to elect the President of Iran. Final opinion polls continue to predict that the incumbent Hassan Rouhani of the Moderation and Development Party will receive a majority of votes, with the conservative Combatant Clergy Association's Ebrahim Raisi as his main competition. ](/news/2017/05/19/voters-in-iran-go-to-the-polls-to-elect-the-president-of-iran-final-opinion-polls-continue-to-predict-that-the-incumbent-hassan-rouhani-of.md) _Context: re-elected_
 5. [Official campaigning ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-leading-candidates.md) _Context: re-elected_
-
-### Changes:
-
-1. [Iranian presidential election, 2017: The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/iranian-presidential-election-2017-the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _2017-08-27 03:48:08 (First version)_
-1. [The five-day registration process of candidates begins for the elections to be held on 19 May. ](/news/2017/04/11/the-five-day-registration-process-of-candidates-begins-for-the-elections-to-be-held-on-19-may.md) _(Current version)_
