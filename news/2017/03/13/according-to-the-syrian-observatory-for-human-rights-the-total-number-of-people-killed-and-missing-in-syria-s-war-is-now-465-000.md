@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.html)  [JSON](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.json)  [XML](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.xml)  
+
 ### [2017-03-13](/news/2017/03/13/index.md)
 
 # According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-casualties-idUSKBN16K1Q1)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170313&t=2&i=1175942930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2C19T)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-casualties-idUSKBN16K1Q1)
+1. [Cover Image](/resources/r/?m=02&d=20170313&t=2&i=1175942930&w=400&r=LYNXMPED2C19T)
+
+### Changes:
+
+1. [Syrian Civil War: According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now.md) _2017-08-27 03:47:59 (First version)_
+1. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 4. [Rival fighters between Tahrir al-Sham and Jund al-Aqsa clash in Syria's northern Idlib Governorate, killing "dozens" according to the Syrian Observatory for Human Rights. ](/news/2017/02/14/rival-fighters-between-tahrir-al-sham-and-jund-al-aqsa-clash-in-syria-s-northern-idlib-governorate-killing-dozens-according-to-the-syrian.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 5. [ISIL recaptures the Syrian city of Palmyra despite heavy Russian airstrikes, according to the Syrian Observatory for Human Rights and Palmyra Coordination Committee (PCC). ](/news/2016/12/11/isil-recaptures-the-syrian-city-of-palmyra-despite-heavy-russian-airstrikes-according-to-the-syrian-observatory-for-human-rights-and-palmyr.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [Syrian Civil War: According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/syrian-civil-war-according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now.md) _2017-08-27 03:47:59 (First version)_
-1. [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md) _(Current version)_

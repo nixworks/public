@@ -15,8 +15,11 @@ _Context: Alabama, D, Doug Jones, Jeff Sessions, R, Roy Moore, United States Att
 ### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
 
-### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. Glyphosate is a systemic herbicide and crop desiccant commonly sold under the trademark "Roundup". The petitioners fear that it would cause cancers. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
-_Context: EU citizen, European Commission, Regulation of chemicals, cause cancers, crop desiccant, glyphosate, petition, systemic herbicide, trademark_
+### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. Glyphosate is a systemic herbicide and crop desiccant commonly sold under the trademark "Roundup". The petitioners fear that the herbicide causes cancer. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
+_Context: EU citizen, European Commission, Regulation of chemicals, causes cancer, crop desiccant, glyphosate, petition, systemic herbicide, trademark_
+
+### [This year's "Arctic Report Card" reveals that the plunge in sea ice extent as well as the amount of ocean surface warming is unprecedented in at least the last 1,500 years. ](/news/2017/12/12/this-year-s-arctic-report-card-reveals-that-the-plunge-in-sea-ice-extent-as-well-as-the-amount-of-ocean-surface-warming-is-unprecedented-i.md)
+_Context: Arctic Report Card, Climate change in the Arctic, ocean surface, sea ice, warming_
 
 ---
 

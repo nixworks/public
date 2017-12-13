@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/13/index.html)  [JSON](2017/03/13/index.json)  [XML](2017/03/13/index.xml)  
+
 ## [2017-03-13](/news/2017/03/13/index.md)
 
 ### [At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. ](/news/2017/03/13/at-least-one-person-is-killed-and-another-eight-are-wounded-after-a-suicide-bomber-attacks-a-bus-carrying-government-employees-in-kabul.md)

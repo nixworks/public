@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.html)  [JSON](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.json)  [XML](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.xml)  
+
 ### [2017-02-13](/news/2017/02/13/index.md)
 
 # Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. 
@@ -5,7 +8,7 @@
 North Korean dictator Kim Jong Un’s half-brother was assassinated Monday in Malaysia, South Korean news agency Yonhap reported early Tuesday, citing a government source.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/world/2017/02/14/kim-jong-uns-half-brother-assassinated-in-malaysia.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/02/14/0/0/694940094001_5323113804001_Report-Kim-Jong-Un-s-half-brother-dies.jpg?ve=1)
