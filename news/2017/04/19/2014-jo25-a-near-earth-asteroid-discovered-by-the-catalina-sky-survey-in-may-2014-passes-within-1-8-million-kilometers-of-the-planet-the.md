@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/2014-jo25-a-near-earth-asteroid-discovered-by-the-catalina-sky-survey-in-may-2014-passes-within-1-8-million-kilometers-of-the-planet-the.html)  [JSON](/news/2017/04/19/2014-jo25-a-near-earth-asteroid-discovered-by-the-catalina-sky-survey-in-may-2014-passes-within-1-8-million-kilometers-of-the-planet-the.json)  [XML](/news/2017/04/19/2014-jo25-a-near-earth-asteroid-discovered-by-the-catalina-sky-survey-in-may-2014-passes-within-1-8-million-kilometers-of-the-planet-the.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # 2014 JO25, a near-Earth asteroid discovered by the Catalina Sky Survey in May 2014, passes within 1.8 million kilometers of the planet, the largest such asteroid to transit close to Earth since 2004. 
@@ -5,7 +8,7 @@
 A large asteroid the size of the Rock of Gibraltar has passed safely by Earth.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-39642995)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/BA04/production/_95702674_mediaitem95702673.jpg)

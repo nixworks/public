@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.html)  [JSON](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.json)  [XML](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/04/19/jason-chaffetz-announces-he-wont-run-for-office-in-2018/)
 

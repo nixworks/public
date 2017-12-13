@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/former-new-england-patriots-player-aaron-hernandez-acquitted-last-week-of-a-2012-double-murder-but-serving-a-life-sentence-for-a-2013-murde.html)  [JSON](/news/2017/04/19/former-new-england-patriots-player-aaron-hernandez-acquitted-last-week-of-a-2012-double-murder-but-serving-a-life-sentence-for-a-2013-murde.json)  [XML](/news/2017/04/19/former-new-england-patriots-player-aaron-hernandez-acquitted-last-week-of-a-2012-double-murder-but-serving-a-life-sentence-for-a-2013-murde.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Former New England Patriots player Aaron Hernandez, acquitted last week of a 2012 double murder but serving a life sentence for a 2013 murder, is found hanged in his prison cell, and is pronounced dead an hour later. 
@@ -5,7 +8,7 @@
 Aaron Hernandez, the former New England Patriots star who was convicted of murder in 2015, killed himself in his prison cell Wednesday morning, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2017/04/19/aaron-hernandez-former-nfl-player-found-dead-in-prison-cell-officials-say.html)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/04/19/0/0/694940094001_5403153564001_5403142539001-vs.jpg?ve=1)

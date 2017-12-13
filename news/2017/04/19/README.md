@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/19/index.html)  [JSON](2017/04/19/index.json)  [XML](2017/04/19/index.xml)  
+
 ## [2017-04-19](/news/2017/04/19/index.md)
 
 ### [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md)
-A string of bomb and gun attacks killed two people in southern Thailand late on Wednesday and wounded three others, a senior military spokesman said.
+ A string of gun and grenade attacks in southern Thailand that killed two people reflects tension over talks aimed at ending violence there, a conflict monitori
 
 ### [At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-aroun.md)
 ICC will investigate reports of rapes and killings by soldiers if DRC government fails to, UN rights chief says.
@@ -13,7 +16,7 @@ _Context: 21st Century Fox, Bill O'Reilly, Fox News_
 Emirates, the Middle East&apos;s biggest airline, said it is cutting flights to the U.S. because of a drop in demand caused by heightened U.S. security measures and Trump administration attempts to ban...
 
 ### [At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. ](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.md)
-At least 11 people were killed and 20 are missing after a landslide hit several neighborhoods in Manizales, Colombia, the government said on Wednesday, the second deadly landslide in the country this month.
+ At least 17 people were killed and seven are missing after a landslide sent mud and rocks crashing into several neighborhoods in Manizales, Colombia, the gover
 
 ### [Four Hellenic Army officers are killed and one is injured when their Bell UH-1 Iroquois border patrol helicopter crashes near Elassona in northern Greece. ](/news/2017/04/19/four-hellenic-army-officers-are-killed-and-one-is-injured-when-their-bell-uh-1-iroquois-border-patrol-helicopter-crashes-near-elassona-in-no.md)
 Military officials in Greece say four army officers have been killed and one injured in the crash of a border patrol helicopter in northern Greece. The incident occurred Wednesday, north of the town of Elassona, some 450 kilometers (280 miles) northwest of Athens. Army officials say the...
@@ -43,7 +46,7 @@ _Context: Alternative for Germany, Frauke Petry, German federal election, 2017_
 Party supports fixed-term parliaments but says it will not stand in the way of an early election.
 
 ### [Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. ](/news/2017/04/19/venezuelan-security-forces-clash-with-opposition-demonstrators-in-the-so-called-mother-of-all-marches-against-president-nicola-s-maduro-in.md)
-Venezuelan security forces fired tear gas as demonstrators staged what they billed as the &quot;mother of all marches&quot; against President Nicolas Maduro on Wednesday, and a student caught up in a clash died after being shot in the head.
+ Two Venezuelan students and a National Guard sergeant died on Wednesday after being shot during protests against unpopular leftist President Nicolas Maduro, in
 
 ### [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md)
 _Context: House Oversight Committee, Jason Chaffetz, United States House of Representatives elections, 2018, Utah_

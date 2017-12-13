@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.html)  [JSON](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.json)  [XML](/news/2017/04/19/pedro-hernandez-convicted-in-february-2017-for-the-may-25-1979-death-of-etan-patz-in-the-soho-neighborhood-of-manhattan-was-sentenced-yes.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Pedro Hernandez, convicted in February 2017 for the May 25, 1979 death of Etan Patz in the SoHo neighborhood of Manhattan, was sentenced yesterday to 25 years to life imprisonment.
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/04/18/nyregion/pedro-hernandez-etan-patz-sentencing.html)
 

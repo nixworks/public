@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.html)  [JSON](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.json)  [XML](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Three senior figures in the Bharatiya Janata Party, L.K. Advani, Uma Bharati and Murli Manohar Joshi, will be tried for their alleged role in the destruction of the Babri Masjid Mosque in the northern Indian town of Ayodhya. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/04/19/asia/india-mosque-demolition-conspiracy/index.html)
 

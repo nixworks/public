@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.html)  [JSON](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.json)  [XML](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. 
@@ -5,11 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-germany-election-afd-idUSKBN17L1LC?il=0)
-2. [Reuters](http://www.reuters.com/article/us-germany-election-poll-idUSKBN17L0PZ?il=0)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-germany-election-afd-idUSKBN17L1LC?il=0)
+2. [Reuters](https://www.reuters.com/article/us-germany-election-poll-idUSKBN17L0PZ?il=0)
+2. [Cover Image](/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [German federal election, 2017: Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/german-federal-election-2017-alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-f.md) _2017-08-27 03:48:11 (First version)_
+1. [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md) _Context: Alternative for Germany, Frauke Petry_
 4. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: German federal election, 2017_
 5. [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _Context: German federal election, 2017_
-
-### Changes:
-
-1. [German federal election, 2017: Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/german-federal-election-2017-alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-f.md) _2017-08-27 03:48:11 (First version)_
-1. [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md) _(Current version)_

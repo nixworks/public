@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.html)  [JSON](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.json)  [XML](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. 
 
-At least 11 people were killed and 20 are missing after a landslide hit several neighborhoods in Manizales, Colombia, the government said on Wednesday, the second deadly landslide in the country this month.
+ At least 17 people were killed and seven are missing after a landslide sent mud and rocks crashing into several neighborhoods in Manizales, Colombia, the gover
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Telegraph](http://www.telegraph.co.uk/news/2017/04/20/colombia-landslide-kills-least-17-rains-lash-andes/)
-2. [Reuters](http://www.reuters.com/article/us-colombia-landslide-idUSKBN17L24K?il=0)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170419&t=2&i=1181225839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3I1BM)
+2. [Reuters](https://www.reuters.com/article/us-colombia-landslide-idUSKBN17L24K?il=0)
+2. [Cover Image](/resources/r/?m=02&d=20170419&t=2&i=1181266822&w=400&r=LYNXMPED3I1BM)
 
 ### Related:
 

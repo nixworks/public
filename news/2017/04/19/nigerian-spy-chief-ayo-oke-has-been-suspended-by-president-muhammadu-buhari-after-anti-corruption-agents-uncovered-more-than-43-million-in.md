@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.html)  [JSON](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.json)  [XML](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. 
@@ -5,7 +8,7 @@
 The cash was kept in a Lagos flat for covert operations, intelligence officials told local media.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-39646256)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/181D4/production/_95627789_efcc.png)

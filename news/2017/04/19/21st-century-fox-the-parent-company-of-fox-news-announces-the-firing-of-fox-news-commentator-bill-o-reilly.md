@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/21st-century-fox-the-parent-company-of-fox-news-announces-the-firing-of-fox-news-commentator-bill-o-reilly.html)  [JSON](/news/2017/04/19/21st-century-fox-the-parent-company-of-fox-news-announces-the-firing-of-fox-news-commentator-bill-o-reilly.json)  [XML](/news/2017/04/19/21st-century-fox-the-parent-company-of-fox-news-announces-the-firing-of-fox-news-commentator-bill-o-reilly.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 #  21st Century Fox, the parent company of Fox News, announces the firing of Fox News commentator Bill O'Reilly. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-39647434)
 2. [CNN](http://money.cnn.com/2017/04/19/media/bill-oreilly-out-fox-news/index.html)

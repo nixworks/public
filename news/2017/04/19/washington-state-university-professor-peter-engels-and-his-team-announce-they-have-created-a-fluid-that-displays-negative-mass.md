@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.html)  [JSON](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.json)  [XML](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Washington State University professor Peter Engels and his team announce they have created a fluid that displays negative mass. 
@@ -5,7 +8,7 @@
 Physicists have created a fluid with &quot;negative mass&quot;, which accelerates towards you when pushed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-39642992)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10306/production/_95701366_a4000135-bose-einstein_condensate_research-spl.jpg)

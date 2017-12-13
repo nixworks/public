@@ -1,14 +1,22 @@
+
+Formats: [HTML](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.html)  [JSON](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.json)  [XML](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.xml)  
+
 ### [2017-04-19](/news/2017/04/19/index.md)
 
 # Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. 
 
-A string of bomb and gun attacks killed two people in southern Thailand late on Wednesday and wounded three others, a senior military spokesman said.
+ A string of gun and grenade attacks in southern Thailand that killed two people reflects tension over talks aimed at ending violence there, a conflict monitori
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-thailand-south-attacks-idUSKBN17L243?il=0)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170419&t=2&i=1181215225&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3I15B)
+1. [Reuters](https://www.reuters.com/article/us-thailand-south-attacks-idUSKBN17L243?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170420&t=2&i=1181304256&w=400&r=LYNXMPED3J08I)
+
+### Changes:
+
+1. [South Thailand insurgency: Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/south-thailand-insurgency-joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-late.md) _2017-08-27 03:48:11 (First version)_
+1. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ A string of bomb and gun attacks killed two people in southern Thailand late on 
 3. [Two Thai Army soldiers are killed in an ambush in Thailand's Narathiwat Province. ](/news/2015/07/16/two-thai-army-soldiers-are-killed-in-an-ambush-in-thailand-s-narathiwat-province.md) _Context: Narathiwat, South Thailand insurgency, Thailand_
 4. [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md) _Context: Pattani, South Thailand insurgency, Thailand_
 5. [ Militants in southern Thailand kill a Muslim family of three while a bomb attack injures two in Pattani Province. ](/news/2009/12/4/militants-in-southern-thailand-kill-a-muslim-family-of-three-while-a-bomb-attack-injures-two-in-pattani-province.md) _Context: Pattani, South Thailand insurgency, Thailand_
-
-### Changes:
-
-1. [South Thailand insurgency: Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/south-thailand-insurgency-joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-late.md) _2017-08-27 03:48:11 (First version)_
-1. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _(Current version)_
