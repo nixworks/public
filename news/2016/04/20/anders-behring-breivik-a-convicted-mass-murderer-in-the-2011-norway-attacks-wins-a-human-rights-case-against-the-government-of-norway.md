@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.html)  [JSON](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.json)  [XML](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murderer-in-the-2011-norway-attacks-wins-a-human-rights-case-against-the-government-of-norway.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # Anders Behring Breivik, a convicted mass murderer in the 2011 Norway attacks, wins a human rights case against the government of Norway. 
@@ -5,7 +8,7 @@
 Mass murderer Anders Behring Breivik wins part of a human rights case against the Norwegian state, alleging &quot;inhuman or degrading treatment&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36094575)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17A7C/production/_89329869_89329865.jpg)

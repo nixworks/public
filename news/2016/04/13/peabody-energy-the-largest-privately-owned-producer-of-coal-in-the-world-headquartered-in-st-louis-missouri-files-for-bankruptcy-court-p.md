@@ -5,14 +5,14 @@ Formats: [HTML](/news/2016/04/13/peabody-energy-the-largest-privately-owned-prod
 
 # Peabody Energy, the largest privately-owned producer of coal in the world headquartered in St. Louis, Missouri, files for bankruptcy court protection due to high debts and a drop in world prices. 
 
-Leading global coal producer Peabody Energy Corp BTU.N filed for U.S. bankruptcy protection on Wednesday after a sharp drop in coal prices left it unable to service debt of $10.1 billion, much of it incurred for an expansion into Australia.
+ Leading global coal producer Peabody Energy Corp filed for U.S. bankruptcy protection on Wednesday after a sharp drop in coal prices left it unable to service 
 
 
 ### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-13/peabody-energy-files-for-bankruptcy-protection/7324534)
-2. [Reuters](http://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKCN0XA0E7)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160413&t=2&i=1132382128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3C06L)
+2. [Reuters](https://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKCN0XA0E7)
+2. [Cover Image](/resources/r/?m=02&d=20160413&t=2&i=1132382128&w=400&r=LYNXNPEC3C06L)
 
 ### Related:
 

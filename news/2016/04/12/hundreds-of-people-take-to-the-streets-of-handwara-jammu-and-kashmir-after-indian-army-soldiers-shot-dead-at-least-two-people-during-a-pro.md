@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/12/hundreds-of-people-take-to-the-streets-of-handwara-jammu-and-kashmir-after-indian-army-soldiers-shot-dead-at-least-two-people-during-a-pro.html)  [JSON](/news/2016/04/12/hundreds-of-people-take-to-the-streets-of-handwara-jammu-and-kashmir-after-indian-army-soldiers-shot-dead-at-least-two-people-during-a-pro.json)  [XML](/news/2016/04/12/hundreds-of-people-take-to-the-streets-of-handwara-jammu-and-kashmir-after-indian-army-soldiers-shot-dead-at-least-two-people-during-a-pro.xml)  
+
 ### [2016-04-12](/news/2016/04/12/index.md)
 
 #  Hundreds of people take to the streets of Handwara, Jammu and Kashmir after Indian Army soldiers shot dead at least two people during a protest against an alleged case of sexual harassment by an army soldier against a young woman. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/rage-kashmir-killing-youths-indian-army-160412130941763.html)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/12/a-massive-fire-occurs-in-a-textile-factory-in-the-mumbai-suburb-of-bhiwandi-in-india-s-maharashtra-state-fifty-people-are-feared-trapped.html)  [JSON](/news/2016/04/12/a-massive-fire-occurs-in-a-textile-factory-in-the-mumbai-suburb-of-bhiwandi-in-india-s-maharashtra-state-fifty-people-are-feared-trapped.json)  [XML](/news/2016/04/12/a-massive-fire-occurs-in-a-textile-factory-in-the-mumbai-suburb-of-bhiwandi-in-india-s-maharashtra-state-fifty-people-are-feared-trapped.xml)  
+
 ### [2016-04-12](/news/2016/04/12/index.md)
 
 #  A massive fire occurs in a textile factory in the Mumbai suburb of Bhiwandi in India's Maharashtra state. Fifty people are feared trapped. 
@@ -5,7 +8,7 @@
 The fire is spreading across the floors. The building is a powerloom factory as well as a residential complex.
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/4-floor-building-near-mumbai-catches-fire-many-feared-trapped-1228599.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2016/04/bhiwandi-fire_11am2.jpg)

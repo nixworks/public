@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/the-federal-constitutional-court-of-germany-rules-that-an-anti-terrorism-law-is-unconstitutional-and-violates-right-to-privacy.html)  [JSON](/news/2016/04/20/the-federal-constitutional-court-of-germany-rules-that-an-anti-terrorism-law-is-unconstitutional-and-violates-right-to-privacy.json)  [XML](/news/2016/04/20/the-federal-constitutional-court-of-germany-rules-that-an-anti-terrorism-law-is-unconstitutional-and-violates-right-to-privacy.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # The Federal Constitutional Court of Germany rules that an anti-terrorism law is unconstitutional and violates right to privacy. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [DPA](http://www.dpa-international.com/news/top_stories/highest-german-court-anti-terrorism-law-partly-unconstitutional-a-49025894.html)
 

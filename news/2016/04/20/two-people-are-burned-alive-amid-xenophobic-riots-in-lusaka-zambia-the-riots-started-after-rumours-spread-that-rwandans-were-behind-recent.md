@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.html)  [JSON](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.json)  [XML](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # Two people are burned alive amid xenophobic riots in Lusaka, Zambia. The riots started after rumours spread that Rwandans were behind recent ritual killings in the city. More than 250 people have been arrested after more than 60 Rwandan-owned shops were looted in two days of violence. 
@@ -5,7 +8,7 @@
 Two Zambians were burned to death on Monday during an outbreak of xenophobic violence in the capital, Lusaka, the authorities say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-36092917)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B77C/production/_89327964_89317099.jpg)

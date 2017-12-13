@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.html)  [JSON](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.json)  [XML](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.xml)  
+
 ### [2016-04-12](/news/2016/04/12/index.md)
 
 #  Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. 
@@ -5,10 +8,15 @@
 Bolivia is looking to Russian defense firms to revamp its aging military arsenal over the next decade.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Business_News/Security-Industry/2016/04/12/Russia-Bolivia-look-to-strengthen-military-ties/9271460478124/?spt=sec&or=bn)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/9271460478124/2016/1/d3e805029cd677c29b01c0be79c45516/v1.5/Russia-Bolivia-look-to-strengthen-military-ties.jpg)
+
+### Changes:
+
+1. [ Bolivia - Russia relations: Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/bolivia-russia-relations-russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-r.md) _2017-08-27 03:45:35 (First version)_
+1. [ Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Bolivia is looking to Russian defense firms to revamp its aging military arsenal
 3. [ Bolivia becomes the first country in the history of South America to declare the right of indigenous people to govern themselves. ](/news/2009/08/3/bolivia-becomes-the-first-country-in-the-history-of-south-america-to-declare-the-right-of-indigenous-people-to-govern-themselves.md) _Context: Bolivia, South America_
 4. [ The leaders of Brazil, Bolivia, and Chile agree to build a highway by 2009 that will link the Atlantic (in Santos, Brazil) and the Pacific (in Iquique, Chile) coasts of South America. ](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.md) _Context: Bolivia, South America_
 5. [ Evo Morales becomes the latest Leftist to win the Presidency of a South American nation after he claimed victory in the Bolivian Presidential Election. ](/news/2005/12/19/evo-morales-becomes-the-latest-leftist-to-win-the-presidency-of-a-south-american-nation-after-he-claimed-victory-in-the-bolivian-presidenti.md) _Context: Bolivia, South America_
-
-### Changes:
-
-1. [ Bolivia - Russia relations: Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/bolivia-russia-relations-russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-r.md) _2017-08-27 03:45:35 (First version)_
-1. [ Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.md) _(Current version)_

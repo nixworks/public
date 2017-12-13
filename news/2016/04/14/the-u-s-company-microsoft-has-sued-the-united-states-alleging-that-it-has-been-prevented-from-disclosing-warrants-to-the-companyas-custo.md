@@ -5,12 +5,13 @@ Formats: [HTML](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-s
 
 # The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. 
 
-
+The company is challenging the use of secrecy orders that prevent it from telling people when the government obtains a warrant to read their emails.
 
 
 ### Sources:
 
-1. [NYT](http://www.nytimes.com/2016/04/15/technology/microsoft-sues-us-over-orders-barring-it-from-revealing-surveillance.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news)
+1. [NYT](https://www.nytimes.com/2016/04/15/technology/microsoft-sues-us-over-orders-barring-it-from-revealing-surveillance.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news)
+1. [Cover Image](https://static01.nyt.com/images/2016/04/15/business/15microsoft/15microsoft-facebookJumbo.jpg)
 
 ### Changes:
 

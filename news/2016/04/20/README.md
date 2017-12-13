@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/20/index.html)  [JSON](2016/04/20/index.json)  [XML](2016/04/20/index.xml)  
+
 ## [2016-04-20](/news/2016/04/20/index.md)
 
 ### [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md)
@@ -19,10 +22,10 @@ Mitsubishi Motors admits falsifying fuel economy test data for more than 600,000
 Google has 12 weeks to respond to charge and could face European Commission fine 
 
 ### [Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. ](/news/2016/04/20/volkswagen-and-united-states-officials-agree-in-principle-on-a-deal-where-the-automaker-could-buy-back-up-to-500-000-diesel-cars.md)
-Volkswagen AG (VOWG_p.DE) and U.S. officials have reached a framework deal under which the automaker would offer to buy back almost 500,000 diesel cars that used sophisticated software to evade U.S. emission rules, two people briefed on the matter said on Wednesday.
+ Volkswagen AG and U.S. officials have reached a framework deal under which the automaker would offer to buy back almost 500,000 diesel cars that used sophistic
 
 ### [Former slave Harriet Tubman will replace Andrew Jackson on the front of the United States twenty-dollar bill while Alexander Hamilton keeps his place on the ten after the public consultation process. ](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew-jackson-on-the-front-of-the-united-states-twenty-dollar-bill-while-alexander-hamilton-keeps.md)
-Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, when she replaces former President Andrew Jackson on the $20 bill.
+ Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, whe
 
 ### [A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. ](/news/2016/04/20/a-magnitude-6-1-aftershock-has-struck-off-the-coast-of-ecuador-at-3-33-a-m-local-time-the-us-geological-survey-says-in-the-same-area-as-t.md)
 QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that he is raising sales taxes and will charge a one-time levy on millionaires to rebuild cities devastated by Ecuador&#039;s worst earthquake in decades.…
@@ -37,10 +40,10 @@ _Context: Alaska, Anchorage Fire Department, Chugiak, Anchorage_
 A large explosion rocks an oil facility in the south-east Mexican state of Veracruz, killing three and injuring at least 136 people.
 
 ### [The Gulf Cooperation Council (GCC) and the United States agree to carry out joint naval patrols to prevent Iranian arms shipments reaching Yemen, the Gulf bloc's secretary general Abdullatif bin Rashid Al Zayani said on Wednesday, following a meeting with United States Secretary of Defense Ash Carter. Iran denies it supplies weapons to the Houthis in Yemen. ](/news/2016/04/20/the-gulf-cooperation-council-gcc-and-the-united-states-agree-to-carry-out-joint-naval-patrols-to-prevent-iranian-arms-shipments-reaching-y.md)
-_Context: Abdullatif bin Rashid Al Zayani, Ash Carter, Defense Secretary, Gulf Cooperation Council, Houthi, Iran, United States, Yemen, Yemeni Crisis_
+ Gulf Cooperation Council (GCC) countries and the United States have agreed to carry out joint patrols to stop any Iranian arms shipments reaching Yemen, the bl
 
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations, member states_
+_Context: European Council, European Parliament, European Union, Ukraine, Ukraine-European Union relations, member states_
 
 ### [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md)
 NATO has reopened informal talks with Russia for the first time in nearly two years. Diplomats met for over 90 minutes to discuss Ukraine and the
@@ -64,7 +67,7 @@ The mainly Mormon US state of Utah becomes the first to declare pornography to b
 Mass murderer Anders Behring Breivik wins part of a human rights case against the Norwegian state, alleging &quot;inhuman or degrading treatment&quot;.
 
 ### [The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. ](/news/2016/04/20/the-first-criminal-charges-are-laid-against-three-people-two-state-officials-and-a-municipal-official-involved-in-the-flint-water-crisis.md)
-_Context: Flint water crisis, Flint, Michigan_
+Two Michigan officials were accused of misleading other officials about the city’s water, and a city employee was charged with misconduct.
 
 ### [In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-it-is-opening-a.md)
 The US Justice Department opens a criminal investigation into tax avoidance schemes exposed by the Panama Papers.
@@ -76,7 +79,7 @@ Two Zambians were burned to death on Monday during an outbreak of xenophobic vio
 _Context: Canada, Drug policy of Canada, Jane Philpott, Minister of Health, marijuana_
 
 ### [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md)
-The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in the 1983 bombing of a U.S. Marine Corps barracks in Beirut and other attacks blamed on Iran.
+ The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in the 1983
 
 ### [Yasri Khan, a senior member of Swedish Green Party (part of the ruling coalition), who was refusing to shake hands with a female reporter on grounds that it violated his Muslim faith, announces that he is quitting politics. ](/news/2016/04/20/yasri-khan-a-senior-member-of-swedish-green-party-part-of-the-ruling-coalition-who-was-refusing-to-shake-hands-with-a-female-reporter-on.md)
 A Swedish Green Party politician, who ignited a storm of controversy after refusing to shake hands with a female reporter on grounds that it violated his Muslim faith, announced on Wednesday that he was quitting politics.

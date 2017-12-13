@@ -13,7 +13,7 @@ In separate incident, two 12-year-old Palestinian kids arrested with knives in J
 KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four paintings from a trove of Dutch Golden Age art that was stolen from a Dutch museum more than a decade ago. At a Thursday briefing showing the four...
 
 ### [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md)
-A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but the nuclear regulator reported no problems at power plants.
+ A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but
 
 ### [At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. ](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-crane-collapses-on-a-temporary-structure-during-a-thunderstorm-in-the-city-of-dongguan-china.md)
 _Context: China, Dongguan, thunderstorm_
@@ -25,7 +25,7 @@ News - Your daily dose of information: European and International latest breakin
 The Chinese government says 357 officials are to be punished over a scandal involving the sale of illegal vaccines, while 192 criminal cases have been filed.
 
 ### [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md)
-_Context: Microsoft, U.S., sued_
+The company is challenging the use of secrecy orders that prevent it from telling people when the government obtains a warrant to read their emails.
 
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
 _Context: Arseny Yatseniuk, Prime Minister of Ukraine, Volodmyr Groysman, parliament_

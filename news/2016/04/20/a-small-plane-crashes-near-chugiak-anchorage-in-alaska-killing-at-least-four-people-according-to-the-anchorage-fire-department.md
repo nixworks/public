@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/a-small-plane-crashes-near-chugiak-anchorage-in-alaska-killing-at-least-four-people-according-to-the-anchorage-fire-department.html)  [JSON](/news/2016/04/20/a-small-plane-crashes-near-chugiak-anchorage-in-alaska-killing-at-least-four-people-according-to-the-anchorage-fire-department.json)  [XML](/news/2016/04/20/a-small-plane-crashes-near-chugiak-anchorage-in-alaska-killing-at-least-four-people-according-to-the-anchorage-fire-department.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # A small-plane crashes near Chugiak, Anchorage in Alaska, killing at least four people, according to the Anchorage Fire Department. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Alaska Dispatch News](http://www.adn.com/article/20160420/4-reported-dead-fiery-plane-crash-near-chugiak)
 

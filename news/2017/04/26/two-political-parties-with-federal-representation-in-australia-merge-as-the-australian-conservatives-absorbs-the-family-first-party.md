@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.html)  [JSON](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.json)  [XML](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.xml)  
+
 ### [2017-04-26](/news/2017/04/26/index.md)
 
 # Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. 
@@ -5,7 +8,7 @@
 TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/national/politics/cory-bernardis-fledgling-australian-conservatives-party-to-merge-with-family-first/news-story/c63ca905b7d338ab2f3a0579f94253f3)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/33f7d2cba064df2e308d4723f6b71579)

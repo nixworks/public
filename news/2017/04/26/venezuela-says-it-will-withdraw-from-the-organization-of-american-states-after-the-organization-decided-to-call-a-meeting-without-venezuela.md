@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.html)  [JSON](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.json)  [XML](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.xml)  
+
 ### [2017-04-26](/news/2017/04/26/index.md)
 
 # Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. 
@@ -5,7 +8,7 @@
 Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/04/venezuela-organization-american-states-170426225132076.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/26/venezuela-quitting-oas-anger-pressure-political-crisis/)
@@ -17,4 +20,4 @@ Venezuela said on Wednesday it was quitting the Organisation of American States 
 2. [ Around 150 Venezuelan students end a weeklong hunger strike protesting against alleged human rights abuses in Venezuela, after Organization of American States officials agree to meet the students and one of their leaders is released. ](/news/2009/10/1/around-150-venezuelan-students-end-a-weeklong-hunger-strike-protesting-against-alleged-human-rights-abuses-in-venezuela-after-organization.md) _Context: Organization of American States, Venezuela_
 3. [ Colombia files a complaint about Venezuela with the Organization of American States, saying the country has been interfering in its domestic affairs. ](/news/2009/08/27/colombia-files-a-complaint-about-venezuela-with-the-organization-of-american-states-saying-the-country-has-been-interfering-in-its-domesti.md) _Context: Organization of American States, Venezuela_
 4. [ Chvez recall: Venezuelan President Hugo Chvez defeats a recall vote with 58% support. Some opposition members claim election fraud, but monitors from the OAS and the Carter Center endorse the official result. ](/news/2004/08/15/chavez-recall-venezuelan-president-hugo-chavez-defeats-a-recall-vote-with-58-support-some-opposition-members-claim-election-fraud-but-m.md) _Context: Organization of American States, Venezuela_
-5. [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md) _Context: Venezuela_
+5. [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md) _Context: Venezuela_

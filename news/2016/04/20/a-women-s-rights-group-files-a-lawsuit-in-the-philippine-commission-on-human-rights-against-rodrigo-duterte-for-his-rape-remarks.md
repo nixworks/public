@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.html)  [JSON](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.json)  [XML](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # A women's rights group files a lawsuit in the Philippine Commission on Human Rights against Rodrigo Duterte for his rape remarks. 
@@ -5,9 +8,9 @@
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/04/20/world/asia/ap-as-philippines-rape-remark.html?post_id=819882328064898_975192689200527#_=_)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/04/20/world/asia/ap-as-philippines-rape-remark.html?post_id=819882328064898_975192689200527#_=_)
 
 ### Related:
 

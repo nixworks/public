@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew-jackson-on-the-front-of-the-united-states-twenty-dollar-bill-while-alexander-hamilton-keeps.html)  [JSON](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew-jackson-on-the-front-of-the-united-states-twenty-dollar-bill-while-alexander-hamilton-keeps.json)  [XML](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew-jackson-on-the-front-of-the-united-states-twenty-dollar-bill-while-alexander-hamilton-keeps.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # Former slave Harriet Tubman will replace Andrew Jackson on the front of the United States twenty-dollar bill while Alexander Hamilton keeps his place on the ten after the public consultation process. 
 
-Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, when she replaces former President Andrew Jackson on the $20 bill.
+ Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, whe
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-currency-idUSKCN0XH21W)
+1. [Reuters](https://www.reuters.com/article/us-usa-currency-idUSKCN0XH21W)
 2. [The New York Times](http://mobile.nytimes.com/2016/04/21/us/women-currency-treasury-harriet-tubman.html?referer=https://news.google.com/)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160420&t=2&i=1133778410&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3J14M)
+2. [Cover Image](/resources/r/?m=02&d=20160420&t=2&i=1133778410&w=400&r=LYNXNPEC3J14M)
 
 ### Related:
 

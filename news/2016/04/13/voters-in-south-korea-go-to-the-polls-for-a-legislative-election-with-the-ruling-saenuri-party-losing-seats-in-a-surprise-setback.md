@@ -5,14 +5,14 @@ Formats: [HTML](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-leg
 
 # Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. 
 
-Park’s party failed to win a majority in the legislature, undermining chances to enact her economic agenda in her final years in office. With almost all of the ballots counted, the Saenuri Party is projected to win 122 parliamentary seats, South Korean TV broadcaster KBS TV reports. The ruling party currently has 146 lawmakers in the 300-seat National Assembly, South Korea’s unicameral legislature.
+Saenuri Party Chairman Kim Moo Sung is resigning as its chairman, following a surprise setback for President Park Geun Hye’s ruling party in Wednesday’s election.
 
 
 ### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SOUTH_KOREA_PARLIAMENTARY_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.com/news/world-asia-36033773)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-14/south-korea-s-ruling-party-chief-resigns-over-election-loss)
+3. [Bloomberg](https://www.bloomberg.com/news/articles/2016-04-14/south-korea-s-ruling-party-chief-resigns-over-election-loss)
 3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Changes:

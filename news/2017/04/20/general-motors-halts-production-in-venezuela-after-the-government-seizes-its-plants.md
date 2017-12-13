@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.html)  [JSON](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.json)  [XML](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.xml)  
+
 ### [2017-04-20](/news/2017/04/20/index.md)
 
 # General Motors halts production in Venezuela after the government seizes its plants. 
@@ -5,7 +8,7 @@
 General Motors says it will immediately halt operations in Venezuela after its plant in the country was unexpectedly seized by authorities.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2017/04/20/news/gm-venezuela-plant-seized/)
 1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170420091840-gm-logo-780x439.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/26/index.html)  [JSON](2017/04/26/index.json)  [XML](2017/04/26/index.xml)  
+
 ## [2017-04-26](/news/2017/04/26/index.md)
 
 ### [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md)
@@ -25,7 +28,7 @@ Venezuela said on Wednesday it was quitting the Organisation of American States 
 Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
 
 ### [David Hittner, U.S. District Court Judge for the Southern District of Texas, rules ExxonMobil Corporation should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex for 16,386 days of violations and 10 million pounds (4.5 Gg) of pollutants that were released in violation of operating permits between 2005 and 2013. ](/news/2017/04/26/david-hittner-u-s-district-court-judge-for-the-southern-district-of-texas-rules-exxonmobil-corporation-should-pay-a-19-95-million-penalt.md)
-A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex between 2005 and 2013.
+ A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant 
 
 ### [Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. ](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.md)
 TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.

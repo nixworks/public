@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/20/index.html)  [JSON](2017/04/20/index.json)  [XML](2017/04/20/index.xml)  
+
 ## [2017-04-20](/news/2017/04/20/index.md)
 
 ### [One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". ](/news/2017/04/20/one-policeman-has-been-killed-and-another-has-been-critically-injured-after-a-man-opened-fire-at-police-officers-at-the-champs-alysa-c-es-in.md)
@@ -7,13 +10,13 @@ ISIS claimed responsibility for an attack on police officers on the Champs-Élys
 General Motors says it will immediately halt operations in Venezuela after its plant in the country was unexpectedly seized by authorities.
 
 ### [American high-speed electronic trading company Virtu Financial agrees to buy its rival KCG Holdings for $1.4 billion. ](/news/2017/04/20/american-high-speed-electronic-trading-company-virtu-financial-agrees-to-buy-its-rival-kcg-holdings-for-1-4-billion.md)
-The following bids, mergers,acquisitions and disposals were reported by 1300 GMT onThursday:
+(Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)
 
 ### [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md)
-The following bids, mergers,acquisitions and disposals were reported by 1300 GMT onThursday:
+(Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)
 
 ### [Tesla Motors announces the recall of 50,000 Tesla Model S and Tesla Model X cars for a "brake issue". ](/news/2017/04/20/tesla-motors-announces-the-recall-of-50-000-tesla-model-s-and-tesla-model-x-cars-for-a-brake-issue.md)
-Tesla Inc (TSLA.O) said on Thursday it would recall 53,000 of its Model S and Model X cars globally to fix a parking brake issue.
+ Tesla Inc said on Thursday it would recall 53,000 of its Model S and Model X cars globally to fix a parking brake issue.
 
 ### [Arkansas executes Ledell Lee, the first inmate executed in the state since 2005. ](/news/2017/04/20/arkansas-executes-ledell-lee-the-first-inmate-executed-in-the-state-since-2005.md)
 Arkansas has executed an inmate for the first time in nearly a dozen years as part of its plan to execute several inmates before a drug expires April 30, despite court rulings that have already spared three men.
@@ -33,11 +36,8 @@ John Benjamin Haygood was arrested on felony battery charges &mdash; but a Flori
 ### [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md)
 Terrence McNeil of Akron faces 15 to 20 years in prison.
 
-### [ Spanish Prime Minister, Mariano Rajoy, called to testify in corruption scandal (Gurtel case) trial. ](/news/2017/04/20/spanish-prime-minister-mariano-rajoy-called-to-testify-in-corruption-scandal-ga1-4rtel-case-trial.md)
-_Context: Gurtel case, Mariano Rajoy_
-
 ### [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md)
-Hard-left presidential challenger Jean-Luc Melenchon and conservative Francois Fillon were neck-and-neck behind the frontrunners in an opinion poll on Thursday, as candidates made last-ditch appeals to undecided voters.
+ Former Prime Minister Dominique de Villepin, a conservative Gaullist who won global celebrity by opposing U.S. plans for war in Iraq, said on Thursday he would
 
 ### [Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. ](/news/2017/04/20/guardian-council-announces-names-of-six-final-candidates-incumbent-president-hassan-rouhani-chairman-of-astan-quds-razavi-ebrahim-raisi-an.md)
 Six politicians given go-ahead to run in presidential election, which is likely to boil down to a three-man race on 19 May

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/12/a-british-brain-scan-study-of-lysergic-acid-diethylamide-shows-lsd-may-be-useful-in-treating-mental-disorders-such-as-major-depressive-diso.html)  [JSON](/news/2016/04/12/a-british-brain-scan-study-of-lysergic-acid-diethylamide-shows-lsd-may-be-useful-in-treating-mental-disorders-such-as-major-depressive-diso.json)  [XML](/news/2016/04/12/a-british-brain-scan-study-of-lysergic-acid-diethylamide-shows-lsd-may-be-useful-in-treating-mental-disorders-such-as-major-depressive-diso.xml)  
+
 ### [2016-04-12](/news/2016/04/12/index.md)
 
 #  A British brain scan study of Lysergic acid diethylamide shows LSD may be useful in treating mental disorders such as major depressive disorder. 
@@ -5,7 +8,7 @@
 Drug researcher David Nutt discusses brain-imaging studies with hallucinogens.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/newsbeat/article/36022065/what-lsd-does-to-your-brain)
 2. [Nature](http://www.nature.com/news/brain-scans-reveal-how-lsd-affects-consciousness-1.19727)

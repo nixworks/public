@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.html)  [JSON](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.json)  [XML](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.xml)  
+
 ### [2016-04-20](/news/2016/04/20/index.md)
 
 # The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN0XH0SZ)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160420&t=2&i=1133670570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3J0HT)
+1. [Reuters](https://www.reuters.com/article/us-afghanistan-blast-idUSKCN0XH0SZ)
+1. [Cover Image](/resources/r/?m=02&d=20160420&t=2&i=1133670570&w=400&r=LYNXNPEC3J0HT)
 
 ### Related:
 

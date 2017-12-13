@@ -10,7 +10,7 @@ _Context: Donetsk People's Republic, Mariupol, Russia, Ukraine, Ukrainian Army, 
 PHILIPPINES-ISLAMIC STATE/ (URGENT):Islamic state claims Philippines attack that killed 23 -IS statement
 
 ### [Peabody Energy, the largest privately-owned producer of coal in the world headquartered in St. Louis, Missouri, files for bankruptcy court protection due to high debts and a drop in world prices. ](/news/2016/04/13/peabody-energy-the-largest-privately-owned-producer-of-coal-in-the-world-headquartered-in-st-louis-missouri-files-for-bankruptcy-court-p.md)
-Leading global coal producer Peabody Energy Corp BTU.N filed for U.S. bankruptcy protection on Wednesday after a sharp drop in coal prices left it unable to service debt of $10.1 billion, much of it incurred for an expansion into Australia.
+ Leading global coal producer Peabody Energy Corp filed for U.S. bankruptcy protection on Wednesday after a sharp drop in coal prices left it unable to service 
 
 ### [At least 15 people are killed and 20 injured following a road accident in the Pakistani city of Faisalabad. ](/news/2016/04/13/at-least-15-people-are-killed-and-20-injured-following-a-road-accident-in-the-pakistani-city-of-faisalabad.md)
 MULTAN: At least 19 people including two children were killed in a collision between a passenger bus and a truck in Punjab on Wednesday. The accident took place near the town of Theekriwala near Faisalabad due to &#8220;speeding...;
@@ -31,7 +31,7 @@ An Australian is among 12 people killed after a light plane crashed while trying
 The Centers for Disease Control and Prevention (CDC) said Wednesday evening that new data suggests the mosquito-borne Zika virus is a cause of birth defects like microcephaly, a costly and life-threatening condition that is ravaging Brazil and has impacted nearly 5,000 children in the country.
 
 ### [Two unarmed Russian Air Force Sukhoi Su-24 jets flew simulated attacks on United States Navy destroyer "USS Donald Cook" in the Baltic Sea on Tuesday, according to a U.S. official, who described it as one of the most aggressive interactions in recent memory. A Russian Kamov Ka-27 naval helicopter also made seven passes around the "USS Donald Cook", taking pictures of the warship. ](/news/2016/04/13/two-unarmed-russian-air-force-sukhoi-su-24-jets-flew-simulated-attacks-on-united-states-navy-destroyer-uss-donald-cook-in-the-baltic-sea-o.md)
-Two Russian warplanes flew simulated attack passes near a U.S. guided missile destroyer in the Baltic Sea on Tuesday, the U.S. military said, with one official describing them as one of the most aggressive interactions in recent memory.
+ Two Russian warplanes flew simulated attack passes near a U.S. guided missile destroyer in the Baltic Sea on Tuesday, the U.S. military said, with one official
 
 ### [A judge rules against a gay couple in China's first same-sex marriage case. ](/news/2016/04/13/a-judge-rules-against-a-gay-couple-in-china-s-first-same-sex-marriage-case.md)
 CHANGSHA, China (AP) — A judge has ruled against a gay couple in China&#039;s first same-sex marriage case. The court in the city of Changsha on Wednesday threw out the suit against the local civil affairs bureau that refused…
@@ -43,7 +43,7 @@ Three people arrested in Brussels in connection with the November Paris attacks 
 _Context: Bobby Jindal, John Bel Edwards, LGBT rights in the United States, Louisiana Governor, anti-discrimination, gay and transgender people_
 
 ### [Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losing-seats-in-a-surprise-setback.md)
-Park’s party failed to win a majority in the legislature, undermining chances to enact her economic agenda in her final years in office. With almost all of the ballots counted, the Saenuri Party is projected to win 122 parliamentary seats, South Korean TV broadcaster KBS TV reports. The ruling par...
+Saenuri Party Chairman Kim Moo Sung is resigning as its chairman, following a surprise setback for President Park Geun Hye’s ruling party in Wednesday’s election.
 
 ### [Voters in mostly government controlled areas of Syria will head to the polls to elect 250 members to the People's Council of Syria. ](/news/2016/04/13/voters-in-mostly-government-controlled-areas-of-syria-will-head-to-the-polls-to-elect-250-members-to-the-people-s-council-of-syria.md)
 The parliamentary elections in Syria will be held on April 13, 2016, said a statement issued by Syrian President Bashar Assad. 

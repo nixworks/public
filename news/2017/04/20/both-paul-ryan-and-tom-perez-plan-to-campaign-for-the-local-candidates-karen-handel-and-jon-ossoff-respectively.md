@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.html)  [JSON](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.json)  [XML](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.xml)  
+
 ### [2017-04-20](/news/2017/04/20/index.md)
 
 # Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. 
@@ -5,7 +8,7 @@
 Ryan will reportedly stump alongside Republican Karen Handel sometime in the next few weeks.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/04/19/politics/tom-perez-georgia-special-election-cnntv/)
 2. [The Hill](http://thehill.com/homenews/campaign/329633-ryan-to-campaign-with-georgia-runoff-candidate-report)

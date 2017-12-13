@@ -5,13 +5,13 @@ Formats: [HTML](/news/2016/04/13/two-unarmed-russian-air-force-sukhoi-su-24-jets
 
 # Two unarmed Russian Air Force Sukhoi Su-24 jets flew simulated attacks on United States Navy destroyer "USS Donald Cook" in the Baltic Sea on Tuesday, according to a U.S. official, who described it as one of the most aggressive interactions in recent memory. A Russian Kamov Ka-27 naval helicopter also made seven passes around the "USS Donald Cook", taking pictures of the warship. 
 
-Two Russian warplanes flew simulated attack passes near a U.S. guided missile destroyer in the Baltic Sea on Tuesday, the U.S. military said, with one official describing them as one of the most aggressive interactions in recent memory.
+ Two Russian warplanes flew simulated attack passes near a U.S. guided missile destroyer in the Baltic Sea on Tuesday, the U.S. military said, with one official
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-russia-simulatedattack-idUSKCN0XA1UW)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160414&t=2&i=1132832437&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3C1HL)
+1. [Reuters](https://www.reuters.com/article/us-usa-russia-simulatedattack-idUSKCN0XA1UW)
+1. [Cover Image](/resources/r/?m=02&d=20160414&t=2&i=1132832437&w=400&r=LYNXNPEC3C1HL)
 
 ### Changes:
 

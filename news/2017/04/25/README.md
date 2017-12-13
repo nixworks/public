@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/25/index.html)  [JSON](2017/04/25/index.json)  [XML](2017/04/25/index.xml)  
+
 ## [2017-04-25](/news/2017/04/25/index.md)
 
 ### [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md)
-At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the British-based Syrian Observatory for Human Rights monitoring group said.
+ At least 18 Kurdish YPG fighters and media officials were killed in Turkish air strikes on a headquarters of the militia in northeastern Syria on Tuesday, the 
 
 ### [Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, "Wikitribune", that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". ](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plans-for-a-crowdfunded-news-website-wikitribune-that-will-publish-stories-by-journalists-wi.md)
 Jimmy Wales said the new platform, Wikitribune, would be free to read and carry no advertising, instead relying on supporters to fund it.
@@ -19,7 +22,7 @@ Saudi Arabia is elected to the UN Commission on the Status of Women, despite the
 It comes amid heightened tensions, and fears North Korea is planning more nuclear or missile tests.
 
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Benjamin Netanyahu, Breaking the Silence, Germany-Israel relations, Israel Defense Forces, Israeli Prime Minister, NGO, Sigmar Gabriel, foreign minister of Germany, veteran_
+_Context: Benjamin Netanyahu, Breaking the Silence, Germany-Israel relations, IDF, Israeli Prime Minister, NGO, Sigmar Gabriel, foreign minister of Germany, veteran_
 
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
 NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged with a tamper-proof Unique Identification Number (UIN) to stop their smuggling, the Centre told the Supreme Court on Monday.

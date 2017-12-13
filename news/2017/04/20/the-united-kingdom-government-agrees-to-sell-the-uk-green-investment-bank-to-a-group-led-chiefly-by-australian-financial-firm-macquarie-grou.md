@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.html)  [JSON](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.json)  [XML](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.xml)  
+
 ### [2017-04-20](/news/2017/04/20/index.md)
 
 # The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. 
 
-The following bids, mergers,acquisitions and disposals were reported by 1300 GMT onThursday:
+(Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/deals-day-idUSL3N1HS3P0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/deals-day-idUSL3N1HS3P0)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 

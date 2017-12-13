@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/04/20/tesla-motors-announces-the-recall-of-50-000-tesla-model-s-and-tesla-model-x-cars-for-a-brake-issue.html)  [JSON](/news/2017/04/20/tesla-motors-announces-the-recall-of-50-000-tesla-model-s-and-tesla-model-x-cars-for-a-brake-issue.json)  [XML](/news/2017/04/20/tesla-motors-announces-the-recall-of-50-000-tesla-model-s-and-tesla-model-x-cars-for-a-brake-issue.xml)  
+
 ### [2017-04-20](/news/2017/04/20/index.md)
 
 # Tesla Motors announces the recall of 50,000 Tesla Model S and Tesla Model X cars for a "brake issue". 
 
-Tesla Inc (TSLA.O) said on Thursday it would recall 53,000 of its Model S and Model X cars globally to fix a parking brake issue.
+ Tesla Inc said on Thursday it would recall 53,000 of its Model S and Model X cars globally to fix a parking brake issue.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-tesla-recall-idUSKBN17M28A)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170420&t=2&i=1181381789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3J197)
+1. [Reuters](https://www.reuters.com/article/us-tesla-recall-idUSKBN17M28A)
+1. [Cover Image](/resources/r/?m=02&d=20170420&t=2&i=1181381789&w=400&r=LYNXMPED3J197)
 
 ### Related:
 

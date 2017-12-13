@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.html)  [JSON](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.json)  [XML](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.xml)  
+
 ### [2017-04-26](/news/2017/04/26/index.md)
 
 # A speculative study hypothesizes that a species of "Homo" may have lived in California 130,000 years ago. 
@@ -5,7 +8,7 @@
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
 
 
-### Source:
+### Sources:
 
 1. [Ars Technica](https://arstechnica.com/science/2017/04/unknown-humans-were-in-california-130000-years-ago-say-scientists/)
 2. [National Geographic](http://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/)
@@ -13,8 +16,8 @@ A new study has dropped a bombshell on archaeology, claiming signs of human acti
 
 ### Related:
 
-1. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-2. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-3. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
-4. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
-5. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _Context: California_
+1. [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md) _Context: California_
+2. [The Thomas Fire is the fifth largest in modern Californian history. ](/news/2017/12/11/the-thomas-fire-is-the-fifth-largest-in-modern-californian-history.md) _Context: California_
+3. [New evacuations are ordered as the fires spread toward a string of California coastal cities. Santa Ana winds and rugged mountain terrain continue to hamper firefighting efforts. Authorities report the Thomas Fire is only 15 percent contained. ](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread-toward-a-string-of-california-coastal-cities-santa-ana-winds-and-rugged-mountain-terrain-co.md) _Context: California_
+4. [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md) _Context: California_
+5. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_

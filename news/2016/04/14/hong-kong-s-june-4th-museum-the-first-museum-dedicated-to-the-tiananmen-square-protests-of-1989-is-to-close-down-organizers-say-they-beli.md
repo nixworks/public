@@ -10,7 +10,7 @@ Organisers believe they are being targeted for political reasons as China seeks 
 
 ### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/14/worlds-first-tiananmen-museum-close-hong-kong)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/14/worlds-first-tiananmen-museum-close-hong-kong)
 1. [Cover Image](https://i.guim.co.uk/img/media/fae5900a3312a24c73cb693e21f66a88338db239/0_375_5619_3371/5619.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a4e4af10c506de6a1d318a552efec13f)
 
 ### Related:
