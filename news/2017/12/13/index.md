@@ -6,6 +6,9 @@ Formats: [HTML](2017/12/13/index.html)  [JSON](2017/12/13/index.json)  [XML](201
 ### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 
+### [Le Journal de Montral mentions Charles Castonguay, Pierre Curzi, Mario Beaulieu and cites researcher "Erich Bouchard" claiming that solid foundations are needed for the defence of the French language. So that we continue to document the reality in the hope that one day, a government lights up at last before it's too late. But who will do it? ](/news/2017/12/13/le-journal-de-montreal-mentions-charles-castonguay-pierre-curzi-mario-beaulieu-and-cites-researcher-erich-bouchard-claiming-that-solid-f.md)
+_Context: Charles Castonguay, French language, Le Journal de Montral, Mario Beaulieu, Pierre Curzi, Quebec French, government_
+
 ### [A 17-pound (8 kg) transport helicopter window falls on a school in Okinawa, Japan, for the second time in less than a week. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-transport-helicopter-window-falls-on-a-school-in-okinawa-japan-for-the-second-time-in-less-than-a-week-today-a-child-s.md)
 US military helicopter window falls onto school in Okinawa, Japan. Second incident less than a week.
 
