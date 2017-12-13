@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.html)  [JSON](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.json)  [XML](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.xml)  
+
 ### [2017-04-21](/news/2017/04/21/index.md)
 
 # Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Het Nieuwsblad](http://www.nieuwsblad.be/cnt/dmf20170421_02843921)
 2. [RTL Info](http://www.rtl.be/info/belgique/faits-divers/tc-bruxelles-le-parquet-federal-assigne-a-nouveau-le-trafiquant-d-armes-jacques-monsieur-911118.aspx)

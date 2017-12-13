@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/21/index.html)  [JSON](2017/04/21/index.json)  [XML](2017/04/21/index.xml)  
+
 ## [2017-04-21](/news/2017/04/21/index.md)
 
 ### [Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it-is-said-to-be-the-de.md)
@@ -37,7 +40,7 @@ _Context: Hassan Rouhani, re-elected_
 _Context: Sylvia Trent-Adams, Trump administration, U.S. Surgeon General, Vivek Murthy, White House_
 
 ### [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-his.md)
-Pakistani opposition party lawmakers tore up the agenda and shouted in a parliament session on Friday as they demanded that Prime Minister Nawaz Sharif step down during an investigation into his finances.
+ Pakistani opposition party lawmakers tore up the agenda and shouted in a parliament session on Friday as they demanded that Prime Minister Nawaz Sharif step do
 
 ### [A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. ](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-states-declaration-of-independence-is-discovered-by-harvard-university-researchers-in-a-record.md)
 The only other parchment copy is maintained by the National Archives in Washington. 

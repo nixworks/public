@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.html)  [JSON](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.json)  [XML](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.xml)  
+
 ### [2017-04-21](/news/2017/04/21/index.md)
 
 # Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-attack-idUSKBN17N17C?il=0)
+1. [Reuters](https://www.reuters.com/article/us-russia-attack-idUSKBN17N17C?il=0)
 2. [Siberian Times](http://siberiantimes.com/other/others/news/murderous-attack-on-fsb-office-in-khabarovsk-was-by-a-neo-nazi-not-an-is-terrorist/)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20170421&t=2&i=1181512227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3K0V1)
+2. [Cover Image](/resources/r/?m=02&d=20170421&t=2&i=1181512227&w=400&r=LYNXMPED3K0V1)
 
 ### Related:
 

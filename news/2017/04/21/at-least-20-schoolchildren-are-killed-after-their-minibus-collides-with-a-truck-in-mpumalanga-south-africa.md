@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.html)  [JSON](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.json)  [XML](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.xml)  
+
 ### [2017-04-21](/news/2017/04/21/index.md)
 
 # At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. 
@@ -5,7 +8,7 @@
 The minibus exploded into a fireball and ended up on its side, trapping the victims inside.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/twenty-schoolchildren-killed-in-minibus-crash-in-south-africa-10845280)
 1. [Cover Image](http://e3.365dm.com/17/04/1600x900/1959081f319b818b4de2277ddac9c9a68948968f07bb80e29e3564851e3f8d98_3935758.jpg?20170421150912)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.html)  [JSON](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.json)  [XML](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.xml)  
+
 ### [2017-04-21](/news/2017/04/21/index.md)
 
 # Queen Elizabeth II celebrates her 91st birthday. 
@@ -5,7 +8,7 @@
 The monarch marks the milestone at Newbury Racecourse, while volleys are fired in her honour.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-39664797)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1628B/production/_95736709_queen_races_pa.jpg)

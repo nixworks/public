@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to-control-protesters-opposing-the-alternative-for-germany-at-the-party-s-conference-in-cologne.html)  [JSON](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to-control-protesters-opposing-the-alternative-for-germany-at-the-party-s-conference-in-cologne.json)  [XML](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to-control-protesters-opposing-the-alternative-for-germany-at-the-party-s-conference-in-cologne.xml)  
+
 ### [2017-04-22](/news/2017/04/22/index.md)
 
 # Thousands of German riot police are deployed to control protesters opposing the Alternative for Germany at the party's conference in Cologne. 
@@ -5,7 +8,7 @@
 Thousands of leftwing demonstrators are expected to protest in Cologne, with fears of clashes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39677510)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/C1E2/production/_95743694_colognepolice2.jpg)

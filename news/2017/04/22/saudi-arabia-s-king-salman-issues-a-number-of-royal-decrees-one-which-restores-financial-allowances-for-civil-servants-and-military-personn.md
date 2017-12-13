@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-royal-decrees-one-which-restores-financial-allowances-for-civil-servants-and-military-personn.html)  [JSON](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-royal-decrees-one-which-restores-financial-allowances-for-civil-servants-and-military-personn.json)  [XML](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-royal-decrees-one-which-restores-financial-allowances-for-civil-servants-and-military-personn.xml)  
+
 ### [2017-04-22](/news/2017/04/22/index.md)
 
 # Saudi Arabia's King Salman issues a number of royal decrees, one which restores financial allowances for civil servants and military personnel that had been cut seven months ago in response to the drop in oil prices. 
 
-King Salman restored bonuses and allowances for Saudi government employees, seven months after cutting them in an attempt to repair public finances hurt by the drop in oil prices.
+ Saudi Arabia reinstated financial allowances for civil servants and military personnel on Saturday after better-than-expected budget figures, ending unpopular 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-economy-idUSKBN17O0NL)
+1. [Reuters](https://www.reuters.com/article/us-saudi-economy-idUSKBN17O0NL)
 2. [Yahoo! Finance](http://finance.yahoo.com/news/saudi-king-restores-bonuses-allowances-212846475.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170422&t=2&i=1181651354&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3L0KR)
+2. [Cover Image](/resources/r/?m=02&d=20170423&t=2&i=1181704066&w=400&r=LYNXMPED3M0CF)
 
 ### Related:
 

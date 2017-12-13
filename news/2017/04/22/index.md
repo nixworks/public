@@ -1,13 +1,16 @@
+
+Formats: [HTML](2017/04/22/index.html)  [JSON](2017/04/22/index.json)  [XML](2017/04/22/index.xml)  
+
 ## [2017-04-22](/news/2017/04/22/index.md)
 
 ### [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md)
-Pope Francis urged governments on Saturday to get migrants and refugees out of holding centers, saying many had become &quot;concentration camps&quot;.
+_Context: Christian, Greece, Lesbos, Muslim, Nazism, Pope Francis, Rome's Basilica of St. Bartholomew, communism, dictator, refugee camp, terrorism_
 
 ### [American Airlines announces it is investigating a viral video of an incident on a San Francisco to Dallas flight which shows a male flight attendant upsetting a female passenger, who he had allegedly forcefully taken a baby buggy from, and threatening to fight a male passenger. The American Airlines employee has been suspended. ](/news/2017/04/22/american-airlines-announces-it-is-investigating-a-viral-video-of-an-incident-on-a-san-francisco-to-dallas-flight-which-shows-a-male-flight-a.md)
-American Airlines (AAL.O) has suspended an employee after a video showed an altercation on one of its planes involving crew, several passengers and a crying woman carrying a young child.
+ American Airlines on Saturday apologized to a female passenger and suspended an employee after a video showing an onboard clash over a baby stroller went viral
 
 ### [Saudi Arabia's King Salman issues a number of royal decrees, one which restores financial allowances for civil servants and military personnel that had been cut seven months ago in response to the drop in oil prices. ](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-royal-decrees-one-which-restores-financial-allowances-for-civil-servants-and-military-personn.md)
-King Salman restored bonuses and allowances for Saudi government employees, seven months after cutting them in an attempt to repair public finances hurt by the drop in oil prices.
+ Saudi Arabia reinstated financial allowances for civil servants and military personnel on Saturday after better-than-expected budget figures, ending unpopular 
 
 ### [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md)
 Guus Kouwenhoven convicted of selling weapons to ex-president Charles Taylor during wars that involved mass atrocities
