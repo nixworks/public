@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/17/index.html)  [JSON](2017/04/17/index.json)  [XML](2017/04/17/index.xml)  
+
 ## [2017-04-17](/news/2017/04/17/index.md)
 
 ### [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md)
-Mart, Williams Partners and EagleClaw Midstream Ventures)
+(Adds HNA Airport Holding and Dynasty Financial Partners; Updates Ant Financial, Wal-Mart, Williams Partners and EagleClaw Midstream Ventures)
 
 ### [The death toll from flooding in the Philippine province of Cebu rises to nine with ten missing. ](/news/2017/04/17/the-death-toll-from-flooding-in-the-philippine-province-of-cebu-rises-to-nine-with-ten-missing.md)
 The death toll from the flash floods in the province of Cebu has risen to nine, a report on News TV Live on Monday said. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
@@ -19,7 +22,7 @@ _Context: Lake Malawi, Rumphi District_
 One crew member was killed and two others were injured Monday when a military helicopter crashed on a southern Maryland golf course.
 
 ### [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md)
-_Context: Pacific Ocean, Vanuatu, island nation, magnitude_
+_Context: South Pacific Ocean, Vanuatu, island nation, magnitude_
 
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
 _Context: Alaskan North Slope, BP, Deadhorse Airport_
@@ -31,7 +34,7 @@ _Context: China, China-Nepal relations, India, Nepal_
 _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice President_
 
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: Cleveland, FBI, Facebook, Indiana, Michigan, New York State, Ohio, Pennsylvania, Shooting of Robert Godwin_
+_Context: Cleveland, FBI, Facebook, Indiana, Mich., New York State, Ohio, Pennsylvania, Shooting of Robert Godwin_
 
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-the.md)
 _Context: Brazilian federal judge, Norway, Petrobras, Statoil_
@@ -43,7 +46,7 @@ _Context: Congress's, Horacio Cartes, Paraguay, Paraguayan President, Pope Franc
 The leader of the &quot;Calexit&quot; movement announced in a 1,600-word statement on Monday that he &quot;intends to make Russia&quot; his &quot;new home.&quot;
 
 ### [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md)
-Mughrabi and Ali Sawafta
+_Context: Israel, Palestinian, Palestinian prisoners of Israel, detention without trial, hunger strike_
 
 ### [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md)
 _Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Vice President of the Philippines, [?]_

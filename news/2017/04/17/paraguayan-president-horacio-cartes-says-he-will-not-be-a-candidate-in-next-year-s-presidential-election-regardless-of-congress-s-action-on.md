@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.html)  [JSON](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.json)  [XML](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.xml)  
+
 ### [2017-04-17](/news/2017/04/17/index.md)
 
 # Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on a constitutional amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago. 
@@ -5,11 +8,11 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-paraguay-politics-idUSKBN17J1H0)
+1. [Reuters](https://www.reuters.com/article/us-paraguay-politics-idUSKBN17J1H0)
 2. [Vatican Radio](http://en.radiovaticana.va/news/2017/04/02/pope_appeals_for_colombia,_drc,_venezuela_and_paraguay/1302930)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170417&t=2&i=1180927681&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3G0TF)
+2. [Cover Image](/resources/r/?m=02&d=20170417&t=2&i=1180927681&w=400&r=LYNXMPED3G0TF)
 
 ### Related:
 

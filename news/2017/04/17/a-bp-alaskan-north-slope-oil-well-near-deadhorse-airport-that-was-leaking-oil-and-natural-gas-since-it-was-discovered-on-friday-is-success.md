@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.html)  [JSON](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.json)  [XML](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.xml)  
+
 ### [2017-04-17](/news/2017/04/17/index.md)
 
 # A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/workers-relieve-pressure-leaking-alaska-oil-46838402)
 1. [Cover Image](http://a.abcnews.com/images/US/WireAP_719ca8c37e40429f8b8cca0e51f658a8_16x9_992.jpg)

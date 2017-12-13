@@ -7,19 +7,19 @@ Formats: [HTML](2017/04/18/index.html)  [JSON](2017/04/18/index.json)  [XML](201
 Eight mummies, colourful coffins and more than 1000 funerary statues have been found at a tomb near the Valley of the Kings in Egypt.
 
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: Bright Food, China, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
+_Context: Bright Food, China, Post Holdings, U.S., United Kingdom, Weetabix Limited, consumer goods_
 
 ### [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md)
 (4th UPDATE) A Leomarick Trans bus traveling from Isabela province to Ilocos Sur falls into a ravine in Carranglan town in Nueva Ecija
 
 ### [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md)
-A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry news website said the cause was friendly fire.
+ A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry ne
 
 ### [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md)
 A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 
 ### [Libyan fisherman discover the bodies of 28 migrants in a broken-down boat off the coast of Sabratha. ](/news/2017/04/18/libyan-fisherman-discover-the-bodies-of-28-migrants-in-a-broken-down-boat-off-the-coast-of-sabratha.md)
-Libyan fishermen found the bodies of 28 migrants who appeared to have died of thirst and hunger after their boat broke down off the coast of Sabratha city, a ministry of interior official said on Tuesday.
+ Libyan fishermen found the bodies of 28 migrants who appeared to have died of thirst and hunger after their boat broke down off the coast of Sabratha city, a m
 
 ### [The Supreme Court of the United States refuses to vacate a stay of execution issued by the Arkansas Supreme Court. Arkansas's highest court has also put on hold the execution of another inmate, Bruce Ward. The state had planned to execute eight inmates in eleven days. That schedule, as well as the use of the drug midazolam, sparked a broad range of legal challenges and humanitarian concerns about the executions. Today's planned execution of Don W. Davis would have been the state's first since 2005. ](/news/2017/04/18/the-supreme-court-of-the-united-states-refuses-to-vacate-a-stay-of-execution-issued-by-the-arkansas-supreme-court-arkansas-s-highest-court.md)
 _Context: Arkansas, Arkansas Supreme Court, Supreme Court of the United States, midazolam_

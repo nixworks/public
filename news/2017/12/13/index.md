@@ -3,6 +3,9 @@ Formats: [HTML](2017/12/13/index.html)  [JSON](2017/12/13/index.json)  [XML](201
 
 ## [2017-12-13](/news/2017/12/13/index.md)
 
+### [The Congress of the Philippines votes to extend the declaration of martial law in Mindanao until December 31, 2018 upon the request of President Rodrigo Duterte. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-extend-the-declaration-of-martial-law-in-mindanao-until-december-31-2018-upon-the-request-of-presi.md)
+_Context: Congress of the Philippines, Mindanao, Proclamation No. 216, Rodrigo Duterte, martial law_
+
 ### [Belgium's biggest government party says that they will not accept the energy transition agreement that was reached on December 11 by Belgium's four ministers of energy, citing mainly financial arguments to currently refuse the closure of the nuclear power stations. The agreement is inspired by Germany's Energiewende. ](/news/2017/12/13/belgium-s-biggest-government-party-says-that-they-will-not-accept-the-energy-transition-agreement-that-was-reached-on-december-11-by-belgium.md)
 _Context: Energiewende, Germany, Politics in Belgium_
 

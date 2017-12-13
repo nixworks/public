@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.html)  [JSON](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.json)  [XML](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.xml)  
+
 ### [2017-04-17](/news/2017/04/17/index.md)
 
 # Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4949875,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

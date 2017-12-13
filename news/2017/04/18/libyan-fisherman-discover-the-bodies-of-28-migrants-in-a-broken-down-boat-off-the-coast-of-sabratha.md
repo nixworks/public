@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/04/18/libyan-fisherman-discover-the-bodies-of-28-migr
 
 # Libyan fisherman discover the bodies of 28 migrants in a broken-down boat off the coast of Sabratha. 
 
-Libyan fishermen found the bodies of 28 migrants who appeared to have died of thirst and hunger after their boat broke down off the coast of Sabratha city, a ministry of interior official said on Tuesday.
+ Libyan fishermen found the bodies of 28 migrants who appeared to have died of thirst and hunger after their boat broke down off the coast of Sabratha city, a m
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-europe-idUSKBN17K1XU?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-europe-migrants-europe-idUSKBN17K1XU?il=0)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 

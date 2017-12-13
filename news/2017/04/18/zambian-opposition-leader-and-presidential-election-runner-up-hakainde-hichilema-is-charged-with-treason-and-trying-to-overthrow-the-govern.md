@@ -10,8 +10,8 @@ Formats: [HTML](/news/2017/04/18/zambian-opposition-leader-and-presidential-elec
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-zambia-politics-idUSKBN17K22J?il=0)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170418&t=2&i=1181071551&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3H11D)
+1. [Reuters](https://www.reuters.com/article/us-zambia-politics-idUSKBN17K22J?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170418&t=2&i=1181071551&w=400&r=LYNXMPED3H11D)
 
 ### Related:
 

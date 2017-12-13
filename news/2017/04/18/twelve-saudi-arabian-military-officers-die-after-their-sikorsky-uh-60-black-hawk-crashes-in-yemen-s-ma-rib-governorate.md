@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-afte
 
 # Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. 
 
-A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry news website said the cause was friendly fire.
+ A Saudi helicopter came down during military operations in Yemen on Tuesday, killing 12 officers aboard, Saudi media reported, and a Yemeni defense ministry ne
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-saudi-idUSKBN17K1W0?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-yemen-security-saudi-idUSKBN17K1W0?il=0)
+1. [Cover Image](/resources_v2/images/rcom-default.png)
 
 ### Related:
 
