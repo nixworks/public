@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.html)  [JSON](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.json)  [XML](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.xml)  
+
 ### [2017-05-7](/news/2017/05/7/index.md)
 
 # A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. 
@@ -5,7 +8,7 @@
 Mayor Denis Coderre has declared a state of emergency for Montreal amid the risk of rising floodwaters in Montreal. Canadian Forces have dispatched 1,200 to the province to help. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/quebec-flooding-province-army-1.4103506)
 1. [Cover Image](https://i.cbc.ca/1.4103716.1494179300!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/que-flooding-20170505.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/7/index.html)  [JSON](2017/05/7/index.json)  [XML](2017/05/7/index.xml)  
+
 ## [2017-05-7](/news/2017/05/7/index.md)
 
 ### [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md)
