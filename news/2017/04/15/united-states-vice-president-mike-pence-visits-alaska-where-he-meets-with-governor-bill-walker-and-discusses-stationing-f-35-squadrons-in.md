@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.html)  [JSON](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.json)  [XML](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.xml)  
+
 ### [2017-04-15](/news/2017/04/15/index.md)
 
 #  United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [US News & World Report](https://www.usnews.com/news/best-states/alaska/articles/2017-04-15/pence-meets-with-alaska-governor-ahead-of-asia-trip)
 

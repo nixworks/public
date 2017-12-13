@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/04/14/index.html)  [JSON](2017/04/14/index.json)  [XML](2017/04/14/index.xml)  
+
 ## [2017-04-14](/news/2017/04/14/index.md)
 
 ### [The Afghan Ministry of Defense reports as many as 36 suspected ISIL militants were killed while no civilians were harmed in yesterday's bombing in Nangarhar Province using the so-called "mother of all bombs" (GBU-43). The ministry spokesman added these deaths have not been independently verified. ](/news/2017/04/14/the-afghan-ministry-of-defense-reports-as-many-as-36-suspected-isil-militants-were-killed-while-no-civilians-were-harmed-in-yesterday-s-bomb.md)
-The top U.S. military commander in Afghanistan said on Friday the decision to deploy one of the largest conventional bombs ever unleashed in combat was a purely tactical decision made as part of the campaign against Islamic State-linked fighters.
+ Former Afghan president Hamid Karzai accused his successor on Saturday of committing treason by allowing the U.S. military to drop the largest conventional bom
 
 ### [ A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-pa.md)
 Two others lightly hurt ■ The assailant, a Palestinian from East Jerusalem, has been apprehended ■ Netanyahu ties attack to global Islamic terrorism
@@ -19,10 +22,10 @@ Numerous reports of chaos and panic at Penn Station appeared on social media Fri
 Air China is suspending flights between Beijing and the North Korean capital of Pyongyang. 
 
 ### [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md)
-More than 2,000 migrants trying to reach Europe were plucked from the Mediterranean on Friday in a series of dramatic rescues and one person was found dead, officials and witnesses said.
+ More than 2,000 migrants trying to reach Europe were plucked from the Mediterranean on Friday in a series of dramatic rescues and one person was found dead, of
 
 ### [The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. ](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.md)
-Hackers released documents and files on Friday that cybersecurity experts said indicated the U.S. National Security Agency had accessed the SWIFT interbank messaging system, allowing it to monitor money flows among some Middle Eastern and Latin American banks.
+ Hackers released documents and files on Friday that cybersecurity experts said indicated the U.S. National Security Agency had accessed the SWIFT interbank mes
 
 ### [President Hassan Rouhani seeks for a second term while one of his main rivals Ebrahim Raisi also registers with just one day remaining for the submission. ](/news/2017/04/14/president-hassan-rouhani-seeks-for-a-second-term-while-one-of-his-main-rivals-ebrahim-raisi-also-registers-with-just-one-day-remaining-for-t.md)
 Upcoming vote will be seen, among other things, as a referendum on the landmark nuclear deal signed with world powers.

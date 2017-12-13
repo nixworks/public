@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-least-16-people.html)  [JSON](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-least-16-people.json)  [XML](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-least-16-people.xml)  
+
 ### [2017-04-14](/news/2017/04/14/index.md)
 
 # A landfill slide in Colombo, Sri Lanka, kills at least 16 people. 
@@ -5,7 +8,7 @@
 A rubbish dump landslide in the Sri Lankan capital Colombo has killed at least 16 people and injured over a dozen, a military spokesman and hospital officials said this morning.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](https://www.rte.ie/news/2017/0415/867910-sri-lanka-garbage/)
 1. [Cover Image](https://img.rasset.ie/000dea0a-1600.jpg)

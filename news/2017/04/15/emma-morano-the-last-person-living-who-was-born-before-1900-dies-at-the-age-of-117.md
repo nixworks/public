@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/04/15/emma-morano-the-last-person-living-who-was-born-before-1900-dies-at-the-age-of-117.html)  [JSON](/news/2017/04/15/emma-morano-the-last-person-living-who-was-born-before-1900-dies-at-the-age-of-117.json)  [XML](/news/2017/04/15/emma-morano-the-last-person-living-who-was-born-before-1900-dies-at-the-age-of-117.xml)  
+
 ### [2017-04-15](/news/2017/04/15/index.md)
 
 # Emma Morano, the last person living who was born before 1900, dies at the age of 117. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-italy-oldest-idUSKBN17H0JH?il=0)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170415&t=2&i=1180741040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3E0JP)
+1. [Reuters](https://www.reuters.com/article/us-italy-oldest-idUSKBN17H0JH?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170415&t=2&i=1180741040&w=400&r=LYNXMPED3E0JP)
 
 ### Related:
 

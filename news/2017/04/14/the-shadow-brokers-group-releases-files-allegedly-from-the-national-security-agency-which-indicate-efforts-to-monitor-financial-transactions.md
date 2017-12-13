@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.html)  [JSON](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.json)  [XML](/news/2017/04/14/the-shadow-brokers-group-releases-files-allegedly-from-the-national-security-agency-which-indicate-efforts-to-monitor-financial-transactions.xml)  
+
 ### [2017-04-14](/news/2017/04/14/index.md)
 
 # The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. 
 
-Hackers released documents and files on Friday that cybersecurity experts said indicated the U.S. National Security Agency had accessed the SWIFT interbank messaging system, allowing it to monitor money flows among some Middle Eastern and Latin American banks.
+ Hackers released documents and files on Friday that cybersecurity experts said indicated the U.S. National Security Agency had accessed the SWIFT interbank mes
 
 
-### Source:
+### Sources:
 
 1. [Engadget](https://www.engadget.com/2017/04/14/shadow-brokers-dump-windows-zero-day/)
 2. [Motherboard](https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits)
-3. [Reuters](http://www.reuters.com/article/us-usa-cyber-swift-idUSKBN17G1HC)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170414&t=2&i=1180670219&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED3D0T3)
+3. [Reuters](https://www.reuters.com/article/us-usa-cyber-swift-idUSKBN17G1HC)
+3. [Cover Image](/resources/r/?m=02&d=20170414&t=2&i=1180670219&w=400&r=LYNXMPED3D0T3)
 
 ### Related:
 
