@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.html)  [JSON](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.json)  [XML](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.xml)  
+
 ### [2017-05-1](/news/2017/05/1/index.md)
 
 # The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. 
@@ -5,11 +8,16 @@
 The recently formed Momentum Mozgalom (Momentum Movement) held a pro-EU, anti-Russia march attended by thousands in Budapest during yesterdayʼs May 1 national holiday, which was also the 13th anniversary of Hungary joining the EU. Momentum has announced it will run as a political party in the 2018 general election.
 
 
-### Source:
+### Sources:
 
 1. [BBJ](http://bbj.hu/politics/thousands-participate-in-pro-eu-anti-russia-march_132256)
 2. [Euractiv](http://www.euractiv.com/section/freedom-of-thought/news/pro-eu-hungarians-rally-against-russian-influence/)
 2. [Cover Image](http://bbj.hu/images2/201705/14937224388845Y5GTxTqvsG2_L.jpg)
+
+### Changes:
+
+1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting -Europe, not Moscow- in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-europe-not-mosco.md) _2017-08-27 03:48:16 (First version)_
+1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ The recently formed Momentum Mozgalom (Momentum Movement) held a pro-EU, anti-Ru
 3. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sys.md) _Context: Budapest, Hungary_
 4. [Hungarian Prime Minister Viktor Orban meets with Russian President Vladimir Putin in Moscow. Orban used the meeting to call for Russia's relations with the EU to "return to normal", saying "We all are interested in normalizing relationship between Russia and Europe" while Putin described Hungary as an "old and faithful partner". ](/news/2016/02/17/hungarian-prime-minister-viktor-orba-n-meets-with-russian-president-vladimir-putin-in-moscow-orba-n-used-the-meeting-to-call-for-russia-s-r.md) _Context: Hungary, Viktor Orban_
 5. [Hungary's Defense Minister Csaba Hende resigns amid the refugee crisis. Prime Minister Viktor Orban immediately replaced Hende with a member of his Fidesz party, Istvan Simicsko. ](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.md) _Context: Hungary, Viktor Orban_
-
-### Changes:
-
-1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting -Europe, not Moscow- in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-europe-not-mosco.md) _2017-08-27 03:48:16 (First version)_
-1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _(Current version)_

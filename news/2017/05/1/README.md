@@ -1,13 +1,16 @@
+
+Formats: [HTML](2017/05/1/index.html)  [JSON](2017/05/1/index.json)  [XML](2017/05/1/index.xml)  
+
 ## [2017-05-1](/news/2017/05/1/index.md)
 
 ### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested. ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md)
-Police in Istanbul fired tear gas and rubber bullets to break up a group of May Day demonstrators on Monday, a Reuters witness said, as authorities detained more than 200 people at protests around the city.
+ Police in Istanbul fired tear gas and rubber bullets to break up a group of May Day demonstrators on Monday, a Reuters witness said, as authorities detained mo
 
 ### [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md)
 A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
 
 ### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
-_Context: Aeroflot, Bangkok, Moscow, Sheremetyevo International Airport, Suvarnabhumi Airport, bone fracture, clear-air turbulence_
+_Context: Aeroflot, Bangkok, Moscow, Sheremetyevo International Airport, Suvarnabhumi Airport, clear-air turbulence, fracture_
 
 ### [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md)
 The recently formed Momentum Mozgalom (Momentum Movement) held a pro-EU, anti-Russia march attended by thousands in Budapest during yesterdayʼs May 1 national holiday, which was also the 13th anniversary of Hungary joining the EU. Momentum has announced it will run as a political party in the 2018 ...

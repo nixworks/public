@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.html)  [JSON](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.json)  [XML](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.xml)  
+
 ### [2017-05-1](/news/2017/05/1/index.md)
 
 # A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. 
@@ -5,7 +8,7 @@
 A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/canada/north/earthquake-yukon-alaska-1.4093105)
 2. [USA Today](https://www.usatoday.com/story/news/nation/2017/05/01/earthquake-rattles-canada-alaska/101152126/)

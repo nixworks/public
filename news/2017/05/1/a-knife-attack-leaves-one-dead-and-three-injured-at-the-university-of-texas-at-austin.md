@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.html)  [JSON](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.json)  [XML](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.xml)  
+
 ### [2017-05-1](/news/2017/05/1/index.md)
 
 # A knife attack leaves one dead and three injured at the University of Texas at Austin. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/05/01/us/university-of-texas-stabbings/index.html)
+
+### Changes:
+
+1. [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _2017-05-02 14:30:08 (First version)_
+1. [A knife attack leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [The Louisiana State University (LSU) main campus at Baton Rouge, Louisiana, is evacuated after a bomb threat. It is not clear at this time whether it is related to the two previous similar incidents the previous Friday at the University of Texas at Austin (UT) in Austin, Texas, and North Dakota State University (NDSU) in Fargo, North Dakota. ](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.md) _Context: University of Texas at Austin_
 4. [The campus buildings of the University of Texas at Austin and North Dakota State University are evacuated due to bomb threats. ](/news/2012/09/14/the-campus-buildings-of-the-university-of-texas-at-austin-and-north-dakota-state-university-are-evacuated-due-to-bomb-threats.md) _Context: University of Texas at Austin_
 5. [A gunman opens fire with an AK47 in the library at the campus of the University of Texas in Austin, United States, before turning the gun on himself and taking his own life. No other injuries are reported. ](/news/2010/09/28/a-gunman-opens-fire-with-an-ak47-in-the-library-at-the-campus-of-the-university-of-texas-in-austin-united-states-before-turning-the-gun-on.md) _Context: University of Texas at Austin_
-
-### Changes:
-
-1. [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _2017-05-02 14:30:08 (First version)_
-1. [A knife attack leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md) _(Current version)_

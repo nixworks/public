@@ -34,7 +34,7 @@ _Context: EU citizen, European Commission, Regulation of chemicals, causes cance
 ### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition
 
-### [Rwanda steps up pressure on France to admit complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md)
+### [Rwanda steps up pressure on France to admit alleged complicity in the 1994 genocide by publishing a report by law firm "Cunningham Levy Muse". ](/news/2017/12/12/rwanda-steps-up-pressure-on-france-to-admit-alleged-complicity-in-the-1994-genocide-by-publishing-a-report-by-law-firm-cunningham-levy-muse.md)
 _Context: 1994 genocide, Foreign relations of France, Foreign relations of Rwanda, France, Rwanda, law firm_
 
 ### [Mayor of San Francisco Ed Lee dies of an apparent heart attack. Supervisor London Breed becomes acting Mayor. ](/news/2017/12/12/mayor-of-san-francisco-ed-lee-dies-of-an-apparent-heart-attack-supervisor-london-breed-becomes-acting-mayor.md)
