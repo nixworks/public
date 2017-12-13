@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/14/hong-kong-s-june-4th-museum-the-first-museum-dedicated-to-the-tiananmen-square-protests-of-1989-is-to-close-down-organizers-say-they-beli.html)  [JSON](/news/2016/04/14/hong-kong-s-june-4th-museum-the-first-museum-dedicated-to-the-tiananmen-square-protests-of-1989-is-to-close-down-organizers-say-they-beli.json)  [XML](/news/2016/04/14/hong-kong-s-june-4th-museum-the-first-museum-dedicated-to-the-tiananmen-square-protests-of-1989-is-to-close-down-organizers-say-they-beli.xml)  
+
 ### [2016-04-14](/news/2016/04/14/index.md)
 
 # Hong Kong's June 4th Museum, the first museum dedicated to the Tiananmen Square protests of 1989, is to close down. Organizers say they believe they are being targeted for political reasons. It comes at a time when concerns are growing in Hong Kong that Beijing is tightening its grip on the city. 
@@ -5,7 +8,7 @@
 Organisers believe they are being targeted for political reasons as China seeks to cast more influence on the city
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.theguardian.com/world/2016/apr/14/worlds-first-tiananmen-museum-close-hong-kong)
 1. [Cover Image](https://i.guim.co.uk/img/media/fae5900a3312a24c73cb693e21f66a88338db239/0_375_5619_3371/5619.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a4e4af10c506de6a1d318a552efec13f)

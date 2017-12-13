@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/13/a-britten-norman-islander-light-aircraft-crashes-in-the-papua-new-guinea-town-of-kiunga-resulting-in-the-deaths-of-all-twelve-people-on-boar.html)  [JSON](/news/2016/04/13/a-britten-norman-islander-light-aircraft-crashes-in-the-papua-new-guinea-town-of-kiunga-resulting-in-the-deaths-of-all-twelve-people-on-boar.json)  [XML](/news/2016/04/13/a-britten-norman-islander-light-aircraft-crashes-in-the-papua-new-guinea-town-of-kiunga-resulting-in-the-deaths-of-all-twelve-people-on-boar.xml)  
+
 ### [2016-04-13](/news/2016/04/13/index.md)
 
 # A Britten-Norman Islander light aircraft crashes in the Papua New Guinea town of Kiunga resulting in the deaths of all twelve people on board. 
@@ -5,7 +8,7 @@
 An Australian is among 12 people killed after a light plane crashed while trying to land in PNG&#039;s Western Province.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2016-04-14/plane-crash-in-papua-new-guinea-12-people-reported-dead/7325226)
 1. [Cover Image](http://www.abc.net.au/news/image/7327216-1x1-700x700.jpg)

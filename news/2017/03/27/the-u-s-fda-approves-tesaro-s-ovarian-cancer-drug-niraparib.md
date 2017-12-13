@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.html)  [JSON](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.json)  [XML](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.xml)  
+
 ### [2017-03-27](/news/2017/03/27/index.md)
 
 # The U.S. FDA approves Tesaro's ovarian cancer drug, Niraparib. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-tesaro-fda-idUSKBN16Y2G2)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170327&t=2&i=1178249333&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED2Q1JP)
+1. [Reuters](https://www.reuters.com/article/us-tesaro-fda-idUSKBN16Y2G2)
+1. [Cover Image](/resources/r/?m=02&d=20170327&t=2&i=1178249333&w=400&r=LYNXMPED2Q1JP)
 
 ### Related:
 

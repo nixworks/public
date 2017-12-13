@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/14/the-people-s-republic-of-china-announces-that-it-will-prosecute-357-people-for-the-illegal-sale-of-vaccines.html)  [JSON](/news/2016/04/14/the-people-s-republic-of-china-announces-that-it-will-prosecute-357-people-for-the-illegal-sale-of-vaccines.json)  [XML](/news/2016/04/14/the-people-s-republic-of-china-announces-that-it-will-prosecute-357-people-for-the-illegal-sale-of-vaccines.xml)  
+
 ### [2016-04-14](/news/2016/04/14/index.md)
 
 # The People's Republic of China announces that it will prosecute 357 people for the illegal sale of vaccines. 
@@ -5,7 +8,7 @@
 The Chinese government says 357 officials are to be punished over a scandal involving the sale of illegal vaccines, while 192 criminal cases have been filed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-36041918)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/15D6C/production/_89225498_89225497.jpg)

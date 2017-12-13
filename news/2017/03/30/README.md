@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/30/index.html)  [JSON](2017/03/30/index.json)  [XML](2017/03/30/index.xml)  
+
 ## [2017-03-30](/news/2017/03/30/index.md)
 
 ### [According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. ](/news/2017/03/30/according-to-the-united-nations-high-commissioner-for-refugees-the-total-number-of-refugees-from-syria-reaches-over-five-million.md)
@@ -16,7 +19,7 @@ Five members of the same family are believed to have died in a Dublin-bound heli
 All lanes of one of the busiest commercial throughways in America are expected to be blocked indefinitely in the area, authorities said.
 
 ### [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md)
-Russian President Vladimir Putin said on Thursday he was ready to meet U.S. president Donald Trump at an Arctic summit in Finland.
+ Russian President Vladimir Putin said on Thursday he was ready to meet U.S. president Donald Trump at an Arctic summit in Finland.
 
 ### [United States Secretary of State Rex Tillerson says he thinks the longer term status of president Bashar al-Assad is to be "decided by the Syrian people". This appears as a policy shift, since under president Barack Obama's administration, the United States made the departure of Assad a key policy aim. ](/news/2017/03/30/united-states-secretary-of-state-rex-tillerson-says-he-thinks-the-longer-term-status-of-president-bashar-al-assad-is-to-be-decided-by-the-s.md)
 US secretary of state highlights cooperation with Turkey, but his Turkish counterpart notes deep divide over Kurdish fighters
@@ -28,7 +31,7 @@ Thirty-four people were arrested just as the gang was about to launch its scheme
 Park Geun-hye is taken to a detention centre south of Seoul after a court approves her arrest.
 
 ### [The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-known-as-the-transgender-bathro.md)
-North Carolina on Thursday repealed a law restricting bathroom use for transgender people, hoping to bring back businesses and sports leagues that boycotted the Southern state because they saw the year-old measure as discriminatory.
+ North Carolina on Thursday repealed a law restricting bathroom use for transgender people, hoping to bring back businesses and sports leagues that boycotted th
 
 ### [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md)
 Fears have been raised about democracy after the National Assembly was stripped of powers.

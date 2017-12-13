@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.html)  [JSON](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.json)  [XML](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.xml)  
+
 ### [2016-04-14](/news/2016/04/14/index.md)
 
 # A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. 
@@ -5,12 +8,17 @@
 A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but the nuclear regulator reported no problems at power plants.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/04/14/asia/japan-earthquake/)
 2. [Japan Today](http://www.japantoday.com/category/national/view/strong-quake-hits-kyushu-region-4-dead-400-injured)
 3. [Reuters](http://www.reuters.com/article/us-japan-quake-idUSKCN0XB1K6)
 3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160415&t=2&i=1132887449&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3E007)
+
+### Changes:
+
+1. [2016 Kumamoto earthquake: A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md) _2017-08-27 03:45:37 (First version)_
+1. [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ A strong earthquake hit southwestern Japan on Thursday, bringing down some build
 3. [A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. ](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.md) _Context: Japan, earthquake, tsunami_
 4. [A 6.8 magnitude earthquake occurs off the coast of Japan with a tsunami warning issued and then retracted. ](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.md) _Context: Japan, earthquake, tsunami_
 5. [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md) _Context: Japan, earthquake, tsunami_
-
-### Changes:
-
-1. [2016 Kumamoto earthquake: A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/2016-kumamoto-earthquake-a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people.md) _2017-08-27 03:45:37 (First version)_
-1. [A magnitude 6.4 earthquake strikes near Kumamoto, Japan, collapsing several buildings killing at least four people and injuring 400. However, no tsunami warning was issued and local nuclear power plants reported no problems. ](/news/2016/04/14/a-magnitude-6-4-earthquake-strikes-near-kumamoto-japan-collapsing-several-buildings-killing-at-least-four-people-and-injuring-400-however.md) _(Current version)_

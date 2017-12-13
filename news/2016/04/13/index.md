@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/13/index.html)  [JSON](2016/04/13/index.json)  [XML](2016/04/13/index.xml)  
+
 ## [2016-04-13](/news/2016/04/13/index.md)
 
 ### [The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the-country-during.md)

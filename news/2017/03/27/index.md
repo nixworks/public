@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/03/27/index.html)  [JSON](2017/03/27/index.json)  [XML](2017/03/27/index.xml)  
+
 ## [2017-03-27](/news/2017/03/27/index.md)
 
 ### [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100 kg, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-is-stolen-from-the-bode-museum-in-berlin-germany.md)

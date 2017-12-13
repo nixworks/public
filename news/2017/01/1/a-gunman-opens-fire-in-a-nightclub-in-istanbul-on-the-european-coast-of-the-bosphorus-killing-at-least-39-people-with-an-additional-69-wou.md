@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-o
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
-# A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. 
+# A gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. 
 
 A gunman is on the run after at least 39 people were killed in an attack on an Istanbul nightclub.
 
@@ -18,7 +18,7 @@ A gunman is on the run after at least 39 people were killed in an attack on an I
 ### Changes:
 
 1. [2017 Istanbul nightclub attack: A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/2017-istanbul-nightclub-attack-a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39.md) _2017-08-27 03:47:33 (First version)_
-1. [A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md) _(Current version)_
+1. [A gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md) _(Current version)_
 
 ### Related:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.html)  [JSON](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.json)  [XML](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.xml)  
+
 ### [2017-03-27](/news/2017/03/27/index.md)
 
 # An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. 
@@ -5,7 +8,7 @@
 An avalanche Monday killed seven Japanese high school students and a teacher on a mountain-climbing outing, and injured 40 more. 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/six-students-feared-dead-in-japan-avalanche/3628188.html)
 2. [CNN](http://edition.cnn.com/2017/03/27/asia/japan-avalanche-students/index.html)
@@ -17,4 +20,4 @@ An avalanche Monday killed seven Japanese high school students and a teacher on 
 2. [At least nine mountaineers are killed and eight injured in an avalanche on Mont Maudit near Mont Blanc in the French Alps. ](/news/2012/07/12/at-least-nine-mountaineers-are-killed-and-eight-injured-in-an-avalanche-on-mont-maudit-near-mont-blanc-in-the-french-alps.md) _Context: avalanche, mountaineering_
 3. [The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. ](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-neige-cordier-in-the-french-alps-after-apparently-having-been-killed-by-an-avalanche.md) _Context: avalanche, mountaineering_
 4. [ An avalanche in the Scottish Highlands kills three mountain climbers. ](/news/2009/01/24/an-avalanche-in-the-scottish-highlands-kills-three-mountain-climbers.md) _Context: avalanche, mountaineering_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
+5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_

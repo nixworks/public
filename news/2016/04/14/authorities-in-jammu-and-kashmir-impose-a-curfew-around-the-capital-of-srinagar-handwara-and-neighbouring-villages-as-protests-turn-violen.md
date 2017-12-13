@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.html)  [JSON](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.json)  [XML](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.xml)  
+
 ### [2016-04-14](/news/2016/04/14/index.md)
 
 # Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. 
@@ -5,7 +8,7 @@
 Seventy-year old woman latest to die as protesters face off with police for a second day in Indian-administered Kashmir.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/clashes-curfew-tense-kashmir-army-killings-india-160413173103704.html)
 

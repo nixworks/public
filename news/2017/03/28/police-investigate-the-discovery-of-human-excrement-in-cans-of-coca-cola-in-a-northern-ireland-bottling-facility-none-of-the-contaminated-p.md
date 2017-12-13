@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.html)  [JSON](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.json)  [XML](/news/2017/03/28/police-investigate-the-discovery-of-human-excrement-in-cans-of-coca-cola-in-a-northern-ireland-bottling-facility-none-of-the-contaminated-p.xml)  
+
 ### [2017-03-28](/news/2017/03/28/index.md)
 
 # Police investigate the discovery of human excrement in cans of Coca-Cola in a Northern Ireland bottling facility. None of the contaminated product left the facility. 
@@ -5,7 +8,7 @@
 Northern Ireland factory halts production after machine became clogged with faeces, though no contaminated drinks reached shelves
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/business/2017/mar/28/coca-cola-police-human-waste-drinks-cans)
 1. [Cover Image](https://i.guim.co.uk/img/media/44cdf22b28c894ecffefcc0ad1e4653eea6c8c54/194_0_2573_1544/master/2573.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=670e2104d0ba78a7dac34e1a7ae0fd3e)

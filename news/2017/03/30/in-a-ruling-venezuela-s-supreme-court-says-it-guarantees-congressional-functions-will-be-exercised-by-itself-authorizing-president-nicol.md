@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.html)  [JSON](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.json)  [XML](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.xml)  
+
 ### [2017-03-30](/news/2017/03/30/index.md)
 
 # In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. 
@@ -5,10 +8,10 @@
 Fears have been raised about democracy after the National Assembly was stripped of powers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39449494)
-2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17122M)
+2. [Reuters](https://www.reuters.com/article/us-venezuela-politics-idUSKBN17122M)
 2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/176CE/production/_95405959_venez1afp.jpg)
 
 ### Related:

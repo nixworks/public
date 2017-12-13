@@ -3,7 +3,7 @@ Formats: [HTML](2017/01/1/index.html)  [JSON](2017/01/1/index.json)  [XML](2017/
 
 ## [2017-01-1](/news/2017/01/1/index.md)
 
-### [A Gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md)
+### [A gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. ](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-on-the-european-coast-of-the-bosphorus-killing-at-least-39-people-with-an-additional-69-wou.md)
 A gunman is on the run after at least 39 people were killed in an attack on an Istanbul nightclub.
 
 ### [A suicide car bomb explosion and gunmen attack in Iraqi al-Qadisiya town situated in west of Najaf, kills at least 7 people and injures more than 17 others. Yesterday, 29 people were killed in a bomb explosion at a busy market in Iraq's capital Baghdad. ISIS claims responsibility. ](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-in-iraqi-al-qadisiya-town-situated-in-west-of-najaf-kills-at-least-7-people-and-injures-more.md)
