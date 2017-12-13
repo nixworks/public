@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.html)  [JSON](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.json)  [XML](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.xml)  
+
 ### [2017-05-6](/news/2017/05/6/index.md)
 
 # Hamas, which is seeking to reconcile with rival Palestinian organizations, elects former Prime Minister Ismail Haniyeh its new leader, replacing term-limited Khaled Meshaal. Last week, Hamas dropped its longstanding call for Israel's destruction, and severed ties with the Muslim Brotherhood. 
 
+ The Palestinian movement Hamas on Saturday elected Ismail Haniyeh to head its political office, a leadership change that comes as the Islamist group looks to r
 
 
+### Sources:
 
-### Source:
-
-1. [Reuters](http://www.reuters.com/article/us-palestinians-hamas-election-idUSKBN1820DV)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20170506&t=2&i=1183507425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4508Q)
+1. [Reuters](https://www.reuters.com/article/us-palestinians-hamas-election-idUSKBN1820DV)
+1. [Cover Image](/resources/r/?m=02&d=20170506&t=2&i=1183507425&w=400&r=LYNXMPED4508Q)
 
 ### Related:
 

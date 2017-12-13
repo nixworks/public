@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.html)  [JSON](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.json)  [XML](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.xml)  
+
 ### [2017-05-5](/news/2017/05/5/index.md)
 
 # Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/05/05/europe/france-election-macron-hack-allegation/index.html)
+
+### Changes:
+
+1. [French presidential election, 2017: Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/french-presidential-election-2017-files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say.md) _2017-08-27 03:48:18 (First version)_
+1. [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: Emmanuel Macron, last month's presidential election_
 4. [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: Emmanuel Macron, last month's presidential election_
 5. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _Context: Emmanuel Macron, last month's presidential election_
-
-### Changes:
-
-1. [French presidential election, 2017: Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/french-presidential-election-2017-files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say.md) _2017-08-27 03:48:18 (First version)_
-1. [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md) _(Current version)_

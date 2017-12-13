@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.html)  [JSON](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.json)  [XML](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.xml)  
+
 ### [2017-05-5](/news/2017/05/5/index.md)
 
 # The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [FlightGlobal](https://www.flightglobal.com/news/articles/comac-c919-commences-maiden-flight-436873/)
 

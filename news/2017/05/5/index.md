@@ -1,13 +1,16 @@
+
+Formats: [HTML](2017/05/5/index.html)  [JSON](2017/05/5/index.json)  [XML](2017/05/5/index.xml)  
+
 ## [2017-05-5](/news/2017/05/5/index.md)
 
 ### [ Russia, Iran and Turkey reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying. ](/news/2017/05/5/russia-iran-and-turkey-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircra.md)
-U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
+(This version of the story corrects the second paragraph to clarify Idlib is not the first de-escalation zone)
 
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
-_Context: Afghan police, Chaman, Pakistani military, border crossing_
+_Context: Chaman, Pakistani military, border crossing, police_
 
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, Democratic, Florida, Marco Rubio, Maryland, Philippine Drug War, Philippine National Police, Republican, United States Senate, defense contractor_
+_Context: Ben Cardin, D, Florida, Marco Rubio, Maryland, Philippine National Police, R, United States Senate, defense contractor, drug crackdown_
 
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman-o.md)
 The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.

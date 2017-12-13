@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.html)  [JSON](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.json)  [XML](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.xml)  
+
 ### [2017-05-5](/news/2017/05/5/index.md)
 
 # Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''U.S. News & World Report](https://www.usnews.com/news/politics/articles/2017-05-06/candidate-for-secretary-of-army-pulls-out-amid-controversy)
 2. [The New York Times](https://www.nytimes.com/2017/05/05/us/politics/mark-green-army-secretary-nominee-withdraws.html?_r=0)
+
+### Changes:
+
+1. [Political appointments of Donald Trump: Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/political-appointments-of-donald-trump-tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-conside.md) _2017-08-27 03:48:18 (First version)_
+1. [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [The White House announces that President Trump plans to nominate Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics. Textron Systems is a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense-f.md) _Context: Political appointments of Donald Trump_
 4. [Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secretary-position-at-the-department-of-homelan.md) _Context: Political appointments of Donald Trump_
 5. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _Context: Political appointments of Donald Trump_
-
-### Changes:
-
-1. [Political appointments of Donald Trump: Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/political-appointments-of-donald-trump-tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-conside.md) _2017-08-27 03:48:18 (First version)_
-1. [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md) _(Current version)_

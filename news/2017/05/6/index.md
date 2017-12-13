@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/6/index.html)  [JSON](2017/05/6/index.json)  [XML](2017/05/6/index.xml)  
+
 ## [2017-05-6](/news/2017/05/6/index.md)
 
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
@@ -10,7 +13,7 @@ American special forces are in the country as part of a train and advise mission
 Young protester shot in the head amid continuation of demonstrations that brand President Nicolás Maduro a dictator and demand elections
 
 ### [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md)
-Boko Haram militants have released dozens of schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok in April 2014, officials said on Saturday.
+ Boko Haram militants have released 82 schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok three years ago in e
 
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
 _Context: 2016-17 South Pacific cyclone season, Category Four, Torba Province, Vanuatu_
@@ -25,7 +28,7 @@ _Context: Lagos-Ibadan Expressway, Nigeria_
 France goes to the polls on Sunday for the final round of the presidential election, with Emmanuel Macron and Marine Le Pen vying to be the country’s next head of state. After the candidates from France’s traditional parties were eliminated in the first round, the most dramatic election campaign...
 
 ### [Hamas, which is seeking to reconcile with rival Palestinian organizations, elects former Prime Minister Ismail Haniyeh its new leader, replacing term-limited Khaled Meshaal. Last week, Hamas dropped its longstanding call for Israel's destruction, and severed ties with the Muslim Brotherhood. ](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.md)
-_Context: Hamas, Ismail Haniyeh, Israel, Khaled Meshaal, Muslim Brotherhood, Prime Minister_
+ The Palestinian movement Hamas on Saturday elected Ismail Haniyeh to head its political office, a leadership change that comes as the Islamist group looks to r
 
 ## [Previous Day...](/news/2017/05/5/index.md)
 

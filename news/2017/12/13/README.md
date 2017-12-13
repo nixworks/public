@@ -6,8 +6,8 @@ Formats: [HTML](2017/12/13/index.html)  [JSON](2017/12/13/index.json)  [XML](201
 ### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 
-### [Le Journal de Montral mentions Charles Castonguay, Pierre Curzi, Mario Beaulieu and cites researcher "Erich Bouchard" claiming that solid foundations are needed for the defence of the French language. So that we continue to document the reality in the hope that one day, a government lights up at last before it's too late. But who will do it? ](/news/2017/12/13/le-journal-de-montreal-mentions-charles-castonguay-pierre-curzi-mario-beaulieu-and-cites-researcher-erich-bouchard-claiming-that-solid-f.md)
-_Context: Charles Castonguay, French language, Le Journal de Montral, Mario Beaulieu, Pierre Curzi, Quebec French, government_
+### [Le Journal de Montreal mentions Charles Castonguay, Pierre Curzi, Mario Beaulieu and cites researcher Erich Bouchard claiming that solid foundations are needed for the defence of the French language. ](/news/2017/12/13/le-journal-de-montra-c-al-mentions-charles-castonguay-pierre-curzi-mario-beaulieu-and-cites-researcher-erich-bouchard-claiming-that-solid-fo.md)
+_Context: Charles Castonguay, French language, Le Journal de Montreal, Mario Beaulieu, Pierre Curzi, Quebec French_
 
 ### [A 17-pound (8 kg) transport helicopter window falls on a school in Okinawa, Japan, for the second time in less than a week. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-transport-helicopter-window-falls-on-a-school-in-okinawa-japan-for-the-second-time-in-less-than-a-week-today-a-child-s.md)
 US military helicopter window falls onto school in Okinawa, Japan. Second incident less than a week.
@@ -20,6 +20,9 @@ _Context: Charles Michel, Energiewende in Germany, Politics of Belgium, Prime Mi
 
 ### [Minnesota Governor Mark Dayton is scheduled to announce the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-is-scheduled-to-announce-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-u.md)
 Minnesotans will learn Wednesday who their next senator will be. At a 10 a.m. news conference at the Capitol, Gov. Mark Dayton will announce his choice to replace U.S. Sen. Al Franken.
+
+### [Prime Minister Theresa May suffers a 309--305 defeat, her first, in the House of Commons after MP's from both major parties approve an amendment to the Brexit bill limiting the Government's powers in the Brexit process by subjecting them to a preliminary parliamentary vote. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309a305-defeat-her-first-in-the-house-of-commons-after-mp-s-from-both-major-parties-approve-an-amen.md)
+MPs on both sides of Commons back amendment promising them a decisive vote on final Brexit deal
 
 ## [Previous Day...](/news/2017/12/12/index.md)
 
