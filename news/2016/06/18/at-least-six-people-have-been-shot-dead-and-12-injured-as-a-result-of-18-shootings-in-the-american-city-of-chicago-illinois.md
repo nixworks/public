@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/18/at-least-six-people-have-been-shot-dead-and-12-injured-as-a-result-of-18-shootings-in-the-american-city-of-chicago-illinois.html)  [JSON](/news/2016/06/18/at-least-six-people-have-been-shot-dead-and-12-injured-as-a-result-of-18-shootings-in-the-american-city-of-chicago-illinois.json)  [XML](/news/2016/06/18/at-least-six-people-have-been-shot-dead-and-12-injured-as-a-result-of-18-shootings-in-the-american-city-of-chicago-illinois.xml)  
+
 ### [2016-06-18](/news/2016/06/18/index.md)
 
 # At least six people have been shot dead and 12 injured as a result of 18 shootings in the American city of Chicago, Illinois. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ABC7 Chicago](http://abc7chicago.com/news/18-people-shot-6-fatally-in-weekend-violence/1391498/)
 

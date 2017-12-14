@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/06/18/index.html)  [JSON](2016/06/18/index.json)  [XML](2016/06/18/index.xml)  
+
 ## [2016-06-18](/news/2016/06/18/index.md)
 
 ### [Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. ](/news/2016/06/18/twelve-people-are-arrested-and-three-men-are-subsequently-charged-with-terrorism-offences-in-belgium-after-dozens-of-raids-were-carried-out.md)

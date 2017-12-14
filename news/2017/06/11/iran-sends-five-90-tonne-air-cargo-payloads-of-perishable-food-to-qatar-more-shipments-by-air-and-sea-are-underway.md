@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.html)  [JSON](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.json)  [XML](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.xml)  
+
 ### [2017-06-11](/news/2017/06/11/index.md)
 
 # Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. 
@@ -5,10 +8,16 @@
 Three ships loaded with 350 tonnes of food were also set to leave an Iranian port for Qatar.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Ńew Indian Express](http://www.newindianexpress.com/world/2017/jun/11/iran-has-sent-five-planes-of-food-to-qatar-airline-1615449.html)
 1. [Cover Image](http://images.newindianexpress.com/uploads/user/imagelibrary/2017/6/7/w600X390/Qatar-skyline-AP.jpg)
+
+### Changes:
+
+1. [Iran has sent five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-has-sent-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md) _2017-06-12 03:51:16 (First version)_
+2. [2017 Qatar diplomatic crisis: Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/2017-qatar-diplomatic-crisis-iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-und.md) _2017-08-27 03:48:28 (Update)_
+2. [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ Three ships loaded with 350 tonnes of food were also set to leave an Iranian por
 3. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran, Qatar_
 4. [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _Context: 2017 Qatar diplomatic crisis, Qatar_
 5. [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md) _Context: 2017 Qatar diplomatic crisis, Qatar_
-
-### Changes:
-
-1. [Iran has sent five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-has-sent-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md) _2017-06-12 03:51:16 (First version)_
-2. [2017 Qatar diplomatic crisis: Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/2017-qatar-diplomatic-crisis-iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-und.md) _2017-08-27 03:48:28 (Update)_
-2. [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md) _(Current version)_

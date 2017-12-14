@@ -12,7 +12,7 @@ Fox News chief Roger Ailes is leaving the network following sexual harassment al
 
 1. [CNN](http://money.cnn.com/2016/07/21/media/roger-ailes-leaves-fox-news/index.html)
 2. [Mediaite](http://www.mediaite.com/online/breaking-roger-ailes-has-officially-resigned-from-fox-news/)
-3. [New York Post](http://nypost.com/2016/07/21/roger-ailes-resigns-from-fox-news/)
+3. [New York Post](https://nypost.com/2016/07/21/roger-ailes-resigns-from-fox-news/)
 3. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/160718074148-roger-ailes-rupert-murdoch-780x439.jpg)
 
 ### Changes:

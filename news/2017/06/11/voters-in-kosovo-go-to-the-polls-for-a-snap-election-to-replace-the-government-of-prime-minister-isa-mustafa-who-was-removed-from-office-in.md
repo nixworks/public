@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.html)  [JSON](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.json)  [XML](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.xml)  
+
 ### [2017-06-11](/news/2017/06/11/index.md)
 
 # Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/ Radio Liberty](https://www.rferl.org/a/kosovo-election-mustafa-serbia-parliament-pristina/28540021.html)
+
+### Changes:
+
+1. [Kosovan parliamentary election, 2017: Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/kosovan-parliamentary-election-2017-voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-m.md) _2017-08-27 03:48:28 (First version)_
+1. [Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. ](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.md) _Context: Isa Mustafa, Prime Minister_
 4. [ Attackers exchange gunfire with guards at Kosovo's Prime Minister Hashim Thai's home. ](/news/2008/06/7/attackers-exchange-gunfire-with-guards-at-kosovo-s-prime-minister-hashim-thaci-s-home.md) _Context: Kosovo, Prime Minister_
 5. [ Deputy Prime Minister of Kosovo Hajredin Kui announces that the newly independent country plans to open 20 embassies abroad. ](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.md) _Context: Kosovo, Prime Minister_
-
-### Changes:
-
-1. [Kosovan parliamentary election, 2017: Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/kosovan-parliamentary-election-2017-voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-m.md) _2017-08-27 03:48:28 (First version)_
-1. [Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.html)  [JSON](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.json)  [XML](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.xml)  
+
 ### [2016-06-18](/news/2016/06/18/index.md)
 
 # A week of heavy rains and flooding in south China results in at least 25 deaths, six people missing and 33,000 people displaced. 
@@ -5,7 +8,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/floods-southern-china-kill-25-displace-33000-39950447)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

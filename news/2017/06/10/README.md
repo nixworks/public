@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/10/index.html)  [JSON](2017/06/10/index.json)  [XML](2017/06/10/index.xml)  
+
 ## [2017-06-10](/news/2017/06/10/index.md)
 
 ### [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md)

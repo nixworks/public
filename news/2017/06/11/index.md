@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/11/index.html)  [JSON](2017/06/11/index.json)  [XML](2017/06/11/index.xml)  
+
 ## [2017-06-11](/news/2017/06/11/index.md)
 
 ### [Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". ](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-s-military.md)
@@ -7,7 +10,7 @@ Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. go
 The surprise hit musical won a total of six Tonys, including best musical actor for 23 year-old newcomer Ben Platt
 
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: EU, Ukraine, Ukraine-European Union relations, visa_
+_Context: European Union, Ukraine, Ukraine-European Union relations, visa_
 
 ### [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)
 Three ships loaded with 350 tonnes of food were also set to leave an Iranian port for Qatar.
@@ -28,7 +31,7 @@ _Context: Isa Mustafa, Kosovan parliamentary election, 2017, Kosovo, Prime Minis
 Emmanuel Macron&#39;s party is on course to secure an historic majority in parliament after the first round of France&rsquo;s legislative elections, turbo-charging the French president&rsquo;s chances of driving through crucial economic reforms.
 
 ### [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md)
-Puerto Ricans head to the polls on Sunday to decide whether they want their struggling U.S. territory to become the 51st U.S. state, although a vote in favor would likely face an uphill battle in Congress and with President Donald Trump.
+The economically struggling U.S. island territory of Puerto Rico voted overwhelmingly on Sunday in favor of becoming the 51st state, although turnout was low and adding another star to the U.S. flag likely faces an uphill battle in Congress.
 
 ## [Previous Day...](/news/2017/06/10/index.md)
 

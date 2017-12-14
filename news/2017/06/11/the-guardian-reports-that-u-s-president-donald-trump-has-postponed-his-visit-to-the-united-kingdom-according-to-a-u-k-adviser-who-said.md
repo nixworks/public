@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.html)  [JSON](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.json)  [XML](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.xml)  
+
 ### [2017-06-11](/news/2017/06/11/index.md)
 
 # "The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. 
@@ -5,11 +8,17 @@
 US president told Theresa May he did not want trip to go ahead if there were large-scale public protests
 
 
-### Source:
+### Sources:
 
 1. [Geo TV](https://www.geo.tv/latest/145424-britain-us-deny-reports-claiming-trumps-state-visit-now-postponed)
 2. [The Guardian](https://www.theguardian.com/us-news/2017/jun/11/donald-trump-state-visit-to-britain-put-on-hold)
 2. [Cover Image](https://i.guim.co.uk/img/media/4a28b26d1db4d3354bd744da9022e40e2dcd0aa2/436_137_2016_1209/master/2016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=492bcc05af8c130457859249e88ae703)
+
+### Changes:
+
+1. [''The Guardian'' reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-sai.md) _2017-08-25 03:48:01 (First version)_
+2. [United Kingdom-United States relations: "The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/united-kingdom-united-states-relations-the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-king.md) _2017-08-27 03:48:28 (Update)_
+2. ["The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ US president told Theresa May he did not want trip to go ahead if there were lar
 3. [British Prime Minister Theresa May meets with U.S. President Donald Trump at the White House in Washington, D.C.. This is the first visit by a foreign leader since Trump's inauguration last Friday. ](/news/2017/01/27/british-prime-minister-theresa-may-meets-with-u-s-president-donald-trump-at-the-white-house-in-washington-d-c-this-is-the-first-visit-by.md) _Context: Donald Trump, Theresa May, United Kingdom-United States relations_
 4. [U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-states-ambassador-to-the-united-kingdom.md) _Context: Donald Trump, United Kingdom-United States relations_
 5. [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md) _Context: 10 Downing Street, Donald Trump_
-
-### Changes:
-
-1. [''The Guardian'' reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-sai.md) _2017-08-25 03:48:01 (First version)_
-2. [United Kingdom-United States relations: "The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/united-kingdom-united-states-relations-the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-king.md) _2017-08-27 03:48:28 (Update)_
-2. ["The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.md) _(Current version)_
