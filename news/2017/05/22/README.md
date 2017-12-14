@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/22/index.html)  [JSON](2017/05/22/index.json)  [XML](2017/05/22/index.xml)  
+
 ## [2017-05-22](/news/2017/05/22/index.md)
 
 ### [Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-perform.md)
@@ -19,7 +22,7 @@ President Rodrigo Duterte said Xi Jinping had warned him there would be war if t
 Turkey is calling for a full investigation of &quot;aggressive&quot; actions taken by American security personnel following a protest-turned-brawl outside the Turkish Embassy in Washington, D.C.
 
 ### [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md)
-Philippine President Rodrigo Duterte told Russian leader Vladimir Putin that the Philippines needs modern arms to fight Islamic State and that he expected Russian support.
+ Philippine President Rodrigo Duterte told Russian leader Vladimir Putin that the Philippines needs modern arms to fight Islamic State and that he expected Russ
 
 ### [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-to.md)
 Redistricting is part of a bare-knuckled fight in North Carolina, where Democrats and Republicans uneasily share political power.
@@ -34,7 +37,7 @@ Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
 Prime minister spends day battling against accusations of indecision after change to policy outlined in manifesto
 
 ### [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md)
-Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigates possible Russian interference in the 2016 U.S. election.
+ Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigat
 
 ### [The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. ](/news/2017/05/22/the-birthplace-of-late-president-hugo-cha-vez-is-burned-by-protesters-as-violence-and-looting-spreads-through-barinas-venezuela-following-t.md)
 Protesters set fire to late President Hugo Chavez&apos;s childhood home in western Venezuela on Monday, an opposition lawmaker said.

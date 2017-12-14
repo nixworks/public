@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.html)  [JSON](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.json)  [XML](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.xml)  
+
 ### [2017-05-22](/news/2017/05/22/index.md)
 
 # The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. 
@@ -5,7 +8,7 @@
 President Rodrigo Duterte said Xi Jinping had warned him there would be war if the Philippines tried to search for oil in the South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/r-philippine-minister-starts-damage-control-after-dutertes-china-war-remark-2017-5)
 1. [Cover Image](http://static4.businessinsider.com/image/5922b9fc34911b21008b54d6-1190-625/the-philippines-is-starting-damage-control-after-duterte-claims-china-threatened-war.jpg)
