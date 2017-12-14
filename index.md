@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/14/index.md)
 
-### [Disney acquires a large portion of 21st Century Fox for $52.4 billion. ](/news/2017/12/14/disney-acquires-a-large-portion-of-21st-century-fox-for-52-4-billion.md)
+### [The Walt Disney Company acquires a large portion of 21st Century Fox for $52.4 billion. ](/news/2017/12/14/the-walt-disney-company-acquires-a-large-portion-of-21st-century-fox-for-52-4-billion.md)
 Disney will pay $52.4 billion for a large portion of the entertainment giant, combining
 
 ---
@@ -25,19 +25,16 @@ US military helicopter window falls onto school in Okinawa, Japan. Second incide
 ### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
 _Context: Congress of the Philippines, Mindanao, President, Proclamation No. 216, Rodrigo Duterte, martial law_
 
-### [Suspended Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht, which paid $33.5m in bribes to secure infrastructure contracts in the country. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial remedies have been exhausted. Former President Rafael Correa, who also had Glas in the same office, has defended him expressly and considers that the case is politically motivated. The uncle of Glas, involved in the same plot, received the same sentence. ](/news/2017/12/13/suspended-ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-the-delict-of-illicit-association-and-taking-13-5.md)
+### [Ecuadorian Suspended Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht, which paid $33.5m in bribes to secure infrastructure contracts in the country. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial instances have been exhausted. Former President Rafael Correa, who also had Glas in the same office, has defended him expressly and considers that the case is politically motivated. The uncle of Glas, involved in the same plot, received the same sentence. ](/news/2017/12/13/ecuadorian-suspended-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-the-delict-of-illicit-association-and-taking-13-5.md)
 Jorge Glas is the highest-ranking politician to be convicted in the Odebrecht scandal.
 
 ### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)
 The two journalists, accused of trying to obtain official documents illegally, could face up to 14 years in prison.
 
-### [Belgium's biggest government party says that it will not accept the energy transition agreement in the form that was reached by the four ministers of energy on December 11. They cite mainly financial arguments, while the pact's negotiators say the cost is known. The process is inspired by the Energiewende in Germany. ](/news/2017/12/13/belgium-s-biggest-government-party-says-that-it-will-not-accept-the-energy-transition-agreement-in-the-form-that-was-reached-by-the-four-min.md)
-_Context: Energiewende in Germany, Politics of Belgium, biggest, energy transition, financial, four ministers of energy, government, party_
-
 ### [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md)
 Here is the text of Gov. Mark Dayton’s announcement that he would be appointing Lt. Gov. Tina Smith to the U.S. Senate seat being vacated by Sen. Al Franken: &#8220;I’ve given this important decisi…
 
-### [Prime Minister Theresa May suffers a 309&ndash;305 defeat, her first, in the House of Commons when MPs from both major parties approve, with 12 Tories led by Dominic Grieve "defecting", an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. The Prime Minister is expected at the European Union tomorrow. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309-ndash-305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-with.md)
+### [Prime Minister Theresa May suffers a 309&ndash;305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309-ndash-305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-am.md)
 MPs on both sides of Commons back amendment promising them a decisive vote on final Brexit deal
 
 ### [Kentucky state legislator Dan Johnson, who had been accused of sexual assault of a teenager, dies of a gunshot wound, an apparent suicide. ](/news/2017/12/13/kentucky-state-legislator-dan-johnson-who-had-been-accused-of-sexual-assault-of-a-teenager-dies-of-a-gunshot-wound-an-apparent-suicide.md)
@@ -53,8 +50,8 @@ Westfield owns and operates 35 shopping centers in the US and United Kingdom.
 ### [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md)
 Gas has resumed flowing through an Austrian gas hub after an earlier explosion cut off supplies to several European countries. Italy has declared a state of emergency.
 
-### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-everything-seems-to-indicate-that-he-had-been-kil.md)
-_Context: Crime in Peru, Lima, National University of San Marcos_
+### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md)
+_Context: Crime in Peru, Lima, National University of San Marcos, Peru_
 
 ### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. Glyphosate is a systemic herbicide and crop desiccant commonly sold under the trademark "Roundup". The petitioners fear that the herbicide causes cancer. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
 _Context: EU citizens, European Commission, Regulation of chemicals, causes cancer, crop desiccant, glyphosate, petition, systemic herbicide, trademark_
