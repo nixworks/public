@@ -9,8 +9,11 @@ Disney will pay $52.4 billion for a large portion of the entertainment giant, co
 ### [Teva Pharmaceutical, the giant generic drug manufacturer headquartered in Israel, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/teva-pharmaceutical-the-giant-generic-drug-manufacturer-headquartered-in-israel-is-restructuring-in-order-to-pay-off-debt-and-will-be-cut.md)
 Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, give up many of its manufacturing plants and suspend its dividend on ordinary shares in a much-anticipated overhaul to help pay off its debts.
 
-### [The Supreme Court of Justice of Guatemala chooses not to allow the implementation a manual used by the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-chooses-not-to-allow-the-implementation-a-manual-used-by-the-procuratorate-of-human-rights-for-tal.md)
-_Context: Guatemala, Health education, Procuratorate of Human Rights, Supreme Court of Justice, abortion, illegal, in the country, sexuality_
+### [A train crashes into a school bus in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md)
+A train and a school bus collide in southern France, leaving at least four children dead, officials say.
+
+### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
+_Context: Guatemala, Health education, Procuratorate of Human Rights, Supreme Court of Justice, abortion, country, illegal, sexuality, usage manual_
 
 ---
 
@@ -56,8 +59,8 @@ Westfield owns and operates 35 shopping centers in the US and United Kingdom.
 ### [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md)
 Gas has resumed flowing through an Austrian gas hub after an earlier explosion cut off supplies to several European countries. Italy has declared a state of emergency.
 
-### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md)
-_Context: Crime in Peru, Lima, National University of San Marcos, Peru_
+### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-peru-everything-seems-to-indicate-that-he-had-be.md)
+_Context: Crime in Peru, Lima, Peru, National University of San Marcos_
 
 ### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
 _Context: EU citizens, European Commission, Regulation of chemicals, glyphosate, petition_

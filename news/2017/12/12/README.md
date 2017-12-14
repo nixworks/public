@@ -9,8 +9,8 @@ Westfield owns and operates 35 shopping centers in the US and United Kingdom.
 ### [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md)
 Gas has resumed flowing through an Austrian gas hub after an earlier explosion cut off supplies to several European countries. Italy has declared a state of emergency.
 
-### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md)
-_Context: Crime in Peru, Lima, National University of San Marcos, Peru_
+### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-peru-everything-seems-to-indicate-that-he-had-be.md)
+_Context: Crime in Peru, Lima, Peru, National University of San Marcos_
 
 ### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
 _Context: EU citizens, European Commission, Regulation of chemicals, glyphosate, petition_
