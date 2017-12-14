@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.html)  [JSON](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.json)  [XML](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.xml)  
+
 ### [2017-05-29](/news/2017/05/29/index.md)
 
 # At least 11 people are killed and 69 are injured as a severe thunderstorm hits Moscow, Russia. 
@@ -5,7 +8,7 @@
 The storm could be the deadliest to hit the Russian capital in more than 100 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40086616)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FCC2/production/_96260746_430bcba4-ca71-4497-b45e-de860de37aaf.jpg)

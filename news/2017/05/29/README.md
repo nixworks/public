@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/29/index.html)  [JSON](2017/05/29/index.json)  [XML](2017/05/29/index.xml)  
+
 ## [2017-05-29](/news/2017/05/29/index.md)
 
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
@@ -13,7 +16,7 @@ _Context: Ba'aj, ISIL, Iran, Iraqi Civil War, Shi'ite volunteers, Syria_
 _Context: Assembly of First Nations, Canadian Prime Minister, Chief Phil Fontaine, Justin Trudeau, Pope Benedict XVI, Pope Francis, indigenous children, residential school system_
 
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)
-Japan Tobacco Inc (2914.T) plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris (PM.N) for a larger share of the Japanese vaping products market.
+Japan Tobacco Inc plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris for a larger share of the Japanese vaping products market.
 
 ### [A zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md)
 _Context: Cambridgeshire, Hamerton Zoo Park, tiger, zookeeper_
