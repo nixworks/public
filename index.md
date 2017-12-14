@@ -12,9 +12,6 @@ _Context: Gaza Strip, Iron Dome, Israel, Israel Defense Forces, Israeli-Palestin
 ### [Dublin City Councillors vote 59&ndash;2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59-ndash-2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-fai.md)
 Councillors vote overwhelmingly to remove award from Myanmar leader, whose handling the Rohingya crisis has been fiercely criticised
 
-### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)
-The two journalists, accused of trying to obtain official documents illegally, could face up to 14 years in prison.
-
 ### [A 17-pound (8 kg) transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week-that-an.md)
 US military helicopter window falls onto school in Okinawa, Japan. Second incident less than a week.
 
@@ -23,6 +20,9 @@ _Context: Congress of the Philippines, Mindanao, President, Proclamation No. 216
 
 ### [Suspended Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht, which paid $33.5m in bribes to secure infrastructure contracts in the country. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial remedies have been exhausted. Former President Rafael Correa, who also had Glas in the same office, has defended him expressly and considers that the case is politically motivated. The uncle of Glas, involved in the same plot, received the same sentence. ](/news/2017/12/13/suspended-ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-the-delict-of-illicit-association-and-taking-13-5.md)
 Jorge Glas is the highest-ranking politician to be convicted in the Odebrecht scandal.
+
+### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)
+The two journalists, accused of trying to obtain official documents illegally, could face up to 14 years in prison.
 
 ### [Belgium's biggest government party says that it will not accept the energy transition agreement in the form that was reached by the four ministers of energy on December 11. They cite mainly financial arguments, while the pact's negotiators say the cost is known. The process is inspired by the Energiewende in Germany. ](/news/2017/12/13/belgium-s-biggest-government-party-says-that-it-will-not-accept-the-energy-transition-agreement-in-the-form-that-was-reached-by-the-four-min.md)
 _Context: Energiewende in Germany, Politics of Belgium, biggest, energy transition, financial, four ministers of energy, government, party_
