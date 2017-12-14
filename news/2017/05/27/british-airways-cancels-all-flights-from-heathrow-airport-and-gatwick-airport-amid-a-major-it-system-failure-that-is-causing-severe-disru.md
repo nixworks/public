@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.html)  [JSON](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.json)  [XML](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.xml)  
+
 ### [2017-05-27](/news/2017/05/27/index.md)
 
 # British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. 
@@ -5,7 +8,7 @@
 All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:00 BST.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-40069865)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9992/production/_96241393_michaelsingh.jpg)
