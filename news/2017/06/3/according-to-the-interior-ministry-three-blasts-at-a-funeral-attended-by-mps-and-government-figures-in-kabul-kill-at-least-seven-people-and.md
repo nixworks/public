@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.html)  [JSON](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.json)  [XML](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.xml)  
+
 ### [2017-06-3](/news/2017/06/3/index.md)
 
 # According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. 
@@ -5,10 +8,15 @@
 Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/03/kabul-explosions-afghanistan-people-killed-funeral-salim-ezadyar)
 1. [Cover Image](https://i.guim.co.uk/img/media/07a5e3e5846c9c2d12286cb248891e8531d53649/0_11_1280_768/master/1280.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=39112b4cec2fe402ff9ef1b984bc9e2a)
+
+### Changes:
+
+1. [War in Afghanistan: June 2017 Kabul attack: According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/war-in-afghanistan-june-2017-kabul-attack-according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-fig.md) _2017-08-27 03:48:25 (First version)_
+1. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Blasts at funeral attended by government officials including one of leading poli
 3. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Kabul, War in Afghanistan_
 4. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _Context: Kabul, War in Afghanistan_
 5. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: Kabul, War in Afghanistan_
-
-### Changes:
-
-1. [War in Afghanistan: June 2017 Kabul attack: According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/war-in-afghanistan-june-2017-kabul-attack-according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-fig.md) _2017-08-27 03:48:25 (First version)_
-1. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _(Current version)_

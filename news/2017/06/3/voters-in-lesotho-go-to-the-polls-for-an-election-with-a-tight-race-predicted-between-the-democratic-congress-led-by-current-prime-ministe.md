@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.html)  [JSON](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.json)  [XML](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.xml)  
+
 ### [2017-06-3](/news/2017/06/3/index.md)
 
 # Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. 
@@ -5,9 +8,14 @@
 Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/06/lesotho-voting-election-2012-170603060926252.html)
+
+### Changes:
+
+1. [Lesotho general election, 2017: Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/lesotho-general-election-2017-voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congre.md) _2017-08-27 03:48:25 (First version)_
+1. [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@ Snap election is seen as a two-horse race between old rivals Prime Minister Paka
 3. [ Prime Minister of Lesotho Pakalitha Mosisili survives an apparent assassination attempt. ](/news/2009/04/23/prime-minister-of-lesotho-pakalitha-mosisili-survives-an-apparent-assassination-attempt.md) _Context: Lesotho, Pakalitha Mosisili_
 4. [Pakalitha Mosisili, the Prime Minister of Lesotho loses a confidence motion in the Parliament of Lesotho, and may call a snap election. ](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho-loses-a-confidence-motion-in-the-parliament-of-lesotho-and-may-call-a-snap-election.md) _Context: Pakalitha Mosisili_
 5. [A shootout between Lesotho Defence Force soldiers and two former bodyguards of Prime Minister Tom Thabane leaves at least one bystander killed and three others wounded. ](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.md) _Context: Tom Thabane_
-
-### Changes:
-
-1. [Lesotho general election, 2017: Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/lesotho-general-election-2017-voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congre.md) _2017-08-27 03:48:25 (First version)_
-1. [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md) _(Current version)_

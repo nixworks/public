@@ -3,8 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/14/index.md)
 
-### [The Walt Disney Company acquires a large portion of 21st Century Fox for $52.4 billion. ](/news/2017/12/14/the-walt-disney-company-acquires-a-large-portion-of-21st-century-fox-for-52-4-billion.md)
+### [The Walt Disney Company announces its intent to acquire a large portion of 21st Century Fox for $52.4 billion, pending regulatory approval. ](/news/2017/12/14/the-walt-disney-company-announces-its-intent-to-acquire-a-large-portion-of-21st-century-fox-for-52-4-billion-pending-regulatory-approval.md)
 Disney will pay $52.4 billion for a large portion of the entertainment giant, combining
+
+### [Teva Pharmaceutical, the giant generic drug manufacturer headquartered in Israel, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/teva-pharmaceutical-the-giant-generic-drug-manufacturer-headquartered-in-israel-is-restructuring-in-order-to-pay-off-debt-and-will-be-cut.md)
+Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, give up many of its manufacturing plants and suspend its dividend on ordinary shares in a much-anticipated overhaul to help pay off its debts.
+
+### [The Supreme Court of Justice of Guatemala leaves without effect the use of a manual used by the Procuratorate of Human Rights for talks and workshops about sexuality, due to the interpretation given to the document on the promotion of abortion, that, except risk to the mother's life, is unlegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-leaves-without-effect-the-use-of-a-manual-used-by-the-procuratorate-of-human-rights-for-talks-and.md)
+_Context: Procuratorate of Human Rights, Supreme Court of Justice of Guatemala, abortion_
 
 ---
 
@@ -13,13 +19,13 @@ Disney will pay $52.4 billion for a large portion of the entertainment giant, co
 ### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 
-### [Militant Palestinians fire three rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-three-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-interce.md)
+### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
 _Context: Gaza Strip, Iron Dome, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Palestinians_
 
 ### [Dublin City Councillors vote 59&ndash;2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59-ndash-2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-fai.md)
 Councillors vote overwhelmingly to remove award from Myanmar leader, whose handling the Rohingya crisis has been fiercely criticised
 
-### [A 17-pound (8 kg) transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week-that-an.md)
+### [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md)
 US military helicopter window falls onto school in Okinawa, Japan. Second incident less than a week.
 
 ### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
@@ -53,8 +59,8 @@ Gas has resumed flowing through an Austrian gas hub after an earlier explosion c
 ### [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md)
 _Context: Crime in Peru, Lima, National University of San Marcos, Peru_
 
-### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. Glyphosate is a systemic herbicide and crop desiccant commonly sold under the trademark "Roundup". The petitioners fear that the herbicide causes cancer. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
-_Context: EU citizens, European Commission, Regulation of chemicals, causes cancer, crop desiccant, glyphosate, petition, systemic herbicide, trademark_
+### [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md)
+_Context: EU citizens, European Commission, Regulation of chemicals, glyphosate, petition_
 
 ### [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md)
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition

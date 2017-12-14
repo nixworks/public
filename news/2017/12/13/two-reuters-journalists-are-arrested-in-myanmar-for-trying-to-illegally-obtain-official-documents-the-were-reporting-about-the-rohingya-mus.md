@@ -10,9 +10,8 @@ The two journalists, accused of trying to obtain official documents illegally, c
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-myanmar-journalists/two-reuters-journalists-arrested-in-myanmar-face-official-secrets-charges-idUSKBN1E71CO?feedType=RSS&feedName=newsOne&google_editors_picks=true)
-2. [The New York Times](https://www.nytimes.com/2017/12/13/world/asia/myanmar-rakhine-reporters.html)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [The New York Times](https://www.nytimes.com/2017/12/13/world/asia/myanmar-rakhine-reporters.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 
