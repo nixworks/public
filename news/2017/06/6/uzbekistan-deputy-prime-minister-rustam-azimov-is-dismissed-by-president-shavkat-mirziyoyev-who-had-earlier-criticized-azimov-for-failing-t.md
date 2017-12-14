@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.html)  [JSON](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.json)  [XML](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.xml)  
 
-* [HTML](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.html)
-* [JSON](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.json)
-* [XML](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. 
@@ -14,9 +11,9 @@ Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of
 ### Sources:
 
 1. [AKIpress news agency](http://akipress.com/news:593286/)
-2. [Reuters](http://www.reuters.com/article/us-uzbekistan-government-idUSKBN18X0R9?il=0)
-3. [Reuters²](http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN18S5FB)
-3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170601&t=2&i=1187120772&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED503KX)
+2. [Reuters](https://www.reuters.com/article/us-uzbekistan-government-idUSKBN18X0R9?il=0)
+3. [Reuters²](https://www.reuters.com/article/us-uzbekistan-politics-idUSKBN18S5FB)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170601&t=2&i=1187120772&w=1200&r=LYNXMPED503KX)
 
 ### Changes:
 

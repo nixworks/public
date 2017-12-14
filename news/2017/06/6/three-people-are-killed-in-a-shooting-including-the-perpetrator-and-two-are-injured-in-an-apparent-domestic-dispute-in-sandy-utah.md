@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.html)  [JSON](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.json)  [XML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.xml)  
 
-* [HTML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.html)
-* [JSON](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.json)
-* [XML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-the-perpetrator-and-two-are-injured-in-an-apparent-domestic-dispute-in-sandy-utah.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. 

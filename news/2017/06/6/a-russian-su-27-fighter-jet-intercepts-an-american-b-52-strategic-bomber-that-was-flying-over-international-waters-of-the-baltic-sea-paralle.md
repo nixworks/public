@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.html)  [JSON](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.json)  [XML](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.xml)  
 
-* [HTML](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.html)
-* [JSON](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.json)
-* [XML](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-paralle.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # A Russian SU-27 fighter jet intercepts an American B-52 strategic bomber that was flying over international waters of the Baltic Sea parallel to the Russian border, and escorts the B-52 until it flew away from the border area. The United States military confirmed that the US Air Force B-52 was operating in international airspace, but had no further comment about the incident. 
@@ -14,8 +11,8 @@ Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-
 ### Sources:
 
 1. [EURACTIV](http://www.euractiv.com/section/politics/news/russian-fighter-intercepts-us-bomber-over-baltic-sea/)
-2. [Reuters](http://www.reuters.com/article/us-russia-usa-bomber-idUSKBN18X166)
-2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170606&t=2&i=1187819604&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED551DU)
+2. [Reuters](https://www.reuters.com/article/us-russia-usa-bomber-idUSKBN18X166)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170606&t=2&i=1187819604&w=1200&r=LYNXMPED551DU)
 
 ### Changes:
 

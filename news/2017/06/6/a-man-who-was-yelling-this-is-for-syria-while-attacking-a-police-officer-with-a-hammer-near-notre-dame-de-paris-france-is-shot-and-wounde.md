@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.html)  [JSON](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.json)  [XML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.xml)  
 
-* [HTML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.html)
-* [JSON](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.json)
-* [XML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer. Prosecutors open a terrorism probe. 
@@ -15,7 +12,7 @@
 
 1. [AP](https://apnews.com/b6dc8bc3cd34432b9386ea0f844de69f/The-Latest:-Police-shot,-injured-attacker-near-Notre-Dame)
 2. [BBC](http://www.bbc.com/news/world-europe-40178183)
-3. [Reuters](http://www.reuters.com/article/us-europe-attacks-france-idUSKBN18X1V5)
+3. [Reuters](https://www.reuters.com/article/us-europe-attacks-france-idUSKBN18X1V5)
 3. [Cover Image](https://storage.googleapis.com/afs-prod/media/media:15eea94e5bfa4cbbad8bae645c0d14ae/800.jpeg)
 
 ### Changes:

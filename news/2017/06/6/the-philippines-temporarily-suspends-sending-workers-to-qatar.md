@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.html)  [JSON](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.json)  [XML](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.xml)  
 
-* [HTML](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.html)
-* [JSON](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.json)
-* [XML](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # The Philippines temporarily suspends sending workers to Qatar. 

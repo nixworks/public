@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.html)  [JSON](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.json)  [XML](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.xml)  
 
-* [HTML](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.html)
-* [JSON](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.json)
-* [XML](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-democrat-phi.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. 

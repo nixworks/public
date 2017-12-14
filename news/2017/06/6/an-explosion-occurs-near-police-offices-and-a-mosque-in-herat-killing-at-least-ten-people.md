@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.html)  [JSON](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.json)  [XML](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.xml)  
 
-* [HTML](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.html)
-* [JSON](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.json)
-* [XML](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.xml)
 ### [2017-06-6](/news/2017/06/6/index.md)
 
 # An explosion occurs near police offices and a mosque in Herat, killing at least ten people. 

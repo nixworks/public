@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.html)  [JSON](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.json)  [XML](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.xml)  
+
 ### [2017-06-5](/news/2017/06/5/index.md)
 
 # Apple announces iOS 11 in WWDC 2017. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [9to5Mac](https://9to5mac.com/2017/06/05/apple-unveils-ios-11-for-iphone-and-ipad/)
 2. [Bloomberg](https://www.bloomberg.com/news/live-blog/2017-06-01/apple-worldwide-developers-conference)

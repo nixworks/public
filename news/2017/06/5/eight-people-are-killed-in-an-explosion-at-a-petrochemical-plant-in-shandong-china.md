@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.html)  [JSON](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.json)  [XML](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.xml)  
+
 ### [2017-06-5](/news/2017/06/5/index.md)
 
 # Eight people are killed in an explosion at a petrochemical plant in Shandong, China. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-china-blast-idUSKBN18W02E)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [2017 disasters in China: Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/2017-disasters-in-china-eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _2017-08-27 03:48:26 (First version)_
+1. [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [A chemical plant owned by the Shandong Binyuan Chemical Company explodes in the Chinese city of Dongying in the coastal Shandong province, killing at least one person with the extent of other injuries unknown. ](/news/2015/09/1/a-chemical-plant-owned-by-the-shandong-binyuan-chemical-company-explodes-in-the-chinese-city-of-dongying-in-the-coastal-shandong-province-k.md) _Context: Shandong_
 4. [An explosion occurs at a chemical warehouse in China's Shandong province, with nine people injured according to Chinese media. ](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.md) _Context: Shandong_
 5. [Ten people are killed after a wall collapses on a construction project in China's Shandong province. ](/news/2015/05/9/ten-people-are-killed-after-a-wall-collapses-on-a-construction-project-in-china-s-shandong-province.md) _Context: Shandong_
-
-### Changes:
-
-1. [2017 disasters in China: Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/2017-disasters-in-china-eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _2017-08-27 03:48:26 (First version)_
-1. [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md) _(Current version)_

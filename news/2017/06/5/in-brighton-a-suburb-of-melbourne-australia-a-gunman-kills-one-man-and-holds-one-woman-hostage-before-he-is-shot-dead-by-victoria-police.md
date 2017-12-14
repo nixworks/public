@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.html)  [JSON](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.json)  [XML](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.xml)  
+
 ### [2017-06-5](/news/2017/06/5/index.md)
 
 # In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. 
@@ -5,21 +8,21 @@
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
 
 
-### Source:
+### Sources:
 
 1. [Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-06/islamic-state-claims-responsibility-for-brighton-siege/8591540)
 2. [Herald Sun](http://www.heraldsun.com.au/news/law-order/emergency-crews-responding-to-explosion-in-brighton/news-story/432d22f46235bc4f810581d6cd5965d7)
 2. [Cover Image](http://www.abc.net.au/news/image/8592296-1x1-700x700.jpg)
 
-### Related:
-
-1. [Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.md) _Context: Melbourne, Victoria Police_
-2. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: ISIL_
-3. [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md) _Context: Victoria Police_
-4. [A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. ](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.md) _Context: Melbourne_
-5. [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md) _Context: ISIL_
-
 ### Changes:
 
 1. [2017 Brighton siege: In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/2017-brighton-siege-in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dea.md) _2017-08-27 03:48:26 (First version)_
 1. [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md) _(Current version)_
+
+### Related:
+
+1. [Three people have been killed and twenty injured after a man drives a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to 6.](/news/2017/01/20/three-people-have-been-killed-and-twenty-injured-after-a-man-drives-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melb.md) _Context: Melbourne, Victoria Police_
+2. [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _Context: Islamic State in Iraq and the Levant_
+3. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Islamic State in Iraq and the Levant_
+4. [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md) _Context: Victoria Police_
+5. [A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. ](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.md) _Context: Melbourne_
