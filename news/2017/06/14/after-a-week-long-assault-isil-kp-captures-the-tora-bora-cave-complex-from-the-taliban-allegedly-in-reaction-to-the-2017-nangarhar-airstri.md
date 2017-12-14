@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.html)  [JSON](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.json)  [XML](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.xml)  
 
-* [HTML](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.html)
-* [JSON](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.json)
-* [XML](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. 

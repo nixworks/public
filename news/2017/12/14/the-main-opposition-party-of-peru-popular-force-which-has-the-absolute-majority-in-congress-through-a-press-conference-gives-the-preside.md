@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
-# The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, through a press conference, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. However, this politial group did not mention what it would do if the president does not comply. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. 
+# The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, through a press conference, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. However, this political group did not mention what it would do if the president does not do it. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. 
 
 
 

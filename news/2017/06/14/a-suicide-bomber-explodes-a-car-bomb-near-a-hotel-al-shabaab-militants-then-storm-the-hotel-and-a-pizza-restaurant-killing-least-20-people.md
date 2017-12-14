@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.html)  [JSON](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.json)  [XML](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.xml)  
 
-* [HTML](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.html)
-* [JSON](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.json)
-* [XML](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. 
@@ -14,7 +11,7 @@ The Somalia-based extremist group al-Shabab often targets high-profile areas of 
 ### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/somalia-suicide-car-bomber-detonates-outside-mogadishu-restaurant/story-GIccqoQWNAp8slPqAV7pZL.html)
-2. [Reuters](http://www.reuters.com/article/us-somalia-blast-idUSKBN1952MP)
+2. [Reuters](https://www.reuters.com/article/us-somalia-blast-idUSKBN1952MP)
 2. [Cover Image](http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/14/Pictures/somalia-attack_41f0b71c-512e-11e7-869c-505e32be9126.jpg)
 
 ### Changes:

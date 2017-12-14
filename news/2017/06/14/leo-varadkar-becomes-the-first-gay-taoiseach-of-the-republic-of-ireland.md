@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.html)  [JSON](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.json)  [XML](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.xml)  
 
-* [HTML](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.html)
-* [JSON](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.json)
-* [XML](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Leo Varadkar becomes the first gay Taoiseach of the Republic of Ireland. 

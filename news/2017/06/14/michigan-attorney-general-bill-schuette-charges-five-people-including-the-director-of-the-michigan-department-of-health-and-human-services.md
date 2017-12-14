@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.html)  [JSON](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.json)  [XML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.xml)  
 
-* [HTML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.html)
-* [JSON](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.json)
-* [XML](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. 

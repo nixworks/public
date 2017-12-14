@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.html)  [JSON](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.json)  [XML](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.xml)  
 
-* [HTML](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.html)
-* [JSON](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.json)
-* [XML](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.html)  [JSON](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.json)  [XML](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.xml)  
 
-* [HTML](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.html)
-* [JSON](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.json)
-* [XML](/news/2017/06/14/the-u-s-federal-reserve-raises-the-federal-funds-rate-by-a-quarter-percentage-point-to-a-level-between-the-1-0-to-1-25-percent-range-and-o.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # The U.S. Federal Reserve raises the federal funds rate by a quarter percentage point to a level between the 1.0-to-1.25 percent range, and outlines a plan to trim its bond holdings and other securities. This is the fourth increase since December 2015. 

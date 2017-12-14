@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.html)  [JSON](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.json)  [XML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.xml)  
 
-* [HTML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.html)
-* [JSON](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.json)
-* [XML](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. 

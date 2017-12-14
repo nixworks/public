@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.html)  [JSON](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.json)  [XML](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.xml)  
 
-* [HTML](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.html)
-* [JSON](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.json)
-* [XML](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # A large fire consumes the 24-storey Grenfell Tower apartment block in North Kensington, West London, with the entire building evacuated and over 40 fire engines and 200 firefighters battling the blaze. At least 17 people are dead and more people are treated for injuries, with more people possibly being trapped inside. 

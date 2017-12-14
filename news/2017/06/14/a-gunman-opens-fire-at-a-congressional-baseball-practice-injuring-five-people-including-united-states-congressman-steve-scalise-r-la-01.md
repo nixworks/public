@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.html)  [JSON](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.json)  [XML](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.xml)  
 
-* [HTML](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.html)
-* [JSON](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.json)
-* [XML](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. 

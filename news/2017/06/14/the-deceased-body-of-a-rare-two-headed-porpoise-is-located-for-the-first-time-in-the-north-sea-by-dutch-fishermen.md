@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.html)  [JSON](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.json)  [XML](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.xml)  
 
-* [HTML](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.html)
-* [JSON](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.json)
-* [XML](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.xml)
 ### [2017-06-14](/news/2017/06/14/index.md)
 
 # The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. 
