@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/19/index.html)  [JSON](2017/05/19/index.json)  [XML](2017/05/19/index.xml)  
+
 ## [2017-05-19](/news/2017/05/19/index.md)
 
 ### [A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md)

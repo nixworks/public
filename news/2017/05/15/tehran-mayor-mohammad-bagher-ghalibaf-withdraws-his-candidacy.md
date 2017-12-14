@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.html)  [JSON](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.json)  [XML](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.xml)  
+
 ### [2017-05-15](/news/2017/05/15/index.md)
 
 # Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Tehran Times](http://www.tehrantimes.com/news/413460/Tehran-mayor-Ghalibaf-withdraws-candidacy-in-Iran-s-presidential)
+
+### Changes:
+
+1. [Iranian presidential election, 2017: Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _2017-08-27 03:48:20 (First version)_
+1. [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _Context: re-elected_
 4. [Reformist candidate Mohammad-Ali Najafi is unanimously elected Mayor of Tehran by the city council, ending the 12-year tenure of Principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/reformist-candidate-mohammad-ali-najafi-is-unanimously-elected-mayor-of-tehran-by-the-city-council-ending-the-12-year-tenure-of-principlist.md) _Context: Mohammad-Bagher Ghalibaf_
 5. [Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-rouhani-reelected-for-another-four-yea.md) _Context: re-elected_
-
-### Changes:
-
-1. [Iranian presidential election, 2017: Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/iranian-presidential-election-2017-tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _2017-08-27 03:48:20 (First version)_
-1. [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md) _(Current version)_

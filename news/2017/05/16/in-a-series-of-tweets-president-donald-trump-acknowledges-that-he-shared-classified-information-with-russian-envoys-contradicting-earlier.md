@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.html)  [JSON](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.json)  [XML](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.xml)  
+
 ### [2017-05-16](/news/2017/05/16/index.md)
 
 # In a series of tweets, President Donald Trump acknowledges that he shared classified information with Russian envoys, contradicting earlier White House denials. 
@@ -5,19 +8,11 @@
 Israel was reportedly worried that top secret information may pass to Russia, then Iran.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/us-officials-warned-israel-not-share-sensitive-intel-trump-609782)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/05/16/trump-acknowledges-facts-shared-with-russian-envoys-during-white-house-meeting/)
 2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2017/05/16/netanyahu-and-trump.jpg)
-
-### Related:
-
-1. [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md) _Context: Donald Trump, Donald Trump revelation of classified information to Russia, U.S. President_
-2. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md) _Context: Donald Trump, Russia, U.S. President_
-3. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Donald Trump, U.S. President_
-4. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Donald Trump, U.S. President_
-5. [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md) _Context: Donald Trump, U.S. President_
 
 ### Changes:
 
@@ -28,3 +23,11 @@ Israel was reportedly worried that top secret information may pass to Russia, th
 5. [In a series of tweets, President Donald Trump appears to acknowledge that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-appears-to-acknowledge-that-he-shared-classified-information-with-russian-envoys-contradictin.md) _2017-05-17 00:30:05 (Update)_
 6. [In a series of tweets, President Donald Trump acknowledged that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledged-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md) _2017-05-17 13:30:07 (Update)_
 6. [In a series of tweets, President Donald Trump acknowledges that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md) _(Current version)_
+
+### Related:
+
+1. [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md) _Context: Donald Trump, Donald Trump revelation of classified information to Russia, U.S. President_
+2. [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md) _Context: Donald Trump, Russia, U.S. President_
+3. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: Donald Trump, U.S. President_
+4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump, U.S. President_
+5. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Donald Trump, U.S. President_

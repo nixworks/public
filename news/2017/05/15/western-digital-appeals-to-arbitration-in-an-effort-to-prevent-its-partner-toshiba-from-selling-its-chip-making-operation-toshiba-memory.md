@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.html)  [JSON](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.json)  [XML](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.xml)  
+
 ### [2017-05-15](/news/2017/05/15/index.md)
 
 # Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. 
 
-Western Digital Corp (WDC.O) has sought international arbitration to stop partner Toshiba Corp (6502.T) from selling its chips arm without its consent, potentially derailing a much-needed capital injection for the Japanese conglomerate.
+ Western Digital Corp has sought international arbitration to stop partner Toshiba Corp from selling its chips arm without its consent, potentially der
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-toshiba-accounting-idUSKCN18A125)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20170515&t=2&i=1184655913&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED4E06F)
+1. [Reuters](https://www.reuters.com/article/us-toshiba-accounting-idUSKCN18A125)
+1. [Cover Image](/resources/r/?m=02&d=20170515&t=2&i=1184655913&w=400&r=LYNXNPED4E06F)
 
 ### Related:
 

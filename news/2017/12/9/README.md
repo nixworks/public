@@ -4,7 +4,7 @@ Formats: [HTML](2017/12/9/index.html)  [JSON](2017/12/9/index.json)  [XML](2017/
 ## [2017-12-9](/news/2017/12/9/index.md)
 
 ### [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md)
-_Context: Gaza, United States recognition of Jerusalem, West Bank_
+_Context: Gaza Strip, United States recognition of Jerusalem, West Bank_
 
 ### [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md)
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.

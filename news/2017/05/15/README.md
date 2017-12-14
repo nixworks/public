@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/05/15/index.html)  [JSON](2017/05/15/index.json)  [XML](2017/05/15/index.xml)  
+
 ## [2017-05-15](/news/2017/05/15/index.md)
 
 ### [Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. ](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.md)
-Western Digital Corp (WDC.O) has sought international arbitration to stop partner Toshiba Corp (6502.T) from selling its chips arm without its consent, potentially derailing a much-needed capital injection for the Japanese conglomerate.
+ Western Digital Corp has sought international arbitration to stop partner Toshiba Corp from selling its chips arm without its consent, potentially der
 
 ### [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md)
 _Context: Carlstadt, New Jersey, Philadelphia, Teterboro Airport_
@@ -22,7 +25,7 @@ Three prisoners captured, 17 shot dead, and 57 still at large in a mass jailbrea
 Ex-president, who is in Ivory Coast, accused of authorising the killings of unarmed protesters in October 2014 uprising.
 
 ### [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md)
-_Context: Fourth Circuit Appeals Court, North Carolina, United States Supreme Court, Voter ID laws in the United States, rules_
+ The U.S. Supreme Court on Monday rebuffed a Republican bid to revive a strict North Carolina voter-identification law that a lower court found deliberately dis
 
 ### [Moors murderer Ian Brady, one of a pair of killers whose victims from 1963&ndash;65 were five children aged between 10 and 17, dies at the age of 79. ](/news/2017/05/15/moors-murderer-ian-brady-one-of-a-pair-of-killers-whose-victims-from-1963-ndash-65-were-five-children-aged-between-10-and-17-dies-at-the-a.md)
 The Moors Murderer Ian Brady has died at a high security psychiatric hospital in Merseyside. Brady, 79, who tortured and murdered five children along with his partner Myra Hindley, was confirmed to have died by Mersey Care NHS Foundation Trust. Hindley died in prison in 2002 at the age of 60. It was...

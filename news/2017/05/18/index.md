@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/18/index.html)  [JSON](2017/05/18/index.json)  [XML](2017/05/18/index.xml)  
+
 ## [2017-05-18](/news/2017/05/18/index.md)
 
 ### [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md)

@@ -3,14 +3,14 @@ Formats: [HTML](/news/2017/12/13/suspended-ecuadorian-vice-president-jorge-glas-
 
 ### [2017-12-13](/news/2017/12/13/index.md)
 
-# Suspended Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht. Odebrecht paid $33.5m in bribes to secure infrastructure contracts in the country. The uncle of Glas, involved in the same plot, received the same sentence. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial remedies have been exhausted. Former President Rafael Correa has previously said that he believes the case is politically motivated. 
+# Suspended Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht, which paid $33.5m in bribes to secure infrastructure contracts in the country. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial remedies have been exhausted. Former President Rafael Correa, who also had Glas in the same office, has defended him expressly and considers that the case is politically motivated. The uncle of Glas, involved in the same plot, received the same sentence. 
 
 Jorge Glas is the highest-ranking politician to be convicted in the Odebrecht scandal.
 
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-42346881)
+1. [BBC News](http://www.bbc.com/news/world-latin-america-42346881)
 2. [El Universo](https://www.eluniverso.com/noticias/2017/12/13/nota/6525058/jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/927B/production/_99199473_glas.jpg)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.html)  [JSON](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.json)  [XML](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.xml)  
+
 ### [2017-05-18](/news/2017/05/18/index.md)
 
 # Roger Ailes, the former Chairman and founding CEO of Fox News, dies at the age of 77. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post'' via MSN](http://www.msn.com/en-us/news/us/roger-ailes-architect-of-conservative-tv-juggernaut-fox-news-is-dead-at-77/ar-BBBgMxU?li=BBnb7Kz&ocid=iehp)
 
