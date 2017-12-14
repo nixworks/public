@@ -20,7 +20,8 @@ News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has 
 ### Changes:
 
 1. [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israelas-capital-by-the-united-states-runs-c.md) _2017-12-11 00:30:05 (First version)_
-1. [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md) _(Current version)_
+2. [Michigans's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/michigans-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs.md) _2017-12-14 18:30:04 (Update)_
+2. [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md) _(Current version)_
 
 ### Related:
 

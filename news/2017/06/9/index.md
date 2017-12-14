@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/9/index.html)  [JSON](2017/06/9/index.json)  [XML](2017/06/9/index.xml)  
+
 ## [2017-06-9](/news/2017/06/9/index.md)
 
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)

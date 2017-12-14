@@ -15,7 +15,8 @@ Formats: [HTML](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-
 ### Changes:
 
 1. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the UK and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-uk-and.md) _2017-12-08 13:30:06 (First version)_
-1. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _(Current version)_
+2. [The European OOFS and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-oofs-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-an.md) _2017-12-14 18:30:04 (Update)_
+2. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _(Current version)_
 
 ### Related:
 

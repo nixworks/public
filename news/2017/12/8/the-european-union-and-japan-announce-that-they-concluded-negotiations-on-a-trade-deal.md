@@ -13,6 +13,11 @@ Formats: [HTML](/news/2017/12/8/the-european-union-and-japan-announce-that-they-
 1. [Reuters](https://www.reuters.com/article/us-japan-eu-trade/eu-japan-conclude-worlds-largest-free-trade-agreement-idUSKBN1E21BT)
 1. [Cover Image](/resources/r/?m=02&d=20171208&t=2&i=1213068888&w=400&r=LYNXMPEDB70U7)
 
+### Changes:
+
+1. [The European Union and USA announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-usa-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _2017-12-14 18:30:05 (First version)_
+1. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _(Current version)_
+
 ### Related:
 
 1. [The 42nd G7 summit held at Ise-Shima in Japan's Mie Prefecture concludes with a declaration that the United Kingdom leaving the European Union would pose a "serious threat to world growth". ](/news/2016/05/27/the-42nd-g7-summit-held-at-ise-shima-in-japan-s-mie-prefecture-concludes-with-a-declaration-that-the-united-kingdom-leaving-the-european-uni.md) _Context: European Union, Japan_
