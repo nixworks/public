@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/05/26/index.html)  [JSON](2017/05/26/index.json)  [XML](2017/05/26/index.xml)  
+
 ## [2017-05-26](/news/2017/05/26/index.md)
 
 ### [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring-dozens-more.md)
-Children are among at least 26 people massacred in Egypt and dozens more injured after gunmen opened fire on a bus carrying Coptic Christians. The health ministry said the victims had been on their way to the St Samuel Monastery when they were surrounded by eight to 10 attackers wearing military uni...
+Children are among at least 28 people massacred in Egypt and dozens more injured after gunmen opened fire on a bus carrying Coptic Christians. The health ministry said the victims had been on their way to the St Samuel the Confessor monastery when they were surrounded by eight to 10 attackers wearin...
 
 ### [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md)
 The attack comes days after the militants stormed another military base in the same area.
@@ -13,7 +16,7 @@ The U.N. human rights chief called on all air forces operating in Syria on Frida
 Indigenous leaders from across the country reject the idea of being recognised in the constitution, endorsing a treaty instead and calling for a referendum for a voice in Parliament.
 
 ### [Right-wing media personality Katie Hopkins is to leave LBC with "immediate effect" after Hopkins posted on Twitter calling for a so-called "final solution" to the United Kingdom's Islamic terrorism problem following the Manchester Arena bombing which left 22 people dead. ](/news/2017/05/26/right-wing-media-personality-katie-hopkins-is-to-leave-lbc-with-immediate-effect-after-hopkins-posted-on-twitter-calling-for-a-so-called.md)
-Katie Hopkins is to leave LBC with immediate effect, the radio station has confirmed.
+Katie Hopkins is to leave LBC with immediate effect, the radio station has confirmed. The announcement comes shortly after Hopkins said that a &quot;final solution&quot; was needed following the Manchester terror attack that killed 22.
 
 ### [Disaster Management Centre of Sri Lanka reports that 91 people are killed and 110 people from 14 districts are missing due to flood and landslide. ](/news/2017/05/26/disaster-management-centre-of-sri-lanka-reports-that-91-people-are-killed-and-110-people-from-14-districts-are-missing-due-to-flood-and-land.md)
 Flooding and mudslides caused by monsoon rains leave at least 91 dead and more than 100 missing.
@@ -28,7 +31,7 @@ _Context: Chipotle Mexican Grill_
 Police say two men were stabbed to death when they tried to intervene as a man shouted hate speech at two young women
 
 ### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
-_Context: Jimmy Carter, Lyndon B. Johnson, National Security Advisor, Zbigniew Brzezinski, diplomat_
+_Context: Jimmy Carter, Lyndon B. Johnson, U.S. National Security Advisor, Zbigniew Brzezinski, diplomat_
 
 ### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)
 _Context: Chile, European Extremely Large Telescope_

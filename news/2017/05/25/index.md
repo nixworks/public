@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/25/index.html)  [JSON](2017/05/25/index.json)  [XML](2017/05/25/index.xml)  
+
 ## [2017-05-25](/news/2017/05/25/index.md)
 
 ### [Former Greek Prime Minister Lucas Papademos is injured when a booby-trapped package explodes inside his vehicle in Athens. Authorities report his injuries are not life threatening. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-when-a-booby-trapped-package-explodes-inside-his-vehicle-in-athens-authorities-repor.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.html)  [JSON](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.json)  [XML](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.xml)  
+
 ### [2017-05-25](/news/2017/05/25/index.md)
 
 # Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2017/05/25/us/nasa-jupiter-juno-mission-observations-first-results/)
 

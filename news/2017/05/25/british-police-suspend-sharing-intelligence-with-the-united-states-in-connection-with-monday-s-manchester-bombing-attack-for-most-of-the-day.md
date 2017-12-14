@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.html)  [JSON](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.json)  [XML](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.xml)  
+
 ### [2017-05-25](/news/2017/05/25/index.md)
 
 # British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to "The New York Times". British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. 
@@ -5,20 +8,12 @@
 President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks to U.S. media about the Manchester suicide bombing would be investigated, after irate British police stopped sharing information with U.S. agencies.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/05/25/europe/manchester-terror-attack-uk/index.html)
 2. [Reuters](https://www.reuters.com/article/us-britain-security-manchester-idUSKBN18L0QU)
 3. [The New York Times](https://www.nytimes.com/2017/05/25/world/europe/trump-may-leaks-manchester.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 3. [Cover Image](//s1.reutersmedia.net/resources/r/?m=02&d=20170525&t=2&i=1186243309&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4O0Y1)
-
-### Related:
-
-1. ["The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.md) _Context: Donald Trump, Theresa May, United Kingdom-United States relations_
-2. [British Prime Minister Theresa May meets with U.S. President Donald Trump at the White House in Washington, D.C.. This is the first visit by a foreign leader since Trump's inauguration last Friday. ](/news/2017/01/27/british-prime-minister-theresa-may-meets-with-u-s-president-donald-trump-at-the-white-house-in-washington-d-c-this-is-the-first-visit-by.md) _Context: Donald Trump, Theresa May, United Kingdom-United States relations_
-3. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Donald Trump, President_
-4. [U.S. President Donald Trump announces Homeland Security Secretary John F. Kelly will be White House Chief of Staff, replacing Reince Priebus. ](/news/2017/07/28/u-s-president-donald-trump-announces-homeland-security-secretary-john-f-kelly-will-be-white-house-chief-of-staff-replacing-reince-priebus.md) _Context: Donald Trump, President_
-5. [Theresa May announces that the British terror threat level has been downgraded from "critical" to "severe" and that Operation Temperer will be phased out shortly, following productive counter-terrorism investigations. ](/news/2017/05/27/theresa-may-announces-that-the-british-terror-threat-level-has-been-downgraded-from-critical-to-severe-and-that-operation-temperer-will.md) _Context: 2017 Manchester Arena bombing, Theresa May_
 
 ### Changes:
 
@@ -27,3 +22,11 @@ President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks 
 3. [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after The New York Times publishes sensitive information leaked by U.S. officials on suspected bomber Salman Abedi. British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-the-new-york-times-publis.md) _2017-05-25 19:30:08 (Update)_
 4. [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after U.S. officials allegedly leak "sensitive information" to ''The New York Times''. British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-u-s-officials-allegedly.md) _2017-05-25 23:30:07 (Update)_
 4. [British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to "The New York Times". British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.md) _(Current version)_
+
+### Related:
+
+1. ["The Guardian" reports that U.S. President Donald Trump has postponed his visit to the United Kingdom, according to a U.K. adviser who said Mr. Trump recently telephoned 10 Downing Street with this information. Both Prime Minister Theresa May's office and the White House deny this report. ](/news/2017/06/11/the-guardian-reports-that-u-s-president-donald-trump-has-postponed-his-visit-to-the-united-kingdom-according-to-a-u-k-adviser-who-said.md) _Context: Donald Trump, Theresa May, United Kingdom-United States relations_
+2. [British Prime Minister Theresa May meets with U.S. President Donald Trump at the White House in Washington, D.C.. This is the first visit by a foreign leader since Trump's inauguration last Friday. ](/news/2017/01/27/british-prime-minister-theresa-may-meets-with-u-s-president-donald-trump-at-the-white-house-in-washington-d-c-this-is-the-first-visit-by.md) _Context: Donald Trump, Theresa May, United Kingdom-United States relations_
+3. [U.S. President Donald Trump re-tweets three anti-Muslim videos that were originally tweeted by Jayda Fransen, the deputy leader of British far-right political party Britain First, prompting international condemnation and criticism. ](/news/2017/11/29/u-s-president-donald-trump-re-tweets-three-anti-muslim-videos-that-were-originally-tweeted-by-jayda-fransen-the-deputy-leader-of-british-f.md) _Context: Donald Trump, U.S. President_
+4. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: Donald Trump, U.S. President_
+5. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Donald Trump, U.S. President_

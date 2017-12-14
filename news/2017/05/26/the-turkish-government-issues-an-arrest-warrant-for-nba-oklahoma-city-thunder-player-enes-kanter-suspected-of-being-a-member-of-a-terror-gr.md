@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.html)  [JSON](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.json)  [XML](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.xml)  
+
 ### [2017-05-26](/news/2017/05/26/index.md)
 
 # The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group." Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because his Turkish passport had been revoked. Kanter says he plans on becoming a United States citizen. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://www.espn.com/nba/story/_/id/19472840/turkish-government-issues-arrest-warrant-enes-kanter-oklahoma-city-thunder-newspaper-reports)
 1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0109%2Fr169718_1296x729_16%2D9.jpg)
