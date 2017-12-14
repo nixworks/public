@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/12/index.html)  [JSON](2017/06/12/index.json)  [XML](2017/06/12/index.xml)  
+
 ## [2017-06-12](/news/2017/06/12/index.md)
 
 ### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
