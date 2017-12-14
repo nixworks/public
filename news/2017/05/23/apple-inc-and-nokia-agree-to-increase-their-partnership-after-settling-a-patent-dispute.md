@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.html)  [JSON](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.json)  [XML](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.xml)  
+
 ### [2017-05-23](/news/2017/05/23/index.md)
 
 # Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/05/23/business/apple-nokia-patents.html?_r=0)
 

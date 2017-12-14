@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.html)  [JSON](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.json)  [XML](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.xml)  
+
 ### [2017-05-24](/news/2017/05/24/index.md)
 
 # Protestors set fire to the Ministry of Agriculture headquarters in Brasilia amid calls for the impeachment or resignation of Michel Temer as President of Brazil over allegations of corruption. 
@@ -5,7 +8,7 @@
 Around 35,000 demonstrators took to the streets of the capital Brasilia angry at alleged corruption.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-40038650)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2133/production/_96199480_hi039684087.jpg)

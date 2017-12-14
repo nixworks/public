@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.html)  [JSON](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.json)  [XML](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.xml)  
+
 ### [2017-05-24](/news/2017/05/24/index.md)
 
 # Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. 
@@ -5,9 +8,15 @@
 Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2017/05/23/moodys-downgrades-china-rating-to-a1-from-aa3-with-stable-outlook.html)
+1. [CNBC](https://www.cnbc.com/2017/05/23/moodys-downgrades-china-rating-to-a1-from-aa3-with-stable-outlook.html)
+
+### Changes:
+
+1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _2017-05-24 03:49:45 (First version)_
+2. [Economy of the People's Republic of China: Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/economy-of-the-people-s-republic-of-china-moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3.md) _2017-08-27 03:48:23 (Update)_
+2. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,3 @@ Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 3. [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md) _Context: Moody's Investors Service, credit rating_
 4. [Moody's Investors Service cuts the credit ratings of Australia's four major banks, the Commonwealth Bank, Westpac, National Australia Bank and ANZ, to Aa1, due to their reliance on wholesale funding. ](/news/2011/05/18/moody-s-investors-service-cuts-the-credit-ratings-of-australia-s-four-major-banks-the-commonwealth-bank-westpac-national-australia-bank-a.md) _Context: Moody's Investors Service, credit rating_
 5. [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md) _Context: Moody's Investors Service, credit rating_
-
-### Changes:
-
-1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _2017-05-24 03:49:45 (First version)_
-2. [Economy of the People's Republic of China: Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/economy-of-the-people-s-republic-of-china-moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3.md) _2017-08-27 03:48:23 (Update)_
-2. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md) _(Current version)_

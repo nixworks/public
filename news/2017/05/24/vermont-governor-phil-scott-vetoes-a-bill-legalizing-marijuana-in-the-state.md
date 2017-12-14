@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.html)  [JSON](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.json)  [XML](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.xml)  
+
 ### [2017-05-24](/news/2017/05/24/index.md)
 
 # Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/homenews/state-watch/334958-vermont-governor-vetoes-marijuana-legalization)
 1. [Cover Image](http://thehill.com/sites/default/files/article_images/marijuana2_getty.jpg)
+
+### Changes:
+
+1. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-05-25 11:30:06 (First version)_
+2. [Legality of cannabis: Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-08-27 03:48:23 (Update)_
+2. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [Voters in the U.S. states of Alabama, Alaska, Arkansas, Colorado, Georgia, Massachusetts, Minnesota, Oklahoma, Tennessee, Texas, Vermont, Virginia, and the overseas territory of American Samoa go to the polls to vote on Super Tuesday. ](/news/2016/03/1/voters-in-the-u-s-states-of-alabama-alaska-arkansas-colorado-georgia-massachusetts-minnesota-oklahoma-tennessee-texas-vermont-vi.md) _Context: Vermont_
 4. [Tulsi Gabbard resigns as vice-chair of the Democratic National Committee and endorses Vermont Senator Bernie Sanders. ](/news/2016/02/28/tulsi-gabbard-resigns-as-vice-chair-of-the-democratic-national-committee-and-endorses-vermont-senator-bernie-sanders.md) _Context: Vermont_
 5. [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md) _Context: Vermont_
-
-### Changes:
-
-1. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-05-25 11:30:06 (First version)_
-2. [Legality of cannabis: Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/legality-of-cannabis-vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _2017-08-27 03:48:23 (Update)_
-2. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _(Current version)_

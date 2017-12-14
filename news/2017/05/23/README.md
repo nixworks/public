@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/05/23/index.html)  [JSON](2017/05/23/index.json)  [XML](2017/05/23/index.xml)  
+
 ## [2017-05-23](/news/2017/05/23/index.md)
 
 ### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer and actress Ariana Grande suspends her Dangerous Woman Tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
@@ -34,7 +37,7 @@ Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new 
 Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 
 ### [The United States Fourth Circuit Court of Appeals rules that Wikimedia Foundation has the legal right to challenge the National Security Agency Upstream program of mass online surveillance. This decision reinstates the suit that had been dismissed by a Federal district judge in Baltimore, Maryland. Eight other organizations, including Amnesty International USA and the Global Fund for Women, are also plaintiffs in this case. ](/news/2017/05/23/the-united-states-fourth-circuit-court-of-appeals-rules-that-wikimedia-foundation-has-the-legal-right-to-challenge-the-national-security-age.md)
-_Context: Amnesty International USA, Baltimore, Fourth Circuit Appeals Court, Global Fund for Women, Maryland, Maryland district court, National Security Agency, Upstream program, Wikimedia Foundation_
+ A federal appeals court on Tuesday revived a Wikipedia lawsuit that challenges a U.S. National Security Agency (NSA) program of mass online surveillance, and c
 
 ### [Former CIA Director John Brennan tells the House Intelligence Committee he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election. ](/news/2017/05/23/former-cia-director-john-brennan-tells-the-house-intelligence-committee-he-knew-of-contacts-between-trump-associates-and-russian-officials.md)
 Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; be...
