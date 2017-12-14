@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.html)  [JSON](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.json)  [XML](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.xml)  
+
 ### [2017-06-16](/news/2017/06/16/index.md)
 
 # The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. 
@@ -5,9 +8,9 @@
 The Russian defence ministry says it believes it may have killed the Isis leader Abu Bakr Al-Baghdadi in an air strike south of Raqqa, Syria. In a statement, the ministry said it was still seeking confirmation following the strike in late May. The air strike targeted a meeting of Isis leaders on 28 May, Russian news agencies cited the defence ministry as saying.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/abu-bakr-al-baghdadi-dead-isis-leader-russia-raqqa-air-strike-killed-syria-islamic-state-chief-a7792801.html)
+1. [The Independent](https://www.independent.co.uk/news/world/middle-east/abu-bakr-al-baghdadi-dead-isis-leader-russia-raqqa-air-strike-killed-syria-islamic-state-chief-a7792801.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/30/23/baghdadi.jpg)
 
 ### Related:

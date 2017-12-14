@@ -10,10 +10,8 @@ Formats: [HTML](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force
 
 ### Sources:
 
-1. [América Televisión](http://www.americatv.com.pe/noticias/actualidad/ppk-cronologia-su-situacion-y-asesorias-odebrecht-n303128)
-2. [La República](http://larepublica.pe/politica/1157831-fuerza-popular-le-da-plazo-hasta-hoy-a-ppk-para-que-renuncia-a-la-presidencia)
-3. [Perú 21](https://peru21.pe/politica/ultimatum-fuerza-popular-le-da-plazo-hoy-presidente-kuczynski-renuncie-388271)
-3. [Cover Image](https://e.an.amtv.pe/ppk-cronologia-su-situacion-y-asesorias-odebrecht-624x352-425839.jpg)
+1. [Reuters](https://www.reuters.com/article/us-peru-odebrecht-kuczynski/peru-opposition-demands-presidents-immediate-resignation-idUSKBN1E82RL)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171214&t=2&i=1214490192&w=1200&r=LYNXMPEDBD1NO)
 
 ### Related:
 

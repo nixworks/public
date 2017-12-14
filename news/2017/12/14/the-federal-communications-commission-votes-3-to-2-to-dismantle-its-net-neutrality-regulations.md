@@ -11,6 +11,7 @@ Formats: [HTML](/news/2017/12/14/the-federal-communications-commission-votes-3-t
 ### Sources:
 
 1. [Wired](https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress)
+2. [Wired](https://www.wired.com/story/read-fcc-net-neutrality-dissent/)
 
 ### Related:
 
