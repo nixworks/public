@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-na
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
-# Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies this claim. 
+# Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies the claim as based on "fabricated" evidence. 
 
 U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments at a military base in Washington Thursday to show what she called proof that Iran is supplying Houthi rebels in Yemen with weapons in “absolute and undeniable violations” of UN resolutions.
 
@@ -16,7 +16,7 @@ U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments a
 ### Changes:
 
 1. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating its 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies these claims, and the United Nations has reported that it is still analyzing the missile strike. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-its-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _2017-12-15 11:30:07 (First version)_
-1. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies this claim. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _(Current version)_
+1. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _(Current version)_
 
 ### Related:
 
