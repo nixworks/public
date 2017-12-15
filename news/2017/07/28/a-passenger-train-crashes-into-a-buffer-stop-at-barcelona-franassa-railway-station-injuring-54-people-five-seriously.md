@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/28/a-passenger-train-crashes-into-a-buffer-stop-at-barcelona-franassa-railway-station-injuring-54-people-five-seriously.html)  [JSON](/news/2017/07/28/a-passenger-train-crashes-into-a-buffer-stop-at-barcelona-franassa-railway-station-injuring-54-people-five-seriously.json)  [XML](/news/2017/07/28/a-passenger-train-crashes-into-a-buffer-stop-at-barcelona-franassa-railway-station-injuring-54-people-five-seriously.xml)  
+
 ### [2017-07-28](/news/2017/07/28/index.md)
 
 # A passenger train crashes into a buffer stop at Barcelona Franca railway station, injuring 54 people, five seriously. 
@@ -5,7 +8,7 @@
 The train did not brake when entering the station, hitting the buffers at the platform, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-40750343)
 1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p059wr2n.jpg)

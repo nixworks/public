@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.html)  [JSON](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.json)  [XML](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.xml)  
+
 ### [2017-07-28](/news/2017/07/28/index.md)
 
 # The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. 
@@ -5,10 +8,10 @@
 The seven-year Republican quest to scrap Obamacare, a major campaign vow by President Donald Trump, lay in ruins on Friday after the Senate failed to dismantle the healthcare law, with congressional leaders now planning to move on to other matters.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194825708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6R0F4)
+1. [Reuters](https://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194825708&w=1200&r=LYNXMPED6R0F4)
 
 ### Related:
 

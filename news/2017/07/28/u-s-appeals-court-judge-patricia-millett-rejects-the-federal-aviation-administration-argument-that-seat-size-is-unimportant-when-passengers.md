@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.html)  [JSON](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.json)  [XML](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.xml)  
+
 ### [2017-07-28](/news/2017/07/28/index.md)
 
 # U.S. Appeals Court Judge Patricia Millett rejects the Federal Aviation Administration argument that seat size is unimportant when passengers exit a plane in an emergency, and orders the FAA to set minimum standards for the space airlines give passengers. 
@@ -5,11 +8,11 @@
 U.S. aviation authorities were ordered back to the drawing board on Friday to solve what a federal appeals judge called &quot;The Case of the Incredible Shrinking Airline Seat.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-07-28/u-s-court-rebukes-faa-over-incredible-shrinking-airline-seat)
-2. [Reuters](http://www.reuters.com/article/us-usa-planes-idUSKBN1AD28Y)
-2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194901145&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6R1ET)
+2. [Reuters](https://www.reuters.com/article/us-usa-planes-idUSKBN1AD28Y)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170728&t=2&i=1194901145&w=1200&r=LYNXMPED6R1ET)
 
 ### Related:
 

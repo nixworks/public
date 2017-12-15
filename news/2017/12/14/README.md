@@ -21,6 +21,9 @@ A train and a school bus collide in southern France, leaving at least four child
 ### [A firefighter is killed while battling the Thomas Fire, the second death linked to the fourth largest wildfire in California history. ](/news/2017/12/14/a-firefighter-is-killed-while-battling-the-thomas-fire-the-second-death-linked-to-the-fourth-largest-wildfire-in-california-history.md)
 The death occurred Thursday as officials responded to what is now the fourth-biggest California wildfire on record.
 
+### [A plane crash in Fond-du-Lac, Saskatchewan, causes 25 injuries, some serious. No deaths are reported. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-25-injuries-some-serious-no-deaths-are-reported.md)
+A West Wind Aviation plane carrying 22 passengers and three crew members crashed near the Fond-du-Lac, Sask., airport shortly after takeoff early Wednesday night, according to the RCMP. Several injuries were reported, but no fatalities.
+
 ### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
 _Context: Guatemala, Health education, abortion, country, illegal, sexuality_
 

@@ -9,14 +9,20 @@ An open letter to President Trump from Prince Turki Al Faisal of Saudi Arabia.
 ### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
 _Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, Sex industry, refinancing, sex shop_
 
+### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
+_Context: Irish, Relations of production, Ryanair, labour unions, low-cost carrier_
+
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
 _Context: Australia, Child sexual abuse in Australia, Royal Commission_
 
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
 _Context: Substance abuse, drug overdose_
 
+### [Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". ](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-found-guilty-of-soliciting-a-2-million-bribe-from-rosneft-s-igor-sechin-he-is-sentenced-to-8-ye.md)
+Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.
+
 ### [European Union leaders agree to allow the next phase of Brexit. However, the consensus is that there is a still a long way to go. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit-however-the-consensus-is-that-there-is-a-still-a-long-way-to-go.md)
-_Context: Brexit, European Union_
+_Context: Brexit, European Union, next phase of Brexit_
 
 ---
 
@@ -39,6 +45,9 @@ A train and a school bus collide in southern France, leaving at least four child
 
 ### [A firefighter is killed while battling the Thomas Fire, the second death linked to the fourth largest wildfire in California history. ](/news/2017/12/14/a-firefighter-is-killed-while-battling-the-thomas-fire-the-second-death-linked-to-the-fourth-largest-wildfire-in-california-history.md)
 The death occurred Thursday as officials responded to what is now the fourth-biggest California wildfire on record.
+
+### [A plane crash in Fond-du-Lac, Saskatchewan, causes 25 injuries, some serious. No deaths are reported. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-25-injuries-some-serious-no-deaths-are-reported.md)
+A West Wind Aviation plane carrying 22 passengers and three crew members crashed near the Fond-du-Lac, Sask., airport shortly after takeoff early Wednesday night, according to the RCMP. Several injuries were reported, but no fatalities.
 
 ### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
 _Context: Guatemala, Health education, abortion, country, illegal, sexuality_

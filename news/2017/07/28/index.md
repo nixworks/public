@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/28/index.html)  [JSON](2017/07/28/index.json)  [XML](2017/07/28/index.xml)  
+
 ## [2017-07-28](/news/2017/07/28/index.md)
 
 ### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". The attacker is reported to have shouted "Allahu Akbar" before attacking. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
@@ -13,7 +16,7 @@ The train did not brake when entering the station, hitting the buffers at the pl
 Charlie Gard has died following his near year-long battle with a rare genetic disease.
 
 ### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
-_Context: Japan, South Korea, United States, its nuclear weapons program, missile tests, the sea_
+_Context: 2017 North Korean missile tests, Japan, North Korea and weapons of mass destruction, Sea of Japan, South Korea, United States_
 
 ### [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md)
 _Context: Iran-United States relations, United Nations Security Council Resolution 2231, United States Treasury Department_
