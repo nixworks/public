@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/4/the-landtag-of-mecklenburg-vorpommern-elects-manuela-schwesig-as-state-minister-president-with-40-29-votes.html)  [JSON](/news/2017/07/4/the-landtag-of-mecklenburg-vorpommern-elects-manuela-schwesig-as-state-minister-president-with-40-29-votes.json)  [XML](/news/2017/07/4/the-landtag-of-mecklenburg-vorpommern-elects-manuela-schwesig-as-state-minister-president-with-40-29-votes.xml)  
+
 ### [2017-07-4](/news/2017/07/4/index.md)
 
 # The Landtag of Mecklenburg-Vorpommern elects Manuela Schwesig as state Minister President with 40-29 votes. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Frankfurter Allgemeine Zeitung](http://www.faz.net/aktuell/politik/inland/schwesig-in-schwerin-zur-regierungschefin-ernannt-15090606.html)
 1. [Cover Image](http://media1.faz.net/ppmedia/aktuell/3992852326/1.5090641/article_multimedia_overview/leistet-den-amtseid-manuela.jpg)

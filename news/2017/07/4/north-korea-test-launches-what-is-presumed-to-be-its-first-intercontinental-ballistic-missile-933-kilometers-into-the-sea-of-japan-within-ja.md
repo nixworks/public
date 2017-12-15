@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.html)  [JSON](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.json)  [XML](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.xml)  
+
 ### [2017-07-4](/news/2017/07/4/index.md)
 
 # North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. 
@@ -5,20 +8,12 @@
 Donald Trump says it is hard to believe South Korea and Japan will put up with this much longer after North Korean launches its latest missile.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2017-07-04/north-korea-launches-ballistic-missile%3A-south-korea/8676404)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN19P02W)
+2. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-idUSKBN19P02W)
 3. [Xinhua News Agency](http://news.xinhuanet.com/english/2017-07/04/c_136416688.htm)
 3. [Cover Image](http://www.abc.net.au/news/image/8676914-1x1-700x700.jpg)
-
-### Related:
-
-1. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: Exclusive Economic Zone, Japan, North Korea, its nuclear weapons program, the sea_
-2. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-ja.md) _Context: Exclusive Economic Zone, Japan, North Korea, its nuclear weapons program_
-3. [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md) _Context: Japan, its nuclear weapons program, the sea_
-4. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 mi reaching an altitude of more than 1245 mi before landing in the Sea of Japan, 60 mi south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: North Korea, its nuclear weapons program, the sea_
-5. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan, North Korea, its nuclear weapons program_
 
 ### Changes:
 
@@ -28,3 +23,11 @@ Donald Trump says it is hard to believe South Korea and Japan will put up with t
 4. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-j.md) _2017-08-25 03:48:09 (Update)_
 5. [North Korea and weapons of mass destruction: North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-and-weapons-of-mass-destruction-north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-9.md) _2017-08-27 03:48:36 (Update)_
 5. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md) _(Current version)_
+
+### Related:
+
+1. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: Exclusive Economic Zone, Japan, North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+2. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-ja.md) _Context: Exclusive Economic Zone, Japan, North Korea, North Korea and weapons of mass destruction_
+3. [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md) _Context: Japan, North Korea and weapons of mass destruction, Sea of Japan_
+4. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 mi reaching an altitude of more than 1245 mi before landing in the Sea of Japan, 60 mi south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+5. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: Japan, North Korea, North Korea and weapons of mass destruction_

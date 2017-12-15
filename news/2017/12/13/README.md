@@ -18,9 +18,6 @@ US military helicopter window falls onto school in Okinawa, Japan. Second incide
 ### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
 _Context: Congress of the Philippines, Mindanao, President, Proclamation No. 216, Rodrigo Duterte, martial law_
 
-### [Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for the delict of illicit association and taking $13.5m (GBP10.2m) in bribes from Brazilian construction company Odebrecht, which paid $33.5m in bribes to secure infrastructure contracts in the country. However, the 48-year-old engineer, imprisoned preventively since October, will not be able to be totally stripped of his functions until all judicial instances have been exhausted. Former President Rafael Correa, who also had Glas in the same office, has defended him expressly and considers that the case is politically motivated. The uncle of Glas, involved in the same plot, received the same sentence. ](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-the-delict-of-illicit-association-and-taking-13-5m-agbp10.md)
-Jorge Glas is the highest-ranking politician to be convicted in the Odebrecht scandal.
-
 ### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)
 The two journalists, accused of trying to obtain official documents illegally, could face up to 14 years in prison.
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/4/index.html)  [JSON](2017/07/4/index.json)  [XML](2017/07/4/index.xml)  
+
 ## [2017-07-4](/news/2017/07/4/index.md)
 
 ### [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md)
@@ -13,7 +16,7 @@ Donald Trump says it is hard to believe South Korea and Japan will put up with t
 _Context: Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, India, Jawaharlal Nehru_
 
 ### [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md)
-_Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, Rakhine State, Rohingya people, Sittwe, internally displaced persons_
+_Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, Rakhine State, Rohingya Muslim, Sittwe, internally displaced persons_
 
 ### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)
 M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.html)  [JSON](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.json)  [XML](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.xml)  
+
 ### [2017-07-4](/news/2017/07/4/index.md)
 
 # Amid a stand-off between China and India over the Doklam tri-junction, China tells India that former Indian prime minister Jawaharlal Nehru accepted the Convention of Calcutta which China is using to support its territorial claims. Tensions have been rising between China and India and Bhutan over Doklam since China began constructing a road in the disputed territory in mid-June. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [News18](http://www.news18.com/news/world/nehru-accepted-1890-treaty-india-using-bhutan-to-cover-up-entry-china-1450635.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2017/02/CHINA-FLAG-875.gif)

@@ -30,6 +30,9 @@ U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments a
 ### [The U.S. government cuts aid to some Somali military units for allegedly misusing funds. ](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-military-units-for-allegedly-misusing-funds.md)
 _Context: Somali Civil War (2009-present), Somalia-United States relations, misusing funds_
 
+### [Attorney generals for California, New York, Illinois and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorney-generals-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-granti.md)
+_Context: California, Department of Education, Illinois, Massachusetts, New York, for-profit schools_
+
 ### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the President Pedro Pablo Kuczynski less than 24 hours to present his resignation. The demand comes after the Odebrecht construction company revealed payments of $4.8 million to a company Kuczynski controlled while he held public office. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md)
 _Context: Congress, Odebrecht, Operation Car Wash, Pedro Pablo Kuczynski, Peru, Popular Force, President_
 

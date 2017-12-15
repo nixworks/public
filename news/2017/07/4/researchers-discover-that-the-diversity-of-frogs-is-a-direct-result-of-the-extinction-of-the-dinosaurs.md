@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.html)  [JSON](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.json)  [XML](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.xml)  
+
 ### [2017-07-4](/news/2017/07/4/index.md)
 
 # Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. 
@@ -5,10 +8,15 @@
 Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction)
 1. [Cover Image](https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e.jpg?s=1400)
+
+### Changes:
+
+1. [Evolution: Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _2017-08-27 03:48:36 (First version)_
+1. [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Frogs are &quot;master survivors,&quot; able to take advantage of the ecological
 3. [Several new species of tiny frogs are discovered in India. ](/news/2017/02/21/several-new-species-of-tiny-frogs-are-discovered-in-india.md) _Context: frog_
 4. [Scientists working on the Lazarus Project announce that they have successfully rejuvenated cells of "Rheobatrachus silus", a species of frog extinct since 1983. ](/news/2013/03/15/scientists-working-on-the-lazarus-project-announce-that-they-have-successfully-rejuvenated-cells-of-rheobatrachus-silus-a-species-of-frog.md) _Context: frog_
 5. [Forty-one scientists publish a paper in "Science" affirming that the Cretaceous-Paleogene extinction event, the large-scale mass extinction of dinosaurs and other lifeforms on Earth ~65.5 million years ago, was caused by an asteroid impact. ](/news/2010/03/4/forty-one-scientists-publish-a-paper-in-science-affirming-that-the-cretaceousapaleogene-extinction-event-the-large-scale-mass-extinctio.md) _Context: extinction of the dinosaurs_
-
-### Changes:
-
-1. [Evolution: Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/evolution-researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _2017-08-27 03:48:36 (First version)_
-1. [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md) _(Current version)_
