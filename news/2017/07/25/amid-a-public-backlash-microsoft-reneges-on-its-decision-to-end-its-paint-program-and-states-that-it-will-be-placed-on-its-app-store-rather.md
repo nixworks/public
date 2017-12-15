@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.html)  [JSON](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.json)  [XML](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.xml)  
+
 ### [2017-07-25](/news/2017/07/25/index.md)
 
 # Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. 
 
-Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
+Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoked rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/microsoft-paint-dead-windows-coming-back-download-how-to-app-store-3d-a7858536.html)
+1. [The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/microsoft-paint-dead-windows-coming-back-download-how-to-app-store-3d-a7858536.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/25/10/paint.jpg)
+
+### Changes:
+
+1. [Microsoft reneges on its decision to end its Paint program and would instead place it on the app store. ](/news/2017/07/25/microsoft-reneges-on-its-decision-to-end-its-paint-program-and-would-instead-place-it-on-the-app-store.md) _2017-07-25 15:30:07 (First version)_
+2. [Microsoft Paint: Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/microsoft-paint-amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its.md) _2017-08-27 03:48:43 (Update)_
+2. [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 3. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
 4. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (GBP18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-agbp18-billion.md) _Context: Microsoft_
 5. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including Yahoo Japan Corp., next week. Google, Time Inc., and private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google-t.md) _Context: Microsoft_
-
-### Changes:
-
-1. [Microsoft reneges on its decision to end its Paint program and would instead place it on the app store. ](/news/2017/07/25/microsoft-reneges-on-its-decision-to-end-its-paint-program-and-would-instead-place-it-on-the-app-store.md) _2017-07-25 15:30:07 (First version)_
-2. [Microsoft Paint: Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/microsoft-paint-amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its.md) _2017-08-27 03:48:43 (Update)_
-2. [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md) _(Current version)_

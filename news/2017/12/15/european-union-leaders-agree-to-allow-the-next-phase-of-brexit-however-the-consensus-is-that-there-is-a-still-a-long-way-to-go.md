@@ -10,8 +10,7 @@ Formats: [HTML](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-
 
 ### Sources:
 
-1. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/eu-leiders-geven-groen-licht-aan-volgende-fase-van-de-brexit~abe9907e/)
-1. [Cover Image](https://images4.persgroep.net/rcs/Q_ucHEXYvcNVvUsMGx46Wa0PYSY/diocontent/116394335/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
+1. [U.S. News & World Report](https://www.usnews.com/news/business/articles/2017-12-15/eu-leaders-set-to-launch-new-phase-in-brexit-talks)
 
 ### Changes:
 

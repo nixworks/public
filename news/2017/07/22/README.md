@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/22/index.html)  [JSON](2017/07/22/index.json)  [XML](2017/07/22/index.xml)  
+
 ## [2017-07-22](/news/2017/07/22/index.md)
 
 ### [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md)
@@ -16,7 +19,7 @@ Two strong aftershocks have struck the Greek island of Kos within minutes of eac
 Kislyak emerged as a central figure in investigations into possible collusion between the Trump campaign and Russia
 
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: Andrzej Duda, EU, Hungary, Law of Poland, Poles, Polish, President_
+_Context: Andrzej Duda, European Union, Hungary, Law of Poland, Poles, Polish, President_
 
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)
 _Context: East Timor, East Timorese parliamentary election, 2017, National Parliament_
@@ -25,7 +28,7 @@ _Context: East Timor, East Timorese parliamentary election, 2017, National Parli
 Martial law stays in Mindanao until the end of the year. 
 
 ### [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md)
-U.S. Republicans and Democrats have reached agreement on legislation that allows new sanctions against Russia, Iran and now also North Korea, leading congressional Democrats said on Saturday.
+U.S. Republicans and Democrats have reached agreement on legislation that allows new sanctions against Russia, Iran and North Korea, leading congressional Democrats said on Saturday, in a bill that would limit any potential effort by President Donald Trump to try to lift sanctions against Moscow.
 
 ### [Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. ](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-in-favor-of-president-nicolas-maduro.md)
 These photographs, taken over four weeks, capture the daily turmoil that antigovernment protests have brought to the streets of Caracas.

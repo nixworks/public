@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/25/index.html)  [JSON](2017/07/25/index.json)  [XML](2017/07/25/index.xml)  
+
 ## [2017-07-25](/news/2017/07/25/index.md)
 
 ### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
@@ -7,7 +10,7 @@ After days of violent protests and a diplomatic crisis with Jordan over the plac
 Washington is reviewing whether to arm those fighting Russian-backed rebels, says a new envoy.
 
 ### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
-Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made c...
+Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoked rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made ...
 
 ### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.

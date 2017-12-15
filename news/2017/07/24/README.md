@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/07/24/index.html)  [JSON](2017/07/24/index.json)  [XML](2017/07/24/index.xml)  
+
 ## [2017-07-24](/news/2017/07/24/index.md)
 
 ### [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md)
-A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing at least 24 people and wounding more than 40, and the death toll could rise, an Interior Ministry spokesman in the Afghan capital said.
+A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing up to 35 people and wounding more than 40, government officials said, in one of the worst attacks in the Afghan capital in recent weeks.
 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.

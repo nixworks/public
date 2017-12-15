@@ -1,16 +1,24 @@
+
+Formats: [HTML](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.html)  [JSON](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.json)  [XML](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.xml)  
+
 ### [2017-07-24](/news/2017/07/24/index.md)
 
 # A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. 
 
-A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing at least 24 people and wounding more than 40, and the death toll could rise, an Interior Ministry spokesman in the Afghan capital said.
+A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing up to 35 people and wounding more than 40, government officials said, in one of the worst attacks in the Afghan capital in recent weeks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/07/casualties-feared-kabul-car-bomb-attack-170724034019038.html)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKBN1A9067?il=0)
+2. [Reuters](https://www.reuters.com/article/us-afghanistan-blast-idUSKBN1A9067?il=0)
 3. [The Hill](http://thehill.com/policy/defense/343522-mattis-rips-pentagon-officials-for-28m-wasted-on-afghan-camouflage)
-3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170724&t=2&i=1194126090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED6N063)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170725&t=2&i=1194312488&w=1200&r=LYNXMPED6O0MD)
+
+### Changes:
+
+1. [War in Afghanistan: A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/war-in-afghanistan-a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities.md) _2017-08-27 03:48:42 (First version)_
+1. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +27,3 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 3. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Kabul, War in Afghanistan_
 4. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _Context: Kabul, War in Afghanistan_
 5. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: Kabul, War in Afghanistan_
-
-### Changes:
-
-1. [War in Afghanistan: A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/war-in-afghanistan-a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities.md) _2017-08-27 03:48:42 (First version)_
-1. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _(Current version)_

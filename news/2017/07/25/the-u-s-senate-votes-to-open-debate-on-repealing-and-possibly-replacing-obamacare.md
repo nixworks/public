@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.html)  [JSON](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.json)  [XML](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.xml)  
+
 ### [2017-07-25](/news/2017/07/25/index.md)
 
 # The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. 
@@ -5,11 +8,16 @@
 Republicans faced their first defeat, failing to pass a measure that they&#x27;ve been working on that would have partially repealed and replaced Obamacare. 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/politics/congress/senate-sets-sights-skinny-repeal-obamacare-tuesday-s-voting-n786296)
 2. [The New York Times](https://www.nytimes.com/interactive/2017/07/25/us/politics/senate-votes-repeal-obamacare.html)
 2. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_30/2083936/170725-mcconnell-capital-health-care-vote-se-152p_4a5f690e3d205bc92938fce424695d3e.nbcnews-fp-1200-800.jpg)
+
+### Changes:
+
+1. [Efforts to repeal Obamacare: The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/efforts-to-repeal-obamacare-the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _2017-08-27 03:48:43 (First version)_
+1. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Republicans faced their first defeat, failing to pass a measure that they&#x27;v
 3. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: Obamacare, United States Senate_
 4. [The Republican-controlled United States House of Representatives votes for the thirty-third time to repeal the Patient Protection and Affordable Care Act, commonly known as Obamacare; the measure is not likely to pass the Democratic-controlled United States Senate. ](/news/2012/07/11/the-republican-controlled-united-states-house-of-representatives-votes-for-the-thirty-third-time-to-repeal-the-patient-protection-and-afford.md) _Context: Obamacare, United States Senate_
 5. [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md) _Context: Obamacare, United States Senate_
-
-### Changes:
-
-1. [Efforts to repeal Obamacare: The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/efforts-to-repeal-obamacare-the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _2017-08-27 03:48:43 (First version)_
-1. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.html)  [JSON](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.json)  [XML](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.xml)  
+
 ### [2017-07-24](/news/2017/07/24/index.md)
 
 # At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. 
@@ -5,7 +8,7 @@
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-40702927)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/539E/production/_97060412_e5b2b403-128f-488e-b5b4-3149e276870d.jpg)

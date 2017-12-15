@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.html)  [JSON](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.json)  [XML](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.xml)  
+
 ### [2017-07-23](/news/2017/07/23/index.md)
 
 # Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas, in what authorities call a case of "ruthless" human trafficking. Thirty people, many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. 
@@ -5,19 +8,11 @@
 Eight people, including two children, were found Sunday morning inside a tractor-trailer in the parking lot of a Walmart store in San Antonio, according to reports.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2017/07/23/bodies-found-in-trailer-in-san-antonio.html)
-2. [Reuters](http://www.reuters.com/article/us-texas-bodies-idUSKBN1A80F5)
+2. [Reuters](https://www.reuters.com/article/us-texas-bodies-idUSKBN1A80F5)
 2. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
-
-### Related:
-
-1. [A man in Lithonia, Georgia, USA, dies after Walmart employees tackle him to the ground for suspected shoplifting of two DVDs on Black Friday. ](/news/2012/11/25/a-man-in-lithonia-georgia-usa-dies-after-walmart-employees-tackle-him-to-the-ground-for-suspected-shoplifting-of-two-dvds-on-black-friday.md) _Context: United States, Walmart_
-2. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-3. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-4. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
-5. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: United States_
 
 ### Changes:
 
@@ -26,3 +21,11 @@ Eight people, including two children, were found Sunday morning inside a tractor
 3. [Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas in what authorities call a case of "ruthless" human trafficking. Thirty people, many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. ](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authoriti.md) _2017-07-24 03:48:54 (Update)_
 4. [Human trafficking in the United States: Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas, in what authorities call a case of "ruthless" human trafficking. Thirty people, many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. ](/news/2017/07/23/human-trafficking-in-the-united-states-nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city.md) _2017-08-27 03:48:42 (Update)_
 4. [Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas, in what authorities call a case of "ruthless" human trafficking. Thirty people, many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. ](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.md) _(Current version)_
+
+### Related:
+
+1. [A man in Lithonia, Georgia, USA, dies after Walmart employees tackle him to the ground for suspected shoplifting of two DVDs on Black Friday. ](/news/2012/11/25/a-man-in-lithonia-georgia-usa-dies-after-walmart-employees-tackle-him-to-the-ground-for-suspected-shoplifting-of-two-dvds-on-black-friday.md) _Context: United States, Walmart_
+2. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: United States_
+3. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: United States_
+4. [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md) _Context: United States_
+5. [British researchers document twelve cases where arms purchased by the United States and Saudi Arabia for Syrian opposition groups ended up in the hands of terror group Islamic State. ](/news/2017/12/14/british-researchers-document-twelve-cases-where-arms-purchased-by-the-united-states-and-saudi-arabia-for-syrian-opposition-groups-ended-up-i.md) _Context: United States_

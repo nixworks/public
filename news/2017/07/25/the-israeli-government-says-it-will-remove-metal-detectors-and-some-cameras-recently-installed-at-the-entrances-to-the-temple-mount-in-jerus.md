@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.html)  [JSON](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.json)  [XML](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.xml)  
+
 ### [2017-07-25](/news/2017/07/25/index.md)
 
 # The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. 
@@ -5,10 +8,10 @@
 After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/israel-news/1.803266)
-2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKBN1A92Q5)
+2. [Reuters](https://www.reuters.com/article/us-israel-palestinians-idUSKBN1A92Q5)
 3. [The New York Times](https://www.nytimes.com/2017/07/24/world/middleeast/israel-jordan-aqsa-temple-mount-violence.html)
 3. [Cover Image](https://static01.nyt.com/images/2017/07/25/world/25Israel1/25Israel1-facebookJumbo.jpg)
 

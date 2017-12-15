@@ -3,14 +3,14 @@ Formats: [HTML](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-cat
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-# Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund was a former Luftwaffe pilot who opened the world's first sex shop in 1962, in Flensburg. 
+# Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". 
 
 
 
 
 ### Sources:
 
-1. [Het Laatste Nieuws](https://www.hln.be/)
+1. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-5182815/German-sex-shop-chain-Beate-Uhse-files-insolvency.html)
 
 ### Related:
 
