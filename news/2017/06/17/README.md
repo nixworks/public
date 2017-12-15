@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/17/index.html)  [JSON](2017/06/17/index.json)  [XML](2017/06/17/index.xml)  
+
 ## [2017-06-17](/news/2017/06/17/index.md)
 
 ### [At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. ](/news/2017/06/17/at-least-one-afghan-is-killed-and-seven-american-soldiers-wounded-in-an-insider-attack-at-camp-shaheen-in-the-northern-city-of-mazar-i-sh.md)
@@ -7,7 +10,7 @@ I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven Ameri
 A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
 
 ### [The USS "Fitzgerald", a United States Navy destroyer, collides with a merchant ship MV "ACX Crystal" off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2-30-a.md)
-_Context: Japan, MV ''ACX Crysta''l, USS ''Fitzgerald'', United States Navy, collides, collision with a container ship_
+_Context: Japan, MV ''ACX Crysta''l, U.S. Navy, USS ''Fitzgerald'', collides, collision with a container ship_
 
 ### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
 Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.

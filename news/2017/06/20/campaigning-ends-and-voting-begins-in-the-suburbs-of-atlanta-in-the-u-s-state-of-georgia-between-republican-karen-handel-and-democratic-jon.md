@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.html)  [JSON](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.json)  [XML](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.xml)  
+
 ### [2017-06-20](/news/2017/06/20/index.md)
 
 # Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. 
@@ -5,12 +8,18 @@
 Results for the special election between Jon Ossoff, a Democrat, and Karen Handel, a Republican.
 
 
-### Source:
+### Sources:
 
 1. [Atlanta Journal Constitution](http://www.ajc.com/news/state--regional-govt--politics/handel-defeats-ossoff-win-georgia-6th-district/lO6Ewa4vM1sbftMnQE9x6L/?)
-2. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
+2. [Reuters](https://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
 3. [The New York Times](https://www.nytimes.com/elections/results/georgia-congressional-runoff-ossoff-handel)
 3. [Cover Image](https://int.nyt.com/applications/elections/2017/assets/images/general-GA.png)
+
+### Changes:
+
+1. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-is-in-a-close-race.md) _2017-06-21 03:51:12 (First version)_
+2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel defeats Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-defeats-democratic.md) _2017-06-21 14:30:07 (Update)_
+2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +28,3 @@ Results for the special election between Jon Ossoff, a Democrat, and Karen Hande
 3. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Atlanta, Georgia, Georgia's 6th congressional district special election, 2017_
 4. [Atlanta in the U.S. state of Georgia gets its first white Christmas in 128 years affecting 500 flights. ](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.md) _Context: Atlanta, Georgia, U.S. state_
 5. [The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md) _Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff_
-
-### Changes:
-
-1. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-is-in-a-close-race.md) _2017-06-21 03:51:12 (First version)_
-2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel defeats Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-defeats-democratic.md) _2017-06-21 14:30:07 (Update)_
-2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _(Current version)_

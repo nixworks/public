@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.html)  [JSON](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.json)  [XML](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.xml)  
+
 ### [2017-06-20](/news/2017/06/20/index.md)
 
 # Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. 
@@ -5,10 +8,15 @@
 Young Pioneer Tours says risk is too high after 22-year-old student died on his return from imprisonment in the secretive state
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jun/20/tour-firm-otto-warmbier-stops-taking-us-citizens-north-korea-young-pioneer-tours)
 1. [Cover Image](https://i.guim.co.uk/img/media/0f752ec33febf3c1156d087ca5052662077da37d/0_135_3615_2169/master/3615.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=d14f4e8b7a17304ebdab9ecb91cd5d78)
+
+### Changes:
+
+1. [North Korea-United States relations: Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/north-korea-united-states-relations-following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who.md) _2017-08-27 03:48:32 (First version)_
+1. [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Young Pioneer Tours says risk is too high after 22-year-old student died on his 
 3. [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md) _Context: North Korea, North Korea-United States relations, Otto Warmbier_
 4. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, North Korea-United States relations_
 5. [In a video interview posted on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.md) _Context: North Korea, North Korea-United States relations_
-
-### Changes:
-
-1. [North Korea-United States relations: Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/north-korea-united-states-relations-following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who.md) _2017-08-27 03:48:32 (First version)_
-1. [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md) _(Current version)_

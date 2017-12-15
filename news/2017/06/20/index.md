@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/20/index.html)  [JSON](2017/06/20/index.json)  [XML](2017/06/20/index.xml)  
+
 ## [2017-06-20](/news/2017/06/20/index.md)
 
 ### [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md)
@@ -28,7 +31,7 @@ Young Pioneer Tours says risk is too high after 22-year-old student died on his 
 Venezuela&rsquo;s Supreme Court cleared the way for a trial against the country&rsquo;s chief prosecutor, who became a surprise hero to the opposition after breaking ranks with the government of President Nicolas Maduro over his efforts to concentrate power.
 
 ### [The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice-and-violates-the-right.md)
-Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of &quot;homosexual behaviour among minors&quot;, has been in place since 2013.
+Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of homosexual behaviour to minors, has been in place since 2013.
 
 ### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md)
 Results for the special election between Jon Ossoff, a Democrat, and Karen Handel, a Republican.
