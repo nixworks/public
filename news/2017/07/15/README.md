@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/15/index.html)  [JSON](2017/07/15/index.json)  [XML](2017/07/15/index.xml)  
+
 ## [2017-07-15](/news/2017/07/15/index.md)
 
 ### [At least eight people are killed in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/14/index.html)  [JSON](2017/07/14/index.json)  [XML](2017/07/14/index.xml)  
+
 ## [2017-07-14](/news/2017/07/14/index.md)
 
 ### [Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md)

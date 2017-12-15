@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/17/index.html)  [JSON](2017/07/17/index.json)  [XML](2017/07/17/index.xml)  
+
 ## [2017-07-17](/news/2017/07/17/index.md)
 
 ### [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md)
