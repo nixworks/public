@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/08/5/index.html)  [JSON](2017/08/5/index.json)  [XML](2017/08/5/index.xml)  
+
 ## [2017-08-5](/news/2017/08/5/index.md)
 
 ### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)
 A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
 
 ### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
-_Context: North Korea, North Korea and the United Nations, United Nations Security Council, United Nations Security Council Resolution 2371, its nuclear weapons program, missile tests_
+_Context: 2017 North Korean missile tests, North Korea, North Korea and the United Nations, North Korea and weapons of mass destruction, United Nations Security Council, United Nations Security Council Resolution 2371_
 
 ### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
 _Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive device_

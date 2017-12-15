@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/08/3/index.html)  [JSON](2017/08/3/index.json)  [XML](2017/08/3/index.xml)  
+
 ## [2017-08-3](/news/2017/08/3/index.md)
 
 ### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context: Afghanistan, Georgian, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
+_Context:  Georgian, Afghan, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
 
 ### [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md)
 The bags are currently being sanitized, the airline said.
@@ -22,7 +25,7 @@ Special counsel Robert Mueller has impaneled a grand jury in Washington to inves
 _Context: Abortion in Chile, Chilean lawmakers, South America, abortion, conservative_
 
 ### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
-Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
+Raytheon Co on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
 
 ### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
 _Context: 115th United States Congress, United States, recess_

@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/15/index.md)
 
-### [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md)
+### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
 An open letter to President Trump from Prince Turki Al Faisal of Saudi Arabia.
 
 ### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
@@ -18,10 +18,13 @@ _Context: Australia, Child sexual abuse in Australia, Royal Commission_
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
 _Context: Substance abuse, drug overdose_
 
+### [Under the title "NATO Expansion: What Gorbachev Heard", the National Security Archive at George Washington University releases documents from five countries relating to assurances the Soviet Union was given regarding NATO expansion, including James Baker's legendary dictum "not one inch eastward" to Mikhail Gorbachev. ](/news/2017/12/15/under-the-title-nato-expansion-what-gorbachev-heard-the-national-security-archive-at-george-washington-university-releases-documents-fro.md)
+_Context: George Washington University, History of the Soviet Union, James Baker, Mikhail Gorbachev, NATO, National Security Archive, Soviet Union_
+
 ### [Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". ](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-found-guilty-of-soliciting-a-2-million-bribe-from-rosneft-s-igor-sechin-he-is-sentenced-to-8-ye.md)
 Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.
 
-### [European Union leaders agree to allow the next phase of Brexit. However, the consensus is that there is a still a long way to go. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit-however-the-consensus-is-that-there-is-a-still-a-long-way-to-go.md)
+### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
 _Context: Brexit, European Union, next phase of Brexit_
 
 ---
@@ -65,7 +68,7 @@ Arms provided by the United States and Saudi Arabia to Syrian opposition groups 
 _Context: California, Department of Education, Illinois, Massachusetts, New York, for-profit schools_
 
 ### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, through a press conference, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. However, this political group did not mention what it would do if the president does not do it. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-through-a-press-conference-gives-the-preside.md)
-_Context: Operation Car Wash_
+_Context: Congress, Odebrecht, Operation Car Wash, Pedro Pablo Kuczynski, Peru, Popular Force, president_
 
 ### [Michael Dourson, University of Cincinnati College of Medicine professor, withdraws his nomination for an assistant administrator position with the Environmental Protection Agency. ](/news/2017/12/14/michael-dourson-university-of-cincinnati-college-of-medicine-professor-withdraws-his-nomination-for-an-assistant-administrator-position-wi.md)
 Michael Dourson, Trump&#x27;s pick to lead the federal toxic chemicals office, has withdrawn his nomination after a backlash over his close ties to industry.

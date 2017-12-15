@@ -1,14 +1,22 @@
+
+Formats: [HTML](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.html)  [JSON](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.json)  [XML](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.xml)  
+
 ### [2017-08-3](/news/2017/08/3/index.md)
 
 # Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. 
 
-Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
+Raytheon Co on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-raytheon-decision-idUSKBN1AJ34V)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170804&t=2&i=1195715854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7222S)
+1. [Reuters](https://www.reuters.com/article/us-raytheon-decision-idUSKBN1AJ34V)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170804&t=2&i=1195715854&w=1200&r=LYNXMPED7222S)
+
+### Changes:
+
+1. [Raytheon: Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-gove.md) _2017-08-27 03:48:46 (First version)_
+1. [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower 
 3. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: lawsuit_
 4. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: lawsuit_
 5. [The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. ](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.md) _Context: Raytheon_
-
-### Changes:
-
-1. [Raytheon: Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-gove.md) _2017-08-27 03:48:46 (First version)_
-1. [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md) _(Current version)_

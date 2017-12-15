@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/6/index.html)  [JSON](2017/08/6/index.json)  [XML](2017/08/6/index.xml)  
+
 ## [2017-08-6](/news/2017/08/6/index.md)
 
 ### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)

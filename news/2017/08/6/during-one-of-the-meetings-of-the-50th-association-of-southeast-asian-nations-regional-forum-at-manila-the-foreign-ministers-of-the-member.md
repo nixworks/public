@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.html)  [JSON](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.json)  [XML](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.xml)  
+
 ### [2017-08-6](/news/2017/08/6/index.md)
 
 # During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. 
@@ -5,10 +8,15 @@
 Southeast Asian foreign ministers ended an impasse on Sunday over how to address disputes with China in the South China Sea, issuing a communique that called for militarization to be avoided and noting concern about island-building.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-asean-philippines-southchinasea-state-idUSKBN1AM0IR)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170807&t=2&i=1196024341&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED7607F)
+1. [Reuters](https://www.reuters.com/article/us-asean-philippines-southchinasea-state-idUSKBN1AM0IR)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170807&t=2&i=1196024341&w=1200&r=LYNXMPED7607F)
+
+### Changes:
+
+1. [Territorial disputes in the South China Sea: During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/territorial-disputes-in-the-south-china-sea-during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at.md) _2017-08-27 03:48:46 (First version)_
+1. [During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Southeast Asian foreign ministers ended an impasse on Sunday over how to address
 3. [At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. ](/news/2017/08/17/at-least-25-people-are-killed-and-48-are-arrested-by-the-philippine-national-police-manila-police-district-in-consecutive-anti-drug-operatio.md) _Context: Manila_
 4. [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _Context: Manila_
 5. [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md) _Context: Territorial disputes in the South China Sea_
-
-### Changes:
-
-1. [Territorial disputes in the South China Sea: During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/territorial-disputes-in-the-south-china-sea-during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at.md) _2017-08-27 03:48:46 (First version)_
-1. [During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.md) _(Current version)_

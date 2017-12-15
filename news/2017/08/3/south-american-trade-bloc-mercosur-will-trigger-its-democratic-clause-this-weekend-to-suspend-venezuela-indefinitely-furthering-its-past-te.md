@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.html)  [JSON](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.json)  [XML](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.xml)  
+
 ### [2017-08-3](/news/2017/08/3/index.md)
 
 # South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely, furthering its past temporary suspension, and not allow the country back until internal political issues have been resolved. 
@@ -5,9 +8,9 @@
 South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely and not allow it back until democracy is restored, a Brazilian government source said on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-mercosur-idUSKBN1AJ2RI)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-mercosur-idUSKBN1AJ2RI)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

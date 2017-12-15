@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.html)  [JSON](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.json)  [XML](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.xml)  
+
 ### [2017-08-3](/news/2017/08/3/index.md)
 
 # A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. 
@@ -5,11 +8,18 @@
 The bags are currently being sanitized, the airline said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/sewage-leak-contaminates-checked-bags-nashville-airport/story?id=49022603)
-2. [New York Post](http://nypost.com/2017/08/04/busted-airport-toilet-ruins-luggage-for-hundreds-of-fliers/)
+2. [New York Post](https://nypost.com/2017/08/04/busted-airport-toilet-ruins-luggage-for-hundreds-of-fliers/)
 2. [Cover Image](http://a.abcnews.com/images/US/nashville-international-airport-gty-mt-170803_16x9_992.jpg)
+
+### Changes:
+
+1. [ A sewage leak, due a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest.md) _2017-08-06 17:30:05 (First version)_
+2. [A sewage leak, due a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-airl.md) _2017-08-07 08:30:05 (Update)_
+3. [Nashville International Airport: A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/nashville-international-airport-a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international.md) _2017-08-27 03:48:46 (Update)_
+3. [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,10 +28,3 @@ The bags are currently being sanitized, the airline said.
 3. [A San Francisco-bound Southwest Airlines flight returned to Los Angeles after an apparent altercation on the plane. Eyewitness accounts indicate that the fracas may have begun after one passenger reclined her seat, and the passenger behind her allegedly "started choking her." One passenger was removed from the flight. The airline moved the remaining passengers to a different plane to resume their journey to San Francisco. ](/news/2015/10/18/a-san-francisco-bound-southwest-airlines-flight-returned-to-los-angeles-after-an-apparent-altercation-on-the-plane-eyewitness-accounts-indi.md) _Context: Southwest Airlines_
 4. [A Southwest Airlines Boeing 737-700 "'crash-lands"' at New York's LaGuardia Airport, injuring ten passengers. ](/news/2013/07/22/a-southwest-airlines-boeing-737-700-crash-lands-at-new-york-s-laguardia-airport-injuring-ten-passengers.md) _Context: Southwest Airlines_
 5. [ Southwest Airlines grounds 41 jets after the FAA discovers the airline failed to inspect its Boeing 737s for structural flaws during 2006 and 2007. ](/news/2008/03/12/southwest-airlines-grounds-41-jets-after-the-faa-discovers-the-airline-failed-to-inspect-its-boeing-737s-for-structural-flaws-during-2006-a.md) _Context: Southwest Airlines_
-
-### Changes:
-
-1. [ A sewage leak, due a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest.md) _2017-08-06 17:30:05 (First version)_
-2. [A sewage leak, due a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-airl.md) _2017-08-07 08:30:05 (Update)_
-3. [Nashville International Airport: A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/nashville-international-airport-a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international.md) _2017-08-27 03:48:46 (Update)_
-3. [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md) _(Current version)_
