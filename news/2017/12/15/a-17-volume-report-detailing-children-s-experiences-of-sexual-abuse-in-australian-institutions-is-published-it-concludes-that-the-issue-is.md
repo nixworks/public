@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/15/a-17-volume-report-detailing-children-s-experie
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-# A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This final report concludes a five-year Royal Commission inquiry. 
+# A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. 
 
 
 
@@ -11,6 +11,11 @@ Formats: [HTML](/news/2017/12/15/a-17-volume-report-detailing-children-s-experie
 ### Sources:
 
 1. [Ten News](https://tenplay.com.au/news/national/december-2017/royal-commission-into-child-sex-abuse-makes-189-new-recommendations)
+
+### Changes:
+
+1. [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions (not: families as an institution) is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This final report concludes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-not-families-as-an-institution-is-publishe.md) _2017-12-15 18:30:07 (First version)_
+1. [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md) _(Current version)_
 
 ### Related:
 

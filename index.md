@@ -3,14 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/15/index.md)
 
-### [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. One source claims a Palestinian person is seriously injured by Israeli soldiers near Ramallah. Last week, six Palestinians died in similar tensions and 2,000 were injured. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md)
+### [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md)
 An open letter to President Trump from Prince Turki Al Faisal of Saudi Arabia.
 
 ### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
 _Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, Sex industry, refinancing, sex shop_
 
-### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions (not: families as an institution) is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This final report concludes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-not-families-as-an-institution-is-publishe.md)
-_Context: Australia, Royal Commission, Sexual abuse, institution_
+### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
+_Context: Australia, Child sexual abuse in Australia, Royal Commission_
+
+### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
+_Context: Substance abuse, drug overdose_
 
 ### [European Union leaders agree to allow the next phase of Brexit. However, the consensus is that there is a still a long way to go. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit-however-the-consensus-is-that-there-is-a-still-a-long-way-to-go.md)
 _Context: Brexit, European Union_
@@ -38,13 +41,13 @@ A train and a school bus collide in southern France, leaving at least four child
 The death occurred Thursday as officials responded to what is now the fourth-biggest California wildfire on record.
 
 ### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
-_Context: Guatemala, Health education, abortion, country, illegal, sexuality, usage manual_
+_Context: Guatemala, Health education, abortion, country, illegal, sexuality_
 
-### [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran denies the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md)
+### [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md)
 U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments at a military base in Washington Thursday to show what she called proof that Iran is supplying Houthi rebels in Yemen with weapons in “absolute and undeniable violations” of UN resolutions.
 
 ### [The U.S. government cuts aid to some Somali military units for allegedly misusing funds. ](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-military-units-for-allegedly-misusing-funds.md)
-_Context: Somali Civil War, misusing funds_
+_Context: Somali Civil War (2009-present), Somalia-United States relations, misusing funds_
 
 ### [British researchers document twelve cases where arms purchased by the United States and Saudi Arabia for Syrian opposition groups ended up in the hands of terror group Islamic State. ](/news/2017/12/14/british-researchers-document-twelve-cases-where-arms-purchased-by-the-united-states-and-saudi-arabia-for-syrian-opposition-groups-ended-up-i.md)
 Arms provided by the United States and Saudi Arabia to Syrian opposition groups frequently ended up in the hands of Islamic State, an arms monitoring group that analyzed weapons found on the battlefield said on Thursday.
