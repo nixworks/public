@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.html)  [JSON](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.json)  [XML](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.xml)  
+
 ### [2017-07-5](/news/2017/07/5/index.md)
 
 # Samoa's Legislative Assembly appoints Tuimalealiifano Va'aletoa Sualauvi II as O le Ao o le Malo, or Head of State. He will succeed Tufuga Efi, the country's head of state since 2007, on July 25. 
@@ -5,7 +8,7 @@
 Samoa has a new Head of State. This morning the 50-member Parliament voted unanimously for a of the Council of Deputies or Council of Deputy Heads of State, Tuimalealiifano Va&#8217;aletoa Sualauvi II, to become Samoa&#8217;s Head of State
 
 
-### Source:
+### Sources:
 
 1. [Talanei](http://www.talanei.com/2017/07/04/tuimaleaaliifano-vaaletoa-sualauvi-ii-is-new-hos/)
 1. [Cover Image](http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/594/2017/04/20033752/Tuiatua.jpg)

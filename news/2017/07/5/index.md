@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/5/index.html)  [JSON](2017/07/5/index.json)  [XML](2017/07/5/index.xml)  
+
 ## [2017-07-5](/news/2017/07/5/index.md)
 
 ### [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
