@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.html)  [JSON](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.json)  [XML](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.xml)  
+
 ### [2017-07-18](/news/2017/07/18/index.md)
 
 # A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. 
@@ -5,10 +8,15 @@
 The seven-year Republican quest to repeal the Affordable Care Act seemed to reach a dead end Tuesday, but President Trump vowed to “let Obamacare fail.”
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/07/18/us/politics/republicans-obamacare-repeal-now-replace-later.html)
 1. [Cover Image](https://static01.nyt.com/images/2017/07/19/us/19dc-health/19dc-health-facebookJumbo.jpg)
+
+### Changes:
+
+1. [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md) _2017-07-21 11:30:05 (First version)_
+1. [A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. ](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ The seven-year Republican quest to repeal the Affordable Care Act seemed to reac
 3. [U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. ](/news/2017/10/12/u-s-president-donald-trump-signs-an-executive-order-allowing-the-sale-of-health-insurance-plans-that-are-exempt-from-some-obamacare-regulat.md) _Context: Obamacare_
 4. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: Obamacare_
 5. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Obamacare_
-
-### Changes:
-
-1. [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md) _2017-07-21 11:30:05 (First version)_
-1. [A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. ](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.md) _(Current version)_

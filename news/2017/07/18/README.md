@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/18/index.html)  [JSON](2017/07/18/index.json)  [XML](2017/07/18/index.xml)  
+
 ## [2017-07-18](/news/2017/07/18/index.md)
 
 ### [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md)

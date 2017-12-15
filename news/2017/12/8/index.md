@@ -19,7 +19,7 @@ President Trump approved California’s request for an emergency declaration Fri
 Fourteen of the 15 members of United Nations Security Council condemned President Donald Trump’s decision to recognize Jerusalem as the capital of Israel, saying it was in violation of U.N. resolutions and international law.
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
-_Context: Brexit negotiations, European Union, Ireland, United Kingdom_
+_Context: Brexit negotiations, British, European Union, Ireland_
 
 ### [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md)
  Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, a controversial purchase of what will become the longest-range
