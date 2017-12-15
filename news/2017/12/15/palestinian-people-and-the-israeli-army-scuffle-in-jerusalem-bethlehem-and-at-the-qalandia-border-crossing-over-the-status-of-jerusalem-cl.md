@@ -3,24 +3,22 @@ Formats: [HTML](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-# Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. One source claims a Palestinian person is killed by Israeli soldiers near Ramallah. Last week, six Palestinians died in similar tensions and 2,000 were injured. 
+# Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. One source claims a Palestinian person is seriously injured by Israeli soldiers near Ramallah. Last week, six Palestinians died in similar tensions and 2,000 were injured. 
 
 An open letter to President Trump from Prince Turki Al Faisal of Saudi Arabia.
 
 
 ### Sources:
 
-1. [Agenzia Nova](https://www.agenzianova.com/primopiano/9/medio-oriente-manifestazioni-a-gaza-e-scontri-in-cisgiordania-nella-giornata-della-rabbia-per-gerusalemme)
-2. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/israel-palestina/weer-rellen-in-israel-over-jeruzalem~a029db4d/)
-3. [IMEMC news](http://imemc.org/article/soldiers-attack-protesters-in-the-west-bank/)
-4. [Los Angeles Times](http://www.latimes.com/opinion/op-ed/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215-story.html)
-5. [Xinhua](http://news.xinhuanet.com/english/2017-12/15/c_136828997.htm)
-5. [Cover Image](http://www.trbimg.com/img-5a32f58f/turbine/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215)
+1. [IMEMC news](http://imemc.org/article/soldiers-attack-protesters-in-the-west-bank/)
+2. [Los Angeles Times](http://www.latimes.com/opinion/op-ed/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215-story.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2017-12/15/c_136828997.htm)
+3. [Cover Image](http://www.trbimg.com/img-5a32f58f/turbine/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215)
 
 ### Changes:
 
 1. [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem.md) _2017-12-15 13:30:08 (First version)_
-1. [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. One source claims a Palestinian person is killed by Israeli soldiers near Ramallah. Last week, six Palestinians died in similar tensions and 2,000 were injured. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md) _(Current version)_
+1. [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. One source claims a Palestinian person is seriously injured by Israeli soldiers near Ramallah. Last week, six Palestinians died in similar tensions and 2,000 were injured. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md) _(Current version)_
 
 ### Related:
 

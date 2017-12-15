@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.html)  [JSON](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.json)  [XML](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.xml)  
+
 ### [2017-07-19](/news/2017/07/19/index.md)
 
 # U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. 
@@ -5,7 +8,7 @@
 McCain was diagnosed with a tumor called a glioblastoma after the removal of a blood clot above his left eye last week.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/politics/politics-news/sen-john-mccain-diagnosed-brain-tumor-n784661)
 1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_29/2078291/170719-john-mccain-ac-1026p_e884dc06f96792164d4d94181761b05a.nbcnews-fp-1200-800.jpg)

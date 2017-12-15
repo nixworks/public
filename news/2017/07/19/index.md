@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/19/index.html)  [JSON](2017/07/19/index.json)  [XML](2017/07/19/index.xml)  
+
 ## [2017-07-19](/news/2017/07/19/index.md)
 
 ### [Singer Barbara Weldens, whose recently released first album had won several awards, collapses and dies on stage while singing in Festival Leo Ferre in Gourdon in southwestern France. The 35-year-old singer and poet apparently was electrocuted. ](/news/2017/07/19/singer-barbara-weldens-whose-recently-released-first-album-had-won-several-awards-collapses-and-dies-on-stage-while-singing-in-festival-la.md)
@@ -5,9 +8,6 @@ Barbara Weldens collapsed mid-concert and was apparently electrocuted.
 
 ### [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md)
 A 25,000-acre wildfire in central California, one of three dozen major blazes burning across the U.S. West, threatened hundreds of homes and businesses on Wednesday after forcing the evacuation of about 5,000 residents.
-
-### [Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. "[http:--www.arabnews.com-node-1131641-world (Arab News)]"](/news/2017/07/19/amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-india-to-withdraw-its.md)
-_Context: 2017 Doklam crisis, Bhutan, China, Doklam, India_
 
 ### [South Korea plans to establish a national memorial day (set to be celebrated on every 14 August) to remember and honor the country's comfort women victims. ](/news/2017/07/19/south-korea-plans-to-establish-a-national-memorial-day-set-to-be-celebrated-on-every-14-august-to-remember-and-honor-the-country-s-comfort.md)
 _Context: Comfort women_

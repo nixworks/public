@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/20/index.html)  [JSON](2017/07/20/index.json)  [XML](2017/07/20/index.xml)  
+
 ## [2017-07-20](/news/2017/07/20/index.md)
 
 ### [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md)
