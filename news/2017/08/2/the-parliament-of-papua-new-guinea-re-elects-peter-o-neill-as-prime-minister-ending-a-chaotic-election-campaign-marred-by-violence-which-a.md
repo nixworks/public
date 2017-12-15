@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.html)  [JSON](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.json)  [XML](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.xml)  
+
 ### [2017-08-2](/news/2017/08/2/index.md)
 
 # The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. 
@@ -7,8 +10,8 @@
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-papua-election-idUSKBN1AI0MF?il=0)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170802&t=2&i=1195420297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED710CD)
+1. [Reuters](https://www.reuters.com/article/us-papua-election-idUSKBN1AI0MF?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170802&t=2&i=1195420297&w=1200&r=LYNXMPED710CD)
 
 ### Changes:
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/1/index.html)  [JSON](2017/08/1/index.json)  [XML](2017/08/1/index.xml)  
+
 ## [2017-08-1](/news/2017/08/1/index.md)
 
 ### [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)

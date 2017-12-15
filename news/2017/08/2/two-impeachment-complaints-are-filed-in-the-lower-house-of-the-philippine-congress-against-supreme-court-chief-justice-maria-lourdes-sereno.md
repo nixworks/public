@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.html)  [JSON](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.json)  [XML](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.xml)  
+
 ### [2017-08-2](/news/2017/08/2/index.md)
 
 # Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. 

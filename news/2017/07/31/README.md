@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/31/index.html)  [JSON](2017/07/31/index.json)  [XML](2017/07/31/index.xml)  
+
 ## [2017-07-31](/news/2017/07/31/index.md)
 
 ### [Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md)
@@ -13,7 +16,7 @@ Sanctions freeze Venezuelan president’s assets under US jurisdiction and preve
 _Context: 2017 Qatar crisis, Bahrain, Egypt, Qatar, Saudi Arabia, United Arab Emirates, World Trade Organization_
 
 ### [The body of Chris Msando, the Kenyan election board's head of information, communication and technology, is discovered. Msando, who went missing three days ago, is believed to have been tortured and murdered. ](/news/2017/07/31/the-body-of-chris-msando-the-kenyan-election-board-s-head-of-information-communication-and-technology-is-discovered-msando-who-went-mis.md)
-_Context: Kenyan general election, 2017, electoral commission_
+_Context: Kenyan general election, electoral commission_
 
 ### [Newly-appointed White House Chief of Staff John F. Kelly fires Director of Communications Anthony Scaramucci less than ten days after Scaramucci took up his post. ](/news/2017/07/31/newly-appointed-white-house-chief-of-staff-john-f-kelly-fires-director-of-communications-anthony-scaramucci-less-than-ten-days-after-scaram.md)
 The decision to remove Mr. Scaramucci came at request of the new chief of staff, John Kelly, people close to the decision said.

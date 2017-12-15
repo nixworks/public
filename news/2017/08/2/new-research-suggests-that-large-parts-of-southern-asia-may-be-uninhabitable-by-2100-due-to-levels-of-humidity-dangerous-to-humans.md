@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.html)  [JSON](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.json)  [XML](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.xml)  
+
 ### [2017-08-2](/news/2017/08/2/index.md)
 
 # New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. 
