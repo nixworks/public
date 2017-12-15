@@ -13,6 +13,11 @@ Formats: [HTML](/news/2017/12/14/the-federal-communications-commission-votes-3-t
 1. [Wired](https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress)
 2. [Wired](https://www.wired.com/story/read-fcc-net-neutrality-dissent/)
 
+### Changes:
+
+1. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. The dissenting commissioners are outraged. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations-the-dissenting-commissioners-are-outraged.md) _2017-12-15 00:30:08 (First version)_
+1. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md) _(Current version)_
+
 ### Related:
 
 1. [The Federal Communications Commission votes to overturn a 2015 ruling requiring net neutrality. ](/news/2017/05/19/the-federal-communications-commission-votes-to-overturn-a-2015-ruling-requiring-net-neutrality.md) _Context: Federal Communications Commission, Net neutrality in the United States, net neutrality_

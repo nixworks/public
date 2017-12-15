@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/3/total-cnpc-and-nioc-sign-an-investment-of-5-billion-in-south-pars-the-world-largest-gas-field.html)  [JSON](/news/2017/07/3/total-cnpc-and-nioc-sign-an-investment-of-5-billion-in-south-pars-the-world-largest-gas-field.json)  [XML](/news/2017/07/3/total-cnpc-and-nioc-sign-an-investment-of-5-billion-in-south-pars-the-world-largest-gas-field.xml)  
+
 ### [2017-07-3](/news/2017/07/3/index.md)
 
 # Total, CNPC and NIOC sign an investment of $5 billion in South Pars, the world largest gas field. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-iran-total-southpars-idUSKBN19O1IO)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170703&t=2&i=1191451565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED620WI)
+1. [Reuters](https://www.reuters.com/article/us-iran-total-southpars-idUSKBN19O1IO)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170703&t=2&i=1191451565&w=1200&r=LYNXMPED620WI)
 
 ### Related:
 

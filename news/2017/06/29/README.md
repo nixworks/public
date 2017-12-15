@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/29/index.html)  [JSON](2017/06/29/index.json)  [XML](2017/06/29/index.xml)  
+
 ## [2017-06-29](/news/2017/06/29/index.md)
 
 ### [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md)

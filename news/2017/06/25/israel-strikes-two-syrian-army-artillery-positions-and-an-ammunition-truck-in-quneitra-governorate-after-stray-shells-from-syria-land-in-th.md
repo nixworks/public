@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.html)  [JSON](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.json)  [XML](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.xml)  
+
 ### [2017-06-25](/news/2017/06/25/index.md)
 
 # Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-israel-syria-idUSKBN19G0Q6)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170625&t=2&i=1190427486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5O0OY)

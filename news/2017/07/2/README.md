@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/2/index.html)  [JSON](2017/07/2/index.json)  [XML](2017/07/2/index.xml)  
+
 ## [2017-07-2](/news/2017/07/2/index.md)
 
 ### [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md)
@@ -13,7 +16,7 @@ _Context: Bashar al-Assad, Central Bank of Syria, People on banknotes, President
 Russian officials say at least 14 people have been killed after a bus caught fire following a nighttime collision with a truck that was being towed and six other people have been killed in separate road accidents.
 
 ### [The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. ](/news/2017/07/2/the-united-states-lifts-its-ban-on-electronics-in-the-cabin-of-flights-from-abu-dhabi-to-the-u-s.md)
-_Context: 2017 electronics ban, Abu Dhabi_
+The United States has lifted a ban on laptops in cabins on flights from Abu Dhabi to the United States, saying Etihad Airways had put in place required tighter security measures.
 
 ### [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md)
 Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP - The Bharatiya Janata Party (BJP) on Sunday sided with Defence Minister Arun Jaitley even as he brushed aside China&#039;s warning which had asked India to ?

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/27/index.html)  [JSON](2017/06/27/index.json)  [XML](2017/06/27/index.xml)  
+
 ## [2017-06-27](/news/2017/06/27/index.md)
 
 ### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md)

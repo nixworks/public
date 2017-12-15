@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.html)  [JSON](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.json)  [XML](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.xml)  
+
 ### [2017-07-3](/news/2017/07/3/index.md)
 
 # A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. 
@@ -5,7 +8,7 @@
 Helicopter crashed three minutes before arriving at Dieng Plateau, the popular tourist area where the eruption on Sunday injured at least 10
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jul/03/rescue-helicopter-crash-kills-eight-after-indonesian-volcano-erupts)
 1. [Cover Image](https://i.guim.co.uk/img/media/5b73354236e2cb9c879462a38834b43aace249e3/247_180_1689_1013/master/1689.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1b707fde2d3e30bdd420208cb584ad33)

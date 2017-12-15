@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.html)  [JSON](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.json)  [XML](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.xml)  
+
 ### [2017-06-29](/news/2017/06/29/index.md)
 
 # Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. 
@@ -5,10 +8,17 @@
 Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-australia-usa-military-idUSKBN19K0ID)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170629&t=2&i=1190954256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5S0AF)
+1. [Reuters](https://www.reuters.com/article/us-australia-usa-military-idUSKBN19K0ID)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170629&t=2&i=1190954256&w=1200&r=LYNXMPED5S0AF)
+
+### Changes:
+
+1. [Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-month-long-joint-military-exercises-their-largest-ever-in-australian-territorial-waters-involving-33.md) _2017-06-29 22:30:06 (First version)_
+2. [Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber. This years' being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-years-being-their-largest-eve.md) _2017-06-29 23:30:06 (Update)_
+3. [Australia-United States relations: Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-united-states-relations-australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber.md) _2017-08-27 03:48:34 (Update)_
+3. [Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +27,3 @@ Australia and the United States began their biggest ever joint military exercise
 3. [Citing unnamed U.S. officials, "The Washington Post" reports that U.S. President Donald Trump berated Australian Prime Minister Malcolm Turnbull. Trump claimed it was "the worst call by far" and criticized a refugee settlement deal organised between the Turnbull Government and the Obama administration in late 2016. ](/news/2017/02/2/citing-unnamed-u-s-officials-the-washington-post-reports-that-u-s-president-donald-trump-berated-australian-prime-minister-malcolm-turn.md) _Context: Australia-United States relations_
 4. [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md) _Context: Australia-United States relations_
 5. [The U.S. military is in discussions with Australian officials about the possibility of basing long-range bombers, whose striking distance would include the South China Sea, in Australia. ](/news/2016/03/8/the-u-s-military-is-in-discussions-with-australian-officials-about-the-possibility-of-basing-long-range-bombers-whose-striking-distance-wo.md) _Context: Australia-United States relations_
-
-### Changes:
-
-1. [Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-month-long-joint-military-exercises-their-largest-ever-in-australian-territorial-waters-involving-33.md) _2017-06-29 22:30:06 (First version)_
-2. [Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber. This years' being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-years-being-their-largest-eve.md) _2017-06-29 23:30:06 (Update)_
-3. [Australia-United States relations: Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-united-states-relations-australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber.md) _2017-08-27 03:48:34 (Update)_
-3. [Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.md) _(Current version)_

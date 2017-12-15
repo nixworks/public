@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.html)  [JSON](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.json)  [XML](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.xml)  
+
 ### [2017-06-29](/news/2017/06/29/index.md)
 
 # Amid a stand-off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. 
@@ -5,7 +8,7 @@
 NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/asia/bhutan-protests-against-chinas-road-construction)
 1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)

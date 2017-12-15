@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/06/30/index.html)  [JSON](2017/06/30/index.json)  [XML](2017/06/30/index.xml)  
+
 ## [2017-06-30](/news/2017/06/30/index.md)
 
 ### [ Lebanese Armed Forces are attacked by five suicide bombers and other militants during a raid of two Syrian refugee camps in Arsal near the Syrian border. The army reports a girl was killed in one of the suicide attacks, seven soldiers were also wounded, and 350 people, including several ISIL officials, were detained during the sweep. ](/news/2017/06/30/lebanese-armed-forces-are-attacked-by-five-suicide-bombers-and-other-militants-during-a-raid-of-two-syrian-refugee-camps-in-arsal-near-the.md)

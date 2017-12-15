@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.html)  [JSON](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.json)  [XML](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.xml)  
+
 ### [2017-06-29](/news/2017/06/29/index.md)
 
 # Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. 
@@ -5,10 +8,17 @@
 Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Hong Kong Free Press](https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/)
 1. [Cover Image](https://www.hongkongfp.com/wp-content/uploads/2017/06/19466416_10154509569871968_6693869493848151234_o-1.jpg)
+
+### Changes:
+
+1. [Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-chinese-president.md) _2017-06-30 10:30:06 (First version)_
+2. [Anniversary of the Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/anniversary-of-the-protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of.md) _2017-06-30 14:30:06 (Update)_
+3. [Politics of Hong Kong: Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/politics-of-hong-kong-protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alo.md) _2017-08-27 03:48:34 (Update)_
+3. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +27,3 @@ Hongkongers have expressed surprise at the appearance of China-style decorations
 3. [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md) _Context: China, Chinese President, Xi Jinping_
 4. [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md) _Context: China, Chinese President, Xi Jinping_
 5. [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md) _Context: China, Chinese President, Xi Jinping_
-
-### Changes:
-
-1. [Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-chinese-president.md) _2017-06-30 10:30:06 (First version)_
-2. [Anniversary of the Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/anniversary-of-the-protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of.md) _2017-06-30 14:30:06 (Update)_
-3. [Politics of Hong Kong: Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/politics-of-hong-kong-protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alo.md) _2017-08-27 03:48:34 (Update)_
-3. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _(Current version)_

@@ -16,13 +16,13 @@ _Context: European Union, Japan, Japan-European Union relations_
 President Trump approved California’s request for an emergency declaration Friday.According to a White House press release, Trump order...
 
 ### [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md)
-News that Trump is expected to recognize Jerusalem as Israel&#039;s capital has drawn concern from politicians around the world. 
+Fourteen of the 15 members of United Nations Security Council condemned President Donald Trump’s decision to recognize Jerusalem as the capital of Israel, saying it was in violation of U.N. resolutions and international law.
 
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
 _Context: Brexit negotiations, European Union, Ireland, United Kingdom_
 
 ### [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md)
-Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, according to Defense Minister Itsunori Onodera.
+ Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, a controversial purchase of what will become the longest-range
 
 ### [Poland's Sejm approves controversial judiciary changes amid accusations of threat to democracy. ](/news/2017/12/8/poland-s-sejm-approves-controversial-judiciary-changes-amid-accusations-of-threat-to-democracy.md)
 Opponents see bill as an erosion of judicial independence under populist Law and Justice party
@@ -41,9 +41,6 @@ Deputy national security adviser Dina Powell will step down from her position ea
 
 ### [Mikheil Saakashvili is arrested again by the National Police of Ukraine. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-national-police-of-ukraine-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md)
 _Context: Mikheil Saakashvili, National Police of Ukraine, Petro Poroshenko, Ukrainian crisis_
-
-### [Russia denies that the mysterious pollution originates from the Mayak plant. A probe found no trace of Ruthenium-106 after last September's incident, they say. Greenpeace criticises the claim, claiming it to be a cover-up. ](/news/2017/12/8/russia-denies-that-the-mysterious-pollution-originates-from-the-mayak-plant-a-probe-found-no-trace-of-ruthenium-106-after-last-september-s.md)
-_Context: Airborne radioactivity increase in Europe in autumn 2017, Greenpeace, Mayak, Ruthenium-106_
 
 ## [Previous Day...](/news/2017/12/7/index.md)
 
