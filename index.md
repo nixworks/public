@@ -24,6 +24,9 @@ _Context: George Washington University, History of the Soviet Union, James Baker
 ### [Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". ](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-found-guilty-of-soliciting-a-2-million-bribe-from-rosneft-s-igor-sechin-he-is-sentenced-to-8-ye.md)
 Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.
 
+### [A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. ](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvania-temporarily-enjoins-the-trump-administration-from-implementing-new-rules-that-change-the-o.md)
+_Context: California, Delaware, Eastern Pennsylvania, Federal District Judge, Maryland, Massachusetts, New York, Obamacare replacement proposals, Virginia, Washington, contraceptive mandate_
+
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
 _Context: Brexit, European Union, next phase of Brexit_
 

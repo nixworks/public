@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.html)  [JSON](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.json)  [XML](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.xml)  
+
 ### [2017-08-9](/news/2017/08/9/index.md)
 
 # President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. 
@@ -5,22 +8,22 @@
 Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 
 
-### Source:
+### Sources:
 
 1. [Official Gazette of the Republic of the Philippines](http://www.officialgazette.gov.ph/2017/08/07/executive-order-no-38-s-2017/)
 2. [Rappler](http://www.rappler.com/nation/178175-duterte-dissolves-negros-island-region)
 2. [Cover Image](http://www.officialgazette.gov.ph/wp-content/themes/govph/assets/images/default-thumb.png)
-
-### Related:
-
-1. [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md) _Context: Philippine President, Rodrigo Duterte, his predecessor_
-2. [The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. ](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte-the-son-of-current-philippine-president-rodrigo-duterte-in-an-alleged-methamphetamine-smu.md) _Context: Philippine President, Rodrigo Duterte_
-3. [Coinciding with the 45th anniversary of the declaration of martial law in 1972 by the late Philippine President Ferdinand Marcos, nationwide protests are conducted by various groups against the government's implementation of war on drugs and the ongoing martial law in the whole of Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-with-the-45th-anniversary-of-the-declaration-of-martial-law-in-1972-by-the-late-philippine-president-ferdinand-marcos-nationwide.md) _Context: Philippine President, Rodrigo Duterte_
-4. [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md) _Context: Philippine President, Rodrigo Duterte_
-5. [History of the Philippines (1898-1946), During the annual State of the Nation Address through the Congress of the Philippines, President of the Philippines Rodrigo Duterte has outright demanded that the United States return the controversial Balangiga bells, taken during one of the campaigns of the Philippine-American War as spoils of war. Previous attempts to recover the bells have all failed so far. ](/news/2017/07/24/history-of-the-philippines-1898a1946-during-the-annual-state-of-the-nation-address-through-the-congress-of-the-philippines-president-o.md) _Context: Philippine President, Rodrigo Duterte_
 
 ### Changes:
 
 1. [President Rodrigo Duterte abolishes the Negros Island Region, first created in 2015. Negros Occidental reverts to the Western Visayas region, while Negros Oriental is moved to the Central Visayas region. ](/news/2017/08/9/president-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-negros-occidental-reverts-to-the-western-visayas-region.md) _2017-08-10 03:50:21 (First version)_
 2. [Regions of the Philippines: President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/regions-of-the-philippines-president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-pr.md) _2017-08-27 03:48:47 (Update)_
 2. [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md) _(Current version)_
+
+### Related:
+
+1. [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md) _Context: President, Rodrigo Duterte, his predecessor_
+2. [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md) _Context: President, Rodrigo Duterte_
+3. [The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. ](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte-the-son-of-current-philippine-president-rodrigo-duterte-in-an-alleged-methamphetamine-smu.md) _Context: President, Rodrigo Duterte_
+4. [Coinciding with the 45th anniversary of the declaration of martial law in 1972 by the late Philippine President Ferdinand Marcos, nationwide protests are conducted by various groups against the government's implementation of war on drugs and the ongoing martial law in the whole of Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-with-the-45th-anniversary-of-the-declaration-of-martial-law-in-1972-by-the-late-philippine-president-ferdinand-marcos-nationwide.md) _Context: President, Rodrigo Duterte_
+5. [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md) _Context: President, Rodrigo Duterte_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/9/index.html)  [JSON](2017/08/9/index.json)  [XML](2017/08/9/index.xml)  
+
 ## [2017-08-9](/news/2017/08/9/index.md)
 
 ### [In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-at-a-barracks-in-the-paris.md)
