@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.html)  [JSON](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.json)  [XML](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.xml)  
+
 ### [2017-07-11](/news/2017/07/11/index.md)
 
 # Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. 
@@ -5,10 +8,15 @@
 Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
 
 
-### Source:
+### Sources:
 
 1. [MIT Technology Review](https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/)
 1. [Cover Image](https://d267cvn3rvuq91.cloudfront.net/i/images/quantum-orbit.png?cx=0&cy=10&cw=557&ch=313&sw=1200)
+
+### Changes:
+
+1. [Quantum Experiments at Space Scale: Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/quantum-experiments-at-space-scale-scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-ti.md) _2017-08-27 03:48:38 (First version)_
+1. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Researchers in China have teleported a photon from the ground to a satellite orb
 3. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
 4. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_
 5. [NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. ](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.md) _Context: Earth_
-
-### Changes:
-
-1. [Quantum Experiments at Space Scale: Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/quantum-experiments-at-space-scale-scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-ti.md) _2017-08-27 03:48:38 (First version)_
-1. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/12/index.html)  [JSON](2017/07/12/index.json)  [XML](2017/07/12/index.xml)  
+
 ## [2017-07-12](/news/2017/07/12/index.md)
 
 ### [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-its.md)

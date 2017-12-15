@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/13/index.html)  [JSON](2017/07/13/index.json)  [XML](2017/07/13/index.xml)  
+
 ## [2017-07-13](/news/2017/07/13/index.md)
 
 ### [Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-child-s-birthday-party-in-tizayuca-hidalgo-killing-11-adults.md)

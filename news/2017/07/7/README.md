@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/7/index.html)  [JSON](2017/07/7/index.json)  [XML](2017/07/7/index.xml)  
+
 ## [2017-07-7](/news/2017/07/7/index.md)
 
 ### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. The attack included VBIED and signal jamming. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
@@ -7,7 +10,7 @@ Militants rammed military compound with car before opening fire in village of el
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
 ### [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
-Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
+Sears Holdings Corp is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
 
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
 At least seven people are dead and many are missing as the floods on the island of Kyushu continue.

@@ -7,7 +7,7 @@ Formats: [HTML](2017/12/13/index.html)  [JSON](2017/12/13/index.json)  [XML](201
 _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
-_Context: Gaza Strip, Iron Dome, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Palestinians_
+_Context: Gaza Strip, Iron Dome, Israel, Israeli army, Israeli-Palestinian conflict, Palestinians_
 
 ### [Dublin City Councillors vote 59&ndash;2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59-ndash-2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-fai.md)
 Councillors vote overwhelmingly to remove award from Myanmar leader, whose handling the Rohingya crisis has been fiercely criticised

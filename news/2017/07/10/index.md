@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/10/index.html)  [JSON](2017/07/10/index.json)  [XML](2017/07/10/index.xml)  
+
 ## [2017-07-10](/news/2017/07/10/index.md)
 
 ### [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md)

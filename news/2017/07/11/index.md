@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/07/11/index.html)  [JSON](2017/07/11/index.json)  [XML](2017/07/11/index.xml)  
+
 ## [2017-07-11](/news/2017/07/11/index.md)
 
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
