@@ -5,16 +5,15 @@ Formats: [HTML](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-je
 
 # Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. 
 
-An open letter to President Trump from Prince Turki Al Faisal of Saudi Arabia.
+
 
 
 ### Sources:
 
 1. [IMEMC news](http://imemc.org/article/soldiers-attack-protesters-in-the-west-bank/)
-2. [Los Angeles Times](http://www.latimes.com/opinion/op-ed/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215-story.html)
-3. [Reuters](https://www.reuters.com/article/us-israel-palestinians/israeli-troops-kill-four-palestinians-wound-160-in-protests-over-jerusalem-idUSKBN1E91T3)
-4. [Xinhua](http://news.xinhuanet.com/english/2017-12/15/c_136828997.htm)
-4. [Cover Image](http://www.trbimg.com/img-5a32f58f/turbine/la-oe-turki-al-faisal-trump-jerusalem-not-capital-of-israel-20171215)
+2. [Reuters](https://www.reuters.com/article/us-israel-palestinians/israeli-troops-kill-four-palestinians-wound-160-in-protests-over-jerusalem-idUSKBN1E91T3)
+3. [Xinhua](http://news.xinhuanet.com/english/2017-12/15/c_136828997.htm)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171215&t=2&i=1214731935&w=1200&r=LYNXMPEDBE16R)
 
 ### Changes:
 

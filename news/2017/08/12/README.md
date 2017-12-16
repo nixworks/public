@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/12/index.html)  [JSON](2017/08/12/index.json)  [XML](2017/08/12/index.xml)  
+
 ## [2017-08-12](/news/2017/08/12/index.md)
 
 ### [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md)
