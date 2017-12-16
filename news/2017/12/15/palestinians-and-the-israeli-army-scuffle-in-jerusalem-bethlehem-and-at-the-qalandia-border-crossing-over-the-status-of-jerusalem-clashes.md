@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-je
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-# Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. 
+# Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Israelis shoot two Palestinians dead in Gaza and two on the West Bank, wounding 150 people. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-je
 
 1. [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem.md) _2017-12-15 13:30:08 (First version)_
 2. [Palestinian people and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinian-people-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-cl.md) _2017-12-15 21:30:08 (Update)_
-2. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _(Current version)_
+2. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Israelis shoot two Palestinians dead in Gaza and two on the West Bank, wounding 150 people. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _(Current version)_
 
 ### Related:
 
