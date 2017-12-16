@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-cat
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-# Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". 
+# Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). 
 
 
 

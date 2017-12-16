@@ -3,8 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/16/index.md)
 
-### [The Liberal Party keeps a one-seat majority after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberal-party-keeps-a-one-seat-majority-after-winning-the-bennelong-by-election-against-a-labor-candidate.md)
-_Context: Bennelong by-election, Labor, Liberal Party, Politics of Australia_
+### [The Liberals keep a one-seat majority in the Australian House of Representatives after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberals-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-winning-the-bennelong-by-election-against-a-labor-can.md)
+_Context: Australian House of Representatives, Bennelong by-election, Labor, Liberals, Politics of Australia_
+
+### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a president to succeed Jacob Zuma. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-president-to-succeed-jacob-zuma.md)
+_Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa_
 
 ---
 
@@ -13,7 +16,7 @@ _Context: Bennelong by-election, Labor, Liberal Party, Politics of Australia_
 ### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, West Bank, status of Jerusalem_
 
-### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
+### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
 _Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, sex shop_
 
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
