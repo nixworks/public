@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/15/index.md)
+## [News](/news/2017/12/16/index.md)
+
+### [The Liberal Party keeps a one-seat majority after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberal-party-keeps-a-one-seat-majority-after-winning-the-bennelong-by-election-against-a-labor-candidate.md)
+_Context: Bennelong by-election, Labor, Liberal Party, Politics of Australia_
+
+---
+
+## [Yesterday](/news/2017/12/15/index.md)
 
 ### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Last week, six Palestinians died in similar tensions and 2,000 were injured. Today, troops kill two Palestinians in Gaza and two on the West Bank, wounding 160 people with live fire. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, West Bank, status of Jerusalem_
@@ -27,12 +34,15 @@ Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting 
 ### [A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. ](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvania-temporarily-enjoins-the-trump-administration-from-implementing-new-rules-that-change-the-o.md)
 _Context: California, Delaware, Eastern Pennsylvania, Federal District Judge, Maryland, Massachusetts, New York, Obamacare replacement proposals, Virginia, Washington, contraceptive mandate_
 
+### [France's Constitutional Court rejects a bill to make visiting terrorist websites a criminal offence, citing "inviolability of freedom of communication and expression" as a reason. ](/news/2017/12/15/france-s-constitutional-court-rejects-a-bill-to-make-visiting-terrorist-websites-a-criminal-offence-citing-inviolability-of-freedom-of-com.md)
+The issue of counter-terrorist measures is a highly debated topic in France, as in recent years the country has been hit by a number of terrorist attacks, with the deadliest one, in November 2015, claiming the lives of 130 people.
+
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
 _Context: Brexit, European Union, next phase of Brexit_
 
 ---
 
-## [Yesterday](/news/2017/12/14/index.md)
+## [Day Before Yesterday](/news/2017/12/14/index.md)
 
 ### [Colombia's biggest narcotics gang, Clan del Golfo (AGC), declares a cease-fire in effect since December 13. They say the gesture is meant "to contribute to a full, total and lasting peace." The Colombian government says that it welcomes the move but also that it will continue their pressure on the organization. ](/news/2017/12/14/colombia-s-biggest-narcotics-gang-clan-del-golfo-agc-declares-a-cease-fire-in-effect-since-december-13-they-say-the-gesture-is-meant-t.md)
 Colombia&amp;#39;s biggest narcotics gang, the paramilitary Clan del Golfo, has announced it has stopped armed actions to support peace efforts aimed at burying a half a century of conflict between the government and rebel forces. Current top breaking Philippine headlines regarding the nation, world...
@@ -75,38 +85,7 @@ Michael Dourson, Trump&#x27;s pick to lead the federal toxic chemicals office, h
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/13/index.md)
-
-### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
-_Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
-
-### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
-_Context: Gaza Strip, Iron Dome, Israel, Israeli army, Israeli-Palestinian conflict, Palestinians_
-
-### [Dublin City Councillors vote 59-2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59a2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-failure.md)
-Councillors vote overwhelmingly to remove award from Myanmar leader, whose handling the Rohingya crisis has been fiercely criticised
-
-### [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md)
-US military helicopter window falls onto school in Okinawa, Japan. Second incident less than a week.
-
-### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
-_Context: Congress of the Philippines, Mindanao, President, Proclamation No. 216, Rodrigo Duterte, martial law_
-
-### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)
-The two journalists, accused of trying to obtain official documents illegally, could face up to 14 years in prison.
-
-### [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md)
-Here is the text of Gov. Mark Dayton’s announcement that he would be appointing Lt. Gov. Tina Smith to the U.S. Senate seat being vacated by Sen. Al Franken: &#8220;I’ve given this important decisi…
-
-### [Prime Minister Theresa May suffers a 309-305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309a305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-amendm.md)
-MPs on both sides of Commons back amendment promising them a decisive vote on final Brexit deal
-
-### [Kentucky state legislator Dan Johnson, who had been accused of sexual assault of a teenager, dies of a gunshot wound, an apparent suicide. ](/news/2017/12/13/kentucky-state-legislator-dan-johnson-who-had-been-accused-of-sexual-assault-of-a-teenager-dies-of-a-gunshot-wound-an-apparent-suicide.md)
- FRANKFORT, Ky. (AP) — Dan Johnson, a Republican state lawmaker in Kentucky who defiantly denied allegations that he sexually assaulted a teenage girl in the basement of his home, 
-
----
-
-## [Previous Day...](/news/2017/12/12/index.md)
+## [Previous Day...](/news/2017/12/13/index.md)
 
 ---
 

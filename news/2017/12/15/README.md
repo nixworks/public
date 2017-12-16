@@ -27,6 +27,9 @@ Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting 
 ### [A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. ](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvania-temporarily-enjoins-the-trump-administration-from-implementing-new-rules-that-change-the-o.md)
 _Context: California, Delaware, Eastern Pennsylvania, Federal District Judge, Maryland, Massachusetts, New York, Obamacare replacement proposals, Virginia, Washington, contraceptive mandate_
 
+### [France's Constitutional Court rejects a bill to make visiting terrorist websites a criminal offence, citing "inviolability of freedom of communication and expression" as a reason. ](/news/2017/12/15/france-s-constitutional-court-rejects-a-bill-to-make-visiting-terrorist-websites-a-criminal-offence-citing-inviolability-of-freedom-of-com.md)
+The issue of counter-terrorist measures is a highly debated topic in France, as in recent years the country has been hit by a number of terrorist attacks, with the deadliest one, in November 2015, claiming the lives of 130 people.
+
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
 _Context: Brexit, European Union, next phase of Brexit_
 
