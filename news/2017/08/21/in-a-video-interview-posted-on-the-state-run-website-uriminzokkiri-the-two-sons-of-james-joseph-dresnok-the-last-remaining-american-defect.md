@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.html)  [JSON](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.json)  [XML](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.xml)  
 
-* [HTML](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.html)
-* [JSON](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.json)
-* [XML](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.xml)
 ### [2017-08-21](/news/2017/08/21/index.md)
 
 # In a video interview posted on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. 

@@ -7,19 +7,19 @@ Formats: [HTML](2017/12/15/index.html)  [JSON](2017/12/15/index.json)  [XML](201
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, West Bank, status of Jerusalem_
 
 ### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
-_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, Sex industry, refinancing, sex shop_
+_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, sex shop_
 
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
-_Context: Irish, Relations of production, Ryanair, labour unions, low-cost carrier_
+_Context: Irish, Ryanair, labour unions, low-cost carrier_
+
+### [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md)
+_Context: A magnitude 6.5 earthquake, Java_
 
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
 _Context: Australia, Child sexual abuse in Australia, Royal Commission_
 
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
-_Context: Substance abuse, drug overdose_
-
-### [Under the title "NATO Expansion: What Gorbachev Heard", the National Security Archive at George Washington University releases documents from five countries relating to assurances the Soviet Union was given regarding NATO expansion, including James Baker's legendary dictum "not one inch eastward" to Mikhail Gorbachev. ](/news/2017/12/15/under-the-title-nato-expansion-what-gorbachev-heard-the-national-security-archive-at-george-washington-university-releases-documents-fro.md)
-_Context: George Washington University, History of the Soviet Union, James Baker, Mikhail Gorbachev, NATO, National Security Archive, Soviet Union_
+_Context: drug overdose_
 
 ### [Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". ](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-found-guilty-of-soliciting-a-2-million-bribe-from-rosneft-s-igor-sechin-he-is-sentenced-to-8-ye.md)
 Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.

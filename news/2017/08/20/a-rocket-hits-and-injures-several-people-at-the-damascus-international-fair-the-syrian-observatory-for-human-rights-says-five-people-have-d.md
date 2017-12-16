@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.html)  [JSON](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.json)  [XML](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.xml)  
+
 ### [2017-08-20](/news/2017/08/20/index.md)
 
 # A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. 
@@ -5,11 +8,17 @@
 The event is being held for the first time in five years. with reports speaking of five deaths.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-40993591)
 2. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-4806838/Injuries-rocket-hits-near-Damascus-business-fair-state-TV.html)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/11E27/production/_97455237_5215eb8f-3810-4046-9b8b-49f2185e921e.jpg)
+
+### Changes:
+
+1. [A rocket hits and injures several people at the Damascus International Fair. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair.md) _2017-08-20 18:30:04 (First version)_
+2. [Syrian Civil War: A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/syrian-civil-war-a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says.md) _2017-08-27 17:30:04 (Update)_
+2. [A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +27,3 @@ The event is being held for the first time in five years. with reports speaking 
 3. [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
 4. [The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. The Syrian government says Israel struck the military site with several missiles. Israeli Intelligence Minister Yisrael Katz states that the strike "corresponds completely with Israel's policy". ](/news/2017/04/27/the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire-the-syrian-governm.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
 5. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [A rocket hits and injures several people at the Damascus International Fair. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair.md) _2017-08-20 18:30:04 (First version)_
-2. [Syrian Civil War: A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/syrian-civil-war-a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says.md) _2017-08-27 17:30:04 (Update)_
-2. [A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.md) _(Current version)_

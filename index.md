@@ -7,19 +7,19 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, West Bank, status of Jerusalem_
 
 ### [Beate Uhse AG, suppliers of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene". ](/news/2017/12/15/beate-uhse-ag-suppliers-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-s.md)
-_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, Sex industry, refinancing, sex shop_
+_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, sex shop_
 
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
-_Context: Irish, Relations of production, Ryanair, labour unions, low-cost carrier_
+_Context: Irish, Ryanair, labour unions, low-cost carrier_
+
+### [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md)
+_Context: A magnitude 6.5 earthquake, Java_
 
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
 _Context: Australia, Child sexual abuse in Australia, Royal Commission_
 
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
-_Context: Substance abuse, drug overdose_
-
-### [Under the title "NATO Expansion: What Gorbachev Heard", the National Security Archive at George Washington University releases documents from five countries relating to assurances the Soviet Union was given regarding NATO expansion, including James Baker's legendary dictum "not one inch eastward" to Mikhail Gorbachev. ](/news/2017/12/15/under-the-title-nato-expansion-what-gorbachev-heard-the-national-security-archive-at-george-washington-university-releases-documents-fro.md)
-_Context: George Washington University, History of the Soviet Union, James Baker, Mikhail Gorbachev, NATO, National Security Archive, Soviet Union_
+_Context: drug overdose_
 
 ### [Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". ](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-found-guilty-of-soliciting-a-2-million-bribe-from-rosneft-s-igor-sechin-he-is-sentenced-to-8-ye.md)
 Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.
@@ -56,21 +56,18 @@ The death occurred Thursday as officials responded to what is now the fourth-big
 A West Wind Aviation plane carrying 22 passengers and three crew members crashed near the Fond-du-Lac, Sask., airport shortly after takeoff early Wednesday night, according to the RCMP. Several injuries were reported, but no fatalities.
 
 ### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
-_Context: Guatemala, Health education, abortion, country, illegal, sexuality_
+_Context: Guatemala, Health education in Guatemala, abortion, country, illegal, sexuality_
 
 ### [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md)
 U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments at a military base in Washington Thursday to show what she called proof that Iran is supplying Houthi rebels in Yemen with weapons in “absolute and undeniable violations” of UN resolutions.
 
 ### [The U.S. government cuts aid to some Somali military units for allegedly misusing funds. ](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-military-units-for-allegedly-misusing-funds.md)
-_Context: Somali Civil War (2009-present), Somalia-United States relations, misusing funds_
-
-### [British researchers document twelve cases where arms purchased by the United States and Saudi Arabia for Syrian opposition groups ended up in the hands of terror group Islamic State. ](/news/2017/12/14/british-researchers-document-twelve-cases-where-arms-purchased-by-the-united-states-and-saudi-arabia-for-syrian-opposition-groups-ended-up-i.md)
-Arms provided by the United States and Saudi Arabia to Syrian opposition groups frequently ended up in the hands of Islamic State, an arms monitoring group that analyzed weapons found on the battlefield said on Thursday.
+_Context: Somali Civil War (2009-present), Somali military, Somalia-United States relations, U.S. government, misusing funds_
 
 ### [Attorneys general for California, New York, Illinois, and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-grant.md)
-_Context: California, Department of Education, Illinois, Massachusetts, New York, for-profit schools_
+_Context: California, Department of Education, Education in the United States, Illinois, Massachusetts, New York, for-profit schools_
 
-### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, through a press conference, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. However, this political group did not mention what it would do if the president does not do it. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-through-a-press-conference-gives-the-preside.md)
+### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md)
 _Context: Congress, Odebrecht, Operation Car Wash, Pedro Pablo Kuczynski, Peru, Popular Force, president_
 
 ### [Michael Dourson, University of Cincinnati College of Medicine professor, withdraws his nomination for an assistant administrator position with the Environmental Protection Agency. ](/news/2017/12/14/michael-dourson-university-of-cincinnati-college-of-medicine-professor-withdraws-his-nomination-for-an-assistant-administrator-position-wi.md)
@@ -86,7 +83,7 @@ _Context: Sanaa, Saudi Arabian-led intervention in Yemen, Yemen_
 ### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
 _Context: Gaza Strip, Iron Dome, Israel, Israeli army, Israeli-Palestinian conflict, Palestinians_
 
-### [Dublin City Councillors vote 59&ndash;2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59-ndash-2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-fai.md)
+### [Dublin City Councillors vote 59-2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59a2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-failure.md)
 Councillors vote overwhelmingly to remove award from Myanmar leader, whose handling the Rohingya crisis has been fiercely criticised
 
 ### [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md)
@@ -101,7 +98,7 @@ The two journalists, accused of trying to obtain official documents illegally, c
 ### [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md)
 Here is the text of Gov. Mark Dayton’s announcement that he would be appointing Lt. Gov. Tina Smith to the U.S. Senate seat being vacated by Sen. Al Franken: &#8220;I’ve given this important decisi…
 
-### [Prime Minister Theresa May suffers a 309&ndash;305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309-ndash-305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-am.md)
+### [Prime Minister Theresa May suffers a 309-305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309a305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-amendm.md)
 MPs on both sides of Commons back amendment promising them a decisive vote on final Brexit deal
 
 ### [Kentucky state legislator Dan Johnson, who had been accused of sexual assault of a teenager, dies of a gunshot wound, an apparent suicide. ](/news/2017/12/13/kentucky-state-legislator-dan-johnson-who-had-been-accused-of-sexual-assault-of-a-teenager-dies-of-a-gunshot-wound-an-apparent-suicide.md)

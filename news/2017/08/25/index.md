@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/25/index.html)  [JSON](2017/08/25/index.json)  [XML](2017/08/25/index.xml)  
+
 ## [2017-08-25](/news/2017/08/25/index.md)
 
 ### [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md)
@@ -13,7 +16,7 @@ Violence in Panchkula and Sirsa in Haryana. Punjab and Delhi too hit; HC orders 
 Somali forces supported by U.S. troops shot dead 10 Somalis, including three children, in a village near the capital Mogadishu on Friday, a witness and local officials told Reuters.
 
 ### [Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-palace.md)
-A man with a &quot;large knife&quot; who assaulted two police officers outside Buckingham Palace on Friday night has been arrested, British police said.
+_Context: 2017 Buckingham Palace incident, Buckingham Palace, police_
 
 ### [A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-treating-as-a-terror-attack.md)
 A Somali man is shot dead after injuring a soldier with a machete in the centre of Brussels.
@@ -52,7 +55,7 @@ _Context: Political appointments by Donald Trump, Sebastian Gorka_
 The suit was filed in U.S. District Court in Washington on behalf of five transgender service members with nearly 60 years of combined military service.
 
 ### [The U.S. Environmental Protection Agency announces, effective in 2019, it will no longer sponsor the Climate Leadership Awards program that honors voluntary corporate actions to combat global warming. ](/news/2017/08/25/the-u-s-environmental-protection-agency-announces-effective-in-2019-it-will-no-longer-sponsor-the-climate-leadership-awards-program-that.md)
-_Context: Environmental policy of the Donald Trump administration, United States Environmental Protection Agency, global warming_
+_Context: Environmental Protection Agency, Environmental policy of the Donald Trump administration, warming_
 
 ### [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md)
 _Context: 2017 in spaceflight, FORMOSAT-5, Falcon 9, National Space Organization, SpaceX, Taiwan_

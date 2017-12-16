@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/25/toronto-s-sheraton-cadwell-orchestras-closes-and-its-management-resigns-following-public-backlash-to-a-fat-shaming-email-that-said-only-phy.html)  [JSON](/news/2017/08/25/toronto-s-sheraton-cadwell-orchestras-closes-and-its-management-resigns-following-public-backlash-to-a-fat-shaming-email-that-said-only-phy.json)  [XML](/news/2017/08/25/toronto-s-sheraton-cadwell-orchestras-closes-and-its-management-resigns-following-public-backlash-to-a-fat-shaming-email-that-said-only-phy.xml)  
+
 ### [2017-08-25](/news/2017/08/25/index.md)
 
 # Toronto's Sheraton Cadwell Orchestras closes and its management resigns following public backlash to a fat-shaming email that said only "physically fit and slim" singers would be featured in shows. 
@@ -5,7 +8,7 @@
 It was over before the ladies who weren’t “physically fit” could sing
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-41054254)
 2. [Fox News](http://www.foxnews.com/lifestyle/2017/08/25/orchestra-closes-after-backlash-over-fat-shaming-singers.html)

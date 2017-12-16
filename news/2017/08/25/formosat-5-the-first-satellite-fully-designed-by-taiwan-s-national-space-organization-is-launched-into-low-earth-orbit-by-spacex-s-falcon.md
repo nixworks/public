@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.html)  [JSON](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.json)  [XML](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.xml)  
+
 ### [2017-08-25](/news/2017/08/25/index.md)
 
 # FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. 
@@ -5,10 +8,15 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Bloomberg](https://www.bloomberg.com/news/articles/2017-08-24/satellite-for-taiwan-launched-from-california)
 1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPGvWtpcomEM/v0/1200x800.jpg)
+
+### Changes:
+
+1. [2017 in spaceflight: FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/2017-in-spaceflight-formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbi.md) _2017-08-27 17:30:04 (First version)_
+1. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@
 3. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: Falcon 9, SpaceX_
 4. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Falcon 9, SpaceX_
 5. [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md) _Context: Falcon 9, SpaceX_
-
-### Changes:
-
-1. [2017 in spaceflight: FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/2017-in-spaceflight-formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbi.md) _2017-08-27 17:30:04 (First version)_
-1. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _(Current version)_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.html)  [JSON](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.json)  [XML](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.xml)  
+
 ### [2017-08-25](/news/2017/08/25/index.md)
 
 # Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. 
@@ -5,10 +8,15 @@
 Brazilian president has dissolved Renca to attract investment in region thought to contain gold with critics warning of irreversible damage
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/environment/2017/aug/24/brazil-abolishes-huge-amazon-reserve-in-biggest-attack-in-50-years)
 1. [Cover Image](https://i.guim.co.uk/img/media/4db115f9080ea5ca75c3979d8c9850e1a32b4d18/0_68_2000_1200/master/2000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4c73febd6664bdbc86672cf3eb73d78c)
+
+### Changes:
+
+1. [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md) _2017-08-27 17:30:05 (First version)_
+1. [Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Brazilian president has dissolved Renca to attract investment in region thought 
 3. [Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. ](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.md) _Context: Brazil, Michel Temer, President_
 4. [Marco Aurelio Mello, a Supreme Federal Court judge orders Brazil's Chamber of Deputies to start impeachment proceedings against Vice President Michel Temer over charges he helped doctor budget accounting as part of President Dilma Rousseff's administration. ](/news/2016/04/5/marco-aura-c-lio-mello-a-supreme-federal-court-judge-orders-brazil-s-chamber-of-deputies-to-start-impeachment-proceedings-against-vice-presid.md) _Context: Brazil, Michel Temer, President_
 5. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil, Michel Temer_
-
-### Changes:
-
-1. [Environment of Brazil: Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/environment-of-brazil-brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecologi.md) _2017-08-27 17:30:05 (First version)_
-1. [Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.md) _(Current version)_

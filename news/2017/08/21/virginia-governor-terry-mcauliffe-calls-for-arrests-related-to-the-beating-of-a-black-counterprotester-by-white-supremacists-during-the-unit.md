@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.html)  [JSON](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.json)  [XML](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.xml)  
 
-* [HTML](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.html)
-* [JSON](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.json)
-* [XML](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.xml)
 ### [2017-08-21](/news/2017/08/21/index.md)
 
 # Virginia Governor Terry McAuliffe calls for arrests related to the beating of a black counterprotester by white supremacists during the Unite the Right rally. (

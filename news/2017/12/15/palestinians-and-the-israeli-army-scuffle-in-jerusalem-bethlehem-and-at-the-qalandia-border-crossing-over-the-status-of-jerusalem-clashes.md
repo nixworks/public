@@ -10,10 +10,8 @@ Formats: [HTML](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-je
 
 ### Sources:
 
-1. [IMEMC news](http://imemc.org/article/soldiers-attack-protesters-in-the-west-bank/)
-2. [Reuters](https://www.reuters.com/article/us-israel-palestinians/israeli-troops-kill-four-palestinians-wound-160-in-protests-over-jerusalem-idUSKBN1E91T3)
-3. [Xinhua](http://news.xinhuanet.com/english/2017-12/15/c_136828997.htm)
-3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171215&t=2&i=1214731935&w=1200&r=LYNXMPEDBE16R)
+1. [Reuters](https://www.reuters.com/article/us-israel-palestinians/israeli-troops-kill-four-palestinians-wound-160-in-protests-over-jerusalem-idUSKBN1E91T3)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171215&t=2&i=1214731935&w=1200&r=LYNXMPEDBE16R)
 
 ### Changes:
 

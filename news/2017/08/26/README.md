@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/26/index.html)  [JSON](2017/08/26/index.json)  [XML](2017/08/26/index.xml)  
+
 ## [2017-08-26](/news/2017/08/26/index.md)
 
 ### [Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. ](/news/2017/08/26/several-people-are-dead-after-two-trucks-collide-with-a-minibus-on-the-m1-motorway-near-the-town-of-newport-pagnell-in-the-english-county-of.md)

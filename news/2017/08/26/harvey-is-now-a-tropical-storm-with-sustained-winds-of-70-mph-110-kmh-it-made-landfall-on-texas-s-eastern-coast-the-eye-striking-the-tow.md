@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall-on-texas-s-eastern-coast-the-eye-striking-the-tow.html)  [JSON](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall-on-texas-s-eastern-coast-the-eye-striking-the-tow.json)  [XML](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall-on-texas-s-eastern-coast-the-eye-striking-the-tow.xml)  
+
 ### [2017-08-26](/news/2017/08/26/index.md)
 
 # Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. 
@@ -5,7 +8,7 @@
 Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into Texas late Friday. There were reports of power loss and heavy damage to buildings.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-41062633)
 2. [Houston Chronicle](http://www.chron.com/news/houston-weather/hurricaneharvey/article/Harvey-impacts-Texas-Latest-tropical-weather-11953474.php)

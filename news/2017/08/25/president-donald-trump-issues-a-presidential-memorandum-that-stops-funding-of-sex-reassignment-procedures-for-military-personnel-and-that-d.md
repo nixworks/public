@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/25/president-donald-trump-issues-a-presidential-memorandum-that-stops-funding-of-sex-reassignment-procedures-for-military-personnel-and-that-d.html)  [JSON](/news/2017/08/25/president-donald-trump-issues-a-presidential-memorandum-that-stops-funding-of-sex-reassignment-procedures-for-military-personnel-and-that-d.json)  [XML](/news/2017/08/25/president-donald-trump-issues-a-presidential-memorandum-that-stops-funding-of-sex-reassignment-procedures-for-military-personnel-and-that-d.xml)  
+
 ### [2017-08-25](/news/2017/08/25/index.md)
 
 # President Donald Trump issues a presidential memorandum that stops funding of sex reassignment procedures for military personnel, and that denies entry of transgender individuals into the military. President Trump announced this policy change via twitter in late July. Two LGBT rights organizations filed a federal lawsuit two weeks ago arguing this policy change is unconstitutional because it denies transgender service members equal protection and due process. 
@@ -5,7 +8,7 @@
 The suit was filed in U.S. District Court in Washington on behalf of five transgender service members with nearly 60 years of combined military service.
 
 
-### Source:
+### Sources:
 
 1. [AP via NBC News](https://www.nbcnews.com/news/military/lawsuit-opposes-trump-s-ban-transgender-military-service-n791241)
 2. [The Washington Post](https://www.washingtonpost.com/politics/trump-directs-pentagon-to-implement-ban-on-transgender-service-members-bans-sex-reassignment-surgery/2017/08/25/c8c604d8-89e4-11e7-9ce7-9e175d8953fa_story.html?utm_term=.7ed979afbe85)

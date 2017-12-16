@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.html)  [JSON](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.json)  [XML](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.xml)  
 
-* [HTML](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.html)
-* [JSON](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.json)
-* [XML](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.xml)
 ### [2017-08-21](/news/2017/08/21/index.md)
 
 # The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. 

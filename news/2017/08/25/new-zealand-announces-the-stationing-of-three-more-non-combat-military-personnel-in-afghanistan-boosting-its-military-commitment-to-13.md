@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.html)  [JSON](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.json)  [XML](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.xml)  
+
 ### [2017-08-25](/news/2017/08/25/index.md)
 
 # New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. 
@@ -5,22 +8,22 @@
 Just days after the United States said it would increase troop numbers in Afghanistan and ask its allies to do the same, New Zealand on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/latest-explosions-reported-shiite-mosque-kabul-49413088)
-2. [Reuters](http://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0)
+2. [Reuters](https://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
-
-### Related:
-
-1. [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md) _Context: New Zealand_
-2. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: War in Afghanistan_
-3. [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md) _Context: New Zealand_
-4. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
-5. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: War in Afghanistan_
 
 ### Changes:
 
 1. [War in Afghanistan (2001-present): New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-2001-present-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosti.md) _2017-08-26 03:48:56 (First version)_
 2. [War in Afghanistan: New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/war-in-afghanistan-new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-c.md) _2017-08-27 17:30:05 (Update)_
 2. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _(Current version)_
+
+### Related:
+
+1. [An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. ](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.md) _Context: New Zealand_
+2. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_
+3. [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _Context: War in Afghanistan_
+4. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _Context: War in Afghanistan_
+5. [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md) _Context: War in Afghanistan_
