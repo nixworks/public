@@ -13,7 +13,7 @@ _Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, 
 _Context: Irish, Ryanair, labour unions, low-cost carrier_
 
 ### [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md)
-_Context: A magnitude 6.5 earthquake, Java_
+_Context: 2017 Java earthquake, Java, earthquake, magnitude_
 
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
 _Context: Australia, Child sexual abuse in Australia, Royal Commission_
