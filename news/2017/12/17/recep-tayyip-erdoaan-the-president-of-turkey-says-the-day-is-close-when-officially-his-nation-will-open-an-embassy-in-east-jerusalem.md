@@ -11,7 +11,8 @@ Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open 
 ### Sources:
 
 1. [The Hill](http://thehill.com/policy/international/middle-east-north-africa/365302-turkey-will-open-embassy-in-east-jerusalem)
-1. [Cover Image](http://thehill.com/sites/default/files/article_images/erdoganrecep_041817getty.jpg)
+2. [Voice of America](https://www.voanews.com/a/jakarta-jerusalem-israel-trump/4167188.html)
+2. [Cover Image](http://thehill.com/sites/default/files/article_images/erdoganrecep_041817getty.jpg)
 
 ### Related:
 
