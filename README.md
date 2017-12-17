@@ -1,23 +1,42 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/16/index.md)
+## [News](/news/2017/12/17/index.md)
+
+### [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md)
+Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanctions and weapons laws.
+
+---
+
+## [Yesterday](/news/2017/12/16/index.md)
+
+### [The BBC reports that former Prime Minister of the United Kingdom David Cameron is to head a GBP750 million ($1 billion) U.K. private fund to improve air, road and railway links between China and its trading partners. ](/news/2017/12/16/the-bbc-reports-that-former-prime-minister-of-the-united-kingdom-david-cameron-is-to-head-a-agbp750-million-1-billion-u-k-private-fund-t.md)
+David Cameron is to take on a role with a leading a billion-dollar investment initiative between the UK and China.
+
+### [ More evacuations are ordered as surging Santa Ana winds drive the 40-percent contained Thomas Fire, now the third-largest in California history, further westward in Santa Barbara County. ](/news/2017/12/16/more-evacuations-are-ordered-as-surging-santa-ana-winds-drive-the-40-percent-contained-thomas-fire-now-the-third-largest-in-california-his.md)
+A raging California wildfire powered by fierce winds grew into the third-largest in state history on Saturday as forced evacuations turned neighborhoods into ghost towns and ash fell in some areas like heavy snow.
+
+### [Six people are killed, including Hilda Hernandez, sister of Honduran President Juan Orlando Hernandez, in a helicopter accident that was headed to Comayagua from Toncontin International Airport in Tegucigalpa. ](/news/2017/12/16/six-people-are-killed-including-hilda-herna-ndez-sister-of-honduran-president-juan-orlando-herna-ndez-in-a-helicopter-accident-that-was-h.md)
+The sister of Honduran President Juan Orlando Hernandez and five others died when the helicopter they were traveling in crashed on Saturday, the Honduran military said.
+
+### [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md)
+A search continues for 15 people missing, after five died in a village in the south of the country.
 
 ### [The Liberals keep a one-seat majority in the Australian House of Representatives after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberals-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-winning-the-bennelong-by-election-against-a-labor-can.md)
 _Context: Australian House of Representatives, Bennelong by-election, Labor, Liberals, Politics of Australia_
 
-### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a president to succeed Jacob Zuma. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-president-to-succeed-jacob-zuma.md)
-_Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa_
+### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md)
+_Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa, President, gather, term expires in 2019_
 
 ---
 
-## [Yesterday](/news/2017/12/15/index.md)
+## [Day Before Yesterday](/news/2017/12/15/index.md)
 
-### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Israelis shoot two Palestinians dead in Gaza and two on the West Bank, wounding 150 people. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
+### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, United States recognition of Jerusalem as Israeli capital, West Bank, status of Jerusalem_
 
 ### [Beate Uhse AG, supplier of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). ](/news/2017/12/15/beate-uhse-ag-supplier-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-se.md)
-_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, sex shop_
+Germany-based sex shop chain Beate Uhse AG says its holding company is filing for bankruptcy restructuring after failing to raise financing from investors and restructure its debts.
 
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
 _Context: Irish, Ryanair, labour unions, low-cost carrier_
@@ -45,50 +64,7 @@ _Context: Brexit, European Union, next phase of Brexit_
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/14/index.md)
-
-### [Colombia's biggest narcotics gang, Clan del Golfo (AGC), declares a cease-fire in effect since December 13. They say the gesture is meant "to contribute to a full, total and lasting peace." The Colombian government says that it welcomes the move but also that it will continue their pressure on the organization. ](/news/2017/12/14/colombia-s-biggest-narcotics-gang-clan-del-golfo-agc-declares-a-cease-fire-in-effect-since-december-13-they-say-the-gesture-is-meant-t.md)
-Colombia&amp;#39;s biggest narcotics gang, the paramilitary Clan del Golfo, has announced it has stopped armed actions to support peace efforts aimed at burying a half a century of conflict between the government and rebel forces. Current top breaking Philippine headlines regarding the nation, world...
-
-### [The Walt Disney Company announces its intent to acquire a large portion of 21st Century Fox for $52.4 billion, pending regulatory approval. ](/news/2017/12/14/the-walt-disney-company-announces-its-intent-to-acquire-a-large-portion-of-21st-century-fox-for-52-4-billion-pending-regulatory-approval.md)
-Disney will pay $52.4 billion for a large portion of the entertainment giant, combining
-
-### [Israeli company Teva Pharmaceutical, the world's largest generic drug manufacturer, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. ](/news/2017/12/14/israeli-company-teva-pharmaceutical-the-world-s-largest-generic-drug-manufacturer-is-restructuring-in-order-to-pay-off-debt-and-will-be-c.md)
-Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, give up many of its manufacturing plants and suspend its dividend on ordinary shares in a much-anticipated overhaul to help pay off its debts.
-
-### [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md)
-_Context: Federal Communications Commission, Net neutrality in the United States, net neutrality_
-
-### [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus.md)
-A train and a school bus collide in southern France, leaving at least four children dead, officials say.
-
-### [A firefighter is killed while battling the Thomas Fire, the second death linked to the fourth largest wildfire in California history. ](/news/2017/12/14/a-firefighter-is-killed-while-battling-the-thomas-fire-the-second-death-linked-to-the-fourth-largest-wildfire-in-california-history.md)
-The death occurred Thursday as officials responded to what is now the fourth-biggest California wildfire on record.
-
-### [A plane crash in Fond-du-Lac, Saskatchewan, causes 25 injuries, some serious. No deaths are reported. ](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-causes-25-injuries-some-serious-no-deaths-are-reported.md)
-A West Wind Aviation plane carrying 22 passengers and three crew members crashed near the Fond-du-Lac, Sask., airport shortly after takeoff early Wednesday night, according to the RCMP. Several injuries were reported, but no fatalities.
-
-### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
-_Context: Guatemala, Health education in Guatemala, abortion, country, illegal, sexuality_
-
-### [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md)
-U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments at a military base in Washington Thursday to show what she called proof that Iran is supplying Houthi rebels in Yemen with weapons in “absolute and undeniable violations” of UN resolutions.
-
-### [The U.S. government cuts aid to some Somali military units for allegedly misusing funds. ](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-military-units-for-allegedly-misusing-funds.md)
-_Context: Somali Civil War (2009-present), Somali military, Somalia-United States relations, U.S. government, misusing funds_
-
-### [Attorneys general for California, New York, Illinois, and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-grant.md)
-_Context: California, Department of Education, Education in the United States, Illinois, Massachusetts, New York, for-profit schools_
-
-### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md)
-_Context: Congress, Odebrecht, Operation Car Wash, Pedro Pablo Kuczynski, Peru, Popular Force, president_
-
-### [Michael Dourson, University of Cincinnati College of Medicine professor, withdraws his nomination for an assistant administrator position with the Environmental Protection Agency. ](/news/2017/12/14/michael-dourson-university-of-cincinnati-college-of-medicine-professor-withdraws-his-nomination-for-an-assistant-administrator-position-wi.md)
-Michael Dourson, Trump&#x27;s pick to lead the federal toxic chemicals office, has withdrawn his nomination after a backlash over his close ties to industry.
-
----
-
-## [Previous Day...](/news/2017/12/13/index.md)
+## [Previous Day...](/news/2017/12/14/index.md)
 
 ---
 

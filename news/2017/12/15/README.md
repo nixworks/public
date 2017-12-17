@@ -3,11 +3,11 @@ Formats: [HTML](2017/12/15/index.html)  [JSON](2017/12/15/index.json)  [XML](201
 
 ## [2017-12-15](/news/2017/12/15/index.md)
 
-### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. Israelis shoot two Palestinians dead in Gaza and two on the West Bank, wounding 150 people. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
+### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
 _Context: Bethlehem, Gaza, Hebron, Israeli army, Israeli-Palestinian conflict, Jerusalem, Palestinians, Qalandia, Qalqilya, Ramallah, United States recognition of Jerusalem as Israeli capital, West Bank, status of Jerusalem_
 
 ### [Beate Uhse AG, supplier of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). ](/news/2017/12/15/beate-uhse-ag-supplier-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-se.md)
-_Context: Beate Uhse AG, Beate Uhse-Rotermund, Flensburg, Germany, refinancing, sex shop_
+Germany-based sex shop chain Beate Uhse AG says its holding company is filing for bankruptcy restructuring after failing to raise financing from investors and restructure its debts.
 
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
 _Context: Irish, Ryanair, labour unions, low-cost carrier_
