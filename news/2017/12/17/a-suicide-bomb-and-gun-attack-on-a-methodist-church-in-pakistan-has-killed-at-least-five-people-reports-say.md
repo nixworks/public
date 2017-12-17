@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/17/a-suicide-bomb-and-gun-attack-on-a-methodist-ch
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
-# A suicide bomb and gun attack on a Methodist church in Pakistan has killed at least five people, reports say.
+# A suicide bomb and gun attack on a Methodist church in Pakistan has killed at least five people, reports say. 
 
 
 
