@@ -21,5 +21,8 @@ _Context: Australian House of Representatives, Bennelong by-election, Labor, Lib
 ### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md)
 _Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa, President, gather, term expires in 2019_
 
+### [The existence of a U.S. government program that investigated reports of UFOs is revealed. ](/news/2017/12/16/the-existence-of-a-u-s-government-program-that-investigated-reports-of-ufos-is-revealed.md)
+The shadowy program began in 2007 and was largely funded at the request of Harry Reid, the former Senate majority leader, who has had a longtime interest in space phenomena.
+
 ## [Previous Day...](/news/2017/12/15/index.md)
 
