@@ -28,7 +28,7 @@ Six suspects charged with attempting to overthrow constitutional order, governme
 _Context: Beirut, Hassan Nasrallah, Hezbollah political activities, Israel, Secretary-General of Hezbollah_
 
 ### [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md)
-_Context: Mikheil Saakashvili, Ukrainian Crisis, house arrest, opposition leader_
+_Context: Mikheil Saakashvili, Ukrainian crisis, house arrest, opposition leader_
 
 ### [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On 16 January 2018, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-16-january-2018-he-is-to-take-over-the-reins-from-his-mo.md)
 The Congress on Monday named Rahul Gandhi its new president. &quot;I hereby declare Shri Rahul Gandhi elected as the president of the Indian National Congress,&quot; senior party leader Mullappally Ramachandran said at a press conference in Delhi.

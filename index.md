@@ -21,8 +21,8 @@ Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanction
 ### [Voters choose their next president from two second-round candidates: Sebastian Pinera and Alejandro Guillier. ](/news/2017/12/17/voters-choose-their-next-president-from-two-second-round-candidates-sebastia-n-pia-era-and-alejandro-guillier.md)
 Voting has begun in Chile&#39;s presidential runoff election that pits conservative billionaire Sebastian Pinera against center-left journalist Alejandro Guillier. Analysts say the race could go either way. 
 
-### [Several hundred people are injured in clashes at the October Palace, Kiev, between police and anti-Petro Poroshenko protestors, who demand his resignation. ](/news/2017/12/17/several-hundred-people-are-injured-in-clashes-at-the-october-palace-kiev-between-police-and-anti-petro-poroshenko-protestors-who-demand-h.md)
-_Context: Kiev, October Palace, Petro Poroshenko, Ukrainian Crisis, police_
+### [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md)
+_Context: Kiev, Mikheil Saakashvili, October Palace, Petro Poroshenko, Ukrainian crisis, Ukrainian police_
 
 ---
 
