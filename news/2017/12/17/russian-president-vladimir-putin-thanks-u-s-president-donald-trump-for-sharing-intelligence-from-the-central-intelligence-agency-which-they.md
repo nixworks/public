@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-pre
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
-# Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terror plot in Saint Petersburg. 
+# Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. 
 
 
 

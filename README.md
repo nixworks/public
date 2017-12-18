@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/18/index.md)
 
-### [At least three people are killed and many others injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new high-speed "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-many-others-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county.md)
+### [At least six people are killed and many others injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-six-people-are-killed-and-many-others-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county.md)
 First responders are treating the derailment in Washington state as a mass casualty incident
 
 ### [Sebastian Kurz becomes the new Chancellor of Austria and a new government is inaugurated. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-inaugurated.md)
@@ -15,6 +15,9 @@ Cyril Ramaphosa has won the race to become the new ANC president. David Mabuza h
 ### [President of the United States Donald Trump is to present a new National Security Strategy document today. He is expected to declare China a "strategic competitor". ](/news/2017/12/18/president-of-the-united-states-donald-trump-is-to-present-a-new-national-security-strategy-document-today-he-is-expected-to-declare-china-a.md)
 President Donald Trump will declare China a “strategic competitor’’ to the U.S. in a speech that lays out an official national security strategy heavily influenced by his views on trade and economic relations, senior administration officials said.
 
+### [The Unites States vetoes an United Nations Security Council resolution, approved by the other 14 members, calling for the declaration to be withdrawn. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-approved-by-the-other-14-members-calling-for-the-declaration-to-be.md)
+_Context: United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
+
 ---
 
 ## [Yesterday](/news/2017/12/17/index.md)
@@ -22,37 +25,37 @@ President Donald Trump will declare China a “strategic competitor’’ to the
 ### [A suicide bomb and gun attack on a Methodist church in Pakistan kills nine people. ](/news/2017/12/17/a-suicide-bomb-and-gun-attack-on-a-methodist-church-in-pakistan-kills-nine-people.md)
 At least 30 injured; police, eyewitnesses say timely response prevented more casualties.
 
-### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chase-down-his-car.md)
+### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md)
 _Context: Libya, Misurata_
 
-### [A Russian airstrike, allegedly using napalm, kills at least 10 civilians, including four children and six women, in Idlib's town of Khan Shaykhun. ](/news/2017/12/17/a-russian-airstrike-allegedly-using-napalm-kills-at-least-10-civilians-including-four-children-and-six-women-in-idlib-s-town-of-khan-sha.md)
-_Context: Idlib, Khan Shaykhun, Russia, Syrian Civil War, napalm_
+### [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md)
+_Context: Idlib, Khan Shaykhun, Russia, Syrian Civil War, White Helmets, napalm_
 
 ### [Venezuela and Rosneft sign agreements on gas exploration and exploitation. ](/news/2017/12/17/venezuela-and-rosneft-sign-agreements-on-gas-exploration-and-exploitation.md)
 President of the Republic, Nicol&#225;s Maduro, held a meeting with CEO of Rosneft, Igor Sechin, to bolster the joint work between Venezuela…
 
-### [At least six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/at-least-six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md)
+### [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md)
 A seventh person was critically injured in the accident in Birmingham involving multiple vehicles.
 
 ### [A power failure at Hartsfield-Jackson Atlanta International Airport results in the cancellation of more than 1,100 flights, and leaves hundreds of passengers stranded. ](/news/2017/12/17/a-power-failure-at-hartsfieldajackson-atlanta-international-airport-results-in-the-cancellation-of-more-than-1-100-flights-and-leaves-hun.md)
 More than 1,150 flights into or out of Atlanta were canceled, and passengers were left in the dark at the world’s busiest airport for passenger traffic.
 
-### [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially," his nation will open an embassy in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-his-nation-will-open-an-embassy-in-east-jerusalem.md)
+### [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md)
 Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open an embassy in east Jerusalem, a move that follows the United States’s decision to recognize Jerusalem as the capital of Israel.
 
 ### [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md)
 Both countries share land borders with Kim Jong Un&#039;s secretive state.
 
-### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terror plot in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
+### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
 _Context: Central Intelligence Agency, Donald Trump, Russia-United States relations, Saint Petersburg, Vladimir Putin_
 
 ### [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md)
 Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanctions and weapons laws.
 
-### [Voters choose their next president from two second-round candidates: Sebastian Pinera and Alejandro Guillier. Pinera is elected. ](/news/2017/12/17/voters-choose-their-next-president-from-two-second-round-candidates-sebastia-n-pia-era-and-alejandro-guillier-pia-era-is-elected.md)
+### [Voters choose Sebastian Pinera over Alejandro Guillier as their next president in a run-off election. ](/news/2017/12/17/voters-choose-sebastia-n-pia-era-over-alejandro-guillier-as-their-next-president-in-a-run-off-election.md)
 Voting has begun in Chile&#39;s presidential runoff election that pits conservative billionaire Sebastian Pinera against center-left journalist Alejandro Guillier. Analysts say the race could go either way. 
 
-### [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md)
+### [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md)
 _Context: Kiev, Mikheil Saakashvili, October Palace, Petro Poroshenko, Ukrainian crisis, Ukrainian police_
 
 ---
