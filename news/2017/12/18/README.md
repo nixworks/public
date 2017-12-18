@@ -21,7 +21,7 @@ Cyril Ramaphosa has won the race to become the new ANC president. David Mabuza h
 ### [President of the United States Donald Trump presents a new National Security Strategy document and declares China a "strategic competitor". ](/news/2017/12/18/president-of-the-united-states-donald-trump-presents-a-new-national-security-strategy-document-and-declares-china-a-strategic-competitor.md)
 President Donald Trump will declare China a “strategic competitor’’ to the U.S. in a speech that lays out an official national security strategy heavily influenced by his views on trade and economic relations, senior administration officials said.
 
-### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-jerusalem-wh.md)
+### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
 _Context: United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
 
 ## [Previous Day...](/news/2017/12/17/index.md)
