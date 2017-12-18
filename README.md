@@ -13,7 +13,7 @@ Sebastian Kurz will become Austria’s 14th postwar chancellor on Monday amid pr
 ### [A suicide bomb and gun attack on a Methodist church in Pakistan kills nine people. ](/news/2017/12/17/a-suicide-bomb-and-gun-attack-on-a-methodist-church-in-pakistan-kills-nine-people.md)
 At least 30 injured; police, eyewitnesses say timely response prevented more casualties.
 
-### [Gunmen shot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chased down his car. ](/news/2017/12/17/gunmen-shot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chased-down-his-car.md)
+### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, as they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-as-they-chase-down-his-car.md)
 _Context: Libya, Misurata_
 
 ### [A Russian airstrike, allegedly using napalm, kills at least 10 civilians, including four children and six women, in Idlib's town of Khan Shaykhun. ](/news/2017/12/17/a-russian-airstrike-allegedly-using-napalm-kills-at-least-10-civilians-including-four-children-and-six-women-in-idlib-s-town-of-khan-sha.md)
