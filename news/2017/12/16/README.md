@@ -15,8 +15,8 @@ The sister of Honduran President Juan Orlando Hernandez and five others died whe
 ### [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md)
 A search continues for 15 people missing, after five died in a village in the south of the country.
 
-### [The Liberals keep a one-seat majority in the Australian House of Representatives after winning the Bennelong by-election against a Labor candidate. ](/news/2017/12/16/the-liberals-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-winning-the-bennelong-by-election-against-a-labor-can.md)
-_Context: Australian House of Representatives, Bennelong by-election, Labor, Liberals, Politics of Australia_
+### [The Coalition keep a one-seat majority in the Australian House of Representatives after the Liberals win the Bennelong by-election. ](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-the-liberals-win-the-bennelong-by-election.md)
+_Context: Australian House of Representatives, Bennelong by-election, Coalition, Liberals, Politics of Australia_
 
 ### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md)
 _Context: African National Congress, Jacob Zuma, Johannesburg, Politics of South Africa, President, gather, term expires in 2019_
