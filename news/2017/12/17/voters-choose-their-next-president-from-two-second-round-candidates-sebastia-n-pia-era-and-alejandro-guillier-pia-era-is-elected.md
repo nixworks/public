@@ -10,8 +10,9 @@ Voting has begun in Chile&#39;s presidential runoff election that pits conservat
 
 ### Sources:
 
-1. [Deutsche Welle](http://www.dw.com/en/chile-votes-in-tightly-contested-presidential-race/a-41827339)
-1. [Cover Image](http://www.dw.com/image/41828867_304.jpg)
+1. [CNN](http://edition.cnn.com/2017/12/17/americas/chile-election-sebastian-pinera/index.html)
+2. [Deutsche Welle](http://www.dw.com/en/chile-votes-in-tightly-contested-presidential-race/a-41827339)
+2. [Cover Image](http://www.dw.com/image/41828867_304.jpg)
 
 ### Changes:
 
