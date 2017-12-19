@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/8/hurricane-jose-intensifies-into-an-extremely-dangerous-category-4-hurricane-as-it-nears-the-northern-leeward-islands-according-to-the-nat.html)  [JSON](/news/2017/09/8/hurricane-jose-intensifies-into-an-extremely-dangerous-category-4-hurricane-as-it-nears-the-northern-leeward-islands-according-to-the-nat.json)  [XML](/news/2017/09/8/hurricane-jose-intensifies-into-an-extremely-dangerous-category-4-hurricane-as-it-nears-the-northern-leeward-islands-according-to-the-nat.xml)  
+
 ### [2017-09-8](/news/2017/09/8/index.md)
 
 # Hurricane Jose intensifies into an "extremely dangerous" Category 4 hurricane as it nears the northern Leeward Islands, according to the National Hurricane Center. 
@@ -5,13 +8,13 @@
 Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irma
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_IRMA_FLORIDA)
 2. [CBS News](https://www.cbsnews.com/news/hurricane-jose-strengthens-extremely-dangerous-category-4-storm/)
 3. [Fox News](http://www.foxnews.com/us/2017/09/08/hurricane-irmas-storm-path-what-should-know.html)
 4. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/082055.shtml)
-5. [Reuters](http://www.reuters.com/article/us-storm-irma/irma-lashes-bahamas-cuba-on-a-path-toward-florida-idUSKCN1BG0KL?il=0)
+5. [Reuters](https://www.reuters.com/article/us-storm-irma/irma-lashes-bahamas-cuba-on-a-path-toward-florida-idUSKCN1BG0KL?il=0)
 6. [Washington Post](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/09/08/extreme-hurricane-irma-closing-in-on-florida-posing-dire-threat/?utm_term=.098a6512a141&wpisrc=al_alert-COMBO-world%252Bnation&wpmk=1)
 6. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/09/08/16e6f5f3-b467-4df8-af67-3a480e092089/hurricane-irma-jose.jpg)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/8/index.html)  [JSON](2017/09/8/index.json)  [XML](2017/09/8/index.xml)  
+
 ## [2017-09-8](/news/2017/09/8/index.md)
 
 ### [Pope Francis, responding to FARC rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-farc-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicte.md)
@@ -16,7 +19,7 @@ The accident happened hours before the duo was due to perform at a resort connec
 The U.S. State Department has approved a package of potential arms sales worth more than $3.8 billion to Bahrain including F-16 jets, upgrades, missiles and patrol boats, a U.S. Official said on Friday.
 
 ### [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md)
-_Context: North Korea, North Korea-Philippines relations, Philippines, United Nations Security Council, missile tests_
+_Context: 2017 North Korean missile tests, North Korea, North Korea-Philippines relations, Philippines, United Nations Security Council_
 
 ### [Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis. ](/news/2017/09/8/qatar-emir-sheikh-tamim-bin-hamad-al-than-telephones-saudi-arabia-crown-prince-mohammad-bin-salman-to-discuss-the-three-month-old-crisis.md)
 Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essential to promoting regional stability and countering the threat of Iran,&quot; according to a White House read out of the calls.

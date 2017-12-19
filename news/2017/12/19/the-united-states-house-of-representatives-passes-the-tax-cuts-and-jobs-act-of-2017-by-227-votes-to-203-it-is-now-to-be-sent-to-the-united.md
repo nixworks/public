@@ -1,0 +1,22 @@
+
+Formats: [HTML](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.html)  [JSON](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.json)  [XML](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.xml)  
+
+### [2017-12-19](/news/2017/12/19/index.md)
+
+# The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. It is now to be sent to the United States Senate for a vote, possibly even tonight. 
+
+The House passed a sweeping tax bill Tuesday that slashes rates for corporations, adds new breaks for other businesses, and reorganizes the individual tax code
+
+
+### Sources:
+
+1. [NBC News](https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161)
+1. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_51/2267356/171219-paul-ryan-tax-vote-ew-141p_4054b3af816f6ec525455e8268a77013.nbcnews-fp-1200-630.jpg)
+
+### Related:
+
+1. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: House of Representatives, United States, United States Senate_
+2. [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md) _Context: House of Representatives, United States, United States Senate_
+3. [ "The New York Times" reports that a website created at the request of United States Representative Peter Hoekstra and Senator Pat Roberts was found to contain detailed information which could help nuclear-capable states produce nuclear weapons. The website was shut down on November 2 following questioning by "The New York Times" and protests by International Atomic Energy Agency officials. ](/news/2006/11/3/the-new-york-times-reports-that-a-website-created-at-the-request-of-united-states-representative-peter-hoekstra-and-senator-pat-roberts-w.md) _Context: House of Representatives, United States, United States Senate_
+4. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives, United States_
+5. [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md) _Context: Tax Cuts and Jobs Act of 2017, United States_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.html)  [JSON](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.json)  [XML](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.xml)  
+
 ### [2017-09-8](/news/2017/09/8/index.md)
 
 # The U.S. State Department has approved a package of potential arms sales worth more than USD$ 3.8 billion to the Kingdom of Bahrain including F-16 jets, upgrades, missiles and patrol boats. 
@@ -5,7 +8,7 @@
 The U.S. State Department has approved a package of potential arms sales worth more than $3.8 billion to Bahrain including F-16 jets, upgrades, missiles and patrol boats, a U.S. Official said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-usa-bahrain-defense/u-s-state-department-approves-3-8-billion-in-arms-sales-to-bahrain-u-s-official-idUSKCN1BJ2L9)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
