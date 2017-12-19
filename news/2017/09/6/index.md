@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/6/index.html)  [JSON](2017/09/6/index.json)  [XML](2017/09/6/index.xml)  
+
 ## [2017-09-6](/news/2017/09/6/index.md)
 
 ### [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md)
@@ -19,7 +22,7 @@ Sustained winds on the ground in Barbuda were recorded at 108 mph.
 Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Muslim refugees returning.
 
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
-_Context: Brussels', EU, European Court of Justice, European migrant crisis, Hungary, Slovakia_
+_Context: Brussels', European Union, European migrant crisis, Hungary, Slovakia, court_
 
 ### [A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. ](/news/2017/09/6/a-last-minute-presentation-to-the-parliament-of-catalonia-results-in-the-formal-approval-of-a-referendum-concerning-independence-from-spain.md)
 Catalan lawmakers are voting on a bill that will allow regional authorities to officially call an Oct. 1 referendum on a split from Spain, making concrete a years-long defiance of central authorities, who see the vote as illegal. The so-called &quot;referendum bill&quot; was included at the last...

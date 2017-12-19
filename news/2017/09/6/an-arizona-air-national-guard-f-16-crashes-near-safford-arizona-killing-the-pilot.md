@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.html)  [JSON](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.json)  [XML](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.xml)  
+
 ### [2017-09-6](/news/2017/09/6/index.md)
 
 # An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](https://www.cbsnews.com/news/f16-crash-accident-arizona-safford-air-national-guard-162nd-wing/)
 1. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/09/05/4dc32b49-c187-4f27-9cb1-fc933fb71f37/170905-arizona-national-guard-f16.jpg)

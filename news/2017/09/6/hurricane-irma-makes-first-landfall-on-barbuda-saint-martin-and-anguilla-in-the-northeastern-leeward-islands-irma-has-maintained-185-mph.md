@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.html)  [JSON](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.json)  [XML](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.xml)  
+
 ### [2017-09-6](/news/2017/09/6/index.md)
 
 # Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. 
@@ -5,7 +8,7 @@
 Sustained winds on the ground in Barbuda were recorded at 108 mph.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/hurricane-irma-destroys-90-percent-structures-vehicles-barbuda/story?id=49665358)
 2. [ABC News](http://abcnews.go.com/US/hurricane-irma-slams-caribbean-florida-face-direct-impacts/story?id=49645643)
