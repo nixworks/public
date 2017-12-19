@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.html)  [JSON](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.json)  [XML](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.xml)  
+
 ### [2017-08-30](/news/2017/08/30/index.md)
 
 # Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. 
@@ -5,7 +8,7 @@
 Breakthrough Listen detected more radio pulses from the famous repeating source FRB 121102. They’re higher frequency than previous ones but we still don’t know what causes them
 
 
-### Source:
+### Sources:
 
 1. [New Scientist](https://www.newscientist.com/article/2145822-weve-just-seen-15-new-mysterious-cosmic-radio-bursts-from-space/)
 2. [Phys](https://phys.org/news/2017-08-distant-galaxy-high-energy-radio.html)

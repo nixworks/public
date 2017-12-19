@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.html)  [JSON](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.json)  [XML](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.xml)  
+
 ### [2017-08-30](/news/2017/08/30/index.md)
 
 # The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_MED_CANCER_GENE_THERAPY?SITE=AP&)
+
+### Changes:
+
+1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md) _2017-08-31 19:30:05 (First version)_
+1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md) _Context: Food and Drug Administration, Gene therapy_
 4. [The journal "Protein & Cell" publishes Sun Yat-sen University research describing the use of gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/the-journal-protein-cell-publishes-sun-yat-sen-university-research-describing-the-use-of-gene-therapy-in-the-removal-of-a-version-of-the.md) _Context: Gene therapy_
 5. [The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse. Endo is evaluating its options. ](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharmaceutical-manufacturer-endo-international-plc-to-withdraw-its-long-lasting-12-hours-opioid.md) _Context: Food and Drug Administration_
-
-### Changes:
-
-1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md) _2017-08-31 19:30:05 (First version)_
-1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md) _(Current version)_

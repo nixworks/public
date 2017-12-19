@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/30/index.html)  [JSON](2017/08/30/index.json)  [XML](2017/08/30/index.xml)  
+
 ## [2017-08-30](/news/2017/08/30/index.md)
 
 ### [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md)
