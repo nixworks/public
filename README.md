@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. ](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-according-to-th.md)
 Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
 
-### [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80mph on a 30mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80mph-on-a-30mph-track-the-positive-train-contr.md)
+### [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md)
 Investigators focus on how fast the Amtrak train took a bend that had reduced speed warnings.
 
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. It is now to be sent to the United States Senate for a vote, possibly even tonight. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.md)
@@ -25,7 +25,7 @@ Cole Hamels showed his Christmas spirit early this year. The Rangers ace and his
 ### [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched the same morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md)
 First responders are treating the derailment in Washington state as a mass casualty incident
 
-### [ Polish MiG-29 crash lands into a forest near Minsk Mazowiecki. Extremely lucky pilot survives despite not ejecting. ](/news/2017/12/18/polish-mig-29-crash-lands-into-a-forest-near-miask-mazowiecki-extremely-lucky-pilot-survives-despite-not-ejecting.md)
+### [ A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. ](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-miask-mazowiecki-the-pilot-survived-despite-not-ejecting.md)
 _Context: MiG-29, Minsk Mazowiecki_
 
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
