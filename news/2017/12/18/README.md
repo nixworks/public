@@ -3,11 +3,17 @@ Formats: [HTML](2017/12/18/index.html)  [JSON](2017/12/18/index.json)  [XML](201
 
 ## [2017-12-18](/news/2017/12/18/index.md)
 
+### [Twitter suspends the accounts of well-known white nationalists per recently implemented new offensive content rules. ](/news/2017/12/18/twitter-suspends-the-accounts-of-well-known-white-nationalists-per-recently-implemented-new-offensive-content-rules.md)
+Including Britain First, which gained recognition after Trump&#x27;s retweets 
+
 ### [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md)
 First responders are treating the derailment in Washington state as a mass casualty incident
 
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
 _Context: Jerusalem, United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
+
+### [The United States claims North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-claims-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier-this-year.md)
+A White House official points the finger at Pyongyang for the WannaCry malware attack last May.
 
 ### [U.S. radio preacher Brother Stair is arrested on eight charges of sexual assault. ](/news/2017/12/18/u-s-radio-preacher-brother-stair-is-arrested-on-eight-charges-of-sexual-assault.md)
 Colleton County Sheriff’s Office personnel arrived at the Overcomer Ministry at 12680 Augusta Highway early Monday morning to take Ralph G. Stair, the leader of the religious compound, into custody on eight criminal charges. Lt. Tyger Benton, public information officer of the Colleton County Sheri...
@@ -23,6 +29,9 @@ Cyril Ramaphosa has won the race to become the new ANC president. David Mabuza h
 
 ### [President of the United States Donald Trump presents a new National Security Strategy document that labels China and Russia as the primary threats to U.S. economic dominance. ](/news/2017/12/18/president-of-the-united-states-donald-trump-presents-a-new-national-security-strategy-document-that-labels-china-and-russia-as-the-primary-t.md)
 He outlines &quot;four pillars&quot; of new plan, which no longer labels climate change a threat.
+
+### [University of California, Los Angeles, and University of Wisconsin-Madison researchers report, in the "Proceedings of the National Academy of Sciences", that microscopic fossils discovered in a nearly 3.5 billion-year-old piece of rock in Western Australia are the oldest fossils ever found and the earliest direct evidence of life on Earth. ](/news/2017/12/18/university-of-california-los-angeles-and-university-of-wisconsinamadison-researchers-report-in-the-proceedings-of-the-national-academy.md)
+Researchers at UCLA and the University of Wisconsin-Madison have confirmed that microscopic fossils discovered in a nearly 3.5 billion-year-old piece of rock in Western Australia are the oldest fossils ever found and indeed the earliest direct evidence of life on Earth.
 
 ## [Previous Day...](/news/2017/12/17/index.md)
 
