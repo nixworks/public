@@ -18,7 +18,7 @@ _Context: Air Defense Identification Zone, Foreign relations of China, South Kor
 ### [U.S. radio preacher Brother Stair is arrested on eight charges of sexual assault. ](/news/2017/12/18/u-s-radio-preacher-brother-stair-is-arrested-on-eight-charges-of-sexual-assault.md)
 Colleton County Sheriff’s Office personnel arrived at the Overcomer Ministry at 12680 Augusta Highway early Monday morning to take Ralph G. Stair, the leader of the religious compound, into custody on eight criminal charges. Lt. Tyger Benton, public information officer of the Colleton County Sheri...
 
-### [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. The 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-the-220-page-report-on-the-deadly-august-11a12-2017-unite.md)
+### [Charlottesville Police Chief Alfred Thomas announces his immediate retirement. A 220-page report on the deadly August 11-12, 2017, Unite the Right rally was released on December 1. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-immediate-retirement-a-220-page-report-on-the-deadly-august-11a12-2017-unite-t.md)
 Accused by a stinging report of a &quot;slow-footed response&quot; to violence at the rally, and amid claims that he intimidated officers, Alfred Thomas is retiring. His deputy will take over as interim chief.
 
 ### [Sebastian Kurz becomes the new Chancellor of Austria and a new government is inaugurated. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-inaugurated.md)
