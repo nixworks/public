@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/18/president-of-the-united-states-donald-trump-pre
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
-# President of the United States Donald Trump presents a new National Security Strategy document that labels China and Russia as the primary threats to US economic dominance. 
+# President of the United States Donald Trump presents a new National Security Strategy document that labels China and Russia as the primary threats to U.S. economic dominance. 
 
 He outlines &quot;four pillars&quot; of new plan, which no longer labels climate change a threat.
 
@@ -17,7 +17,7 @@ He outlines &quot;four pillars&quot; of new plan, which no longer labels climate
 
 1. [President of the United States Donald Trump is to present a new National Security Strategy document today. He is expected to declare China a "strategic competitor". ](/news/2017/12/18/president-of-the-united-states-donald-trump-is-to-present-a-new-national-security-strategy-document-today-he-is-expected-to-declare-china-a.md) _2017-12-18 19:30:06 (First version)_
 2. [President of the United States Donald Trump presents a new National Security Strategy document and declares China a "strategic competitor". ](/news/2017/12/18/president-of-the-united-states-donald-trump-presents-a-new-national-security-strategy-document-and-declares-china-a-strategic-competitor.md) _2017-12-18 22:30:06 (Update)_
-2. [President of the United States Donald Trump presents a new National Security Strategy document that labels China and Russia as the primary threats to US economic dominance. ](/news/2017/12/18/president-of-the-united-states-donald-trump-presents-a-new-national-security-strategy-document-that-labels-china-and-russia-as-the-primary-t.md) _(Current version)_
+2. [President of the United States Donald Trump presents a new National Security Strategy document that labels China and Russia as the primary threats to U.S. economic dominance. ](/news/2017/12/18/president-of-the-united-states-donald-trump-presents-a-new-national-security-strategy-document-that-labels-china-and-russia-as-the-primary-t.md) _(Current version)_
 
 ### Related:
 

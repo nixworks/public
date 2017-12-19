@@ -7,7 +7,7 @@ Formats: [HTML](2017/12/17/index.html)  [JSON](2017/12/17/index.json)  [XML](201
 At least 30 injured; police, eyewitnesses say timely response prevented more casualties.
 
 ### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md)
-_Context: Libya, Misurata_
+_Context: Libya, Libyan Civil War (2014-present), Misurata_
 
 ### [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md)
 _Context: Idlib, Khan Shaykhun, Russia, Syrian Civil War, White Helmets, napalm_
@@ -21,7 +21,7 @@ A seventh person was critically injured in the accident in Birmingham involving 
 ### [A power failure at Hartsfield-Jackson Atlanta International Airport results in the cancellation of more than 1,100 flights, and leaves hundreds of passengers stranded. ](/news/2017/12/17/a-power-failure-at-hartsfieldajackson-atlanta-international-airport-results-in-the-cancellation-of-more-than-1-100-flights-and-leaves-hun.md)
 More than 1,150 flights into or out of Atlanta were canceled, and passengers were left in the dark at the world’s busiest airport for passenger traffic.
 
-### [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md)
+### [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy to Palestine in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md)
 Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open an embassy in east Jerusalem, a move that follows the United States’s decision to recognize Jerusalem as the capital of Israel.
 
 ### [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md)
