@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
-# At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. 
+# At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched the same morning. 
 
 First responders are treating the derailment in Washington state as a mass casualty incident
 
@@ -20,7 +20,7 @@ First responders are treating the derailment in Washington state as a mass casua
 1. [At least three people are killed and many others injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new high-speed "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-many-others-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county.md) _2017-12-18 18:30:05 (First version)_
 2. [At least six people are killed and many others injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-six-people-are-killed-and-many-others-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county.md) _2017-12-18 19:30:06 (Update)_
 3. [At least six people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-six-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washingto.md) _2017-12-19 00:30:06 (Update)_
-3. [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md) _(Current version)_
+3. [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched the same morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md) _(Current version)_
 
 ### Related:
 

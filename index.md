@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/19/index.md)
 
-### [Saudi Arabia says Houthi rebels launch a missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. The missile was allegedly intercepted by the Saudi Arabian Air Force. ](/news/2017/12/19/saudi-arabia-says-houthi-rebels-launch-a-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-the-missile-was-all.md)
+### [Saudi Arabia says that Houthi rebels launch a missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. The missile was allegedly intercepted by the Saudi Arabian Air Force. ](/news/2017/12/19/saudi-arabia-says-that-houthi-rebels-launch-a-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-the-missile-wa.md)
 Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
 
 ---
@@ -16,13 +16,13 @@ Including Britain First, which gained recognition after Trump&#x27;s retweets
 ### [Texas Rangers baseball pitcher Cole Hamels and his wife Heidi donate their mansion and 100 acres of land in southwestern Missouri, valued at nearly $10 million, to Camp Barnabas, a charity with camps in the Missouri Ozarks for children with special needs and chronic illnesses along with their siblings. ](/news/2017/12/18/texas-rangers-baseball-pitcher-cole-hamels-and-his-wife-heidi-donate-their-mansion-and-100-acres-of-land-in-southwestern-missouri-valued-at.md)
 Cole Hamels showed his Christmas spirit early this year. The Rangers ace and his wife, Heidi, are donating a mansion and 100 acres of land in southwest Missouri to a charity that provides camps for…
 
-### [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched this morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md)
+### [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched the same morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md)
 First responders are treating the derailment in Washington state as a mass casualty incident
 
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
 _Context: Jerusalem, United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
 
-### [The United States claims North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-claims-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier-this-year.md)
+### [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md)
 A White House official points the finger at Pyongyang for the WannaCry malware attack last May.
 
 ### [U.S. radio preacher Brother Stair is arrested on eight charges of sexual assault. ](/news/2017/12/18/u-s-radio-preacher-brother-stair-is-arrested-on-eight-charges-of-sexual-assault.md)
