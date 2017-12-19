@@ -15,7 +15,7 @@ Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, g
 ### [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md)
 _Context: Federal Communications Commission, Net neutrality in the United States, net neutrality_
 
-### [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing four pupils on the bus. A fifth victim dies the next day. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-four-pupils-on-the-bus-a-fifth.md)
+### [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing six pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-six-pupils-on-the-bus.md)
 A train and a school bus collide in southern France, leaving at least four children dead, officials say.
 
 ### [A firefighter is killed while battling the Thomas Fire, the second death linked to the fourth largest wildfire in California history. ](/news/2017/12/14/a-firefighter-is-killed-while-battling-the-thomas-fire-the-second-death-linked-to-the-fourth-largest-wildfire-in-california-history.md)
