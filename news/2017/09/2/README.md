@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/2/index.html)  [JSON](2017/09/2/index.json)  [XML](2017/09/2/index.xml)  
+
 ## [2017-09-2](/news/2017/09/2/index.md)
 
 ### [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md)

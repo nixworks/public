@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.html)  [JSON](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.json)  [XML](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.xml)  
+
 ### [2017-09-2](/news/2017/09/2/index.md)
 
 # Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. 
@@ -5,9 +8,9 @@
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-attacks/suicide-bombers-attack-power-station-north-of-baghdad-killing-seven-police-idUSKCN1BD0EQ)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-attacks/suicide-bombers-attack-power-station-north-of-baghdad-killing-seven-police-idUSKCN1BD0EQ)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

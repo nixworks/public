@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.html)  [JSON](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.json)  [XML](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.xml)  
+
 ### [2017-09-3](/news/2017/09/3/index.md)
 
 # The European X-ray free-electron laser is inaugurated in Hamburg, Germany. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [XFEL](https://www.xfel.eu/news_and_events/news/index_eng.html?openDirectAnchor=1323&two_columns=0)
 

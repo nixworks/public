@@ -3,8 +3,8 @@ Formats: [HTML](2017/12/19/index.html)  [JSON](2017/12/19/index.json)  [XML](201
 
 ## [2017-12-19](/news/2017/12/19/index.md)
 
-### [The United States claims North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/19/the-united-states-claims-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier-this-year.md)
-A White House official points the finger at Pyongyang for the WannaCry malware attack last May.
+### [Houthi rebels launch a missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. The missile was intercepted by the Saudi Arabian Air Force. ](/news/2017/12/19/houthi-rebels-launch-a-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-the-missile-was-intercepted-by-the-sa.md)
+Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
 
 ## [Previous Day...](/news/2017/12/18/index.md)
 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/3/index.html)  [JSON](2017/09/3/index.json)  [XML](2017/09/3/index.xml)  
+
 ## [2017-09-3](/news/2017/09/3/index.md)
 
 ### [The "Cambodia Daily" newspaper announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia. ](/news/2017/09/3/the-cambodia-daily-newspaper-announces-it-will-publish-its-final-edition-after-being-ordered-to-pay-usd-6-3-million-in-taxes-as-a-result-o.md)
