@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/1/index.html)  [JSON](2017/09/1/index.json)  [XML](2017/09/1/index.xml)  
+
 ## [2017-09-1](/news/2017/09/1/index.md)
 
 ### [Hurricane Irma, now a Category 2 hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the Leeward Islands in the Caribbean next Thursday. ](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.md)
@@ -10,7 +13,7 @@ _Context: Environmental Science & Technology, Great Lakes, Lakes Erie, Niagara R
 _Context: 2017 North Korea crisis, Donald Trump, Moon Jae-in, South Korea, South Korea Ballistic Missile Range Guidelines, South Korea-United States relations_
 
 ### [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md)
-_Context: Chicago, Illinois, President, Richard Posner, Ronald Reagan, United States Court of Appeals for the Seventh Circuit, United States federal judge_
+_Context: Chicago, Federal District Judge, Illinois, Richard Posner, Ronald Reagan, U.S. President, United States Court of Appeals for the Seventh Circuit_
 
 ### [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md)
 Jacinda Ardern says in debate with PM she is taking nothing for granted after poll gives her party a two-point advantage

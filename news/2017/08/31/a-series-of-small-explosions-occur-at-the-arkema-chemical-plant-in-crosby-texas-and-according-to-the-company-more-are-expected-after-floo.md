@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.html)  [JSON](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.json)  [XML](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.xml)  
 
-* [HTML](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.html)
-* [JSON](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.json)
-* [XML](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, and according to the company more are expected, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. 

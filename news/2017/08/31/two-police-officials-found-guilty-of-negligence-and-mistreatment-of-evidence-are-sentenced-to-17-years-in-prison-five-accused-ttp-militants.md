@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.html)  [JSON](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.json)  [XML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.xml)  
 
-* [HTML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.html)
-* [JSON](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.json)
-* [XML](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. 

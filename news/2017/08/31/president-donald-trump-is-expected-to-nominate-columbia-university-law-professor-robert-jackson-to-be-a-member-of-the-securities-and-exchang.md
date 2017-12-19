@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.html)  [JSON](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.json)  [XML](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.xml)  
 
-* [HTML](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.html)
-* [JSON](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.json)
-* [XML](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission. 
@@ -13,7 +10,7 @@ U.S. President Donald Trump is expected to nominate Columbia University law prof
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-sec-jackson-idUSKCN1BC3ED?il=0)
+1. [Reuters](https://www.reuters.com/article/us-usa-sec-jackson-idUSKCN1BC3ED?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

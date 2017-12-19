@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.html)  [JSON](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.json)  [XML](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.xml)  
+
 ### [2017-09-1](/news/2017/09/1/index.md)
 
 # Hurricane Irma, now a Category 2 hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the Leeward Islands in the Caribbean next Thursday. 

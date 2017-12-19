@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.html)  [JSON](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.json)  [XML](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.xml)  
 
-* [HTML](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.html)
-* [JSON](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.json)
-* [XML](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.xml)
 ### [2017-08-31](/news/2017/08/31/index.md)
 
 # A rickety multi-story apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. 
