@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.html)  [JSON](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.json)  [XML](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.xml)  
+
 ### [2017-08-27](/news/2017/08/27/index.md)
 
 # A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. 
@@ -5,10 +8,16 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-ship-sinking-idUSKCN1B70DE?il=0)
+1. [Reuters](https://www.reuters.com/article/us-turkey-ship-sinking-idUSKCN1B70DE?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md) _2017-08-27 11:30:05 (First version)_
+2. [Maritime incidents in 2017: A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/maritime-incidents-in-2017-a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early.md) _2017-08-27 17:30:05 (Update)_
+2. [A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +26,3 @@
 3. [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md) _Context: Maritime incidents in 2017_
 4. [Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. ](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.md) _Context: Black Sea_
 5. [A Russian Tu-154 military passenger airplane carrying 92 people including the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff from Sochi. The airplane was headed towards Khmeimim, Syria. The Russian Armed Forces are actively involved in the Syrian Civil War. ](/news/2016/12/25/a-russian-tu-154-military-passenger-airplane-carrying-92-people-including-the-alexandrov-ensemble-crashes-into-the-black-sea-shortly-after-t.md) _Context: Black Sea_
-
-### Changes:
-
-1. [A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md) _2017-08-27 11:30:05 (First version)_
-2. [Maritime incidents in 2017: A dry cargo vessel broke in two in the Black Sea off Turkey-s northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. Leonardo, a 114-meter-long dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul-s Kilyos coast. ](/news/2017/08/27/maritime-incidents-in-2017-a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkey-s-northwest-coast-television-images-showed-early.md) _2017-08-27 17:30:05 (Update)_
-2. [A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md) _(Current version)_

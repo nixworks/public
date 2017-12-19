@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.html)  [JSON](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.json)  [XML](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.xml)  
+
 ### [2017-08-29](/news/2017/08/29/index.md)
 
 # The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. 
@@ -5,10 +8,15 @@
 Rivers were still rising and rescue work continued in southeast Texas, where officials warned that for many people, conditions will not improve soon.
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/08/29/us/hurricane-harvey-storm-flooding.html?emc=edit_na_20170829&nl=breaking-news&nlid=66213151&ref=cta)
 1. [Cover Image](https://static01.nyt.com/images/2017/08/30/us/30live-storm2/30live-storm2-facebookJumbo.jpg)
+
+### Changes:
+
+1. [The death toll from Hurricane Harvey reaches 19 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-19-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _2017-08-30 07:30:05 (First version)_
+1. [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Hurricane Harvey_
 4. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Hurricane Harvey_
 5. [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-estimates-ranging-from.md) _Context: Hurricane Harvey_
-
-### Changes:
-
-1. [The death toll from Hurricane Harvey reaches 19 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-19-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _2017-08-30 07:30:05 (First version)_
-1. [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _(Current version)_

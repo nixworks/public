@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.html)  [JSON](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.json)  [XML](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.xml)  
+
 ### [2017-08-28](/news/2017/08/28/index.md)
 
 # India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. 
@@ -5,7 +8,7 @@
 India and China have agreed to end a months-long military stand-off at a disputed border area in the Himalayas, with Indian troops already beginning to pull out, officials say.
 
 
-### Source:
+### Sources:
 
 1. [news.com.au](http://www.news.com.au/world/breaking-news/india-china-end-himalaya-border-standoff/news-story/9fdb6d5d04c8378bcf52d5fa46310a42)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

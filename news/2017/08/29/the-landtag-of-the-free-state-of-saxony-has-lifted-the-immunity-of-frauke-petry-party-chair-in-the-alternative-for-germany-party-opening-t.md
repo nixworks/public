@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.html)  [JSON](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.json)  [XML](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.xml)  
+
 ### [2017-08-29](/news/2017/08/29/index.md)
 
 # The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. 
@@ -5,10 +8,10 @@
 A regional parliament has lifted the immunity of the best known politician in the anti-immigration Alternative for Germany (AfD) party, opening the way for prosecutors to pursue possible perjury charges against her.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-germany-election-afd-idUSKCN1B91F3?il=0)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199031633&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED7S0TW)
+1. [Reuters](https://www.reuters.com/article/us-germany-election-afd-idUSKCN1B91F3?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170829&t=2&i=1199031633&w=1200&r=LYNXNPED7S0TW)
 
 ### Related:
 

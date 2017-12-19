@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.html)  [JSON](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.json)  [XML](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.xml)  
+
 ### [2017-08-28](/news/2017/08/28/index.md)
 
 # At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. 
@@ -5,7 +8,7 @@
 Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-fg-houston-harvey-20170828-story.html)
 1. [Cover Image](http://www.trbimg.com/img-59a48551/turbine/la-fg-houston-harvey-20170828)

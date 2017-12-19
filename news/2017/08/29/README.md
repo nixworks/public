@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/29/index.html)  [JSON](2017/08/29/index.json)  [XML](2017/08/29/index.xml)  
+
 ## [2017-08-29](/news/2017/08/29/index.md)
 
 ### [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md)
@@ -16,7 +19,7 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
 ### [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
-_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., District of Columbia, grand jury_
+_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., Washington, D.C., grand jury_
 
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
 _Context: European migrant crisis, Libyan Navy, Tripoli_
@@ -25,7 +28,7 @@ _Context: European migrant crisis, Libyan Navy, Tripoli_
 A regional parliament has lifted the immunity of the best known politician in the anti-immigration Alternative for Germany (AfD) party, opening the way for prosecutors to pursue possible perjury charges against her.
 
 ### [Defense Secretary James Mattis announces that transgender troops in the military will continue to serve pending the results of a study started in June to assess the Pentagon's ability to fight and win wars. ](/news/2017/08/29/defense-secretary-james-mattis-announces-that-transgender-troops-in-the-military-will-continue-to-serve-pending-the-results-of-a-study-start.md)
-_Context: Defense Secretary, James Mattis, Sexual orientation and gender identity in the United States military, transgender troops in the military_
+_Context: Defense Secretary, James Mattis, Sexual orientation and gender identity in the United States military, Transgender personnel in the United States military_
 
 ## [Previous Day...](/news/2017/08/28/index.md)
 

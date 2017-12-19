@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/08/28/index.html)  [JSON](2017/08/28/index.json)  [XML](2017/08/28/index.xml)  
+
 ## [2017-08-28](/news/2017/08/28/index.md)
 
 ### [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md)
@@ -16,7 +19,7 @@ _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, sam
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
 ### [Two people are killed and four are hospitalized in a shooting in a library in the U.S. town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalized-in-a-shooting-in-a-library-in-the-u-s-town-of-clovis-new-mexico.md)
-A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
+A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library had a troubled past but appeared to have turned his life around after joining a local church, his pastor said Tuesday.
 
 ### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
 _Context: Crime in Mexico, Mexico, Puebla, Tlatlauquitepec_

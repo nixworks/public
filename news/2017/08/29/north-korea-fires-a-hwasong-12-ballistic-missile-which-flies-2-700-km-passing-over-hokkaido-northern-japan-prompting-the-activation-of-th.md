@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.html)  [JSON](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.json)  [XML](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.xml)  
+
 ### [2017-08-29](/news/2017/08/29/index.md)
 
 # North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. 
@@ -5,20 +8,12 @@
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-usa-haley-idUSKCN1B91Q8?il=0)
+1. [Reuters](https://www.reuters.com/article/us-northkorea-missiles-usa-haley-idUSKCN1B91Q8?il=0)
 2. [South China Morning Post](http://www.scmp.com/news/china/diplomacy-defence/article/2108697/north-korea-fires-another-missile-over-japan-reports)
-3. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
+3. [The Independent](https://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
 3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/28/22/north-korea-missile-hwasong14.jpg)
-
-### Related:
-
-1. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: 2017 North Korea crisis, Hokkaido, J-Alert, Japan, North Korea_
-2. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: 2017 North Korea crisis, North Korea_
-3. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: 2017 North Korea crisis, North Korea_
-4. [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md) _Context: 2017 North Korea crisis, North Korea_
-5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: 2017 North Korea crisis, North Korea_
 
 ### Changes:
 
@@ -27,3 +22,11 @@ North Korea has test fired a missile over Japan in an unprecedented act that is 
 3. [North Korea fires a missile which flies 2,700|km|mi, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 1998 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-mi-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-ale.md) _2017-08-29 14:30:05 (Update)_
 4. [North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-alert.md) _2017-08-30 19:30:05 (Update)_
 4. [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md) _(Current version)_
+
+### Related:
+
+1. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: 2017 North Korea crisis, Hokkaido, J-Alert, Japan, North Korea_
+2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: 2017 North Korea crisis, North Korea_
+3. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: 2017 North Korea crisis, Japan_
+4. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: 2017 North Korea crisis, North Korea_
+5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: 2017 North Korea crisis, North Korea_
