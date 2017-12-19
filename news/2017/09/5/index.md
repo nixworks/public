@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/5/index.html)  [JSON](2017/09/5/index.json)  [XML](2017/09/5/index.xml)  
+
 ## [2017-09-5](/news/2017/09/5/index.md)
 
 ### [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md)

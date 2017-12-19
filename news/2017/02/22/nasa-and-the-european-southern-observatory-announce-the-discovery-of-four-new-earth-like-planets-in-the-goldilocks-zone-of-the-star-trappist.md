@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.html)  [JSON](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.json)  [XML](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.xml)  
+
 ### [2017-02-22](/news/2017/02/22/index.md)
 
 # NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. 
@@ -5,7 +8,7 @@
 And all of them are in the temperate zone. 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/mach/space/watch-live-nasa-announces-major-exoplanet-discovery-n724111)
 2. [The Atlantic](https://www.theatlantic.com/science/archive/2017/02/seven-exoplanets/517446/)

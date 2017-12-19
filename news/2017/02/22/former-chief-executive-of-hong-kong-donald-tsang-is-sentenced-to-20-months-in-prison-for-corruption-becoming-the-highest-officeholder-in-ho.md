@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/22/former-chief-executive-of-hong-kong-donald-tsang-is-sentenced-to-20-months-in-prison-for-corruption-becoming-the-highest-officeholder-in-ho.html)  [JSON](/news/2017/02/22/former-chief-executive-of-hong-kong-donald-tsang-is-sentenced-to-20-months-in-prison-for-corruption-becoming-the-highest-officeholder-in-ho.json)  [XML](/news/2017/02/22/former-chief-executive-of-hong-kong-donald-tsang-is-sentenced-to-20-months-in-prison-for-corruption-becoming-the-highest-officeholder-in-ho.xml)  
+
 ### [2017-02-22](/news/2017/02/22/index.md)
 
 # Former Chief Executive of Hong Kong Donald Tsang is sentenced to 20 months in prison for corruption, becoming the highest officeholder in Hong Kong's history to be convicted. 
@@ -5,7 +8,7 @@
 Tsang was found guilty of misconduct in a case linked to renovation work on a luxury flat in China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-39048543)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/0E72/production/_94789630_mediaitem94789629.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.html)  [JSON](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.json)  [XML](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.xml)  
+
 ### [2017-09-7](/news/2017/09/7/index.md)
 
 # Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD 
@@ -5,7 +8,7 @@
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/09/07/technology/amazon-headquarters-north-america.html)
 1. [Cover Image](https://static01.nyt.com/images/2017/09/08/business/08AMAZON3/08AMAZON3-facebookJumbo.jpg)

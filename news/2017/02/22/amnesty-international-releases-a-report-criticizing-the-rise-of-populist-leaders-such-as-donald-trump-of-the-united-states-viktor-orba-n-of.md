@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.html)  [JSON](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.json)  [XML](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.xml)  
+
 ### [2017-02-22](/news/2017/02/22/index.md)
 
 # Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. 
@@ -5,7 +8,7 @@
 &quot;The limits of what is acceptable have shifted,&quot; said the 2016 report.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2017/02/22/amnesty-international-just-went-there-new-report-compares-politics-today-to-the-1930s/)
 

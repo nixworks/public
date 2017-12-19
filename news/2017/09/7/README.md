@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/7/index.html)  [JSON](2017/09/7/index.json)  [XML](2017/09/7/index.xml)  
+
 ## [2017-09-7](/news/2017/09/7/index.md)
 
 ### [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md)
@@ -13,10 +16,10 @@ Criminals gained access to certain files in the company’s system from mid-May 
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
 
 ### [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md)
-_Context: Deferred Action for Childhood Arrivals, Due Process Clause, Trump administraion_
+_Context: DACA, Due Process Clause, Trump administraion_
 
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
-Hurricane Irma strengthened and made landfall in Cuba on Friday as a Category 5 storm, as millions of Florida residents were ordered to evacuate after the storm killed 21 people in the eastern Caribbean and left catastrophic destruction in its wake.
+(In Sept. 13 item, updates to correct spelling of the last name of Michael Beason from Benson, in 19th paragraph and throughout)
 
 ### [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md)
 The death toll from an 8.2-magnitude earthquake that hit Mexico has reached at least 32, according to tallies from local authorities.
