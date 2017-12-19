@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.html)  [JSON](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.json)  [XML](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.xml)  
+
 ### [2017-09-4](/news/2017/09/4/index.md)
 
 # Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-41146886)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/160AD/production/_97658209_capture.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/4/index.html)  [JSON](2017/09/4/index.json)  [XML](2017/09/4/index.xml)  
+
 ## [2017-09-4](/news/2017/09/4/index.md)
 
 ### [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md)

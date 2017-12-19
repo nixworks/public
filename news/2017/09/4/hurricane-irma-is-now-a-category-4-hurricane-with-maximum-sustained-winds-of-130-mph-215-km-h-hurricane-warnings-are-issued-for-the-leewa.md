@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.html)  [JSON](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.json)  [XML](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.xml)  
+
 ### [2017-09-4](/news/2017/09/4/index.md)
 
 # Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. 
@@ -5,11 +8,16 @@
 The island and the state of Florida, have declared states of emergency in anticipation of Irma, which could become the second major storm this year to hit the U.S. East Coast.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2017/09/04/548496195/puerto-rico-prepares-for-a-strengthening-hurricane-irma)
 2. [National Hurricane Center](https://www.washingtonpost.com/world/the_americas/caribbean-islands-begin-preparations-for-hurricane-irma/2017/09/03/a1402540-911b-11e7-8482-8dc9a7af29f9_story.html?utm_term=.59736664ea46)
 2. [Cover Image](https://media.npr.org/assets/img/2017/09/04/untitled2_wide-a9be0e1b6a64f647dda006d0a436110b330f2e72.png?s=1400)
+
+### Changes:
+
+1. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 kp-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-kp-h-hurricane-warnings-are-issued-for-the-leewa.md) _2017-09-05 12:30:05 (First version)_
+1. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ The island and the state of Florida, have declared states of emergency in antici
 3. [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md) _Context: 2017 Atlantic hurricane season, Leeward Islands, Puerto Rico_
 4. [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md) _Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma_
 5. [Hurricane Irma, now a Category 2 hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the Leeward Islands in the Caribbean next Thursday. ](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.md) _Context: 2017 Atlantic hurricane season, Caribbean, Leeward Islands_
-
-### Changes:
-
-1. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 kp-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-kp-h-hurricane-warnings-are-issued-for-the-leewa.md) _2017-09-05 12:30:05 (First version)_
-1. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _(Current version)_

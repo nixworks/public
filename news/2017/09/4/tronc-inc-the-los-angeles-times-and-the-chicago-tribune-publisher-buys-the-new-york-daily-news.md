@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/4/tronc-inc-the-los-angeles-times-and-the-chicago-tribune-publisher-buys-the-new-york-daily-news.html)  [JSON](/news/2017/09/4/tronc-inc-the-los-angeles-times-and-the-chicago-tribune-publisher-buys-the-new-york-daily-news.json)  [XML](/news/2017/09/4/tronc-inc-the-los-angeles-times-and-the-chicago-tribune-publisher-buys-the-new-york-daily-news.xml)  
+
 ### [2017-09-4](/news/2017/09/4/index.md)
 
 # Tronc Inc., the "Los Angeles Times" and the "Chicago Tribune" publisher, buys the "New York Daily News". 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [U.S. News & World Report](https://www.usnews.com/news/business/articles/2017-09-05/the-daily-news-a-storied-new-york-tabloid-is-sold-to-tronc)
 

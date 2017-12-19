@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offers-his-resignation-as-head-of-the-executive-branch-of-taiwan.html)  [JSON](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offers-his-resignation-as-head-of-the-executive-branch-of-taiwan.json)  [XML](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offers-his-resignation-as-head-of-the-executive-branch-of-taiwan.xml)  
+
 ### [2017-09-4](/news/2017/09/4/index.md)
 
 # Premier of the Republic of China Lin Chuan offers his resignation as head of the Executive Branch of Taiwan. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-taiwan-premier/taiwan-premier-resigns-to-help-shore-up-presidents-falling-popularity-idUSKCN1BF0G9?il=0)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170904&t=2&i=1199862282&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED830BH)
+1. [Reuters](https://www.reuters.com/article/us-taiwan-premier/taiwan-premier-resigns-to-help-shore-up-presidents-falling-popularity-idUSKCN1BF0G9?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170904&t=2&i=1199862282&w=1200&r=LYNXNPED830BH)
 
 ### Related:
 
