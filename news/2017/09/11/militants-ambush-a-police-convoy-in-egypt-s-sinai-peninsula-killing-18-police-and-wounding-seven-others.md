@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.html)  [JSON](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.json)  [XML](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.xml)  
+
 ### [2017-09-11](/news/2017/09/11/index.md)
 
 #  Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. 
@@ -5,7 +8,7 @@
 Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on Monday, killing 18 police and wounding seven others in one of the deadliest attacks this year in the restive region bordering Israel and the Gaza Strip.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.spokesman.com/stories/2017/sep/11/militants-attack-convoy-in-egypts-sinai-kill-18-po/)
 1. [Cover Image](https://media.spokesman.com/img/logos/sr200-tower.png)

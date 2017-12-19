@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.html)  [JSON](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.json)  [XML](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.xml)  
+
 ### [2017-09-10](/news/2017/09/10/index.md)
 
 # Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. 
@@ -5,9 +8,14 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-4870010/US-backed-force-makes-sweeping-advance-east-Syria-monitor.html)
+
+### Changes:
+
+1. [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor, kill at least 34 people, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-people-according-to-the-syrian-o.md) _2017-09-10 21:30:05 (First version)_
+1. [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +24,3 @@
 3. [Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.md) _Context: Russia, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights_
 4. [The Syrian Observatory for Human Rights reports Russian airstrikes kill at least 18 civilians and wound dozens more in the town of Ariha in Syria's northwestern Idlib province. Idlib is controlled by the Army of Conquest, a rebel alliance of mainly Islamist groups, including al-Qaeda affiliate al-Nusra Front. ](/news/2015/11/29/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-kill-at-least-18-civilians-and-wound-dozens-more-in-the-town-of-ariha-in.md) _Context: Russia, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights_
 5. [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md) _Context: Russia, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights_
-
-### Changes:
-
-1. [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor, kill at least 34 people, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-people-according-to-the-syrian-o.md) _2017-09-10 21:30:05 (First version)_
-1. [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.md) _(Current version)_

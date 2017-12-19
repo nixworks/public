@@ -12,6 +12,9 @@ Cole Hamels showed his Christmas spirit early this year. The Rangers ace and his
 ### [At least three people are killed and 77 injured when an Amtrak passenger train derails on an Interstate 5 overpass in Pierce County, Washington. This train is part of a new "Cascades" service from Tacoma that launched the same morning. ](/news/2017/12/18/at-least-three-people-are-killed-and-77-injured-when-an-amtrak-passenger-train-derails-on-an-interstate-5-overpass-in-pierce-county-washing.md)
 First responders are treating the derailment in Washington state as a mass casualty incident
 
+### [ Polish MiG-29 crash lands into a forest near Minsk Mazowiecki. Extremely lucky pilot survives despite not ejecting. ](/news/2017/12/18/polish-mig-29-crash-lands-into-a-forest-near-miask-mazowiecki-extremely-lucky-pilot-survives-despite-not-ejecting.md)
+_Context: MiG-29, Minsk Mazowiecki_
+
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
 _Context: Jerusalem, United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
 

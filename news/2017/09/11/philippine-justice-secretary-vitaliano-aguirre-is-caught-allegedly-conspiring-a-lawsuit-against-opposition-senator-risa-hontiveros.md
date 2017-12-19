@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.html)  [JSON](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.json)  [XML](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.xml)  
+
 ### [2017-09-11](/news/2017/09/11/index.md)
 
 # Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Rappler](https://www.rappler.com/nation/181806-hontiveros-aguirre-text-expedite-cases)
 1. [Cover Image](https://assets.rappler.com/F375E5C3BF7C471BB1B3AA1E70F110FF/img/13FAA56488E34D79AA1310983045CB1F/aguiire-senate-hearing-cropped-august-24-2017-001.jpg)

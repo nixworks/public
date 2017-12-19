@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.html)  [JSON](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.json)  [XML](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.xml)  
+
 ### [2017-09-10](/news/2017/09/10/index.md)
 
 # Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/hurricane-irma-close-landfall-florida-keys-dead-state/story?id=49738525)
 2. [CNN](http://www.cnn.com/2017/09/09/us/hurricane-irma-cuba-florida/index.html)
