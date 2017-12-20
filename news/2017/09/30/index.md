@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/30/index.html)  [JSON](2017/09/30/index.json)  [XML](2017/09/30/index.xml)  
+
 ## [2017-09-30](/news/2017/09/30/index.md)
 
 ### [In Edmonton, Alberta, Canada, near Commonwealth Stadium, a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. ](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-stadium-a-man-drives-into-a-police-officer-and-then-stabs-the-officer-the-suspect-fled-the.md)
@@ -7,7 +10,7 @@ The suspect remains at large, but police have not provided a description.
 Authorities in Romania say one person has died and 19 people were hospitalized for smoke inhalation after a fire broke out at a retirement home in the capital.
 
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
-_Context: 2017 disasters in DR Congo, Democratic Republic of the Congo, Kinshasa, N'djili Airport, Russia_
+_Context: 2017 disasters in DR Congo, DR Congo, Kinshasa, N'djili Airport, Russia_
 
 ### [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md)
 Twenty-nine fans were hurt, five of them seriously, when a barrier collapsed Saturday at a stadium in the northern French city of Amiens as away supporters celebrated their opening goal. A fence separating Lille fans from the pitch gave way as they surged forward to celebrate the goal against Amiens

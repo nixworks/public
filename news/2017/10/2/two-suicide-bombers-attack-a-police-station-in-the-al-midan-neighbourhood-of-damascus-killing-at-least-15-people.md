@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-t
 
 # Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. 
 
-Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
+Two suicide bombers struck a police station in Damascus on Monday, with at least 10 people reported dead, in the first such attack to hit the Syrian capital since July.
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-damascus/deadly-twin-suicide-attack-hits-damascus-police-station-idUSKCN1C71GK?il=0)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-damascus/deadly-twin-suicide-attack-hits-damascus-police-station-idUSKCN1C71GK?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171002&t=2&i=1203823253&w=1200&r=LYNXNPED911FG)
 
 ### Related:
 

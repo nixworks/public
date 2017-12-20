@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/30/about-600-members-of-the-swedish-neo-nazi-group-nordic-resistance-movement-march-through-gothenburg-and-10-000-people-hold-a-counter-demons.html)  [JSON](/news/2017/09/30/about-600-members-of-the-swedish-neo-nazi-group-nordic-resistance-movement-march-through-gothenburg-and-10-000-people-hold-a-counter-demons.json)  [XML](/news/2017/09/30/about-600-members-of-the-swedish-neo-nazi-group-nordic-resistance-movement-march-through-gothenburg-and-10-000-people-hold-a-counter-demons.xml)  
+
 ### [2017-09-30](/news/2017/09/30/index.md)
 
 # About 600 members of the Swedish neo-Nazi group Nordic Resistance Movement march through Gothenburg, and 10,000 people hold a counter-demonstration. More than 50 people are arrested and several people are injured during the protests. 
@@ -5,7 +8,7 @@
 The far-right march was held in Gothenburg, the country&rsquo;s second-largest city.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/world/neo-nazi-rally-in-sweden-ends-in-clashes-between-police-and-counterprotesters/2017/09/30/711bb76e-a5ff-11e7-b573-8ec86cdfe1ed_story.html)
 

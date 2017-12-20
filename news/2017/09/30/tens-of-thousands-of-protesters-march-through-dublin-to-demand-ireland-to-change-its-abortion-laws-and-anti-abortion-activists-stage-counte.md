@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.html)  [JSON](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.json)  [XML](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.xml)  
+
 ### [2017-09-30](/news/2017/09/30/index.md)
 
 # Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. 
@@ -5,7 +8,7 @@
 It is the first demonstration since PM Varadkar said he would hold a referendum on the issue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-41452712)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5BC0/production/_98088432_rte2.jpg)

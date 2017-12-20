@@ -7,7 +7,7 @@ Formats: [HTML](2017/10/2/index.html)  [JSON](2017/10/2/index.json)  [XML](2017/
 A BOMB threat has been issued after a mass shooting at the Mandalay Bay Hotel, Las Vegas. 
 
 ### [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md)
-Two suicide bombers attacked a police station in Damascus on Monday, killing a number of civilians and policemen, the interior minister said, in the first such attack in the Syrian capital since July.
+Two suicide bombers struck a police station in Damascus on Monday, with at least 10 people reported dead, in the first such attack to hit the Syrian capital since July.
 
 ### [After suffering a cardiac arrest in his Malibu, California home, American singer and songwriter Tom Petty dies at the UCLA Medical Center in Santa Monica, California, at the age of 66. ](/news/2017/10/2/after-suffering-a-cardiac-arrest-in-his-malibu-california-home-american-singer-and-songwriter-tom-petty-dies-at-the-ucla-medical-center-in.md)
 Tom Petty, the dynamic Hall of Fame frontman who led the Heartbreakers, has died at age 66 after suffering cardiac arrest.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-stadium-a-man-drives-into-a-police-officer-and-then-stabs-the-officer-the-suspect-fled-the.html)  [JSON](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-stadium-a-man-drives-into-a-police-officer-and-then-stabs-the-officer-the-suspect-fled-the.json)  [XML](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-stadium-a-man-drives-into-a-police-officer-and-then-stabs-the-officer-the-suspect-fled-the.xml)  
+
 ### [2017-09-30](/news/2017/09/30/index.md)
 
 # In Edmonton, Alberta, Canada, near Commonwealth Stadium, a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. 
@@ -5,7 +8,7 @@
 The suspect remains at large, but police have not provided a description. 
 
 
-### Source:
+### Sources:
 
 1. [Edmonton Journal](http://edmontonjournal.com/news/crime/heavy-police-presence-near-commonwealth-stadium-officers-checking-vehicles)
 2. [Reuters](https://www.reuters.com/article/us-canada-attacks/canadian-police-probe-car-attacks-stabbing-as-acts-of-terrorism-idUSKCN1C61FP)
