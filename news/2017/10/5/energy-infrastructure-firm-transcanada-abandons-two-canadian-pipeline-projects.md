@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.html)  [JSON](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.json)  [XML](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.xml)  
+
 ### [2017-10-5](/news/2017/10/5/index.md)
 
 # Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. 

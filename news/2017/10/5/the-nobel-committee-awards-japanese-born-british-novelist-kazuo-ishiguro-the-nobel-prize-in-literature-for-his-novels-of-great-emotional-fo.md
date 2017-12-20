@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.html)  [JSON](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.json)  [XML](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.xml)  
+
 ### [2017-10-5](/news/2017/10/5/index.md)
 
 # The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." 

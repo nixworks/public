@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.html)  [JSON](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.json)  [XML](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.xml)  
+
 ### [2017-10-5](/news/2017/10/5/index.md)
 
 # The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. 

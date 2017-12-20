@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.html)  [JSON](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.json)  [XML](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.xml)  
+
 ### [2017-10-5](/news/2017/10/5/index.md)
 
 # In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. 

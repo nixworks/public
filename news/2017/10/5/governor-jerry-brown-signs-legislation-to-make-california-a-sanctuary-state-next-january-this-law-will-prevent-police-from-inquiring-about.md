@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.html)  [JSON](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.json)  [XML](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.xml)  
+
 ### [2017-10-5](/news/2017/10/5/index.md)
 
 # Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. 
@@ -7,8 +10,8 @@ A bill to make California a sanctuary state, by preventing police from inquiring
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-california-politics/california-governor-signs-sanctuary-state-bill-idUSKBN1CA2LU)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171005&t=2&i=1204324392&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED941OC)
+1. [Reuters](https://www.reuters.com/article/us-california-politics/california-governor-signs-sanctuary-state-bill-idUSKBN1CA2LU)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171005&t=2&i=1204324392&w=1200&r=LYNXMPED941OC)
 
 ### Changes:
 
