@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/09/26/index.html)  [JSON](2017/09/26/index.json)  [XML](2017/09/26/index.xml)  
+
 ## [2017-09-26](/news/2017/09/26/index.md)
 
 ### [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md)
-A Palestinian gunman killed three Israeli guards and wounded a fourth in an attack on a Jewish settlement in the occupied West Bank on Tuesday before he was shot dead, a police spokeswoman said.
+A Palestinian man with security clearance to work at a Jewish settlement in the occupied West Bank opened fire at a checkpoint on Tuesday, killing two Israeli security guards and a paramilitary policeman.
 
 ### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
-_Context: Mass surveillance in the United States, United States Department of Homeland Security, green card holders, immigrants, naturalized citizens, social media_
+_Context: Department of Homeland Security, Immigration to the United States, Mass surveillance in the United States, green card holders, naturalized citizens, social media_
 
 ### [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md)
 _Context: Chinese, Japanese, Korean, Twitter_
@@ -25,7 +28,7 @@ Turkey and Iran, traditional foes, have established common ground in Iraq, Syria
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?
 
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
-_Context: Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, Russian president, Russian presidential election, 2018, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
+_Context: 2018 presidential election, Nikolay Merkushkin, Nizhny Novgorod Oblast, Politics of Russia, President, Samara Oblast, Valery Shantsev, Vladimir Putin, federal subjects_
 
 ### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
 _Context: Chuck Rosenberg, Drug Enforcement Administration, Trump administration_

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/25/index.html)  [JSON](2017/09/25/index.json)  [XML](2017/09/25/index.xml)  
+
 ## [2017-09-25](/news/2017/09/25/index.md)
 
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Myanmar Army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-myanmar-army.md)

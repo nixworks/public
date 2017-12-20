@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.html)  [JSON](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.json)  [XML](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.xml)  
+
 ### [2017-09-25](/news/2017/09/25/index.md)
 
 # At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency. 
@@ -5,7 +8,7 @@
 The federal government has announced the creation of a National Space Agency. 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/government-announces-creation-of-national-space-agency-20170924-gynx3c.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/g/j/n/k/8/l/image.related.socialLead.620x349.gynx3c.png/1506304485793.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.html)  [JSON](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.json)  [XML](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.xml)  
+
 ### [2017-09-26](/news/2017/09/26/index.md)
 
 # Africa's Great Green Wall is successfully reversing desertification. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/av/magazine-41391844/why-is-africa-building-a-great-green-wall)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/F551/production/_98010826_sahara_trees976getty.jpg)

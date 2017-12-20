@@ -15,7 +15,7 @@ The majority of the passengers came from two ships belonging to Miami-based Roya
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. It is now to be sent to the United States Senate for a vote, possibly even tonight. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.md)
 The House passed a sweeping tax bill Tuesday that slashes rates for corporations, adds new breaks for other businesses, and reorganizes the individual tax code
 
-### [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act, that reforms the existing tax system since 1997. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act-that-reforms-the-existing-tax-system.md)
+### [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act.md)
 President Rodrigo Duterte on Tuesday, December 19, signed into law the P3.8-trillion 2018 national budget, and the first package of the much-awaited tax reform program that seeks to raise P130 billion in revenues to bankroll his administration’s economic agenda. 
 
 ## [Previous Day...](/news/2017/12/18/index.md)

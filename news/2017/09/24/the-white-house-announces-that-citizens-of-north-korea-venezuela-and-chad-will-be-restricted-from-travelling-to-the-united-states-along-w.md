@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.html)  [JSON](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.json)  [XML](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.xml)  
+
 ### [2017-09-24](/news/2017/09/24/index.md)
 
 # The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. 
@@ -5,7 +8,7 @@
 The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.
 
 
-### Source:
+### Sources:
 
 1. [CNBC](https://www.cnbc.com/2017/09/24/white-house-issues-updated-travel-ban-with-fresh-restrictions-on-who-can-enter-us.html)
 
