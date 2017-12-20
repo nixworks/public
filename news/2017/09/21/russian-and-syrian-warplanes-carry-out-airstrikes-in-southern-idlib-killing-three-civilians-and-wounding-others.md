@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.html)  [JSON](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.json)  [XML](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.xml)  
+
 ### [2017-09-21](/news/2017/09/21/index.md)
 
 # Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [Iraqi News](https://www.iraqinews.com/arab-world-news/russian-syrian-warplanes-bombard-idlib-3rd-day/)
 

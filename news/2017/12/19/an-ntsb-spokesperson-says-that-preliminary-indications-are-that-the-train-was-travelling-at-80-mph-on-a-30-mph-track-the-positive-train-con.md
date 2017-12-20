@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indi
 
 ### [2017-12-19](/news/2017/12/19/index.md)
 
-# An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. 
+# An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not operational on the train, says Amtrak. 
 
 Investigators focus on how fast the Amtrak train took a bend that had reduced speed warnings.
 
@@ -17,7 +17,7 @@ Investigators focus on how fast the Amtrak train took a bend that had reduced sp
 
 1. [An NTSB spokesperson says preliminary indications are that the train was travelling at 80mph on a 30mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-preliminary-indications-are-that-the-train-was-travelling-at-80mph-on-a-30mph-track-the-positive-train-control-p.md) _2017-12-19 20:30:06 (First version)_
 2. [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80mph on a 30mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80mph-on-a-30mph-track-the-positive-train-contr.md) _2017-12-19 21:30:07 (Update)_
-2. [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md) _(Current version)_
+2. [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not operational on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md) _(Current version)_
 
 ### Related:
 

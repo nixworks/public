@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/20/index.html)  [JSON](2017/09/20/index.json)  [XML](2017/09/20/index.xml)  
+
 ## [2017-09-20](/news/2017/09/20/index.md)
 
 ### [ The U.S. Federal Reserve announces its benchmark interest rate will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its balance sheet reduction program will begin in October. ](/news/2017/09/20/the-u-s-federal-reserve-announces-its-benchmark-interest-rate-will-not-change-this-month-though-it-expects-an-increase-by-the-end-of-the.md)

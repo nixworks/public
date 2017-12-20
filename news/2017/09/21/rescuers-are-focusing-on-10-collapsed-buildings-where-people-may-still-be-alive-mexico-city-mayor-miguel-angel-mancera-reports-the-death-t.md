@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.html)  [JSON](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.json)  [XML](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.xml)  
+
 ### [2017-09-21](/news/2017/09/21/index.md)
 
 # Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. 
@@ -5,10 +8,10 @@
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mexico-quake/mexico-focuses-on-10-buildings-in-search-for-quake-survivors-273-dead-idUSKCN1BW0YK)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170922&t=2&i=1202429358&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8L04Z)
+1. [Reuters](https://www.reuters.com/article/us-mexico-quake/mexico-focuses-on-10-buildings-in-search-for-quake-survivors-273-dead-idUSKCN1BW0YK)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170923&t=2&i=1202591191&w=1200&r=LYNXNPED8M04B)
 
 ### Related:
 

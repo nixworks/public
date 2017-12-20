@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/08/25/index.html)  [JSON](2016/08/25/index.json)  [XML](2016/08/25/index.xml)  
+
 ## [2016-08-25](/news/2016/08/25/index.md)
 
 ### [The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. ](/news/2016/08/25/the-death-toll-in-rodrigo-duterte-s-war-on-drugs-reaches-1-900-people-killed.md)

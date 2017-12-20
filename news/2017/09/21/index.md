@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/21/index.html)  [JSON](2017/09/21/index.json)  [XML](2017/09/21/index.xml)  
+
 ## [2017-09-21](/news/2017/09/21/index.md)
 
 ### [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md)

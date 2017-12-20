@@ -1,20 +1,33 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/19/index.md)
+## [News](/news/2017/12/20/index.md)
+
+### [Medicinal cannabis is legalised in New Zealand. ](/news/2017/12/20/medicinal-cannabis-is-legalised-in-new-zealand.md)
+Details of how products will be prescribed are yet to be confirmed.
+
+---
+
+## [Yesterday](/news/2017/12/19/index.md)
 
 ### [Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. ](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-according-to-th.md)
 Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
 
-### [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not installed on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md)
+### [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not operational on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md)
 Investigators focus on how fast the Amtrak train took a bend that had reduced speed warnings.
+
+### [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md)
+The majority of the passengers came from two ships belonging to Miami-based Royal Caribbean Cruises.
 
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. It is now to be sent to the United States Senate for a vote, possibly even tonight. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.md)
 The House passed a sweeping tax bill Tuesday that slashes rates for corporations, adds new breaks for other businesses, and reorganizes the individual tax code
 
+### [Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act, that reforms the existing tax system since 1997. ](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the-tax-reform-for-acceleration-and-inclusion-train-act-that-reforms-the-existing-tax-system.md)
+President Rodrigo Duterte on Tuesday, December 19, signed into law the P3.8-trillion 2018 national budget, and the first package of the much-awaited tax reform program that seeks to raise P130 billion in revenues to bankroll his administration’s economic agenda. 
+
 ---
 
-## [Yesterday](/news/2017/12/18/index.md)
+## [Day Before Yesterday](/news/2017/12/18/index.md)
 
 ### [Twitter suspends the accounts of well-known white nationalists per recently implemented new offensive content rules. ](/news/2017/12/18/twitter-suspends-the-accounts-of-well-known-white-nationalists-per-recently-implemented-new-offensive-content-rules.md)
 Including Britain First, which gained recognition after Trump&#x27;s retweets 
@@ -54,47 +67,7 @@ Researchers at UCLA and the University of Wisconsin-Madison have confirmed that 
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/17/index.md)
-
-### [A suicide bomb and gun attack on a Methodist church in Pakistan kills nine people. ](/news/2017/12/17/a-suicide-bomb-and-gun-attack-on-a-methodist-church-in-pakistan-kills-nine-people.md)
-At least 30 injured; police, eyewitnesses say timely response prevented more casualties.
-
-### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md)
-_Context: Libya, Libyan Civil War (2014-present), Misurata_
-
-### [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md)
-_Context: Idlib, Khan Shaykhun, Russia, Syrian Civil War, White Helmets, napalm_
-
-### [Venezuela and Rosneft sign agreements on gas exploration and exploitation. ](/news/2017/12/17/venezuela-and-rosneft-sign-agreements-on-gas-exploration-and-exploitation.md)
-President of the Republic, Nicol&#225;s Maduro, held a meeting with CEO of Rosneft, Igor Sechin, to bolster the joint work between Venezuela…
-
-### [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md)
-A seventh person was critically injured in the accident in Birmingham involving multiple vehicles.
-
-### [A power failure at Hartsfield-Jackson Atlanta International Airport results in the cancellation of more than 1,100 flights, and leaves hundreds of passengers stranded. ](/news/2017/12/17/a-power-failure-at-hartsfieldajackson-atlanta-international-airport-results-in-the-cancellation-of-more-than-1-100-flights-and-leaves-hun.md)
-More than 1,150 flights into or out of Atlanta were canceled, and passengers were left in the dark at the world’s busiest airport for passenger traffic.
-
-### [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy to Palestine in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md)
-Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open an embassy in east Jerusalem, a move that follows the United States’s decision to recognize Jerusalem as the capital of Israel.
-
-### [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md)
-Both countries share land borders with Kim Jong Un&#039;s secretive state.
-
-### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
-_Context: Central Intelligence Agency, Donald Trump, Russia-United States relations, Saint Petersburg, Vladimir Putin_
-
-### [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md)
-Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanctions and weapons laws.
-
-### [Voters choose Sebastian Pinera over Alejandro Guillier as their next president in a run-off election. ](/news/2017/12/17/voters-choose-sebastia-n-pia-era-over-alejandro-guillier-as-their-next-president-in-a-run-off-election.md)
-Voting has begun in Chile&#39;s presidential runoff election that pits conservative billionaire Sebastian Pinera against center-left journalist Alejandro Guillier. Analysts say the race could go either way. 
-
-### [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md)
-_Context: Kiev, Mikheil Saakashvili, October Palace, Petro Poroshenko, Ukrainian crisis, Ukrainian police_
-
----
-
-## [Previous Day...](/news/2017/12/16/index.md)
+## [Previous Day...](/news/2017/12/17/index.md)
 
 ---
 

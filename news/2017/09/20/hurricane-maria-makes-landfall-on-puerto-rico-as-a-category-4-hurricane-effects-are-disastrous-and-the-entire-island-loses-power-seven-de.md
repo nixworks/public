@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-de.html)  [JSON](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-de.json)  [XML](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-de.xml)  
+
 ### [2017-09-20](/news/2017/09/20/index.md)
 
 #  Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. 
@@ -5,7 +8,7 @@
 Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to hit the U.S. territory in nearly 90 years, ripping windows from their fixtures and sending debris hurtling through the streets as it approached the capital, San Juan.
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml)
 2. [National Hurricane Center²](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/202038.shtml?)
@@ -16,6 +19,13 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 7. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/09/20/hurricane-maria-takes-aim-at-puerto-rico-with-force-not-seen-in-modern-history/)
 7. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170919&t=2&i=1202077716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8I1VH)
 
+### Changes:
+
+1. [Hurricane Maria makes landfall on Puerto Rico as a Category 5 hurricane. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-5-hurricane.md) _2017-09-20 20:30:05 (First version)_
+2. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power.md) _2017-09-20 22:30:05 (Update)_
+3. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-d.md) _2017-10-02 03:52:57 (Update)_
+3. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-de.md) _(Current version)_
+
 ### Related:
 
 1. [Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.md) _Context: Hurricane Maria, Puerto Rico Governor, Ricardo Rossello_
@@ -23,10 +33,3 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 3. [Puerto Rican officials request aid from the United States federal government for welfare in the aftermath of the hurricane-induced humanitarian crisis on the island. ](/news/2017/09/25/puerto-rican-officials-request-aid-from-the-united-states-federal-government-for-welfare-in-the-aftermath-of-the-hurricane-induced-humanitar.md) _Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico_
 4. [Tens of thousands of people in northern Puerto Rico are ordered to evacuate after floodwaters from Hurricane Maria damage the Guajataca Dam. ](/news/2017/09/22/tens-of-thousands-of-people-in-northern-puerto-rico-are-ordered-to-evacuate-after-floodwaters-from-hurricane-maria-damage-the-guajataca-dam.md) _Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico_
 5. [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md) _Context: 2017 Atlantic hurricane season, Hurricane Maria, Puerto Rico_
-
-### Changes:
-
-1. [Hurricane Maria makes landfall on Puerto Rico as a Category 5 hurricane. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-5-hurricane.md) _2017-09-20 20:30:05 (First version)_
-2. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power.md) _2017-09-20 22:30:05 (Update)_
-3. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-d.md) _2017-10-02 03:52:57 (Update)_
-3. [ Hurricane Maria makes landfall on Puerto Rico as a Category 4 hurricane. Effects are disastrous and the entire island loses power. Seven deaths are reported on Puerto Rico, along with two on Guadeloupe. Puerto Rican Governor Ricardo Rossello declares a 6:00 p.m. to 6:00 a.m. curfew through Saturday. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-4-hurricane-effects-are-disastrous-and-the-entire-island-loses-power-seven-de.md) _(Current version)_

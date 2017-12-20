@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.html)  [JSON](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.json)  [XML](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.xml)  
+
 ### [2017-09-23](/news/2017/09/23/index.md)
 
 # Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. 
@@ -5,10 +8,15 @@
 Thousands of villagers on the Indonesian resort island of Bali are sheltering in sports centers, village halls and with relatives, fearing Mount Agung will erupt for the first time in more than half a century.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/09/23/fearing-eruption-thousands-in-bali-flee-from-mount-agung.html)
 1. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/09/23/fearing-eruption-thousands-in-bali-flee-from-mount-agung/_jcr_content/par/featured-media/media-1.img.png/0/0/1506148303202.png?ve=1)
+
+### Changes:
+
+1. [Thousands of people on the Indonesian flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-the-volcano-was.md) _2017-09-23 07:30:05 (First version)_
+1. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Thousands of villagers on the Indonesian resort island of Bali are sheltering in
 3. [An explosion on a tourist speed boat kills two people and injures 20 others shortly after departing from the Indonesian port of Padangbai in Karangasem, Bali. ](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.md) _Context: Bali, Indonesia_
 4. [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md) _Context: Bali, Indonesia_
 5. [Australian Schapelle Corby is granted parole (along with 1,290 others) in Indonesia after serving nine years in a Bali prison for drug smuggling. ](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.md) _Context: Bali, Indonesia_
-
-### Changes:
-
-1. [Thousands of people on the Indonesian flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-the-volcano-was.md) _2017-09-23 07:30:05 (First version)_
-1. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _(Current version)_

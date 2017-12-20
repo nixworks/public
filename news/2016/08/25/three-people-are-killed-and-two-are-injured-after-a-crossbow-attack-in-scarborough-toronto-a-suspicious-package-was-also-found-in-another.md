@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.html)  [JSON](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.json)  [XML](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.xml)  
+
 ### [2016-08-25](/news/2016/08/25/index.md)
 
 # Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.
@@ -5,10 +8,15 @@
 Toronto police confirm there is a link between the three deaths involving a crossbow in east Toronto and a suspicious package found in the downtown area of the city. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/stabbing-scarborough-1.3735718)
 1. [Cover Image](https://i.cbc.ca/1.3736505.1472173438!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/crossbow-deaths-crime-scene.jpg)
+
+### Changes:
+
+1. [Scarborough crossbow attack: Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/scarborough-crossbow-attack-three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-packa.md) _2017-08-27 03:46:43 (First version)_
+1. [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +25,3 @@ Toronto police confirm there is a link between the three deaths involving a cros
 3. [The North Korean (DPRK) supreme court convicts and sentences South Korea-born Canadian pastor Hyeon Soo Lim to hard labor for life for trying to overthrow the DPRK and undermine the country's social system. Lim's relatives said he's traveled to North Korea more than 100 times since 1997, to help people, but not for any particular political purpose. Lim, from the Light Korean Presbyterian Church in Toronto, has been in custody since February. ](/news/2015/12/16/the-north-korean-dprk-supreme-court-convicts-and-sentences-south-korea-born-canadian-pastor-hyeon-soo-lim-to-hard-labor-for-life-for-tryin.md) _Context: Toronto_
 4. [A 13-year-old boy uses a home-made crossbow to kill a teacher and wound four other people at his school in the city of Barcelona. ](/news/2015/04/20/a-13-year-old-boy-uses-a-home-made-crossbow-to-kill-a-teacher-and-wound-four-other-people-at-his-school-in-the-city-of-barcelona.md) _Context: crossbow_
 5. [Five are shot in Toronto, Ontario, in a neighbourhood with children around playing, two critically and one in life-threatening condition, having been shot by the police. Four suspects detained. ](/news/2015/04/16/five-are-shot-in-toronto-ontario-in-a-neighbourhood-with-children-around-playing-two-critically-and-one-in-life-threatening-condition-ha.md) _Context: Toronto_
-
-### Changes:
-
-1. [Scarborough crossbow attack: Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/scarborough-crossbow-attack-three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-packa.md) _2017-08-27 03:46:43 (First version)_
-1. [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md) _(Current version)_
