@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.html)  [JSON](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.json)  [XML](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.xml)  
 
-* [HTML](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.html)
-* [JSON](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.json)
-* [XML](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. 
@@ -14,7 +11,7 @@ Another 40 people are missing, including a journalist who was swept away after a
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-41591784)
-2. [Reuters](http://www.reuters.com/article/us-vietnam-floods/death-toll-from-worst-vietnam-floods-in-years-rises-to-54-idUSKBN1CI0BV)
+2. [Reuters](https://www.reuters.com/article/us-vietnam-floods/death-toll-from-worst-vietnam-floods-in-years-rises-to-54-idUSKBN1CI0BV)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/CD07/production/_98278425_6e4d1be5-1d57-409d-b035-05f6a0981c74.jpg)
 
 ### Changes:

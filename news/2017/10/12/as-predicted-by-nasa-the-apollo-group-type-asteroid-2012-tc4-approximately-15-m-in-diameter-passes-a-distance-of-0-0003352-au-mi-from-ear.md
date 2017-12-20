@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.html)  [JSON](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.json)  [XML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.xml)  
 
-* [HTML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.html)
-* [JSON](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.json)
-* [XML](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. 
@@ -26,8 +23,8 @@ Asteroid 2012 TC4 is zipping past Earth on Thursday, allowing scientists and eme
 
 ### Related:
 
-1. [NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. ](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.md) _Context: Earth, NASA_
-2. [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md) _Context: Earth, Moon_
-3. [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md) _Context: Moon, NASA_
-4. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_
-5. [NASA publishes LRO images of the two craters on the Moon, where twin GRAIL probes ended their gravity-mapping mission in December 2012. ](/news/2013/03/19/nasa-publishes-lro-images-of-the-two-craters-on-the-moon-where-twin-grail-probes-ended-their-gravity-mapping-mission-in-december-2012.md) _Context: Moon, NASA_
+1. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md) _Context: Moon, NASA_
+2. [NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. ](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.md) _Context: Earth, NASA_
+3. [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md) _Context: Earth, Moon_
+4. [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md) _Context: Moon, NASA_
+5. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_

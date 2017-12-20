@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.html)  [JSON](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.json)  [XML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.xml)  
 
-* [HTML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.html)
-* [JSON](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.json)
-* [XML](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.xml)
 ### [2017-10-12](/news/2017/10/12/index.md)
 
 # The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. 
@@ -14,7 +11,7 @@ Forces in New York and London look into allegations against movie mogul Harvey W
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-41597159)
-2. [Reuters](http://www.reuters.com/article/us-people-roy-price/amazon-studios-chief-roy-price-suspended-following-harassment-allegation-idUSKBN1CI03X)
+2. [Reuters](https://www.reuters.com/article/us-people-roy-price/amazon-studios-chief-roy-price-suspended-following-harassment-allegation-idUSKBN1CI03X)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/A2A6/production/_98283614_harveyweinstein_gettyimages-687430878.jpg)
 
 ### Changes:
