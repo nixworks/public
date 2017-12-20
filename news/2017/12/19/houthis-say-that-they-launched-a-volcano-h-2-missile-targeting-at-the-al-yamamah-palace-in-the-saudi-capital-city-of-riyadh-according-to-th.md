@@ -10,8 +10,9 @@ Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels ov
 
 ### Sources:
 
-1. [Wall Street Journal](https://www.wsj.com/articles/saudi-arabia-intercepts-missile-fired-by-yemen-houthi-rebels-1513686517)
-1. [Cover Image](https://si.wsj.net/public/resources/images/BN-WR074_saudi1_SOC_20171219072038.jpg)
+1. [AA](http://aa.com.tr/en/middle-east/islamic-organization-condemns-houthi-missile-attack/1009341)
+2. [Wall Street Journal](https://www.wsj.com/articles/saudi-arabia-intercepts-missile-fired-by-yemen-houthi-rebels-1513686517)
+2. [Cover Image](https://si.wsj.net/public/resources/images/BN-WR074_saudi1_SOC_20171219072038.jpg)
 
 ### Changes:
 
