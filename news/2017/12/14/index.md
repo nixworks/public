@@ -13,7 +13,7 @@ Disney will pay $52.4 billion for a large portion of the entertainment giant, co
 Teva Pharmaceutical Industries is to cut its workforce by more than a quarter, give up many of its manufacturing plants and suspend its dividend on ordinary shares in a much-anticipated overhaul to help pay off its debts.
 
 ### [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md)
-_Context: Federal Communications Commission, Net neutrality in the United States, net neutrality_
+_Context: Federal Communications Commission, Repeal of net neutrality in the United States, net neutrality_
 
 ### [A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing six pupils on the bus. ](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-crossing-in-the-arrondissement-of-perpignan-in-france-killing-six-pupils-on-the-bus.md)
 A train and a school bus collide in southern France, leaving at least four children dead, officials say.
