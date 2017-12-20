@@ -19,6 +19,9 @@ Investigators focus on how fast the Amtrak train took a bend that had reduced sp
 ### [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md)
 The majority of the passengers came from two ships belonging to Miami-based Royal Caribbean Cruises.
 
+### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group comprises of 18 countries, including Canada and the United States, and will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
+_Context: Canada-United States relations, Canadian Foreign Minister, Chrystia Freeland, North Korea and weapons of mass destruction, Rex Tillerson, United States Secretary of State, Vancouver_
+
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. It is now to be sent to the United States Senate for a vote, possibly even tonight. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-it-is-now-to-be-sent-to-the-united.md)
 The House passed a sweeping tax bill Tuesday that slashes rates for corporations, adds new breaks for other businesses, and reorganizes the individual tax code
 

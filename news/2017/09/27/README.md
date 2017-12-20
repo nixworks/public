@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/09/27/index.html)  [JSON](2017/09/27/index.json)  [XML](2017/09/27/index.xml)  
+
 ## [2017-09-27](/news/2017/09/27/index.md)
 
 ### [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md)
@@ -37,7 +40,7 @@ Two breakaway members of Germany&#39;s right-wing AfD party seem set on forming 
 California will move its presidential primary from June to March under a bill signed on Wednesday by Democratic Governor Jerry Brown, a change aimed at giving the liberal-leaning state more influence in choosing candidates from either national party.
 
 ### [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md)
-_Context: Facebook, Google, House of Representatives Intelligence Committee, Russian interference in the 2016 United States elections , Senate Intelligence Committee, Twitter_
+_Context: Facebook, Google, House of Representatives Intelligence Committee, Russian interference in the 2016 United States elections, Senate Intelligence Committee, Twitter_
 
 ## [Previous Day...](/news/2017/09/26/index.md)
 

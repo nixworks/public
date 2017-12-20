@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.html)  [JSON](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.json)  [XML](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.xml)  
+
 ### [2017-09-27](/news/2017/09/27/index.md)
 
 # Former members of the Alternative fur Deutschland party Frauke Petry and Marcus Pretzell may create a new party. 
@@ -5,7 +8,7 @@
 Two breakaway members of Germany&#39;s right-wing AfD party seem set on forming a separate faction in the Bundestag parliament and even a new party. But a freshly elected AfD leader says the move is &quot;doomed to failure.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.com/en/afd-defectors-led-by-frauke-petry-hint-at-breakaway-party/a-40706314)
 1. [Cover Image](http://www.dw.com/image/18189789_304.jpg)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.html)  [JSON](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.json)  [XML](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.xml)  
+
 ### [2017-09-27](/news/2017/09/27/index.md)
 
 # Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. 
@@ -5,7 +8,7 @@
 Sen. John McCain (R-Ariz.) has urged Trump officials to rethink the decision.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/north-carolina-latest-suffer-2017-hurricane-season-50122452)
 2. [Newsweek](http://www.newsweek.com/puerto-rico-hurricane-maria-donald-trump-jones-act-relief-aid-672778)
