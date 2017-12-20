@@ -3,6 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/20/index.md)
 
+### [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. ](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md)
+Company loses challenge by Barcelona taxi drivers’ group, which argued Uber was directly involved in carrying passengers
+
+### [ The European Commission invokes the article 7 of the European Treaty against EU's member Poland, denouncing recent judiciary reforms putting it under control of the leading political force.](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-eu-s-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
+_Context: European Commission, European Treaty, Poland, article 7_
+
 ### [Medical cannabis is legalized in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalized-in-new-zealand.md)
 Details of how products will be prescribed are yet to be confirmed.
 
