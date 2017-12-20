@@ -31,7 +31,7 @@ _Context: California, Delaware, Eastern Pennsylvania, Federal District Judge, Ma
 The issue of counter-terrorist measures is a highly debated topic in France, as in recent years the country has been hit by a number of terrorist attacks, with the deadliest one, in November 2015, claiming the lives of 130 people.
 
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
-_Context: Brexit, European Union, next phase of Brexit_
+_Context: Brexit, E.U., next phase of Brexit_
 
 ## [Previous Day...](/news/2017/12/14/index.md)
 
