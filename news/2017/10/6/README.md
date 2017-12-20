@@ -1,10 +1,13 @@
+
+Formats: [HTML](2017/10/6/index.html)  [JSON](2017/10/6/index.json)  [XML](2017/10/6/index.xml)  
+
 ## [2017-10-6](/news/2017/10/6/index.md)
 
 ### [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md)
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.
 
 ### [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md)
-Roy and Jill Serjeant
+_Context: Clerks, D, Harvey Weinstein, Pulp Fiction, Sex, Lies, and Videotape, The Crying Game, The New York Times, allegation_
 
 ### [AIM's owner, Oath Inc., announces it will discontinue AOL Instant Messenger service on December 15, 2017. ](/news/2017/10/6/aim-s-owner-oath-inc-announces-it-will-discontinue-aol-instant-messenger-service-on-december-15-2017.md)
 It&#39;s the end of an era. Once a staple, the messaging app will be discontinued in just a few short months.

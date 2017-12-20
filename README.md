@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Medical cannabis is legalized in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalized-in-new-zealand.md)
 Details of how products will be prescribed are yet to be confirmed.
 
+### [The National Institutes of Health lifts a three-year ban on scientists experimenting with lethal viruses in the United States, saying the potential benefits of disease preparedness outweigh the risks. ](/news/2017/12/20/the-national-institutes-of-health-lifts-a-three-year-ban-on-scientists-experimenting-with-lethal-viruses-in-the-united-states-saying-the-po.md)
+_Context: National Institutes of Health, United States_
+
 ---
 
 ## [Yesterday](/news/2017/12/19/index.md)
@@ -19,7 +22,7 @@ Investigators focus on how fast the Amtrak train took a bend that had reduced sp
 ### [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md)
 The majority of the passengers came from two ships belonging to Miami-based Royal Caribbean Cruises.
 
-### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group comprises of 18 countries, including Canada and the United States, and will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
+### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
 _Context: Canada-United States relations, Canadian Foreign Minister, Chrystia Freeland, North Korea and weapons of mass destruction, Rex Tillerson, United States Secretary of State, Vancouver_
 
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-after-being-sent-to-the-united-stat.md)

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.html)  [JSON](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.json)  [XML](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.xml)  
+
 ### [2017-10-6](/news/2017/10/6/index.md)
 
 # A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. 
@@ -5,7 +8,7 @@
 A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-mexico-military/mexico-military-helicopter-crashes-in-northern-state-seven-presumed-dead-idUSKBN1CC01M?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
@@ -16,4 +19,4 @@ A Mexican military helicopter crashed on Friday in the northern state of Durango
 2. [Eight severed heads are discovered in four locations in the Mexican state of Durango. ](/news/2010/07/28/eight-severed-heads-are-discovered-in-four-locations-in-the-mexican-state-of-durango.md) _Context: Durango, Mexico_
 3. [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md) _Context: Durango, Mexico_
 4. [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md) _Context: Durango, Mexico_
-5. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
+5. [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md) _Context: Mexico_

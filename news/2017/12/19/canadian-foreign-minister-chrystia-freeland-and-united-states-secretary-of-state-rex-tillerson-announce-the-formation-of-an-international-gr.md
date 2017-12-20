@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and
 
 ### [2017-12-19](/news/2017/12/19/index.md)
 
-# Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group comprises of 18 countries, including Canada and the United States, and will meet for the first time on January 16, 2018 in Vancouver. 
+# Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. 
 
 
 
