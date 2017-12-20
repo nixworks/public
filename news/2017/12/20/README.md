@@ -18,6 +18,9 @@ Details of how products will be prescribed are yet to be confirmed.
 ### [The United States Senate passes the Tax Cuts and Jobs Act of 2017 by 51 votes to 48. ](/news/2017/12/20/the-united-states-senate-passes-the-tax-cuts-and-jobs-act-of-2017-by-51-votes-to-48.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate_
 
+### [16-year old Palestinian activist Ahed Tamimi, daughter of activist Bassem al-Tamimi, is arrested (for the first time) on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-activist-ahed-tamimi-daughter-of-activist-bassem-al-tamimi-is-arrested-for-the-first-time-on-december-19-in-a-pr.md)
+Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.
+
 ### [The National Institutes of Health lifts a three-year ban on scientists experimenting with lethal viruses in the United States, saying the potential benefits of disease preparedness outweigh the risks. ](/news/2017/12/20/the-national-institutes-of-health-lifts-a-three-year-ban-on-scientists-experimenting-with-lethal-viruses-in-the-united-states-saying-the-po.md)
 _Context: National Institutes of Health, United States_
 
