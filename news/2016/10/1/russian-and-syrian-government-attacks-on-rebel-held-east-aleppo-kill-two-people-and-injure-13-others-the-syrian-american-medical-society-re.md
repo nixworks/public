@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.html)  [JSON](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.json)  [XML](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.xml)  
+
 ### [2016-10-1](/news/2016/10/1/index.md)
 
 # Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. 
@@ -5,11 +8,16 @@
 Russian and Syrian air raids on the rebel-held east of Aleppo have forced the closure of the largest hospital in the area and killed two people, a medical charity says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-37528260)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN12133Z)
+2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN12133Z)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/92CA/production/_91487573_37bf6f67-7031-4a6a-a39a-6b88f6bb0e09.jpg)
+
+### Changes:
+
+1. [Syrian civil war: Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/syrian-civil-war-russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american.md) _2017-08-27 03:46:56 (First version)_
+1. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@ Russian and Syrian air raids on the rebel-held east of Aleppo have forced the cl
 3. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Russia, Syria, Syrian Civil War_
 4. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Russia, Syria, Syrian Civil War_
 5. [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md) _Context: Russia, Syria, Syrian Civil War_
-
-### Changes:
-
-1. [Syrian civil war: Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/syrian-civil-war-russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american.md) _2017-08-27 03:46:56 (First version)_
-1. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _(Current version)_

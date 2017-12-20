@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.html)  [JSON](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.json)  [XML](/news/2017/10/13/conservation-biologists-describe-adelie-penguin-east-antarctic-colony-population-conditions-as-catastrophic-for-the-second-time-in-five-year.xml)  
+
 ### [2017-10-13](/news/2017/10/13/index.md)
 
 # Conservation biologists describe Adlie penguin east Antarctic colony population conditions as catastrophic for the second time in five years as excessive ice kills birds travelling for food. 

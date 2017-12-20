@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/10/1/index.html)  [JSON](2016/10/1/index.json)  [XML](2016/10/1/index.xml)  
+
 ## [2016-10-1](/news/2016/10/1/index.md)
 
 ### [Houthi forces launch rockets that hit and reportedly destroy HSV-2 "Swift", a military vessel belonging to the United Arab Emirates Navy, off the coast of Yemen, near the strategic Red Sea port of Mokha. ](/news/2016/10/1/houthi-forces-launch-rockets-that-hit-and-reportedly-destroy-hsv-2-swift-a-military-vessel-belonging-to-the-united-arab-emirates-navy-of.md)
@@ -19,7 +22,7 @@ Mexico&#039;s Colima volcano erupts, spewing out ash and thick black smoke and f
 _Context: Pedro Sanchez, Socialist Workers' Party_
 
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
-_Context: Internet, Internet Corporation for Assigned Names and Numbers, Obama Administration, U.S. Commerce Department_
+_Context: Internet, Internet Corporation for Assigned Names and Numbers, Obama administration, U.S. Commerce Department_
 
 ## [Previous Day...](/news/2016/09/30/index.md)
 

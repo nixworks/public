@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.html)  [JSON](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.json)  [XML](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-other-much-larger-one-being-in-2015-unauthorized-access-to-payment-card-information-at-certa.xml)  
+
 ### [2017-10-13](/news/2017/10/13/index.md)
 
 # U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. 
