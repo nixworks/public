@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.html)  [JSON](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.json)  [XML](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.xml)  
 
-* [HTML](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.html)
-* [JSON](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.json)
-* [XML](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. 
@@ -29,4 +26,4 @@ In the video, a man identifies himself and a companion as Russian soldiers captu
 2. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: ISIL, Russia, Syrian Civil War_
 3. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: ISIL, Russia, Syrian Civil War_
 4. [According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensive-against-the-isi.md) _Context: ISIL, Russia, Syrian Civil War_
-5. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
+5. [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md) _Context: Russia, Syrian Civil War_

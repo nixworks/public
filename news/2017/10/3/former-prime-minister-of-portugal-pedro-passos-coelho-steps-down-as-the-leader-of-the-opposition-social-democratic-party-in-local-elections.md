@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.html)  [JSON](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.json)  [XML](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.xml)  
 
-* [HTML](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.html)
-* [JSON](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.json)
-* [XML](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. 

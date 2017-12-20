@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2017/10/3/index.html)  [JSON](2017/10/3/index.json)  [XML](2017/10/3/index.xml)  
 
-* [HTML](2017/10/3/index.html)
-* [JSON](2017/10/3/index.json)
-* [XML](2017/10/3/index.xml)
 ## [2017-10-3](/news/2017/10/3/index.md)
 
 ### [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md)
@@ -13,16 +10,16 @@ In the video, a man identifies himself and a companion as Russian soldiers captu
 Energy minister Paul Wheelhouse tells MSPs that fracking &quot;cannot and will not take place in Scotland&quot;.
 
 ### [Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. ](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-accounts-were-hacked-in-the-august-2013-data-theft.md)
-Yahoo on Tuesday said that all 3 billion of its accounts were hacked in a 2013 data theft, tripling its earlier estimate of the size of the largest breach in history, in a disclosure that attorneys said sharply increased the legal exposure of its new owner, Verizon Communications Inc (VZ.N).
+Yahoo on Tuesday said that all 3 billion of its accounts were hacked in a 2013 data theft, tripling its earlier estimate of the size of the largest breach in history, in a disclosure that attorneys said sharply increased the legal exposure of its new owner, Verizon Communications Inc .
 
 ### [Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. ](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.md)
 The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, a spokesman for Governor Ricardo Rosello said on Tuesday.
 
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
-_Context: $, Amir Mirza Hekmati, CIA, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, U.S. Marine, default judgment, falsely accused, spy_
+_Context: $, Amir Mirza Hekmati, Central Intelligence Agency, Ellen S. Huvelle, Iran, Iran-United States relations, U.S. District Court for the District of Columbia, United States Marine Corps, default judgment, falsely accused, spy_
 
 ### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
-The Trump administration on Tuesday ordered the expulsion of 15 Cuban diplomats after pulling more than half of its own embassy staff out of Havana last week, drawing an angry protest from the Cuban government.
+_Context: Cuba, Cuba-United States relations, Havana, Rex Tillerson, Trump administration, United States, United States Department of State, United States Secretary of State, mysterious health attacks_
 
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
 A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.

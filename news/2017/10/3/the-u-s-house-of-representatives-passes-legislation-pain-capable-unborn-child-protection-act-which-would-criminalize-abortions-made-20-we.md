@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.html)  [JSON](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.json)  [XML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.xml)  
 
-* [HTML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.html)
-* [JSON](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.json)
-* [XML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. 

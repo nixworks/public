@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.html)  [JSON](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.json)  [XML](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.xml)  
 
-* [HTML](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.html)
-* [JSON](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.json)
-* [XML](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. 

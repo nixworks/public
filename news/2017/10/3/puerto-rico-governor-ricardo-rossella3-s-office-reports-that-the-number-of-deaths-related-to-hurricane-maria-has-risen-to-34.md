@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.html)  [JSON](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.json)  [XML](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.xml)  
 
-* [HTML](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.html)
-* [JSON](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.json)
-* [XML](/news/2017/10/3/puerto-rico-governor-ricardo-rossella3-s-office-reports-that-the-number-of-deaths-related-to-hurricane-maria-has-risen-to-34.xml)
 ### [2017-10-3](/news/2017/10/3/index.md)
 
 # Puerto Rico Governor Ricardo Rossello's office reports that the number of deaths related to Hurricane Maria has risen to 34. 
