@@ -6,8 +6,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [19 people are injured after a car deliberately crashes into pedestrians at the corner of Finders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/19-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-finders-street-and-elizabeth-street-in-melbourne-a.md)
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
-### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. An unspecified number of people are reported to have died. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-an-unspecified-number-of-people-are-reported-to-have-d.md)
-Manila (AFP) - A ferry with 251 people on board capsized in rough seas off the Philippines on Thursday with reports of an unspecified number of casualties, the coastguard said.
+### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least 4 people are reported to have died. The toll is expected to rise, as many are still missing ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-4-people-are-reported-to-have-died-the-toll.md)
+_Context: Luzon, Philippines_
 
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.
@@ -25,7 +25,7 @@ President Trump suggested on Wednesday that the United States could withhold for
 ### [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-aswarming-arounda-one-of-its-patrol-ship.md)
 South Korea&#039;s coast guard said it fired 249 warning shots over a group of Chinese fishing boats “swarming around” one of its patrol ships in South Korean waters, prompting a call for restraint from Beijing.
 
-### [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing ""serious risk [to] the independence of the judiciary and the separation of powers"". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
+### [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk [to] the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
 European commission tells member states that Polish government has put fundamental democratic values at risk
 
 ### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
@@ -34,7 +34,7 @@ Details of how products will be prescribed are yet to be confirmed.
 ### [The United States Senate passes the Tax Cuts and Jobs Act of 2017 by 51 votes to 48. ](/news/2017/12/20/the-united-states-senate-passes-the-tax-cuts-and-jobs-act-of-2017-by-51-votes-to-48.md)
 _Context: Tax Cuts and Jobs Act of 2017, United States Senate_
 
-### [16-year old Palestinian activist Ahed Tamimi, daughter of activist Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-activist-ahed-tamimi-daughter-of-activist-bassem-al-tamimi-is-arrested-on-december-19-in-a-pre-dawn-raid-on-her-ho.md)
+### [16-year old Palestinian activist Ahed Tamimi, daughter of activist Bassem al-Tamimi, is arrested on December 19 after assaulting an Israeli soldier in a pre-dawn raid on her home in Nabi Salih by the Israeli army. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-activist-ahed-tamimi-daughter-of-activist-bassem-al-tamimi-is-arrested-on-december-19-after-assaulting-an-israeli.md)
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.
 
 ### [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md)
