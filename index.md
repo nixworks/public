@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/21/index.md)
 
-### [14 people are injured after a car deliberately crashes into pedestrians at the corner of Finders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/14-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-finders-street-and-elizabeth-street-in-melbourne-a.md)
-A pedestrian has been hit by an SUV in Melbourne&#039;s CBD, hitting one person and injuring several other people. 
+### [19 people are injured after a car deliberately crashes into pedestrians at the corner of Finders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/19-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-finders-street-and-elizabeth-street-in-melbourne-a.md)
+Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. An unspecified number of people are reported to have died. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-an-unspecified-number-of-people-are-reported-to-have-d.md)
 Manila (AFP) - A ferry with 251 people on board capsized in rough seas off the Philippines on Thursday with reports of an unspecified number of casualties, the coastguard said.
