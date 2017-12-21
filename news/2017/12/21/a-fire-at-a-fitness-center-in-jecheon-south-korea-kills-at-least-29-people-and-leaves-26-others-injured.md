@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-kor
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
-# A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. 
+#  A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. 
 
 (UPDATED) The fire is believed to have started at a parking lot on the first floor of an eight-story building
 
@@ -12,6 +12,11 @@ Formats: [HTML](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-kor
 
 1. [AFP via Rappler](https://www.rappler.com/world/regions/asia-pacific/191954-dead-sauna-fire-south-korea)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/5788B00391F94B0FA8A2198159A27938/south-korea.jpg)
+
+### Changes:
+
+1. [ 2017 Jecheon fire: A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/2017-jecheon-fire-a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md) _2017-12-21 17:30:06 (First version)_
+1. [ A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md) _(Current version)_
 
 ### Related:
 
