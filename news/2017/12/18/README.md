@@ -16,7 +16,7 @@ First responders are treating the derailment in Washington state as a mass casua
 _Context: MiG-29, Minsk Mazowiecki_
 
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
-_Context: Jerusalem, United Nations Security Council resolution, its recognition of Jerusalem as Israel's capital_
+_Context: Jerusalem, United Nations Security Council resolution, its December 6th declaration_
 
 ### [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md)
 A White House official points the finger at Pyongyang for the WannaCry malware attack last May.
