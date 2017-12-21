@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-phi
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
-# A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing 
+# A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-phi
 
 1. [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. An unspecified number of people are reported to have died. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-an-unspecified-number-of-people-are-reported-to-have-d.md) _2017-12-21 11:30:06 (First version)_
 2. [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least 4 people are reported to have died. The toll is expected to rise, as many are still missing ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-4-people-are-reported-to-have-died-the-toll.md) _2017-12-21 20:30:06 (Update)_
-2. [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md) _(Current version)_
+2. [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md) _(Current version)_
 
 ### Related:
 
