@@ -3,13 +3,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/21/index.md)
 
-### [19 people are injured after a car deliberately crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/19-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne.md)
+### [19 people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested, and police believe the incident was a "deliberate act". ](/news/2017/12/21/19-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-australia-th.md)
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least 4 people are reported to have died. The toll is expected to rise, as many are still missing ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-4-people-are-reported-to-have-died-the-toll.md)
-_Context: Luzon, Philippines_
+_Context: Luzon, Maritime disasters in the Philippines, Philippines_
 
-### [ A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md)
+### [A fire at a fitness center in Jecheon, South Korea, kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md)
 (UPDATED) The fire is believed to have started at a parking lot on the first floor of an eight-story building
 
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md)
@@ -19,19 +19,19 @@ Separatist and pro-Spanish parties in Catalonia contest a snap regional election
 
 ## [Yesterday](/news/2017/12/20/index.md)
 
-### [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona.](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md)
+### [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. ](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md)
 Company loses challenge by Barcelona taxi drivers’ group, which argued Uber was directly involved in carrying passengers
 
 ### [A 5.0-magnitude earthquake strikes off the coast of Oaxaca and is felt in Mexico City. No casualties are reported. ](/news/2017/12/20/a-5-0-magnitude-earthquake-strikes-off-the-coast-of-oaxaca-and-is-felt-in-mexico-city-no-casualties-are-reported.md)
-_Context: Earthquakes in 2017, Mexico City, Oaxaca_
+_Context: Mexico City, Oaxaca, magnitude_
 
 ### [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md)
 President Trump suggested on Wednesday that the United States could withhold foreign aid for countries that vote in favor of a United Nations (U.N.) resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel&#039;s capital.
 
-### [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-aswarming-arounda-one-of-its-patrol-ship.md)
+### [South Korea's coast guard says it fired 249 warning shots over a group of Chinese fishing boats "swarming around" one of its patrol ships in South Korean waters. ](/news/2017/12/20/south-korea-s-coast-guard-says-it-fired-249-warning-shots-over-a-group-of-chinese-fishing-boats-swarming-around-one-of-its-patrol-ships-in.md)
 South Korea&#039;s coast guard said it fired 249 warning shots over a group of Chinese fishing boats “swarming around” one of its patrol ships in South Korean waters, prompting a call for restraint from Beijing.
 
-### [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk [to] the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
+### [The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting.md)
 European commission tells member states that Polish government has put fundamental democratic values at risk
 
 ### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
@@ -44,7 +44,7 @@ _Context: Donald Trump, House of Representatives, Obamacare, Senate, Tax Cuts an
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.
 
 ### [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md)
-_Context: Donald Trump, Sholom Rubashkin_
+_Context: Donald Trump, Presidency of Donald Trump, Sholom Rubashkin, U.S. President, bank fraud, money laundering_
 
 ### [The National Institutes of Health lifts a three-year ban on scientists experimenting with lethal viruses in the United States, saying the potential benefits of disease preparedness outweigh the risks. ](/news/2017/12/20/the-national-institutes-of-health-lifts-a-three-year-ban-on-scientists-experimenting-with-lethal-viruses-in-the-united-states-saying-the-po.md)
 _Context: National Institutes of Health, United States_

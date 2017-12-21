@@ -3,20 +3,22 @@ Formats: [HTML](/news/2017/12/20/the-european-commission-invokes-the-article-7-o
 
 ### [2017-12-20](/news/2017/12/20/index.md)
 
-# The European Commission invokes the article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under control of the leading political force and citing ""important threats for the rule of law"". 
+# The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". 
 
-
+European commission tells member states that Polish government has put fundamental democratic values at risk
 
 
 ### Sources:
 
 1. [Le Monde](http://www.lemonde.fr/europe/article/2017/12/20/l-europe-declenche-une-procedure-sans-precedent-contre-le-gouvernement-polonais_5232406_3214.html)
-1. [Cover Image](http://img.lemde.fr/2017/12/14/0/0/3336/1666/644/322/60/0/8f59734_45e183bec17c467681c83b033204c68b-45e183bec17c467681c83b033204c68b-0.jpg)
+2. [The Guardian](https://www.theguardian.com/world/2017/dec/20/eu-process-poland-voting-rights)
+2. [Cover Image](https://i.guim.co.uk/img/media/c51879e45db76b44ecd855fa3df5aabac544b0bf/0_281_4518_2710/master/4518.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=44be50aac7f2c8d09721b5c417829623)
 
 ### Changes:
 
 1. [ The European Commission invokes the article 7 of the European Treaty against EU's member Poland, denouncing recent judiciary reforms putting it under control of the leading political force.](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-eu-s-member-poland-denouncing-recent-judiciary-reforms-puttin.md) _2017-12-20 15:30:07 (First version)_
-1. [The European Commission invokes the article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under control of the leading political force and citing ""important threats for the rule of law"". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting.md) _(Current version)_
+2. [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk [to] the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md) _2017-12-21 18:30:06 (Update)_
+2. [The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting.md) _(Current version)_
 
 ### Related:
 
