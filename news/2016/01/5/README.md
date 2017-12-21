@@ -21,7 +21,7 @@ _Context: ISIL, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
 ### [A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. ](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchuan-resulting-in-at-least-14-deaths-and-over-30-injured.md)
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.
 
-### [California's state climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/california-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a-dent-in-the-ongoing-drought-bu.md)
+### [California's state Climatologist Michael Anderson mentions that the recent El Nino-fueled storms will put a dent in the ongoing drought, but not end the conditions citing larger reservoirs that are still below normal. ](/news/2016/01/5/california-s-state-climatologist-michael-anderson-mentions-that-the-recent-el-nia-o-fueled-storms-will-put-a-dent-in-the-ongoing-drought-bu.md)
 A major storm system coming in from the Pacific will dump heavy rains on California for the next two weeks, perhaps making the strongest El Niño in history.
 
 ### [Saudi Arabian Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-schedu.md)
