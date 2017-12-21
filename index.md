@@ -9,6 +9,9 @@ Nineteen people have been injured after a SUV ran down pedestrians on the corner
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least 4 people are reported to have died. The toll is expected to rise, as many are still missing ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-4-people-are-reported-to-have-died-the-toll.md)
 _Context: Luzon, Philippines_
 
+### [A fire at a fitness center in Jecheon, South Korea kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md)
+(UPDATED) The fire is believed to have started at a parking lot on the first floor of an eight-story building
+
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.
 
@@ -34,7 +37,10 @@ European commission tells member states that Polish government has put fundament
 ### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
 Details of how products will be prescribed are yet to be confirmed.
 
-### [16-year old Palestinian activist Ahed Tamimi, daughter of activist Bassem al-Tamimi, is arrested on December 19 after assaulting an Israeli soldier in a pre-dawn raid on her home in Nabi Salih by the Israeli army. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-activist-ahed-tamimi-daughter-of-activist-bassem-al-tamimi-is-arrested-on-december-19-after-assaulting-an-israeli.md)
+### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to the desk of the United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-the-desk-of-the-united-state.md)
+_Context: Donald Trump, House of Representatives, Obamacare, Senate, Tax Cuts and Jobs Act of 2017, United States, United States President_
+
+### [16-year old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 after assaulting an Israeli soldier in a pre-dawn raid on her home in Nabi Salih by the Israeli army. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of-bassem-al-tamimi-is-arrested-on-december-19-after-assaulting-an-israeli-soldier-in-a-pre-d.md)
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.
 
 ### [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md)

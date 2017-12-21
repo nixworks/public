@@ -10,7 +10,7 @@ Formats: [HTML](/news/2017/12/20/a-5-0-magnitude-earthquake-strikes-off-the-coas
 
 ### Sources:
 
-1. [CNN en español](http://cnnespanol.cnn.com/2017/12/20/sismo-oaxaca-mexico-diciembre/)
+1. [CNN en Español](http://cnnespanol.cnn.com/2017/12/20/sismo-oaxaca-mexico-diciembre/)
 1. [Cover Image](https://cnnespanol2.files.wordpress.com/2017/09/ultima-hora-cnnee-breaking.jpg?quality=100&amp;strip=info)
 
 ### Related:
