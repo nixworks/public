@@ -13,7 +13,7 @@ President Trump suggested on Wednesday that the United States could withhold for
 South Korea&#039;s coast guard said it fired 249 warning shots over a group of Chinese fishing boats “swarming around” one of its patrol ships in South Korean waters, prompting a call for restraint from Beijing.
 
 ### [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing ""serious risk [to] the independence of the judiciary and the separation of powers"". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
-_Context: E.U., European Commission, European Treaty, Poland, independence of the judiciary, judiciary reforms, judiciary reforms in Poland, ruling majority, separation of powers_
+European commission tells member states that Polish government has put fundamental democratic values at risk
 
 ### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
 Details of how products will be prescribed are yet to be confirmed.

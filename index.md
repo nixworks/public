@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/21/index.md)
 
+### [15 people are injured after a car hits pedestrians at the corner of Finders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/15-people-are-injured-after-a-car-hits-pedestrians-at-the-corner-of-finders-street-and-elizabeth-street-in-melbourne-australia-two-people.md)
+A pedestrian has been hit by an SUV in Melbourne&#039;s CBD, hitting one person and injuring several other people. 
+
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.
 
@@ -20,7 +23,7 @@ President Trump suggested on Wednesday that the United States could withhold for
 South Korea&#039;s coast guard said it fired 249 warning shots over a group of Chinese fishing boats “swarming around” one of its patrol ships in South Korean waters, prompting a call for restraint from Beijing.
 
 ### [ The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing ""serious risk [to] the independence of the judiciary and the separation of powers"". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-puttin.md)
-_Context: E.U., European Commission, European Treaty, Poland, independence of the judiciary, judiciary reforms, judiciary reforms in Poland, ruling majority, separation of powers_
+European commission tells member states that Polish government has put fundamental democratic values at risk
 
 ### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
 Details of how products will be prescribed are yet to be confirmed.
