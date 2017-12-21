@@ -18,7 +18,7 @@ South Korea&#039;s coast guard said it fired 249 warning shots over a group of C
 ### [The European Commission invokes the Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-the-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting.md)
 European commission tells member states that Polish government has put fundamental democratic values at risk
 
-### [Medical cannabis is legalised in New Zealand. ](/news/2017/12/20/medical-cannabis-is-legalised-in-new-zealand.md)
+### [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md)
 Details of how products will be prescribed are yet to be confirmed.
 
 ### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to the desk of the United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-the-desk-of-the-united-state.md)

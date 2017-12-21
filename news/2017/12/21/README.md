@@ -15,11 +15,14 @@ _Context: Luzon, Philippines_
 ### [The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-that-the-united-states-rescind.md)
 The vote amounted to a collective act of defiance toward the Trump administration at the United Nations, the world’s biggest diplomatic stage.
 
+### [Judge Michael Bohren rules Anissa Weier will spend 25 years in institutional care after she was previously found not guilty by reason of mental disease or defect of the 2014 murder of her classmate. ](/news/2017/12/21/judge-michael-bohren-rules-anissa-weier-will-spend-25-years-in-institutional-care-after-she-was-previously-found-not-guilty-by-reason-of-men.md)
+WAUKESHA — One of the two Wisconsin girls accused of stabbing a classmate to gain the favor of a horror character named Slenderman on Thursday, December 21st learned how long she&#039;ll spend in a mental health facility. The state on Thursday recommended 25 years commitment. The defense argued sh...
+
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former provincial government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-provincial-government-unsuccessful.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.
 
 ### [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md)
-_Context: Cuba, Parliament, President, Raul Castro_
+_Context: Cuba, Elections in Cuba, Parliament, President, Raul Castro_
 
 ### [The United States Centers for Disease Control and Prevention reports life expectancy in 2016 in America declined for the second year in a row because of the opioid crisis. ](/news/2017/12/21/the-united-states-centers-for-disease-control-and-prevention-reports-life-expectancy-in-2016-in-america-declined-for-the-second-year-in-a-ro.md)
 Life expectancy among Americans has fallen for the second year in a row as the opioid crisis continues to drive up overall death rates in the United States, the Centers for Disease Control and Prevention said on Thursday.
