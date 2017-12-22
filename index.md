@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/22/index.md)
 
-### [The United Kingdom's Home Office confirms the return of the iconic blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-iconic-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-pas.md)
+### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
 _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
