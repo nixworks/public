@@ -30,14 +30,14 @@ OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday 
 ### [Judge Michael Bohren rules Anissa Weier will spend 25 years in institutional care after she was previously found not guilty by reason of mental disease or defect of the 2014 stabbing of her classmate. ](/news/2017/12/21/judge-michael-bohren-rules-anissa-weier-will-spend-25-years-in-institutional-care-after-she-was-previously-found-not-guilty-by-reason-of-men.md)
 WAUKESHA — One of the two Wisconsin girls accused of stabbing a classmate to gain the favor of a horror character named Slenderman on Thursday, December 21st learned how long she&#039;ll spend in a mental health facility. The state on Thursday recommended 25 years commitment. The defense argued sh...
 
-### [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md)
-_Context: Government shutdown in the United States, continuing resolution_
-
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former regional government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-regional-government-unsuccessfully.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.
 
 ### [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md)
 _Context: Cuba, Elections in Cuba, Parliament, President, Raul Castro_
+
+### [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md)
+_Context: Government shutdown in the United States, continuing resolution_
 
 ### [The United States Centers for Disease Control and Prevention reports life expectancy in 2016 in America declined for the second year in a row because of the opioid crisis. ](/news/2017/12/21/the-united-states-centers-for-disease-control-and-prevention-reports-life-expectancy-in-2016-in-america-declined-for-the-second-year-in-a-ro.md)
 Life expectancy among Americans has fallen for the second year in a row as the opioid crisis continues to drive up overall death rates in the United States, the Centers for Disease Control and Prevention said on Thursday.

@@ -28,7 +28,7 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017_
+_Context: Donald Trump, Presidency of Donald Trump, President, Tax Cuts and Jobs Act of 2017_
 
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
 The suit claims the software tweak, which slows some older iPhones, is a fraud.
