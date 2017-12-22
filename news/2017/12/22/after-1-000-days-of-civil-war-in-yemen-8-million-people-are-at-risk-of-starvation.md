@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-8-millio
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
-# After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
+# After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation. 
 
 After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
