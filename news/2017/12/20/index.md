@@ -22,7 +22,7 @@ European commission tells member states that Polish government has put fundament
 Details of how products will be prescribed are yet to be confirmed.
 
 ### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to the desk of the United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-the-desk-of-the-united-state.md)
-_Context: Donald Trump, House of Representatives, Obamacare, Senate, Tax Cuts and Jobs Act of 2017, United States, United States President_
+_Context: Donald Trump, House of Representatives, Obamacare, President, Senate, Tax Cuts and Jobs Act of 2017, United States_
 
 ### [16-year old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army after being suspected of assaulting an Israeli soldier. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of-bassem-al-tamimi-is-arrested-on-december-19-in-a-pre-dawn-raid-on-her-home-in-nabi-salih-b.md)
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.

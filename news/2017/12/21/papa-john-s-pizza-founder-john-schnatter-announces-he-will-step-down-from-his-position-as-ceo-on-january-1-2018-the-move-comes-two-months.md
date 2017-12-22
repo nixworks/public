@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announ
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
-# Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he publicly criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. 
+# Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. 
 
 Papa John&apos;s founder John Schnatter will step down as CEO next month, about two months after he publicly criticized the NFL leadership over national anthem protests by football players — comments for which the company later apologized
 

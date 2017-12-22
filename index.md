@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The digit cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digit-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
 Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
+### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
+The suit claims the software tweak, which slows some older iPhones, is a fraud.
+
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
 _Context: Manila, Philippine Coast Guard_
 
@@ -14,6 +17,9 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 
 ### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognised-jerusalem-as-israel-s-c.md)
 _Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
+
+### [President Donald Trump signed the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signed-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
+_Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017_
 
 ### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
@@ -25,7 +31,7 @@ _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ## [Yesterday](/news/2017/12/21/index.md)
 
-### [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police, who believe that the incident was a "deliberate act" but not terrorism-related, report the suspect has a "history of drug use as well as mental health issues." ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md)
+### [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police, who believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md)
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
 ### [A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. ](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south-korea-after-crossing-the-korean-demilitarized-zone-dmz-south-korean-border-guards-fired-w.md)
@@ -34,7 +40,7 @@ _Context: Border incidents involving North and South Korea, Korean Demilitarized
 ### [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-a-10.md)
 _Context: Duke of York Islands, HMAS ''AE1'', Royal Australian Navy, submarine_
 
-### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he publicly criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
+### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
 Papa John&apos;s founder John Schnatter will step down as CEO next month, about two months after he publicly criticized the NFL leadership over national anthem protests by football players — comments for which the company later apologized
 
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md)
@@ -84,7 +90,7 @@ European commission tells member states that Polish government has put fundament
 Details of how products will be prescribed are yet to be confirmed.
 
 ### [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to the desk of the United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-the-desk-of-the-united-state.md)
-_Context: Donald Trump, House of Representatives, Obamacare, Senate, Tax Cuts and Jobs Act of 2017, United States, United States President_
+_Context: Donald Trump, House of Representatives, Obamacare, President, Senate, Tax Cuts and Jobs Act of 2017, United States_
 
 ### [16-year old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army after being suspected of assaulting an Israeli soldier. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of-bassem-al-tamimi-is-arrested-on-december-19-in-a-pre-dawn-raid-on-her-home-in-nabi-salih-b.md)
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.
