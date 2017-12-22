@@ -3,20 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/22/index.md)
 
+### [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md)
+After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
+
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
 Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
-### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
-The suit claims the software tweak, which slows some older iPhones, is a fraud.
-
-### [CSX Transportation names chief operating officer Jim Foote its new chief executive officer, succeeding Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-transportation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-hunter-harrison-who-died-last-week-h.md)
-_Context: CSX Transportation, Hunter Harrison_
+### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-hunter-harrison-who-died-last-week-harr.md)
+_Context: CSX Corporation, Hunter Harrison_
 
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
 _Context: Manila, Philippine Coast Guard_
-
-### [After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-8-million-people-are-at-risk-of-starvation.md)
-After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
 ### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s-c.md)
 _Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
@@ -32,6 +29,9 @@ _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
 _Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017_
+
+### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
+The suit claims the software tweak, which slows some older iPhones, is a fraud.
 
 ---
 
