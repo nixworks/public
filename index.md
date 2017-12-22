@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/22/index.md)
 
-### [The digit cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digit-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
+### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
 Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
@@ -15,17 +15,20 @@ _Context: Manila, Philippine Coast Guard_
 ### [After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-8-million-people-are-at-risk-of-starvation.md)
 After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
-### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognised-jerusalem-as-israel-s-c.md)
+### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s-c.md)
 _Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
 
-### [President Donald Trump signed the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signed-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017_
+### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
+_Context: North Korea, North Korea and weapons of mass destruction, United Nations Security Council_
 
 ### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
 _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
+
+### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
+_Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017_
 
 ---
 
@@ -42,6 +45,9 @@ _Context: Duke of York Islands, HMAS ''AE1'', Royal Australian Navy, submarine_
 
 ### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
 Papa John&apos;s founder John Schnatter will step down as CEO next month, about two months after he publicly criticized the NFL leadership over national anthem protests by football players — comments for which the company later apologized
+
+### [Alphabet Inc. announces Executive Chairman Eric Schmidt, who has been chief executive of Google-Alphabet since 2001, will step down in January 2018. Schmidt will continue to serve on Alphabet's board of directors. ](/news/2017/12/21/alphabet-inc-announces-executive-chairman-eric-schmidt-who-has-been-chief-executive-of-google-alphabet-since-2001-will-step-down-in-janua.md)
+Alphabet Inc said on Thursday its Executive Chairman Eric Schmidt will step down in January, ending a 17-year-run in which he played a central role in building a promising startup called Google into a global technology powerhouse.
 
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md)
 _Context: Luzon, Philippines_
@@ -73,9 +79,6 @@ Life expectancy among Americans has fallen for the second year in a row as the o
 
 ### [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. ](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md)
 Company loses challenge by Barcelona taxi drivers’ group, which argued Uber was directly involved in carrying passengers
-
-### [A 5.0-magnitude earthquake strikes off the coast of Oaxaca and is felt in Mexico City. No casualties are reported. ](/news/2017/12/20/a-5-0-magnitude-earthquake-strikes-off-the-coast-of-oaxaca-and-is-felt-in-mexico-city-no-casualties-are-reported.md)
-_Context: Mexico City, Oaxaca, magnitude_
 
 ### [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md)
 President Trump suggested on Wednesday that the United States could withhold foreign aid for countries that vote in favor of a United Nations (U.N.) resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel&#039;s capital.

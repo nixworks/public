@@ -15,6 +15,9 @@ _Context: Duke of York Islands, HMAS ''AE1'', Royal Australian Navy, submarine_
 ### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
 Papa John&apos;s founder John Schnatter will step down as CEO next month, about two months after he publicly criticized the NFL leadership over national anthem protests by football players — comments for which the company later apologized
 
+### [Alphabet Inc. announces Executive Chairman Eric Schmidt, who has been chief executive of Google-Alphabet since 2001, will step down in January 2018. Schmidt will continue to serve on Alphabet's board of directors. ](/news/2017/12/21/alphabet-inc-announces-executive-chairman-eric-schmidt-who-has-been-chief-executive-of-google-alphabet-since-2001-will-step-down-in-janua.md)
+Alphabet Inc said on Thursday its Executive Chairman Eric Schmidt will step down in January, ending a 17-year-run in which he played a central role in building a promising startup called Google into a global technology powerhouse.
+
 ### [A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. ](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-philippines-with-251-passengers-on-board-at-least-four-people-are-reported-to-have-died-the-to.md)
 _Context: Luzon, Philippines_
 

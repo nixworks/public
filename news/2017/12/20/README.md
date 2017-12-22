@@ -6,9 +6,6 @@ Formats: [HTML](2017/12/20/index.html)  [JSON](2017/12/20/index.json)  [XML](201
 ### [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. ](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md)
 Company loses challenge by Barcelona taxi drivers’ group, which argued Uber was directly involved in carrying passengers
 
-### [A 5.0-magnitude earthquake strikes off the coast of Oaxaca and is felt in Mexico City. No casualties are reported. ](/news/2017/12/20/a-5-0-magnitude-earthquake-strikes-off-the-coast-of-oaxaca-and-is-felt-in-mexico-city-no-casualties-are-reported.md)
-_Context: Mexico City, Oaxaca, magnitude_
-
 ### [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md)
 President Trump suggested on Wednesday that the United States could withhold foreign aid for countries that vote in favor of a United Nations (U.N.) resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel&#039;s capital.
 
