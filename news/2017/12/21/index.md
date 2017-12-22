@@ -22,10 +22,13 @@ _Context: Luzon, Philippines_
 (UPDATED) The fire is believed to have started at a parking lot on the first floor of an eight-story building
 
 ### [The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-that-the-united-states-rescind.md)
-The vote amounted to a collective act of defiance toward the Trump administration at the United Nations, the world’s biggest diplomatic stage.
+OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday that delivered a resounding rebuke to Donald Trump over his decision to move the U.S. embassy from Tel Aviv to Jerusa…
 
 ### [Judge Michael Bohren rules Anissa Weier will spend 25 years in institutional care after she was previously found not guilty by reason of mental disease or defect of the 2014 stabbing of her classmate. ](/news/2017/12/21/judge-michael-bohren-rules-anissa-weier-will-spend-25-years-in-institutional-care-after-she-was-previously-found-not-guilty-by-reason-of-men.md)
 WAUKESHA — One of the two Wisconsin girls accused of stabbing a classmate to gain the favor of a horror character named Slenderman on Thursday, December 21st learned how long she&#039;ll spend in a mental health facility. The state on Thursday recommended 25 years commitment. The defense argued sh...
+
+### [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md)
+_Context: Government shutdown in the United States, continuing resolution_
 
 ### [Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former regional government unsuccessfully declared independence. ](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-election-called-by-the-spanish-government-after-the-former-regional-government-unsuccessfully.md)
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.

@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9
 
 # The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. 
 
-The vote amounted to a collective act of defiance toward the Trump administration at the United Nations, the world’s biggest diplomatic stage.
+OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday that delivered a resounding rebuke to Donald Trump over his decision to move the U.S. embassy from Tel Aviv to Jerusa…
 
 
 ### Sources:
 
-1. [The New York Times](https://www.nytimes.com/2017/12/21/world/middleeast/trump-jerusalem-united-nations.html)
-1. [Cover Image](https://static01.nyt.com/images/2017/12/22/world/22nations-sub/22nations-sub-facebookJumbo.jpg)
+1. [Canoe.com](http://canoe.com/news/world/foreign-affairs-spokesman-says-canada-will-abstain-from-u-n-vote-denouncing-trump-jerusalem-declaration)
+1. [Cover Image](https://postmediacanoe.files.wordpress.com/2017/12/united-nations-us-jerusalem1-e1513884066669.jpg)
 
 ### Changes:
 
