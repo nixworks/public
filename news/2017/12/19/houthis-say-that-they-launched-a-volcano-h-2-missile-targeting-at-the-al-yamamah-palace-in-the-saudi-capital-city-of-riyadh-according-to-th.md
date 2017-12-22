@@ -5,14 +5,14 @@ Formats: [HTML](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-mi
 
 # Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. 
 
-Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
+Earlier Tuesday, Yemen&#39;s Houthi rebel group said it fired &#39;ballistic missile&#39; towards Saudi capital Riyadh - Anadolu Agency
 
 
 ### Sources:
 
 1. [Anadolu Agency](http://aa.com.tr/en/middle-east/islamic-organization-condemns-houthi-missile-attack/1009341)
-2. [Wall Street Journal](https://www.wsj.com/articles/saudi-arabia-intercepts-missile-fired-by-yemen-houthi-rebels-1513686517)
-2. [Cover Image](https://si.wsj.net/public/resources/images/BN-WR074_saudi1_SOC_20171219072038.jpg)
+2. [Reuters](https://www.reuters.com/article/us-saudi-blast/saudi-arabia-intercepts-houthi-missile-fired-toward-riyadh-no-reported-casualties-idUSKBN1ED17Y?il=0)
+2. [Cover Image](http://aa.com.tr/uploads/Contents/2017/12/19/thumbs_m_c_f30f8474c01b5da17b568091705d773e.jpg?v=175753)
 
 ### Changes:
 

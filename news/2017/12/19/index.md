@@ -4,7 +4,7 @@ Formats: [HTML](2017/12/19/index.html)  [JSON](2017/12/19/index.json)  [XML](201
 ## [2017-12-19](/news/2017/12/19/index.md)
 
 ### [Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. ](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-according-to-th.md)
-Saudi Arabia intercepted a ballistic missile fired by Yemen’s Houthi rebels over its capital city Tuesday, the second such incident in two months and another potential flashpoint in the volatile Saudi-Iranian relationship.
+Earlier Tuesday, Yemen&#39;s Houthi rebel group said it fired &#39;ballistic missile&#39; towards Saudi capital Riyadh - Anadolu Agency
 
 ### [An NTSB spokesperson says that preliminary indications are that the train was travelling at 80 mph on a 30 mph track. The Positive train control (PTC) safety system was not operational on the train, says Amtrak. ](/news/2017/12/19/an-ntsb-spokesperson-says-that-preliminary-indications-are-that-the-train-was-travelling-at-80-mph-on-a-30-mph-track-the-positive-train-con.md)
 Investigators focus on how fast the Amtrak train took a bend that had reduced speed warnings.
