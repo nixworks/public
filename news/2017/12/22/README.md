@@ -9,6 +9,9 @@ Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital curr
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
 The suit claims the software tweak, which slows some older iPhones, is a fraud.
 
+### [CSX Transportation names chief operating officer Jim Foote its new chief executive officer, succeeding Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-transportation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-hunter-harrison-who-died-last-week-h.md)
+_Context: CSX Transportation, Hunter Harrison_
+
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
 _Context: Manila, Philippine Coast Guard_
 
