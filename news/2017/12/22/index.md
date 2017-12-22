@@ -12,5 +12,8 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 ### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
+### [Palestinian President Mahmoud Abbas has said he will not accept any US plan for peace with Israel, after it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-has-said-he-will-not-accept-any-us-plan-for-peace-with-israel-after-it-recognised-jerusalem-as-israel-s.md)
+_Context: United Nations General Assembly resolution ES-10/L.22_
+
 ## [Previous Day...](/news/2017/12/21/index.md)
 
