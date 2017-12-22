@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/22/index.md)
 
-### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Brexit, British passport, European Union, Home Office, United Kingdom_
+### [The digit cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digit-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
+Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
 _Context: Manila, Philippine Coast Guard_
@@ -12,11 +12,14 @@ _Context: Manila, Philippine Coast Guard_
 ### [After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-8-million-people-are-at-risk-of-starvation.md)
 After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
+### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognised-jerusalem-as-israel-s-c.md)
+_Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
+
 ### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
-### [Palestinian President Mahmoud Abbas has said he will not accept any US plan for peace with Israel, after it recognised Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-has-said-he-will-not-accept-any-us-plan-for-peace-with-israel-after-it-recognised-jerusalem-as-israel-s.md)
-_Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
+### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
+_Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ---
 
