@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/23/index.html)  [JSON](2017/12/23/index.json)  [XML](201
 
 ## [2017-12-23](/news/2017/12/23/index.md)
 
-### [Nearly 90 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-90-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md)
+### [Nearly 114 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-114-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md)
 A tropical storm in the Philippines triggered mudslides and flooding that killed nearly 90 people, while dozens are missing, police and disaster officials said on Saturday.
 
 ### [A fire breaks out at a cafe and shop at the London Zoo. An aardvark is killed and four meerkats are missing. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo-an-aardvark-is-killed-and-four-meerkats-are-missing.md)
