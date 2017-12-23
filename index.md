@@ -12,7 +12,7 @@ The flames are now &quot;under control&quot; but there is no word on the safety 
 ### [The Thomas Fire becomes the largest in Californian state history. ](/news/2017/12/23/the-thomas-fire-becomes-the-largest-in-californian-state-history.md)
 The Thomas fire has now burned an area greater than New York City, Brussels and Paris combined.
 
-### [33 people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.](/news/2017/12/23/33-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md)
+### [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md)
 An investigation is under way after the bus crashed through a bridge railing and into a river in the Indian state of Rajasthan.
 
 ---
