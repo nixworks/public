@@ -30,7 +30,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, United Natio
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
 _Context: Javelin, Ukraine-United States relations_
 
-### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
+### [ Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament-while-the-unionist-citizens-party-secures-the-highest-n.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)

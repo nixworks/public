@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Nearly 90 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-90-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md)
 A tropical storm in the Philippines triggered mudslides and flooding that killed nearly 90 people, while dozens are missing, police and disaster officials said on Saturday.
 
-### [A fire breaks out at a cafe and shop at the London Zoo. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo.md)
+### [A fire breaks out at a cafe and shop at the London Zoo. An aardvark is killed and four meerkats are missing. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo-an-aardvark-is-killed-and-four-meerkats-are-missing.md)
 The flames are now &quot;under control&quot; but there is no word on the safety of animals that were in the vicinity.
 
 ### [The fire becomes the largest in Californian state history. ](/news/2017/12/23/the-fire-becomes-the-largest-in-californian-state-history.md)
@@ -46,7 +46,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, United Natio
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
 _Context: Javelin, Ukraine-United States relations_
 
-### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
+### [ Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament-while-the-unionist-citizens-party-secures-the-highest-n.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
