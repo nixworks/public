@@ -6,6 +6,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Nearly ninety people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/nearly-ninety-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md)
 A tropical storm in the Philippines triggered mudslides and flooding that killed nearly 90 people, while dozens are missing, police and disaster officials said on Saturday.
 
+### [A fire breaks out at a caf and shop at London Zoo. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafe-and-shop-at-london-zoo.md)
+The flames are now &quot;under control&quot; but there is no word on the safety of animals that were in the vicinity.
+
+### [The fire becomes the largest in Californian state history. ](/news/2017/12/23/the-fire-becomes-the-largest-in-californian-state-history.md)
+The Thomas fire has now burned an area greater than New York City, Brussels and Paris combined.
+
 ---
 
 ## [Yesterday](/news/2017/12/22/index.md)
