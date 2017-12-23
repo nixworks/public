@@ -6,16 +6,22 @@ Formats: [HTML](2017/12/22/index.html)  [JSON](2017/12/22/index.json)  [XML](201
 ### [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md)
 After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
+### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities, and in East Jerusalem against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
+_Context: East Jerusalem, Gaza border fence, Israeli troops, Palestinians, Protests on U.S. recognition of Jerusalem as Israeli capital, West Bank_
+
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
 Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
 ### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-hunter-harrison-who-died-last-week-harr.md)
 _Context: CSX Corporation, Hunter Harrison_
 
+### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
+The suit claims the software tweak, which slows some older iPhones, is a fraud.
+
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
 _Context: Manila, Philippine Coast Guard_
 
-### [Palestinian President Mahmoud Abbas says he will not accept any US plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-us-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s-c.md)
+### [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md)
 _Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution ES-10/L.22_
 
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
@@ -28,10 +34,7 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 _Context: Brexit, British passport, European Union, Home Office, United Kingdom_
 
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, Presidency of Donald Trump, President, Tax Cuts and Jobs Act of 2017_
-
-### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
-The suit claims the software tweak, which slows some older iPhones, is a fraud.
+_Context: Donald Trump, President, Tax Cuts and Jobs Act of 2017, Tax reform in the United States_
 
 ## [Previous Day...](/news/2017/12/21/index.md)
 
