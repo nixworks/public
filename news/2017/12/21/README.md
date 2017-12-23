@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/21/index.html)  [JSON](2017/12/21/index.json)  [XML](201
 
 ## [2017-12-21](/news/2017/12/21/index.md)
 
-### [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police, who believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md)
+### [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md)
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
 ### [A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. ](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south-korea-after-crossing-the-korean-demilitarized-zone-dmz-south-korean-border-guards-fired-w.md)

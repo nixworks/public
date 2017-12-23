@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
-# Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police, who believe that the incident was a "deliberate act" but not terrorism-related. 
+# Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. 
 
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
@@ -22,7 +22,7 @@ Nineteen people have been injured after a SUV ran down pedestrians on the corner
 4. [19 people are injured after a car deliberately crashes into pedestrians at the corner of Finders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/19-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-finders-street-and-elizabeth-street-in-melbourne-a.md) _2017-12-21 12:30:06 (Update)_
 5. [19 people are injured after a car deliberately crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. Two people have been arrested. ](/news/2017/12/21/19-people-are-injured-after-a-car-deliberately-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne.md) _2017-12-21 18:30:07 (Update)_
 6. [19 people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested, and police believe the incident was a "deliberate act". ](/news/2017/12/21/19-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-australia-th.md) _2017-12-21 19:30:06 (Update)_
-6. [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police, who believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md) _(Current version)_
+6. [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md) _(Current version)_
 
 ### Related:
 
