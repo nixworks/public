@@ -19,8 +19,8 @@ _Context: East Jerusalem, Gaza border fence, Israeli troops, Palestinians, Prote
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
 Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital currency losing roughly a third of its value in less than 24 hours, according to data from CoinDesk.com.
 
-### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-hunter-harrison-who-died-last-week-harr.md)
-_Context: CSX Corporation, Hunter Harrison_
+### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding E. Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-e-hunter-harrison-who-died-last-week-h.md)
+_Context: CSX Corporation, E. Hunter Harrison_
 
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
 The suit claims the software tweak, which slows some older iPhones, is a fraud.
@@ -33,6 +33,9 @@ _Context: Jerusalem, Mahmoud Abbas, United Nations General Assembly resolution E
 
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
 _Context: North Korea, North Korea and weapons of mass destruction, United Nations Security Council_
+
+### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
+_Context: Javelin, Ukraine-United States relations_
 
 ### [ Pro-independence parties retain their absolute majority in the regional parliament. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
