@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-oth
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
-# Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities, and in East Jerusalem against the U.S. declaration. 
+# Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. 
 
 
 

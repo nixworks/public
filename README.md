@@ -13,7 +13,7 @@ A tropical storm in the Philippines triggered mudslides and flooding that killed
 ### [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md)
 After 1,000 days of civil war in Yemen, 8 million people are at risk of starvation.
 
-### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities, and in East Jerusalem against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
+### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
 _Context: East Jerusalem, Gaza border fence, Israeli troops, Palestinians, Protests on U.S. recognition of Jerusalem as Israeli capital, West Bank_
 
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
