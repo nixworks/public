@@ -15,6 +15,9 @@ The Thomas fire has now burned an area greater than New York City, Brussels and 
 ### [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md)
 An investigation is under way after the bus crashed through a bridge railing and into a river in the Indian state of Rajasthan.
 
+### [A mail carrier, told he would lose his job, enters the Dublin, Ohio, post office, naked, and shoots and kills a male supervisor. Hours later, still unclothed, the suspect drives to the Columbus apartment of a female supervisor, who dies instantly from blunt-force trauma to her head. The 24-year-old man is arrested. ](/news/2017/12/23/a-mail-carrier-told-he-would-lose-his-job-enters-the-dublin-ohio-post-office-naked-and-shoots-and-kills-a-male-supervisor-hours-later.md)
+A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police
+
 ### [Previously secret documents from Alan Ewen Donald, the United Kingdom's ambassador to China between 1988 and 1991, regarding the Tiananmen Square protests of 1989, are released after being declassified in October, putting the death toll from the protests at 10,000 people. ](/news/2017/12/23/previously-secret-documents-from-alan-ewen-donald-the-united-kingdom-s-ambassador-to-china-between-1988-and-1991-regarding-the-tiananmen-s.md)
 The figure for the pro-democracy killings in Beijing in 1989 comes from newly-released UK cables.
 
