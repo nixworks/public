@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-a
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
-# Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.
+# Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India. 
 
 An investigation is under way after the bus crashed through a bridge railing and into a river in the Indian state of Rajasthan.
 
@@ -17,7 +17,7 @@ An investigation is under way after the bus crashed through a bridge railing and
 
 1. [33 killed and 15 injured as bus falls 65 feet into river in Rajasthan, Western India.](/news/2017/12/23/33-killed-and-15-injured-as-bus-falls-65-feet-into-river-in-rajasthan-western-india.md) _2017-12-23 14:30:06 (First version)_
 2. [33 people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.](/news/2017/12/23/33-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md) _2017-12-23 18:30:07 (Update)_
-2. [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India.](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md) _(Current version)_
+2. [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India. ](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md) _(Current version)_
 
 ### Related:
 
