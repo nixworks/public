@@ -12,7 +12,3 @@ Formats: [HTML](/news/2017/12/24/officials-raise-the-death-total-from-this-storm
 
 1. [Malay Mail](http://www.themalaymailonline.com/world/article/philippines-storm-leaves-182-dead-tens-of-thousands-displaced#10llQMBbatl3Bmz7.97)
 1. [Cover Image](http://www.themalaymailonline.com/uploads/articles/2017/2017-12/floodsphil2412.jpg)
-
-### Related:
-
-1. [More than 200 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/more-than-200-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _Context: Tropical Storm Tembin_

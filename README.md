@@ -28,7 +28,7 @@ An investigation is under way after the bus crashed through a bridge railing and
 ### [Thirty-seven people are missing presumed dead after a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-are-missing-presumed-dead-after-a-fire-in-the-davao-city-mall-in-the-philippines.md)
 A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 people feared dead, it has emerged.
 
-### [A mail carrier from Dublin, Ohio--told that he would lose his job--kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobakills-2-of-his-supervisors.md)
+### [A mail carrier from Dublin, Ohio--told that he would lose his job--allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobaallegedly-kills-2-of-his-supervisors.md)
 A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police
 
 ### [Previously secret documents from Alan Ewen Donald, the United Kingdom's ambassador to China between 1988 and 1991, regarding the Tiananmen Square protests of 1989, are released after being declassified in October, putting the death toll from the protests at 10,000 people. ](/news/2017/12/23/previously-secret-documents-from-alan-ewen-donald-the-united-kingdom-s-ambassador-to-china-between-1988-and-1991-regarding-the-tiananmen-s.md)
