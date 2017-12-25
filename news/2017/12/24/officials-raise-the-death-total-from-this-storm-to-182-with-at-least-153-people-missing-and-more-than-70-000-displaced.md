@@ -10,5 +10,5 @@ Formats: [HTML](/news/2017/12/24/officials-raise-the-death-total-from-this-storm
 
 ### Sources:
 
-1. [Malay Mail](http://www.themalaymailonline.com/world/article/philippines-storm-leaves-182-dead-tens-of-thousands-displaced#10llQMBbatl3Bmz7.97)
+1. [Malay Mail](http://www.themalaymailonline.com/world/article/philippines-storm-leaves-182-dead-tens-of-thousands-displaced)
 1. [Cover Image](http://www.themalaymailonline.com/uploads/articles/2017/2017-12/floodsphil2412.jpg)

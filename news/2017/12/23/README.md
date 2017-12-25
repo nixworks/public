@@ -15,8 +15,11 @@ The Thomas fire has now burned an area greater than New York City, Brussels and 
 ### [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India. ](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md)
 An investigation is under way after the bus crashed through a bridge railing and into a river in the Indian state of Rajasthan.
 
-### [Thirty-seven people are missing presumed dead after a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-are-missing-presumed-dead-after-a-fire-in-the-davao-city-mall-in-the-philippines.md)
+### [Thirty-seven people, most call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-most-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md)
 A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 people feared dead, it has emerged.
+
+### [French President Emmanuel Macron says he will help strengthen the military forces of the G5 Sahel fighting Islamist militants in the Northern Mali conflict. ](/news/2017/12/23/french-president-emmanuel-macron-says-he-will-help-strengthen-the-military-forces-of-the-g5-sahel-fighting-islamist-militants-in-the-norther.md)
+President Emmanuel Macron said on Saturday France stood ready if needed to strengthen its military force fighting alongside African troops against Islamist insurgents in the Sahel.
 
 ### [A mail carrier from Dublin, Ohio--told that he would lose his job--allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobaallegedly-kills-2-of-his-supervisors.md)
 A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police
