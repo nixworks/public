@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-o
 
 ### [2017-12-25](/news/2017/12/25/index.md)
 
-# A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. ISIS claims responsibilty for the attack . 
+# A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. ISIS claims responsibilty for the attack. 
 
 
 
