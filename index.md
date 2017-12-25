@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2017/12/25/index.md)
 
 ### [About 19 were killed and 25 others were injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
-_Context: Bus accidents in the Philippines, La Union, jeepney_
+_Context: La Union, jeepney_
 
 ---
 
