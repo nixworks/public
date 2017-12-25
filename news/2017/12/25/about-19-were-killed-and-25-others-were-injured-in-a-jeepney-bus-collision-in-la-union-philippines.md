@@ -10,4 +10,5 @@ Formats: [HTML](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured
 
 ### Sources:
 
-1. [Philippine Daily Inquirer](https://newsinfo.inquirer.net/955018/breaking-accident-road-dead-jeepney-bus-partas-agoo-la-union)
+1. [CNN](http://edition.cnn.com/2017/12/25/asia/philippines-bus-crash-tembin-vinta/index.html)
+2. [Philippine Daily Inquirer](https://newsinfo.inquirer.net/955018/breaking-accident-road-dead-jeepney-bus-partas-agoo-la-union)
