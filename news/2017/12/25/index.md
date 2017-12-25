@@ -9,7 +9,7 @@ _Context: ISIS, Kabul, National Directorate of Security, War in Afghanistan (200
 ### [About 19 were killed and 25 others were injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
 _Context: La Union, jeepney_
 
-### [A public transport bus drives into Slavyansky Bulvar subway station entrance in Moscow, Russia. 5 dead and 15 injured are reported. The incident is not suspected to be terror-related. ](/news/2017/12/25/a-public-transport-bus-drives-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-5-dead-and-15-injured-are-reported-the-inci.md)
+### [A public transport bus drives into Slavyansky Bulvar subway station entrance in Moscow, Russia. Five dead and 15 injured are reported. The incident is not suspected to be terror-related. ](/news/2017/12/25/a-public-transport-bus-drives-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-five-dead-and-15-injured-are-reported-the-i.md)
 It ploughed into a subway entrance, leaving at least four people dead, Russian media say.
 
 ### [The Russian Central Election Commission refuses to register opposition leader Alexei Navalny as a candidate in the presidential election due to a previous embezzlement conviction, which he claims is politicized. Navalny has called for his supporters to boycott the upcoming election in response. ](/news/2017/12/25/the-russian-central-election-commission-refuses-to-register-opposition-leader-alexei-navalny-as-a-candidate-in-the-presidential-election-due.md)
