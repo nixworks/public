@@ -9,7 +9,7 @@ _Context: ISIS, Kabul, National Directorate of Security, War in Afghanistan (200
 ### [About 19 were killed and 25 others were injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-were-killed-and-25-others-were-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
 _Context: La Union, jeepney_
 
-### [A public transport bus drives into a subway entrance in Moscow, Russia. 5 dead and 15 injured are reported. The incident is not suspected to be terror-related. ](/news/2017/12/25/a-public-transport-bus-drives-into-a-subway-entrance-in-moscow-russia-5-dead-and-15-injured-are-reported-the-incident-is-not-suspected-to.md)
+### [A public transport bus drives into Slavyansky Bulvar subway station entrance in Moscow, Russia. 5 dead and 15 injured are reported. The incident is not suspected to be terror-related. ](/news/2017/12/25/a-public-transport-bus-drives-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-5-dead-and-15-injured-are-reported-the-inci.md)
 It ploughed into a subway entrance, leaving at least four people dead, Russian media say.
 
 ## [Previous Day...](/news/2017/12/24/index.md)
