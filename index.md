@@ -50,7 +50,7 @@ Tunisia has barred Emirates Airlines flights from landing in its territory. The 
 ### [North Korea's foreign ministry, in an official statement, says the latest United Nations sanctions are an act of war and are, in effect, a complete economic blockade. ](/news/2017/12/24/north-koreaas-foreign-ministry-in-an-official-statement-says-the-latest-united-nations-sanctions-are-an-act-of-war-and-are-in-effect-a.md)
 _Context: North Korea's foreign ministry, Sanctions against North Korea, United Nations sanctions, act of war, blockade_
 
-### [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for human rights abuses. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-human-rights-abuses.md)
+### [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-corruption-and-human-rights-violat.md)
 Alberto Fujimori, 79, is being released by current President Pedro Pablo Kuczynski on health grounds.
 
 ### [The Turkish government dismisses 2,756 public servants for alleged links to organizations involved in the July 2016 Turkish "coup d'etat" attempt. ](/news/2017/12/24/the-turkish-government-dismisses-2-756-public-servants-for-alleged-links-to-organizations-involved-in-the-july-2016-turkish-coup-d-a-c-tat-a.md)
