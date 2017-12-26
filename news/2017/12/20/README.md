@@ -28,7 +28,7 @@ Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in We
 _Context: Donald Trump, Presidency of Donald Trump, Sholom Rubashkin, U.S. President, bank fraud, money laundering_
 
 ### [The National Institutes of Health lifts a three-year ban on scientists experimenting with lethal viruses in the United States, saying the potential benefits of disease preparedness outweigh the risks. ](/news/2017/12/20/the-national-institutes-of-health-lifts-a-three-year-ban-on-scientists-experimenting-with-lethal-viruses-in-the-united-states-saying-the-po.md)
-_Context: National Institutes of Health, United States_
+_Context: National Institutes of Health, United States, viruses_
 
 ## [Previous Day...](/news/2017/12/19/index.md)
 
