@@ -1,7 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/25/index.md)
+## [News](/news/2017/12/26/index.md)
+
+### [15 militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when 6 jihadists were executed. ](/news/2017/12/26/15-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-country.md)
+It is the biggest series of hangings since 2015 in Egypt, which is battling an insurgency.
+
+### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah.md)
+_Context: George Weah, Joseph Boakai, Liberia, Liberian general election, 2017_
+
+---
+
+## [Yesterday](/news/2017/12/25/index.md)
 
 ### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md)
 _Context: Amaq News Agency, ISIS, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
@@ -20,7 +30,7 @@ Alexei Navalny urges supporters to boycott the March vote after officials said h
 
 ---
 
-## [Yesterday](/news/2017/12/24/index.md)
+## [Day Before Yesterday](/news/2017/12/24/index.md)
 
 ### [Officials raise the death total from this storm to 182, with at least 153 people missing and more than 70,000 displaced. ](/news/2017/12/24/officials-raise-the-death-total-from-this-storm-to-182-with-at-least-153-people-missing-and-more-than-70-000-displaced.md)
  MANILA, Dec 24 — Tens of thousands have been forced from their homes by a tropical storm that battered the southern Philippines leaving at least 182 dead, police and aid agencies said today. Tropical Storm Tembin, which triggered flash floods
@@ -45,38 +55,7 @@ _Context: AVIC AG600, Aviation Industry Corporation of China, China, amphibious 
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/23/index.md)
-
-### [More than 200 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/more-than-200-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md)
-A tropical storm in the Philippines triggered mudslides and flooding that killed nearly 90 people, while dozens are missing, police and disaster officials said on Saturday.
-
-### [A fire breaks out at a cafe and shop at the London Zoo. An aardvark is killed and four meerkats are missing. ](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-london-zoo-an-aardvark-is-killed-and-four-meerkats-are-missing.md)
-The flames are now &quot;under control&quot; but there is no word on the safety of animals that were in the vicinity.
-
-### [The Thomas Fire becomes the largest in Californian state history. ](/news/2017/12/23/the-thomas-fire-becomes-the-largest-in-californian-state-history.md)
-The Thomas fire has now burned an area greater than New York City, Brussels and Paris combined.
-
-### [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India. ](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md)
-An investigation is under way after the bus crashed through a bridge railing and into a river in the Indian state of Rajasthan.
-
-### [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md)
-A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 people feared dead, it has emerged.
-
-### [French President Emmanuel Macron says he will help strengthen the military forces of the G5 Sahel fighting Islamist militants in the Northern Mali conflict. ](/news/2017/12/23/french-president-emmanuel-macron-says-he-will-help-strengthen-the-military-forces-of-the-g5-sahel-fighting-islamist-militants-in-the-norther.md)
-President Emmanuel Macron said on Saturday France stood ready if needed to strengthen its military force fighting alongside African troops against Islamist insurgents in the Sahel.
-
-### [A mail carrier from Dublin, Ohio--told that he would lose his job--allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohioatold-that-he-would-lose-his-jobaallegedly-kills-2-of-his-supervisors.md)
-A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police
-
-### [Previously secret documents from Alan Ewen Donald, the United Kingdom's ambassador to China between 1988 and 1991, regarding the Tiananmen Square protests of 1989, are released after being declassified in October, putting the death toll from the protests at 10,000 people. ](/news/2017/12/23/previously-secret-documents-from-alan-ewen-donald-the-united-kingdom-s-ambassador-to-china-between-1988-and-1991-regarding-the-tiananmen-s.md)
-The figure for the pro-democracy killings in Beijing in 1989 comes from newly-released UK cables.
-
-### [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md)
-_Context: Alberto Fujimori, Peru, low blood pressure_
-
----
-
-## [Previous Day...](/news/2017/12/22/index.md)
+## [Previous Day...](/news/2017/12/23/index.md)
 
 ---
 
