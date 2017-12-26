@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/25/index.html)  [JSON](2017/12/25/index.json)  [XML](201
 
 ## [2017-12-25](/news/2017/12/25/index.md)
 
-### [A suicide blast near the National Directorate of Security headquarters in Kabul kills ten. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-ten-amaq-news-agency-claims-isis-is-responsible-for-t.md)
+### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md)
 _Context: Amaq News Agency, ISIS, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
 
 ### [More than 70 civilians are believed killed in a two-day airstrike by the Saudi Arabian air force targeting Houthi rebels. ](/news/2017/12/25/more-than-70-civilians-are-believed-killed-in-a-two-day-airstrike-by-the-saudi-arabian-air-force-targeting-houthi-rebels.md)
