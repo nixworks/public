@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/26/index.md)
 
+### [7 Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas while Ukrainian champion Anna Muzychuk refuses to participate if she's required to wear an abaya. ](/news/2017/12/26/7-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no-dipl.md)
+Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is boycotting the event.
+
 ### [15 militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when 6 jihadists were executed. ](/news/2017/12/26/15-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-country.md)
 It is the biggest series of hangings since 2015 in Egypt, which is battling an insurgency.
 
