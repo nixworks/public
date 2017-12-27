@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/27/index.md)
 
+### [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md)
+It was one of the biggest swaps of prisoners since the conflict in eastern Ukraine began in 2014.
+
 ### [A blast occurs in a supermarket in the Russian city of Saint Petersburg. At least 10 people are injured, while police say they are treating the blast as attempted murder. ](/news/2017/12/27/a-blast-occurs-in-a-supermarket-in-the-russian-city-of-saint-petersburg-at-least-10-people-are-injured-while-police-say-they-are-treating.md)
 A blast ripped through a supermarket in the Russian city of St Petersburg on Wednesday evening, injuring several shoppers, Russian news agencies reported.
 
@@ -29,13 +32,13 @@ _Context: George Weah, Joseph Boakai, Liberia, Liberian general election, 2017_
 
 ## [Day Before Yesterday](/news/2017/12/25/index.md)
 
-### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md)
-_Context: Amaq News Agency, ISIS, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
+### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md)
+_Context: Amaq News Agency, ISIL, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
 
-### [More than 70 civilians are believed killed in a two-day airstrike by the Saudi Arabian air force targeting Houthi rebels. ](/news/2017/12/25/more-than-70-civilians-are-believed-killed-in-a-two-day-airstrike-by-the-saudi-arabian-air-force-targeting-houthi-rebels.md)
+### [More than 70 civilians are believed to have been killed in two-days of airstrikes by the Royal Saudi Air Force targeting Houthi forces. ](/news/2017/12/25/more-than-70-civilians-are-believed-to-have-been-killed-in-two-days-of-airstrikes-by-the-royal-saudi-air-force-targeting-houthi-forces.md)
 Local media say three children and two women among 71 victims of blitz targeting Houthi rebels across the country.
 
-### [About 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/about-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
+### [At least 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
 _Context: La Union, jeepney_
 
 ### [A public transport bus crashes into Slavyansky Bulvar subway station entrance in Moscow, Russia, killing four and injuring eleven. ](/news/2017/12/25/a-public-transport-bus-crashes-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-killing-four-and-injuring-eleven.md)
