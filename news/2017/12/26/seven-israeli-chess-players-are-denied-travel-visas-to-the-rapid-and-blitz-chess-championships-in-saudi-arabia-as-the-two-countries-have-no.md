@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-v
 
 ### [2017-12-26](/news/2017/12/26/index.md)
 
-# Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas while Ukrainian champion Anna Muzychuk refuses to participate if she's required to wear an abaya. 
+# Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she would be required to wear an abaya. 
 
 Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is boycotting the event.
 
@@ -16,7 +16,7 @@ Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is 
 ### Changes:
 
 1. [7 Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas while Ukrainian champion Anna Muzychuk refuses to participate if she's required to wear an abaya. ](/news/2017/12/26/7-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no-dipl.md) _2017-12-26 16:30:06 (First version)_
-1. [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas while Ukrainian champion Anna Muzychuk refuses to participate if she's required to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md) _(Current version)_
+1. [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she would be required to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md) _(Current version)_
 
 ### Related:
 

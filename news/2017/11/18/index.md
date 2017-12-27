@@ -7,7 +7,7 @@ Formats: [HTML](2017/11/18/index.html)  [JSON](2017/11/18/index.json)  [XML](201
 Malcolm Young, guitarist and co-founder of AC/DC, died Saturday at the age of 64 after a battle with dementia.
 
 ### [The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-juan-submarine-which-went-missing-on-15-november-2017.md)
-_Context: Argentine Navy, South Atlantic, submarine, submarine incident_
+_Context: Argentine Navy, Disappearance of ARA San Juan, South Atlantic, submarine_
 
 ### [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md)
 _Context: Beijing_
