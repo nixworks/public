@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/26/index.md)
+## [News](/news/2017/12/27/index.md)
+
+### [A blast occurs in a supermarket in the Russian city of Saint Petersburg. At least 4 people are hospitalized, while police say they are treating the blast as attempted murder. ](/news/2017/12/27/a-blast-occurs-in-a-supermarket-in-the-russian-city-of-saint-petersburg-at-least-4-people-are-hospitalized-while-police-say-they-are-treat.md)
+A blast ripped through a supermarket in the Russian city of St Petersburg on Wednesday evening, injuring several shoppers, Russian news agencies reported.
+
+---
+
+## [Yesterday](/news/2017/12/26/index.md)
 
 ### [According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate. ](/news/2017/12/26/according-to-emergency-services-and-the-houthi-owned-al-masirah-saudi-arabian-coalition-air-strikes-kill-15-people-and-wound-60-at-al-shahr.md)
 At least 20 people killed and dozens more wounded in a series of Saudi-led raids on a market in Taiz province. 
@@ -17,7 +24,7 @@ _Context: George Weah, Joseph Boakai, Liberia, Liberian general election, 2017_
 
 ---
 
-## [Yesterday](/news/2017/12/25/index.md)
+## [Day Before Yesterday](/news/2017/12/25/index.md)
 
 ### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIS is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isis-is-responsible-for-th.md)
 _Context: Amaq News Agency, ISIS, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
@@ -36,32 +43,7 @@ Alexei Navalny urges supporters to boycott the March vote after officials said h
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/24/index.md)
-
-### [Officials raise the death total from this storm to 182, with at least 153 people missing and more than 70,000 displaced. ](/news/2017/12/24/officials-raise-the-death-total-from-this-storm-to-182-with-at-least-153-people-missing-and-more-than-70-000-displaced.md)
- MANILA, Dec 24 — Tens of thousands have been forced from their homes by a tropical storm that battered the southern Philippines leaving at least 182 dead, police and aid agencies said today. Tropical Storm Tembin, which triggered flash floods
-
-### [Guatemalan President Jimmy Morales says he will move his country's Israeli embassy from Tel Aviv to Jerusalem. ](/news/2017/12/24/guatemalan-president-jimmy-morales-says-he-will-move-his-country-s-israeli-embassy-from-tel-aviv-to-jerusalem.md)
-_Context: Israel, Jerusalem, Jimmy Morales, Positions on Jerusalem, Tel Aviv_
-
-### [Tunisia's Transport Ministry suspends Emirates Airlines flights to Tunis. ](/news/2017/12/24/tunisia-s-transport-ministry-suspends-emirates-airlines-flights-to-tunis.md)
-Tunisia has barred Emirates Airlines flights from landing in its territory. The move comes after days of public outcry over United Arab Emirates airport security measures that targeted Tunisian women.
-
-### [North Korea's foreign ministry, in an official statement, says the latest United Nations sanctions are an act of war and are, in effect, a complete economic blockade. ](/news/2017/12/24/north-koreaas-foreign-ministry-in-an-official-statement-says-the-latest-united-nations-sanctions-are-an-act-of-war-and-are-in-effect-a.md)
-_Context: North Korea's foreign ministry, Sanctions against North Korea, United Nations sanctions, act of war, blockade_
-
-### [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-corruption-and-human-rights-violat.md)
-Alberto Fujimori, 79, is being released by current President Pedro Pablo Kuczynski on health grounds.
-
-### [The Turkish government dismisses 2,756 public servants for alleged links to organizations involved in the July 2016 Turkish "coup d'etat" attempt. ](/news/2017/12/24/the-turkish-government-dismisses-2-756-public-servants-for-alleged-links-to-organizations-involved-in-the-july-2016-turkish-coup-d-a-c-tat-a.md)
-Turkey&#x20;on&#x20;Sunday&#x20;ordered&#x20;the&#x20;dismissal&#x20;of&#x20;over&#x20;2,700&#x20;people&#x20;working&#x20;in&#x20;public&#x20;institutions&#x20;over&#x20;alleged&#x20;links&#x20;to&#x20;&quot;terror&quot;&#x20;in&#x20;the&#x20;latest&#x20;round&#x20;of&#x20;purges&#x20;since&#x20;la...
-
-### [China's AVIC AG600, the world's largest amphibious aircraft, makes its maiden flight. State-owned Aviation Industry Corporation of China (AVIC) has spent almost eight years developing the aircraft, which is designed to carry out marine rescues and battle wildfires. ](/news/2017/12/24/china-s-avic-ag600-the-world-s-largest-amphibious-aircraft-makes-its-maiden-flight-state-owned-aviation-industry-corporation-of-china-av.md)
-_Context: AVIC AG600, Aviation Industry Corporation of China, China, amphibious aircraft_
-
----
-
-## [Previous Day...](/news/2017/12/23/index.md)
+## [Previous Day...](/news/2017/12/24/index.md)
 
 ---
 
