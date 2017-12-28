@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.html)  [JSON](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.json)  [XML](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-maute-are-reportedly-killed-during-the-siege-of-marawi.xml)  
+
 ### [2017-10-16](/news/2017/10/16/index.md)
 
 # Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/at-least-two-people-are-dead-and-twelve-missing-after-a-landslide-on-the-malaysian-tourist-island-of-penang.html)  [JSON](/news/2017/10/21/at-least-two-people-are-dead-and-twelve-missing-after-a-landslide-on-the-malaysian-tourist-island-of-penang.json)  [XML](/news/2017/10/21/at-least-two-people-are-dead-and-twelve-missing-after-a-landslide-on-the-malaysian-tourist-island-of-penang.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # At least two people are dead and twelve missing after a landslide on the Malaysian tourist island of Penang. 

@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.html)  [JSON](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.json)  [XML](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. 
@@ -7,7 +10,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-nigeria-security/gunmen-kill-13-niger-gendarmes-in-attack-near-mali-border-idUSKBN1CQ0DI?il=0)
+1. [Reuters](https://www.reuters.com/article/us-nigeria-security/gunmen-kill-13-niger-gendarmes-in-attack-near-mali-border-idUSKBN1CQ0DI?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:

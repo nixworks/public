@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.html)  [JSON](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.json)  [XML](/news/2017/10/21/a-helicopter-carrying-five-people-crashes-into-kenya-s-lake-nakuru.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # A helicopter carrying five people crashes into Kenya's Lake Nakuru. 
@@ -12,8 +15,8 @@ NAIROBI, Kenya Oct 21 - A chopper believed to have five people on board crashed 
 
 ### Related:
 
-1. [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md) _Context: Helicopter accidents and incidents_
-2. [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md) _Context: Kenya_
-3. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya_
-4. [Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senate.md) _Context: Kenya_
-5. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Kenya_
+1. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _Context: Helicopter accidents and incidents_
+2. [Voters in Kenya go to the polls following the annulment of the results in the Kenyan general election. The President of Kenya Uhuru Kenyatta wins with a 98% majority following an opposition boycott. ](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.md) _Context: Kenya_
+3. [A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. ](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-off-svalbard-with-eight-people-reported-missing-a-search-and-rescue-operation-is-underway.md) _Context: Helicopter accidents and incidents_
+4. [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md) _Context: Kenya_
+5. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya_

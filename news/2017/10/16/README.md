@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/16/index.html)  [JSON](2017/10/16/index.json)  [XML](2017/10/16/index.xml)  
+
 ## [2017-10-16](/news/2017/10/16/index.md)
 
 ### [Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. ](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the-presence-of-al-shabaab-the-group-believed-to-be-responsible-for-a-recent-bombing-attack.md)
@@ -7,7 +10,7 @@ Somalis reacted to a devastating bomb attack on Saturday by marching and donatin
 Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 
 
 ### [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md)
-_Context: Damascus, Israeli Air Force, Lebanese, S-200, Spillover of the Syrian Civil War, Syria, reconnaissance_
+_Context: Damascus, Israeli Air Force, Lebanon, S-200, Spillover of the Syrian Civil War, Syria, reconnaissance_
 
 ### [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md)
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.

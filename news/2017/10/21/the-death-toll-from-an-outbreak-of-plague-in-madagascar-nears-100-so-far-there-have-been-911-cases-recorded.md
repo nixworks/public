@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.html)  [JSON](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.json)  [XML](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # The death toll from an outbreak of plague in Madagascar nears 100. So far, there have been 911 cases recorded. 

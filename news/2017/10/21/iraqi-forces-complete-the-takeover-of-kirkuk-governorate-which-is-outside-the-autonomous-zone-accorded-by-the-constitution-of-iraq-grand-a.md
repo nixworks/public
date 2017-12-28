@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.html)  [JSON](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.json)  [XML](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-governorate-which-is-outside-the-autonomous-zone-accorded-by-the-constitution-of-iraq-grand-a.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # Iraqi forces complete the takeover of Kirkuk Governorate, which is outside the autonomous zone accorded by the Constitution of Iraq. Grand Ayatollah Ali al-Sistani calls for the state to protect Kurds in northern Iraq. 
@@ -7,8 +10,8 @@ Iraqi forces on Friday took control of the last district in the oil-rich provinc
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-kurds-clash/iraqi-forces-complete-kirkuk-province-takeover-after-clashes-with-kurds-idUSKBN1CP0PT)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206321132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9J0TZ)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-kurds-clash/iraqi-forces-complete-kirkuk-province-takeover-after-clashes-with-kurds-idUSKBN1CP0PT)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171020&t=2&i=1206321132&w=1200&r=LYNXMPED9J0TZ)
 
 ### Related:
 

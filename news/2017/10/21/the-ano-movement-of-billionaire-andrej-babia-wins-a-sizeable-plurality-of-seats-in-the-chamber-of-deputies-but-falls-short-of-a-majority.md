@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.html)  [JSON](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.json)  [XML](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wins-a-sizeable-plurality-of-seats-in-the-chamber-of-deputies-but-falls-short-of-a-majority.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # The ANO movement of billionaire Andrej Babis wins a sizeable plurality of seats in the Chamber of Deputies, but falls short of a majority. 

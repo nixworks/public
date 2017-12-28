@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.html)  [JSON](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.json)  [XML](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.xml)  
+
 ### [2017-10-16](/news/2017/10/16/index.md)
 
 # Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. 

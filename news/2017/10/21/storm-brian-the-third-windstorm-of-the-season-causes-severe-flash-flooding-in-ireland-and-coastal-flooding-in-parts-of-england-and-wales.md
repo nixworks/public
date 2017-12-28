@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.html)  [JSON](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.json)  [XML](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. 

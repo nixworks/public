@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.html)  [JSON](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.json)  [XML](/news/2017/10/20/sixteen-members-of-the-egyptian-police-have-died-in-a-clash-with-islamic-militants-from-the-hasm-movement-more-than-fifteen-militants-have.xml)  
+
 ### [2017-10-20](/news/2017/10/20/index.md)
 
 # Sixteen members of the Egyptian Police have died in a clash with Islamic militants from the Hasm Movement. More than fifteen militants have been killed. 

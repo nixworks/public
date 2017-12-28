@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.html)  [JSON](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.json)  [XML](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.xml)  
+
 ### [2017-10-21](/news/2017/10/21/index.md)
 
 # Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. 
