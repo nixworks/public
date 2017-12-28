@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/27/index.md)
+## [News](/news/2017/12/28/index.md)
+
+### [An explosion in the Afghan Voice office in Kabul kills at least 40 people and injures 30. ](/news/2017/12/28/an-explosion-in-the-afghan-voice-office-in-kabul-kills-at-least-40-people-and-injures-30.md)
+_Context: Kabul, War in Afghanistan (2001-present)_
+
+---
+
+## [Yesterday](/news/2017/12/27/index.md)
 
 ### [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md)
 It was one of the biggest swaps of prisoners since the conflict in eastern Ukraine began in 2014.
@@ -17,7 +24,7 @@ One nuclear sub might not be that worrisome to the US and its allies. But by div
 
 ---
 
-## [Yesterday](/news/2017/12/26/index.md)
+## [Day Before Yesterday](/news/2017/12/26/index.md)
 
 ### [According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate. ](/news/2017/12/26/according-to-emergency-services-and-the-houthi-owned-al-masirah-saudi-arabian-coalition-air-strikes-kill-15-people-and-wound-60-at-al-shahr.md)
 At least 20 people killed and dozens more wounded in a series of Saudi-led raids on a market in Taiz province. 
@@ -39,26 +46,7 @@ They&#x20;call&#x20;them&#x20;&quot;the&#x20;mines&#x20;of&#x20;death&quot;.&#x2
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/25/index.md)
-
-### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md)
-_Context: Amaq News Agency, ISIL, Kabul, National Directorate of Security, War in Afghanistan (2001-present)_
-
-### [More than 70 civilians are believed to have been killed in two-days of airstrikes by the Royal Saudi Air Force targeting Houthi forces. ](/news/2017/12/25/more-than-70-civilians-are-believed-to-have-been-killed-in-two-days-of-airstrikes-by-the-royal-saudi-air-force-targeting-houthi-forces.md)
-Local media say three children and two women among 71 victims of blitz targeting Houthi rebels across the country.
-
-### [At least 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. ](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-injured-in-a-jeepney-bus-collision-in-la-union-philippines.md)
-_Context: La Union, jeepney_
-
-### [A public transport bus crashes into Slavyansky Bulvar subway station entrance in Moscow, Russia, killing four and injuring eleven. ](/news/2017/12/25/a-public-transport-bus-crashes-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-killing-four-and-injuring-eleven.md)
-It ploughed into a subway entrance, leaving at least four people dead, Russian media say.
-
-### [The Russian Central Election Commission refuses to register opposition leader Alexei Navalny as a candidate in the presidential election due to a previous embezzlement conviction, which he claims is politicized. Navalny has called for his supporters to boycott the upcoming election in response. ](/news/2017/12/25/the-russian-central-election-commission-refuses-to-register-opposition-leader-alexei-navalny-as-a-candidate-in-the-presidential-election-due.md)
-Alexei Navalny urges supporters to boycott the March vote after officials said he was ineligible.
-
----
-
-## [Previous Day...](/news/2017/12/24/index.md)
+## [Previous Day...](/news/2017/12/25/index.md)
 
 ---
 

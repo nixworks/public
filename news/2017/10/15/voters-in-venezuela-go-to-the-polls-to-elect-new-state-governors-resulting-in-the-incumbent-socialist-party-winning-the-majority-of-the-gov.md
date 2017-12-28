@@ -10,8 +10,8 @@ Formats: [HTML](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-ne
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-election/venezuela-socialists-win-regional-vote-opposition-sees-fraud-idUSKBN1CK06A?il=0)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205638608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9F0BC)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-election/venezuela-socialists-win-regional-vote-opposition-sees-fraud-idUSKBN1CK06A?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171016&t=2&i=1205727507&w=1200&r=LYNXMPED9F0BC)
 
 ### Related:
 
