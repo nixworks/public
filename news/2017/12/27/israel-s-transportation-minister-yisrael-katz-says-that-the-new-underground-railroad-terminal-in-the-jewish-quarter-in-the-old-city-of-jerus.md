@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/27/israel-s-transportation-minister-yisrael-katz-s
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
-# Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of Israeli-occupied East Jerusalem) will be named in honor of U.S. President Donald Trump. 
+# Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump. 
 
 &quot;The Western Wall is the holiest place for the Jewish people, and I decided to call the train station that leads to it after President Trump.&quot;
 

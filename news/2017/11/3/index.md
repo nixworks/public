@@ -1,13 +1,10 @@
 
-### Formats:
+Formats: [HTML](2017/11/3/index.html)  [JSON](2017/11/3/index.json)  [XML](2017/11/3/index.xml)  
 
-* [HTML](2017/11/3/index.html)
-* [JSON](2017/11/3/index.json)
-* [XML](2017/11/3/index.xml)
 ## [2017-11-3](/news/2017/11/3/index.md)
 
 ### [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md)
-_Context: Deir ez-Zor, Islamic State of Iraq and the Levant, Siege of Deir ez-Zor (2014-17), Syrian Army, Syrian Civil War, complete liberation_
+_Context: Deir ez-Zor, ISIL, Siege of Deir ez-Zor (2014-17), Syrian Army, Syrian Civil War, complete liberation_
 
 ### [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md)
 Iraqi forces have entered al-Qaim, one of the last remaining territories in the country still held by Islamic State militants, the Joint Operations Command said on Friday.
@@ -30,8 +27,8 @@ The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is d
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
 _Context: Human rights in Zimbabwe, Robert Mugabe, United States, Zimbabwe_
 
-### [A significant US federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-us-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activitie.md)
-_Context: Climate change, US federal government, greenhouse gases, human activities_
+### [A significant U.S. federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-u-s-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activit.md)
+_Context: Climate change, U.S. federal government, greenhouse gases, human activities_
 
 ## [Previous Day...](/news/2017/11/2/index.md)
 

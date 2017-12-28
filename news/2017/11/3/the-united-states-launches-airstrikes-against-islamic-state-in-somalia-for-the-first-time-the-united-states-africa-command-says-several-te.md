@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.html)  [JSON](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.json)  [XML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.xml)  
 
-* [HTML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.html)
-* [JSON](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.json)
-* [XML](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # The United States launches airstrikes against Islamic State in Somalia for the first time. The United States Africa Command says "several terrorists" were killed in the strikes, which took place in coordination with Somalia's government. 
@@ -13,7 +10,7 @@ The US military for the first time has conducted two air strikes against Isis gr
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/us-air-strikes-isis-somalia-puntland-first-attack-buqa-qandala-al-shabaab-a8036371.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/us-air-strikes-isis-somalia-puntland-first-attack-buqa-qandala-al-shabaab-a8036371.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/11/07/b-1b-lancer-bomber.jpg)
 
 ### Related:

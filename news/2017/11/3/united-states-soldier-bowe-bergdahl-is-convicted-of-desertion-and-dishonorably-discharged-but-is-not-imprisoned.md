@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.html)  [JSON](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.json)  [XML](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.xml)  
 
-* [HTML](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.html)
-* [JSON](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.json)
-* [XML](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.xml)
 ### [2017-11-3](/news/2017/11/3/index.md)
 
 # United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. 

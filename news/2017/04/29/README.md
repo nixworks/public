@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/04/29/index.html)  [JSON](2017/04/29/index.json)  [XML](2017/04/29/index.xml)  
+
 ## [2017-04-29](/news/2017/04/29/index.md)
 
 ### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
@@ -22,7 +25,7 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
 ### [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md)
-European Union leaders endorsed a stiff set of divorce terms for Britain at a summit on Saturday, rejoicing in a rare show of unity in adversity but well aware that may start to fray once negotiations begin.
+European Union leaders endorsed stiff divorce terms for Britain on Saturday and warned Britons to have &quot;no illusions&quot; about swiftly securing a new relationship to keep their access to EU markets.
 
 ### [The 2017 White House Correspondents' Dinner is held while Donald Trump decides not to attend, becoming the first incumbent president to do so since Ronald Reagan, who did not attend the dinner while recovering from a 1981 assassination attempt. ](/news/2017/04/29/the-2017-white-house-correspondents-dinner-is-held-while-donald-trump-decides-not-to-attend-becoming-the-first-incumbent-president-to-do-s.md)
 Without President Trump or anyone from the administration in attendance, the normally celebrity-filled event is more subdued and Samantha Bee is hosting her own event.
