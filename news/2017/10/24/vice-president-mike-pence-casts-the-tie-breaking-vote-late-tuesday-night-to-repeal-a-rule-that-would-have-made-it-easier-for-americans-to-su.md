@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.html)  [JSON](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.json)  [XML](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.xml)  
+
 ### [2017-10-24](/news/2017/10/24/index.md)
 
 # Vice President Mike Pence casts the tie-breaking vote late Tuesday night to repeal a rule that would have made it easier for Americans to sue their banks and credit card companies. 

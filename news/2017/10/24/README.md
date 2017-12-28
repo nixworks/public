@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/10/24/index.html)  [JSON](2017/10/24/index.json)  [XML](2017/10/24/index.xml)  
+
 ## [2017-10-24](/news/2017/10/24/index.md)
 
 ### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
-_Context: American, EBA regulator, EU, Economy of the European Union, European Commission, Volcker Rule, too big to fail, trading activities_
+_Context: Economy of the European Union, European Banking Authority, European Commission, European Union, United States, Volcker Rule, too big to fail, trading activities_
 
 ### [Vice President Mike Pence casts the tie-breaking vote late Tuesday night to repeal a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.md)
 _Context: Banking in the United States, Mike Pence, Vice President_
@@ -13,7 +16,7 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly among organizations located in Russia and Ukraine.
 
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party of China, General Secretary, Mao Zedong, Party Chairman, Xi Jinping, paramount leader_
+_Context: 19th National Congress of the Communist Party of China, Beijing, Communist Party of China, General Secretary of the Communist Party of China, Mao Zedong, Party Chairman, Xi Jinping, paramount leader_
 
 ### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)
 The Arizona lawmaker was one of the most vulnerable Republican senators up for reelection in 2018.

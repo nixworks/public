@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.html)  [JSON](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.json)  [XML](/news/2017/10/24/republican-leaders-in-the-u-s-house-of-representatives-launch-an-investigation-into-the-obama-administration-s-decision-in-2010-to-allow-ro.xml)  
+
 ### [2017-10-24](/news/2017/10/24/index.md)
 
 # Republican leaders in the U.S. House of Representatives launch an investigation into the Obama administration's decision in 2010 to allow Rosatom to purchase Canada-based Uranium One. 

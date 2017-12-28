@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.html)  [JSON](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.json)  [XML](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.xml)  
+
 ### [2017-10-24](/news/2017/10/24/index.md)
 
 # Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. 
