@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.html)  [JSON](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.json)  [XML](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.xml)  
+
 ### [2017-10-17](/news/2017/10/17/index.md)
 
 # A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. 

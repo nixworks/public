@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.html)  [JSON](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.json)  [XML](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.xml)  
+
 ### [2017-10-17](/news/2017/10/17/index.md)
 
 # The Iraqi Army and allied militias continue to seize Kurdish-held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. 

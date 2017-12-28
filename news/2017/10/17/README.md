@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/17/index.html)  [JSON](2017/10/17/index.json)  [XML](2017/10/17/index.xml)  
+
 ## [2017-10-17](/news/2017/10/17/index.md)
 
 ### [The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. ](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.md)
@@ -10,7 +13,7 @@ _Context: Gardez, Ghazni Province, Paktia Province, War in Afghanistan, police_
 The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.
 
 ### [Roy Price, chief of Amazon Studios, resigns amid accusations that he harassed a female producer and ignored an actress' allegation of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-accusations-that-he-harassed-a-female-producer-and-ignored-an-actress-allegation-of-sexual.md)
-_Context: Amazon Studios, Harvey Weinstein, Roy Price, allegation_
+Amazon Studios chief Roy Price has resigned, a company spokeswoman said on Tuesday, following allegations that he harassed a producer and took no action when an actress told him she was sexually assaulted by producer Harvey Weinstein.
 
 ### [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md)
 Demonstrators demanding major anti-corruption reforms vow to stay put, setting up tents in Kiev.

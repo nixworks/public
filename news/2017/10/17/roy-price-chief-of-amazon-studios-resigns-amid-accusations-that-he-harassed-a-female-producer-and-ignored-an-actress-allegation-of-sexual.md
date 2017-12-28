@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-accusations-that-he-harassed-a-female-producer-and-ignored-an-actress-allegation-of-sexual.html)  [JSON](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-accusations-that-he-harassed-a-female-producer-and-ignored-an-actress-allegation-of-sexual.json)  [XML](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-accusations-that-he-harassed-a-female-producer-and-ignored-an-actress-allegation-of-sexual.xml)  
+
 ### [2017-10-17](/news/2017/10/17/index.md)
 
 # Roy Price, chief of Amazon Studios, resigns amid accusations that he harassed a female producer and ignored an actress' allegation of sexual assault by producer Harvey Weinstein. 
 
-
+Amazon Studios chief Roy Price has resigned, a company spokeswoman said on Tuesday, following allegations that he harassed a producer and took no action when an actress told him she was sexually assaulted by producer Harvey Weinstein.
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-people-roy-price/amazon-studios-chief-resigns-after-harassment-reports-idUSKBN1CM308)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171017&t=2&i=1205930744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9G1XB)
+1. [Reuters](https://www.reuters.com/article/us-people-roy-price/amazon-studios-chief-resigns-after-harassment-reports-idUSKBN1CM308)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171017&t=2&i=1205930744&w=1200&r=LYNXMPED9G1XB)
 
 ### Changes:
 

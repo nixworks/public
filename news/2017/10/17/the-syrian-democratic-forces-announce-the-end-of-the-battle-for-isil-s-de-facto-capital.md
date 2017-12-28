@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.html)  [JSON](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.json)  [XML](/news/2017/10/17/the-syrian-democratic-forces-announce-the-end-of-the-battle-for-isil-s-de-facto-capital.xml)  
+
 ### [2017-10-17](/news/2017/10/17/index.md)
 
 # The Syrian Democratic Forces announce the end of the battle for ISIL's "de-facto" capital. 
