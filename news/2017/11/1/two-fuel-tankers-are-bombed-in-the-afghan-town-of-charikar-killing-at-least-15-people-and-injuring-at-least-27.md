@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.html)  [JSON](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.json)  [XML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.xml)  
 
-* [HTML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.html)
-* [JSON](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.json)
-* [XML](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.xml)
 ### [2017-11-1](/news/2017/11/1/index.md)
 
 # Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. 
@@ -13,8 +10,8 @@ At least 15 people were killed and 27 wounded when fuel tankers exploded in the 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-afghanistan-tanker/at-least-15-killed-in-afghanistan-tanker-explosion-idUSKBN1D15HK)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-afghanistan-tanker/at-least-15-killed-in-afghanistan-tanker-explosion-idUSKBN1D15HK)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171102&t=2&i=1208032095&w=1200&r=LYNXMPEDA107G)
 
 ### Changes:
 
