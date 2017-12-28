@@ -12,6 +12,9 @@ A blast ripped through a supermarket in the Russian city of St Petersburg on Wed
 ### [Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of Israeli-occupied East Jerusalem) will be named in honor of U.S. President Donald Trump. ](/news/2017/12/27/israel-s-transportation-minister-yisrael-katz-says-that-the-new-underground-railroad-terminal-in-the-jewish-quarter-in-the-old-city-of-jerus.md)
 &quot;The Western Wall is the holiest place for the Jewish people, and I decided to call the train station that leads to it after President Trump.&quot;
 
+### [North Korea is building its first operational ballistic missile submarine on an "accelerated schedule," according to the US-Korea Institute of Johns Hopkins School of Advanced International Studies. ](/news/2017/12/27/north-korea-is-building-its-first-operational-ballistic-missile-submarine-on-an-aaccelerated-schedule-a-according-to-the-us-korea-instit.md)
+One nuclear sub might not be that worrisome to the US and its allies. But by diversifying its nuclear program with surprising speed, North Korea may be moving toward a multi-prong effort to protect the existing regime.
+
 ---
 
 ## [Yesterday](/news/2017/12/26/index.md)
@@ -22,11 +25,17 @@ At least 20 people killed and dozens more wounded in a series of Saudi-led raids
 ### [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she does not want to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md)
 Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is boycotting the event.
 
+### [Forty Syrian rebel and opposition groups reject Russia's offer to attend peace talks in late January 2018. ](/news/2017/12/26/forty-syrian-rebel-and-opposition-groups-reject-russia-s-offer-to-attend-peace-talks-in-late-january-2018.md)
+_Context: Russia-Syria relations_
+
 ### [Fifteen militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when six jihadists were executed. ](/news/2017/12/26/fifteen-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-co.md)
 It is the biggest series of hangings since 2015 in Egypt, which is battling an insurgency.
 
 ### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah.md)
 _Context: George Weah, Joseph Boakai, Liberia, Liberian general election, 2017_
+
+### [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md)
+They&#x20;call&#x20;them&#x20;&quot;the&#x20;mines&#x20;of&#x20;death&quot;.&#x20;In&#x20;the&#x20;neglected&#x20;northern&#x20;Moroccan&#x20;mining&#x20;city&#x20;of&#x20;Jerada,&#x20;hundreds&#x20;of&#x20;people&#x20;risk&#x20;their&#x20;lives&#x20;every&#x20;day&#x20;to&#x20;scrape&#x20;a&#x20;me...
 
 ---
 
