@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.html)  [JSON](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.json)  [XML](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.xml)  
 
-* [HTML](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.html)
-* [JSON](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.json)
-* [XML](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.xml)
 ### [2017-11-4](/news/2017/11/4/index.md)
 
 # Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. 
