@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.html)  [JSON](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.json)  [XML](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.xml)  
 
-* [HTML](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.html)
-* [JSON](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.json)
-* [XML](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. 

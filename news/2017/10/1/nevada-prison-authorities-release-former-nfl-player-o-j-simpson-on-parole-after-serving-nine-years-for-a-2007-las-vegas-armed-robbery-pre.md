@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.html)  [JSON](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.json)  [XML](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.xml)  
 
-* [HTML](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.html)
-* [JSON](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.json)
-* [XML](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. 

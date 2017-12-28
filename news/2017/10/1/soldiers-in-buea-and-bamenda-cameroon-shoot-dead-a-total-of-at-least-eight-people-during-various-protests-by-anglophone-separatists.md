@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.html)  [JSON](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.json)  [XML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.xml)  
 
-* [HTML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.html)
-* [JSON](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.json)
-* [XML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. 
@@ -13,8 +10,8 @@
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-cameroon-politics/at-least-eight-dead-amid-cameroon-anglophone-protests-idUSKCN1C61R6?il=0)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203694742&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED9018G)
+1. [Reuters](https://www.reuters.com/article/us-cameroon-politics/at-least-eight-dead-amid-cameroon-anglophone-protests-idUSKCN1C61R6?il=0)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203694742&w=1200&r=LYNXNPED9018G)
 
 ### Related:
 

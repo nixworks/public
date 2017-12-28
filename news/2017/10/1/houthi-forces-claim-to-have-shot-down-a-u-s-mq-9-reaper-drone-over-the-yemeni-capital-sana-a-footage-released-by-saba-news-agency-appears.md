@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.html)  [JSON](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.json)  [XML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.xml)  
 
-* [HTML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.html)
-* [JSON](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.json)
-* [XML](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.xml)
 ### [2017-10-1](/news/2017/10/1/index.md)
 
 # Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. 
@@ -13,8 +10,8 @@
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-usa/yemen-houthis-say-have-shot-down-u-s-surveillance-drone-state-news-agency-idUSKCN1C619H?il=0)
-1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203663608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED900WZ)
+1. [Reuters](https://www.reuters.com/article/us-yemen-security-usa/yemen-houthis-say-have-shot-down-u-s-surveillance-drone-state-news-agency-idUSKCN1C619H?il=0)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171001&t=2&i=1203663608&w=1200&r=LYNXNPED900WZ)
 
 ### Related:
 
