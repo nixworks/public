@@ -16,12 +16,12 @@ First responders are treating the derailment in Washington state as a mass casua
 _Context: MiG-29, Minsk Mazowiecki_
 
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
-_Context: Jerusalem, United Nations Security Council resolution, its December 6th declaration_
+_Context: Jerusalem, United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
 
 ### [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md)
 A White House official points the finger at Pyongyang for the WannaCry malware attack last May.
 
-### [U.S. radio preacher Brother Stair is arrested on eight charges of sexual assault. ](/news/2017/12/18/u-s-radio-preacher-brother-stair-is-arrested-on-eight-charges-of-sexual-assault.md)
+### [U.S. radio preacher Brother Stair (host of "The Overcomer Ministry") is arrested on seven charges of sexual assault and one county of burglary. ](/news/2017/12/18/u-s-radio-preacher-brother-stair-host-of-the-overcomer-ministry-is-arrested-on-seven-charges-of-sexual-assault-and-one-county-of-burgla.md)
 Colleton County Sheriff’s Office personnel arrived at the Overcomer Ministry at 12680 Augusta Highway early Monday morning to take Ralph G. Stair, the leader of the religious compound, into custody on eight criminal charges. Lt. Tyger Benton, public information officer of the Colleton County Sheri...
 
 ### [Charlottesville Police Chief Alfred Thomas announces his retirement. He was previously criticized for his poor handling of the rally and counterprotests. ](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-announces-his-retirement-he-was-previously-criticized-for-his-poor-handling-of-the-rally-and-cou.md)
