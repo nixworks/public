@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.html)  [JSON](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.json)  [XML](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.xml)  
 
-* [HTML](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.html)
-* [JSON](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.json)
-* [XML](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. 

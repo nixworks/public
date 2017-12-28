@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.html)  [JSON](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.json)  [XML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.xml)  
 
-* [HTML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.html)
-* [JSON](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.json)
-* [XML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # A warehouse storing chemicals and fuel catches fire in the Chinese city of Jingjiang resulting in an unknown number of casualties. 

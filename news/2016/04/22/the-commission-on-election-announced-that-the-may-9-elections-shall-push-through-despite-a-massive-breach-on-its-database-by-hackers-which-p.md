@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.html)  [JSON](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.json)  [XML](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.xml)  
 
-* [HTML](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.html)
-* [JSON](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.json)
-* [XML](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.

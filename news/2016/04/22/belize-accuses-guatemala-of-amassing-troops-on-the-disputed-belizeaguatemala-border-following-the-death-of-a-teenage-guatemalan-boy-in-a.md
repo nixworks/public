@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.html)  [JSON](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.json)  [XML](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.xml)  
 
-* [HTML](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.html)
-* [JSON](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.json)
-* [XML](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". 

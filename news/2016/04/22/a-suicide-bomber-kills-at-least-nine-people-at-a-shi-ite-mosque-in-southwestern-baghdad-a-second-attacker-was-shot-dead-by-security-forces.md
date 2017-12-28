@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.html)  [JSON](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.json)  [XML](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.xml)  
 
-* [HTML](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.html)
-* [JSON](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.json)
-* [XML](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. 
@@ -13,8 +10,8 @@
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-bomb-idUSKCN0XJ18Y)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-bomb-idUSKCN0XJ18Y)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.html)  [JSON](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.json)  [XML](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.xml)  
 
-* [HTML](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.html)
-* [JSON](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.json)
-* [XML](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Thousands of Sudanese students take to the streets around the University of Kordofan in Khartoum and other parts of the country to protest the recent killing of students last Monday. Security forces opened fire on a peaceful protest, killing many students after they attempted to nominate pro-opposition candidates for their campus elections. 
@@ -13,7 +10,7 @@ Amnesty International calls for investigation into death of Abubakar Hassan duri
 
 ### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/22/sudan-student-killing-abubakar-hassan-protests)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/22/sudan-student-killing-abubakar-hassan-protests)
 1. [Cover Image](https://i.guim.co.uk/img/media/e7f6495e656417337139ae550519462dc906b609/0_82_4928_2958/4928.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=00a99bd13f3290fac921db64543a1a16)
 
 ### Related:

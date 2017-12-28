@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.html)  [JSON](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.json)  [XML](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.xml)  
 
-* [HTML](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.html)
-* [JSON](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.json)
-* [XML](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. 

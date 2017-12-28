@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.html)  [JSON](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.json)  [XML](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.xml)  
 
-* [HTML](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.html)
-* [JSON](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.json)
-* [XML](/news/2016/04/22/mexican-president-enrique-pea-a-nieto-proposes-legalizing-marijuana-for-medical-purposes-and-easing-limits-for-personal-use-of-the-drug-he.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Mexican President Enrique Pena Nieto proposes legalizing marijuana for medical purposes and easing limits for personal use of the drug. He said he would be sending a bill to the Congress to increase the amount users can legally carry from the current five grams to 28 (0.18-1oz). The news comes just two days after he addressed the United Nations General Assembly at a special session on drug policy and is seen as a chance to re-think the current strategy of fighting drug-trafficking, especially in Mexico where the fighting has killed tens of thousands of people. 

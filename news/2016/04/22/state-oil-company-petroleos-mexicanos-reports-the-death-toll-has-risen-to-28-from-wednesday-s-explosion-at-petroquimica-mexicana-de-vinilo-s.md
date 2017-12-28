@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.html)  [JSON](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.json)  [XML](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.xml)  
 
-* [HTML](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.html)
-* [JSON](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.json)
-* [XML](/news/2016/04/22/state-oil-company-petroleos-mexicanos-reports-the-death-toll-has-risen-to-28-from-wednesday-s-explosion-at-petroquimica-mexicana-de-vinilo-s.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # State oil company Petroleos Mexicanos reports the death toll has risen to 28 from Wednesday's explosion at Petroquimica Mexicana de Vinilo's Clorados 3 petrochemical plant in the Gulf port city of Coatzacoalcos, Veracruz. Some workers are still missing while 18 others remain hospitalized. Officials say the explosion came from an unspecified leak. The plant produces the hazardous industrial chemical vinyl chloride. 

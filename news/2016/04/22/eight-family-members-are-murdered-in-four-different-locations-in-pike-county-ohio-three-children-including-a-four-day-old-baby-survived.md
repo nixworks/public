@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.html)  [JSON](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.json)  [XML](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.xml)  
 
-* [HTML](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.html)
-* [JSON](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.json)
-* [XML](/news/2016/04/22/eight-family-members-are-murdered-in-four-different-locations-in-pike-county-ohio-three-children-including-a-four-day-old-baby-survived.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Eight family members are murdered in four different locations in Pike County, Ohio. Three children, including a four-day-old baby, survived the killings. 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.html)  [JSON](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.json)  [XML](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.xml)  
 
-* [HTML](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.html)
-* [JSON](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.json)
-* [XML](/news/2016/04/22/a-record-175-states-sign-the-united-nations-climate-agreement-in-new-york-on-opening-day-the-agreement-will-enter-into-force-once-55-countr.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # A record 175 states sign the United Nations climate agreement in New York on opening day. The agreement will enter into force once 55 countries representing at least 55 percent of global emissions formally join it. 

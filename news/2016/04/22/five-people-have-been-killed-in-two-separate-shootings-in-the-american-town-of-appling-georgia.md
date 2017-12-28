@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.html)  [JSON](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.json)  [XML](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.xml)  
 
-* [HTML](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.html)
-* [JSON](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.json)
-* [XML](/news/2016/04/22/five-people-have-been-killed-in-two-separate-shootings-in-the-american-town-of-appling-georgia.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Five people have been killed in two separate shootings in the American town of Appling, Georgia. 

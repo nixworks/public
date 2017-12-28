@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.html)  [JSON](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.json)  [XML](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.xml)  
 
-* [HTML](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.html)
-* [JSON](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.json)
-* [XML](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-climate-change-rajendra-k-pachauri-is-to-face-a-court-in-delhi-india-on-charges-of-sexual-h.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Former chair of the Intergovernmental Panel on Climate Change Rajendra K. Pachauri is to face a court in Delhi, India on charges of sexual harassment. Pachauri is accused of stalking, intimidation and sexual assault of a former employee. 
@@ -13,7 +10,7 @@ Former head of world climate change body faces raft of accusations in case that 
 
 ### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/22/rajendra-pachauri-court-delhi-sexual-assault-charges)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/22/rajendra-pachauri-court-delhi-sexual-assault-charges)
 1. [Cover Image](https://i.guim.co.uk/img/media/282157c341dc1993fe95fed3bc40280e017dd2ee/0_145_3000_1800/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a027c78ae120bfceff5ae13a2df4ccb8)
 
 ### Related:

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.html)  [JSON](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.json)  [XML](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.xml)  
 
-* [HTML](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.html)
-* [JSON](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.json)
-* [XML](/news/2016/04/22/romania-is-expelled-from-this-year-s-eurovision-song-contest-in-stockholm-sweden-after-its-national-broadcaster-romanian-television-tvr.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Romania is expelled from this year's Eurovision Song Contest in Stockholm, Sweden, after its national broadcaster, Romanian Television (TVR) failed to pay outstanding debts dating back to 2007. Ovidiu Anton was due to perform the song "Moment of Silence" at the contest. 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.html)  [JSON](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.json)  [XML](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.xml)  
 
-* [HTML](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.html)
-* [JSON](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.json)
-* [XML](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Scientists discover the quantum tunneling of water molecules. 

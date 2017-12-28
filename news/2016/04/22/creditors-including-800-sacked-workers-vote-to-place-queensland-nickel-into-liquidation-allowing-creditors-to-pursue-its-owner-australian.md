@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.html)  [JSON](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.json)  [XML](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.xml)  
 
-* [HTML](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.html)
-* [JSON](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.json)
-* [XML](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Creditors, including 800 sacked workers, vote to place Queensland Nickel into liquidation allowing creditors to pursue its owner, Australian politician Clive Palmer, for costs. 

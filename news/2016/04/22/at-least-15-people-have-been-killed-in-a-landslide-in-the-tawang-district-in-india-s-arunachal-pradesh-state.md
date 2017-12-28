@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.html)  [JSON](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.json)  [XML](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.xml)  
 
-* [HTML](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.html)
-* [JSON](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.json)
-* [XML](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # At least 15 people have been killed in a landslide in the Tawang District in India's Arunachal Pradesh state. 

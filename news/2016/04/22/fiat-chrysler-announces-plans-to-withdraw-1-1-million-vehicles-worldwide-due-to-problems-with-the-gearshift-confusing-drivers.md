@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.html)  [JSON](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.json)  [XML](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.xml)  
 
-* [HTML](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.html)
-* [JSON](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.json)
-* [XML](/news/2016/04/22/fiat-chrysler-announces-plans-to-withdraw-1-1-million-vehicles-worldwide-due-to-problems-with-the-gearshift-confusing-drivers.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Fiat Chrysler announces plans to withdraw 1.1 million vehicles worldwide due to problems with the gearshift confusing drivers. 

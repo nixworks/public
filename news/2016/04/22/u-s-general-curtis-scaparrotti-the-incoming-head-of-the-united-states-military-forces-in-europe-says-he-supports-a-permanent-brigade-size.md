@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.html)  [JSON](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.json)  [XML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.xml)  
 
-* [HTML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.html)
-* [JSON](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.json)
-* [XML](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. 

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.html)  [JSON](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.json)  [XML](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.xml)  
 
-* [HTML](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.html)
-* [JSON](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.json)
-* [XML](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Alaska SeaLife Center (Seward, Alaska) announces that 98 percent of the center's heating and cooling now comes from low-cost, alternative energy derived from seawater. 

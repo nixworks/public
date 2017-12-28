@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.html)  [JSON](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.json)  [XML](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.xml)  
 
-* [HTML](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.html)
-* [JSON](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.json)
-* [XML](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. 

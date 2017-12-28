@@ -1,3 +1,6 @@
+
+Formats: [HTML](2017/10/27/index.html)  [JSON](2017/10/27/index.json)  [XML](2017/10/27/index.xml)  
+
 ## [2017-10-27](/news/2017/10/27/index.md)
 
 ### [President Nursultan Nazarbayev of Kazakhstan announces that the Kazakh language will begin using a Latin script, rather than the current Cyrillic script. ](/news/2017/10/27/president-nursultan-nazarbayev-of-kazakhstan-announces-that-the-kazakh-language-will-begin-using-a-latin-script-rather-than-the-current-cyr.md)

@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.html)  [JSON](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.json)  [XML](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.xml)  
 
-* [HTML](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.html)
-* [JSON](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.json)
-* [XML](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. 

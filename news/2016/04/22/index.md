@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](2016/04/22/index.html)  [JSON](2016/04/22/index.json)  [XML](2016/04/22/index.xml)  
 
-* [HTML](2016/04/22/index.html)
-* [JSON](2016/04/22/index.json)
-* [XML](2016/04/22/index.xml)
 ## [2016-04-22](/news/2016/04/22/index.md)
 
 ### [The U.K. Foreign Office and the U.S. State Department issue travel advisories regarding the Philippine island of Mindanao and the Sulu Archipelago after a recent kidnapping near Davao City. ](/news/2016/04/22/the-u-k-foreign-office-and-the-u-s-state-department-issue-travel-advisories-regarding-the-philippine-island-of-mindanao-and-the-sulu-archi.md)
@@ -22,7 +19,7 @@ The United States military revealed Friday that it has killed 20 civilians and w
 The decision is made after the national broadcaster failed to meet a deadline to pay millions of pounds in debts.
 
 ### [The Carver County, Minnesota Sheriff's office conducts an autopsy on Prince to determine cause of death. ](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.md)
-Roy and Jill Serjeant
+Police found no signs of suicide or obvious trauma in the death of U.S. music superstar Prince, but it could take weeks before autopsy results reveal how the groundbreaking performer died, authorities said on Friday.
 
 ### [Creditors, including 800 sacked workers, vote to place Queensland Nickel into liquidation allowing creditors to pursue its owner, Australian politician Clive Palmer, for costs. ](/news/2016/04/22/creditors-including-800-sacked-workers-vote-to-place-queensland-nickel-into-liquidation-allowing-creditors-to-pursue-its-owner-australian.md)
 Creditors of Queensland Nickel — including 800 sacked workers — vote to liquidate the company, paving the way for Clive Palmer to be pursued for debts owed.
@@ -31,7 +28,7 @@ Creditors of Queensland Nickel — including 800 sacked workers — vote to liqu
 Fiat Chrysler is to recall 1.1m vehicles worldwide over fears they may roll away after drivers get out.
 
 ### [Valeant, a Canada based pharmaceutical company, says it has received new notices of default from its bondholders. ](/news/2016/04/22/valeant-a-canada-based-pharmaceutical-company-says-it-has-received-new-notices-of-default-from-its-bondholders.md)
-Canadian drugmaker Valeant Pharmaceuticals International Inc (VRX.TO) said it received additional notices of default from its bondholders as a result of a delay in filing its annual report.
+Canadian drugmaker Valeant Pharmaceuticals International Inc said it received additional notices of default from its bondholders as a result of a delay in filing its annual report.
 
 ### [A passenger train derails near the South Korean city of Yeosu resulting in the death of a railroad engineer and eight people being injured. ](/news/2016/04/22/a-passenger-train-derails-near-the-south-korean-city-of-yeosu-resulting-in-the-death-of-a-railroad-engineer-and-eight-people-being-injured.md)
 _Context: South Korea, Yeosu, railroad engineer_

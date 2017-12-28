@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.html)  [JSON](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.json)  [XML](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.xml)  
 
-* [HTML](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.html)
-* [JSON](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.json)
-* [XML](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. 

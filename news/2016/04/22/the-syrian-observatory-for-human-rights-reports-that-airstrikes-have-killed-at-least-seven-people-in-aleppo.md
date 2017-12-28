@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.html)  [JSON](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.json)  [XML](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.xml)  
 
-* [HTML](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.html)
-* [JSON](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.json)
-* [XML](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. 

@@ -1,20 +1,17 @@
 
-### Formats:
+Formats: [HTML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.html)  [JSON](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.json)  [XML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.xml)  
 
-* [HTML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.html)
-* [JSON](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.json)
-* [XML](/news/2016/04/22/the-carver-county-minnesota-sheriff-s-office-conducts-an-autopsy-on-prince-to-determine-cause-of-death.xml)
 ### [2016-04-22](/news/2016/04/22/index.md)
 
 # The Carver County, Minnesota Sheriff's office conducts an autopsy on Prince to determine cause of death. 
 
-Roy and Jill Serjeant
+Police found no signs of suicide or obvious trauma in the death of U.S. music superstar Prince, but it could take weeks before autopsy results reveal how the groundbreaking performer died, authorities said on Friday.
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-people-prince-autopsy-idUSKCN0XJ1RG)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134157685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC3L116)
+1. [Reuters](https://www.reuters.com/article/us-people-prince-autopsy-idUSKCN0XJ1RG)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20160423&t=2&i=1134157685&w=1200&r=LYNXNPEC3L116)
 
 ### Related:
 
