@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md)
 Gunmen target a Coptic-owned shop after a deadly attack on a church in the same area south of Cairo.
 
+### [Venezuelan communications director Jorge Rodrguez announces the country's cryptocurrency, i.e., the Petro, backed by 5.3 billion barrels of oil worth $267 billion, will launch shortly. ](/news/2017/12/29/venezuelan-communications-director-jorge-rodriguez-announces-the-country-s-cryptocurrency-i-e-the-petro-backed-by-5-3-billion-barrels-of.md)
+Venezuela&#039;s cryptocurrency will launch within days and be backed by 5.3 billion barrels of oil worth $267 billion, in a bid to offset financial crisis.
+
 ### [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md)
  NEW DELHI (AP) — Flames shot into the nighttime sky early Friday as a fire engulfed an upscale rooftop restaurant in the Indian city of Mumbai, killing 15 people and sending other
 
