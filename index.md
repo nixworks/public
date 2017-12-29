@@ -22,6 +22,9 @@ The Latest on deadly Bronx apartment building fire (all times local): 11:15 p.m.
 ### [United States consular missions in Turkey and the Embassy of Turkey, Washington, D.C. announce they will resume visa services. ](/news/2017/12/28/united-states-consular-missions-in-turkey-and-the-embassy-of-turkey-washington-d-c-announce-they-will-resume-visa-services.md)
 US&#x20;consular&#x20;missions&#x20;in&#x20;Turkey&#x20;will&#x20;resume&#x20;full&#x20;visa&#x20;services&#x20;following&#x20;a&#x20;suspension&#x20;triggered&#x20;by&#x20;the&#x20;arrest&#x20;of&#x20;a&#x20;staff&#x20;member,&#x20;the&#x20;American&#x20;embassy&#x20;in&#x20;Ankara&#x20;said&#x20;T...
 
+### [In Mandaluyong, Philippines, law enforcers mistakenly fired at a Mitsubishi Adventure, which they thought carried suspects in a previous shooting incident, resulting in two people dead and two others injured. As a result, 10 police officers were relieved from the post. ](/news/2017/12/28/in-mandaluyong-philippines-law-enforcers-mistakenly-fired-at-a-mitsubishi-adventure-which-they-thought-carried-suspects-in-a-previous-sho.md)
+At least two people have died after law enforcers on Thursday night fired mistakenly shots at an AUV bringing a gunshot victim to the hospital. 
+
 ### [The Oregon Court of Appeals upholds a $135,000 fine against the Sweet Cakes by Melissa Christian owners for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-sweet-cakes-by-melissa-christian-owners-for-refusing-to-make-a-wedding-cake.md)
 _Context: Masterpiece Cakeshop v. Colorado Civil Rights Commission, Same-sex marriage in the United States, Supreme Court of the United States, Sweet Cakes by Melissa_
 
