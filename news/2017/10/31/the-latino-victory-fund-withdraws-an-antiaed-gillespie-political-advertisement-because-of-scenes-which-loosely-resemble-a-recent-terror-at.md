@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.html)  [JSON](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.json)  [XML](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.xml)  
 
-* [HTML](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.html)
-* [JSON](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.json)
-* [XML](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gillespie-political-advertisement-because-of-scenes-which-loosely-resemble-a-recent-terror-at.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # The Latino Victory Fund withdraws an anti-Ed Gillespie political advertisement because of scenes which loosely resemble a recent terror attack in New York City. The ad was originally meant to improve Ralph Northam's standing with minority voters. 

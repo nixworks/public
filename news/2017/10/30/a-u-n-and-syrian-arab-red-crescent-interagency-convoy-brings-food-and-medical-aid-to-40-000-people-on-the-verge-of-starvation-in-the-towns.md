@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.html)  [JSON](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.json)  [XML](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.xml)  
+
 ### [2017-10-30](/news/2017/10/30/index.md)
 
 # A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. 
@@ -7,8 +10,8 @@ A convoy from the United Nations and Syrian Arab Red Crescent entered towns in t
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-aid/convoy-rolls-into-damascus-suburbs-with-aid-for-40000-u-n-idUSKBN1CZ1PO)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171030&t=2&i=1207634211&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED9T1DK)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-aid/convoy-rolls-into-damascus-suburbs-with-aid-for-40000-u-n-idUSKBN1CZ1PO)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171030&t=2&i=1207634211&w=1200&r=LYNXMPED9T1DK)
 
 ### Related:
 

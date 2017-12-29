@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/16/veteran-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-sworn-in-for-another-term-after-a-contentious-election.html)  [JSON](/news/2016/04/16/veteran-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-sworn-in-for-another-term-after-a-contentious-election.json)  [XML](/news/2016/04/16/veteran-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-sworn-in-for-another-term-after-a-contentious-election.xml)  
+
 ### [2016-04-16](/news/2016/04/16/index.md)
 
 # Veteran President of the Republic of the Congo Denis Sassou Nguesso is sworn in for another term after a contentious election. 
@@ -5,7 +8,7 @@
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3543677/Veteran-Congo-leader-Sassou-Nguesso-sworn-disputed-election.html)
 

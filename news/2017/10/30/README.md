@@ -1,7 +1,10 @@
+
+Formats: [HTML](2017/10/30/index.html)  [JSON](2017/10/30/index.json)  [XML](2017/10/30/index.xml)  
+
 ## [2017-10-30](/news/2017/10/30/index.md)
 
 ### [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md)
-Mughrabi and Dan Williams
+Seven Palestinian militants were killed on Monday when Israel blew up what it said was a tunnel being dug underneath the Gaza Strip border.
 
 ### [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md)
 A convoy from the United Nations and Syrian Arab Red Crescent entered towns in the besieged Damascus suburb of eastern Ghouta on Monday, bringing aid to 40,000 people for the first time since June 2016, the United Nations said.
@@ -10,7 +13,7 @@ A convoy from the United Nations and Syrian Arab Red Crescent entered towns in t
 A timeline in the George Papadopoulos case.
 
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
-_Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan government, Spanish attorney general, embezzlement, rebellion, sedition_
+_Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan officials, Spanish Attorney General, embezzlement, rebellion, sedition_
 
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
 Families will be allowed into three stadiums in the latest move towards giving women more freedom.

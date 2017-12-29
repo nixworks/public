@@ -10,7 +10,7 @@ Formats: [HTML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-c
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-centralafrica-security/seven-dead-in-concert-attack-reprisals-in-central-african-republic-idUSKBN1DC0T1)
+1. [Reuters](https://www.reuters.com/article/us-centralafrica-security/seven-dead-in-concert-attack-reprisals-in-central-african-republic-idUSKBN1DC0T1)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:

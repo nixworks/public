@@ -15,7 +15,7 @@ _Context: Russia-Syria relations_
 ### [Fifteen militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when six jihadists were executed. ](/news/2017/12/26/fifteen-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-co.md)
 It is the biggest series of hangings since 2015 in Egypt, which is battling an insurgency.
 
-### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah.md)
+### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah-w.md)
 _Context: George Weah, Joseph Boakai, Liberia, Liberian general election, 2017_
 
 ### [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md)

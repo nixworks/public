@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.html)  [JSON](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.json)  [XML](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.xml)  
+
 ### [2017-10-30](/news/2017/10/30/index.md)
 
 # Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. 

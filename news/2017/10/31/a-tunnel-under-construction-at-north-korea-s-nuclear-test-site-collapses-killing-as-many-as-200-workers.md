@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.html)  [JSON](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.json)  [XML](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.xml)  
 
-* [HTML](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.html)
-* [JSON](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.json)
-* [XML](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. 

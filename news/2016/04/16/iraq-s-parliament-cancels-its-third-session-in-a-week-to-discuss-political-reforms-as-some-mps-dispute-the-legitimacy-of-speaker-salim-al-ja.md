@@ -1,3 +1,6 @@
+
+Formats: [HTML](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.html)  [JSON](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.json)  [XML](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.xml)  
+
 ### [2016-04-16](/news/2016/04/16/index.md)
 
 # Iraq's Parliament cancels its third session in a week to discuss political reforms as some MPs dispute the legitimacy of speaker Salim al-Jabouri to chair the meeting. Also, protesters gathered in the streets of Baghdad to protest the growing political deadlock in the country. 
@@ -5,7 +8,7 @@
 Third attempt to approve new cabinet fails after dissenting MPs continue attempts to replace the speaker of parliament.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/iraq-political-crisis-160416105131271.html)
 

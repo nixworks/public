@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.html)  [JSON](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.json)  [XML](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.xml)  
 
-* [HTML](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.html)
-* [JSON](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.json)
-* [XML](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. 

@@ -10,9 +10,9 @@ Slovenian President Borut Pahor was re-elected for a second term in a runoff vot
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-slovenia-election/slovenias-president-pahor-wins-second-term-in-close-race-idUSKBN1DC0YX)
+1. [Reuters](https://www.reuters.com/article/us-slovenia-election/slovenias-president-pahor-wins-second-term-in-close-race-idUSKBN1DC0YX)
 2. [The New York Times](https://www.nytimes.com/2017/11/12/world/europe/slovenia-election.html)
-2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171112&t=2&i=1209505089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEDAB0NZ)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171112&t=2&i=1209505089&w=1200&r=LYNXMPEDAB0NZ)
 
 ### Changes:
 

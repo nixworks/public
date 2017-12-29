@@ -1,13 +1,10 @@
 
-### Formats:
+Formats: [HTML](2017/10/31/index.html)  [JSON](2017/10/31/index.json)  [XML](2017/10/31/index.xml)  
 
-* [HTML](2017/10/31/index.html)
-* [JSON](2017/10/31/index.json)
-* [XML](2017/10/31/index.xml)
 ## [2017-10-31](/news/2017/10/31/index.md)
 
 ### [Eight people are killed and at least 11 others injured when a man in a rented pickup truck drives down a bike path along the West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. ](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-injured-when-a-man-in-a-rented-pickup-truck-drives-down-a-bike-path-along-the-west-side-highw.md)
-A man in a pickup truck killed seven people when he drove onto the West Side bike path in lower Manhattan Tuesday afternoon &#8212; and then shouted “Allahu Akbar” as he got out of the car with fak…
+ NEW YORK (AP) — A man in a rented truck drove onto a busy bicycle path near the World Trade Center memorial Tuesday, killing at least six people and injuring several others, polic
 
 ### [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md)
 A suicide bomber in the Afghan capital Kabul killed as many as eight people and wounded many others, most of whom appeared to be workers leaving their offices at the start of the evening rush hour, witnesses and officials said on Tuesday.

@@ -1,3 +1,6 @@
+
+Formats: [HTML](2016/04/16/index.html)  [JSON](2016/04/16/index.json)  [XML](2016/04/16/index.xml)  
+
 ## [2016-04-16](/news/2016/04/16/index.md)
 
 ### [According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-against-afghan-security-forces-to-seize-th.md)

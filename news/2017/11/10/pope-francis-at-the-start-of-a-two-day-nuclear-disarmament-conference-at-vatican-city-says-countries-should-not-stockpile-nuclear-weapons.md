@@ -10,9 +10,9 @@ Formats: [HTML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-vatican-nuclear/pope-in-change-from-predecessors-condemns-nuclear-arsenals-for-deterrence-idUSKBN1DA161?il=0)
+1. [Reuters](https://www.reuters.com/article/us-vatican-nuclear/pope-in-change-from-predecessors-condemns-nuclear-arsenals-for-deterrence-idUSKBN1DA161?il=0)
 2. [Vatican Radio](http://en.radiovaticana.va/news/2017/11/07/vatican_nuclear_weapons_symposium/1347386)
-2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171110&t=2&i=1209278984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEDA90VT)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171110&t=2&i=1209278984&w=1200&r=LYNXMPEDA90VT)
 
 ### Related:
 

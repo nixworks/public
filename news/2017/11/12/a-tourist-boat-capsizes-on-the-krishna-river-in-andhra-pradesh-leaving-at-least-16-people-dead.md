@@ -10,7 +10,7 @@ At least 16 people died on Sunday when a tourist boat capsized in the southern I
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-india-accident/at-least-16-dead-after-boat-capsizes-in-south-india-officials-idUSKBN1DC0R2)
+1. [Reuters](https://www.reuters.com/article/us-india-accident/at-least-16-dead-after-boat-capsizes-in-south-india-officials-idUSKBN1DC0R2)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

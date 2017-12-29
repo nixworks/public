@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.html)  [JSON](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.json)  [XML](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.xml)  
 
-* [HTML](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.html)
-* [JSON](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.json)
-* [XML](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. 

@@ -13,13 +13,13 @@ The BBC has uncovered details of a secret deal that let hundreds of IS fighters 
 The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.
 
 ### [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md)
-_Context: Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence, withdrawal from EU underway_
+_Context: Brexit negotiations, Denmark, European Union, Ireland, Malta, Military of the European Union, NATO, Permanent Structured Cooperation, Portugal, United Kingdom, defence_
 
 ### [The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. ](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.md)
 Months after the former guerrilla group formed a political party, the European Union on Monday removed Colombia&#8217;s FARC from the EU&#8217;s global list of terrorist organizations. The decision followed a&hellip;
 
 ### [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md)
-_Context: RT America, Russia-United States relations, U.S. Department of Justice, foreign agent_
+_Context: RT America, Russia-United States relations, U.S. Justice Department, foreign agent_
 
 ### [U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. ](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-american-division-president-and-former-hhs-deputy-secretary-alex-azar-to-be-secretary-of-hea.md)
 _Context: Alex Azar, Cabinet of Donald Trump, Donald Trump, Eli Lilly's, HHS deputy secretary, Secretary of Health and Human Services, Tom Price_

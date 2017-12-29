@@ -13,7 +13,7 @@ A strong earthquake hit large parts of northern Iraq and the capital Baghdad on 
 1. [AP via Fox News](http://www.foxnews.com/world/2017/11/12/7-2-magnitude-earthquake-jolts-iran-iraq-border-area-structural-damage-reported.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/11/northern-iraq-rocked-72-magnitude-earthquake-171112184114150.html)
 3. [Reuters](https://www.reuters.com/article/us-iraq-quake/earthquake-of-6-5-hits-large-parts-of-iraq-including-baghdad-iraqi-official-idUSKBN1DC0VZ)
-4. [Reuters²](http://www.reuters.com/article/us-iraq-quake/strong-earthquake-hits-iraq-and-iran-killing-at-least-145-idUSKBN1DC0VZ)
+4. [Reuters²](https://www.reuters.com/article/us-iraq-quake/strong-earthquake-hits-iraq-and-iran-killing-at-least-145-idUSKBN1DC0VZ)
 5. [U.S. Geological Service](https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmcg#executive)
 5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 

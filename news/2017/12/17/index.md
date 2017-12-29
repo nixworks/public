@@ -28,7 +28,7 @@ Turkish President Recep Tayyip Erdoğan on Sunday said his nation plans to open 
 Both countries share land borders with Kim Jong Un&#039;s secretive state.
 
 ### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
-_Context: Central Intelligence Agency, Donald Trump, Russia-United States relations, Saint Petersburg, Vladimir Putin_
+_Context: 2017 St. Petersburg raid, Central Intelligence Agency, Donald Trump, Saint Petersburg, Vladimir Putin_
 
 ### [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md)
 Chan Han Choi, 59, from Sydney, was arrested and charged with breaching sanctions and weapons laws.

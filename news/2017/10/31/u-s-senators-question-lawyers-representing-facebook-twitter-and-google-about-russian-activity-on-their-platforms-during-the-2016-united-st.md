@@ -1,9 +1,6 @@
 
-### Formats:
+Formats: [HTML](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.html)  [JSON](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.json)  [XML](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.xml)  
 
-* [HTML](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.html)
-* [JSON](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.json)
-* [XML](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.xml)
 ### [2017-10-31](/news/2017/10/31/index.md)
 
 # U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. 
