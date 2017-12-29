@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/29/index.html)  [JSON](2017/12/29/index.json)  [XML](201
 
 ## [2017-12-29](/news/2017/12/29/index.md)
 
-### [At least 12 people die in two coordinated attacks targeting Coptic Christians in Egypt. Two gunmen start firing in a church in southern Cairo, killing 10; while shortly after, another two are killed in a Coptic-owned appliance store in the Helwan area. ](/news/2017/12/29/at-least-12-people-die-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-gunmen-start-firing-in-a-church-in-southern-cair.md)
+### [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md)
 Gunmen target a Coptic-owned shop after a deadly attack on a church in the same area south of Cairo.
 
 ### [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md)
