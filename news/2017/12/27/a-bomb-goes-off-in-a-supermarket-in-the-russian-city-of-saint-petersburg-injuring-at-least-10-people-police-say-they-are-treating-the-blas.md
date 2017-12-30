@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/27/a-bomb-goes-off-in-a-supermarket-in-the-russian
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
-# A bomb goes off in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as an attempted terror attack. 
+# A bomb goes off in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as an attempted terror attack. social media accounts linked to ISIL have claimed responsibility. 
 
 A blast ripped through a supermarket in the Russian city of St Petersburg on Wednesday evening, injuring several shoppers, Russian news agencies reported.
 
@@ -18,7 +18,7 @@ A blast ripped through a supermarket in the Russian city of St Petersburg on Wed
 1. [A blast occurs in a supermarket in the Russian city of Saint Petersburg. At least 4 people are hospitalized, while police say they are treating the blast as attempted murder. ](/news/2017/12/27/a-blast-occurs-in-a-supermarket-in-the-russian-city-of-saint-petersburg-at-least-4-people-are-hospitalized-while-police-say-they-are-treat.md) _2017-12-27 19:30:06 (First version)_
 2. [A blast occurs in a supermarket in the Russian city of Saint Petersburg. At least 10 people are injured, while police say they are treating the blast as attempted murder. ](/news/2017/12/27/a-blast-occurs-in-a-supermarket-in-the-russian-city-of-saint-petersburg-at-least-10-people-are-injured-while-police-say-they-are-treating.md) _2017-12-29 00:30:05 (Update)_
 3. [A blast occurs in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as attempted murder. ](/news/2017/12/27/a-blast-occurs-in-a-supermarket-in-the-russian-city-of-saint-petersburg-injuring-at-least-10-people-police-say-they-are-treating-the-blast.md) _2017-12-29 14:30:04 (Update)_
-3. [A bomb goes off in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as an attempted terror attack. ](/news/2017/12/27/a-bomb-goes-off-in-a-supermarket-in-the-russian-city-of-saint-petersburg-injuring-at-least-10-people-police-say-they-are-treating-the-blas.md) _(Current version)_
+3. [A bomb goes off in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as an attempted terror attack. social media accounts linked to ISIL have claimed responsibility. ](/news/2017/12/27/a-bomb-goes-off-in-a-supermarket-in-the-russian-city-of-saint-petersburg-injuring-at-least-10-people-police-say-they-are-treating-the-blas.md) _(Current version)_
 
 ### Related:
 
