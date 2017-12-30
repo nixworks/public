@@ -15,6 +15,9 @@ Venezuela&#039;s cryptocurrency will launch within days and be backed by 5.3 bil
 ### [Anti-government demonstrators have taken to the streets of Iran for a second day, with protests being held in a number of cities. ](/news/2017/12/29/anti-government-demonstrators-have-taken-to-the-streets-of-iran-for-a-second-day-with-protests-being-held-in-a-number-of-cities.md)
 Anger at rising prices and corruption has spread to more general anti-government grievances.
 
+### [In a surprising event, Malian Prime Minister Abdoulaye Idrissa Maga and his government resign without providing a reason. ](/news/2017/12/29/in-a-surprising-event-malian-prime-minister-abdoulaye-idrissa-maiga-and-his-government-resign-without-providing-a-reason.md)
+Abdoulaye Idrissa Maïga and his government quit seven months before country faces presidential election
+
 ---
 
 ## [Yesterday](/news/2017/12/28/index.md)
