@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md)
 Gunmen target a Coptic-owned shop after a deadly attack on a church in the same area south of Cairo.
 
-### [Venezuelan communications director Jorge Rodrguez announces the country's Petro cryptocurrency, backed by 5.3 billion barrels of oil worth $267 billion, will launch shortly. ](/news/2017/12/29/venezuelan-communications-director-jorge-rodriguez-announces-the-country-s-petro-cryptocurrency-backed-by-5-3-billion-barrels-of-oil-worth.md)
+### [Venezuelan communications director Jorge Rodrguez announces that the country's Petro cryptocurrency, backed by 5.3 billion barrels of oil worth $267 billion, will launch shortly. ](/news/2017/12/29/venezuelan-communications-director-jorge-rodriguez-announces-that-the-country-s-petro-cryptocurrency-backed-by-5-3-billion-barrels-of-oil-w.md)
 Venezuela&#039;s cryptocurrency will launch within days and be backed by 5.3 billion barrels of oil worth $267 billion, in a bid to offset financial crisis.
 
 ### [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md)
@@ -27,6 +27,9 @@ _Context: Afghanistan, Amaq News Agency, December 2017 Kabul suicide bombing, IS
 
 ### [The Libyan National Army declares full control of Benghazi, the country's second largest city, after retaking the last district held by Islamist militants. ](/news/2017/12/28/the-libyan-national-army-declares-full-control-of-benghazi-the-country-s-second-largest-city-after-retaking-the-last-district-held-by-isla.md)
 _Context: Battle of Benghazi (2014-2017), Benghazi, Libyan Civil War (2014-present), Libyan National Army_
+
+### [The White Helmets reports that Syrian government and Russian warplanes, using rockets and internationally-banned weapons - including vacuum bombs, repeatedly strike residential areas in the town of Al-Lataminah and six villages in Idlib province, killing 22 people. ](/news/2017/12/28/the-white-helmets-reports-that-syrian-government-and-russian-warplanes-using-rockets-and-internationally-banned-weapons-including-vacuum.md)
+_Context: Idlib province, Syrian Civil War, White Helmets_
 
 ### [Twelve people are dead in an apartment fire in The Bronx area of New York City. ](/news/2017/12/28/twelve-people-are-dead-in-an-apartment-fire-in-the-bronx-area-of-new-york-city.md)
 The Latest on deadly Bronx apartment building fire (all times local): 11:15 p.m. Residents of a Bronx apartment building where a deadly fire broke out are describing a chaotic scene. The blaze Thursday ...
