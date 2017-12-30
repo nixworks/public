@@ -13,3 +13,8 @@ At least two people have died after law enforcers on Thursday night fired mistak
 1. [GMA News](http://www.philstar.com/nation/2017/12/29/1772812/mandaluyong-police-probe-fatal-case-mistaken-identity)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/955892/breaking-police-cordon-off-part-of-shaw-blvd-after-shooting-incident)
 2. [Cover Image](http://media.philstar.com/images/the-philippine-star/nation/20171228/news5-shooting.jpg)
+
+### Related:
+
+1. [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _Context: Crime in the Philippines_
+2. [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md) _Context: Crime in the Philippines_
