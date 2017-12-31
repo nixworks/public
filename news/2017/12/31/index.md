@@ -3,8 +3,8 @@ Formats: [HTML](2017/12/31/index.html)  [JSON](2017/12/31/index.json)  [XML](201
 
 ## [2017-12-31](/news/2017/12/31/index.md)
 
-### [ 2018 New Year's Eve. ](/news/2017/12/31/2018-new-year-s-eve.md)
-_Context: New Year's Eve_
+### [ The Canadian right-wing party, National Advancement Party disbands. ](/news/2017/12/31/the-canadian-right-wing-party-national-advancement-party-disbands.md)
+_Context: Canadian, National Advancement Party_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 

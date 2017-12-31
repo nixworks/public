@@ -24,6 +24,9 @@ At least two people have died after law enforcers on Thursday night fired mistak
 ### [The Oregon Court of Appeals upholds a $135,000 fine against the owners of Sweet Cakes by Melissa in "Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries" for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-owners-of-sweet-cakes-by-melissa-in-sweet-cakes-by-melissa-v-oregon-bureau.md)
 _Context: Masterpiece Cakeshop v. Colorado Civil Rights Commission, Same-sex marriage in the United States, Supreme Court of the United States, Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries_
 
+### [Police shoot and kill a man in Wichita, Kansas after a hoax emergency call sends them there. ](/news/2017/12/28/police-shoot-and-kill-a-man-in-wichita-kansas-after-a-hoax-emergency-call-sends-them-there.md)
+The 28-year-old was shot by police after his address was allegedly given to police in prank call.
+
 ### [With 98 percent of the votes counted, Liberia's National Elections Commission announces these unofficial results show Senator George Weah, a former Pro footballer, defeating vice president Joseph Boakai, 61.5 to 38.5 percent, in the runoff of October's presidential election, to succeed Ellen Johnson Sirleaf, the first female Liberian president. ](/news/2017/12/28/with-98-percent-of-the-votes-counted-liberiaas-national-elections-commission-announces-these-unofficial-results-show-senator-george-weah.md)
 Mr. Weah, a former soccer player making his third run for the presidency, was well ahead at the polls, election officials said.
 
