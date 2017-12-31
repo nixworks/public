@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/31/index.md)
 
-### [ The Canadian right-wing party National Advancement disbands. ](/news/2017/12/31/the-canadian-right-wing-party-national-advancement-disbands.md)
-_Context: Canadian, National Advancement_
+### [ A truck collision took place in west Kenya caused at least 30 death and 18 injures.](/news/2017/12/31/a-truck-collision-took-place-in-west-kenya-caused-at-least-30-death-and-18-injures.md)
+Migaa crash pushes road fatalities to over 100 in the past one month.
 
 ---
 
