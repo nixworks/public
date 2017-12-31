@@ -12,3 +12,7 @@ Anger at rising prices and corruption has spread to more general anti-government
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-42512946)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/16A57/production/_99395729_mediaitem99395727.jpg)
+
+### Related:
+
+1. [Two protesters are shot dead by Iranian police in Dorud, Lorestan Province, as anti-government protests spread across the country. ](/news/2017/12/30/two-protesters-are-shot-dead-by-iranian-police-in-dorud-lorestan-province-as-anti-government-protests-spread-across-the-country.md) _Context: 2017 Iranian protests_
