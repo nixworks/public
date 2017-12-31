@@ -11,7 +11,8 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-australia-42527530)
-1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05sdyxb.jpg)
+2. [CTV NEWS](https://www.ctvnews.ca/world/dozens-killed-in-head-on-collision-between-bus-and-truck-in-kenya-1.3740658)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05sdyxb.jpg)
 
 ### Related:
 
