@@ -5,13 +5,13 @@ Formats: [HTML](/news/2017/12/31/the-canadian-right-wing-party-national-advancem
 
 #  The Canadian right-wing party National Advancement disbands. 
 
-
+GATINEAU, QC, Dec. 13, 2017 /CNW/ - - The Acting Chief Electoral Officer of Canada, Stéphane Perrault, has...
 
 
 ### Sources:
 
-1. [Elections Canada](http://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e#demadv)
-1. [Cover Image](http://www.elections.ca/templates/images/facebook/elections.png)
+1. [Newswire](http://www.newswire.ca/news-releases/deregistration-of-the-national-advancement-party-of-canada-663922163.html)
+1. [Cover Image](//assets2.prnewswire.com/designimages/cnw_en_facebook_sharing_logo.png)
 
 ### Changes:
 
