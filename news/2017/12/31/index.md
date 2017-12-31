@@ -3,11 +3,11 @@ Formats: [HTML](2017/12/31/index.html)  [JSON](2017/12/31/index.json)  [XML](201
 
 ## [2017-12-31](/news/2017/12/31/index.md)
 
-### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people, including four British nationals. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people-including-four-british-nationals.md)
+### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
 The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.
 
-### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured, at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-s.md)
-_Context: Douglas County, Colorado_
+### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
+_Context: Colorado, Douglas County_
 
 ### [Indian film superstar Rajinikanth, who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. ](/news/2017/12/31/indian-film-superstar-rajinikanth-who-has-a-huge-following-in-the-country-and-is-one-of-asia-s-highest-paid-actors-has-announced-he-is-ent.md)
 The film superstar says he will form a party to &quot;change the political system&quot; in Tamil Nadu state.
