@@ -3,9 +3,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/31/index.md)
 
-### [ A truck collision took place in west Kenya caused at least 30 death and 18 injures.](/news/2017/12/31/a-truck-collision-took-place-in-west-kenya-caused-at-least-30-death-and-18-injures.md)
-Migaa crash pushes road fatalities to over 100 in the past one month.
-
 ### [ The Canadian right-wing party National Advancement disbands. ](/news/2017/12/31/the-canadian-right-wing-party-national-advancement-disbands.md)
 GATINEAU, QC, Dec. 13, 2017 /CNW/ - - The Acting Chief Electoral Officer of Canada, Stéphane Perrault, has...
 
@@ -22,7 +19,7 @@ Egyptian security forces killed three suspected militants in an exchange of gunf
 ### [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md)
 Ukrainian police on Saturday freed the remaining hostages being held in a post office by an man believed to be strapped with explosives, and arrested the hostage taker after an hours-long standoff in the city of Kharkiv.
 
-### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
+### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
 _Context: Mount Everest, Nepal_
 
 ### [Ten people die and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-die-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-bl
 
 ### [2017-12-30](/news/2017/12/30/index.md)
 
-# Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. 
+# Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. 
 
 
 

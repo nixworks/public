@@ -9,7 +9,7 @@ Egyptian security forces killed three suspected militants in an exchange of gunf
 ### [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md)
 Ukrainian police on Saturday freed the remaining hostages being held in a post office by an man believed to be strapped with explosives, and arrested the hostage taker after an hours-long standoff in the city of Kharkiv.
 
-### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
+### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
 _Context: Mount Everest, Nepal_
 
 ### [Ten people die and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-die-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)
