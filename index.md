@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2017/12/31/index.md)
 
-### [ The Canadian right-wing party, National Advancement Party disbands. ](/news/2017/12/31/the-canadian-right-wing-party-national-advancement-party-disbands.md)
-_Context: Canadian, National Advancement Party_
+### [ The Canadian right-wing party National Advancement disbands. ](/news/2017/12/31/the-canadian-right-wing-party-national-advancement-disbands.md)
+_Context: Canadian, National Advancement_
 
 ---
 
