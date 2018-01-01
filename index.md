@@ -18,11 +18,14 @@ One in five Americans can now legally purchase the drug in six states across the
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)
 _Context: 2017-18 Iranian protests_
 
+### [Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-mr-berset-is-the-youngest-president-of-switzerland-since-1934.md)
+An interview with Alain Berset, who, at 45, is the youngest politician to become Swiss president since 1934.
+
 ---
 
 ## [Yesterday](/news/2017/12/31/index.md)
 
-### [A large number of fireworks accidentally go off in a barge at a New Year's Day show Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-terrigal-nsw-australia-causing-thousands-to-be-evacua.md)
+### [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md)
 Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
 
 ### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
@@ -31,7 +34,7 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 ### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
 
-### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world" because conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-because-conflicts-have-deepened-global-anxieties-abou.md)
+### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
 _Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
 
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)

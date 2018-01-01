@@ -3,10 +3,15 @@ Formats: [HTML](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-sw
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
-# Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934.
+# Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934. 
+
+An interview with Alain Berset, who, at 45, is the youngest politician to become Swiss president since 1934.
 
 
+### Sources:
 
+1. [SWI](https://www.swissinfo.ch/eng/alain-berset-_youngest-swiss-president-in-84-years-takes-office/43783510)
+1. [Cover Image](https://www.swissinfo.ch/image/43772826/2x1/1200/630/8b7c49eb339e8411d97e676eb4083c67/DE/berset_25a6804.jpg)
 
 ### Related:
 
