@@ -12,6 +12,9 @@ Several others are missing after the vessel, whose passengers included children,
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
 _Context: New Zealand, Northland_
 
+### [U.S. President Donald Trump tweets Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lies-and.md)
+“The United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years, and they have given us nothing but lies &amp; deceit, thinking of our leaders as fools. They give safe haven to the terrorists we hunt in Afghanistan, with little help. No more!”
+
 ### [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md)
 One in five Americans can now legally purchase the drug in six states across the country.
 
@@ -50,7 +53,7 @@ The film superstar says he will form a party to &quot;change the political syste
 _Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
 
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Mr. Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, President, Trump's, peace plan_
+_Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, President, peace plan_
 
 ---
 

@@ -12,6 +12,9 @@ Several others are missing after the vessel, whose passengers included children,
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
 _Context: New Zealand, Northland_
 
+### [U.S. President Donald Trump tweets Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lies-and.md)
+“The United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years, and they have given us nothing but lies &amp; deceit, thinking of our leaders as fools. They give safe haven to the terrorists we hunt in Afghanistan, with little help. No more!”
+
 ### [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md)
 One in five Americans can now legally purchase the drug in six states across the country.
 
