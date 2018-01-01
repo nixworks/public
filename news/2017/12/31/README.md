@@ -9,6 +9,9 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 ### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
 
+### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world" because conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-because-conflicts-have-deepened-global-anxieties-abou.md)
+_Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
+
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
 _Context: Colorado, Douglas County_
 

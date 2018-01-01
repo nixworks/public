@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
 _Context: New Zealand, Northland_
 
+### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time.](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
+The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
+
 ---
 
 ## [Yesterday](/news/2017/12/31/index.md)
@@ -15,6 +18,9 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 
 ### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
+
+### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world" because conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-because-conflicts-have-deepened-global-anxieties-abou.md)
+_Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
 
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
 _Context: Colorado, Douglas County_
