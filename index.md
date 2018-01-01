@@ -1,10 +1,20 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2017/12/31/index.md)
+## [News](/news/2018/01/1/index.md)
+
+### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
+_Context: New Zealand, Northland_
+
+---
+
+## [Yesterday](/news/2017/12/31/index.md)
 
 ### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
 The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.
+
+### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
+A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
 
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
 _Context: Colorado, Douglas County_
@@ -15,9 +25,15 @@ The film superstar says he will form a party to &quot;change the political syste
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
 _Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
 
+### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Mr. Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
+_Context: Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, Trump's, U.S. President, peace plan_
+
+### [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md)
+All of China’s government-licensed carving factories and ivory retailers are about to close, following a joint pledge with the U.S. in 2015.
+
 ---
 
-## [Yesterday](/news/2017/12/30/index.md)
+## [Day Before Yesterday](/news/2017/12/30/index.md)
 
 ### [Three suspected militants are killed and ten others are arrested by Egyptian security forces in Giza. ](/news/2017/12/30/three-suspected-militants-are-killed-and-ten-others-are-arrested-by-egyptian-security-forces-in-giza.md)
 Egyptian security forces killed three suspected militants in an exchange of gunfire at a farm they believed to be a militant hideout on the outskirts of Giza, the interior ministry said in a statement on Saturday.
@@ -28,7 +44,7 @@ Ukrainian police on Saturday freed the remaining hostages being held in a post o
 ### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
 _Context: Mount Everest, Nepal_
 
-### [Ten people die and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-die-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)
+### [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)
 _Context: Acapulco, Mexico_
 
 ### [Two security officers are killed in a shooting at the hotel-casino Arizona Charlie's Decatur in Las Vegas. ](/news/2017/12/30/two-security-officers-are-killed-in-a-shooting-at-the-hotel-casino-arizona-charlie-s-decatur-in-las-vegas.md)
@@ -39,26 +55,7 @@ Street protests hit Iran for a third day running on Saturday, spreading to the c
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/29/index.md)
-
-### [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md)
-Gunmen target a Coptic-owned shop after a deadly attack on a church in the same area south of Cairo.
-
-### [Venezuelan communications director Jorge Rodrguez announces that the country's Petro cryptocurrency, backed by 5.3 billion barrels of oil worth $267 billion, will launch shortly. ](/news/2017/12/29/venezuelan-communications-director-jorge-rodriguez-announces-that-the-country-s-petro-cryptocurrency-backed-by-5-3-billion-barrels-of-oil-w.md)
-Venezuela&#039;s cryptocurrency will launch within days and be backed by 5.3 billion barrels of oil worth $267 billion, in a bid to offset financial crisis.
-
-### [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md)
- NEW DELHI (AP) — Flames shot into the nighttime sky early Friday as a fire engulfed an upscale rooftop restaurant in the Indian city of Mumbai, killing 15 people and sending other
-
-### [Anti-government demonstrators have taken to the streets of Iran for a second day, with protests being held in a number of cities. ](/news/2017/12/29/anti-government-demonstrators-have-taken-to-the-streets-of-iran-for-a-second-day-with-protests-being-held-in-a-number-of-cities.md)
-Anger at rising prices and corruption has spread to more general anti-government grievances.
-
-### [In a surprising event, Malian Prime Minister Abdoulaye Idrissa Maga and his government resign without providing a reason. ](/news/2017/12/29/in-a-surprising-event-malian-prime-minister-abdoulaye-idrissa-maiga-and-his-government-resign-without-providing-a-reason.md)
-Abdoulaye Idrissa Maïga and his government quit seven months before country faces presidential election
-
----
-
-## [Previous Day...](/news/2017/12/28/index.md)
+## [Previous Day...](/news/2017/12/29/index.md)
 
 ---
 
