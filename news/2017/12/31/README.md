@@ -3,6 +3,9 @@ Formats: [HTML](2017/12/31/index.html)  [JSON](2017/12/31/index.json)  [XML](201
 
 ## [2017-12-31](/news/2017/12/31/index.md)
 
+### [A large number of fireworks accidentally go off in a barge at a New Year's Day show Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-terrigal-nsw-australia-causing-thousands-to-be-evacua.md)
+Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
+
 ### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
 The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.
 

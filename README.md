@@ -3,18 +3,27 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/1/index.md)
 
+### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
+The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
+
+### [A boat capsizes in the north of Indonesian Borneo, with at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-with-at-least-8-people-dead.md)
+Several others are missing after the vessel, whose passengers included children, sank near Borneo.
+
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
 _Context: New Zealand, Northland_
 
-### [2017-18 Iranian protests caused 12 death yet.](/news/2018/01/1/2017a18-iranian-protests-caused-12-death-yet.md)
-_Context: 2017-18 Iranian protests_
+### [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md)
+One in five Americans can now legally purchase the drug in six states across the country.
 
-### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time.](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
-The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
+### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)
+_Context: 2017-18 Iranian protests_
 
 ---
 
 ## [Yesterday](/news/2017/12/31/index.md)
+
+### [A large number of fireworks accidentally go off in a barge at a New Year's Day show Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-terrigal-nsw-australia-causing-thousands-to-be-evacua.md)
+Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
 
 ### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
 The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.

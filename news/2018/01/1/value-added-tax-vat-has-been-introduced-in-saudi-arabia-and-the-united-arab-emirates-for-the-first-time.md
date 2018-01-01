@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
-# Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time.
+# Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. 
 
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
 
