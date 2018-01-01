@@ -16,7 +16,10 @@ A U.S. State Department spokesperson told CBS News that they are aware of the cr
 _Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
 
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
-_Context: Colorado, Douglas County_
+_Context: Colorado, Copper Canyon Apartment Homes shooting, Douglas County_
+
+### [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md)
+All of China’s government-licensed carving factories and ivory retailers are about to close, following a joint pledge with the U.S. in 2015.
 
 ### [Indian film superstar Rajinikanth, who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. ](/news/2017/12/31/indian-film-superstar-rajinikanth-who-has-a-huge-following-in-the-country-and-is-one-of-asia-s-highest-paid-actors-has-announced-he-is-ent.md)
 The film superstar says he will form a party to &quot;change the political system&quot; in Tamil Nadu state.
@@ -25,10 +28,7 @@ The film superstar says he will form a party to &quot;change the political syste
 _Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
 
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Mr. Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, Trump's, U.S. President, peace plan_
-
-### [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md)
-All of China’s government-licensed carving factories and ivory retailers are about to close, following a joint pledge with the U.S. in 2015.
+_Context: Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, President, Trump's, peace plan_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 

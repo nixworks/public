@@ -10,7 +10,7 @@ Formats: [HTML](/news/2017/12/31/united-nations-secretary-general-anta3nio-guter
 
 ### Sources:
 
-1. [CNN via MSN.com](https://www.msn.com/en-us/news/world/un-chief-issues-red-alert-for-the-world/ar-BBHzUEA?li=BBmkt5R&ocid=spartandhp#image=1)
+1. [CNN via MSN.com](https://www.msn.com/en-us/news/world/un-chief-issues-red-alert-for-the-world/ar-BBHzUEA)
 
 ### Related:
 
