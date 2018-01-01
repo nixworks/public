@@ -6,7 +6,7 @@ Formats: [HTML](2018/01/1/index.html)  [JSON](2018/01/1/index.json)  [XML](2018/
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
 
-### [A boat capsizes in the north of Indonesian Borneo, with at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-with-at-least-8-people-dead.md)
+### [A boat capsizes in the north of Indonesian Borneo, leaving at least 8 people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-leaving-at-least-8-people-dead.md)
 Several others are missing after the vessel, whose passengers included children, sank near Borneo.
 
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
