@@ -1,13 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/1/index.md)
+## [News](/news/2018/01/2/index.md)
+
+### [A coach plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according-to.md)
+_Context: Ministry of Transport and Communications, Peru_
+
+---
+
+## [Yesterday](/news/2018/01/1/index.md)
 
 ### [An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. ](/news/2018/01/1/an-armed-standoff-between-indian-security-forces-and-kashimiri-rebels-at-a-paramilitary-base-ends-after-36-hours-and-leaves-eight-people-dea.md)
 Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.
-
-### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
-Advert placed by ‘America’s rabbi’ Shmuley Boteach also accuses singer’s native New Zealand of prejudice against Israel
 
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
@@ -38,7 +42,7 @@ An interview with Alain Berset, who, at 45, is the youngest politician to become
 
 ---
 
-## [Yesterday](/news/2017/12/31/index.md)
+## [Day Before Yesterday](/news/2017/12/31/index.md)
 
 ### [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md)
 Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
@@ -72,29 +76,7 @@ _Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine President, Palestine
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/30/index.md)
-
-### [Three suspected militants are killed and ten others are arrested by Egyptian security forces in Giza. ](/news/2017/12/30/three-suspected-militants-are-killed-and-ten-others-are-arrested-by-egyptian-security-forces-in-giza.md)
-Egyptian security forces killed three suspected militants in an exchange of gunfire at a farm they believed to be a militant hideout on the outskirts of Giza, the interior ministry said in a statement on Saturday.
-
-### [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md)
-Ukrainian police on Saturday freed the remaining hostages being held in a post office by an man believed to be strapped with explosives, and arrested the hostage taker after an hours-long standoff in the city of Kharkiv.
-
-### [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md)
-_Context: Mount Everest, Nepal_
-
-### [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)
-_Context: Acapulco, Mexico_
-
-### [Two security officers are killed in a shooting at the hotel-casino Arizona Charlie's Decatur in Las Vegas. ](/news/2017/12/30/two-security-officers-are-killed-in-a-shooting-at-the-hotel-casino-arizona-charlie-s-decatur-in-las-vegas.md)
-Las Vegas police are investigating a deadly incident at a hotel-casino where two security guards were shot and killed Saturday morning. 
-
-### [Two protesters are shot dead by Iranian police in Dorud, Lorestan Province, as anti-government protests spread across the country. ](/news/2017/12/30/two-protesters-are-shot-dead-by-iranian-police-in-dorud-lorestan-province-as-anti-government-protests-spread-across-the-country.md)
-Street protests hit Iran for a third day running on Saturday, spreading to the capital Tehran with crowds confronting police and attacking some state buildings, and a social media report said two demonstrators had been shot dead in a provincial town.
-
----
-
-## [Previous Day...](/news/2017/12/29/index.md)
+## [Previous Day...](/news/2017/12/30/index.md)
 
 ---
 
