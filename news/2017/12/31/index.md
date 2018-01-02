@@ -12,6 +12,9 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 ### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
 
+### [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md)
+Witnesses said cars seemed to explode every couple of seconds when the fire was at its peak
+
 ### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
 _Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
 
