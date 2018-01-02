@@ -27,6 +27,9 @@ One in five Americans can now legally purchase the drug in six states across the
 ### [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md)
 Attackers set mattresses on fire and burned bodies of those killed, authorities say
 
+### [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md)
+_Context: Alaska, Bail_
+
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)
 _Context: 2017-18 Iranian protests_
 
