@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/2/index.md)
 
-### [A coach plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according-to.md)
+### [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 25 people, however the death toll is expected to rise, according to the Ministry of Transport and Communications. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-25-people-however-the-death-toll-is-expected-to-rise-according.md)
 _Context: Ministry of Transport and Communications, Peru_
 
 ---
@@ -12,6 +12,9 @@ _Context: Ministry of Transport and Communications, Peru_
 
 ### [An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. ](/news/2018/01/1/an-armed-standoff-between-indian-security-forces-and-kashimiri-rebels-at-a-paramilitary-base-ends-after-36-hours-and-leaves-eight-people-dea.md)
 Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.
+
+### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
+Advert placed by ‘America’s rabbi’ Shmuley Boteach also accuses singer’s native New Zealand of prejudice against Israel
 
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
