@@ -30,7 +30,7 @@ The film superstar says he will form a party to &quot;change the political syste
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
 _Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
 
-### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Mr. Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
+### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
 _Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, President, peace plan_
 
 ## [Previous Day...](/news/2017/12/30/index.md)

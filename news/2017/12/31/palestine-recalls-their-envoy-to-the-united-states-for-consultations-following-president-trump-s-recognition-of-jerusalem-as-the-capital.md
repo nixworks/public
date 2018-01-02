@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-sta
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
-# Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Mr. Trump's move. 
+# Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. 
 
 
 

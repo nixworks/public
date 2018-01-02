@@ -27,7 +27,7 @@ Attackers set mattresses on fire and burned bodies of those killed, authorities 
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)
 _Context: 2017-18 Iranian protests_
 
-### [Alain Berset takes office as President of the Swiss Confederation. Mr. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-mr-berset-is-the-youngest-president-of-switzerland-since-1934.md)
+### [Alain Berset takes office as President of the Swiss Confederation. Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-berset-is-the-youngest-president-of-switzerland-since-1934.md)
 An interview with Alain Berset, who, at 45, is the youngest politician to become Swiss president since 1934.
 
 ## [Previous Day...](/news/2017/12/31/index.md)
