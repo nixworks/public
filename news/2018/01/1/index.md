@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/1/index.html)  [JSON](2018/01/1/index.json)  [XML](2018/
 
 ## [2018-01-1](/news/2018/01/1/index.md)
 
+### [An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. ](/news/2018/01/1/an-armed-standoff-between-indian-security-forces-and-kashimiri-rebels-at-a-paramilitary-base-ends-after-36-hours-and-leaves-eight-people-dea.md)
+Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.
+
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
 
@@ -12,7 +15,7 @@ Several others are missing after the vessel, whose passengers included children,
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
 _Context: New Zealand, Northland_
 
-### [U.S. President Donald Trump tweets Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lies-and.md)
+### [U.S. President Donald Trump tweets that Pakistan has been a safe haven for terrorists from Afghanistan and has given America nothing but lies and deceit after getting more than $33 billion U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-that-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but-lie.md)
 “The United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years, and they have given us nothing but lies &amp; deceit, thinking of our leaders as fools. They give safe haven to the terrorists we hunt in Afghanistan, with little help. No more!”
 
 ### [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md)
