@@ -21,7 +21,7 @@ Pakistan&#x00A0;responded&#x20;to&#x20;Trump&#x2019;s&#x20;assertion&#x20;it&#x2
 ### [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md)
 One in five Americans can now legally purchase the drug in six states across the country.
 
-### [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped; 29 were recaptured, and 109 prisoners returned voluntarily. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md)
+### [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md)
 Attackers set mattresses on fire and burned bodies of those killed, authorities say
 
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)

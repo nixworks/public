@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
-# An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped; 29 were recaptured, and 109 prisoners returned voluntarily. 
+# An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. 
 
 Attackers set mattresses on fire and burned bodies of those killed, authorities say
 
