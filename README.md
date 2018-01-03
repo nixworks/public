@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/2/index.md)
+## [News](/news/2018/01/3/index.md)
+
+### [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-infamous.md)
+_Context: Hailemariam Desalegn, Prime Minister of Ethiopia_
+
+---
+
+## [Yesterday](/news/2018/01/2/index.md)
 
 ### [Vice Media suspends two of its top executives as it investigates allegations made against them. ](/news/2018/01/2/vice-media-suspends-two-of-its-top-executives-as-it-investigates-allegations-made-against-them.md)
 Vice has suspended two top executives after a New York Times report on sexual misconduct at the digital media company. Vice Media put its president, Andrew Creighton, and chief digital officer Mike Germano on leave as it investigates allegations against them, according to a company memo...
@@ -29,7 +36,7 @@ Washington • After 40 years in the Senate, Utah’s Orrin Hatch said Tuesday h
 
 ---
 
-## [Yesterday](/news/2018/01/1/index.md)
+## [Day Before Yesterday](/news/2018/01/1/index.md)
 
 ### [An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. ](/news/2018/01/1/an-armed-standoff-between-indian-security-forces-and-kashimiri-rebels-at-a-paramilitary-base-ends-after-36-hours-and-leaves-eight-people-dea.md)
 Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.
@@ -66,41 +73,7 @@ An interview with Alain Berset, who, at 45, is the youngest politician to become
 
 ---
 
-## [Day Before Yesterday](/news/2017/12/31/index.md)
-
-### [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md)
-Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
-
-### [A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. ](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkesbury-river-near-sydney-killing-at-least-six-people.md)
-The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.
-
-### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
-A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
-
-### [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md)
-Witnesses said cars seemed to explode every couple of seconds when the fire was at its peak
-
-### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
-_Context: Antonio Guterres, United Nations Secretary-General, nationalism, nuclear weapon, xenophobia_
-
-### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
-_Context: Colorado, Copper Canyon Apartment Homes shooting, Douglas County_
-
-### [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md)
-All of China’s government-licensed carving factories and ivory retailers are about to close, following a joint pledge with the U.S. in 2015.
-
-### [Indian film superstar Rajinikanth, who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. ](/news/2017/12/31/indian-film-superstar-rajinikanth-who-has-a-huge-following-in-the-country-and-is-one-of-asia-s-highest-paid-actors-has-announced-he-is-ent.md)
-The film superstar says he will form a party to &quot;change the political system&quot; in Tamil Nadu state.
-
-### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
-_Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
-
-### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, President, peace plan_
-
----
-
-## [Previous Day...](/news/2017/12/30/index.md)
+## [Previous Day...](/news/2017/12/31/index.md)
 
 ---
 
