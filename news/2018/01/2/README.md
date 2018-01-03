@@ -21,7 +21,7 @@ Trump says &quot;with the Palestinians no longer willing to talk peace, why shou
 ### [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md)
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.
 
-### [ U.S. President Donald Trump taunts North Korea, boasting that the size of his missile launch button on his desk is larger and more powerful than Kim Jong-un's. ](/news/2018/01/2/u-s-president-donald-trump-taunts-north-korea-boasting-that-the-size-of-his-missile-launch-button-on-his-desk-is-larger-and-more-powerful.md)
+### [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than the North Korean dictator's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md)
 The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
 
 ### [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md)
@@ -33,7 +33,7 @@ Former hostage Joshua Boyle is currently being held in custody in Ottawa in conn
 ### [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md)
 Plötzensee jail &quot;lost&quot; the prisoners in four incidents over five days.
 
-### [U.S. Senator Orrin Hatch announces that he will retire near the end of 2018. ](/news/2018/01/2/u-s-senator-orrin-hatch-announces-that-he-will-retire-near-the-end-of-2018.md)
+### [U.S. Senator Orrin Hatch announces that he will retire in January 2019. ](/news/2018/01/2/u-s-senator-orrin-hatch-announces-that-he-will-retire-in-january-2019.md)
 Washington • After 40 years in the Senate, Utah’s Orrin Hatch said Tuesday he plans to retire at the end of the year and not seek re-election, ending breathless speculation on whether the powerful senator would try for an eighth term.
 
 ## [Previous Day...](/news/2018/01/1/index.md)
