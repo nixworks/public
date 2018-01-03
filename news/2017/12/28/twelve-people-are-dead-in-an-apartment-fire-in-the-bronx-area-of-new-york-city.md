@@ -10,7 +10,7 @@ The Latest on deadly Bronx apartment building fire (all times local): 11:15 p.m.
 
 ### Sources:
 
-1. [AP via Yahoo](https://finance.yahoo.com/news/latest-12-dead-bronx-fire-including-child-031647739.html?soc_trk=gcm&amp;soc_src=25ccc21b-eac3-34e5-9158-cc9bd791c1fd&amp;.tsrc=notification-brknews)
+1. [AP via Yahoo](https://finance.yahoo.com/news/latest-12-dead-bronx-fire-including-child-031647739.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/6i5xwU23tTKk733pt.Oq_A--~B/aD0zNjQ4O3c9NTQ3MjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://globalfinance.zenfs.com/images/US_AHTTP_AP_NEWSBRIEFS/a2d6cb3dccb84d9eb3636a08760e6f3f_original.jpg)
 
 ### Related:
