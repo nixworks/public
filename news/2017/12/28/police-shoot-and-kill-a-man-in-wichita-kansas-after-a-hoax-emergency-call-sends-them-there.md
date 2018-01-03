@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/28/police-shoot-and-kill-a-man-in-wichita-kansas-a
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
-# Police shoot and kill a man in Wichita, Kansas after a hoax emergency call sends them there. 
+# Police shoot and kill a man in Wichita, Kansas, after a hoax emergency call sends them there. 
 
 The 28-year-old was shot by police after his address was allegedly given to police in prank call.
 
@@ -16,5 +16,7 @@ The 28-year-old was shot by police after his address was allegedly given to poli
 ### Related:
 
 1. [A Beechcraft King Air B200 crashes into a FlightSafety International building in Wichita, Kansas - there are four dead. ](/news/2014/10/30/a-beechcraft-king-air-b200-crashes-into-a-flightsafety-international-building-in-wichita-kansas-there-are-four-dead.md) _Context: Wichita, Kansas_
-2. [ Late-term abortion provider George Tiller is shot and killed in Wichita, Kansas, United States. ](/news/2009/05/31/late-term-abortion-provider-george-tiller-is-shot-and-killed-in-wichita-kansas-united-states.md) _Context: Wichita, Kansas_
-3. [ Wichita, Kansas police announce the arrest of the BTK killer. ](/news/2005/02/26/wichita-kansas-police-announce-the-arrest-of-the-btk-killer.md) _Context: Wichita, Kansas_
+2. [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md) _Context: hoax_
+3. [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md) _Context: hoax_
+4. [ Late-term abortion provider George Tiller is shot and killed in Wichita, Kansas, United States. ](/news/2009/05/31/late-term-abortion-provider-george-tiller-is-shot-and-killed-in-wichita-kansas-united-states.md) _Context: Wichita, Kansas_
+5. [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282 km northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-northeast-of-aberdeen-scotland-after-a-hoax-b.md) _Context: hoax_
