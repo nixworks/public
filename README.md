@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-infamous.md)
 _Context: Hailemariam Desalegn, Prime Minister of Ethiopia_
 
-### [Two new Democratic senators - Doug Jones of Alabama and Tina Smith of Minnesota - are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independendent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down.md)
+### [Two new Democratic senators, Doug Jones of Alabama and Tina Smith of Minnesota, are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down-to.md)
 Two new Democrats in the Senate narrow the Republican majority to the barest of margins.
 
 ---
@@ -31,6 +31,9 @@ Trump says &quot;with the Palestinians no longer willing to talk peace, why shou
 ### [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md)
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.
 
+### [ U.S. President Donald Trump threatens nuclear war against North Korea, boasting that the size of his missile launch button on his desk is larger and more powerful than Kim Jong-un's one. ](/news/2018/01/2/u-s-president-donald-trump-threatens-nuclear-war-against-north-korea-boasting-that-the-size-of-his-missile-launch-button-on-his-desk-is-l.md)
+The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
+
 ### [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md)
 The UN refugee agency says the plan to deport thousands violates international and Israeli laws.
 
@@ -49,9 +52,6 @@ Washington • After 40 years in the Senate, Utah’s Orrin Hatch said Tuesday h
 
 ### [An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. ](/news/2018/01/1/an-armed-standoff-between-indian-security-forces-and-kashimiri-rebels-at-a-paramilitary-base-ends-after-36-hours-and-leaves-eight-people-dea.md)
 Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.
-
-### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
-Advert placed by ‘America’s rabbi’ Shmuley Boteach also accuses singer’s native New Zealand of prejudice against Israel
 
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
 The Gulf states have been under pressure to increase state revenue in the face of lower oil prices
