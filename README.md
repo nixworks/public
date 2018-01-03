@@ -3,10 +3,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/3/index.md)
 
-### [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-infa.md)
-_Context: Hailemariam Desalegn, Prime Minister of Ethiopia_
+### [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md)
+_Context: Ethiopia, Ethiopian Prime Minister, Hailemariam Desalegn_
 
-### [Two new Democratic senators, Doug Jones of Alabama and Tina Smith of Minnesota, are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down-to.md)
+### [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md)
 Two new Democrats in the Senate narrow the Republican majority to the barest of margins.
 
 ---
@@ -25,13 +25,13 @@ _Context:  coach bus plunges off a cliff, Peru_
 ### [A fire at Woburn Safari Park kills 13 patas monkeys. ](/news/2018/01/2/a-fire-at-woburn-safari-park-kills-13-patas-monkeys.md)
 Park will remain open except for affected enclosure while cause of blaze is investigated
 
-### [President Donald Trump tweets that the U.S. may withhold future payments to Palestine because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-palestine-because-they-are-no-longer-willing-to-talk-peace-wit.md)
+### [President Donald Trump tweets that the U.S. may withhold future payments to the Palestinian authority, over 350 million dollars per year, because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-the-palestinian-authority-over-350-million-dollars-per-year-be.md)
 Trump says &quot;with the Palestinians no longer willing to talk peace, why should we make any of these massive future payments to them?&rdquo;
 
 ### [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md)
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.
 
-### [ U.S. President Donald Trump threatens nuclear war against North Korea, boasting that the size of his missile launch button on his desk is larger and more powerful than Kim Jong-un's one. ](/news/2018/01/2/u-s-president-donald-trump-threatens-nuclear-war-against-north-korea-boasting-that-the-size-of-his-missile-launch-button-on-his-desk-is-l.md)
+### [ U.S. President Donald Trump threatens nuclear war against North Korea, boasting that the size of his missile launch button on his desk is larger and more powerful than Kim Jong-un's. ](/news/2018/01/2/u-s-president-donald-trump-threatens-nuclear-war-against-north-korea-boasting-that-the-size-of-his-missile-launch-button-on-his-desk-is-l.md)
 The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
 
 ### [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md)
