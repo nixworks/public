@@ -31,6 +31,9 @@ South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s
 ### [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md)
 Former hostage Joshua Boyle is currently being held in custody in Ottawa in connection with 15 criminal charges filed earlier this week.
 
+### [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md)
+Plötzensee jail &quot;lost&quot; the prisoners in four incidents over five days.
+
 ### [U.S. Senator Orrin Hatch announces that he will retire near the end of 2018. ](/news/2018/01/2/u-s-senator-orrin-hatch-announces-that-he-will-retire-near-the-end-of-2018.md)
 Washington • After 40 years in the Senate, Utah’s Orrin Hatch said Tuesday he plans to retire at the end of the year and not seek re-election, ending breathless speculation on whether the powerful senator would try for an eighth term.
 
