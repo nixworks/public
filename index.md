@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Prime Minister of Ethiopia Hailemariam Desalegn announces Ethiopia will drop charges against all political prisoners and close down infamous prison camp of Maekelawi. ](/news/2018/01/3/prime-minister-of-ethiopia-hailemariam-desalegn-announces-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-infamous.md)
 _Context: Hailemariam Desalegn, Prime Minister of Ethiopia_
 
-### [Two new Democratic senators are sworn in bringing the Republican Party majority down to 51-49 (this number includes Independents who caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-are-sworn-in-bringing-the-republican-party-majority-down-to-51-49-this-number-includes-independents-who-caucus.md)
+### [Two new Democratic senators - Doug Jones of Alabama and Tina Smith of Minnesota - are sworn in, bringing the Republican Party majority down to 51-49 (this number includes independendent senators that caucus with the Democrats). ](/news/2018/01/3/two-new-democratic-senators-doug-jones-of-alabama-and-tina-smith-of-minnesota-are-sworn-in-bringing-the-republican-party-majority-down.md)
 Two new Democrats in the Senate narrow the Republican majority to the barest of margins.
 
 ---
@@ -30,6 +30,9 @@ Trump says &quot;with the Palestinians no longer willing to talk peace, why shou
 
 ### [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md)
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.
+
+### [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md)
+The UN refugee agency says the plan to deport thousands violates international and Israeli laws.
 
 ### [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md)
 Former hostage Joshua Boyle is currently being held in custody in Ottawa in connection with 15 criminal charges filed earlier this week.
