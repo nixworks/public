@@ -9,7 +9,7 @@ The insurance industry will pay record claims of US$135 billion from last year&#
 ### [A Shosholoza train collides with a vehicle at a crossing near Kroonstad in the Free State, South Africa killing 18 and injuring at least 100 people. ](/news/2018/01/4/a-shosholoza-train-collides-with-a-vehicle-at-a-crossing-near-kroonstad-in-the-free-state-south-africa-killing-18-and-injuring-at-least-100.md)
 At least four people are killed and 40 wounded in the crash and fire, rescue workers say.
 
-### [The 2017-18 North American cold wave, has brought record low temperatures in Central and Eastern United States, resulting in at least 9 deaths.](/news/2018/01/4/the-2017a18-north-american-cold-wave-has-brought-record-low-temperatures-in-central-and-eastern-united-states-resulting-in-at-least-9-de.md)
+### [The 2017-18 North American cold wave, has brought record low temperatures in Central and Eastern United States, resulting in at least 9 deaths. ](/news/2018/01/4/the-2017a18-north-american-cold-wave-has-brought-record-low-temperatures-in-central-and-eastern-united-states-resulting-in-at-least-9-de.md)
 Forecasters warned of hypothermia and frost bite risks 
 
 ---

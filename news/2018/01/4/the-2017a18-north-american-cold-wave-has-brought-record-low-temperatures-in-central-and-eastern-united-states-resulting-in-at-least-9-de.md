@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/4/the-2017a18-north-american-cold-wave-has-brought
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
-# The 2017-18 North American cold wave, has brought record low temperatures in Central and Eastern United States, resulting in at least 9 deaths.
+# The 2017-18 North American cold wave, has brought record low temperatures in Central and Eastern United States, resulting in at least 9 deaths. 
 
 Forecasters warned of hypothermia and frost bite risks 
 
