@@ -21,5 +21,8 @@ Two new Democrats in the Senate narrow the Republican majority to the barest of 
 ### [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md)
 President Donald Trump on Wednesday shut down a presidential commission charged with looking into allegations of electoral fraud during the 2016 election, after many states refused to provide it with data, the White House said.
 
+### [Security researchers disclose two hardware vulnerabilities, Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-spectre-which-affects-most-modern-processors-and-meltdown-which-affects-most.md)
+Security researchers on Wednesday disclosed a set of security flaws that they said could let hackers steal sensitive information from nearly every modern computing device containing chips from Intel Corp, Advanced Micro Devices Inc and ARM Holdings.
+
 ## [Previous Day...](/news/2018/01/2/index.md)
 

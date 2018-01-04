@@ -5,13 +5,13 @@ Formats: [HTML](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-
 
 # An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. 
 
-Advert placed by ‘America’s rabbi’ Shmuley Boteach also accuses singer’s native New Zealand of prejudice against Israel
+
 
 
 ### Sources:
 
-1. [The Guardian](https://www.theguardian.com/music/2018/jan/01/lorde-called-a-bigot-over-israel-stance-in-full-page-washington-post-ad)
-1. [Cover Image](https://i.guim.co.uk/img/media/6b6508070997ded349d5a82ef22528f6580bb107/0_0_4000_2400/master/4000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=81f7a3b3f2149e5ceea64f434c1b1ca4)
+1. [Jpost](http://m.jpost.com/Opinion/Lorde-and-BDS-bigots-should-be-boycotted-and-exposed-as-hypocrites-522583)
+1. [Cover Image](http://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/401562)
 
 ### Related:
 
