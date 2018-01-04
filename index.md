@@ -3,6 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/3/index.md)
 
+### [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md)
+A suicide bomber has killed at least 11 people at a mosque in northeastern Nigeria, near the border with Cameroon. The attack comes as Boko Haram militants step up their campaign of violence in the region. 
+
+### [A new Icelandic law goes into effect which requires government agencies and companies with more than 24 full-time employees to prove they are paying men and women equally, as required by existing legislation. ](/news/2018/01/3/a-new-icelandic-law-goes-into-effect-which-requires-government-agencies-and-companies-with-more-than-24-full-time-employees-to-prove-they-ar.md)
+The island nation has started to put in place a new law requiring companies with 25 employees or more to show that they pay men and women equally.
+
 ### [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md)
 Three people die and at least 20 are injured as high winds batter most of northern Europe.
 
@@ -11,6 +17,9 @@ _Context: Ethiopia, Ethiopian Prime Minister, Hailemariam Desalegn_
 
 ### [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md)
 Two new Democrats in the Senate narrow the Republican majority to the barest of margins.
+
+### [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md)
+President Donald Trump on Wednesday shut down a presidential commission charged with looking into allegations of electoral fraud during the 2016 election, after many states refused to provide it with data, the White House said.
 
 ---
 
@@ -34,7 +43,7 @@ Trump says &quot;with the Palestinians no longer willing to talk peace, why shou
 ### [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md)
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.
 
-### [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than the North Korean dictator's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md)
+### [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md)
 The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
 
 ### [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md)

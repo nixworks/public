@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-
 
 ### [2018-01-2](/news/2018/01/2/index.md)
 
-#  U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than the North Korean dictator's. 
+#  U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. 
 
 The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
 
@@ -18,7 +18,7 @@ The president’s tweet that he has a “much bigger” arsenal of nuclear weapo
 ### Changes:
 
 1. [ U.S. President Donald Trump threatens nuclear war against North Korea, boasting that the size of his missile launch button on his desk is larger and more powerful than Kim Jong-un's. ](/news/2018/01/2/u-s-president-donald-trump-threatens-nuclear-war-against-north-korea-boasting-that-the-size-of-his-missile-launch-button-on-his-desk-is-l.md) _2018-01-03 20:30:05 (First version)_
-1. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than the North Korean dictator's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _(Current version)_
+1. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _(Current version)_
 
 ### Related:
 
