@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/4/index.html)  [JSON](2018/01/4/index.json)  [XML](2018/
 
 ## [2018-01-4](/news/2018/01/4/index.md)
 
-### [Munich Re reports that the insurance industry faces record claims of $135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquakes.md)
+### [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md)
 The insurance industry will pay record claims of US$135 billion from last year&#039;s spate of natural catastrophes, according to a report published by Munich R
 
 ### [A Shosholoza train collides with a vehicle at a crossing near Kroonstad in the Free State, South Africa killing 18 and injuring at least 100 people. ](/news/2018/01/4/a-shosholoza-train-collides-with-a-vehicle-at-a-crossing-near-kroonstad-in-the-free-state-south-africa-killing-18-and-injuring-at-least-100.md)

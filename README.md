@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/4/index.md)
 
-### [Munich Re reports that the insurance industry faces record claims of $135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquakes.md)
+### [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md)
 The insurance industry will pay record claims of US$135 billion from last year&#039;s spate of natural catastrophes, according to a report published by Munich R
 
 ### [A Shosholoza train collides with a vehicle at a crossing near Kroonstad in the Free State, South Africa killing 18 and injuring at least 100 people. ](/news/2018/01/4/a-shosholoza-train-collides-with-a-vehicle-at-a-crossing-near-kroonstad-in-the-free-state-south-africa-killing-18-and-injuring-at-least-100.md)
@@ -31,7 +31,7 @@ Two new Democrats in the Senate narrow the Republican majority to the barest of 
 ### [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md)
 President Donald Trump on Wednesday shut down a presidential commission charged with looking into allegations of electoral fraud during the 2016 election, after many states refused to provide it with data, the White House said.
 
-### [Security researchers disclose two hardware vulnerabilities, Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-spectre-which-affects-most-modern-processors-and-meltdown-which-affects-most.md)
+### [Security researchers disclose two hardware vulnerabilities&mdash;Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-mdash-spectre-which-affects-most-modern-processors-and-meltdown-which-affects.md)
 Security researchers on Wednesday disclosed a set of security flaws that they said could let hackers steal sensitive information from nearly every modern computing device containing chips from Intel Corp, Advanced Micro Devices Inc and ARM Holdings.
 
 ---
