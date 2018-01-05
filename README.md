@@ -18,7 +18,7 @@ The U.S. is suspending security assistance to Pakistan &quot;until the Pakistani
 ### [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md)
 The U.S. Treasury Department&#39;s actions come amid anti-government protests in Iran, which have received vocal support from the White House.
 
-### [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics. These are the first high-level talks between North and South Korea in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md)
+### [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md)
 The talks will pave the way for North Korean athletes to attend the Winter Games in South Korea.
 
 ### [U.S. Attorney General Jeff Sessions rescinds three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-legal.md)
