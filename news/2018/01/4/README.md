@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/4/index.html)  [JSON](2018/01/4/index.json)  [XML](2018/
 
 ## [2018-01-4](/news/2018/01/4/index.md)
 
+### [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md)
+The bomber attacked a market where shopkeepers were staging a protest against the police. At least 30 people were also wounded in the attack, officials said.
+
 ### [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md)
 The insurance industry will pay record claims of US$135 billion from last year&#039;s spate of natural catastrophes, according to a report published by Munich R
 
