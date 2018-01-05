@@ -12,8 +12,17 @@ At least four people are killed and 40 wounded in the crash and fire, rescue wor
 ### [A massive winter storm hits the East Coast of the United States with up to 18 inches of snow predicted to fall between The Carolinas and Maine. So far, three people have died in North Carolina and a person has died in Philadelphia, Pennsylvania. ](/news/2018/01/4/a-massive-winter-storm-hits-the-east-coast-of-the-united-states-with-up-to-18-inches-of-snow-predicted-to-fall-between-the-carolinas-and-mai.md)
 HARTFORD, Conn. (AP) — A massive winter storm roared into the East Coast on Thursday, threatening to dump as much as 18 inches of snow from the Carolinas to Maine and unleashing hurricane-force winds and flooding that closed schools and offices and halted transportation systems.
 
+### [The U.S. State Department suspends its security assistance to Pakistan. ](/news/2018/01/4/the-u-s-state-department-suspends-its-security-assistance-to-pakistan.md)
+The U.S. is suspending security assistance to Pakistan &quot;until the Pakistani government takes decisive action against [terror] groups including the Afghani Taliban and the Haqqani Network,&quot; State Department spokesperson Heather Nauert said Thursday. The move comes after President Trump ramp...
+
+### [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md)
+The U.S. Treasury Department&#39;s actions come amid anti-government protests in Iran, which have received vocal support from the White House.
+
 ### [U.S. Attorney General Jeff Sessions rescinded three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinded-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-lega.md)
  WASHINGTON (AP) — The Trump administration threw the burgeoning movement to legalize marijuana into uncertainty Thursday as it lifted an Obama-era policy that kept federal authori
+
+### [A drawing is held to resolve a tied election between Shelly Simonds (D) and David Yancey (R), and Yancey is randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-shelly-simonds-d-and-david-yancey-r-and-yancey-is-randomly-chosen-as-the-winner.md)
+_Context: D, David Yancey, R, Shelly Simonds, Virginia House of Delegates election, 2017, tied election_
 
 ---
 
