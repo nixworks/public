@@ -18,11 +18,14 @@ The U.S. is suspending security assistance to Pakistan &quot;until the Pakistani
 ### [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md)
 The U.S. Treasury Department&#39;s actions come amid anti-government protests in Iran, which have received vocal support from the White House.
 
+### [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md)
+The talks will pave the way for North Korean athletes to attend the Winter Games in South Korea.
+
 ### [U.S. Attorney General Jeff Sessions rescinded three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinded-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-lega.md)
  WASHINGTON (AP) — The Trump administration threw the burgeoning movement to legalize marijuana into uncertainty Thursday as it lifted an Obama-era policy that kept federal authori
 
-### [A drawing is held to resolve a tied election between Shelly Simonds (D) and David Yancey (R), and Yancey is randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-shelly-simonds-d-and-david-yancey-r-and-yancey-is-randomly-chosen-as-the-winner.md)
-_Context: D, David Yancey, R, Shelly Simonds, Virginia House of Delegates election, 2017, tied election_
+### [A drawing is held to resolve a tied election between Democrat Shelley Simmons and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelley-simmons-and-republican-david-yancey-with-yancey-being-randomly-chosen.md)
+_Context: David Yancey, Democrat, Republican, Virginia House of Delegates election, 2017, tied election_
 
 ## [Previous Day...](/news/2018/01/3/index.md)
 
