@@ -3,11 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/5/index.md)
 
-### [A hot air balloon crash, apparently caused by strong winds, in Egypt's popular tourist region of Luxor kills a 36-year-old woman from South Africa and injures 12 other tourists. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crash-apparently-caused-by-strong-winds-in-egypt-s-popular-tourist-region-of-luxor-kills-a-36-year-old-woman-from-south.md)
-One tourist is dead and a dozen more were injured in a hot air balloon crash in Egypt on Friday, the latest balloon accident in a number of tragedies in the popular tourist region of Luxor over the past few years. All of those involved in the accident are believed to be foreign tourists. An...
+### [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md)
+_Context: 2018 Luxor hot air balloon crash, Australia, Egypt, Luxor Governorate, hot air balloon_
 
-### [A new NASA study confirms that the ozone layer is finally recovering as a result of actions taken to ban ozone depleting substances. ](/news/2018/01/5/a-new-nasa-study-confirms-that-the-ozone-layer-is-finally-recovering-as-a-result-of-actions-taken-to-ban-ozone-depleting-substances.md)
-_Context: Ozone depletion, ban ozone depleting substances, ozone layer_
+### [Research published in "Geophysical Research Letters" implies that the ozone layer is recovering. ](/news/2018/01/5/research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-recovering.md)
+_Context: Geophysical Research Letters, Ozone depletion, ozone layer_
 
 ---
 
@@ -36,9 +36,6 @@ The talks will pave the way for North Korean athletes to attend the Winter Games
 
 ### [U.S. Attorney General Jeff Sessions rescinds three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-legal.md)
  WASHINGTON (AP) — The Trump administration threw the burgeoning movement to legalize marijuana into uncertainty Thursday as it lifted an Obama-era policy that kept federal authori
-
-### [A United Airlines flight headed from Chicago to Hong Kong makes an emergency landing in Anchorage, Alaska, after a passenger allegedly became unruly. ](/news/2018/01/4/a-united-airlines-flight-headed-from-chicago-to-hong-kong-makes-an-emergency-landing-in-anchorage-alaska-after-a-passenger-allegedly-becam.md)
-A commercial airline flight from Chicago to Hong Kong was diverted to Anchorage Thursday night because of an incident on board the aircraft.
 
 ### [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md)
 _Context: David Yancey, Democrat, Republican, Virginia House of Delegates election, 2017, tied election_

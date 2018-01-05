@@ -3,11 +3,11 @@ Formats: [HTML](2018/01/5/index.html)  [JSON](2018/01/5/index.json)  [XML](2018/
 
 ## [2018-01-5](/news/2018/01/5/index.md)
 
-### [A hot air balloon crash, apparently caused by strong winds, in Egypt's popular tourist region of Luxor kills a 36-year-old woman from South Africa and injures 12 other tourists. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crash-apparently-caused-by-strong-winds-in-egypt-s-popular-tourist-region-of-luxor-kills-a-36-year-old-woman-from-south.md)
-One tourist is dead and a dozen more were injured in a hot air balloon crash in Egypt on Friday, the latest balloon accident in a number of tragedies in the popular tourist region of Luxor over the past few years. All of those involved in the accident are believed to be foreign tourists. An...
+### [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md)
+_Context: 2018 Luxor hot air balloon crash, Australia, Egypt, Luxor Governorate, hot air balloon_
 
-### [A new NASA study confirms that the ozone layer is finally recovering as a result of actions taken to ban ozone depleting substances. ](/news/2018/01/5/a-new-nasa-study-confirms-that-the-ozone-layer-is-finally-recovering-as-a-result-of-actions-taken-to-ban-ozone-depleting-substances.md)
-_Context: Ozone depletion, ban ozone depleting substances, ozone layer_
+### [Research published in "Geophysical Research Letters" implies that the ozone layer is recovering. ](/news/2018/01/5/research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-recovering.md)
+_Context: Geophysical Research Letters, Ozone depletion, ozone layer_
 
 ## [Previous Day...](/news/2018/01/4/index.md)
 
