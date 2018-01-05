@@ -24,6 +24,9 @@ The talks will pave the way for North Korean athletes to attend the Winter Games
 ### [U.S. Attorney General Jeff Sessions rescinded three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinded-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-lega.md)
  WASHINGTON (AP) — The Trump administration threw the burgeoning movement to legalize marijuana into uncertainty Thursday as it lifted an Obama-era policy that kept federal authori
 
+### [A United Airlines flight headed from Chicago to Hong Kong, China made an emergency landing in Anchorage, Alaska after a passenger allegedly became unruly. ](/news/2018/01/4/a-united-airlines-flight-headed-from-chicago-to-hong-kong-china-made-an-emergency-landing-in-anchorage-alaska-after-a-passenger-allegedly.md)
+A commercial airline flight from Chicago to Hong Kong was diverted to Anchorage Thursday night because of an incident on board the aircraft.
+
 ### [A drawing is held to resolve a tied election between Democrat Shelley Simmons and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelley-simmons-and-republican-david-yancey-with-yancey-being-randomly-chosen.md)
 _Context: David Yancey, Democrat, Republican, Virginia House of Delegates election, 2017, tied election_
 
