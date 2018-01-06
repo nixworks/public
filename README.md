@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/5/index.md)
+## [News](/news/2018/01/6/index.md)
+
+### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
+_Context: Politics of Iran, demonstrate across Iran_
+
+---
+
+## [Yesterday](/news/2018/01/5/index.md)
 
 ### [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md)
 Twitter Inc on Friday reiterated its stance that accounts belonging to world leaders have special status on the social media network, pushing back against users who have called on the company to banish U.S. President Donald Trump.
@@ -30,12 +37,12 @@ It&#39;s expected that Donald Trump will nominate Rogers&#39; successor this mon
 ### [At an extraordinary session of the United Nations Security Council, the United States repeat their "unapologetic" support for the ongoing Iranian protests. Russia denounces a "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/at-an-extraordinary-session-of-the-united-nations-security-council-the-united-states-repeat-their-unapologetic-support-for-the-ongoing-ir.md)
 The United Nations Security Council discussed the recent protests in Iran over economic conditions there.
 
-### [NASA research published in "Geophysical Research Letters" implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-decl.md)
+### [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md)
 _Context: CFC ban, Geophysical Research Letters, NASA, Ozone depletion, chlorine, chlorofluorocarbon, ozone layer_
 
 ---
 
-## [Yesterday](/news/2018/01/4/index.md)
+## [Day Before Yesterday](/news/2018/01/4/index.md)
 
 ### [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md)
 The bomber attacked a market where shopkeepers were staging a protest against the police. At least 30 people were also wounded in the attack, officials said.
@@ -66,35 +73,7 @@ _Context: David Yancey, Democrat, Republican, Virginia House of Delegates electi
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/3/index.md)
-
-### [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md)
-A suicide bomber has killed at least 11 people at a mosque in northeastern Nigeria, near the border with Cameroon. The attack comes as Boko Haram militants step up their campaign of violence in the region. 
-
-### [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md)
-Three people die and at least 20 are injured as high winds batter most of northern Europe.
-
-### [A new Icelandic law goes into effect which requires government agencies and companies with more than 24 full-time employees to prove they are paying men and women equally, as required by existing legislation. ](/news/2018/01/3/a-new-icelandic-law-goes-into-effect-which-requires-government-agencies-and-companies-with-more-than-24-full-time-employees-to-prove-they-ar.md)
-The island nation has started to put in place a new law requiring companies with 25 employees or more to show that they pay men and women equally.
-
-### [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md)
-_Context: Ethiopia, Ethiopian Prime Minister, Hailemariam Desalegn, Politics of Ethiopia_
-
-### [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md)
-Two new Democrats in the Senate narrow the Republican majority to the barest of margins.
-
-### [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md)
-President Donald Trump on Wednesday shut down a presidential commission charged with looking into allegations of electoral fraud during the 2016 election, after many states refused to provide it with data, the White House said.
-
-### [Security researchers disclose two hardware vulnerabilities&mdash;Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-mdash-spectre-which-affects-most-modern-processors-and-meltdown-which-affects.md)
-Security researchers on Wednesday disclosed a set of security flaws that they said could let hackers steal sensitive information from nearly every modern computing device containing chips from Intel Corp, Advanced Micro Devices Inc and ARM Holdings.
-
-### [The Great Internet Mersenne Prime Search announces the discovery of the latest largest known prime number, a Mersenne prime with 23,249,425 digits equal to 2 77,232,917 [?] 1. ](/news/2018/01/3/the-great-internet-mersenne-prime-search-announces-the-discovery-of-the-latest-largest-known-prime-number-a-mersenne-prime-with-23-249-425.md)
-It clocks in at over a monstrous 23 million digits long, and is in a rare class of numbers called Mersenne primes.
-
----
-
-## [Previous Day...](/news/2018/01/2/index.md)
+## [Previous Day...](/news/2018/01/3/index.md)
 
 ---
 
