@@ -24,5 +24,8 @@ President Donald Trump on Wednesday shut down a presidential commission charged 
 ### [Security researchers disclose two hardware vulnerabilities&mdash;Spectre, which affects most modern processors, and Meltdown, which affects most Intel chips. ](/news/2018/01/3/security-researchers-disclose-two-hardware-vulnerabilities-mdash-spectre-which-affects-most-modern-processors-and-meltdown-which-affects.md)
 Security researchers on Wednesday disclosed a set of security flaws that they said could let hackers steal sensitive information from nearly every modern computing device containing chips from Intel Corp, Advanced Micro Devices Inc and ARM Holdings.
 
+### [The Great Internet Mersenne Prime Search announces the discovery of the latest largest known prime number, a Mersenne prime with 23,249,425 digits equal to 2 77,232,917 [?] 1. ](/news/2018/01/3/the-great-internet-mersenne-prime-search-announces-the-discovery-of-the-latest-largest-known-prime-number-a-mersenne-prime-with-23-249-425.md)
+It clocks in at over a monstrous 23 million digits long, and is in a rare class of numbers called Mersenne primes.
+
 ## [Previous Day...](/news/2018/01/2/index.md)
 
