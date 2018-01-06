@@ -18,7 +18,7 @@ At&#x20;a&#x20;press&#x20;conference&#x20;with&#x20;Turkish&#x20;President&#x20;
 ### [ An anonymous U.S. State Department official says no decision has been made on the scheduled January 1, 2018, $125-million payment to the UNRWA (United Nations Relief and Works Agency), which administers aid for Palestinian refugees. Media reports had stated the money was frozen. The official added the government is still reviewing U.S. assistance to the Palestinian Authority and has until January 15 to resolve the issue. ](/news/2018/01/5/an-anonymous-u-s-state-department-official-says-no-decision-has-been-made-on-the-scheduled-january-1-2018-125-million-payment-to-the-un.md)
 The United States has frozen $125 million in funding for a U.N. agency that provides aid to Palestinian refugees, Axios news site reported on Friday, but a State Department official said no decision had been made on the payment.
 
-### [Belgium and Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this-is.md)
+### [Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this.md)
 Belgium and the Netherlands peacefully altered their national borders by swapping 48 acres of land along a river dividing the two countries.
 
 ### [Senators Chuck Grassley and Lindsey Graham of the United States Senate Committee on the Judiciary refer the British spy Christopher Steele to the U.S. Department of Justice for a potential criminal investigation. ](/news/2018/01/5/senators-chuck-grassley-and-lindsey-graham-of-the-united-states-senate-committee-on-the-judiciary-refer-the-british-spy-christopher-steele-t.md)
@@ -26,6 +26,9 @@ _Context: Christopher Steele, Chuck Grassley, Lindsey Graham, Russian interferen
 
 ### [National Security Agency director Admiral Mike Rogers plans to retire this spring. President Donald Trump is expected to nominate a successor later this month. ](/news/2018/01/5/national-security-agency-director-admiral-mike-rogers-plans-to-retire-this-spring-president-donald-trump-is-expected-to-nominate-a-successo.md)
 It&#39;s expected that Donald Trump will nominate Rogers&#39; successor this month.
+
+### [At an extraordinary session of the United Nations Security Council, the United States repeat their "unapologetic" support for the ongoing Iranian protests. Russia denounces a "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/at-an-extraordinary-session-of-the-united-nations-security-council-the-united-states-repeat-their-unapologetic-support-for-the-ongoing-ir.md)
+The United Nations Security Council discussed the recent protests in Iran over economic conditions there.
 
 ### [Research published in "Geophysical Research Letters" implies that the ozone layer is starting to recover. ](/news/2018/01/5/research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover.md)
 _Context: Geophysical Research Letters, Ozone depletion, ozone layer_
