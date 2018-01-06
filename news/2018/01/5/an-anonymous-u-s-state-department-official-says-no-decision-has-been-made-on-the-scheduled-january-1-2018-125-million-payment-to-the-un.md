@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/5/an-anonymous-u-s-state-department-official-says-
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
-#  An anonymous U.S. State Department official says no decision has been made on the scheduled January 1, 2018, $125-million payment to the UNRWA ("United Nations Relief and Works Agency") which administers aid for Palestinian refugees. Media reports had stated the money was frozen. The official added the government is still reviewing U.S. assistance to the Palestinian Authority and has until January 15 to resolve the issue. 
+#  An anonymous U.S. State Department official says no decision has been made on the scheduled January 1, 2018, $125-million payment to the UNRWA (United Nations Relief and Works Agency), which administers aid for Palestinian refugees. Media reports had stated the money was frozen. The official added the government is still reviewing U.S. assistance to the Palestinian Authority and has until January 15 to resolve the issue. 
 
 The United States has frozen $125 million in funding for a U.N. agency that provides aid to Palestinian refugees, Axios news site reported on Friday, but a State Department official said no decision had been made on the payment.
 
