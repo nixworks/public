@@ -4,7 +4,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/01/6/index.md)
 
 ### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
-_Context: Politics of Iran, demonstrate across Iran_
+_Context: 2017-18 Iranian protests, demonstrate across Iran_
 
 ---
 
