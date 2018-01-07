@@ -11,6 +11,8 @@ Formats: [HTML](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-
 ### Sources:
 
 1. [CNN](http://edition.cnn.com/2018/01/07/asia/china-tanker-freighter-collision/index.html)
+2. [Reuters](https://www.reuters.com/article/us-china-shipping-accident-oil/iranian-oil-tanker-burns-32-missing-after-collision-off-chinas-coast-idUSKBN1EW059)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 

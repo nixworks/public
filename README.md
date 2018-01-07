@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/7/index.md)
 
-### [The Revolutionary Guards announce that Iran broke down the chain of last week's unrest. According to them, the unrest was created "by the United States, Britain, the Zionist regime (Israel), Saudi Arabia, the hypocrites (Mujahideen) and monarchists." ](/news/2018/01/7/the-revolutionary-guards-announce-that-iran-broke-down-the-chain-of-last-week-s-unrest-according-to-them-the-unrest-was-created-by-the-un.md)
-_Context: Britain, Foreign relations of Iran, Israel, Mujahideen, Revolutionary Guards, Saudi Arabia, United States, Zionist, last week's unrest, monarchists_
+### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
+The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
 
 ### [The former Prime Minister of Egypt, 76-year old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
 _Context: Ahmed Shafik, Politics of Egypt, Prime Minister of Egypt, upcoming presidential elections_
@@ -35,7 +35,7 @@ _Context: Cuba-United States relations, Jeff Flake, U.S. embassy in Havana, susp
 Move comes as King Salman decrees a series of financial payouts to ease the cost of living.
 
 ### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
-_Context: demonstrate across Iran, last week's unrest_
+_Context: 2017-18 Iranian protests, demonstrate across Iran_
 
 ### [After the Venezuelan government orders shops to lower prices, hundreds of people line up to take advantage of these price cuts. ](/news/2018/01/6/after-the-venezuelan-government-orders-shops-to-lower-prices-hundreds-of-people-line-up-to-take-advantage-of-these-price-cuts.md)
 _Context: Crisis in Venezuela (2012-present)_

@@ -22,7 +22,7 @@ _Context: Cuba-United States relations, Jeff Flake, U.S. embassy in Havana, susp
 Move comes as King Salman decrees a series of financial payouts to ease the cost of living.
 
 ### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
-_Context: demonstrate across Iran, last week's unrest_
+_Context: 2017-18 Iranian protests, demonstrate across Iran_
 
 ### [After the Venezuelan government orders shops to lower prices, hundreds of people line up to take advantage of these price cuts. ](/news/2018/01/6/after-the-venezuelan-government-orders-shops-to-lower-prices-hundreds-of-people-line-up-to-take-advantage-of-these-price-cuts.md)
 _Context: Crisis in Venezuela (2012-present)_
