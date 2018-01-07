@@ -9,6 +9,9 @@ Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&
 ### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)
 The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir
 
+### [Thirty-two sailors are missing after Panama oil tanker "SANCHI" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-tanker-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china-th.md)
+_Context: China_
+
 ### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)
 German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavusoglu have vowed to try to mend ties blighted by a slew of disputes.
 
@@ -31,7 +34,7 @@ _Context: Crisis in Venezuela (2012-present)_
 ### [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md)
 Twitter Inc on Friday reiterated its stance that accounts belonging to world leaders have special status on the social media network, pushing back against users who have called on the company to banish U.S. President Donald Trump.
 
-### [Four women accuse Paul Haggis of sexual misconduct including two rapes. ](/news/2018/01/5/four-women-accuse-paul-haggis-of-sexual-misconduct-including-two-rapes.md)
+### [Four women accuse film and television producer, director, and writer Paul Haggis (Crash and Million Dollar Baby) of sexual misconduct including two rapes. ](/news/2018/01/5/four-women-accuse-film-and-television-producer-director-and-writer-paul-haggis-crash-and-million-dollar-baby-of-sexual-misconduct-includ.md)
 A civil lawsuit was previously filed against the Oscar-winning filmmaker, prompting three more women to come forward.
 
 ### [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md)
