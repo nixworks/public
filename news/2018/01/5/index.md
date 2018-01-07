@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/5/index.html)  [JSON](2018/01/5/index.json)  [XML](2018/
 
 ## [2018-01-5](/news/2018/01/5/index.md)
 
-### [ARSA insurgents ambush a Burmese military convoy with small arms and homemade land mines, wounding three soldiers. ](/news/2018/01/5/arsa-insurgents-ambush-a-burmese-military-convoy-with-small-arms-and-homemade-land-mines-wounding-three-soldiers.md)
+### [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy and wound three soldiers. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-and-wound-three-soldiers.md)
 The Rohingya group says it targeted the Burmese military in an attack on Friday.
 
 ### [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md)

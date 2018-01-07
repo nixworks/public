@@ -22,7 +22,7 @@ Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&
 ### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)
 The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir
 
-### [Thirty-two sailors are missing after Panama oil tanker "MV Sanchi" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-tanker-mv-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china.md)
+### [Thirty-two sailors are missing after Iranian oil tanker "MV Sanchi" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-mv-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china.md)
 _Context: China, MV Sanchi_
 
 ### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)
@@ -44,7 +44,7 @@ _Context: Crisis in Venezuela (2012-present)_
 
 ## [Day Before Yesterday](/news/2018/01/5/index.md)
 
-### [ARSA insurgents ambush a Burmese military convoy with small arms and homemade land mines, wounding three soldiers. ](/news/2018/01/5/arsa-insurgents-ambush-a-burmese-military-convoy-with-small-arms-and-homemade-land-mines-wounding-three-soldiers.md)
+### [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy and wound three soldiers. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-and-wound-three-soldiers.md)
 The Rohingya group says it targeted the Burmese military in an attack on Friday.
 
 ### [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md)
