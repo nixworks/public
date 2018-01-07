@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-
 
 ### [2018-01-6](/news/2018/01/6/index.md)
 
-# Thirty-two sailors are missing after Panama oil tanker "SANCHI" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker. 
+# Thirty-two sailors are missing after Panama oil tanker "SANCHI" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. 
 
 
 
