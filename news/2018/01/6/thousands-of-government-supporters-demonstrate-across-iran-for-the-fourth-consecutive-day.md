@@ -5,12 +5,14 @@ Formats: [HTML](/news/2018/01/6/thousands-of-government-supporters-demonstrate-a
 
 # Thousands of government supporters demonstrate across Iran for the fourth consecutive day. 
 
-
+Hundreds of Iranians held rallies on Saturday in support of the anti-government protests in Iran, in cities including Washington, D.C., Stockholm, London, Paris and Berlin.
 
 
 ### Sources:
 
 1. [Voice of America](https://www.voanews.com/a/iran-government-supporters-hold-large-rallies-/4193848.html)
+2. [Yahoo via Reuters](https://www.yahoo.com/news/people-rally-solidarity-anti-government-slideshow-wp-233538335.html)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/iDsnDy0W5ZoU6rWclSxjRg--~B/aD0zOTM5O3c9NTg3NztzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/c5b5d5d386f5586f249b17b67e88175e)
 
 ### Related:
 
