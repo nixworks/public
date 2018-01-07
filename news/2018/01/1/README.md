@@ -28,7 +28,7 @@ Attackers set mattresses on fire and burned bodies of those killed, authorities 
 _Context: Alaska, Law of Alaska, bail_
 
 ### [Ten people die at the protests overnight, with twelve deaths total so far as the protests enter their fifth day. ](/news/2018/01/1/ten-people-die-at-the-protests-overnight-with-twelve-deaths-total-so-far-as-the-protests-enter-their-fifth-day.md)
-_Context: 2017-18 Iranian protests_
+_Context: last week's unrest_
 
 ### [Alain Berset takes office as President of the Swiss Confederation. At 45 years of age, Berset is the youngest president of Switzerland since 1934. ](/news/2018/01/1/alain-berset-takes-office-as-president-of-the-swiss-confederation-at-45-years-of-age-berset-is-the-youngest-president-of-switzerland-since.md)
 An interview with Alain Berset, who, at 45, is the youngest politician to become Swiss president since 1934.
