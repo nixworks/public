@@ -22,8 +22,8 @@ Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&
 ### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)
 The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir
 
-### [Thirty-two sailors are missing after Panama oil tanker "Sanchi" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-tanker-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china-th.md)
-_Context: China_
+### [Thirty-two sailors are missing after Panama oil tanker "MV Sanchi" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-panama-oil-tanker-mv-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china.md)
+_Context: China, MV Sanchi_
 
 ### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)
 German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavusoglu have vowed to try to mend ties blighted by a slew of disputes.
