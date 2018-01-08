@@ -3,16 +3,10 @@ Formats: [HTML](/news/2018/01/7/six-people-are-killed-in-a-head-on-collision-and
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
-# Six people are killed in a head-on collision and a subsequent fire caused by a single-driver-vehicle going the wrong way on Interstate 5 north of Woodland, California. 
-
-Six people were killed on Sunday when a vehicle going the wrong direction on a northern California highway collided with another vehicle, causing a fire that engulfed both cars, police said.
+# Six people are killed in a head-on collision and a subsequent fire caused by a single-driver-vehicle going the wrong way on Interstate 5 north of Woodland, California. [https:--www.reuters.com-article-us-california-crash-six-people-killed-in-wrong-way-california-highway-crash-idUSKBN1EW0U7 (Reuters)] [http:--www.sacbee.com-news-local-article193427144.html "(Sacramento Bee)"]
 
 
-### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-california-crash/six-people-killed-in-wrong-way-california-highway-crash-idUSKBN1EW0U7)
-2. [Sacramento Bee](http://www.sacbee.com/news/local/article193427144.html)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
