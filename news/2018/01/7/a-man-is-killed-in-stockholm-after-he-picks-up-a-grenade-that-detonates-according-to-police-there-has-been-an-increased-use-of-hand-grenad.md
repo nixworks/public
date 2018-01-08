@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
-# A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country.
+# A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. 
 
 A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.
 
