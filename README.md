@@ -9,7 +9,10 @@ The 32 crew are still missing and there are fears of an environmental disaster.
 ### [All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level. ](/news/2018/01/8/all-residents-are-evacuated-500-of-them-to-the-nearby-island-of-blup-blup-while-the-once-dormant-kadovar-volcano-in-the-schouten-islands.md)
 THE entire population of an island has been evacuated as concerns mount over a volcanic eruption that sprang out of nowhere.
 
-### [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the US under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security (DHS) estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-us-under.md)
+### [The Supreme Court of India orders a review of Section 377, a colonial-era law that criminalizes consensual sex between men, and of the Court's December 2013 verdict that upheld the law. In August 2017, the Supreme Court ruled that all Indian citizens have a constitutional right to privacy noting in the judgment that "sexual orientation is an essential attribute to privacy." ](/news/2018/01/8/the-supreme-court-of-india-orders-a-review-of-section-377-a-colonial-era-law-that-criminalizes-consensual-sex-between-men-and-of-the-court.md)
+The court ordered a review of a colonial-era law reinstated in 2013 that criminalizes sex between men. Gay-rights advocates were elated but cautious.
+
+### [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md)
 Two hundred thousand people will be given 18 months to move out or find a legal way to remain.
 
 ---
@@ -19,7 +22,7 @@ Two hundred thousand people will be given 18 months to move out or find a legal 
 ### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
 _Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 
-### [Iran enforces a ban on teaching English in elementary schools, calling it a "cultural invasion" by the West. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools-calling-it-a-cultural-invasion-by-the-west.md)
+### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
 
 ### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)

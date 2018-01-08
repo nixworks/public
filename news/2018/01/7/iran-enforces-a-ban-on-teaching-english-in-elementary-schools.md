@@ -13,6 +13,11 @@ The government of Iran has forbidden English lessons for all primary schools aft
 1. [Deutsche Welle](http://www.dw.com/en/iran-bans-english-lessons-in-primary-school/a-42057485)
 1. [Cover Image](http://www.dw.com/image/38986743_304.jpg)
 
+### Changes:
+
+1. [Iran enforces a ban on teaching English in elementary schools, calling it a "cultural invasion" by the West. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools-calling-it-a-cultural-invasion-by-the-west.md) _2018-01-08 22:30:06 (First version)_
+1. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _(Current version)_
+
 ### Related:
 
 1. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_

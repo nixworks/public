@@ -6,7 +6,7 @@ Formats: [HTML](2018/01/7/index.html)  [JSON](2018/01/7/index.json)  [XML](2018/
 ### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
 _Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 
-### [Iran enforces a ban on teaching English in elementary schools, calling it a "cultural invasion" by the West. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools-calling-it-a-cultural-invasion-by-the-west.md)
+### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
 
 ### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
