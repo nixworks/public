@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/8/all-residents-are-evacuated-500-of-them-to-the-n
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
-# All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level and spewing lava. 
+# All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level and spewing lava. 
 
 THE entire population of an island has been evacuated as concerns mount over a volcanic eruption that sprang out of nowhere.
 
@@ -20,4 +20,4 @@ THE entire population of an island has been evacuated as concerns mount over a v
 2. [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md) _Context: erupts, volcano_
 3. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: volcano_
 4. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _Context: volcano_
-5. [Zoologists led by the University of Papua announce the first sighting of a pack of New Guinea highland wild dogs in the wild of New Guinea, near the Grasberg mine, in over four decades. ](/news/2017/04/30/zoologists-led-by-the-university-of-papua-announce-the-first-sighting-of-a-pack-of-new-guinea-highland-wild-dogs-in-the-wild-of-new-guinea.md) _Context: New Guinea_
+5. [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md) _Context: Papua New Guinea_
