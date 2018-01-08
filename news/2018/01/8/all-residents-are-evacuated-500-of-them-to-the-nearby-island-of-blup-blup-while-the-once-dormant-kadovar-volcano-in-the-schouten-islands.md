@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/8/all-residents-are-evacuated-500-of-them-to-the-n
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
-# All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level and spewing lava. 
+# All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level. 
 
 THE entire population of an island has been evacuated as concerns mount over a volcanic eruption that sprang out of nowhere.
 
