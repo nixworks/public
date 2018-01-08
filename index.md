@@ -6,6 +6,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
 
+### [A house fire in Pubnico, Nova Scotia kills 4 children. ](/news/2018/01/7/a-house-fire-in-pubnico-nova-scotia-kills-4-children.md)
+Four children are dead and one adult is in hospital after an early-morning house fire at a home in the small community of Pubnico Head, N.S.
+
+### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country.](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
+A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.
+
 ### [The former Prime Minister of Egypt, 76-year old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
 _Context: Ahmed Shafik, Politics of Egypt, Prime Minister of Egypt, upcoming presidential elections_
 
@@ -22,7 +28,7 @@ Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&
 ### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)
 The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir
 
-### [Thirty-two sailors are missing after Iranian oil tanker "MV Sanchi" and Hong-Kong freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-mv-sanchi-and-hong-kong-freighter-cf-crystal-collide-off-the-east-coast-of-china.md)
+### [Thirty-two sailors are missing after Iranian oil tanker "MV Sanchi" and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-mv-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china.md)
 _Context: China, MV Sanchi_
 
 ### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)
@@ -44,7 +50,7 @@ _Context: Crisis in Venezuela (2012-present)_
 
 ## [Day Before Yesterday](/news/2018/01/5/index.md)
 
-### [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy and wound three soldiers. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-and-wound-three-soldiers.md)
+### [ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy in the village of Turaing. Three members of Myanmar's security forces are reportedly wounded. ](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-land-mines-ambush-a-burmese-military-convoy-in-the-village-of-turaing-three-members-of-myan.md)
 The Rohingya group says it targeted the Burmese military in an attack on Friday.
 
 ### [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md)
