@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/7/the-pakatan-harapan-alliance-chooses-92-year-old
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
-# The Pakatan Harapan alliance chooses 92-year old former prime minister Mahathir Mohamad as their candidate Prime Minister in the upcoming Malaysian general election. Opposition leader Anwar Ibrahim will be released from jail on June 8. Mahathir and Anwar join forces in the election. 
+# The Pakatan Harapan alliance chooses 92-year-old former prime minister Mahathir Mohamad as their candidate Prime Minister in the upcoming Malaysian general election. Opposition leader Anwar Ibrahim will be released from jail on June 8. Mahathir and Anwar join forces in the election. 
 
 Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead opposition parties into one of the country&#039;s most bitterly fought elections since independence. 
 

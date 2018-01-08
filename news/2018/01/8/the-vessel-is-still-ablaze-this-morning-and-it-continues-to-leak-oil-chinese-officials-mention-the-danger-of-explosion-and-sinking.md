@@ -11,8 +11,9 @@ The 32 crew are still missing and there are fears of an environmental disaster.
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-42600720)
-2. [Reuters](https://www.reuters.com/article/us-china-shipping-accident-oil-body/body-found-on-burning-iranian-oil-tanker-idUSKBN1EX0HZ)
-2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13C36/production/_99505908_85f7e828-231f-489a-acd7-2c35a7712bf6.jpg)
+2. [CNN](http://edition.cnn.com/2018/01/08/asia/china-tanker-freighter-collision-intl/index.html)
+3. [Reuters](https://www.reuters.com/article/us-china-shipping-accident-oil-body/body-found-on-burning-iranian-oil-tanker-idUSKBN1EX0HZ)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13C36/production/_99505908_85f7e828-231f-489a-acd7-2c35a7712bf6.jpg)
 
 ### Related:
 

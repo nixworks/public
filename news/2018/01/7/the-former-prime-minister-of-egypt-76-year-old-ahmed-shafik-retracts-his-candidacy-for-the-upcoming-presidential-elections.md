@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-a
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
-# The former Prime Minister of Egypt, 76-year old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. 
+# The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. 
 
 
 
