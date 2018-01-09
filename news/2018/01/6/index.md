@@ -16,7 +16,7 @@ _Context: Chinese_
 German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavusoglu have vowed to try to mend ties blighted by a slew of disputes.
 
 ### [U.S. Senator Jeff Flake tells Cuban officials there is "no evidence" of a suspected sonic attack on U.S. diplomats at the U.S. embassy in Havana. ](/news/2018/01/6/u-s-senator-jeff-flake-tells-cuban-officials-there-is-no-evidence-of-a-suspected-sonic-attack-on-u-s-diplomats-at-the-u-s-embassy-in-ha.md)
-_Context: Cuba-United States relations, Jeff Flake, U.S. embassy in Havana, suspected sonic attack on U.S. diplomats_
+_Context: Cuba-United States relations, Health-related incidents at the United States Embassy in Havana, Jeff Flake, U.S. embassy in Havana_
 
 ### [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md)
 Move comes as King Salman decrees a series of financial payouts to ease the cost of living.
