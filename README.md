@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/8/index.md)
+## [News](/news/2018/01/9/index.md)
+
+### [A strong tropical cyclone strikes Madagascar with violent winds and torrential rainfalls, killing at least 29 people. ](/news/2018/01/9/a-strong-tropical-cyclone-strikes-madagascar-with-violent-winds-and-torrential-rainfalls-killing-at-least-29-people.md)
+Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
+
+---
+
+## [Yesterday](/news/2018/01/8/index.md)
 
 ### [The vessel is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/the-vessel-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md)
 The 32 crew are still missing and there are fears of an environmental disaster.
@@ -18,9 +25,12 @@ Two hundred thousand people will be given 18 months to move out or find a legal 
 ### [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md)
 One person was killed on Monday during clashes between security forces and protesters in a Tunisian town near the capital Tunis, state news agency TAP and residents said.
 
+### [The U.S. government's highly classified Zuma satellite is reportedly lost after being launched by SpaceX on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. Northrop Grumman, who built the satellite, and SpaceX have both refused to confirm the mission's failure due to its classified nature. ](/news/2018/01/8/the-u-s-government-s-highly-classified-zuma-satellite-is-reportedly-lost-after-being-launched-by-spacex-on-a-falcon-9-full-thrust-rocket-fr.md)
+Dow Jones reported that federal lawmakers had been briefed about the apparent destruction of the secretive payload &mdash; code-named Zuma.
+
 ---
 
-## [Yesterday](/news/2018/01/7/index.md)
+## [Day Before Yesterday](/news/2018/01/7/index.md)
 
 ### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
 _Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
@@ -48,35 +58,7 @@ _Context: Labour Party, Norway, Norwegian parliament, Trond Giske, Weinstein eff
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/6/index.md)
-
-### [Gunmen kill 13 people near the town of Ziguinchor, Senegal. ](/news/2018/01/6/gunmen-kill-13-people-near-the-town-of-ziguinchor-senegal.md)
-Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&#x20;Senegal&#x20;who&#x20;were&#x20;gathering&#x20;firewood&#x20;in&#x20;the&#x20;forest,&#x20;the&#x20;military&#x20;said.
-
-### [An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. ](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policemen-patrolling-a-deserted-market-in-the-upper-northwestern-city-of-sopore-india-jaish-e-moh.md)
-The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir
-
-### [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md)
-_Context: Chinese_
-
-### [German foreign minister Sigmar Gabriel and his Turkish colleague Mevlut Cavusoglu agree to improve relations between their countries. ](/news/2018/01/6/german-foreign-minister-sigmar-gabriel-and-his-turkish-colleague-mevla1-4t-aavuaoalu-agree-to-improve-relations-between-their-countries.md)
-German Foreign Minister Sigmar Gabriel and his Turkish counterpart Mevlut Cavusoglu have vowed to try to mend ties blighted by a slew of disputes.
-
-### [U.S. Senator Jeff Flake tells Cuban officials there is "no evidence" of a suspected sonic attack on U.S. diplomats at the U.S. embassy in Havana. ](/news/2018/01/6/u-s-senator-jeff-flake-tells-cuban-officials-there-is-no-evidence-of-a-suspected-sonic-attack-on-u-s-diplomats-at-the-u-s-embassy-in-ha.md)
-_Context: Cuba-United States relations, Jeff Flake, U.S. embassy in Havana, suspected sonic attack on U.S. diplomats_
-
-### [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md)
-Move comes as King Salman decrees a series of financial payouts to ease the cost of living.
-
-### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
-_Context: 2017-18 Iranian protests, demonstrate across Iran_
-
-### [After the Venezuelan government orders shops to lower prices, hundreds of people line up to take advantage of these price cuts. ](/news/2018/01/6/after-the-venezuelan-government-orders-shops-to-lower-prices-hundreds-of-people-line-up-to-take-advantage-of-these-price-cuts.md)
-_Context: Crisis in Venezuela (2012-present)_
-
----
-
-## [Previous Day...](/news/2018/01/5/index.md)
+## [Previous Day...](/news/2018/01/6/index.md)
 
 ---
 

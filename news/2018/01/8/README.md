@@ -18,5 +18,8 @@ Two hundred thousand people will be given 18 months to move out or find a legal 
 ### [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md)
 One person was killed on Monday during clashes between security forces and protesters in a Tunisian town near the capital Tunis, state news agency TAP and residents said.
 
+### [The U.S. government's highly classified Zuma satellite is reportedly lost after being launched by SpaceX on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. Northrop Grumman, who built the satellite, and SpaceX have both refused to confirm the mission's failure due to its classified nature. ](/news/2018/01/8/the-u-s-government-s-highly-classified-zuma-satellite-is-reportedly-lost-after-being-launched-by-spacex-on-a-falcon-9-full-thrust-rocket-fr.md)
+Dow Jones reported that federal lawmakers had been briefed about the apparent destruction of the secretive payload &mdash; code-named Zuma.
+
 ## [Previous Day...](/news/2018/01/7/index.md)
 
