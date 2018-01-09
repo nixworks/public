@@ -18,5 +18,8 @@ Iran has foiled attempts by its foreign enemies to turn legitimate protests into
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_
 
+### [The Parliament of Egypt approves, with a two-thirds majority in favour, to extend the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-to-extend-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
+_Context: Parliament of Egypt, Politics of Egypt_
+
 ## [Previous Day...](/news/2018/01/8/index.md)
 
