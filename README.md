@@ -24,7 +24,7 @@ _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, f
 ### [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
 _Context: Parliament of Egypt, Politics of Egypt_
 
-### [Artur Mas announces that he leaves the presidency of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-leaves-the-presidency-of-the-pdecat-party.md)
+### [Artur Mas announces that he is resigning as president of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-is-resigning-as-president-of-the-pdecat-party.md)
 The former president of the Generalitat says that it is a meditated decision
 
 ---
