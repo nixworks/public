@@ -15,6 +15,9 @@ The court ordered a review of a colonial-era law reinstated in 2013 that crimina
 ### [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md)
 Two hundred thousand people will be given 18 months to move out or find a legal way to remain.
 
+### [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md)
+One person was killed on Monday during clashes between security forces and protesters in a Tunisian town near the capital Tunis, state news agency TAP and residents said.
+
 ---
 
 ## [Yesterday](/news/2018/01/7/index.md)
