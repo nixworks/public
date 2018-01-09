@@ -11,7 +11,7 @@ Dow Jones reported that federal lawmakers had been briefed about the apparent de
 ### Sources:
 
 1. [CNBC](https://www.cnbc.com/2018/01/08/highly-classified-us-spy-satellite-appears-to-be-a-total-loss-after-spacex-launch.html)
-2. [Los Angeles  Times](http://www.latimes.com/business/la-fi-spacex-spy-satellite-20180108-story.html)
+2. [Los Angeles Times](http://www.latimes.com/business/la-fi-spacex-spy-satellite-20180108-story.html)
 
 ### Related:
 
