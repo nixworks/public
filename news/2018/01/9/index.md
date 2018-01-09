@@ -6,6 +6,9 @@ Formats: [HTML](2018/01/9/index.html)  [JSON](2018/01/9/index.json)  [XML](2018/
 ### [At least 29 people are dead and 22 missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
+### [At least six people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-six-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
+A powerful storm hammered California&#x27;s Santa Barbara County with heavy rain, triggering deadly flooding and mud flows, especially in the community of Montecito.
+
 ### [In the first inter-Korean talks in two years at the Panmunjeom-Paju "Truce Village" (DMZ), both parties agree on the need to ease tensions and hold military talks. North Korea also agrees to participate in the 2018 Winter Olympics in Pyeongchang, South Korea. ](/news/2018/01/9/in-the-first-inter-korean-talks-in-two-years-at-the-panmunjeom-paju-truce-village-dmz-both-parties-agree-on-the-need-to-ease-tensions-a.md)
 North Korea on Tuesday confirmed its participation in the PyeongChang Winter Olympics, and agreed to hold military talks with South Korea. The agreement came in the first inter-Korean talks to be held in more than two years. South Korean Unification Minister Cho Myoung-gyon (left) exchanges a joint ...
 
@@ -18,8 +21,11 @@ Iran has foiled attempts by its foreign enemies to turn legitimate protests into
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_
 
-### [The Parliament of Egypt approves, with a two-thirds majority in favour, to extend the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-to-extend-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
+### [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
 _Context: Parliament of Egypt, Politics of Egypt_
+
+### [Artur Mas announces that he leaves the presidency of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-leaves-the-presidency-of-the-pdecat-party.md)
+The former president of the Generalitat says that it is a meditated decision
 
 ## [Previous Day...](/news/2018/01/8/index.md)
 

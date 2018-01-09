@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/01/9/new-ministers-of-defence-finance-interior-health
 ### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-eu-poland/eyeing-troubled-eu-ties-polands-president-fires-top-ministers-idUSKBN1EY17D)
-2. [Reuters](https://www.reuters.com/article/us-poland-politics-factbox/factbox-poland-reshuffles-its-government-idUSKBN1EY23J)
+2. [Reuters²](https://www.reuters.com/article/us-poland-politics-factbox/factbox-poland-reshuffles-its-government-idUSKBN1EY23J)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
