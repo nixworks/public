@@ -1,33 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/06/24/index.md)
-
-### [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md)
-_Context: Colombia, Spanish, United Nations Interim Force in Lebanon, bomb_
-
-### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
-_Context: Karachi, Pakistan, storm_
-
-### [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md)
-_Context: Argentina, Boca Juniors, Chief of Government of Buenos Aires, Mauricio Macri, National Congress_
-
-### [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md)
-Relatives of the victims of the man known as Chemical Ali are calling for him to be executed at one of the villages where he committed his crimes.
-
-### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2018/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
-_Context: 27 June, Gordon Brown, Labour Party, Prime Minister, Tony Blair_
-
----
-
-## [Yesterday](/news/2018/01/9/index.md)
+## [News](/news/2018/01/9/index.md)
 
 ### [A strong tropical cyclone strikes Madagascar with violent winds and torrential rainfalls, killing at least 29 people. ](/news/2018/01/9/a-strong-tropical-cyclone-strikes-madagascar-with-violent-winds-and-torrential-rainfalls-killing-at-least-29-people.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
+### [In the first inter-Korean talks in two years, at the Panmunjeom-Paju "Truce Village" (DMZ), both parties agree on the need to ease tensions and hold military talks. North Korea also agrees to participate in the 2018 Winter Olympics in Pyeongchang, South Korea. ](/news/2018/01/9/in-the-first-inter-korean-talks-in-two-years-at-the-panmunjeom-paju-truce-village-dmz-both-parties-agree-on-the-need-to-ease-tensions.md)
+North Korea on Tuesday confirmed its participation in the PyeongChang Winter Olympics, and agreed to hold military talks with South Korea. The agreement came in the first inter-Korean talks to be held in more than two years. South Korean Unification Minister Cho Myoung-gyon (left) exchanges a joint ...
+
 ---
 
-## [Day Before Yesterday](/news/2018/01/8/index.md)
+## [Yesterday](/news/2018/01/8/index.md)
 
 ### [The vessel is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/the-vessel-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md)
 The 32 crew are still missing and there are fears of an environmental disaster.
@@ -49,7 +33,35 @@ Dow Jones reported that federal lawmakers had been briefed about the apparent de
 
 ---
 
-## [Previous Day...](/news/2018/01/7/index.md)
+## [Day Before Yesterday](/news/2018/01/7/index.md)
+
+### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
+_Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+
+### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
+The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
+
+### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
+A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.
+
+### [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md)
+Violent clashes involving gunmen, a community police force and state police killed 11 people in the troubled southern state of Guerrero on Sunday, while a separate series of shootouts the previous night left seven dead in the northern Mexico beach resort of San Jose del Cabo. Guerrero state...
+
+### [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
+_Context: Ahmed Shafik, Politics of Egypt, Prime Minister of Egypt, upcoming presidential elections_
+
+### [The Pakatan Harapan alliance chooses 92-year-old former prime minister Mahathir Mohamad as their candidate Prime Minister in the upcoming Malaysian general election. Opposition leader Anwar Ibrahim will be released from jail on June 8. Mahathir and Anwar join forces in the election. ](/news/2018/01/7/the-pakatan-harapan-alliance-chooses-92-year-old-former-prime-minister-mahathir-mohamad-as-their-candidate-prime-minister-in-the-upcoming-ma.md)
+Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead opposition parties into one of the country&#039;s most bitterly fought elections since independence. 
+
+### [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md)
+_Context: Ahmed, Ali Abdullah Saleh, General People's Congress, Politics of Yemen, Sadeq Ameen Abu Rass_
+
+### [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md)
+_Context: Labour Party, Norway, Norwegian parliament, Trond Giske, Weinstein effect, finance committee_
+
+---
+
+## [Previous Day...](/news/2018/01/6/index.md)
 
 ---
 
