@@ -3,11 +3,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/9/index.md)
 
-### [A strong tropical cyclone strikes Madagascar with violent winds and torrential rainfalls, killing at least 29 people. ](/news/2018/01/9/a-strong-tropical-cyclone-strikes-madagascar-with-violent-winds-and-torrential-rainfalls-killing-at-least-29-people.md)
+### [At least 29 people are dead and 22 missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
 ### [In the first inter-Korean talks in two years, at the Panmunjeom-Paju "Truce Village" (DMZ), both parties agree on the need to ease tensions and hold military talks. North Korea also agrees to participate in the 2018 Winter Olympics in Pyeongchang, South Korea. ](/news/2018/01/9/in-the-first-inter-korean-talks-in-two-years-at-the-panmunjeom-paju-truce-village-dmz-both-parties-agree-on-the-need-to-ease-tensions.md)
 North Korea on Tuesday confirmed its participation in the PyeongChang Winter Olympics, and agreed to hold military talks with South Korea. The agreement came in the first inter-Korean talks to be held in more than two years. South Korean Unification Minister Cho Myoung-gyon (left) exchanges a joint ...
+
+### [New ministers of defence, environment and foreign affairs are appointed. ](/news/2018/01/9/new-ministers-of-defence-environment-and-foreign-affairs-are-appointed.md)
+_Context: Politics of Poland, defence, foreign affairs_
 
 ---
 
@@ -40,6 +43,9 @@ _Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Obser
 
 ### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
+
+### ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including Best Motion Picture - Drama, while "Lady Bird" wins Best Motion Picture - Musical or Comedy. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-motion-picture-a-drama-while-lady-bird-wins-be.md)
+“Three Billboards” and “Lady Bird” won the top movie awards at the Golden Globes. But it was the #MeToo movement, and Oprah Winfrey’s rousing speech, that defined the moment.
 
 ### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
 A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.

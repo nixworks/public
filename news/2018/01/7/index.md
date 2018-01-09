@@ -9,6 +9,9 @@ _Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Obser
 ### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
 
+### ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including Best Motion Picture - Drama, while "Lady Bird" wins Best Motion Picture - Musical or Comedy. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-motion-picture-a-drama-while-lady-bird-wins-be.md)
+“Three Billboards” and “Lady Bird” won the top movie awards at the Golden Globes. But it was the #MeToo movement, and Oprah Winfrey’s rousing speech, that defined the moment.
+
 ### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
 A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.
 
