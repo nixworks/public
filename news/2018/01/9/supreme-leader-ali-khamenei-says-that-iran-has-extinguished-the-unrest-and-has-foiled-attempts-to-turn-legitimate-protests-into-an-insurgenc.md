@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-e
 
 ### [2018-01-9](/news/2018/01/9/index.md)
 
-# Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Gulf among Iran's foreign enemies. 
+# Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. 
 
 Iran has foiled attempts by its foreign enemies to turn legitimate protests into an insurgency to overthrow the Islamic Republic, supreme leader Ayatollah Ali Khamenei said on Tuesday.
 
