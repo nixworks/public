@@ -9,7 +9,7 @@ _Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President,
 ### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
-### [At least 13 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-13-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
+### [At least 15 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-15-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
 MONTECITO, Calif. (AP) - At least 13 people were killed and dozens of homes were swept away or heavily damaged Tuesday as downpours sent mud and boulders roaring down hills stripped of vegetation by a gigantic wildfire that raged in Southern California last month. Helicopters were used to pluck more...
 
 ### [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md)

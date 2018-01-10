@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/9/index.md)
+## [News](/news/2018/01/10/index.md)
+
+### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
+BEIJING: Chinese authorities battling to prevent an environmental disaster after a collision between an Iranian tanker and a cargo ship said Wednesday (Jan 10) no major oil spill has been detected, but 31 sailors remained missing. Cleanup and rescue ships have faced toxic fumes, rain and windy condi...
+
+---
+
+## [Yesterday](/news/2018/01/9/index.md)
 
 ### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
 _Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President, Steve Bannon_
@@ -9,7 +16,7 @@ _Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President,
 ### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
-### [At least 13 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-13-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
+### [At least 15 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-15-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
 MONTECITO, Calif. (AP) - At least 13 people were killed and dozens of homes were swept away or heavily damaged Tuesday as downpours sent mud and boulders roaring down hills stripped of vegetation by a gigantic wildfire that raged in Southern California last month. Helicopters were used to pluck more...
 
 ### [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md)
@@ -35,7 +42,7 @@ The former president of the Generalitat says that it is a meditated decision
 
 ---
 
-## [Yesterday](/news/2018/01/8/index.md)
+## [Day Before Yesterday](/news/2018/01/8/index.md)
 
 ### [The vessel is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/the-vessel-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md)
 The 32 crew are still missing and there are fears of an environmental disaster.
@@ -57,38 +64,7 @@ Dow Jones reported that federal lawmakers had been briefed about the apparent de
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/7/index.md)
-
-### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
-_Context: Ajnad al-Kavkaz, Chechen, Idlib, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
-
-### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
-The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.
-
-### ["Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including Best Motion Picture - Drama, while "Lady Bird" wins Best Motion Picture - Musical or Comedy. ](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-four-golden-globe-awards-including-best-motion-picture-a-drama-while-lady-bird-wins-be.md)
-“Three Billboards” and “Lady Bird” won the top movie awards at the Golden Globes. But it was the #MeToo movement, and Oprah Winfrey’s rousing speech, that defined the moment.
-
-### [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md)
-A man in Stockholm picked up a suspected hand grenade from the ground and it detonated in his hand Sunday, killing him and injuring his companion, Swedish police said.
-
-### [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md)
-Violent clashes involving gunmen, a community police force and state police killed 11 people in the troubled southern state of Guerrero on Sunday, while a separate series of shootouts the previous night left seven dead in the northern Mexico beach resort of San Jose del Cabo. Guerrero state...
-
-### [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
-_Context: Ahmed Shafik, Politics of Egypt, Prime Minister of Egypt, upcoming presidential elections_
-
-### [The Pakatan Harapan alliance chooses 92-year-old former prime minister Mahathir Mohamad as their candidate Prime Minister in the upcoming Malaysian general election. Opposition leader Anwar Ibrahim will be released from jail on June 8. Mahathir and Anwar join forces in the election. ](/news/2018/01/7/the-pakatan-harapan-alliance-chooses-92-year-old-former-prime-minister-mahathir-mohamad-as-their-candidate-prime-minister-in-the-upcoming-ma.md)
-Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead opposition parties into one of the country&#039;s most bitterly fought elections since independence. 
-
-### [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md)
-_Context: Ahmed, Ali Abdullah Saleh, General People's Congress, Politics of Yemen, Sadeq Ameen Abu Rass_
-
-### [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md)
-_Context: Labour Party, Norway, Norwegian parliament, Trond Giske, Weinstein effect, finance committee_
-
----
-
-## [Previous Day...](/news/2018/01/6/index.md)
+## [Previous Day...](/news/2018/01/7/index.md)
 
 ---
 
