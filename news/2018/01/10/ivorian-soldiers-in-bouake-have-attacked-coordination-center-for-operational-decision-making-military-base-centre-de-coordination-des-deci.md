@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/10/ivorian-soldiers-in-bouake-have-attacked-coordi
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
-# Ivorian soldiers in Bouak have attacked Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire. 
+# Ivorian soldiers in Bouak have attacked Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/10/ivorian-soldiers-in-bouake-have-attacked-coordi
 ### Changes:
 
 1. [Ivorian soldiers in Bouake have attacked Coordination Center for Operational Decisions military base, seizing their weaponry and setting the base on fire.](/news/2018/01/10/ivorian-soldiers-in-bouake-have-attacked-coordination-center-for-operational-decisions-military-base-seizing-their-weaponry-and-setting-the.md) _2018-01-10 20:30:05 (First version)_
-1. [Ivorian soldiers in Bouak have attacked Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire. ](/news/2018/01/10/ivorian-soldiers-in-bouake-have-attacked-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-deci.md) _(Current version)_
+1. [Ivorian soldiers in Bouak have attacked Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouake-have-attacked-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-deci.md) _(Current version)_
 
 ### Related:
 
