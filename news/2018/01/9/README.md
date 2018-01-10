@@ -4,7 +4,7 @@ Formats: [HTML](2018/01/9/index.html)  [JSON](2018/01/9/index.json)  [XML](2018/
 ## [2018-01-9](/news/2018/01/9/index.md)
 
 ### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
-_Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President, Steve Bannon_
+_Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, Steve Bannon, U.S. President_
 
 ### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.

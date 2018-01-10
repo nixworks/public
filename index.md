@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/10/index.md)
 
+### [After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. ](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extension-of-the-101-day-ceasefire-hostilities-resume-between-colombia-s-government-and-eln-forces.md)
+Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;
+
 ### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
 BEIJING: Chinese authorities battling to prevent an environmental disaster after a collision between an Iranian tanker and a cargo ship said Wednesday (Jan 10) no major oil spill has been detected, but 31 sailors remained missing. Cleanup and rescue ships have faced toxic fumes, rain and windy condi...
 
@@ -11,7 +14,7 @@ BEIJING: Chinese authorities battling to prevent an environmental disaster after
 ## [Yesterday](/news/2018/01/9/index.md)
 
 ### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
-_Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President, Steve Bannon_
+_Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, Steve Bannon, U.S. President_
 
 ### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
