@@ -3,11 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/9/index.md)
 
-### [At least 29 people are dead and 22 missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
+### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
+_Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, President, Steve Bannon_
+
+### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.
 
-### [At least six people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-six-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
-A powerful storm hammered California&#x27;s Santa Barbara County with heavy rain, triggering deadly flooding and mud flows, especially in the community of Montecito.
+### [At least 13 people are killed by mudslides following heavy overnight rains in areas of Santa Barbara County, California, where last month's wildfires destroyed forests and destabilized the land. ](/news/2018/01/9/at-least-13-people-are-killed-by-mudslides-following-heavy-overnight-rains-in-areas-of-santa-barbara-county-california-where-last-month-s.md)
+MONTECITO, Calif. (AP) - At least 13 people were killed and dozens of homes were swept away or heavily damaged Tuesday as downpours sent mud and boulders roaring down hills stripped of vegetation by a gigantic wildfire that raged in Southern California last month. Helicopters were used to pluck more...
+
+### [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md)
+A 7.6 magnitude earthquake has struck in the Caribbean Sea north of Honduras, briefly triggering multiple tsunami warnings in the area, including for the coasts of Honduras, Belize, Puerto Rico and the Virgin Islands.
 
 ### [In the first inter-Korean talks in two years at the Panmunjeom-Paju "Truce Village" (DMZ), both parties agree on the need to ease tensions and hold military talks. North Korea also agrees to participate in the 2018 Winter Olympics in Pyeongchang, South Korea. ](/news/2018/01/9/in-the-first-inter-korean-talks-in-two-years-at-the-panmunjeom-paju-truce-village-dmz-both-parties-agree-on-the-need-to-ease-tensions-a.md)
 North Korea on Tuesday confirmed its participation in the PyeongChang Winter Olympics, and agreed to hold military talks with South Korea. The agreement came in the first inter-Korean talks to be held in more than two years. South Korean Unification Minister Cho Myoung-gyon (left) exchanges a joint ...
@@ -22,7 +28,7 @@ Iran has foiled attempts by its foreign enemies to turn legitimate protests into
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_
 
 ### [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
-_Context: Parliament of Egypt, Politics of Egypt_
+_Context: Parliament of Egypt, Politics of Egypt, state of emergency_
 
 ### [Artur Mas announces that he is resigning as president of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-is-resigning-as-president-of-the-pdecat-party.md)
 The former president of the Generalitat says that it is a meditated decision
