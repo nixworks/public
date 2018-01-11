@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/10/president-enrique-pea-a-nieto-accepted-the-resi
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
-# President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet. Including the Secretary of the Interior, Miguel Angel Osorio Chong. 
+# President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet, including the Secretary of the Interior, Miguel Angel Osorio Chong. 
 
 Mexican Interior Minister Miguel Angel Osorio Chong said on Wednesday he was stepping down from his post in which he oversaw government responsibilities including security, migration and human rights.
 

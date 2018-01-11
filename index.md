@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/11/index.md)
 
-### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
+### [The rape and murder of an eight-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur.md)
 Zainab, eight, was raped and suffocated, the latest in a spate of killings in the city of Kasur.
 
 ---
@@ -19,7 +19,7 @@ _Context: Bouake, Ivorian soldiers, series of mutinies_
 ### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged violent actions against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
 One of the biggest questions in the Rohingya crisis: Where are the bodies?
 
-### [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md)
+### [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md)
 The clip is filmed from the perspective of an individual armed with a shotgun who is standing in a rear hatch of the armored vehicle.
 
 ### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
@@ -34,7 +34,7 @@ The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 co
 ### [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md)
 At least 10 towns were involved in the protest over a rise in the cost of living.
 
-### [President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet. Including the Secretary of the Interior, Miguel Angel Osorio Chong. ](/news/2018/01/10/president-enrique-pea-a-nieto-accepted-the-resignation-of-three-secretaries-of-his-cabinet-including-the-secretary-of-the-interior-miguel.md)
+### [President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet, including the Secretary of the Interior, Miguel Angel Osorio Chong. ](/news/2018/01/10/president-enrique-pea-a-nieto-accepted-the-resignation-of-three-secretaries-of-his-cabinet-including-the-secretary-of-the-interior-miguel.md)
 Mexican Interior Minister Miguel Angel Osorio Chong said on Wednesday he was stepping down from his post in which he oversaw government responsibilities including security, migration and human rights.
 
 ---
