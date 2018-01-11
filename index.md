@@ -9,6 +9,9 @@ Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after 
 ### [Ivorian soldiers in Bouak attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouake-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-decisions-o.md)
 _Context: Bouak, Ivorian soldiers_
 
+### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has acknowledged wrongdoing against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
+One of the biggest questions in the Rohingya crisis: Where are the bodies?
+
 ### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
 BEIJING: Chinese authorities battling to prevent an environmental disaster after a collision between an Iranian tanker and a cargo ship said Wednesday (Jan 10) no major oil spill has been detected, but 31 sailors remained missing. Cleanup and rescue ships have faced toxic fumes, rain and windy condi...
 
@@ -42,6 +45,9 @@ U.S. Secretary of State Rex Tillerson will convene a new high-level investigatio
 
 ### [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md)
 Iran has foiled attempts by its foreign enemies to turn legitimate protests into an insurgency to overthrow the Islamic Republic, supreme leader Ayatollah Ali Khamenei said on Tuesday.
+
+### [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the Deferred Action for Childhood Arrivals (DACA) program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-defer.md)
+A federal judge on Tuesday night issued a nationwide injunction ordering the Trump administration to maintain the program.
 
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_

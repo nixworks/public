@@ -24,6 +24,9 @@ U.S. Secretary of State Rex Tillerson will convene a new high-level investigatio
 ### [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md)
 Iran has foiled attempts by its foreign enemies to turn legitimate protests into an insurgency to overthrow the Islamic Republic, supreme leader Ayatollah Ali Khamenei said on Tuesday.
 
+### [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the Deferred Action for Childhood Arrivals (DACA) program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-defer.md)
+A federal judge on Tuesday night issued a nationwide injunction ordering the Trump administration to maintain the program.
+
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_
 
