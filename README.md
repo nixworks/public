@@ -1,12 +1,19 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/10/index.md)
+## [News](/news/2018/01/11/index.md)
+
+### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country and deadly protests in Kasur city.](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-and-deadly-protests-in-kasur-city.md)
+The rape and murder of an eight-year-old girl in Pakistan has sparked outrage.
+
+---
+
+## [Yesterday](/news/2018/01/10/index.md)
 
 ### [After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. ](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extension-of-the-101-day-ceasefire-hostilities-resume-between-colombia-s-government-and-eln-forces.md)
 Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;
 
-### [Ivorian soldiers in Bouake attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Decisions Operationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-da-c-cisions.md)
+### [Ivorian soldiers in Bouake attack the Coordination Center for Operational Decision-Making ("Centre de Coordination des Decisions Operationnelles") military base, seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-the-coordination-center-for-operational-decision-making-centre-de-coordination-des-da-c-cisions-opa-c-ratio.md)
 _Context: Bouake, Ivorian soldiers, series of mutinies_
 
 ### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged violent actions against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
@@ -21,8 +28,8 @@ BEIJING: Chinese authorities battling to prevent an environmental disaster after
 ### [The U.S. Immigration and Customs Enforcement agency conducts operations at 98 7-Eleven stores in 17 states, arresting 21 people suspected of being illegal immigrants. ](/news/2018/01/10/the-u-s-immigration-and-customs-enforcement-agency-conducts-operations-at-98-7-eleven-stores-in-17-states-arresting-21-people-suspected-of.md)
 U.S. immigration agents fanned out to nearly 100 7-Eleven convenience stores nationwide on Wednesday, arresting 21 people suspected of being in the country illegally and giving owners a tight deadline to prove other employees are authorized to work.
 
-### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" bound for Libya, loaded with 410 tonnes of explosives, and arrests the 8 crew members in Heraklion, Greece. The European Union bans the supply of arms and ammunitions to Libya. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-bound-for-libya-loaded-with-410-tonnes-of-explosives-and-arre.md)
-_Context: European Union, Greece, Hellenic Coast Guard, Heraklion, Libya, Tanzania_
+### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, and arrests 8 crew members in Heraklion, Greece. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explosives.md)
+The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 containers of ammonium...
 
 ### [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md)
 At least 10 towns were involved in the protest over a rise in the cost of living.
@@ -32,7 +39,7 @@ Mexican Interior Minister Miguel Angel Osorio Chong said on Wednesday he was ste
 
 ---
 
-## [Yesterday](/news/2018/01/9/index.md)
+## [Day Before Yesterday](/news/2018/01/9/index.md)
 
 ### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
 _Context: Breitbart News, Donald Trump, Fire and Fury, Michael Wolff, Steve Bannon, U.S. President_
@@ -72,29 +79,7 @@ The former president of the Generalitat says that it is a meditated decision
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/8/index.md)
-
-### [The vessel is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/the-vessel-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md)
-The 32 crew are still missing and there are fears of an environmental disaster.
-
-### [All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level. ](/news/2018/01/8/all-residents-are-evacuated-500-of-them-to-the-nearby-island-of-blup-blup-while-the-once-dormant-kadovar-volcano-in-the-schouten-islands.md)
-THE entire population of an island has been evacuated as concerns mount over a volcanic eruption that sprang out of nowhere.
-
-### [The Supreme Court of India orders a review of Section 377, a colonial-era law that criminalizes consensual sex between men, and of the Court's December 2013 verdict that upheld the law. In August 2017, the Supreme Court ruled that all Indian citizens have a constitutional right to privacy, noting in the judgment that "sexual orientation is an essential attribute to privacy." ](/news/2018/01/8/the-supreme-court-of-india-orders-a-review-of-section-377-a-colonial-era-law-that-criminalizes-consensual-sex-between-men-and-of-the-court.md)
-The court ordered a review of a colonial-era law reinstated in 2013 that criminalizes sex between men. Gay-rights advocates were elated but cautious.
-
-### [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md)
-Two hundred thousand people will be given 18 months to move out or find a legal way to remain.
-
-### [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md)
-One person was killed on Monday during clashes between security forces and protesters in a Tunisian town near the capital Tunis, state news agency TAP and residents said.
-
-### [The U.S. government's highly classified Zuma satellite is reportedly lost after being launched by SpaceX on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. Northrop Grumman, who built the satellite, and SpaceX have both refused to confirm the mission's failure due to its classified nature. ](/news/2018/01/8/the-u-s-government-s-highly-classified-zuma-satellite-is-reportedly-lost-after-being-launched-by-spacex-on-a-falcon-9-full-thrust-rocket-fr.md)
-Dow Jones reported that federal lawmakers had been briefed about the apparent destruction of the secretive payload &mdash; code-named Zuma.
-
----
-
-## [Previous Day...](/news/2018/01/7/index.md)
+## [Previous Day...](/news/2018/01/8/index.md)
 
 ---
 
