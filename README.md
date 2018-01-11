@@ -9,6 +9,9 @@ Two Palestinian teens were killed in clashes with the Israeli military on Thursd
 ### [Walmart increases the minimum wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-wage-for-its-u-s-employees-to-11-per-hour.md)
 _Context: Walmart, Walmart employee wages_
 
+### [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md)
+South Korea says it&#039;s planning a law to ban cryptocurrencies such as bitcoin being traded through its exchanges, sending prices plummeting.
+
 ### [The rape and murder of an eight-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur.md)
 Zainab, eight, was raped and suffocated, the latest in a spate of killings in the city of Kasur.
 
@@ -18,8 +21,8 @@ The U.S. Justice Department has set up a team to investigate individuals and org
 ### [Britain, France, and Germany call on U.S. President Donald Trump to endorse the Joint Comprehensive Plan of Action. ](/news/2018/01/11/britain-france-and-germany-call-on-u-s-president-donald-trump-to-endorse-the-joint-comprehensive-plan-of-action.md)
 Britain,&#x20;France&#x20;and&#x20;Germany&#x20;made&#x20;a&#x20;joint&#x20;plea&#x20;to&#x20;Donald&#x20;Trump&#x20;on&#x20;Thursday&#x20;to&#x20;endorse&#x20;a&#x20;key&#x20;nuclear&#x20;deal&#x20;with&#x20;Iran&#x20;as&#x20;the&#x20;US&#x20;president&#x20;mulls&#x20;reimposing&#x20;sanctions&#x20...
 
-### [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program with an important tweak: it would require the FBI to get a warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md)
-_Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States House of Representatives, key, warrant_
+### [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program with an important tweak: it would require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md)
+_Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States House of Representatives, key, probable cause, process, require, warrant_
 
 ### [It is revealed that Julian Assange was given Ecuadorian citizenship one month ago. ](/news/2018/01/11/it-is-revealed-that-julian-assange-was-given-ecuadorian-citizenship-one-month-ago.md)
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
