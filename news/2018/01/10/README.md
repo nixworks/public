@@ -6,11 +6,14 @@ Formats: [HTML](2018/01/10/index.html)  [JSON](2018/01/10/index.json)  [XML](201
 ### [After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. ](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extension-of-the-101-day-ceasefire-hostilities-resume-between-colombia-s-government-and-eln-forces.md)
 Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;
 
-### [Ivorian soldiers in Bouak attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouake-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-decisions-o.md)
-_Context: Bouak, Ivorian soldiers_
+### [Ivorian soldiers in Bouake attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Decisions Operationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-da-c-cisions.md)
+_Context: Bouake, Ivorian soldiers, series of mutinies_
 
-### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has acknowledged wrongdoing against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
+### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged violent actions against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
 One of the biggest questions in the Rohingya crisis: Where are the bodies?
+
+### [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a u.s. service member firing on civilians inside a truck on a road in Afghanistan. The montage video titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md)
+The clip is filmed from the perspective of an individual armed with a shotgun who is standing in a rear hatch of the armored vehicle.
 
 ### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
 BEIJING: Chinese authorities battling to prevent an environmental disaster after a collision between an Iranian tanker and a cargo ship said Wednesday (Jan 10) no major oil spill has been detected, but 31 sailors remained missing. Cleanup and rescue ships have faced toxic fumes, rain and windy condi...
@@ -20,6 +23,12 @@ U.S. immigration agents fanned out to nearly 100 7-Eleven convenience stores nat
 
 ### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" bound for Libya, loaded with 410 tonnes of explosives, and arrests the 8 crew members in Heraklion, Greece. The European Union bans the supply of arms and ammunitions to Libya. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-bound-for-libya-loaded-with-410-tonnes-of-explosives-and-arre.md)
 _Context: European Union, Greece, Hellenic Coast Guard, Heraklion, Libya, Tanzania_
+
+### [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md)
+At least 10 towns were involved in the protest over a rise in the cost of living.
+
+### [President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet. Including the Secretary of the Interior, Miguel Angel Osorio Chong. ](/news/2018/01/10/president-enrique-pea-a-nieto-accepted-the-resignation-of-three-secretaries-of-his-cabinet-including-the-secretary-of-the-interior-miguel.md)
+Mexican Interior Minister Miguel Angel Osorio Chong said on Wednesday he was stepping down from his post in which he oversaw government responsibilities including security, migration and human rights.
 
 ## [Previous Day...](/news/2018/01/9/index.md)
 

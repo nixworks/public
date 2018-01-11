@@ -6,11 +6,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. ](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extension-of-the-101-day-ceasefire-hostilities-resume-between-colombia-s-government-and-eln-forces.md)
 Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;
 
-### [Ivorian soldiers in Bouak attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Dcisions Oprationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouake-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-decisions-o.md)
-_Context: Bouak, Ivorian soldiers_
+### [Ivorian soldiers in Bouake attack Coordination Center for Operational Decision-Making military base ("Centre de Coordination des Decisions Operationnelles"), seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-coordination-center-for-operational-decision-making-military-base-centre-de-coordination-des-da-c-cisions.md)
+_Context: Bouake, Ivorian soldiers, series of mutinies_
 
-### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has acknowledged wrongdoing against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
+### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged violent actions against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
 One of the biggest questions in the Rohingya crisis: Where are the bodies?
+
+### [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a u.s. service member firing on civilians inside a truck on a road in Afghanistan. The montage video titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md)
+The clip is filmed from the perspective of an individual armed with a shotgun who is standing in a rear hatch of the armored vehicle.
 
 ### [China says no major oil spill has been detected. ](/news/2018/01/10/china-says-no-major-oil-spill-has-been-detected.md)
 BEIJING: Chinese authorities battling to prevent an environmental disaster after a collision between an Iranian tanker and a cargo ship said Wednesday (Jan 10) no major oil spill has been detected, but 31 sailors remained missing. Cleanup and rescue ships have faced toxic fumes, rain and windy condi...
@@ -20,6 +23,12 @@ U.S. immigration agents fanned out to nearly 100 7-Eleven convenience stores nat
 
 ### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" bound for Libya, loaded with 410 tonnes of explosives, and arrests the 8 crew members in Heraklion, Greece. The European Union bans the supply of arms and ammunitions to Libya. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-bound-for-libya-loaded-with-410-tonnes-of-explosives-and-arre.md)
 _Context: European Union, Greece, Hellenic Coast Guard, Heraklion, Libya, Tanzania_
+
+### [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md)
+At least 10 towns were involved in the protest over a rise in the cost of living.
+
+### [President Enrique Pena Nieto accepted the resignation of three secretaries of his cabinet. Including the Secretary of the Interior, Miguel Angel Osorio Chong. ](/news/2018/01/10/president-enrique-pea-a-nieto-accepted-the-resignation-of-three-secretaries-of-his-cabinet-including-the-secretary-of-the-interior-miguel.md)
+Mexican Interior Minister Miguel Angel Osorio Chong said on Wednesday he was stepping down from his post in which he oversaw government responsibilities including security, migration and human rights.
 
 ---
 
@@ -40,7 +49,7 @@ A 7.6 magnitude earthquake has struck in the Caribbean Sea north of Honduras, br
 ### [In the first inter-Korean talks in two years at the Panmunjeom-Paju "Truce Village" (DMZ), both parties agree on the need to ease tensions and hold military talks. North Korea also agrees to participate in the 2018 Winter Olympics in Pyeongchang, South Korea. ](/news/2018/01/9/in-the-first-inter-korean-talks-in-two-years-at-the-panmunjeom-paju-truce-village-dmz-both-parties-agree-on-the-need-to-ease-tensions-a.md)
 North Korea on Tuesday confirmed its participation in the PyeongChang Winter Olympics, and agreed to hold military talks with South Korea. The agreement came in the first inter-Korean talks to be held in more than two years. South Korean Unification Minister Cho Myoung-gyon (left) exchanges a joint ...
 
-### [An anonymous senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks". ](/news/2018/01/9/an-anonymous-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-ac.md)
+### [An anonymous senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks" at the U.S. embassy in Havana. ](/news/2018/01/9/an-anonymous-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-ac.md)
 U.S. Secretary of State Rex Tillerson will convene a new high-level investigation into the harm that Washington says U.S. diplomats in Havana suffered in unexplained health attacks, a senior State Department official said on Tuesday.
 
 ### [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md)
@@ -48,6 +57,9 @@ Iran has foiled attempts by its foreign enemies to turn legitimate protests into
 
 ### [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the Deferred Action for Childhood Arrivals (DACA) program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-defer.md)
 A federal judge on Tuesday night issued a nationwide injunction ordering the Trump administration to maintain the program.
+
+### [A three-judge federal panel rules North Carolina's congressional district map was illegally gerrymandered because legislators relied too heavily on partisan affiliation in drawing constituencies. The is the first time a federal court has struck down a redistricting plan for partisan gerrymandering. ](/news/2018/01/9/a-three-judge-federal-panel-rules-north-carolina-s-congressional-district-map-was-illegally-gerrymandered-because-legislators-relied-too-hea.md)
+The federal judges gave lawmakers until Jan. 29 to show them a new map. The deadline is important because candidates for the November congressional elections begin filing for the primaries on Feb. 12.
 
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
 _Context: Cabinet of Mateusz Morawiecki, Politics of Poland, defence, finance, foreign affairs, health, interior_
