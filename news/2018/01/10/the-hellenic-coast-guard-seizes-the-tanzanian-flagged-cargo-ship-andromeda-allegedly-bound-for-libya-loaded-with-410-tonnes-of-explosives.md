@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-f
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
-# The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, and arrests 8 crew members in Heraklion, Greece. 
+# The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, in Heraklion, Greece. 102 safety deficiencies are found and 8 crew members are arrested. 
 
 The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 containers of ammonium...
 
@@ -17,7 +17,7 @@ The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 co
 ### Changes:
 
 1. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" bound for Libya, loaded with 410 tonnes of explosives, and arrests the 8 crew members in Heraklion, Greece. The European Union bans the supply of arms and ammunitions to Libya. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-bound-for-libya-loaded-with-410-tonnes-of-explosives-and-arre.md) _2018-01-11 10:30:05 (First version)_
-1. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, and arrests 8 crew members in Heraklion, Greece. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explosives.md) _(Current version)_
+1. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, in Heraklion, Greece. 102 safety deficiencies are found and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explosives.md) _(Current version)_
 
 ### Related:
 

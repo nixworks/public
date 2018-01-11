@@ -3,8 +3,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/11/index.md)
 
-### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country and deadly protests in Kasur city.](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-and-deadly-protests-in-kasur-city.md)
-The rape and murder of an eight-year-old girl in Pakistan has sparked outrage.
+### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
+Zainab, eight, was raped and suffocated, the latest in a spate of killings in the city of Kasur.
 
 ---
 
@@ -13,7 +13,7 @@ The rape and murder of an eight-year-old girl in Pakistan has sparked outrage.
 ### [After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. ](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extension-of-the-101-day-ceasefire-hostilities-resume-between-colombia-s-government-and-eln-forces.md)
 Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;
 
-### [Ivorian soldiers in Bouake attack the Coordination Center for Operational Decision-Making ("Centre de Coordination des Decisions Operationnelles") military base, seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-the-coordination-center-for-operational-decision-making-centre-de-coordination-des-da-c-cisions-opa-c-ratio.md)
+### [Ivorian soldiers in Bouake attack the Coordination Center for Operational Decision-Making ("fr de Coordination des Decisions Operationnelles") military base, seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-the-coordination-center-for-operational-decision-making-fr-de-coordination-des-da-c-cisions-opa-c-rationnel.md)
 _Context: Bouake, Ivorian soldiers, series of mutinies_
 
 ### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged violent actions against the Rohingya minority in Rakhine. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)
@@ -28,7 +28,7 @@ BEIJING: Chinese authorities battling to prevent an environmental disaster after
 ### [The U.S. Immigration and Customs Enforcement agency conducts operations at 98 7-Eleven stores in 17 states, arresting 21 people suspected of being illegal immigrants. ](/news/2018/01/10/the-u-s-immigration-and-customs-enforcement-agency-conducts-operations-at-98-7-eleven-stores-in-17-states-arresting-21-people-suspected-of.md)
 U.S. immigration agents fanned out to nearly 100 7-Eleven convenience stores nationwide on Wednesday, arresting 21 people suspected of being in the country illegally and giving owners a tight deadline to prove other employees are authorized to work.
 
-### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, and arrests 8 crew members in Heraklion, Greece. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explosives.md)
+### [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" allegedly bound for Libya, loaded with 410 tonnes of explosives, in Heraklion, Greece. 102 safety deficiencies are found and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explosives.md)
 The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 containers of ammonium...
 
 ### [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md)

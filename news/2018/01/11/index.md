@@ -3,8 +3,8 @@ Formats: [HTML](2018/01/11/index.html)  [JSON](2018/01/11/index.json)  [XML](201
 
 ## [2018-01-11](/news/2018/01/11/index.md)
 
-### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country and deadly protests in Kasur city.](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-and-deadly-protests-in-kasur-city.md)
-The rape and murder of an eight-year-old girl in Pakistan has sparked outrage.
+### [The rape and murder of an eight-year-old girl in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
+Zainab, eight, was raped and suffocated, the latest in a spate of killings in the city of Kasur.
 
 ## [Previous Day...](/news/2018/01/10/index.md)
 
