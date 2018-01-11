@@ -3,8 +3,8 @@ Formats: [HTML](2018/01/11/index.html)  [JSON](2018/01/11/index.json)  [XML](201
 
 ## [2018-01-11](/news/2018/01/11/index.md)
 
-### [The bell-ringing guild of the Belgian town of Ypres is looking for people to perform on the 8 new change ringing bells of Saint George's Memorial Church, a first for the country. ](/news/2018/01/11/the-bell-ringing-guild-of-the-belgian-town-of-ypres-is-looking-for-people-to-perform-on-the-8-new-change-ringing-bells-of-saint-george-s-mem.md)
-_Context: Belgian, Saint George's Memorial Church, Ypres, bell, change ringing_
+### [Two 16-year-old Palestinians are shot and killed in clashes with the Israeli army. ](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-killed-in-clashes-with-the-israeli-army.md)
+Two Palestinian teens were killed in clashes with the Israeli military on Thursday, Palestinian health officials said, in a wave of violence sparked last month when President Donald Trump recognized Jerusalem as Israel&rsquo;s capital.
 
 ### [Walmart increases the minimum wage for its U.S. employees to $11 per hour. ](/news/2018/01/11/walmart-increases-the-minimum-wage-for-its-u-s-employees-to-11-per-hour.md)
 _Context: Walmart, Walmart employee wages_
@@ -17,6 +17,9 @@ The U.S. Justice Department has set up a team to investigate individuals and org
 
 ### [Britain, France, and Germany call on U.S. President Donald Trump to endorse the Joint Comprehensive Plan of Action. ](/news/2018/01/11/britain-france-and-germany-call-on-u-s-president-donald-trump-to-endorse-the-joint-comprehensive-plan-of-action.md)
 Britain,&#x20;France&#x20;and&#x20;Germany&#x20;made&#x20;a&#x20;joint&#x20;plea&#x20;to&#x20;Donald&#x20;Trump&#x20;on&#x20;Thursday&#x20;to&#x20;endorse&#x20;a&#x20;key&#x20;nuclear&#x20;deal&#x20;with&#x20;Iran&#x20;as&#x20;the&#x20;US&#x20;president&#x20;mulls&#x20;reimposing&#x20;sanctions&#x20...
+
+### [It is revealed that Julian Assange was given Ecuadorian citizenship one month ago. ](/news/2018/01/11/it-is-revealed-that-julian-assange-was-given-ecuadorian-citizenship-one-month-ago.md)
+Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
 
 ## [Previous Day...](/news/2018/01/10/index.md)
 
