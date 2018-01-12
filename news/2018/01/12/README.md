@@ -18,14 +18,14 @@ Feeley said if he couldn&#039;t serve the president apolitically, &quot;I would 
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
+### [After European Parliament auditors conclude that he used a parliamentary assistant for UKIP party matters instead of for work related to the duties of a Member of the European Parliament, Nigel Farage will now pay back GBP35,500 (EUR40,000) through having half of his salary withheld. ](/news/2018/01/12/after-european-parliament-auditors-conclude-that-he-used-a-parliamentary-assistant-for-ukip-party-matters-instead-of-for-work-related-to-the.md)
+Former Ukip leader Nigel Farage is having half his MEP’s salary docked following a European Parliament investigation into the alleged misspending of EU funds. Mr Farage and seven other Ukip MEPs were last February accused of spending money meant to fund their offices on Ukip party matters – lead...
+
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
 _Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election, grand coalition_
 
 ### [Mexicans react with incredulity after President of Mexico Enrique Pena Nieto appointed Alberto Bazbaz to the position of head of the CISEN intelligence service. Bazbaz is known for having overseen a 9-day search for a missing girl, Paulette Gebara Farah, who was eventually found dead in her own bed. ](/news/2018/01/12/mexicans-react-with-incredulity-after-president-of-mexico-enrique-pea-a-nieto-appointed-alberto-bazbaz-to-the-position-of-head-of-the-cisen.md)
 Alberto Bazbaz, an ally of the president, has been handed the top intelligence job despite leading a nine-day search for missing girl later found dead in her own bed
-
-### [After European Parliament auditors conclude that he used a parliamentary assistant for UKIP party matters instead of for work related to the duties of a Member of the European Parliament, Nigel Farage will now pay back GBP35,500 (EUR40,000) through having half of his salary withheld. ](/news/2018/01/12/after-european-parliament-auditors-conclude-that-he-used-a-parliamentary-assistant-for-ukip-party-matters-instead-of-for-work-related-to-the.md)
-Former Ukip leader Nigel Farage is having half his MEP’s salary docked following a European Parliament investigation into the alleged misspending of EU funds. Mr Farage and seven other Ukip MEPs were last February accused of spending money meant to fund their offices on Ukip party matters – lead...
 
 ## [Previous Day...](/news/2018/01/11/index.md)
 
