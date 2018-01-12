@@ -12,8 +12,8 @@ _Context: Walmart, Walmart employee wages_
 ### [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md)
 South Korea says it&#039;s planning a law to ban cryptocurrencies such as bitcoin being traded through its exchanges, sending prices plummeting.
 
-### [The rape and murder of an eight-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-an-eight-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur.md)
-Zainab, eight, was raped and suffocated, the latest in a spate of killings in the city of Kasur.
+### [The rape and murder of six-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
+_Context: Kasur, Murder of Zainab Ansari, Pakistan_
 
 ### [The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the-dea-s-project-cassandra-investiga.md)
 The U.S. Justice Department has set up a team to investigate individuals and organizations providing support to Hezbollah, the Iran-backed Islamist group in Lebanon that the U.S. has branded a terrorist organization, Attorney General Jeff Sessions said on Thursday.
