@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/12/index.md)
 
+### [A major fire engulfs parts of Nottingham station, United Kingdom. ](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-station-united-kingdom.md)
+No trains will be running from the station today as firefighters tackle the blaze.
+
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
@@ -41,7 +44,7 @@ _Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
 
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
-And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
+_Context: Kirk Douglas, Natalie Wood, Weinstein effect_
 
 ### [United States President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as offensive. ](/news/2018/01/11/united-states-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-hav.md)
 _Context: Donald Trump_

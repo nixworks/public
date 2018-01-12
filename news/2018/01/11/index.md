@@ -31,7 +31,7 @@ _Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
 
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
-And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
+_Context: Kirk Douglas, Natalie Wood, Weinstein effect_
 
 ### [United States President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as offensive. ](/news/2018/01/11/united-states-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-hav.md)
 _Context: Donald Trump_

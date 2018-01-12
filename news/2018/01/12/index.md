@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/12/index.html)  [JSON](2018/01/12/index.json)  [XML](201
 
 ## [2018-01-12](/news/2018/01/12/index.md)
 
+### [A major fire engulfs parts of Nottingham station, United Kingdom. ](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-station-united-kingdom.md)
+No trains will be running from the station today as firefighters tackle the blaze.
+
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 

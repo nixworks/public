@@ -5,14 +5,13 @@ Formats: [HTML](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kir
 
 # Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). 
 
-And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
+
 
 
 ### Sources:
 
 1. [Mediaite.com](https://www.mediaite.com/online/twitter-calls-out-golden-globes-for-honoring-kirk-douglas-accused-of-raping-natalie-wood-not-a-good-look)
-2. [The New York Post](https://nypost.com/2018/01/08/the-post-weinstein-golden-globes-was-an-exercise-in-hypocrisy)
-2. [Cover Image](https://thenypost.files.wordpress.com/2018/01/21959089.jpg?quality=90&amp;strip=all&amp;w=1200)
+1. [Cover Image](https://www.mediaite.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-07-at-8.55.30-PM-470x470.jpg)
 
 ### Related:
 
