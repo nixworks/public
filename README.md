@@ -7,7 +7,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election_
+_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election, grand coalition_
 
 ---
 
@@ -28,7 +28,7 @@ _Context: 2018 Southern California landslides, Montecito's, Santa Barbara County
 ### [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md)
 The U.S. Justice Department has set up a team to investigate individuals and organizations providing support to Hezbollah, the Iran-backed Islamist group in Lebanon that the U.S. has branded a terrorist organization, Attorney General Jeff Sessions said on Thursday.
 
-### [Britain, France, and Germany call on U.S. President Donald Trump to endorse the Joint Comprehensive Plan of Action. ](/news/2018/01/11/britain-france-and-germany-call-on-u-s-president-donald-trump-to-endorse-the-joint-comprehensive-plan-of-action.md)
+### [The United Kingdom, France, and Germany call on U.S. President Donald Trump to endorse the Joint Comprehensive Plan of Action. ](/news/2018/01/11/the-united-kingdom-france-and-germany-call-on-u-s-president-donald-trump-to-endorse-the-joint-comprehensive-plan-of-action.md)
 Britain,&#x20;France&#x20;and&#x20;Germany&#x20;made&#x20;a&#x20;joint&#x20;plea&#x20;to&#x20;Donald&#x20;Trump&#x20;on&#x20;Thursday&#x20;to&#x20;endorse&#x20;a&#x20;key&#x20;nuclear&#x20;deal&#x20;with&#x20;Iran&#x20;as&#x20;the&#x20;US&#x20;president&#x20;mulls&#x20;reimposing&#x20;sanctions&#x20...
 
 ### [The rape and murder of six-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
@@ -42,6 +42,9 @@ Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founde
 
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
 And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
+
+### [United States President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as offensive. ](/news/2018/01/11/united-states-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-hav.md)
+_Context: Donald Trump_
 
 ---
 

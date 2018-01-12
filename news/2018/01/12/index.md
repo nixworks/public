@@ -7,7 +7,7 @@ Formats: [HTML](2018/01/12/index.html)  [JSON](2018/01/12/index.json)  [XML](201
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election_
+_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election, grand coalition_
 
 ## [Previous Day...](/news/2018/01/11/index.md)
 
