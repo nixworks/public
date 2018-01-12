@@ -36,8 +36,8 @@ Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founde
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
 _Context: Kirk Douglas, Natalie Wood, Weinstein effect_
 
-### [United States President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as offensive. ](/news/2018/01/11/united-states-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-hav.md)
-_Context: Donald Trump_
+### [U.S. President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as deeply offensive. ](/news/2018/01/11/u-s-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-have-condemn.md)
+_Context: Haiti-United States relations, Trump, U.S. President_
 
 ## [Previous Day...](/news/2018/01/10/index.md)
 
