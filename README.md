@@ -9,12 +9,6 @@ No trains will be running from the station today as firefighters tackle the blaz
 ### [Turkey cautions its citizens against travel to the United States in response to an advisory that warned Americans about terror threats and arbitrary detentions in Turkey. ](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-the-united-states-in-response-to-an-advisory-that-warned-americans-about-terror-threats-and-a.md)
 Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.
 
-### [Nepalese authorities stated that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their US ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-stated-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-other.md)
-_Context: Botswana, Botswana-United States relations, Nepal-United States relations, Trump_
-
-### [The United States Ambassador to Panama, John D. Feeley, resigns saying he can no longer "serve Trump". ](/news/2018/01/12/the-united-states-ambassador-to-panama-john-d-feeley-resigns-saying-he-can-no-longer-serve-trump.md)
-Feeley said if he couldn&#039;t serve the president apolitically, &quot;I would be honor bound to resign. That time has come,&quot; he said.
-
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
@@ -58,14 +52,14 @@ _Context: Kasur, Murder of Zainab Ansari, Pakistan_
 ### [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md)
 _Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States House of Representatives, key, probable cause, process, require, warrant_
 
-### [Ecuador's Foreign Minister Maria Fernanda Espinosa reveals that Ecuador granted citizenship to Julian Assange one month ago in an effort to find an outcome to his political asylum and life at the Ecuadorian embassy in London. ](/news/2018/01/11/ecuador-s-foreign-minister-maraa-fernanda-espinosa-reveals-that-ecuador-granted-citizenship-to-julian-assange-one-month-ago-in-an-effort-to.md)
+### [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md)
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
 
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
 _Context: Kirk Douglas, Natalie Wood, Weinstein effect_
 
-### [U.S. President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting; several U.S. politicians have condemned his remarks as deeply offensive. ](/news/2018/01/11/u-s-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting-several-u-s-politicians-have-condemn.md)
-_Context: Haiti-United States relations, Trump, U.S. President_
+### [U.S. President Donald Trump referred to Haiti and Africa as "shithole countries" in a private meeting. ](/news/2018/01/11/u-s-president-donald-trump-referred-to-haiti-and-africa-as-shithole-countries-in-a-private-meeting.md)
+_Context: Donald Trump, Haiti-United States relations, U.S. President_
 
 ---
 
