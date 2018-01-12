@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kir
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
-# Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (c. 1954). 
+# Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). 
 
 And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
 
