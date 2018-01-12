@@ -9,7 +9,7 @@ No trains will be running from the station today as firefighters tackle the blaz
 ### [Turkey cautions its citizens against travel to the United States. ](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-the-united-states.md)
 Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.
 
-### [Nepalese authorities stated that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana also summoned their US ambassador to "express its displeasure". ](/news/2018/01/12/nepalese-authorities-stated-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-other.md)
+### [Nepalese authorities stated that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their US ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-stated-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-other.md)
 _Context: Botswana, Botswana-United States relations, Nepal-United States relations, Trump_
 
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)

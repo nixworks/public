@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/12/nepalese-authorities-stated-that-they-are-discu
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
-# Nepalese authorities stated that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana also summoned their US ambassador to "express its displeasure". 
+# Nepalese authorities stated that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their US ambassador, asking for clarification and expressed their concerns. 
 
 
 
