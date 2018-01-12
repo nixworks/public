@@ -27,8 +27,11 @@ _Context: Kasur, Murder of Zainab Ansari, Pakistan_
 ### [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md)
 _Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States House of Representatives, key, probable cause, process, require, warrant_
 
-### [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. The Swedish charges were dropped in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md)
+### [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md)
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
+
+### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (c. 1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)
+And the award for ultimate hypocrisy goes to . . . the Hollywood class of 2018. This year’s Golden Globes were meant to be a defiant, vibrant celebration of a post-Weinstein industry, an awards cer…
 
 ## [Previous Day...](/news/2018/01/10/index.md)
 
