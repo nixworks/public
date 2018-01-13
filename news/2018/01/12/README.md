@@ -9,6 +9,9 @@ No trains will be running from the station today as firefighters tackle the blaz
 ### [Turkey cautions its citizens against travel to the United States in response to an advisory that warned Americans about terror threats and arbitrary detentions in Turkey. ](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-the-united-states-in-response-to-an-advisory-that-warned-americans-about-terror-threats-and-a.md)
 Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.
 
+### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
+U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
+
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
