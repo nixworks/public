@@ -27,7 +27,10 @@ The erroneous alert warning of a ballistic missile strike was not corrected for 
 ### [The Bar Council of India forms a 7-member delegation which will attempt to meet the four most senior Supreme Court judges on behalf of Chief Justice of India (CJI) Dipak Misra. This comes in the wake of allegations made by the four top judges against the CJI at a first of its kind press conference held on January 12. ](/news/2018/01/13/the-bar-council-of-india-forms-a-7-member-delegation-which-will-attempt-to-meet-the-four-most-senior-supreme-court-judges-on-behalf-of-chief.md)
 India News: The Bar Council of India (BCI) has formed a seven-member delegation which will attempt to bridge the apparent rift between four senior Supreme Court j
 
-### [The second round will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-second-round-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa-drahoa.md)
+### [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md)
+_Context: Ibrahim Zakzaky, Islamic Movement, Nigeria, Shia, doctor_
+
+### [The first round of the presidential election results in a second round that will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-first-round-of-the-presidential-election-results-in-a-second-round-that-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa.md)
 Russia-friendly Czech President Milos Zeman won the first round of voting to retain his job on Saturday, but pro-western runner-up Jiri Drahos will be a formidable opponent in the second round vote in two weeks, nearly complete results showed.
 
 ---
