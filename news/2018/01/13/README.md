@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/13/index.html)  [JSON](2018/01/13/index.json)  [XML](201
 
 ## [2018-01-13](/news/2018/01/13/index.md)
 
+### [A search for missing children is underway after a boat capsized off the Indian coast near Dahanu, Maharashtra. Two bodies have been recovered. ](/news/2018/01/13/a-search-for-missing-children-is-underway-after-a-boat-capsized-off-the-indian-coast-near-dahanu-maharashtra-two-bodies-have-been-recovere.md)
+Three bodies are found off Mumbai, with 32 of the 40 students on board rescued so far.
+
 ### [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md)
 The US president warns of sanctions if the agreement is not changed within four months.
 
