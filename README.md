@@ -19,6 +19,12 @@ No trains will be running from the station today as firefighters tackle the blaz
 ### [Turkey cautions its citizens against travel to the United States in response to an advisory that warned Americans about terror threats and arbitrary detentions in Turkey. ](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-the-united-states-in-response-to-an-advisory-that-warned-americans-about-terror-threats-and-a.md)
 Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.
 
+### [Nepalese authorities state that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their U.S. ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-state-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-others.md)
+_Context: Botswana, Botswana-United States relations, Donald Trump, Nepal-United States relations_
+
+### [The United States Ambassador to Panama, John D. Feeley, resigns saying he can no longer "serve Trump". ](/news/2018/01/12/the-united-states-ambassador-to-panama-john-d-feeley-resigns-saying-he-can-no-longer-serve-trump.md)
+Feeley said if he couldn&#039;t serve the president apolitically, &quot;I would be honor bound to resign. That time has come,&quot; he said.
+
 ### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
 U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
 
