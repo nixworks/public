@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/12/index.html)  [JSON](2018/01/12/index.json)  [XML](201
 
 ## [2018-01-12](/news/2018/01/12/index.md)
 
+### [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md)
+Amid gradual reforms, Saudi Arabia allows women to attend a football match for the first time.
+
 ### [A major fire engulfs parts of Nottingham station, United Kingdom. ](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-station-united-kingdom.md)
 No trains will be running from the station today as firefighters tackle the blaze.
 
@@ -11,6 +14,9 @@ Turkey on Friday cautioned its citizens about traveling to the United States, in
 
 ### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
 U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
+
+### [The United States Ambassador to Panama, John D. Feeley, resigns saying he can no longer serve under Trump administration. ](/news/2018/01/12/the-united-states-ambassador-to-panama-john-d-feeley-resigns-saying-he-can-no-longer-serve-under-trump-administration.md)
+The US ambassador to Panama has resigned, saying that he no longer felt able to serve President Donald Trump.
 
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.

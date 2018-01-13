@@ -3,18 +3,21 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/13/index.md)
 
-### [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/13/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md)
-Amid gradual reforms, Saudi Arabia allows women to attend a football match for the first time.
-
 ### [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md)
 The US president warns of sanctions if the agreement is not changed within four months.
 
 ### [Russia deploys a second anti-air S-400 missile batallion in Crimea. ](/news/2018/01/13/russia-deploys-a-second-anti-air-s-400-missile-batallion-in-crimea.md)
 Two battalions with S-400 systems would take up combat duty in Crimea in the beginning of 2018
 
+### [The Bar Council of India forms a 7-member delegation which will attempt to meet the four most senior Supreme Court judges on behalf of Chief Justice of India (CJI) Dipak Misra. This comes in the wake of allegations made by the four top judges against the CJI at a first of its kind press conference held on January 12. ](/news/2018/01/13/the-bar-council-of-india-forms-a-7-member-delegation-which-will-attempt-to-meet-the-four-most-senior-supreme-court-judges-on-behalf-of-chief.md)
+India News: The Bar Council of India (BCI) has formed a seven-member delegation which will attempt to bridge the apparent rift between four senior Supreme Court j
+
 ---
 
 ## [Yesterday](/news/2018/01/12/index.md)
+
+### [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md)
+Amid gradual reforms, Saudi Arabia allows women to attend a football match for the first time.
 
 ### [A major fire engulfs parts of Nottingham station, United Kingdom. ](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-station-united-kingdom.md)
 No trains will be running from the station today as firefighters tackle the blaze.
@@ -24,6 +27,9 @@ Turkey on Friday cautioned its citizens about traveling to the United States, in
 
 ### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
 U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
+
+### [The United States Ambassador to Panama, John D. Feeley, resigns saying he can no longer serve under Trump administration. ](/news/2018/01/12/the-united-states-ambassador-to-panama-john-d-feeley-resigns-saying-he-can-no-longer-serve-under-trump-administration.md)
+The US ambassador to Panama has resigned, saying that he no longer felt able to serve President Donald Trump.
 
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
@@ -68,7 +74,7 @@ _Context: Kasur, Murder of Zainab Ansari, Pakistan_
 ### [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md)
 _Context: FBI, Foreign Intelligence Surveillance Act, Section 702, United States House of Representatives, key, probable cause, process, require, warrant_
 
-### [Ecuador grants citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/ecuador-grants-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-embassy-of-ecuador-in-lon.md)
+### [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md)
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago
 
 ### [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md)

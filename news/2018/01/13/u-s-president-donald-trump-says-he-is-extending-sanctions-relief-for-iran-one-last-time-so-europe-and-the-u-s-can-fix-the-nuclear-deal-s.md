@@ -11,7 +11,8 @@ The US president warns of sanctions if the agreement is not changed within four 
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-42670577)
-1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05jsf6p.jpg)
+2. [Politico](https://www.politico.com/story/2018/01/13/iran-rejects-trump-changing-nuclear-deal-339516)
+2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05jsf6p.jpg)
 
 ### Related:
 
