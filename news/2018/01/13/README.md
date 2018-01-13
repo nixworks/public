@@ -6,6 +6,9 @@ Formats: [HTML](2018/01/13/index.html)  [JSON](2018/01/13/index.json)  [XML](201
 ### [A search for missing children is underway after a boat capsized off the Indian coast near Dahanu, Maharashtra. Two bodies have been recovered. ](/news/2018/01/13/a-search-for-missing-children-is-underway-after-a-boat-capsized-off-the-indian-coast-near-dahanu-maharashtra-two-bodies-have-been-recovere.md)
 Three bodies are found off Mumbai, with 32 of the 40 students on board rescued so far.
 
+### [A Chinese rescue team recovers two bodies from the Sanchi and salvages the voyage data recorder from the bridge. ](/news/2018/01/13/a-chinese-rescue-team-recovers-two-bodies-from-the-sanchi-and-salvages-the-voyage-data-recorder-from-the-bridge.md)
+A Chinese salvage team recovered two bodies on Saturday from a stricken Iranian oil tanker, that was still blazing a week after it caught fire and was left adrift following a collision in the East China Sea, state news agency Xinhua reported.
+
 ### [Iran says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md)
 _Context: Chief Justice, Iran-United States relations, Sadeq Amoli-Larijani_
 
