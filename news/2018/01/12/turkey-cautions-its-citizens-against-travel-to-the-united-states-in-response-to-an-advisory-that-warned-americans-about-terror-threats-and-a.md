@@ -10,7 +10,7 @@ Turkey on Friday cautioned its citizens about traveling to the United States, in
 
 ### Sources:
 
-1. [Fox News](http://www.foxnews.com/world/2018/01/12/turkey-tells-citizens-to-reconsider-travelling-to-us.html)
+1. [AP via Fox News](http://www.foxnews.com/world/2018/01/12/turkey-tells-citizens-to-reconsider-travelling-to-us.html)
 1. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/01/12/turkey-tells-citizens-to-reconsider-travelling-to-us/_jcr_content/par/featured-media/media-0.img.png/0/0/1515760052862.png?ve=1)
 
 ### Related:
