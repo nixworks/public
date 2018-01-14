@@ -12,8 +12,8 @@ Three bodies are found off Mumbai, with 32 of the 40 students on board rescued s
 ### [A Chinese rescue team recovers two bodies from the Sanchi and salvages the voyage data recorder from the bridge. ](/news/2018/01/13/a-chinese-rescue-team-recovers-two-bodies-from-the-sanchi-and-salvages-the-voyage-data-recorder-from-the-bridge.md)
 A Chinese salvage team recovered two bodies on Saturday from a stricken Iranian oil tanker, that was still blazing a week after it caught fire and was left adrift following a collision in the East China Sea, state news agency Xinhua reported.
 
-### [Iran says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md)
-_Context: Chief Justice, Iran-United States relations, Sadeq Amoli-Larijani_
+### [Iran's Ministry of Foreign Affairs says the January 12 U.S. sanctions on Chief Justice Sadeq Amoli-Larijani are "beyond all [...] red lines." ](/news/2018/01/13/iran-s-ministry-of-foreign-affairs-says-the-january-12-u-s-sanctions-on-chief-justice-sadeq-amoli-larijani-are-beyond-all-red-lines.md)
+Tehran has responded to the latest US sanctions over Iran’s alleged human rights abuses and ballistic missile program.
 
 ### [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md)
 The US president warns of sanctions if the agreement is not changed within four months.
