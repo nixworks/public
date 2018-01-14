@@ -3,9 +3,6 @@ Formats: [HTML](2018/01/13/index.html)  [JSON](2018/01/13/index.json)  [XML](201
 
 ## [2018-01-13](/news/2018/01/13/index.md)
 
-### [Citing the success of Neapolitan pizza, President Emmanuel Macron calls for the UNESCO to recognize the French baguette. ](/news/2018/01/13/citing-the-success-of-neapolitan-pizza-president-emmanuel-macron-calls-for-the-unesco-to-recognize-the-french-baguette.md)
-Bakers demanding recognition are being backed by the French president.
-
 ### [A search for missing children is underway after a boat capsized off the Indian coast near Dahanu, Maharashtra. Two bodies have been recovered. ](/news/2018/01/13/a-search-for-missing-children-is-underway-after-a-boat-capsized-off-the-indian-coast-near-dahanu-maharashtra-two-bodies-have-been-recovere.md)
 Three bodies are found off Mumbai, with 32 of the 40 students on board rescued so far.
 
