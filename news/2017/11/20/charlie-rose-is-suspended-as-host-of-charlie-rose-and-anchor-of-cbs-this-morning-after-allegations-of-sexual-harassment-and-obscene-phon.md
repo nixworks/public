@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/20/charlie-rose-is-suspended-as-host-of-charlie-ro
 
 ### [2017-11-20](/news/2017/11/20/index.md)
 
-# Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls. 
+# Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls and was later fired by the following day. 
 
 The alleged incidents took place with employees, interns and job applicants at the &ldquo;Charlie Rose&rdquo; show.
 
@@ -15,7 +15,7 @@ The alleged incidents took place with employees, interns and job applicants at t
 ### Changes:
 
 1. [Charlie Rose was suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls. ](/news/2017/11/20/charlie-rose-was-suspended-as-host-of-charlie-rose-and-anchor-of-cbs-this-morning-after-allegations-of-sexual-harassment-and-obscene-pho.md) _2017-11-21 10:30:04 (First version)_
-1. [Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls. ](/news/2017/11/20/charlie-rose-is-suspended-as-host-of-charlie-rose-and-anchor-of-cbs-this-morning-after-allegations-of-sexual-harassment-and-obscene-phon.md) _(Current version)_
+1. [Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls and was later fired by the following day. ](/news/2017/11/20/charlie-rose-is-suspended-as-host-of-charlie-rose-and-anchor-of-cbs-this-morning-after-allegations-of-sexual-harassment-and-obscene-phon.md) _(Current version)_
 
 ### Related:
 
