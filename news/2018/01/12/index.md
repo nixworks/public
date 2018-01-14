@@ -15,12 +15,6 @@ Turkey on Friday cautioned its citizens about traveling to the United States, in
 ### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
 U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
 
-### [Nepalese authorities state that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their U.S. ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-state-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-others.md)
-_Context: Botswana, Botswana-United States relations, Donald Trump, Nepal-United States relations_
-
-### [The United States Ambassador to Panama, John D. Feeley, resigns saying he can no longer serve under Trump administration. ](/news/2018/01/12/the-united-states-ambassador-to-panama-john-d-feeley-resigns-saying-he-can-no-longer-serve-under-trump-administration.md)
-The US ambassador to Panama has resigned, saying that he no longer felt able to serve President Donald Trump.
-
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
 
