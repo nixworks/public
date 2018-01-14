@@ -3,10 +3,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/14/index.md)
 
+### [ The Israel Defense Forces report the complete destruction of an underground tunnel dug by Hamas under the Kerem Shalom crossing. Israel shut down the crossing before its jets bombed the tunnel opening in Gaza Saturday night. The crossing remains closed. ](/news/2018/01/14/the-israel-defense-forces-report-the-complete-destruction-of-an-underground-tunnel-dug-by-hamas-under-the-kerem-shalom-crossing-israel-shu.md)
+Departing for his state visit to India, PM Netanyahu confirms Israeli jets pounded the entrance of a 1.5km terror tunnel dug by Hamas from the Gazan to Egyptian side of Rafah, stating that the IDF’s actions are part of Israel’s &#39;vigorous and systematic action against hostile infrastructures....
+
+### [The U.S.-led coalition confrmed reports that it is to form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confrmed-reports-that-it-is-to-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-b.md)
+_Context: American-led intervention in the Syrian Civil War, Syrian Democratic Forces, U.S.-led coalition_
+
 ### [The National Iranian Tanker Company-operated MV "Sanchi" sinks following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-mv-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-sha.md)
 The Sanchi goes down a week after a collision with a cargo ship, claiming 32 lives.
 
-### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acar in Peru's Arequipa Region resulting in one death and injuries to 57 others. Tsunami warnings are issued for coastal Peru and Chile. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acari-in-peru-s-arequipa-region-resulting-in-one-death-and-injuries-to-57-other.md)
+### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in one death and injuries to 57 others. Tsunami warnings are issued for coastal Peru and Chile. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-one-death-and-injuries-to-57-othe.md)
 The U.S. Geological survey reported 1 known death and 57 known injuries due to the magnitude 7.1 quake in Peru that happened early Sunday morning.
 
 ### [An explosion at a community center in Vila Nova da Rainha, Tondela, Portugal has left at least 8 dead and 35 injured. The explosion was caused by a heat boiler exploding. ](/news/2018/01/14/an-explosion-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-has-left-at-least-8-dead-and-35-injured-the-explosion-was-caus.md)
