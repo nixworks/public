@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/15/after-talks-between-the-company-its-lenders-and
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
-# After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the High-speed rail in the United Kingdom, including the High Speed 2 rail line. 
+# After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. 
 
 
 

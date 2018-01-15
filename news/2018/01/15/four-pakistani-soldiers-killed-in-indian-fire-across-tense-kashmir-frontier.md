@@ -10,5 +10,5 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 
 ### Sources:
 
-1. [(](https://in.reuters.com/article/pakistan-india/four-pakistani-soldiers-killed-in-indian-fire-across-tense-kashmir-frontier-idINKBN1F4129)
+1. [Reuters](https://in.reuters.com/article/pakistan-india/four-pakistani-soldiers-killed-in-indian-fire-across-tense-kashmir-frontier-idINKBN1F4129)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
