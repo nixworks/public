@@ -15,11 +15,11 @@ _Context: British, Carillion, High Speed 2, United Kingdom, facilities managemen
 ### [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md)
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
 
-### [American retired professional basketball player Dennis Rodman is arrested on driving under the influence suspicion in California. ](/news/2018/01/15/american-retired-professional-basketball-player-dennis-rodman-is-arrested-on-driving-under-the-influence-suspicion-in-california.md)
-Former basketball star Dennis Rodman was released from jail in California on Sunday after being arrested hours earlier on suspicion of driving under the influence, Newport Beach police said.
-
 ### [Malaysia upholds death sentences for nine Filipinos over 2013 incursion. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion.md)
 A Malaysian court on Monday upheld death sentences handed down to nine men from the Philippines in connection with an 2013 incursion into the Malaysian part of Borneo island by Philippine fighters seeking to stake an ancient claim.
+
+### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
+A teacher and 11 children were slashed at a school in Perm as two boys fought with knives.
 
 ## [Previous Day...](/news/2018/01/14/index.md)
 
