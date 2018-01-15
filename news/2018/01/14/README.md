@@ -7,7 +7,7 @@ Formats: [HTML](2018/01/14/index.html)  [JSON](2018/01/14/index.json)  [XML](201
 Departing for his state visit to India, PM Netanyahu confirms Israeli jets pounded the entrance of a 1.5km terror tunnel dug by Hamas from the Gazan to Egyptian side of Rafah, stating that the IDF’s actions are part of Israel’s &#39;vigorous and systematic action against hostile infrastructures....
 
 ### [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md)
-_Context: American-led intervention in the Syrian Civil War, Syrian Democratic Forces, U.S.-led coalition_
+_Context: American-led intervention in the Syrian Civil War, Syrian Border Security Force, Syrian Democratic Forces, U.S.-led coalition_
 
 ### [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md)
 The Sanchi goes down a week after a collision with a cargo ship, claiming 32 lives.
@@ -15,7 +15,7 @@ The Sanchi goes down a week after a collision with a cargo ship, claiming 32 liv
 ### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md)
 A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday morning, killing one person, injuring scores and causing homes and roads to collapse.
 
-### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md)
+### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md)
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
 ### [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md)

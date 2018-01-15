@@ -6,11 +6,20 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md)
 The double bombing in a busy square in the heart of the Iraqi capital has injured more than 90.
 
-### [Carillion collapses into liquidation threatening thousands of jobs after talks between the company, its lenders and the United Kingdom's government failed to reach a deal. Carillion is involved in major projects such as the High Speed 2 (HS2) rail line. ](/news/2018/01/15/carillion-collapses-into-liquidation-threatening-thousands-of-jobs-after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-gov.md)
-_Context: Carillion, High Speed 2, United Kingdom, liquidation_
+### [Four Pakistani soldiers killed in Indian fire across tense Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-killed-in-indian-fire-across-tense-kashmir-frontier.md)
+Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
-### [At least 70 people are injured after the mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta collapses. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/at-least-70-people-are-injured-after-the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-collapses-the-indo.md)
+### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the High-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
+_Context: British, Carillion, High Speed 2, High-speed rail in the United Kingdom, United Kingdom, facilities management, liquidated, multinational_
+
+### [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md)
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
+
+### [Dennis Rodman arrested on DUI suspicion in California. ](/news/2018/01/15/dennis-rodman-arrested-on-dui-suspicion-in-california.md)
+Former basketball star Dennis Rodman was released from jail in California on Sunday after being arrested hours earlier on suspicion of driving under the influence, Newport Beach police said.
+
+### [Malaysia upholds death sentences for nine Filipinos over 2013 incursion. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion.md)
+A Malaysian court on Monday upheld death sentences handed down to nine men from the Philippines in connection with an 2013 incursion into the Malaysian part of Borneo island by Philippine fighters seeking to stake an ancient claim.
 
 ---
 
@@ -20,7 +29,7 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 Departing for his state visit to India, PM Netanyahu confirms Israeli jets pounded the entrance of a 1.5km terror tunnel dug by Hamas from the Gazan to Egyptian side of Rafah, stating that the IDF’s actions are part of Israel’s &#39;vigorous and systematic action against hostile infrastructures....
 
 ### [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md)
-_Context: American-led intervention in the Syrian Civil War, Syrian Democratic Forces, U.S.-led coalition_
+_Context: American-led intervention in the Syrian Civil War, Syrian Border Security Force, Syrian Democratic Forces, U.S.-led coalition_
 
 ### [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md)
 The Sanchi goes down a week after a collision with a cargo ship, claiming 32 lives.
@@ -28,7 +37,7 @@ The Sanchi goes down a week after a collision with a cargo ship, claiming 32 liv
 ### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md)
 A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday morning, killing one person, injuring scores and causing homes and roads to collapse.
 
-### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md)
+### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md)
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
 ### [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md)
