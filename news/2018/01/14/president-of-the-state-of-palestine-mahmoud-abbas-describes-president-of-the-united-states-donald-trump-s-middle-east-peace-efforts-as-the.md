@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abb
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
-# President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century" 
+# President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century." 
 
 
 
