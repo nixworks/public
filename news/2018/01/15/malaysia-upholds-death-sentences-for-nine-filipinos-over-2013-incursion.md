@@ -10,5 +10,5 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 
 ### Sources:
 
-1. [(](https://in.reuters.com/article/malaysia-security-invasion/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion-idINKBN1F414M?il=0)
+1. [Reuters](https://in.reuters.com/article/malaysia-security-invasion/malaysia-upholds-death-sentences-for-nine-filipinos-over-2013-incursion-idINKBN1F414M?il=0)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
