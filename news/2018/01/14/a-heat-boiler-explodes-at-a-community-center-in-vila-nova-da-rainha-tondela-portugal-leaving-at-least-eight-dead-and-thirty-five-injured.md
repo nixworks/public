@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
-# A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal., leaving at least eight dead and thirty five injured. 
+# A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight dead and thirty five injured. 
 
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
@@ -17,7 +17,7 @@ An explosion started the blaze while the centre at Vila Nova da Rainha hosted a 
 
 1. [An expolsion at a community center in Vila Nova da Rainha, Tondela has left at least 8 dead and 35 injured. The explosion was caused by a heat boiler exploding. ](/news/2018/01/14/an-expolsion-at-a-community-center-in-vila-nova-da-rainha-tondela-has-left-at-least-8-dead-and-35-injured-the-explosion-was-caused-by-a-he.md) _2018-01-14 17:30:05 (First version)_
 2. [An explosion at a community center in Vila Nova da Rainha, Tondela, Portugal has left at least 8 dead and 35 injured. The explosion was caused by a heat boiler exploding. ](/news/2018/01/14/an-explosion-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-has-left-at-least-8-dead-and-35-injured-the-explosion-was-caus.md) _2018-01-14 22:30:05 (Update)_
-2. [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal., leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md) _(Current version)_
+2. [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md) _(Current version)_
 
 ### Related:
 

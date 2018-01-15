@@ -15,7 +15,7 @@ The Sanchi goes down a week after a collision with a cargo ship, claiming 32 liv
 ### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 2 deaths and 65 injuries. Tsunami warnings are issued for coastal Peru and Chile. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-2-deaths-and-65-injuries-tsunami.md)
 Earthquakes are common in Peru, but many homes are built with precarious materials that cannot withstand them.
 
-### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal., leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md)
+### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-dead-and-thirty-five-injured.md)
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
 ### [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than 800 people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md)
