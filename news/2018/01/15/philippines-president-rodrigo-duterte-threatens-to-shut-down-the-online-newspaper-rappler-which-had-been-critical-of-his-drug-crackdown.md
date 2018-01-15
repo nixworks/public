@@ -3,10 +3,16 @@ Formats: [HTML](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
-# Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which had been critical of his drug crackdown. [https:--www.nytimes.com-2018-01-15-world-asia-philippines-duterte-news-website.html "(The New York Times)"], [http:--www.aljazeera.com-news-2018-01-philippine-government-seeks-close-rappler-website-180115084959311.html "(al-Jazeera)"]
+# Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which had been critical of his drug crackdown. 
+
+The outlet, Rappler, known for confronting the president, was said to have broken ownership rules, but industry groups saw an attack on press freedom.
 
 
+### Sources:
 
+1. [The New York Times](https://www.nytimes.com/2018/01/15/world/asia/philippines-duterte-news-website.html)
+2. [al-Jazeera](http://www.aljazeera.com/news/2018/01/philippine-government-seeks-close-rappler-website-180115084959311.html)
+2. [Cover Image](https://static01.nyt.com/images/2018/01/16/world/16Philippines/merlin_132301241_ad7fcd4d-853a-47ba-8040-5153742906ab-facebookJumbo.jpg)
 
 ### Related:
 
