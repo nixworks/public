@@ -9,7 +9,7 @@ The double bombing in a busy square in the heart of the Iraqi capital has injure
 ### [Four Pakistani soldiers are killed in shelling by the Indian army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
-### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force, "before it's even born". Syria vows to crush it. Russia says the U.S. "plans a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-syria-vows-to-crush-it-russi.md)
+### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born". Syria vows to crush it. Russia says the U.S. "plans a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-syria-vows-to-crush-it-russia.md)
 _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
@@ -51,6 +51,9 @@ A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday mo
 
 ### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md)
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
+
+### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century" ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
+_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, President of the United States_
 
 ### [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md)
 The government seeks to calm days of unrest, seven years after rallies launched the Arab Spring.

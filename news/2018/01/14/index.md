@@ -18,6 +18,9 @@ A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday mo
 ### [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md)
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
+### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century" ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
+_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, President of the United States_
+
 ### [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md)
 The government seeks to calm days of unrest, seven years after rallies launched the Arab Spring.
 
