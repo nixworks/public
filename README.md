@@ -1,7 +1,20 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/14/index.md)
+## [News](/news/2018/01/15/index.md)
+
+### [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md)
+The double bombing in a busy square in the heart of the Iraqi capital has injured more than 90.
+
+### [Carillion collapses into liquidation threatening thousands of jobs after talks between the company, its lenders and the United Kingdom's government failed to reach a deal. Carillion is involved in major projects such as the High Speed 2 (HS2) rail line. ](/news/2018/01/15/carillion-collapses-into-liquidation-threatening-thousands-of-jobs-after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-gov.md)
+_Context: Carillion, High Speed 2, United Kingdom, liquidation_
+
+### [At least 70 people are injured after the mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta collapses. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/at-least-70-people-are-injured-after-the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-collapses-the-indo.md)
+MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
+
+---
+
+## [Yesterday](/news/2018/01/14/index.md)
 
 ### [The Israel Defense Forces report the complete destruction of an underground tunnel dug by Hamas under the Kerem Shalom crossing. Israel shut down the crossing before its jets bombed the tunnel opening in Gaza Saturday night. The crossing remains closed. ](/news/2018/01/14/the-israel-defense-forces-report-the-complete-destruction-of-an-underground-tunnel-dug-by-hamas-under-the-kerem-shalom-crossing-israel-shut.md)
 Departing for his state visit to India, PM Netanyahu confirms Israeli jets pounded the entrance of a 1.5km terror tunnel dug by Hamas from the Gazan to Egyptian side of Rafah, stating that the IDF’s actions are part of Israel’s &#39;vigorous and systematic action against hostile infrastructures....
@@ -29,7 +42,7 @@ _Context: Biological Psychiatry, habenula, rodent, social_
 
 ---
 
-## [Yesterday](/news/2018/01/13/index.md)
+## [Day Before Yesterday](/news/2018/01/13/index.md)
 
 ### [A search for missing children is underway after a boat capsized off the Indian coast near Dahanu, Maharashtra. Two bodies have been recovered. ](/news/2018/01/13/a-search-for-missing-children-is-underway-after-a-boat-capsized-off-the-indian-coast-near-dahanu-maharashtra-two-bodies-have-been-recovere.md)
 Three bodies are found off Mumbai, with 32 of the 40 students on board rescued so far.
@@ -63,35 +76,7 @@ Russia-friendly Czech President Milos Zeman won the first round of voting to ret
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/12/index.md)
-
-### [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md)
-Amid gradual reforms, Saudi Arabia allows women to attend a football match for the first time.
-
-### [A major fire engulfs parts of Nottingham station, United Kingdom. ](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-station-united-kingdom.md)
-No trains will be running from the station today as firefighters tackle the blaze.
-
-### [Turkey cautions its citizens against travel to the United States in response to an advisory that warned Americans about terror threats and arbitrary detentions in Turkey. ](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-the-united-states-in-response-to-an-advisory-that-warned-americans-about-terror-threats-and-a.md)
-Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.
-
-### [President Trump cancels his scheduled trip to the United Kingdom next month. ](/news/2018/01/12/president-trump-cancels-his-scheduled-trip-to-the-united-kingdom-next-month.md)
-U.S. President Donald Trump canceled a trip to London scheduled for next month to open a new embassy, saying he did not want to endorse a bad deal agreed by the Obama administration to sell the old one for &quot;peanuts&quot;.
-
-### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
-The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.
-
-### [After European Parliament auditors conclude that he used a parliamentary assistant for UKIP party matters instead of for work related to the duties of a Member of the European Parliament, Nigel Farage will now pay back GBP35,500 (EUR40,000) through having half of his salary withheld. ](/news/2018/01/12/after-european-parliament-auditors-conclude-that-he-used-a-parliamentary-assistant-for-ukip-party-matters-instead-of-for-work-related-to-the.md)
-Former Ukip leader Nigel Farage is having half his MEP’s salary docked following a European Parliament investigation into the alleged misspending of EU funds. Mr Farage and seven other Ukip MEPs were last February accused of spending money meant to fund their offices on Ukip party matters – lead...
-
-### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election, grand coalition_
-
-### [Mexicans react with incredulity after President of Mexico Enrique Pena Nieto appointed Alberto Bazbaz to the position of head of the CISEN intelligence service. Bazbaz is known for having overseen a 9-day search for a missing girl, Paulette Gebara Farah, who was eventually found dead in her own bed. ](/news/2018/01/12/mexicans-react-with-incredulity-after-president-of-mexico-enrique-pea-a-nieto-appointed-alberto-bazbaz-to-the-position-of-head-of-the-cisen.md)
-Alberto Bazbaz, an ally of the president, has been handed the top intelligence job despite leading a nine-day search for missing girl later found dead in her own bed
-
----
-
-## [Previous Day...](/news/2018/01/11/index.md)
+## [Previous Day...](/news/2018/01/12/index.md)
 
 ---
 
