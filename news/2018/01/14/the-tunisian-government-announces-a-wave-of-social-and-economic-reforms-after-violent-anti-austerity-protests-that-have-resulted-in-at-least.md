@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-soc
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
-# The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than 800 people. 
+# The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. 
 
 The government seeks to calm days of unrest, seven years after rallies launched the Arab Spring.
 
@@ -16,7 +16,7 @@ The government seeks to calm days of unrest, seven years after rallies launched 
 ### Changes:
 
 1. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in more than 800 people being arrested and at least one death. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-more-tha.md) _2018-01-14 18:30:06 (First version)_
-1. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than 800 people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _(Current version)_
+1. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _(Current version)_
 
 ### Related:
 
