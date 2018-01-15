@@ -12,9 +12,6 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force, "before it's even born". Syria vows to crush it. Russia says the U.S. "plans a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-syria-vows-to-crush-it-russi.md)
 _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
-### [Albanian-American actress Eliza Dushku says that a stuntman molested her when she was twelve. ](/news/2018/01/15/albanian-american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-twelve.md)
-Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
-
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
 _Context: British, Carillion, High Speed 2, United Kingdom, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
 
@@ -29,9 +26,6 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 
 ### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
 A teacher and 11 children were slashed at a school in Perm as two boys fought with knives.
-
-### [Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which had been critical of his drug crackdown. ](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens-to-shut-down-the-online-newspaper-rappler-which-had-been-critical-of-his-drug-crackdown.md)
-The outlet, Rappler, known for confronting the president, was said to have broken ownership rules, but industry groups saw an attack on press freedom.
 
 ---
 
