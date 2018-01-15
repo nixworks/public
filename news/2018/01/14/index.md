@@ -9,7 +9,7 @@ Departing for his state visit to India, PM Netanyahu confirms Israeli jets pound
 ### [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md)
 _Context: American-led intervention in the Syrian Civil War, Syrian Democratic Forces, U.S.-led coalition_
 
-### [The National Iranian Tanker Company-operated MV "Sanchi" sinks following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-mv-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-sha.md)
+### [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md)
 The Sanchi goes down a week after a collision with a cargo ship, claiming 32 lives.
 
 ### [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md)
