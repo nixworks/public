@@ -5,13 +5,13 @@ Formats: [HTML](/news/2018/01/16/just-days-after-breaking-the-25-000-mark-the-do
 
 # Just days after breaking the 25,000-mark, the Dow Jones Industrial Average reaches 26,000 points. 
 
-The Dow Jones Industrial Average touched the 26,000-mark for the first time on Tuesday and other Wall Street indexes climbed as strong earnings from UnitedHealth and Citigroup helped lift the sentiment.
+The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-usa-stocks/dow-hits-26000-for-first-time-idUSKBN1F51GC)
-1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180116&t=2&i=1222445487&w=1200&r=LYNXMPEE0F0TF)
+1. [Chicago Tribune](http://www.chicagotribune.com/business/ct-biz-dow-hits-26000-20180116-story.html)
+1. [Cover Image](http://www.trbimg.com/img-5a5e0f8b/turbine/ct-biz-dow-hits-26000-20180116)
 
 ### Related:
 

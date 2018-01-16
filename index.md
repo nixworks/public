@@ -3,14 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/16/index.md)
 
-### [Prominent Kosovo Serb politician Oliver Ivanovic is shot dead in a drive-by shooting outside his office in North Mitrovica. ](/news/2018/01/16/prominent-kosovo-serb-politician-oliver-ivanovia-is-shot-dead-in-a-drive-by-shooting-outside-his-office-in-north-mitrovica.md)
+### [A drive-by shooting outside his office in North Mitrovica kills the head politician of the Kosovo Serb party called Freedom, Democracy, Justice, Oliver Ivanovic. In January 2016, European Union judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic Albanians committed in 1999. ](/news/2018/01/16/a-drive-by-shooting-outside-his-office-in-north-mitrovica-kills-the-head-politician-of-the-kosovo-serb-party-called-freedom-democracy-just.md)
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
 
-### [Just days after breaking the 25,000-mark, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/just-days-after-breaking-the-25-000-mark-the-dow-jones-industrial-average-reaches-26-000-points.md)
-The Dow Jones Industrial Average touched the 26,000-mark for the first time on Tuesday and other Wall Street indexes climbed as strong earnings from UnitedHealth and Citigroup helped lift the sentiment.
+### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
+Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.
 
-### [Ministerial negotiations start today in Vancouver under the chairmanship of Canada and the United States, to discuss the situation on the Korean Peninsula. According to Russian Foreign Minister Sergey Lavrov, the negotiations are "void of representativeness and a legal value" and so are not effective. A Chinese Foreign Ministry spokesperson approves of the statements. ](/news/2018/01/16/ministerial-negotiations-start-today-in-vancouver-under-the-chairmanship-of-canada-and-the-united-states-to-discuss-the-situation-on-the-ko.md)
-Russian Foreign Minister Sergey Lavrov said earlier that Russia considers the ministerial meeting in Vancouver on North Korea harmful 
+### [Just days after breaking the 25,000-mark, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/just-days-after-breaking-the-25-000-mark-the-dow-jones-industrial-average-reaches-26-000-points.md)
+The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
+
+### [Ministerial negotiations from countries that backed South Korea in the Korean war begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. ](/news/2018/01/16/ministerial-negotiations-from-countries-that-backed-south-korea-in-the-korean-war-begin-today-in-vancouver-that-will-look-at-ways-to-better.md)
+_Context: Korean conflict, Vancouver_
 
 ---
 
