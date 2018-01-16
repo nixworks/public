@@ -9,7 +9,10 @@ Several shots were fired at Oliver Ivanovic outside his office in the northern c
 ### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
 Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.
 
-### [Just days after breaking the 25,000-mark, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/just-days-after-breaking-the-25-000-mark-the-dow-jones-industrial-average-reaches-26-000-points.md)
+### [The European Parliament approves a call to ban electric pulse fishing, seen by some as cruel. ](/news/2018/01/16/the-european-parliament-approves-a-call-to-ban-electric-pulse-fishing-seen-by-some-as-cruel.md)
+_Context: Animal rights, European Parliament, electric pulse fishing_
+
+### [After surpassing the 25,000-mark on January 4, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/after-surpassing-the-25-000-mark-on-january-4-the-dow-jones-industrial-average-reaches-26-000-points.md)
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 ### [Ministerial negotiations from countries that backed South Korea in the Korean war begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. ](/news/2018/01/16/ministerial-negotiations-from-countries-that-backed-south-korea-in-the-korean-war-begin-today-in-vancouver-that-will-look-at-ways-to-better.md)
