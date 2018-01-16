@@ -24,7 +24,7 @@ A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesot
 ### [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md)
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
 
-### [Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/mayon-volcano-begins-to-erupt-in-the-philippines.md)
+### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
 _Context: Mayon, Philippines_
 
 ### [Malaysia upholds death sentences for nine Suluk Filipinos over 2013 incursion by a faction of the Sultanate of Sulu in Sabah. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-suluk-filipinos-over-2013-incursion-by-a-faction-of-the-sultanate-of-sulu-in-sabah.md)
