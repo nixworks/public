@@ -24,6 +24,9 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 ### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
 Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
 
+### [The United States ended a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/26/the-united-states-ended-a-six-year-central-african-hunt-for-joseph-kony.md)
+One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
+
 ### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer whom Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along Anchorage's expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-whom-ritchie-had-tried-to-kill-in-the-fa.md)
 Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
 

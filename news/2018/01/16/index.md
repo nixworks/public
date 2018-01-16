@@ -15,8 +15,8 @@ _Context: Animal rights, European Parliament, electric pulse fishing_
 ### [After surpassing the 25,000-mark on January 4, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/after-surpassing-the-25-000-mark-on-january-4-the-dow-jones-industrial-average-reaches-26-000-points.md)
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
-### [Ministerial negotiations from countries that backed South Korea in the Korean war begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. ](/news/2018/01/16/ministerial-negotiations-from-countries-that-backed-south-korea-in-the-korean-war-begin-today-in-vancouver-that-will-look-at-ways-to-better.md)
-_Context: Korean conflict, Vancouver_
+### [Ministerial negotiations under the chairmanship of Canada and the United States, from countries that backed South Korea in the Korean War begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. According to Russian Foreign Minister Sergey Lavrov, the negotiations are "void of representativeness and a legal value" and so are not effective. A Chinese Foreign Ministry spokesperson approves of Lavrov's statements. ](/news/2018/01/16/ministerial-negotiations-under-the-chairmanship-of-canada-and-the-united-states-from-countries-that-backed-south-korea-in-the-korean-war-be.md)
+Russian Foreign Minister Sergey Lavrov said earlier that Russia considers the ministerial meeting in Vancouver on North Korea harmful 
 
 ## [Previous Day...](/news/2018/01/15/index.md)
 
