@@ -12,7 +12,7 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
 _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
-### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to Venezuelan authorities. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-oscar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
+### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
 ### [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md)

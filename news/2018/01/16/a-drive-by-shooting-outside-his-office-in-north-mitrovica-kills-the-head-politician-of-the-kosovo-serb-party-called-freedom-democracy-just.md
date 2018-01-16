@@ -11,7 +11,8 @@ Several shots were fired at Oliver Ivanovic outside his office in the northern c
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-42701712)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/1545B/production/_99613178_kosivanovicafp.jpg)
+2. [The Washington Post](https://www.washingtonpost.com/national/the-latest-leading-serb-politician-in-kosovo-shot-to-death/2018/01/16/2c026fde-fa9f-11e7-9b5d-bbf0da31214d_story.html?utm_term=.b4ea9d6eec19)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/1545B/production/_99613178_kosivanovicafp.jpg)
 
 ### Related:
 

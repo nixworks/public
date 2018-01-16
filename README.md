@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [A drive-by shooting outside his office in North Mitrovica kills the head politician of the Kosovo Serb party called Freedom, Democracy, Justice, Oliver Ivanovic. In January 2016, European Union judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic Albanians committed in 1999. ](/news/2018/01/16/a-drive-by-shooting-outside-his-office-in-north-mitrovica-kills-the-head-politician-of-the-kosovo-serb-party-called-freedom-democracy-just.md)
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
 
+### [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 2017, was killed in a firefight with the Venezualan army the day before. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-on-june-2017-was-kil.md)
+_Context: Caracas helicopter incident, Oscar Perez, Venezuelan government_
+
 ### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
 Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.
 
@@ -15,7 +18,7 @@ _Context: Animal rights, European Parliament, electric pulse fishing_
 ### [After surpassing the 25,000-mark on January 4, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/after-surpassing-the-25-000-mark-on-january-4-the-dow-jones-industrial-average-reaches-26-000-points.md)
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
-### [Ministerial negotiations under the chairmanship of Canada and the United States, from countries that backed South Korea (then the First Republic of Korea) in the Korean War begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. According to Russian Foreign Minister Sergey Lavrov, the negotiations are "void of representativeness and a legal value" and so are not effective. A Chinese Foreign Ministry spokesperson approves of Lavrov's statements. ](/news/2018/01/16/ministerial-negotiations-under-the-chairmanship-of-canada-and-the-united-states-from-countries-that-backed-south-korea-then-the-first-repu.md)
+### [Ministerial negotiations under the chairmanship of Canada and the United States, from countries that backed South Korea (then the First Republic of Korea) in the Korean War, begin in Vancouver. Participating delegations will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. According to Russian Foreign Minister Sergey Lavrov, the negotiations are "void of representativeness and legal value" and are therefore "not effective". A Chinese Foreign Ministry spokesperson approves of Lavrov's statements. ](/news/2018/01/16/ministerial-negotiations-under-the-chairmanship-of-canada-and-the-united-states-from-countries-that-backed-south-korea-then-the-first-repu.md)
 Russian Foreign Minister Sergey Lavrov said earlier that Russia considers the ministerial meeting in Vancouver on North Korea harmful 
 
 ---
@@ -31,7 +34,7 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
 _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
-### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to Venezuelan authorities. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-oscar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
+### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
 ### [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md)

@@ -16,7 +16,7 @@ _Context: Sam's Club, Walmart, Walmart employee wages, minimum wage_
 South Korea says it&#039;s planning a law to ban cryptocurrencies such as bitcoin being traded through its exchanges, sending prices plummeting.
 
 ### [ The Santa Barbara County Sheriff's Office reports this afternoon that up to 43 people are still missing from Tuesday's mudslides as rescuers continue to search through Montecito's massive debris field; this morning the report had been eight missing. The casualty numbers are expected to rise. ](/news/2018/01/11/the-santa-barbara-county-sheriff-s-office-reports-this-afternoon-that-up-to-43-people-are-still-missing-from-tuesday-s-mudslides-as-rescuer.md)
-_Context: 2018 Southern California landslides, Montecito's, Santa Barbara County Sheriff's Office, mudslides_
+_Context: 2018 Southern California mudflows, Montecito's, Santa Barbara County Sheriff's Office, mudslides_
 
 ### [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md)
 The U.S. Justice Department has set up a team to investigate individuals and organizations providing support to Hezbollah, the Iran-backed Islamist group in Lebanon that the U.S. has branded a terrorist organization, Attorney General Jeff Sessions said on Thursday.
