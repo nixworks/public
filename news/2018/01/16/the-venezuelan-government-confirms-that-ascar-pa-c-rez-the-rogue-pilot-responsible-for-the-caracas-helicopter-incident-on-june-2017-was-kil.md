@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-p
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
-# The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 2017, was killed in a firefight with the Venezualan army the day before. 
+# The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 2017, was killed in a firefight with the Venezualan army on the fifteenth of January. 
 
 
 
