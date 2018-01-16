@@ -30,6 +30,9 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
 _Context: Mayon, Philippines_
 
+### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
+At least nine construction workers were killed and five injured when a partially-constructed bridge collapsed in central Colombia on Monday, an official from the disaster response agency said.
+
 ### [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md)
 _Context: Israel, Israel-Palestine relations, Nabil Shaath, Palestine, Palestinian Central Council_
 
