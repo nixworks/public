@@ -6,11 +6,14 @@ Formats: [HTML](2018/01/15/index.html)  [JSON](2018/01/15/index.json)  [XML](201
 ### [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md)
 The double bombing in a busy square in the heart of the Iraqi capital has injured more than 90.
 
-### [Four Pakistani soldiers are killed in shelling by the Indian army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)
+### [Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. ](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-by-the-indian-army-across-the-disputed-kashmir-frontier.md)
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
-### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born". Syria vows to crush it. Russia says the U.S. "plans a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-syria-vows-to-crush-it-russia.md)
+### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
 _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
+
+### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to Venezuelan authorities. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-oscar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
+The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
 ### [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md)
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
@@ -27,17 +30,29 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
 _Context: Mayon, Philippines_
 
+### [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md)
+_Context: Israel, Israel-Palestine relations, Nabil Shaath, Palestine, Palestinian Central Council_
+
 ### [Malaysia upholds death sentences for nine Suluk Filipinos over 2013 incursion by a faction of the Sultanate of Sulu in Sabah. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-suluk-filipinos-over-2013-incursion-by-a-faction-of-the-sultanate-of-sulu-in-sabah.md)
 A Malaysian court on Monday upheld death sentences handed down to nine men from the Philippines in connection with an 2013 incursion into the Malaysian part of Borneo island by Philippine fighters seeking to stake an ancient claim.
 
 ### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
 A teacher and 11 children were slashed at a school in Perm as two boys fought with knives.
 
-### [Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which had been critical of his drug crackdown. ](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens-to-shut-down-the-online-newspaper-rappler-which-had-been-critical-of-his-drug-crackdown.md)
+### [Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which has been critical of his drug crackdown. ](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens-to-shut-down-the-online-newspaper-rappler-which-has-been-critical-of-his-drug-crackdown.md)
 The outlet, Rappler, known for confronting the president, was said to have broken ownership rules, but industry groups saw an attack on press freedom.
+
+### [Two people are arrested in Perris, California, after 13 people aged between two and 29-years-old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-two-and-29-years-old-are-found-being-held-captive-at-their-house.md)
+Two parents are arrested after police find in their house 13 people who were allegedly held captive.
 
 ### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
+
+### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party (PSD). ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party-psd.md)
+_Context: Mihai Tudose, Politics of Romania, Prime Minister, Romania, Social Democratic Party_
+
+### [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md)
+A top Myanmar official said Monday that a camp to house Rohingya Muslim and Hindu refugees who return from Bangladesh will be ready by its promised deadline next week.
 
 ## [Previous Day...](/news/2018/01/14/index.md)
 

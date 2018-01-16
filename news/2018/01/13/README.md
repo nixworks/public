@@ -30,7 +30,7 @@ India News: The Bar Council of India (BCI) has formed a seven-member delegation 
 ### [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md)
 _Context: Ibrahim Zakzaky, Islamic Movement, Nigeria, Shia, doctor_
 
-### [Three people are injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/three-people-are-injured-in-a-mass-shooting-in-vancouver-canada.md)
+### [Two people are killed and another is injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/two-people-are-killed-and-another-is-injured-in-a-mass-shooting-in-vancouver-canada.md)
 _Context: Vancouver, Canada, mass shooting_
 
 ### [The first round of the presidential election results in a second round that will be held on 26 and 27 January between Milos Zeman and Jiri Drahos. ](/news/2018/01/13/the-first-round-of-the-presidential-election-results-in-a-second-round-that-will-be-held-on-26-and-27-january-between-miloa-zeman-and-jiaa.md)
