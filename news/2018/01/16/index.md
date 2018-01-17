@@ -27,9 +27,6 @@ _Context: Ferrero SpA, Nestle, United States, confectionery_
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.
 
-### [A cable bridge under construction in Colombia collapses, killing 10 construction workers. The victims fell more than 900 feet in the accident. ](/news/2018/01/16/a-cable-bridge-under-construction-in-colombia-collapses-killing-10-construction-workers-the-victims-fell-more-than-900-feet-in-the-acciden.md)
-A 1,500-foot-long structure over a gorge in the Andes threw the workers about 900 feet to their deaths.
-
 ### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
 _Context: 2017-18 North Korea crisis, Korean War_
 

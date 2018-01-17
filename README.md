@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/17/index.md)
 
+### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
+President Macron is understood to have agreed to let it leave France for the first time in 950 years.
+
 ### [In allusion to the decline of democracy and free speech in Southeast Asia, international observers criticize the move by the Philippine government to cancel the operating license of Rappler. ](/news/2018/01/17/in-allusion-to-the-decline-of-democracy-and-free-speech-in-southeast-asia-international-observers-criticize-the-move-by-the-philippine-gove.md)
 In the Philippines, an increasingly autocratic president takes on a tenacious critic of his vicious crackdown on drug abusers.
 
@@ -33,9 +36,6 @@ _Context: Ferrero SpA, Nestle, United States, confectionery_
 
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.
-
-### [A cable bridge under construction in Colombia collapses, killing 10 construction workers. The victims fell more than 900 feet in the accident. ](/news/2018/01/16/a-cable-bridge-under-construction-in-colombia-collapses-killing-10-construction-workers-the-victims-fell-more-than-900-feet-in-the-acciden.md)
-A 1,500-foot-long structure over a gorge in the Andes threw the workers about 900 feet to their deaths.
 
 ### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
 _Context: 2017-18 North Korea crisis, Korean War_
@@ -69,7 +69,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
-_Context: British, Carillion, High Speed 2, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
+_Context: Carillion, High Speed 2, United Kingdom, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
 
 ### [A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md)
 A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesotho could fetch more than $40m and help support the firm&#8217;s under-pressure balance sheet. Shares in GEM gained 13% in early morning trade on the London Stock Exchange. On a 12-month basis, however, the company has lo...
