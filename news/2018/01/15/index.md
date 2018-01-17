@@ -54,7 +54,7 @@ A former Central Intelligence Agency officer was arrested at a U.S. airport on M
 ### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
 
-### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party (PSD). ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party-psd.md)
+### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md)
 _Context: Mihai Tudose, Politics of Romania, Prime Minister, Romania, Social Democratic Party_
 
 ### [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md)

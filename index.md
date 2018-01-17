@@ -6,8 +6,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
 President Macron is understood to have agreed to let it leave France for the first time in 950 years.
 
-### [After talks today, the South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/after-talks-today-the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-ko.md)
-_Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony, talks_
+### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
+_Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
 ### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
 _Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
@@ -113,7 +113,7 @@ A former Central Intelligence Agency officer was arrested at a U.S. airport on M
 ### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
 
-### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party (PSD). ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party-psd.md)
+### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md)
 _Context: Mihai Tudose, Politics of Romania, Prime Minister, Romania, Social Democratic Party_
 
 ### [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md)
