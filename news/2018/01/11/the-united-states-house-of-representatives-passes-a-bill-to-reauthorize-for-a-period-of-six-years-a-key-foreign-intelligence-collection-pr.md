@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/11/the-united-states-house-of-representatives-pass
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
-# The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. 
+# The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. 
 
 
 
