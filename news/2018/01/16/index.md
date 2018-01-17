@@ -36,11 +36,11 @@ _Context: 2017-18 North Korea crisis, Korean War_
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
 
-### [A former U.S. Central Intelligence Agency officer, arrested at New York's Kennedy International Airport Monday night, is ordered held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with detailed information about undercover agents and assets. ](/news/2018/01/16/a-former-u-s-central-intelligence-agency-officer-arrested-at-new-york-s-kennedy-international-airport-monday-night-is-ordered-held-withou.md)
-A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
-
 ### ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md)
 A House committee issued a subpoena to the former chief White House strategist after he said the White House asked him not to answer questions about his tenure.
+
+### [Temperatures sink to -67 degrees Celsius (-88.6 Fahrenheit) in Russia's Yakutia region, four degrees shy of the record low, -71C, recorded in 2013 in Yakutia's village of Oymyakon. ](/news/2018/01/16/temperatures-sink-to-67-degrees-celsius-88-6-fahrenheit-in-russia-s-yakutia-region-four-degrees-shy-of-the-record-low-71c-recorded-i.md)
+MOSCOW: Temperatures reached -67 degrees Celsius in the remote Yakutia region in Russia on Tuesday (Jan 16), the Associated Press (AP) reported. Pictures circulating on social media showed people posing with frozen eyelashes as temperatures reportedly fell to -50 degrees Celsius on Sunday. A video p...
 
 ## [Previous Day...](/news/2018/01/15/index.md)
 

@@ -10,7 +10,7 @@ The double bombing in a busy square in the heart of the Iraqi capital has injure
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
+_Context: Russia's, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
@@ -47,6 +47,9 @@ The outlet, Rappler, known for confronting the president, was said to have broke
 
 ### [Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-2-and-29-years-old-are-found-being-held-captive-at-their-house.md)
 Two parents are arrested after police find in their house 13 people who were allegedly held captive.
+
+### [Jerry Chun Shing Lee, a former U.S. Central Intelligence Agency officer, is arrested at New York's Kennedy International Airport and held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with classified information about undercover agents and assets which he allegedly used to help China identify informants and dismantle a U.S. spying network. ](/news/2018/01/15/jerry-chun-shing-lee-a-former-u-s-central-intelligence-agency-officer-is-arrested-at-new-york-s-kennedy-international-airport-and-held-wi.md)
+A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
 
 ### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022

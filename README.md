@@ -36,11 +36,11 @@ _Context: 2017-18 North Korea crisis, Korean War_
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
 
-### [A former U.S. Central Intelligence Agency officer, arrested at New York's Kennedy International Airport Monday night, is ordered held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with detailed information about undercover agents and assets. ](/news/2018/01/16/a-former-u-s-central-intelligence-agency-officer-arrested-at-new-york-s-kennedy-international-airport-monday-night-is-ordered-held-withou.md)
-A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
-
 ### ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md)
 A House committee issued a subpoena to the former chief White House strategist after he said the White House asked him not to answer questions about his tenure.
+
+### [Temperatures sink to -67 degrees Celsius (-88.6 Fahrenheit) in Russia's Yakutia region, four degrees shy of the record low, -71C, recorded in 2013 in Yakutia's village of Oymyakon. ](/news/2018/01/16/temperatures-sink-to-67-degrees-celsius-88-6-fahrenheit-in-russia-s-yakutia-region-four-degrees-shy-of-the-record-low-71c-recorded-i.md)
+MOSCOW: Temperatures reached -67 degrees Celsius in the remote Yakutia region in Russia on Tuesday (Jan 16), the Associated Press (AP) reported. Pictures circulating on social media showed people posing with frozen eyelashes as temperatures reportedly fell to -50 degrees Celsius on Sunday. A video p...
 
 ---
 
@@ -53,7 +53,7 @@ The double bombing in a busy square in the heart of the Iraqi capital has injure
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
+_Context: Russia's, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
@@ -90,6 +90,9 @@ The outlet, Rappler, known for confronting the president, was said to have broke
 
 ### [Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-2-and-29-years-old-are-found-being-held-captive-at-their-house.md)
 Two parents are arrested after police find in their house 13 people who were allegedly held captive.
+
+### [Jerry Chun Shing Lee, a former U.S. Central Intelligence Agency officer, is arrested at New York's Kennedy International Airport and held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with classified information about undercover agents and assets which he allegedly used to help China identify informants and dismantle a U.S. spying network. ](/news/2018/01/15/jerry-chun-shing-lee-a-former-u-s-central-intelligence-agency-officer-is-arrested-at-new-york-s-kennedy-international-airport-and-held-wi.md)
+A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
 
 ### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
