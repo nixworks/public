@@ -3,14 +3,8 @@ Formats: [HTML](2018/01/16/index.html)  [JSON](2018/01/16/index.json)  [XML](201
 
 ## [2018-01-16](/news/2018/01/16/index.md)
 
-### [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md)
-Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
-
 ### [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from Perez's group were killed, and six members of Perez's group were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md)
 _Context: Caracas helicopter incident, Oscar Perez, Venezuelan Army, Venezuelan government_
-
-### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
-Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.
 
 ### [The European Parliament approves a call to ban electric pulse fishing, seen by some as cruel. ](/news/2018/01/16/the-european-parliament-approves-a-call-to-ban-electric-pulse-fishing-seen-by-some-as-cruel.md)
 _Context: Animal welfare and rights in Europe, European Parliament, electric pulse fishing_
@@ -32,6 +26,12 @@ _Context: 2017-18 North Korea crisis, Korean War_
 
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
+
+### [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md)
+Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
+
+### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
+Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.
 
 ### ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md)
 A House committee issued a subpoena to the former chief White House strategist after he said the White House asked him not to answer questions about his tenure.
