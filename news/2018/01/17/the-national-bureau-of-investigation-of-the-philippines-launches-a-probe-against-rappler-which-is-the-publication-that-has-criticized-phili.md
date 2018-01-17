@@ -10,8 +10,8 @@ Formats: [HTML](/news/2018/01/17/the-national-bureau-of-investigation-of-the-phi
 
 ### Sources:
 
-1. [Reuters](https://in.reuters.com/article/philippines-media/philippines-orders-further-probes-into-news-site-that-angered-duterte-idINKBN1F61IZ)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180117&t=2&i=1222725190&w=1200&r=LYNXMPEE0G0UQ)
+1. [Reuters](https://www.reuters.com/article/us-philippines-media/philippines-orders-further-probes-into-news-site-that-angered-duterte-idUSKBN1F61J1)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20180117&t=2&i=1222723851&w=1200&r=LYNXMPEE0G0UL)
 
 ### Changes:
 

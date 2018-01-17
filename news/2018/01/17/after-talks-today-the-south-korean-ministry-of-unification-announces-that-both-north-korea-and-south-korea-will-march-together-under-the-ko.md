@@ -10,7 +10,7 @@ Formats: [HTML](/news/2018/01/17/after-talks-today-the-south-korean-ministry-of-
 
 ### Sources:
 
-1. [CNN](http://www.cnn.com/2018/01/17/asia/north-south-korea-olympics-flag-intl/index.html)
+1. [CNN](http://edition.cnn.com/2018/01/17/asia/north-south-korea-olympics-flag-intl/index.html)
 
 ### Changes:
 

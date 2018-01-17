@@ -10,8 +10,8 @@ President Macron is understood to have agreed to let it leave France for the fir
 
 ### Sources:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-42713552)
-1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/E06C/production/_99625475_035716367-1.jpg)
+1. [BBC](http://www.bbc.com/news/uk-42713552)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/E06C/production/_99625475_035716367-1.jpg)
 
 ### Related:
 
