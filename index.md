@@ -6,10 +6,13 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
 President Macron is understood to have agreed to let it leave France for the first time in 950 years.
 
-### [The National Bureau of Investigation launches a probe against Rappler, which is the publication the has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-launches-a-probe-against-rappler-which-is-the-publication-the-has-criticized-philippines-president-rod.md)
-_Context: Freedom of the Press, National Bureau of Investigation, Philippines, Rappler, Rodrigo Duterte_
+### [After a new round of peace talks, the South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the Winter Olympics. ](/news/2018/01/17/after-a-new-round-of-peace-talks-the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-togeth.md)
+_Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea_
 
-### [The Parliament of Catalonia opens the new legislature after being dissolved by the application of Article 155 of the Spanish constitution and the direct rule and the call for snap elections. Roger Torrent, separatist from ERC, is named speaker of the Chamber. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-after-being-dissolved-by-the-application-of-article-155-of-the-spanish-constitution-an.md)
+### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
+_Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
+
+### [The Parliament of Catalonia opens the new legislature after being dissolved by the application of Article 155 of the Spanish constitution and the direct rule and the call for snap elections. Roger Torrent, separatist from ERC, is named Speaker of the Chamber. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-after-being-dissolved-by-the-application-of-article-155-of-the-spanish-constitution-an.md)
 The choice of Roger Torrent is the first step to reinstating local government.
 
 ---
@@ -19,7 +22,7 @@ The choice of Roger Torrent is the first step to reinstating local government.
 ### [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md)
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
 
-### [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from the Perez group were killed, and six cell members were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md)
+### [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from Perez's group were killed, and six members of Perez's group were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md)
 _Context: Caracas helicopter incident, Oscar Perez, Venezuelan Army, Venezuelan government_
 
 ### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
@@ -40,7 +43,7 @@ _Context: Ferrero SpA, Nestle, United States, confectionery_
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.
 
-### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
+### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
 _Context: 2017-18 North Korea crisis, Korean War_
 
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
@@ -116,8 +119,8 @@ Bangladesh and Myanmar have agreed that they will try to complete the repatriati
 ### [A group of Californians criticize their state government and declare their desire to form a new U.S. state called New California. ](/news/2018/01/15/a-group-of-californians-criticize-their-state-government-and-declare-their-desire-to-form-a-new-u-s-state-called-new-california.md)
 _Context: New California, Partition and secession in California_
 
-### [Nine out of the twelve members of the U.S. National Park System's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-system-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-secr.md)
-Those leaving say Interior Secretary Ryan Zinke refused to meet with them or convene a board meeting since taking office.
+### [Nine out of the twelve members of the U.S. National Park Service's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-service-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-sec.md)
+The chairman of the board, former Alaska Gov. Tony Knowles, said in a letter that the Department of the Interior showed no interest in engaging with its members.
 
 ---
 

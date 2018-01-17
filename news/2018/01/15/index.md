@@ -63,8 +63,8 @@ Bangladesh and Myanmar have agreed that they will try to complete the repatriati
 ### [A group of Californians criticize their state government and declare their desire to form a new U.S. state called New California. ](/news/2018/01/15/a-group-of-californians-criticize-their-state-government-and-declare-their-desire-to-form-a-new-u-s-state-called-new-california.md)
 _Context: New California, Partition and secession in California_
 
-### [Nine out of the twelve members of the U.S. National Park System's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-system-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-secr.md)
-Those leaving say Interior Secretary Ryan Zinke refused to meet with them or convene a board meeting since taking office.
+### [Nine out of the twelve members of the U.S. National Park Service's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-service-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-sec.md)
+The chairman of the board, former Alaska Gov. Tony Knowles, said in a letter that the Department of the Interior showed no interest in engaging with its members.
 
 ## [Previous Day...](/news/2018/01/14/index.md)
 

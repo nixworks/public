@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-p
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
-# The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from the Perez group were killed, and six cell members were arrested. 
+# The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from Perez's group were killed, and six members of Perez's group were arrested. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-p
 ### Changes:
 
 1. [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 2017, was killed in a firefight with the Venezualan army on the fifteenth of January. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-on-june-2017-was-kil.md) _2018-01-16 21:30:06 (First version)_
-1. [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from the Perez group were killed, and six cell members were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md) _(Current version)_
+1. [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from Perez's group were killed, and six members of Perez's group were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md) _(Current version)_
 
 ### Related:
 
