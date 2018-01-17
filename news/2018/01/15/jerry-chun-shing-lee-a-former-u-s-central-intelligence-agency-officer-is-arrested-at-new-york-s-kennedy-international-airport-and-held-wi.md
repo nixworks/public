@@ -12,9 +12,8 @@ A former Central Intelligence Agency officer was arrested at a U.S. airport on M
 
 1. [Reuters](https://www.reuters.com/article/us-usa-cia-officer/ex-cia-officer-arrested-for-retaining-classified-information-idUSKBN1F52SE)
 2. [The New York Times](https://www.nytimes.com/2018/01/16/us/politics/cia-china-mole-arrest-jerry-chun-shing-lee.html)
-3. [The New York Times²](https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html)
-4. [The Washington Post](https://www.washingtonpost.com/local/public-safety/ex-cia-officer-charged-with-taking-notebooks-full-of-classified-information/2018/01/16/1f629634-fb06-11e7-a46b-a3614530bd87_story.html)
-4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [The Washington Post](https://www.washingtonpost.com/local/public-safety/ex-cia-officer-charged-with-taking-notebooks-full-of-classified-information/2018/01/16/1f629634-fb06-11e7-a46b-a3614530bd87_story.html)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

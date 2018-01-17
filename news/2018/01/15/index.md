@@ -58,7 +58,13 @@ Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indi
 _Context: Mihai Tudose, Politics of Romania, Prime Minister, Romania, Social Democratic Party_
 
 ### [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md)
-A top Myanmar official said Monday that a camp to house Rohingya Muslim and Hindu refugees who return from Bangladesh will be ready by its promised deadline next week.
+Bangladesh and Myanmar have agreed that they will try to complete the repatriation of hundreds of thousands of Rohingya Muslim refugees who fled from violence in Myanmar within two years, Bangladesh&rsquo;s Foreign Ministry said Tuesday.
+
+### [A group of Californians criticize their state government and declare their desire to form a new U.S. state called New California. ](/news/2018/01/15/a-group-of-californians-criticize-their-state-government-and-declare-their-desire-to-form-a-new-u-s-state-called-new-california.md)
+_Context: New California, Partition and secession in California_
+
+### [Nine out of the twelve members of the U.S. National Park System's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-system-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-secr.md)
+Those leaving say Interior Secretary Ryan Zinke refused to meet with them or convene a board meeting since taking office.
 
 ## [Previous Day...](/news/2018/01/14/index.md)
 

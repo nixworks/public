@@ -5,13 +5,13 @@ Formats: [HTML](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfa
 
 # Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. 
 
-A top Myanmar official said Monday that a camp to house Rohingya Muslim and Hindu refugees who return from Bangladesh will be ready by its promised deadline next week.
+Bangladesh and Myanmar have agreed that they will try to complete the repatriation of hundreds of thousands of Rohingya Muslim refugees who fled from violence in Myanmar within two years, Bangladesh&rsquo;s Foreign Ministry said Tuesday.
 
 
 ### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/myanmar-camps-rohingya-ready-week-52350604)
-2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/myanmar-says-1st-camp-for-rohingya-will-be-ready-next-week/2018/01/15/7415cea2-fa58-11e7-9b5d-bbf0da31214d_story.html?utm_term=.9e7d6be80304)
+2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/myanmar-says-1st-camp-for-rohingya-will-be-ready-next-week/2018/01/15/7415cea2-fa58-11e7-9b5d-bbf0da31214d_story.html)
 2. [Cover Image](http://a.abcnews.com/images/International/WireAP_8dbf5070ba774121ad1553edfe15da52_16x9_992.jpg)
 
 ### Related:
