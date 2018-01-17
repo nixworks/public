@@ -12,7 +12,10 @@ _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification
 ### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
 _Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
 
-### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three ERC parlementarians in exile vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont, through his spokesman, considers it "perfectly plausible" for him to be president remotely. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-erc-parlementarians-in-exile-vote-through.md)
+### [Masked arsonists set fire to the office of Memorial, a Russian human rights organization, in Nazran, Ingushetia. ](/news/2018/01/17/masked-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization-in-nazran-ingushetia.md)
+_Context: Ingushetia, Memorial, Nazran, Russia_
+
+### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parlementarians in exile vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parlementarians-in-exile-vote-through-pro.md)
 The choice of Roger Torrent is the first step to reinstating local government.
 
 ## [Previous Day...](/news/2018/01/16/index.md)

@@ -12,7 +12,10 @@ _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification
 ### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
 _Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
 
-### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three ERC parlementarians in exile vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont, through his spokesman, considers it "perfectly plausible" for him to be president remotely. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-erc-parlementarians-in-exile-vote-through.md)
+### [Masked arsonists set fire to the office of Memorial, a Russian human rights organization, in Nazran, Ingushetia. ](/news/2018/01/17/masked-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization-in-nazran-ingushetia.md)
+_Context: Ingushetia, Memorial, Nazran, Russia_
+
+### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parlementarians in exile vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parlementarians-in-exile-vote-through-pro.md)
 The choice of Roger Torrent is the first step to reinstating local government.
 
 ---
@@ -66,7 +69,7 @@ The double bombing in a busy square in the heart of the Iraqi capital has injure
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.
 
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Russia's, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
+_Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey, United States_
 
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
