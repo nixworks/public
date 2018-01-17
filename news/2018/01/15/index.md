@@ -28,7 +28,7 @@ A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesot
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
 
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
-_Context: Mayon, Philippines_
+_Context: Mayon, Philippine_
 
 ### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
 At least nine construction workers were killed and five injured when a partially-constructed bridge collapsed in central Colombia on Monday, an official from the disaster response agency said.
