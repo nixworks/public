@@ -37,7 +37,7 @@ _Context: Animal welfare and rights in Europe, European Parliament, electric pul
 ### [The Church of Jesus Christ of Latter-day Saints (Mormon Church) names Russell M. Nelson as the 17th President of the Church. ](/news/2018/01/16/the-church-of-jesus-christ-of-latter-day-saints-mormon-church-names-russell-m-nelson-as-the-17th-president-of-the-church.md)
 &quot;My brethren of the Quorum of the Twelve Apostles laid hands upon my hands, ordained me, set me apart as president of the church. It was a sacred and humbling experience,&quot; Nelson said Tuesday. 
 
-### [After surpassing the 25,000-mark on January 4, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/after-surpassing-the-25-000-mark-on-january-4-the-dow-jones-industrial-average-reaches-26-000-points.md)
+### [The Dow Jones Industrial Average reaches 26,000 points for the first time, after surpassing the 25,000-mark on January 4. ](/news/2018/01/16/the-dow-jones-industrial-average-reaches-26-000-points-for-the-first-time-after-surpassing-the-25-000-mark-on-january-4.md)
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
