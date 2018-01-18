@@ -3,8 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/17/index.md)
 
-### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
-President Macron is understood to have agreed to let it leave France for the first time in 950 years.
+### [Kidnappers abduct two Americans, two Canadians in Nigeria; two police killed. ](/news/2018/01/17/kidnappers-abduct-two-americans-two-canadians-in-nigeria-two-police-killed.md)
+Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.
+
+### [Suspected Boko Haram suicide bombers kill 12, injure 48. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-injure-48.md)
+Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in an attack on Wednesday on the northeastern Nigerian city of Maiduguri, officials from the State Emergency Management Agency (SEMA) for Borno said.
 
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
@@ -12,7 +15,7 @@ _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification
 ### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
 _Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
 
-### [Masked arsonists set fire to the office of Memorial, a Russian human rights organization, in Nazran, Ingushetia. ](/news/2018/01/17/masked-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization-in-nazran-ingushetia.md)
+### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
 
 ### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md)
@@ -31,7 +34,7 @@ _Context: Animal welfare and rights in Europe, European Parliament, electric pul
 ### [The Church of Jesus Christ of Latter-day Saints (Mormon Church) names Russell M. Nelson as the 17th President of the Church. ](/news/2018/01/16/the-church-of-jesus-christ-of-latter-day-saints-mormon-church-names-russell-m-nelson-as-the-17th-president-of-the-church.md)
 &quot;My brethren of the Quorum of the Twelve Apostles laid hands upon my hands, ordained me, set me apart as president of the church. It was a sacred and humbling experience,&quot; Nelson said Tuesday. 
 
-### [The Dow Jones Industrial Average reaches 26,000 points for the first time, after surpassing the 25,000-mark on January 4. ](/news/2018/01/16/the-dow-jones-industrial-average-reaches-26-000-points-for-the-first-time-after-surpassing-the-25-000-mark-on-january-4.md)
+### [After surpassing the 25,000-mark on January 4, the Dow Jones Industrial Average reaches 26,000 points. ](/news/2018/01/16/after-surpassing-the-25-000-mark-on-january-4-the-dow-jones-industrial-average-reaches-26-000-points.md)
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
@@ -46,7 +49,7 @@ _Context: 2017-18 North Korea crisis, Korean War_
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
 
-### [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md)
+### [A drive-by shooting outside his office in North Mitrovica kills the head politician of the Kosovo Serb party called Freedom, Democracy, Justice, Oliver Ivanovic. In January 2016, European Union judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic Albanians committed in 1999. ](/news/2018/01/16/a-drive-by-shooting-outside-his-office-in-north-mitrovica-kills-the-head-politician-of-the-kosovo-serb-party-called-freedom-democracy-just.md)
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
 
 ### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
@@ -55,7 +58,7 @@ Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive
 ### ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md)
 A House committee issued a subpoena to the former chief White House strategist after he said the White House asked him not to answer questions about his tenure.
 
-### [Temperatures sink to [?]67 C in Russia's Yakutia region, four degrees shy of the record low of [?]71 C recorded in 2013 in Yakutia's village of Oymyakon. ](/news/2018/01/16/temperatures-sink-to-a67-c-in-russia-s-yakutia-region-four-degrees-shy-of-the-record-low-of-a71-c-recorded-in-2013-in-yakutia-s-village.md)
+### [Temperatures reach [?]67 C in Russia's Yakutia region, four degrees shy of the record low of [?]71 C recorded in 2013 in Yakutia's village of Oymyakon. ](/news/2018/01/16/temperatures-reach-a67-c-in-russia-s-yakutia-region-four-degrees-shy-of-the-record-low-of-a71-c-recorded-in-2013-in-yakutia-s-village-o.md)
 MOSCOW: Temperatures reached -67 degrees Celsius in the remote Yakutia region in Russia on Tuesday (Jan 16), the Associated Press (AP) reported. Pictures circulating on social media showed people posing with frozen eyelashes as temperatures reportedly fell to -50 degrees Celsius on Sunday. A video p...
 
 ---
@@ -78,7 +81,7 @@ The ex-policeman is accused of leading an armed rebellion involving a helicopter
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
-_Context: Carillion, High Speed 2, United Kingdom, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
+_Context: British, Carillion, High Speed 2, facilities management, high-speed rail in the United Kingdom, liquidated, multinational_
 
 ### [A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md)
 A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesotho could fetch more than $40m and help support the firm&#8217;s under-pressure balance sheet. Shares in GEM gained 13% in early morning trade on the London Stock Exchange. On a 12-month basis, however, the company has lo...
