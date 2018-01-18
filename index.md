@@ -3,17 +3,20 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/17/index.md)
 
-### [Kidnappers abduct two Americans, two Canadians in Nigeria; two police killed. ](/news/2018/01/17/kidnappers-abduct-two-americans-two-canadians-in-nigeria-two-police-killed.md)
+### [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md)
 Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.
 
-### [Suspected Boko Haram suicide bombers kill 12, injure 48. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-injure-48.md)
+### [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md)
 Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in an attack on Wednesday on the northeastern Nigerian city of Maiduguri, officials from the State Emergency Management Agency (SEMA) for Borno said.
+
+### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets he considers false. CNN is the night's big winner, with four. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-he-considers-false-cnn.md)
+The president highlighted negative coverage he said showed bias.
 
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
-### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
-_Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
+### [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md)
+_Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission_
 
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
@@ -49,7 +52,7 @@ _Context: 2017-18 North Korea crisis, Korean War_
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
 
-### [A drive-by shooting outside his office in North Mitrovica kills the head politician of the Kosovo Serb party called Freedom, Democracy, Justice, Oliver Ivanovic. In January 2016, European Union judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic Albanians committed in 1999. ](/news/2018/01/16/a-drive-by-shooting-outside-his-office-in-north-mitrovica-kills-the-head-politician-of-the-kosovo-serb-party-called-freedom-democracy-just.md)
+### [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md)
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.
 
 ### [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md)
@@ -77,7 +80,7 @@ _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey,
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
-### [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md)
+### [American actress Eliza Dushku claims she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-claims-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md)
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
@@ -104,16 +107,13 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 ### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
 A teacher and 11 children were slashed at a school in Perm as two boys fought with knives.
 
-### [Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which has been critical of his drug crackdown. ](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens-to-shut-down-the-online-newspaper-rappler-which-has-been-critical-of-his-drug-crackdown.md)
-The outlet, Rappler, known for confronting the president, was said to have broken ownership rules, but industry groups saw an attack on press freedom.
-
 ### [Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-2-and-29-years-old-are-found-being-held-captive-at-their-house.md)
 Two parents are arrested after police find in their house 13 people who were allegedly held captive.
 
 ### [Jerry Chun Shing Lee, a former U.S. Central Intelligence Agency officer, is arrested at New York's Kennedy International Airport and held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with classified information about undercover agents and assets which he allegedly used to help China identify informants and dismantle a U.S. spying network. ](/news/2018/01/15/jerry-chun-shing-lee-a-former-u-s-central-intelligence-agency-officer-is-arrested-at-new-york-s-kennedy-international-airport-and-held-wi.md)
 A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
 
-### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
+### [The nephew of assassinated Egyptian president Mohamed Anwar al-Sadat announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/the-nephew-of-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marchas-presidential-election-blam.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
 
 ### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md)

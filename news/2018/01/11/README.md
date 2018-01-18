@@ -24,6 +24,9 @@ The U.S. Justice Department has set up a team to investigate individuals and org
 ### [The United Kingdom, France, and Germany call on U.S. President Donald Trump to endorse the Joint Comprehensive Plan of Action. ](/news/2018/01/11/the-united-kingdom-france-and-germany-call-on-u-s-president-donald-trump-to-endorse-the-joint-comprehensive-plan-of-action.md)
 Britain,&#x20;France&#x20;and&#x20;Germany&#x20;made&#x20;a&#x20;joint&#x20;plea&#x20;to&#x20;Donald&#x20;Trump&#x20;on&#x20;Thursday&#x20;to&#x20;endorse&#x20;a&#x20;key&#x20;nuclear&#x20;deal&#x20;with&#x20;Iran&#x20;as&#x20;the&#x20;US&#x20;president&#x20;mulls&#x20;reimposing&#x20;sanctions&#x20...
 
+### [The Securities and Exchange Commission revokes the license of Rappler over its use of Philippine Depository Receipts (PDRs) issued to Omidyar Network. The commission ruled that the provisions of the PDRs issued by Rappler to Omidyar violates constitutional restrictions on foreign ownership and control of companies. Critics of the administration of President Rodrigo Duterte condemned the move as an "attack on press freedom". ](/news/2018/01/11/the-securities-and-exchange-commission-revokes-the-license-of-rappler-over-its-use-of-philippine-depository-receipts-pdrs-issued-to-omidya.md)
+_Context: Depository Receipts, Media of the Philippines, Omidyar Network, Securities and Exchange Commission_
+
 ### [The rape and murder of six-year-old girl Zainab in Pakistan has sparked outrage across the country. Two people die in protests in Kasur city. ](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab-in-pakistan-has-sparked-outrage-across-the-country-two-people-die-in-protests-in-kasur-city.md)
 _Context: Kasur, Murder of Zainab Ansari, Pakistan_
 

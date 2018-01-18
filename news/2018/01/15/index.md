@@ -15,7 +15,7 @@ _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkey,
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
-### [American actress Eliza Dushku says that a stuntman molested her when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-that-a-stuntman-molested-her-when-she-was-12-years-old.md)
+### [American actress Eliza Dushku claims she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-claims-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md)
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
@@ -42,16 +42,13 @@ A Malaysian court on Monday upheld death sentences handed down to nine men from 
 ### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
 A teacher and 11 children were slashed at a school in Perm as two boys fought with knives.
 
-### [Philippines president Rodrigo Duterte threatens to shut down the online newspaper "Rappler", which has been critical of his drug crackdown. ](/news/2018/01/15/philippines-president-rodrigo-duterte-threatens-to-shut-down-the-online-newspaper-rappler-which-has-been-critical-of-his-drug-crackdown.md)
-The outlet, Rappler, known for confronting the president, was said to have broken ownership rules, but industry groups saw an attack on press freedom.
-
 ### [Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. ](/news/2018/01/15/two-people-are-arrested-in-perris-california-after-13-people-aged-between-2-and-29-years-old-are-found-being-held-captive-at-their-house.md)
 Two parents are arrested after police find in their house 13 people who were allegedly held captive.
 
 ### [Jerry Chun Shing Lee, a former U.S. Central Intelligence Agency officer, is arrested at New York's Kennedy International Airport and held without bail by the Brooklyn federal court. He faces charges that, after he left his job, he kept notebooks filled with classified information about undercover agents and assets which he allegedly used to help China identify informants and dismantle a U.S. spying network. ](/news/2018/01/15/jerry-chun-shing-lee-a-former-u-s-central-intelligence-agency-officer-is-arrested-at-new-york-s-kennedy-international-airport-and-held-wi.md)
 A former Central Intelligence Agency officer was arrested at a U.S. airport on Monday night in connection with charges that he illegally retained highly classified information, the U.S. Justice Department said Tuesday.
 
-### [Mohamed Anwar al-Sadat, the nephew of the assassinated Egyptian president Mohamed Anwar al-Sadat, announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/mohamed-anwar-al-sadat-the-nephew-of-the-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marcha.md)
+### [The nephew of assassinated Egyptian president Mohamed Anwar al-Sadat announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. ](/news/2018/01/15/the-nephew-of-assassinated-egyptian-president-mohamed-anwar-al-sadat-announces-that-he-will-not-run-in-marchas-presidential-election-blam.md)
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
 
 ### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md)

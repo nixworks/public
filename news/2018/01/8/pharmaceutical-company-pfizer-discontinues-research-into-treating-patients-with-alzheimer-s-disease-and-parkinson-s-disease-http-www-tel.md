@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-resea
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
-# Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)"]
+# Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)" ]
 
 
 
@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-resea
 ### Changes:
 
 1. [Pfizer discontinues research into treating Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)"]](/news/2018/01/8/pfizer-discontinues-research-into-treating-alzheimeras-disease-and-parkinson-s-disease-http-www-telegraph-co-uk-science-2018-01-08-hun.md) _2018-01-08 22:30:06 (First version)_
-1. [Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)"]](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-research-into-treating-patients-with-alzheimer-s-disease-and-parkinson-s-disease-http-www-tel.md) _(Current version)_
+1. [Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)" ]](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-research-into-treating-patients-with-alzheimer-s-disease-and-parkinson-s-disease-http-www-tel.md) _(Current version)_
 
 ### Related:
 

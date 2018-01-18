@@ -3,17 +3,20 @@ Formats: [HTML](2018/01/17/index.html)  [JSON](2018/01/17/index.json)  [XML](201
 
 ## [2018-01-17](/news/2018/01/17/index.md)
 
-### [Kidnappers abduct two Americans, two Canadians in Nigeria; two police killed. ](/news/2018/01/17/kidnappers-abduct-two-americans-two-canadians-in-nigeria-two-police-killed.md)
+### [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md)
 Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.
 
-### [Suspected Boko Haram suicide bombers kill 12, injure 48. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-injure-48.md)
+### [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md)
 Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in an attack on Wednesday on the northeastern Nigerian city of Maiduguri, officials from the State Emergency Management Agency (SEMA) for Borno said.
+
+### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets he considers false. CNN is the night's big winner, with four. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-he-considers-false-cnn.md)
+The president highlighted negative coverage he said showed bias.
 
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
-### [The National Bureau of Investigation of the Philippines launches a probe against Rappler, which is the publication that has criticized Philippines president Rodrigo Duterte. ](/news/2018/01/17/the-national-bureau-of-investigation-of-the-philippines-launches-a-probe-against-rappler-which-is-the-publication-that-has-criticized-phili.md)
-_Context: Freedom of the press, National Bureau of Investigation of the Philippines, Philippines, Rappler, Rodrigo Duterte_
+### [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md)
+_Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission_
 
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
