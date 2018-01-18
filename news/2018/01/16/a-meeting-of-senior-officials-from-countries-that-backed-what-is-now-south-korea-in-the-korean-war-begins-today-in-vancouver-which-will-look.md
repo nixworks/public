@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-th
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
-# A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia will not be attending the meeting. 
+# A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-th
 
 1. [Ministerial negotiations from countries that backed South Korea in the Korean war begin today in Vancouver that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. ](/news/2018/01/16/ministerial-negotiations-from-countries-that-backed-south-korea-in-the-korean-war-begin-today-in-vancouver-that-will-look-at-ways-to-better.md) _2018-01-16 17:30:07 (First version)_
 2. [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending and have criticized the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md) _2018-01-17 00:30:06 (Update)_
-2. [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md) _(Current version)_
+2. [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md) _(Current version)_
 
 ### Related:
 

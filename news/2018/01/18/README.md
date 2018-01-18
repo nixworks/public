@@ -12,7 +12,7 @@ Five people survived the accident on the bus, thought to have been carrying many
 ### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, allegedly for smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-allegedly-for-smuggling-1-280-kg-of-cocaine-into-s.md)
 Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
 
-### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-john-barilaro-the-deputy-premier.md)
+### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md)
 A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped an safety device to distressed teens caught in rough seas.
 
 ## [Previous Day...](/news/2018/01/17/index.md)

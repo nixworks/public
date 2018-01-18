@@ -12,7 +12,7 @@ Five people survived the accident on the bus, thought to have been carrying many
 ### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, allegedly for smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-allegedly-for-smuggling-1-280-kg-of-cocaine-into-s.md)
 Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
 
-### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-john-barilaro-the-deputy-premier.md)
+### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md)
 A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped an safety device to distressed teens caught in rough seas.
 
 ---
@@ -62,7 +62,7 @@ _Context: Ferrero SpA, Nestle, United States, confectionery_
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.
 
-### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
+### [A meeting of senior officials from countries that backed what is now South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-what-is-now-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look.md)
 _Context: 2017-18 North Korea crisis, Korean War_
 
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
