@@ -101,7 +101,7 @@ At least nine construction workers were killed and five injured when a partially
 ### [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md)
 _Context: Israel, Israel-Palestine relations, Nabil Shaath, Palestine, Palestinian Central Council_
 
-### [Malaysia upholds death sentences for nine Suluk Filipinos over 2013 incursion by a faction of the Sultanate of Sulu in Sabah. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-suluk-filipinos-over-2013-incursion-by-a-faction-of-the-sultanate-of-sulu-in-sabah.md)
+### [Malaysia upholds death sentences for nine Filipino Tausugs over 2013 incursion in Sabah by a faction of claimant to the Sultanate of Sulu throne. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipino-tausa-gs-over-2013-incursion-in-sabah-by-a-faction-of-claimant-to-the-sultanate-of-sulu-t.md)
 A Malaysian court on Monday upheld death sentences handed down to nine men from the Philippines in connection with an 2013 incursion into the Malaysian part of Borneo island by Philippine fighters seeking to stake an ancient claim.
 
 ### [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md)
