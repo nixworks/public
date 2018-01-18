@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Emirates airline has announced an order for up to 36 Airbus A380s.](/news/2018/01/18/the-emirates-airline-has-announced-an-order-for-up-to-36-airbus-a380s.md)
 A big order from Emirates airline saves the A380 after Airbus threatened to stop making the plane.
 
+### [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing at least 52 people. At least five people managed to escape and have been treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-at-least-52-people-at-least-five-people-managed-to.md)
+Five people survived the accident on the bus, thought to have been carrying many Uzbek nationals.
+
 ---
 
 ## [Yesterday](/news/2018/01/17/index.md)
@@ -18,6 +21,9 @@ Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in a
 
 ### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets he considers false. CNN is the night's big winner, with four. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-he-considers-false-cnn.md)
 The president highlighted negative coverage he said showed bias.
+
+### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
+President Macron is understood to have agreed to let it leave France for the first time in 950 years.
 
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
