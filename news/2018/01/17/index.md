@@ -15,8 +15,8 @@ The president highlighted negative coverage he said showed bias.
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
-### [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md)
-_Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission_
+### [Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-of-the-philippines-revocation-of-rappler-s-license-the-national-bureau-of-investigation-o.md)
+_Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission of the Philippines_
 
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_

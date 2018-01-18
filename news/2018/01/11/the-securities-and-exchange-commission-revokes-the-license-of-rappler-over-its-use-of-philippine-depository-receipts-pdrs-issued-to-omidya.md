@@ -16,5 +16,5 @@ Formats: [HTML](/news/2018/01/11/the-securities-and-exchange-commission-revokes-
 
 ### Related:
 
-1. [Following the Securities and Exchange Commission revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-revocation-of-rappler-s-license-the-national-bureau-of-investigation-of-the-philippines-la.md) _Context: Media of the Philippines, Securities and Exchange Commission_
+1. [Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-of-the-philippines-revocation-of-rappler-s-license-the-national-bureau-of-investigation-o.md) _Context: Media of the Philippines, Securities and Exchange Commission of the Philippines_
 2. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: Media of the Philippines_
