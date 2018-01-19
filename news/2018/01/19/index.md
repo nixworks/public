@@ -27,8 +27,11 @@ _Context: Communist Party of China, Politics of China, Xi Jinping Thought, party
 ### [Presenting a new national defense strategy, the United States Secretary of Defense, Jim Mattis, says terrorism is no longer the focus of the national security of the United States. Now it is competition between great powers. ](/news/2018/01/19/presenting-a-new-national-defense-strategy-the-united-states-secretary-of-defense-jim-mattis-says-terrorism-is-no-longer-the-focus-of-the.md)
 The defence secretary says competition between great powers is now the primary focus.
 
-### [Prime Minister Theresa May rejects Foreign Secretary Boris Johnson's idea of building a road bridge between France and the United Kingdom. ](/news/2018/01/19/prime-minister-theresa-may-rejects-foreign-secretary-boris-johnson-s-idea-of-building-a-road-bridge-between-france-and-the-united-kingdom.md)
+### [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md)
 Boris Johnson reportedly said a crossing to connect the U.K. and France should be built across the English Channel.
+
+### [Carl Higbie, Corporation for National and Community Service Chief of External Affairs, apologizes and resigns from his position with the agency that runs AmeriCorps after racist and anti-Muslim remarks he made in 2013 are reported by CNN. ](/news/2018/01/19/carl-higbie-corporation-for-national-and-community-service-chief-of-external-affairs-apologizes-and-resigns-from-his-position-with-the-age.md)
+Carl Higbie, appointed by President Trump to serve in the agency that runs AmericCorps, has apologized for remarks that derided black people, Muslims and other groups.
 
 ## [Previous Day...](/news/2018/01/18/index.md)
 

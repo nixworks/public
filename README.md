@@ -27,8 +27,11 @@ _Context: Communist Party of China, Politics of China, Xi Jinping Thought, party
 ### [Presenting a new national defense strategy, the United States Secretary of Defense, Jim Mattis, says terrorism is no longer the focus of the national security of the United States. Now it is competition between great powers. ](/news/2018/01/19/presenting-a-new-national-defense-strategy-the-united-states-secretary-of-defense-jim-mattis-says-terrorism-is-no-longer-the-focus-of-the.md)
 The defence secretary says competition between great powers is now the primary focus.
 
-### [Prime Minister Theresa May rejects Foreign Secretary Boris Johnson's idea of building a road bridge between France and the United Kingdom. ](/news/2018/01/19/prime-minister-theresa-may-rejects-foreign-secretary-boris-johnson-s-idea-of-building-a-road-bridge-between-france-and-the-united-kingdom.md)
+### [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md)
 Boris Johnson reportedly said a crossing to connect the U.K. and France should be built across the English Channel.
+
+### [Carl Higbie, Corporation for National and Community Service Chief of External Affairs, apologizes and resigns from his position with the agency that runs AmeriCorps after racist and anti-Muslim remarks he made in 2013 are reported by CNN. ](/news/2018/01/19/carl-higbie-corporation-for-national-and-community-service-chief-of-external-affairs-apologizes-and-resigns-from-his-position-with-the-age.md)
+Carl Higbie, appointed by President Trump to serve in the agency that runs AmericCorps, has apologized for remarks that derided black people, Muslims and other groups.
 
 ---
 
@@ -61,6 +64,9 @@ Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in a
 
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
+
+### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
+President Macron is understood to have agreed to let it leave France for the first time in 950 years.
 
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_

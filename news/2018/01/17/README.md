@@ -12,6 +12,9 @@ Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in a
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
 
+### [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md)
+President Macron is understood to have agreed to let it leave France for the first time in 950 years.
+
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
