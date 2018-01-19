@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/17/index.html)  [JSON](2018/01/17/index.json)  [XML](201
 
 ## [2018-01-17](/news/2018/01/17/index.md)
 
+### [Zimbabwean politician Roy Bennett is killed in a helicopter crash near Raton, New Mexico, United States. ](/news/2018/01/17/zimbabwean-politician-roy-bennett-is-killed-in-a-helicopter-crash-near-raton-new-mexico-united-states.md)
+_Context: 2018 Sapphire Aviation Bell UH-1H Iroquois crash, Raton, New Mexico, Roy Bennett_
+
 ### [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md)
 Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.
 

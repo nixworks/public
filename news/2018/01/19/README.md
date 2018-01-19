@@ -3,9 +3,6 @@ Formats: [HTML](2018/01/19/index.html)  [JSON](2018/01/19/index.json)  [XML](201
 
 ## [2018-01-19](/news/2018/01/19/index.md)
 
-### [Six high school students in Ulan-Ude, Russia, are wounded after a teenager attacked them with an axe. He then tried to kill himself by lighting a firebomb, but was arrested. ](/news/2018/01/19/six-high-school-students-in-ulan-ude-russia-are-wounded-after-a-teenager-attacked-them-with-an-axe-he-then-tried-to-kill-himself-by-light.md)
-_Context: Russia, Ulan-Ude, firebomb_
-
 ### [With a cross-border artillery bombardment into the Afrin area, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-area-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdish.md)
 _Context: Afrin, Afrin offensive, Syrian Civil War, Syrian Kurdish, Turkey, YPG_
 

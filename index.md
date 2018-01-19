@@ -3,9 +3,6 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/19/index.md)
 
-### [Six high school students in Ulan-Ude, Russia, are wounded after a teenager attacked them with an axe. He then tried to kill himself by lighting a firebomb, but was arrested. ](/news/2018/01/19/six-high-school-students-in-ulan-ude-russia-are-wounded-after-a-teenager-attacked-them-with-an-axe-he-then-tried-to-kill-himself-by-light.md)
-_Context: Russia, Ulan-Ude, firebomb_
-
 ### [With a cross-border artillery bombardment into the Afrin area, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-area-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdish.md)
 _Context: Afrin, Afrin offensive, Syrian Civil War, Syrian Kurdish, Turkey, YPG_
 
@@ -55,6 +52,9 @@ A pair of Australian swimmers on Thursday became the first people to be rescued 
 ---
 
 ## [Day Before Yesterday](/news/2018/01/17/index.md)
+
+### [Zimbabwean politician Roy Bennett is killed in a helicopter crash near Raton, New Mexico, United States. ](/news/2018/01/17/zimbabwean-politician-roy-bennett-is-killed-in-a-helicopter-crash-near-raton-new-mexico-united-states.md)
+_Context: 2018 Sapphire Aviation Bell UH-1H Iroquois crash, Raton, New Mexico, Roy Bennett_
 
 ### [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md)
 Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.
