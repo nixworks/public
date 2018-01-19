@@ -16,10 +16,13 @@ _Context: Animal welfare and rights in Europe, European Parliament, electric pul
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
-_Context: Ferrero SpA, Nestle, United States, confectionery_
+_Context: America, Ferrero SpA, Nestle, confectionery_
 
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.
+
+### [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/16/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md)
+_Context: 2017-18 North Korea crisis, Korean War_
 
 ### [The United States will withhold $65 million for Palestinian aid paid via the United Nations Relief and Welfare Agency stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. ](/news/2018/01/16/the-united-states-will-withhold-65-million-for-palestinian-aid-paid-via-the-united-nations-relief-and-welfare-agency-stating-that-unrwa-nee.md)
 The United States on Tuesday said it would withhold about half the initial aid it planned to give a U.N. agency that serves the Palestinians, two weeks after President Donald Trump questioned the value of such funding.
