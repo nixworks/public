@@ -21,7 +21,7 @@ _Context: Freedom of the press, Media of the Philippines, National Bureau of Inv
 ### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md)
 The choice of Roger Torrent is the first step to reinstating local government.
 
-### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that have been misreported. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-that-have-been-misreport.md)
+### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that he considers misreported. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-that-he-considers-misrep.md)
 The president highlighted negative coverage he said showed bias.
 
 ## [Previous Day...](/news/2018/01/16/index.md)
