@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-killed
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
-#  Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. 
+# Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. 
 
 
 
