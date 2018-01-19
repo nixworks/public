@@ -21,3 +21,4 @@ Venezuela&#039;s cryptocurrency will launch within days and be backed by 5.3 bil
 ### Related:
 
 1. [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md) _Context: Petro, cryptocurrency_
+2. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: cryptocurrency_

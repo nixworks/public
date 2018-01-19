@@ -12,9 +12,6 @@ Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in a
 ### [In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. ](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-office-of-memorial-a-russian-human-rights-organization.md)
 _Context: Ingushetia, Insurgency in the North Caucasus, Memorial, Nazran, Russia_
 
-### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that have been misreported. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-that-have-been-misreport.md)
-The president highlighted negative coverage he said showed bias.
-
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
@@ -23,6 +20,9 @@ _Context: Freedom of the press, Media of the Philippines, National Bureau of Inv
 
 ### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md)
 The choice of Roger Torrent is the first step to reinstating local government.
+
+### [Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that have been misreported. The link also honors ten ways the President "has been getting results" thus far. ](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-national-committee-s-fake-news-awards-won-by-ten-stories-and-tweets-that-have-been-misreport.md)
+The president highlighted negative coverage he said showed bias.
 
 ## [Previous Day...](/news/2018/01/16/index.md)
 
