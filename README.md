@@ -6,6 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [ Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the.md)
 _Context: Brazil, Copacabana Beach, Rio de Janeiro, epileptic seizure_
 
+### [A teenager attacked 6 students at a school before setting the school on fire. ](/news/2018/01/19/a-teenager-attacked-6-students-at-a-school-before-setting-the-school-on-fire.md)
 ---
 
 ## [Yesterday](/news/2018/01/18/index.md)
