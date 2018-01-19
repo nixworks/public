@@ -6,7 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [ Fifteen people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the.md)
 _Context: Brazil, Copacabana Beach, Rio de Janeiro, epileptic seizure_
 
-### [A teenager attacked 6 students at a school before setting the school on fire. ](/news/2018/01/19/a-teenager-attacked-6-students-at-a-school-before-setting-the-school-on-fire.md)
+### [Six high school students in Russia are wounded after a teenager attacked them with an ax. He then tried to kill himself by lighting a firebomb, but was arrested. ](/news/2018/01/19/six-high-school-students-in-russia-are-wounded-after-a-teenager-attacked-them-with-an-ax-he-then-tried-to-kill-himself-by-lighting-a-firebo.md)
+_Context: Russia, firebomb_
+
 ---
 
 ## [Yesterday](/news/2018/01/18/index.md)
@@ -17,11 +19,11 @@ A big order from Emirates airline saves the A380 after Airbus threatened to stop
 ### [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-52-people-five-people-escape-and-are-treated-by-re.md)
 Five people survived the accident on the bus, thought to have been carrying many Uzbek nationals.
 
-### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)
-Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
-
 ### [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md)
 _Context: Emmanuel Macron, Royal Military Academy Sandhurst, Theresa May_
+
+### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)
+Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
 
 ### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md)
 A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped an safety device to distressed teens caught in rough seas.
