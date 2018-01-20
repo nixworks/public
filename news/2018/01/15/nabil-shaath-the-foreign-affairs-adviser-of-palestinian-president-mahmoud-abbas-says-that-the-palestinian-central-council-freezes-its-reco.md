@@ -5,13 +5,13 @@ Formats: [HTML](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-pal
 
 # Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. 
 
-
+A US move to recognise Jerusalem as Israel&#39;s capital would mean the end of President Donald Trump&#39;s peace efforts on the Israeli-Palestinian conflict, a senior Palestinian official warned Tuesday.
 
 
 ### Sources:
 
-1. [Sputnik](https://sputniknews.com/middleeast/201801161060777320-palestine-pcc-israel-recognition-freeze/)
-1. [Cover Image](https://cdn1.img.sputniknews.com/images/101333/85/1013338552.jpg)
+1. [Gulf News](http://www.gulf-times.com/story/573704/US-Jerusalem-recognition-would-end-Trump-peace-pus)
+1. [Cover Image](http://img.gulf-times.com/Content/Upload/Slider/1220175183116882907910.jpg)
 
 ### Related:
 
