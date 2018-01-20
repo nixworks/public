@@ -22,7 +22,7 @@ _Context: Cuba-United States relations, Health-related incidents at the United S
 Move comes as King Salman decrees a series of financial payouts to ease the cost of living.
 
 ### [Thousands of government supporters demonstrate across Iran for the fourth consecutive day. ](/news/2018/01/6/thousands-of-government-supporters-demonstrate-across-iran-for-the-fourth-consecutive-day.md)
-_Context: 2017-18 Iranian protests, demonstrate across Iran_
+Hundreds of Iranians held rallies on Saturday in support of the anti-government protests in Iran, in cities including Washington, D.C., Stockholm, London, Paris and Berlin.
 
 ### [After the Venezuelan government orders shops to lower prices, hundreds of people line up to take advantage of these price cuts. ](/news/2018/01/6/after-the-venezuelan-government-orders-shops-to-lower-prices-hundreds-of-people-line-up-to-take-advantage-of-these-price-cuts.md)
 _Context: Crisis in Venezuela (2012-present)_

@@ -21,6 +21,9 @@ President Macron is understood to have agreed to let it leave France for the fir
 ### [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md)
 _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification, North Korea, North Korea-South Korea relations, South Korea, opening ceremony_
 
+### [The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. ](/news/2018/01/17/the-u-s-department-of-homeland-security-discontinues-the-eligibility-of-citizens-of-belize-haiti-and-samoa-to-obtain-h-2a-and-h-2b-visas.md)
+Haitians will no longer be eligible for U.S. visas given to low-skilled workers, the Trump administration said on Wednesday, bringing an end to a small-scale effort to employ Haitians in the United States after a catastrophic 2010 earthquake.
+
 ### [Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-of-the-philippines-revocation-of-rappler-s-license-the-national-bureau-of-investigation-o.md)
 _Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission of the Philippines_
 
