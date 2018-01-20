@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-
 
 ### [2018-01-20](/news/2018/01/20/index.md)
 
-# A bus crash in Turkey's northwestern Eskisehir Province, kills at least eleven people and injures 46 others. 
+# A bus crash in Turkey's northwestern Eskisehir Province kills at least eleven people and injures 46 others. 
 
 The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
 

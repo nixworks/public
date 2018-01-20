@@ -12,7 +12,7 @@ _Context: Afghanistan, Intercontinental Hotel, Kabul_
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
 The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.
 
-### [A bus crash in Turkey's northwestern Eskisehir Province, kills at least eleven people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-eleven-people-and-injures-46-others.md)
+### [A bus crash in Turkey's northwestern Eskisehir Province kills at least eleven people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-eleven-people-and-injures-46-others.md)
 The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
 
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
