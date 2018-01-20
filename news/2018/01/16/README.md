@@ -16,7 +16,7 @@ _Context: Animal welfare and rights in Europe, European Parliament, electric pul
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.
 
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
-_Context: America, Ferrero SpA, Nestle, confectionery_
+_Context: Ferrero SpA, Nestle, United States, confectionery_
 
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.

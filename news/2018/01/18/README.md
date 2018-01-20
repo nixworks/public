@@ -3,9 +3,6 @@ Formats: [HTML](2018/01/18/index.html)  [JSON](2018/01/18/index.json)  [XML](201
 
 ## [2018-01-18](/news/2018/01/18/index.md)
 
-### [Thousands of African Americans move from America to Africa due to perceived racism. ](/news/2018/01/18/thousands-of-african-americans-move-from-america-to-africa-due-to-perceived-racism.md)
-African-Americans are returning to the lands of their ancestors as life becomes precarious and dangerous in the USA.
-
 ### [The Emirates airline announces an order for up to 36 Airbus A380s. Emirates is already the aircraft's largest operator, with a fleet of over 100. ](/news/2018/01/18/the-emirates-airline-announces-an-order-for-up-to-36-airbus-a380s-emirates-is-already-the-aircraft-s-largest-operator-with-a-fleet-of-over.md)
 A big order from Emirates airline saves the A380 after Airbus threatened to stop making the plane.
 

@@ -12,10 +12,10 @@ _Context: Fleury-Merogis prison, French police, prison guards_
 ### [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md)
 A protest for press freedom set to be staged in Quezon City on Friday evening is a testament that freedom and democracy are alive in the country, Malacañang said. 
 
-### [15 people are injured and an infant killed after a car hit a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report the driver had an epileptic seizure. ](/news/2018/01/19/15-people-are-injured-and-an-infant-killed-after-a-car-hit-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil-the-polic.md)
+### [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md)
 _Context: Brazil, Copacabana Beach, Rio de Janeiro, epileptic seizure_
 
-### [The bodies of 10 Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. ](/news/2018/01/19/the-bodies-of-10-syrian-men-are-found-after-a-snowstorm-on-the-lebanonasyria-border-the-lebanese-army-says-they-tried-to-enter-lebanon-il.md)
+### [The bodies of ten Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. ](/news/2018/01/19/the-bodies-of-ten-syrian-men-are-found-after-a-snowstorm-on-the-lebanonasyria-border-the-lebanese-army-says-they-tried-to-enter-lebanon-i.md)
 The bodies of nine people were found Friday along a snow-covered smuggling route near the Masnaa border crossing between Lebanon and Syria, a Lebanese Army statement said.
 
 ### [Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. ](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of-china-proposes-writing-the-xi-jinping-thought-into-the-state-constitution-after-it-was-a.md)
