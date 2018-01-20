@@ -33,5 +33,8 @@ Boris Johnson reportedly said a crossing to connect the U.K. and France should b
 ### [Carl Higbie, Corporation for National and Community Service Chief of External Affairs, apologizes and resigns from his position with the agency that runs AmeriCorps after racist and anti-Muslim remarks he made in 2013 are reported by CNN. ](/news/2018/01/19/carl-higbie-corporation-for-national-and-community-service-chief-of-external-affairs-apologizes-and-resigns-from-his-position-with-the-age.md)
 Carl Higbie, appointed by President Trump to serve in the agency that runs AmericCorps, has apologized for remarks that derided black people, Muslims and other groups.
 
+### [An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. ](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fourth-sbirs-satellite-for-the-united-states-air-force-this-launch-completes-the-geosynchronous.md)
+_Context: Atlas V, SBIRS, United States Air Force, geosynchronous_
+
 ## [Previous Day...](/news/2018/01/18/index.md)
 

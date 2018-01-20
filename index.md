@@ -6,11 +6,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in the Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-the-idlib-governorate.md)
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
 
+### [Gunmen launch an attack on the Intercontinental Hotel in the Afghanistan capital of Kabul. ](/news/2018/01/20/gunmen-launch-an-attack-on-the-intercontinental-hotel-in-the-afghanistan-capital-of-kabul.md)
+_Context: Afghanistan, Intercontinental Hotel, Kabul_
+
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
 The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.
 
 ### [A bus crash in Turkey's northwestern Eskisehir Province, kills at least eleven people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-eleven-people-and-injures-46-others.md)
 The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
+
+### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
+China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 
 ---
 
@@ -46,6 +52,9 @@ Boris Johnson reportedly said a crossing to connect the U.K. and France should b
 ### [Carl Higbie, Corporation for National and Community Service Chief of External Affairs, apologizes and resigns from his position with the agency that runs AmeriCorps after racist and anti-Muslim remarks he made in 2013 are reported by CNN. ](/news/2018/01/19/carl-higbie-corporation-for-national-and-community-service-chief-of-external-affairs-apologizes-and-resigns-from-his-position-with-the-age.md)
 Carl Higbie, appointed by President Trump to serve in the agency that runs AmericCorps, has apologized for remarks that derided black people, Muslims and other groups.
 
+### [An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. ](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fourth-sbirs-satellite-for-the-united-states-air-force-this-launch-completes-the-geosynchronous.md)
+_Context: Atlas V, SBIRS, United States Air Force, geosynchronous_
+
 ---
 
 ## [Day Before Yesterday](/news/2018/01/18/index.md)
@@ -58,9 +67,6 @@ Five people survived the accident on the bus, thought to have been carrying many
 
 ### [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md)
 _Context: Emmanuel Macron, Royal Military Academy Sandhurst, Theresa May_
-
-### [Thousands of African Americans move from America to Africa due to perceived racism. ](/news/2018/01/18/thousands-of-african-americans-move-from-america-to-africa-due-to-perceived-racism.md)
-African-Americans are returning to the lands of their ancestors as life becomes precarious and dangerous in the USA.
 
 ### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)
 Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
