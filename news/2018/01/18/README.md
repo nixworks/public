@@ -12,6 +12,9 @@ Five people survived the accident on the bus, thought to have been carrying many
 ### [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md)
 _Context: Emmanuel Macron, Royal Military Academy Sandhurst, Theresa May_
 
+### [Thousands of African Americans move from America to Africa due to perceived racism. ](/news/2018/01/18/thousands-of-african-americans-move-from-america-to-africa-due-to-perceived-racism.md)
+African-Americans are returning to the lands of their ancestors as life becomes precarious and dangerous in the USA.
+
 ### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)
 Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
 
