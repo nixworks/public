@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-s
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
-# A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge between France and the United Kingdom. 
+# A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge across the English Channel between France and the United Kingdom. 
 
 Boris Johnson reportedly said a crossing to connect the U.K. and France should be built across the English Channel.
 
