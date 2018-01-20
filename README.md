@@ -25,6 +25,9 @@ _Context: Brazil, Copacabana Beach, Rio de Janeiro, epileptic seizure_
 ### [The bodies of ten Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. ](/news/2018/01/19/the-bodies-of-ten-syrian-men-are-found-after-a-snowstorm-on-the-lebanonasyria-border-the-lebanese-army-says-they-tried-to-enter-lebanon-i.md)
 The bodies of nine people were found Friday along a snow-covered smuggling route near the Masnaa border crossing between Lebanon and Syria, a Lebanese Army statement said.
 
+### [Sudan's National Intelligence and Security Service arrests 7 journalists who were covering this week's economic protests in Khartoum. The charges are unclear. ](/news/2018/01/19/sudan-s-national-intelligence-and-security-service-arrests-7-journalists-who-were-covering-this-week-s-economic-protests-in-khartoum-the-ch.md)
+The arrests of seven reporters covering economic protests reflect what advocacy groups call increasingly harsh censorship in the vast African country.
+
 ### [Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. ](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of-china-proposes-writing-the-xi-jinping-thought-into-the-state-constitution-after-it-was-a.md)
 _Context: Communist Party of China, Politics of China, Xi Jinping Thought, party constitution, state constitution_
 

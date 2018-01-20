@@ -25,7 +25,7 @@ _Context: 2018 Winter Olympics, Korean Unification Flag, Ministry of Unification
 Haitians will no longer be eligible for U.S. visas given to low-skilled workers, the Trump administration said on Wednesday, bringing an end to a small-scale effort to employ Haitians in the United States after a catastrophic 2010 earthquake.
 
 ### [Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. ](/news/2018/01/17/following-the-securities-and-exchange-commission-of-the-philippines-revocation-of-rappler-s-license-the-national-bureau-of-investigation-o.md)
-_Context: Freedom of the press, Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission of the Philippines_
+_Context: Media of the Philippines, National Bureau of Investigation of the Philippines, Rappler, Securities and Exchange Commission of the Philippines, covering_
 
 ### [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md)
 The choice of Roger Torrent is the first step to reinstating local government.
