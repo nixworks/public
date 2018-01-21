@@ -36,5 +36,8 @@ Carl Higbie, appointed by President Trump to serve in the agency that runs Ameri
 ### [An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. ](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fourth-sbirs-satellite-for-the-united-states-air-force-this-launch-completes-the-geosynchronous.md)
 _Context: Atlas V, SBIRS, United States Air Force, geosynchronous_
 
+### [Twitter announces it is notifying 677,775 people in the U.S. that they had some contact with the Kremlin-linked troll farm, Internet Research Agency, during the 2016 election period. The count of Russian-linked bot accounts is now 50,258, the company having identified an additional 13,512 bot accounts since its November Congressional briefing. ](/news/2018/01/19/twitter-announces-it-is-notifying-677-775-people-in-the-u-s-that-they-had-some-contact-with-the-kremlin-linked-troll-farm-internet-researc.md)
+Twitter offered several examples of Internet Research Agency content, including tweets with pro-Donald Trump images and slogans.
+
 ## [Previous Day...](/news/2018/01/18/index.md)
 
