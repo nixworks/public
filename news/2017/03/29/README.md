@@ -3,7 +3,7 @@ Formats: [HTML](2017/03/29/index.html)  [JSON](2017/03/29/index.json)  [XML](201
 
 ## [2017-03-29](/news/2017/03/29/index.md)
 
-### [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." My fandom is the best [?] [?] [?] ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md)
+### [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md)
 Turkey&#39;s prime minister has announced an end to the operation known as &quot;Euphrates Shield.&quot; The offensive was launched last summer as part of the fight against the so-called &quot;Islamic State.&quot;
 
 ### [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md)

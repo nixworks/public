@@ -3,8 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/21/index.md)
 
-### [Gunmen kill at least 18 people in the 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they deployed 5 suicide bombers armed with hand grenades and AK-47 assault rifles. ](/news/2018/01/21/gunmen-kill-at-least-18-people-in-the-13-hour-gun-battle-the-afghan-interior-ministry-says-that-the-siege-ended-when-the-last-gunman-was-sh.md)
+### [Three gunmen kill at least 18 people, 4 Afghans and 14 foreigners, in the 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they deployed 5 suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Haqqani network. ](/news/2018/01/21/three-gunmen-kill-at-least-18-people-4-afghans-and-14-foreigners-in-the-13-hour-gun-battle-the-afghan-interior-ministry-says-that-the-sie.md)
 At least fourteen foreigners and four Afghans were killed after gunmen attacked the Intercontinental Hotel in Kabul, a spokesman for the Interior Ministry said.
+
+### [President of Turkey Erdogan announces that Turkish Army ground troops entered the territory of Afrin in Syria. Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/president-of-turkey-erdoaan-announces-that-turkish-army-ground-troops-entered-the-territory-of-afrin-in-syria-prime-minister-ya-lda-ra-m-s.md)
+_Context: Afrin, Erdogan, President of Turkey, Prime Minister, Syria, Turkish Army ground troops, Turkish military intervention in Syria, Yildirim_
 
 ### [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahma.md)
 Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and appointed his information minister to replace him on Sunday.
@@ -23,7 +26,7 @@ The House and Senate are back in session Sunday with a federal government shutdo
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
 
 ### [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md)
-_Context: 2018 Inter-Continental Hotel Kabul attack, Afghanistan, Intercontinental Hotel, Kabul_
+_Context: 2018 Inter-Continental Hotel Kabul attack, Afghans, Intercontinental Hotel, Kabul_
 
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
 The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.

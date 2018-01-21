@@ -7,7 +7,7 @@ Formats: [HTML](2018/01/20/index.html)  [JSON](2018/01/20/index.json)  [XML](201
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
 
 ### [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md)
-_Context: 2018 Inter-Continental Hotel Kabul attack, Afghanistan, Intercontinental Hotel, Kabul_
+_Context: 2018 Inter-Continental Hotel Kabul attack, Afghans, Intercontinental Hotel, Kabul_
 
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
 The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.
