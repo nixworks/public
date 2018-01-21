@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/20/index.md)
+## [News](/news/2018/01/21/index.md)
+
+### [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahma.md)
+_Context: Mogadishu, Mohamed Abdullahi Mohamed, Politics of Somalia, President_
+
+---
+
+## [Yesterday](/news/2018/01/20/index.md)
 
 ### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in the Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-the-idlib-governorate.md)
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
@@ -26,7 +33,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 
 ---
 
-## [Yesterday](/news/2018/01/19/index.md)
+## [Day Before Yesterday](/news/2018/01/19/index.md)
 
 ### [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md)
 _Context: 2018 Afrin offensive, Afrin Canton, Syrian Civil War, Syrian Kurdish, Turkey, YPG_
@@ -63,26 +70,7 @@ _Context: Atlas V, SBIRS, United States Air Force, geosynchronous_
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/18/index.md)
-
-### [The Emirates airline announces an order for up to 36 Airbus A380s. Emirates is already the aircraft's largest operator, with a fleet of over 100. ](/news/2018/01/18/the-emirates-airline-announces-an-order-for-up-to-36-airbus-a380s-emirates-is-already-the-aircraft-s-largest-operator-with-a-fleet-of-over.md)
-A big order from Emirates airline saves the A380 after Airbus threatened to stop making the plane.
-
-### [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-52-people-five-people-escape-and-are-treated-by-re.md)
-Five people survived the accident on the bus, thought to have been carrying many Uzbek nationals.
-
-### [French President Emmanuel Macron meets with British Prime Minister Theresa May at the Royal Military Academy Sandhurst. ](/news/2018/01/18/french-president-emmanuel-macron-meets-with-british-prime-minister-theresa-may-at-the-royal-military-academy-sandhurst.md)
-_Context: Emmanuel Macron, Royal Military Academy Sandhurst, Theresa May_
-
-### [Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. ](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-of-them-rohan-arnold-a-known-businessman-for-allegedly-smuggling-1-280-kg-of-cocaine-into-s.md)
-Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 
-
-### [In a world's first, a drone rescues two people off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-people-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-the.md)
-A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped an safety device to distressed teens caught in rough seas.
-
----
-
-## [Previous Day...](/news/2018/01/17/index.md)
+## [Previous Day...](/news/2018/01/18/index.md)
 
 ---
 
