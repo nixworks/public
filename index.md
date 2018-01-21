@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/21/index.md)
 
-### [Three gunmen kill at least 18 people, 4 Afghans and 14 foreigners, in the 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they deployed 5 suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Haqqani network. ](/news/2018/01/21/three-gunmen-kill-at-least-18-people-4-afghans-and-14-foreigners-in-the-13-hour-gun-battle-the-afghan-interior-ministry-says-that-the-sie.md)
+### [Six gunmen kill at least 18 people, 4 Afghans and 14 foreigners, in the 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they deployed 5 suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Haqqani network. ](/news/2018/01/21/six-gunmen-kill-at-least-18-people-4-afghans-and-14-foreigners-in-the-13-hour-gun-battle-the-afghan-interior-ministry-says-that-the-siege.md)
 At least fourteen foreigners and four Afghans were killed after gunmen attacked the Intercontinental Hotel in Kabul, a spokesman for the Interior Ministry said.
 
 ### [President of Turkey Erdogan announces that Turkish Army ground troops entered the territory of Afrin in Syria. Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/president-of-turkey-erdoaan-announces-that-turkish-army-ground-troops-entered-the-territory-of-afrin-in-syria-prime-minister-ya-lda-ra-m-s.md)

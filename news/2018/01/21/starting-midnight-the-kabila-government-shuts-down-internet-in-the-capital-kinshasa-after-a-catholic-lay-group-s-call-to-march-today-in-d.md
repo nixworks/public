@@ -10,9 +10,11 @@ At least three people were killed when Congolese security forces fired tear gas 
 
 ### Sources:
 
-1. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/congolese-regering-legt-internet-in-kinshasa-plat~af69ccdd)
-2. [Reuters](https://www.reuters.com/article/us-congo-protests/congolese-security-forces-kill-three-while-dispersing-anti-kabila-protest-idUSKBN1FA0KJ)
-2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180121&t=2&i=1223862885&w=1200&r=LYNXMPEE0K0FD)
+1. [AP via ''U.S. News & World Report](https://www.usnews.com/news/world/articles/2018-01-21/congo-police-fire-tear-gas-to-disperse-demonstrators)
+2. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/congolese-regering-legt-internet-in-kinshasa-plat~af69ccdd)
+3. [Reuters](https://www.reuters.com/article/us-congo-protests/congolese-security-forces-kill-three-while-dispersing-anti-kabila-protest-idUSKBN1FA0KJ)
+4. [Twitter](https://twitter.com/JohnMurton/status/954733208540770304)
+4. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180121&t=2&i=1223862885&w=1200&r=LYNXMPEE0K0FD)
 
 ### Related:
 
