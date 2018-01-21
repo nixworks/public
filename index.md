@@ -43,6 +43,9 @@ China has accused the United States of sending a warship without permission into
 ### [Thousands of women protest throughout the United States in support of women's rights. ](/news/2018/01/20/thousands-of-women-protest-throughout-the-united-states-in-support-of-women-s-rights.md)
 Thousands of protesters gathered at rallies on Saturday across the country and around the world. The #MeToo moment has galvanized the movement in the last year.
 
+### [Former candidate for the presidency Manuel Baldizon was captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-candidate-for-the-presidency-manuel-baldiza3n-was-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
+_Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
+
 ---
 
 ## [Day Before Yesterday](/news/2018/01/19/index.md)
