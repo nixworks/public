@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/21/starting-midnight-the-kabila-government-shuts-d
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
-# Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a catholic lay group's call to march today, in defiance of a government ban on all manifestations. 
+# Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a Catholic lay group's call to march today, in defiance of a government ban on all manifestations. 
 
 
 
