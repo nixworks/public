@@ -7,7 +7,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and appointed his information minister to replace him on Sunday.
 
 ### [Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a Catholic lay group's call to march today, in defiance of a government ban on all manifestations. ](/news/2018/01/21/starting-midnight-the-kabila-government-shuts-down-internet-in-the-capital-kinshasa-after-a-catholic-lay-group-s-call-to-march-today-in-d.md)
-_Context: Catholic lay group, Kabila government, Kinshasa, Politics of the Democratic Republic of the Congo, shuts down Internet_
+At least three people were killed when Congolese security forces fired tear gas and live bullets to disperse a protest against President Joseph Kabila organized by the Catholic church on Sunday, a local watchdog said.
 
 ---
 
@@ -39,7 +39,7 @@ Thousands of protesters gathered at rallies on Saturday across the country and a
 ## [Day Before Yesterday](/news/2018/01/19/index.md)
 
 ### [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md)
-_Context: 2018 Afrin offensive, Afrin Canton, Syrian Civil War, Syrian Kurdish, Turkey, YPG_
+_Context: Afrin Canton, Syrian Kurdish, Turkey, Turkish military intervention in Syria, YPG_
 
 ### [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md)
 A protest for press freedom set to be staged in Quezon City on Friday evening is a testament that freedom and democracy are alive in the country, Malacañang said. 

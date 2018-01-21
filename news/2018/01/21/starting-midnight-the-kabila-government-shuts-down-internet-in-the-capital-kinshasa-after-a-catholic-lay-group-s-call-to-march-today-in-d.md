@@ -5,13 +5,14 @@ Formats: [HTML](/news/2018/01/21/starting-midnight-the-kabila-government-shuts-d
 
 # Starting midnight, the Kabila government shuts down Internet in the capital Kinshasa, after a Catholic lay group's call to march today, in defiance of a government ban on all manifestations. 
 
-
+At least three people were killed when Congolese security forces fired tear gas and live bullets to disperse a protest against President Joseph Kabila organized by the Catholic church on Sunday, a local watchdog said.
 
 
 ### Sources:
 
 1. [Het Laatste Nieuws](https://www.hln.be/nieuws/buitenland/congolese-regering-legt-internet-in-kinshasa-plat~af69ccdd)
-1. [Cover Image](https://images0.persgroep.net/rcs/rDRmChShlkkLzOZkmzbAzMYOEG8/diocontent/117524726/_fitwidth/763?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8)
+2. [Reuters](https://www.reuters.com/article/us-congo-protests/congolese-security-forces-kill-three-while-dispersing-anti-kabila-protest-idUSKBN1FA0KJ)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20180121&t=2&i=1223862885&w=1200&r=LYNXMPEE0K0FD)
 
 ### Related:
 
