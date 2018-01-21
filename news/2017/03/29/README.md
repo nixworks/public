@@ -3,7 +3,7 @@ Formats: [HTML](2017/03/29/index.html)  [JSON](2017/03/29/index.json)  [XML](201
 
 ## [2017-03-29](/news/2017/03/29/index.md)
 
-### [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md)
+### [Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." My fandom is the best [?] [?] [?] ](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-announces-an-end-to-the-operation-euphrates-shield-which-was-part-of-international-military-opera.md)
 Turkey&#39;s prime minister has announced an end to the operation known as &quot;Euphrates Shield.&quot; The offensive was launched last summer as part of the fight against the so-called &quot;Islamic State.&quot;
 
 ### [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md)
@@ -22,7 +22,7 @@ At least 13 people were killed and two others injured in a head-on crash Wednesd
 The Hawaii federal judge who brought President Trump&apos;s revised travel ban to a national halt this month extended his order blocking the...
 
 ### [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md)
-_Context: European Atomic Energy Community, European Council, European Union, United Kingdom, United Kingdom withdrawal from the European Union_
+_Context: Brexit, European Atomic Energy Community, European Council, European Union, United Kingdom_
 
 ### [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md)
 French Socialist Benoit Hamon called on all leftist voters to unite behind his presidential bid Wednesday after former prime minister Manuel Valls said he will vote for rival Emmanuel Macron rather than his own party’s nominee.
