@@ -19,7 +19,7 @@ A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday mo
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.
 
 ### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century." ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
-_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, President of the United States, peace_
+_Context: Donald Trump, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, U.S. President, peace_
 
 ### [A couple in Perris, California is arrested for allegedly holding captive and abusing their 13 children. ](/news/2018/01/14/a-couple-in-perris-california-is-arrested-for-allegedly-holding-captive-and-abusing-their-13-children.md)
 The mother was &quot;perplexed&quot; when officers came to rescue the malnourished children, say police.
