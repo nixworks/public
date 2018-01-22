@@ -14,4 +14,4 @@ Formats: [HTML](/news/2018/01/21/hundreds-of-thousands-of-women-protest-for-a-se
 
 ### Related:
 
-1. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, and throughout the United States in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-and-throughout.md) _Context: 2018 Women's March_
+1. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, Italy, and in other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-italy-and-in-o.md) _Context: 2018 Women's March_
