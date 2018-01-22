@@ -3,8 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/22/index.md)
 
-### [Seven people died in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md)
+### [Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-die-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md)
 At least seven people died after clashes broke out between security forces and worshippers taking part in a religious ceremony marking Epiphany in northern Ethiopia over the weekend, officials said.
+
+### [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md)
+_Context: South Thailand insurgency, Thailand, Yala Province_
 
 ### [The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. ](/news/2018/01/22/the-philippine-institute-of-volcanology-and-seismology-raises-mount-mayon-s-alert-level-to-4-its-second-highest-volcano-category-which-indi.md)
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.
@@ -17,6 +20,9 @@ _Context: East Jerusalem, European Union, Federica Mogherini, High Representativ
 
 ### [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
+
+### [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md)
+The nurse was already sentenced for killing six patients by injecting them with drugs and then trying to revive them. If convicted, Niels Högel will be one of the most prolific serial killers in German history.
 
 ### [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md)
 The ousted Catalan leader, Carles Puigdemont has vowed to form a new government despite what he described as, &quot;threats&quot; from the central government in Madrid.
