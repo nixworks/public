@@ -9,8 +9,11 @@ At least four gunmen launched an attack, according to Afghan officials
 ### [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-ya.md)
 _Context: Afrin, Erdogan, Syria, Turkish Army ground troops, Turkish President, Turkish Prime Minister, Turkish military intervention in Syria, Yildirim_
 
-### [Hundreds of thousands of women protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-of-women-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
-_Context: 2018 Women's March_
+### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
+The United Nations Security Council will hold talks about the situation in Syria on Monday, French Foreign minister Jean-Yves Le Drian said on his Twitter feed on Sunday.
+
+### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
+_Context: 2018 Women's March, United States, women's rights_
 
 ### [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md)
 Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and appointed his information minister to replace him on Sunday.
@@ -20,6 +23,9 @@ Congolese security forces shot dead at least six people and fired tear gas to di
 
 ### [U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. ](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parli.md)
 The House and Senate are back in session Sunday with a federal government shutdown in its second day amid a spending-bill impasse in Congress. The House is supposed to be on recess this week, but members stayed in Washington as negotiations continue.
+
+### [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may-2.md)
+The rocket was launched from the Mahia Peninsula this afternoon.
 
 ## [Previous Day...](/news/2018/01/20/index.md)
 
