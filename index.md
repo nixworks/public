@@ -3,13 +3,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/22/index.md)
 
+### [7 people died in clashes between security forces and worshippers taking part in a religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/7-people-died-in-clashes-between-security-forces-and-worshippers-taking-part-in-a-religious-ceremony-marking-timkat-epiphany-in-woldiya-a.md)
+At least seven people died after clashes broke out between security forces and worshippers taking part in a religious ceremony marking Epiphany in northern Ethiopia over the weekend, officials said.
+
 ### [United States Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy in Israel, located in Jerusalem, will open in 2019, sooner than generally expected. ](/news/2018/01/22/united-states-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-in-israel-located-in-j.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
 ### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
 _Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine-European Union relations, Palestinian state, President of the State of Palestine_
 
-### [Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
+### [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
 
 ### [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md)
@@ -27,6 +30,9 @@ _Context: Afrin, Binali Yildirim, Erdogan, Syria, Turkish Army ground troops, Tu
 
 ### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
 The United Nations Security Council will hold talks about the situation in Syria on Monday, French Foreign minister Jean-Yves Le Drian said on his Twitter feed on Sunday.
+
+### [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md)
+_Context: Abdullah II of Jordan, Israel, Jordan-United States relations, Mike Pence, United States recognition of Jerusalem as Israeli capital, two-state solution_
 
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
 _Context: 2018 Women's March, United States, women's rights_

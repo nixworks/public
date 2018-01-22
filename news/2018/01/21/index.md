@@ -12,6 +12,9 @@ _Context: Afrin, Binali Yildirim, Erdogan, Syria, Turkish Army ground troops, Tu
 ### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
 The United Nations Security Council will hold talks about the situation in Syria on Monday, French Foreign minister Jean-Yves Le Drian said on his Twitter feed on Sunday.
 
+### [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md)
+_Context: Abdullah II of Jordan, Israel, Jordan-United States relations, Mike Pence, United States recognition of Jerusalem as Israeli capital, two-state solution_
+
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
 _Context: 2018 Women's March, United States, women's rights_
 
