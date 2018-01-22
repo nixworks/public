@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
-# U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. 
+# U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. Majority leader Mitch McConnell is opposed to taking this step, a spokesperson said. 
 
 The House and Senate are back in session Sunday with a federal government shutdown in its second day amid a spending-bill impasse in Congress. The House is supposed to be on recess this week, but members stayed in Washington as negotiations continue.
 
@@ -11,12 +11,13 @@ The House and Senate are back in session Sunday with a federal government shutdo
 ### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2018-01-21/key-day-could-yield-fast-deal-or-long-impasse-shutdown-update)
-1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6rLLksO3NU8/v0/1200x675.jpg)
+2. [CNBC](https://www.cnbc.com/2018/01/21/mcconnell-opposes-shutdown-nuclear-option-trump-urged-in-tweet.html)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6rLLksO3NU8/v0/1200x675.jpg)
 
 ### Changes:
 
 1. [President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. ](/news/2018/01/21/president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parliament.md) _2018-01-21 19:30:07 (First version)_
-1. [U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. ](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parli.md) _(Current version)_
+1. [U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. Majority leader Mitch McConnell is opposed to taking this step, a spokesperson said. ](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parli.md) _(Current version)_
 
 ### Related:
 
