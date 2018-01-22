@@ -15,7 +15,7 @@ _Context: Russia, Syria, Syrian Border Security Force, Syrian Civil War, Turkish
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.
 
-### [American actress Eliza Dushku claims she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-claims-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md)
+### [American actress Eliza Dushku says she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md)
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film
 
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
@@ -28,7 +28,7 @@ A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesot
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.
 
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
-_Context: Mayon, Philippines_
+_Context: Mount Mayon's, Philippines_
 
 ### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
 At least nine construction workers were killed and five injured when a partially-constructed bridge collapsed in central Colombia on Monday, an official from the disaster response agency said.
