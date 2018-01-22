@@ -4,7 +4,7 @@ Formats: [HTML](2018/01/19/index.html)  [JSON](2018/01/19/index.json)  [XML](201
 ## [2018-01-19](/news/2018/01/19/index.md)
 
 ### [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md)
-_Context: Afrin Canton, Syrian Kurdish, Turkish, Turkish military intervention in Syria, YPG_
+_Context: Afrin Canton, Syrian Kurdish, Turkish, Turkish military intervention in Afrin, YPG_
 
 ### [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md)
 A protest for press freedom set to be staged in Quezon City on Friday evening is a testament that freedom and democracy are alive in the country, Malacañang said. 
