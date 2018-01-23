@@ -13,6 +13,11 @@ Formats: [HTML](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarin
 1. [BBC](http://www.bbc.co.uk/news/world-australia-42435428)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/83EA/production/_99307733_findae1_11-1.jpg)
 
+### Changes:
+
+1. [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after an 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-an-1.md) _2018-01-23 00:30:04 (First version)_
+1. [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-a-10.md) _(Current version)_
+
 ### Related:
 
 1. [The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. ](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-south-atlantic-for-the-ara-juan-submarine-which-went-missing-on-15-november-2017.md) _Context: submarine_
