@@ -6,6 +6,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Eleven countries announce that they will sign an agreement in Chile in March. ](/news/2018/01/23/eleven-countries-announce-that-they-will-sign-an-agreement-in-chile-in-march.md)
 _Context: Chile, Trans-Pacific Partnership_
 
+### [The nominations for the upcoming 90th Academy Awards are announced. ](/news/2018/01/23/the-nominations-for-the-upcoming-90th-academy-awards-are-announced.md)
+_Context: 90th Academy Awards_
+
 ### [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning was issued for coastal Alaska through Canada's British Columbia, and the U.S. West Coast, from the Washington state--Canadian border to the Mexican border, was under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-was-issued-for-coastal-alaska-through-canada-s-british-columbia.md)
 Only four earthquakes with a greater magnitude have ever been recorded in the US, all of which caused a tsunami.
 
