@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/23/index.md)
 
-### [An 7.9 magnitude earthquake occurs in the Gulf of Alaska. There is a tsunami warning for coastal Alaska through Canada's British Columbia. The U.S. West Coast, from the Washington state--Canadian border to the Mexican border, is under a tsunami watch. It is the fifth largest earthquake in the history of the United States. ](/news/2018/01/23/an-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-there-is-a-tsunami-warning-for-coastal-alaska-through-canada-s-british-columbia-t.md)
+### [An 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning was issued for coastal Alaska through Canada's British Columbia, and the U.S. West Coast, from the Washington state--Canadian border to the Mexican border, was under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/an-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-was-issued-for-coastal-alaska-through-canada-s-british-columbia.md)
 Only four earthquakes with a greater magnitude have ever been recorded in the US, all of which caused a tsunami.
 
 ---
@@ -15,6 +15,9 @@ At least seven people died after clashes broke out between security forces and w
 
 ### [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md)
 _Context: South Thailand insurgency, Thailand, Yala Province_
+
+### [Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. ](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executive-order-that-bars-any-internet-service-provider-with-state-contracts-from-blocking-or-chargi.md)
+An executive order forbids broadband providers with new or renewed state contracts to block or charge higher fees for faster delivery of websites.
 
 ### [The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. ](/news/2018/01/22/the-philippine-institute-of-volcanology-and-seismology-raises-mount-mayon-s-alert-level-to-4-its-second-highest-volcano-category-which-indi.md)
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.

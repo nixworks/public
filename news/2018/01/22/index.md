@@ -9,6 +9,9 @@ At least seven people died after clashes broke out between security forces and w
 ### [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md)
 _Context: South Thailand insurgency, Thailand, Yala Province_
 
+### [Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. ](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executive-order-that-bars-any-internet-service-provider-with-state-contracts-from-blocking-or-chargi.md)
+An executive order forbids broadband providers with new or renewed state contracts to block or charge higher fees for faster delivery of websites.
+
 ### [The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. ](/news/2018/01/22/the-philippine-institute-of-volcanology-and-seismology-raises-mount-mayon-s-alert-level-to-4-its-second-highest-volcano-category-which-indi.md)
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.
 
