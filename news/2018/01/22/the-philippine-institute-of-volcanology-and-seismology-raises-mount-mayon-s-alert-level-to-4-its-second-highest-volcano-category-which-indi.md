@@ -11,8 +11,10 @@ Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and p
 ### Sources:
 
 1. [CNN Philippines](http://cnnphilippines.com/regional/2018/01/22/Mayon-Volcano-alert-level-4-Phivolcs.html)
-2. [Reuters via NBC News](https://www.nbcnews.com/news/world/mayon-volcano-alert-raised-again-hazardous-eruption-believed-imminent-n839791)
-2. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2018_04/2301016/180122-mayon-volcano-mc-1455_6ed25a612c3e305349636adf54088e9c.nbcnews-fp-1200-630.jpg)
+2. [GMA News Online](http://www.gmanetwork.com/news/scitech/science/640692/8-minute-mayon-explosion-produced-5-km-high-volcanic-ash-column/story/)
+3. [PHIVOLCS bulletin](http://www.phivolcs.dost.gov.ph/index.php?option=com_content&view=article&id=8377:mayon-volcano-bulletin-23-january-2018-800-am-&catid=70:latest-volcano-bulletin&Itemid=500008)
+4. [Reuters via NBC News](https://www.nbcnews.com/news/world/mayon-volcano-alert-raised-again-hazardous-eruption-believed-imminent-n839791)
+4. [Cover Image](https://media3.s-nbcnews.com/j/newscms/2018_04/2301016/180122-mayon-volcano-mc-1455_6ed25a612c3e305349636adf54088e9c.nbcnews-fp-1200-630.jpg)
 
 ### Related:
 
