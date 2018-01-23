@@ -27,7 +27,7 @@ Congolese security forces shot dead at least six people and fired tear gas to di
 ### [U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. Majority leader Mitch McConnell is opposed to taking this step, a spokesperson said. ](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parli.md)
 The House and Senate are back in session Sunday with a federal government shutdown in its second day amid a spending-bill impasse in Congress. The House is supposed to be on recess this week, but members stayed in Washington as negotiations continue.
 
-### [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-after-the-original-rocket-launch-in-may.md)
+### [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, becoming the first rocket to reach orbit using an electric pump-fed engine, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-becoming-the-first-rocket-to-reach-orbit.md)
 The rocket was launched from the Mahia Peninsula this afternoon.
 
 ## [Previous Day...](/news/2018/01/20/index.md)
