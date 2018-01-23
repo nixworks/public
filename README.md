@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/22/index.md)
+## [News](/news/2018/01/23/index.md)
+
+### [An 7.9 magnitude earthquake occurs in the Gulf of Alaska. There is a tsunami warning for coastal Alaska through Canada's British Columbia. The U.S. West Coast, from the Washington state--Canadian border to the Mexican border, is under a tsunami watch. It is the fifth largest earthquake in the history of the United States. ](/news/2018/01/23/an-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-there-is-a-tsunami-warning-for-coastal-alaska-through-canada-s-british-columbia-t.md)
+Only four earthquakes with a greater magnitude have ever been recorded in the US, all of which caused a tsunami.
+
+---
+
+## [Yesterday](/news/2018/01/22/index.md)
 
 ### [Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-die-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md)
 At least seven people died after clashes broke out between security forces and worshippers taking part in a religious ceremony marking Epiphany in northern Ethiopia over the weekend, officials said.
@@ -38,7 +45,7 @@ Mr. Weah was inaugurated to the cheers of thousands at a stadium. He faces big c
 
 ---
 
-## [Yesterday](/news/2018/01/21/index.md)
+## [Day Before Yesterday](/news/2018/01/21/index.md)
 
 ### [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md)
 At least four gunmen launched an attack, according to Afghan officials
@@ -69,38 +76,7 @@ The rocket was launched from the Mahia Peninsula this afternoon.
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/20/index.md)
-
-### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md)
-The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
-
-### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
-_Context: 2018 Inter-Continental Hotel Kabul attack, Afghans, Intercontinental Hotel, Kabul_
-
-### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
-The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.
-
-### [A bus crash in Turkey's northwestern Eskisehir Province kills at least 11 people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-11-people-and-injures-46-others.md)
-The bus taking families on a skiing trip crashed in the north-west in reportedly good road conditions.
-
-### [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md)
-The government of Minas Gerais state in southeastern Brazil decreed Saturday a public health emergency situation in three regional state for six months because of yellow fever. The measure covers the regional health units of the municipalities of Belo Horizonte, Itabira and Ponte Nova &#8211; 94 cit...
-
-### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
-China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
-
-### [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md)
- BUCHAREST, Romania (AP) — Tens of thousands of Romanians on Saturday protested against legislation passed by Parliament which critics say will make it harder to prosecute crime an
-
-### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md)
-Thousands of protesters gathered at rallies on Saturday across the country and around the world. The #MeToo moment has galvanized the movement in the last year.
-
-### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
-
----
-
-## [Previous Day...](/news/2018/01/19/index.md)
+## [Previous Day...](/news/2018/01/20/index.md)
 
 ---
 
