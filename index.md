@@ -12,7 +12,13 @@ Only four earthquakes with a greater magnitude have ever been recorded in the US
 ### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, resulting in four casualities. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-resulting-in-four-casualities.md)
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
 
-### [Theresa May slaps down Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-slaps-down-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md)
+### [The United States closes its embassy in Port-au-Prince, Haiti due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
+_Context: Donald Trump, Haiti, Port-au-Prince, U.S. President, United States, embassy_
+
+### [A school shooting in Marshall County, Kentucky leaves 7 injured and one dead. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-7-injured-and-one-dead.md)
+Gov. Matt Bevin and police are working through the aftermath of the Marshall County High School shooting in Benton, Kentucky. The suspect is in custody. One confirmed dead and multiple injuries.
+
+### [Theresa May criticizes Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md)
 _Context: Boris Johnson, Cabinet, NHS, Politics of the United Kingdom, Theresa May_
 
 ---
