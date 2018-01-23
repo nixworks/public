@@ -12,13 +12,16 @@ _Context: South Thailand insurgency, Thailand, Yala Province_
 ### [The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. ](/news/2018/01/22/the-philippine-institute-of-volcanology-and-seismology-raises-mount-mayon-s-alert-level-to-4-its-second-highest-volcano-category-which-indi.md)
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.
 
-### [United States Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy in Israel, located in Jerusalem, will open in 2019, sooner than generally expected. ](/news/2018/01/22/united-states-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-in-israel-located-in-j.md)
+### [An explosion on an oil rig in the U.S. state of Oklahoma leaves five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-five-people-reported-missing.md)
+_Context: Oklahoma_
+
+### [United States Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/united-states-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-wi.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
-### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
+### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
 _Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine-European Union relations, Palestinian state, President of the State of Palestine_
 
-### [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
+### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
 
 ### [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md)
@@ -29,6 +32,9 @@ The ousted Catalan leader, Carles Puigdemont has vowed to form a new government 
 
 ### [The United States Senate reaches an agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-p.md)
  WASHINGTON (AP) — The Latest on the budget battle (all times local): 1:55 p.m. Sen. Susan Collins of Maine says Monday is &#34;a day to celebrate&#34; after ro
+
+### [George Weah takes office as President of Liberia, Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents for 74 years. ](/news/2018/01/22/george-weah-takes-office-as-president-of-liberia-jewel-taylor-as-vice-president-it-is-the-first-peaceful-transition-between-two-liberian-p.md)
+Mr. Weah was inaugurated to the cheers of thousands at a stadium. He faces big challenges lifting Liberia out of poverty.
 
 ---
 
@@ -65,10 +71,10 @@ The rocket was launched from the Mahia Peninsula this afternoon.
 
 ## [Day Before Yesterday](/news/2018/01/20/index.md)
 
-### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in the Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-the-idlib-governorate.md)
+### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md)
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
 
-### [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md)
+### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
 _Context: 2018 Inter-Continental Hotel Kabul attack, Afghans, Intercontinental Hotel, Kabul_
 
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
@@ -83,13 +89,13 @@ The government of Minas Gerais state in southeastern Brazil decreed Saturday a p
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 
-### [ Tens of thousands of Romanians protest in Bucharest and major cities against perceived corruption and changes to judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-romanians-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-judiciary-romanians-in-di.md)
+### [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md)
  BUCHAREST, Romania (AP) — Tens of thousands of Romanians on Saturday protested against legislation passed by Parliament which critics say will make it harder to prosecute crime an
 
-### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, Italy, and in other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-italy-and-in-o.md)
+### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md)
 Thousands of protesters gathered at rallies on Saturday across the country and around the world. The #MeToo moment has galvanized the movement in the last year.
 
-### [Former candidate for the presidency Manuel Baldizon was captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-candidate-for-the-presidency-manuel-baldiza3n-was-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
+### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
 _Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
 
 ---

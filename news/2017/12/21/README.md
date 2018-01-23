@@ -7,9 +7,9 @@ Formats: [HTML](2017/12/21/index.html)  [JSON](2017/12/21/index.json)  [XML](201
 Nineteen people have been injured after a SUV ran down pedestrians on the corner of Flinders and Elizabeth streets in Melbourne&#039;s CBD.
 
 ### [A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. ](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south-korea-after-crossing-the-korean-demilitarized-zone-dmz-south-korean-border-guards-fired-w.md)
-_Context: Border incidents involving North and South Korea, Korean Demilitarized Zone, Korean People's Army, Military Demarcation Line, South Korea, defects_
+_Context: Border incidents involving North and South Korea, DMZ, Korean People's Army, Military Demarcation Line, South Korea, defects_
 
-### [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-a-10.md)
+### [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after an 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-an-1.md)
 _Context: Duke of York Islands, HMAS ''AE1'', Royal Australian Navy, submarine_
 
 ### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)

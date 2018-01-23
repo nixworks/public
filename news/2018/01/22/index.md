@@ -12,13 +12,16 @@ _Context: South Thailand insurgency, Thailand, Yala Province_
 ### [The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. ](/news/2018/01/22/the-philippine-institute-of-volcanology-and-seismology-raises-mount-mayon-s-alert-level-to-4-its-second-highest-volcano-category-which-indi.md)
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.
 
-### [United States Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy in Israel, located in Jerusalem, will open in 2019, sooner than generally expected. ](/news/2018/01/22/united-states-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-in-israel-located-in-j.md)
+### [An explosion on an oil rig in the U.S. state of Oklahoma leaves five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-five-people-reported-missing.md)
+_Context: Oklahoma_
+
+### [United States Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/united-states-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-wi.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
-### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
+### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
 _Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine-European Union relations, Palestinian state, President of the State of Palestine_
 
-### [Italian politician Michele Nicoletti becomes a new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-a-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
+### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
 
 ### [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md)
@@ -29,6 +32,9 @@ The ousted Catalan leader, Carles Puigdemont has vowed to form a new government 
 
 ### [The United States Senate reaches an agreement to reopen federal agencies through Feb. 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-feb-8-a-bill-is-working-its-way-through-the-legislative-p.md)
  WASHINGTON (AP) — The Latest on the budget battle (all times local): 1:55 p.m. Sen. Susan Collins of Maine says Monday is &#34;a day to celebrate&#34; after ro
+
+### [George Weah takes office as President of Liberia, Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents for 74 years. ](/news/2018/01/22/george-weah-takes-office-as-president-of-liberia-jewel-taylor-as-vice-president-it-is-the-first-peaceful-transition-between-two-liberian-p.md)
+Mr. Weah was inaugurated to the cheers of thousands at a stadium. He faces big challenges lifting Liberia out of poverty.
 
 ## [Previous Day...](/news/2018/01/21/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
-# After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. 
+# After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state
 ### Changes:
 
 1. [After a meeting with President of the State of Palestine Mahmoud Abbas, Federica Mogherini, the High Representative of the Union for Foreign Affairs and Security Policy, assures President Abbas that the E.U. supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-president-of-the-state-of-palestine-mahmoud-abbas-federica-mogherini-the-high-representative-of-the-union-for-foreign.md) _2018-01-22 15:30:07 (First version)_
-1. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports Abbas' ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _(Current version)_
+1. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _(Current version)_
 
 ### Related:
 

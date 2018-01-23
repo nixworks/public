@@ -3,10 +3,10 @@ Formats: [HTML](2018/01/20/index.html)  [JSON](2018/01/20/index.json)  [XML](201
 
 ## [2018-01-20](/news/2018/01/20/index.md)
 
-### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in the Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-the-idlib-governorate.md)
+### [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md)
 The Syrian army and allied forces captured Abu al-Duhur airport in Idlib province from insurgents on Saturday, a Hezbollah military media unit said.
 
-### [At least 4 gunmen launch an attack on the Intercontinental Hotel in Afghanistan's capital of Kabul. ](/news/2018/01/20/at-least-4-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-afghanistan-s-capital-of-kabul.md)
+### [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md)
 _Context: 2018 Inter-Continental Hotel Kabul attack, Afghans, Intercontinental Hotel, Kabul_
 
 ### [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md)
@@ -21,13 +21,13 @@ The government of Minas Gerais state in southeastern Brazil decreed Saturday a p
 ### [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md)
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a
 
-### [ Tens of thousands of Romanians protest in Bucharest and major cities against perceived corruption and changes to judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-romanians-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-judiciary-romanians-in-di.md)
+### [ Tens of thousands of demonstrators protest in Bucharest and major cities against perceived corruption and changes to the judiciary. Romanians in diaspora stage protests in dozens of cities worldwide in solidarity with the anti-corruption movement in the country. ](/news/2018/01/20/tens-of-thousands-of-demonstrators-protest-in-bucharest-and-major-cities-against-perceived-corruption-and-changes-to-the-judiciary-romania.md)
  BUCHAREST, Romania (AP) — Tens of thousands of Romanians on Saturday protested against legislation passed by Parliament which critics say will make it harder to prosecute crime an
 
-### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, Rome, Italy, and in other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-rome-italy-and-in-o.md)
+### [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md)
 Thousands of protesters gathered at rallies on Saturday across the country and around the world. The #MeToo moment has galvanized the movement in the last year.
 
-### [Former candidate for the presidency Manuel Baldizon was captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-candidate-for-the-presidency-manuel-baldiza3n-was-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
+### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
 _Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
 
 ## [Previous Day...](/news/2018/01/19/index.md)
