@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
-# The United States closes its embassy in Port-au-Prince, Haiti due to large-scale protests against the policy of U.S. President Donald Trump. 
+# The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. 
 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/23/index.md)
 
-### [11 countries announce that they will sign an agreement in Chile in March. ](/news/2018/01/23/11-countries-announce-that-they-will-sign-an-agreement-in-chile-in-march.md)
+### [Eleven countries announce that they will sign an agreement in Chile in March. ](/news/2018/01/23/eleven-countries-announce-that-they-will-sign-an-agreement-in-chile-in-march.md)
 _Context: Chile, Trans-Pacific Partnership_
 
 ### [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning was issued for coastal Alaska through Canada's British Columbia, and the U.S. West Coast, from the Washington state--Canadian border to the Mexican border, was under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-was-issued-for-coastal-alaska-through-canada-s-british-columbia.md)
@@ -12,11 +12,11 @@ Only four earthquakes with a greater magnitude have ever been recorded in the US
 ### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, resulting in four casualities. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-resulting-in-four-casualities.md)
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
 
-### [The United States closes its embassy in Port-au-Prince, Haiti due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
+### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
 _Context: Donald Trump, Haiti, Port-au-Prince, U.S. President, United States, embassy_
 
-### [A school shooting in Marshall County, Kentucky leaves 7 injured and one dead. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-7-injured-and-one-dead.md)
-Gov. Matt Bevin and police are working through the aftermath of the Marshall County High School shooting in Benton, Kentucky. The suspect is in custody. One confirmed dead and multiple injuries.
+### [A school shooting in Marshall County, Kentucky leaves 2 people dead and 19 injured. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-2-people-dead-and-19-injured.md)
+At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.
 
 ### [Theresa May criticizes Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md)
 _Context: Boris Johnson, Cabinet, NHS, Politics of the United Kingdom, Theresa May_
@@ -39,6 +39,9 @@ Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and p
 
 ### [An explosion on an oil rig in the U.S. state of Oklahoma leaves one injured and five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-one-injured-and-five-people-reported-missing.md)
 _Context: Oklahoma_
+
+### [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md)
+At least 13 people, including a newborn, were killed on Sunday when a landslide pushed a bus into a ravine in southwest Colombia, the disaster relief agency said.
 
 ### [U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-will-open-i.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament

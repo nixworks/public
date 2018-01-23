@@ -18,6 +18,9 @@ Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and p
 ### [An explosion on an oil rig in the U.S. state of Oklahoma leaves one injured and five people reported missing. ](/news/2018/01/22/an-explosion-on-an-oil-rig-in-the-u-s-state-of-oklahoma-leaves-one-injured-and-five-people-reported-missing.md)
 _Context: Oklahoma_
 
+### [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md)
+At least 13 people, including a newborn, were killed on Sunday when a landslide pushed a bus into a ravine in southwest Colombia, the disaster relief agency said.
+
 ### [U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-will-open-i.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
