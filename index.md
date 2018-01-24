@@ -15,8 +15,8 @@ The US says it targeted a militant headquarters in the Euphrates valley, in Deir
 ### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
 _Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox, camel, plastic surgery_
 
-### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based ""Presidents Club"" old boy network. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
-_Context: Dorchester, Financial Times, London, charity, groping, old boy network_
+### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
+_Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presidents Club, charity, groping, old boy network_
 
 ### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
 Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
@@ -28,8 +28,8 @@ Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for y
 ### [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md)
 A double car bombing in the east Libyan city of Benghazi on Tuesday left at least 33 people dead and dozens more wounded, including senior security figures and civilians, officials said.
 
-### [The nominations for the upcoming Academy Awards are announced. It will honor the best films of 2017. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-it-will-honor-the-best-films-of-2017.md)
-_Context: 90th Academy Awards, Academy Awards, films of 2017_
+### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-the-shape-of-water-leads-wit.md)
+_Context: 90th Academy Awards, Academy Awards, Dunkirk, The Shape of Water, best of 2017_
 
 ### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
 _Context: Ministry of Culture, Russia, The Death of Stalin, political satire_
