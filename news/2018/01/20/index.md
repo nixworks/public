@@ -28,7 +28,7 @@ China has accused the United States of sending a warship without permission into
 Thousands of protesters gathered at rallies on Saturday across the country and around the world. The #MeToo moment has galvanized the movement in the last year.
 
 ### [Former presidential candidate Manuel Baldizon is captured in the United States accused of receiving bribes from Odebrecht. ](/news/2018/01/20/former-presidential-candidate-manuel-baldiza3n-is-captured-in-the-united-states-accused-of-receiving-bribes-from-odebrecht.md)
-_Context: Manuel Baldizon, Odebrecht case in Guatemala, United States_
+_Context: American, Manuel Baldizon, Odebrecht case in Guatemala_
 
 ## [Previous Day...](/news/2018/01/19/index.md)
 

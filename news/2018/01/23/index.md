@@ -22,7 +22,7 @@ Only four earthquakes with a greater magnitude have ever been recorded in the US
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
 
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, United States, embassy, policy, protests_
+_Context: American, Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, embassy, policy, protests_
 
 ### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
 At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.

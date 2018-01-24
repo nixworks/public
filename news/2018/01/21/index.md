@@ -16,7 +16,7 @@ The United Nations Security Council will hold talks about the situation in Syria
 _Context: Abdullah II of Jordan, Israel, Jordan-United States relations, Mike Pence, United States recognition of Jerusalem as Israeli capital, two-state solution_
 
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
-_Context: 2018 Women's March, United States, women's rights_
+_Context: 2018 Women's March, American, women's rights_
 
 ### [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md)
 Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and appointed his information minister to replace him on Sunday.
