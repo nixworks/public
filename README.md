@@ -9,7 +9,7 @@ Gunmen detonate explosives then storm the offices of the charity in the city of 
 ### [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md)
 Among those fighting with Kurdish militia is a 24-year-old from Manchester, known as Huang Lei.
 
-### [The US-led coalition against jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria. ](/news/2018/01/24/the-us-led-coalition-against-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-sy.md)
+### [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md)
 The US says it targeted a militant headquarters in the Euphrates valley, in Deir al-Zour province.
 
 ### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
@@ -20,6 +20,12 @@ _Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presi
 
 ### [Two Michigan State Police troopers are shot in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-shot-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
 Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
+
+### [Chinese scientists announce they have successfully cloned Crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
+Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
+
+### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md)
+_Context: 2018 in spaceflight, Falcon Heavy, SpaceX, maiden flight_
 
 ### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
 Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
