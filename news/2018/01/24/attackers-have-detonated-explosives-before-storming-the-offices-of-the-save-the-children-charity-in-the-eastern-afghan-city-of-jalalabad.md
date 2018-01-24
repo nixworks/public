@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/24/attackers-have-detonated-explosives-before-stor
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
-# Attackers have detonated explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad.
+# Attackers have detonated explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. 
 
 Gunmen detonate explosives then storm the offices of the charity in the city of Jalalabad.
 
