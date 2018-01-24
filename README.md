@@ -12,6 +12,9 @@ Among those fighting with Kurdish militia is a 24-year-old from Manchester, know
 ### [The US-led coalition against the jihadist group Islamic State (IS) says it has killed up to 150 militants in air strikes on a headquarters in Syria.](/news/2018/01/24/the-us-led-coalition-against-the-jihadist-group-islamic-state-is-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-i.md)
 The US says it targeted a militant headquarters in the Euphrates valley, in Deir al-Zour province.
 
+### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
+_Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox, camel, plastic surgery_
+
 ---
 
 ## [Yesterday](/news/2018/01/23/index.md)
