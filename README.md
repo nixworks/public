@@ -3,32 +3,41 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/23/index.md)
 
-### [A double car bombing in Benghazi, Libya, kills at least 22 people and wounds 30 others. The victims include both military personnel and civilians, accoridng to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-22-people-and-wounds-30-others-the-victims-include-both-military-personnel-and-civi.md)
+### [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md)
 A double car bombing in the east Libyan city of Benghazi on Tuesday left at least 33 people dead and dozens more wounded, including senior security figures and civilians, officials said.
 
 ### [The nominations for the upcoming Academy Awards are announced. It will honor the best films of 2017. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-it-will-honor-the-best-films-of-2017.md)
 _Context: 90th Academy Awards, Academy Awards, films of 2017_
 
-### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-british-french-political-satire-film-the-death-of-stalin-in-the-country-after-accusin.md)
+### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
 _Context: Ministry of Culture, Russia, The Death of Stalin, political satire_
 
-### [Eleven countries announce that they will sign an agreement in Chile in March. ](/news/2018/01/23/eleven-countries-announce-that-they-will-sign-an-agreement-in-chile-in-march.md)
+### [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md)
 _Context: Chile, Trans-Pacific Partnership_
 
 ### [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md)
 Only four earthquakes with a greater magnitude have ever been recorded in the US, all of which caused a tsunami.
 
-### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, resulting in four casualities. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-resulting-in-four-casualities.md)
+### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md)
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
 
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
 _Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, United States, embassy, policy, protests_
 
-### [A school shooting in Marshall County, Kentucky, leaves two people dead and 19 injured. ](/news/2018/01/23/a-school-shooting-in-marshall-county-kentucky-leaves-two-people-dead-and-19-injured.md)
+### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
 At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.
 
-### [Theresa May criticizes Boris Johnson for airing NHS funding concerns outside private Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-nhs-funding-concerns-outside-private-cabinet-meetings.md)
-_Context: Boris Johnson, Cabinet, NHS, Politics of the United Kingdom, Theresa May_
+### [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md)
+_Context: Boris Johnson, National Health Service, Politics of the United Kingdom, Theresa May, U.K. Cabinet_
+
+### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Venezuelan President says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-venezuelan-president-says-he-will.md)
+Should the presidential vote be perceived as fraudulent, further foreign sanctions could come, including from US President Donald Trump.
+
+### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
+_Context: Federal Reserve Bank, Jerome Powell, United States Senate_
+
+### [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md)
+The foundation running the Google Lunar X Prize said Jan. 23 that the prize for a commercial lunar lander will expire at the end of March without a winner.
 
 ---
 
