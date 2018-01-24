@@ -30,7 +30,7 @@ At least two people were killed and 17 others were injured when a student opened
 ### [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md)
 _Context: Boris Johnson, National Health Service, Politics of the United Kingdom, Theresa May, U.K. Cabinet_
 
-### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Venezuelan President says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-venezuelan-president-says-he-will.md)
+### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-incumbent-nicola-s-maduro-says-he.md)
 Should the presidential vote be perceived as fraudulent, further foreign sanctions could come, including from US President Donald Trump.
 
 ### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
