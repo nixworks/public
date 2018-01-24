@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/24/index.html)  [JSON](2018/01/24/index.json)  [XML](201
 
 ## [2018-01-24](/news/2018/01/24/index.md)
 
-### [Attackers have detonated explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-have-detonated-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md)
+### [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md)
 Gunmen detonate explosives then storm the offices of the charity in the city of Jalalabad.
 
 ### [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md)
@@ -17,6 +17,9 @@ _Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox
 
 ### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
 _Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presidents Club, charity, groping, old boy network_
+
+### [Two Michigan State Police troopers are shot in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-shot-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
+Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
 
 ### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
 Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
