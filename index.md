@@ -6,13 +6,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md)
 A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
 
+### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it holds since the 1990s. It has been noted that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
+The greenback weakens further after the Trump administration was seen as veering away from the strong dollar policy.
+
 ### [At least 3 people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-3-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md)
 The cause of the accident is not yet clear but a collapse of the rail track is under investigation.
 
 ### [Chancellor Angela Merkel and Foreign Minister Sigmar Gabriel, for the German caretaker government, decide to delay a decision on upgrading Turkey's German-built Leopard 2 tanks until after the formation of a new government coalition. Foreign Minister of Turkey Mevlut Cavusoglu says Turkey expects "solidarity and support" from its ally. ](/news/2018/01/25/chancellor-angela-merkel-and-foreign-minister-sigmar-gabriel-for-the-german-caretaker-government-decide-to-delay-a-decision-on-upgrading-t.md)
 _Context: Angela Merkel, Chancellor, Foreign Minister, Foreign Minister of Turkey, Germany-Turkey relations, Leopard 2, Mevlut Cavusoglu, Sigmar Gabriel, caretaker, government_
 
-### [Two bills are unanimously approved by Florida House of Representatives and Florida Senate Committees to move Florida permanently to Daylight Saving Time(UTC[?]04:00); if passed by the state legislature. Any changes would need to be approved by United States Department of Transportation and United States Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-florida-house-of-representatives-and-florida-senate-committees-to-move-florida-permanently-to-daylight.md)
+### [Two bills are unanimously approved by Florida House of Representatives and Florida Senate Committees to move Florida permanently to Daylight Saving Time (UTC[?]04:00); if passed by the state legislature. Any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-florida-house-of-representatives-and-florida-senate-committees-to-move-florida-permanently-to-daylight.md)
 The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
 
 ### [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md)
@@ -53,8 +56,8 @@ _Context: 2018 in spaceflight, Falcon Heavy, SpaceX, maiden flight_
 ### [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md)
 A double car bombing in the east Libyan city of Benghazi on Tuesday left at least 33 people dead and dozens more wounded, including senior security figures and civilians, officials said.
 
-### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. And for whatever reason, even "The Boss Baby" received a nomination. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md)
-_Context: 2017 in film, 90th Academy Awards, Academy Awards, Dunkirk, The Boss Baby, The Shape of Water_
+### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md)
+_Context: 2017 in film, 90th Academy Awards, Academy Awards, Dunkirk, The Shape of Water_
 
 ### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
 _Context: Ministry of Culture, Russia, The Death of Stalin, political satire_
@@ -69,7 +72,7 @@ Only four earthquakes with a greater magnitude have ever been recorded in the US
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
 
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: American, Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, embassy, policy, protests_
+_Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, United States, embassy, policy, protests_
 
 ### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
 At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.
