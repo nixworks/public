@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/25/two-bills-are-unanimously-approved-by-florida-h
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
-# Two bills are unanimously approved by Florida House of Representatives and Florida Senate Committees to move Florida permanently to Daylight Saving Time; if passed by the state legislature. Any changes would need to be approved by United States Department of Transportation and United States Congress. 
+# Two bills are unanimously approved by Florida House of Representatives and Florida Senate Committees to move Florida permanently to Daylight Saving Time(UTC[?]04:00); if passed by the state legislature. Any changes would need to be approved by United States Department of Transportation and United States Congress. 
 
 The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
 
