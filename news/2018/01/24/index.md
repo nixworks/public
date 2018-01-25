@@ -21,6 +21,9 @@ _Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presi
 ### [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
 Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
 
+### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
+Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
+
 ### [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
 Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
 
