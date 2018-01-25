@@ -18,7 +18,7 @@ _Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox
 ### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
 _Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presidents Club, charity, groping, old boy network_
 
-### [Two Michigan State Police troopers are shot in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-shot-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
+### [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
 Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
 
 ### [Chinese scientists announce they have successfully cloned Crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
