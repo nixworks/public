@@ -25,7 +25,7 @@ At least 13 people, including a newborn, were killed on Sunday when a landslide 
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
 ### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
-_Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine-European Union relations, Palestinian state, President of the State of Palestine_
+_Context: East Jerusalem, European Union, Federica Mogherini, High Representative of the Union for Foreign Affairs and Security Policy, Mahmoud Abbas, Palestine, Palestine-European Union relations, President of the State of Palestine_
 
 ### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
