@@ -12,6 +12,9 @@ _Context: 2017 in film, 90th Academy Awards, Academy Awards, Dunkirk, The Shape 
 ### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
 _Context: Ministry of Culture, Russia, The Death of Stalin, political satire_
 
+### [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md)
+Billionaires, world leaders and investors are gathering in Davos for the World Economic Forum’s annual meeting.
+
 ### [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md)
 _Context: Chile, Trans-Pacific Partnership_
 
