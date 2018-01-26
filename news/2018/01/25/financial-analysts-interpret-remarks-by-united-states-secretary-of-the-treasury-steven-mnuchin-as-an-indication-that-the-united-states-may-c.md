@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
-# Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it holds since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. 
+# Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it has held since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. 
 
 European Central Bank chief Mario Draghi took a swipe at Washington on Thursday for talking down the dollar, a move he said threatened a decades-old pact not to target the currency and might force his bank to change its own policy.
 
