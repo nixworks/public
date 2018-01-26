@@ -14,6 +14,9 @@ At least 41 people are killed and more than 80 injured in a fire at a hospital i
 A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
 
 ### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it holds since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
+The greenback weakens further after the Trump administration was seen as veering away from the strong dollar policy.
+
+### [The European Central Bank keeps its policy unchanged for now. ](/news/2018/01/25/the-european-central-bank-keeps-its-policy-unchanged-for-now.md)
 European Central Bank chief Mario Draghi took a swipe at Washington on Thursday for talking down the dollar, a move he said threatened a decades-old pact not to target the currency and might force his bank to change its own policy.
 
 ### [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md)
