@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
-# The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. Most reasons however point to Donald Trump. 
+# The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. 
 
 The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
 
@@ -15,8 +15,8 @@ The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close
 
 ### Related:
 
-1. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: Donald Trump, North Korea_
-2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump, North Korea_
-3. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: Donald Trump, North Korea_
-4. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: Donald Trump, North Korea_
-5. [ North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md) _Context: Donald Trump, North Korea_
+1. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two and a half minutes before midnight. ](/news/2017/01/26/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-and-a-half-minutes-before-midnight.md) _Context: Bulletin of the Atomic Scientists, Doomsday Clock_
+2. [The Doomsday Clock moves two minutes forward, leaving only three minutes from midnight due to the threat of global nuclear war and climate change. It is the closest it has been to midnight since 1984. ](/news/2015/01/23/the-doomsday-clock-moves-two-minutes-forward-leaving-only-three-minutes-from-midnight-due-to-the-threat-of-global-nuclear-war-and-climate-c.md) _Context: Doomsday Clock, climate change_
+3. [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md) _Context: North Korea, nuclear war_
+4. [ North Korean leaders say that they will respond to any pre-emptive attack from the US with an "annihilating strike and a nuclear war." ](/news/2006/07/3/north-korean-leaders-say-that-they-will-respond-to-any-pre-emptive-attack-from-the-us-with-an-annihilating-strike-and-a-nuclear-war.md) _Context: North Korea, nuclear war_
+5. [ North Korea crisis: The United States says it is willing to give North Korea security assurances in exchange for a nuclear standdown. U.S. President Bush rules out a non-aggression treaty demanded by Pyongyang.](/news/2003/10/19/north-korea-crisis-the-united-states-says-it-is-willing-to-give-north-korea-security-assurances-in-exchange-for-a-nuclear-standdown-u-s.md) _Context: North Korea, nuclear war_

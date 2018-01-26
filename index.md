@@ -24,7 +24,7 @@ The proposal being considered by the Legislature would need congressional approv
 ### [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md)
 _Context: Brazil Workers' Party, Luiz Inacio Lula da Silva, Politics of Brazil, president, presidential election_
 
-### [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. Most reasons however point to Donald Trump. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md)
+### [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md)
 The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
 
 ---
@@ -55,8 +55,8 @@ Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for y
 ### [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
 Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
 
-### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md)
-_Context: 2018 in spaceflight, Falcon Heavy, SpaceX, maiden flight_
+### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md)
+_Context: 2018 in spaceflight, Elon Musk's Tesla Roadster, Falcon Heavy, SpaceX, dummy payload, maiden flight_
 
 ---
 

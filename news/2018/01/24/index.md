@@ -27,8 +27,8 @@ Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for y
 ### [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
 Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
 
-### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md)
-_Context: 2018 in spaceflight, Falcon Heavy, SpaceX, maiden flight_
+### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md)
+_Context: 2018 in spaceflight, Elon Musk's Tesla Roadster, Falcon Heavy, SpaceX, dummy payload, maiden flight_
 
 ## [Previous Day...](/news/2018/01/23/index.md)
 
