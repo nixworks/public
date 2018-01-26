@@ -1,12 +1,22 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/25/index.md)
+## [News](/news/2018/01/26/index.md)
+
+### [A "'fire"' in a hospital in the South Korean city of Miryang kills at least 31 people and injures another 40. ](/news/2018/01/26/a-fire-in-a-hospital-in-the-south-korean-city-of-miryang-kills-at-least-31-people-and-injures-another-40.md)
+At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
+
+---
+
+## [Yesterday](/news/2018/01/25/index.md)
 
 ### [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md)
 A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
 
-### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it holds since the 1990s. It has been noted that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
+### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it holds since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
+The greenback weakens further after the Trump administration was seen as veering away from the strong dollar policy.
+
+### [Mario Draghi, the President of the European Central Bank, says that Mnuchin's comments are contrary to a decades-old agreement not to "target" each other's exchange rate. The European Central Bank keeps its policy unchanged for now. ](/news/2018/01/25/mario-draghi-the-president-of-the-european-central-bank-says-that-mnuchin-s-comments-are-contrary-to-a-decades-old-agreement-not-to-targe.md)
 European Central Bank chief Mario Draghi took a swipe at Washington on Thursday for talking down the dollar, a move he said threatened a decades-old pact not to target the currency and might force his bank to change its own policy.
 
 ### [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md)
@@ -21,15 +31,18 @@ The US president says the Palestinians must pursue peace with Israel if they wan
 ### [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md)
 The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
 
-### [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md)
-_Context: Brazil Workers' Party, Luiz Inacio Lula da Silva, Politics of Brazil, president, presidential election_
+### [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. The Sao Paulo stock market hits new highs and the value of the Brazilian real strengthens. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md)
+_Context: Brazil Workers' Party, Brazilian real, Luiz Inacio Lula da Silva, Politics of Brazil, Sao Paulo, president, presidential election_
+
+### [The Attorney General and the Head of the Anticorruption Commission of the UN, reported on a new case of corruption in the Superintendency of Tax Administration, leaving 9 people arrested, including the Former President of that organization. ](/news/2018/01/25/the-attorney-general-and-the-head-of-the-anticorruption-commission-of-the-un-reported-on-a-new-case-of-corruption-in-the-superintendency-of.md)
+_Context: Politics of Guatemala_
 
 ### [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md)
 The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
 
 ---
 
-## [Yesterday](/news/2018/01/24/index.md)
+## [Day Before Yesterday](/news/2018/01/24/index.md)
 
 ### [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md)
 Gunmen detonate explosives then storm the offices of the charity in the city of Jalalabad.
@@ -60,47 +73,7 @@ _Context: 2018 in spaceflight, Elon Musk's Tesla Roadster, Falcon Heavy, SpaceX,
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/23/index.md)
-
-### [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md)
-A double car bombing in the east Libyan city of Benghazi on Tuesday left at least 33 people dead and dozens more wounded, including senior security figures and civilians, officials said.
-
-### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md)
-_Context: 2017 in film, 90th Academy Awards, Academy Awards, Dunkirk, The Shape of Water_
-
-### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
-_Context: Ministry of Culture, Russia, The Death of Stalin, political satire_
-
-### [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md)
-_Context: Chile, Trans-Pacific Partnership_
-
-### [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md)
-Only four earthquakes with a greater magnitude have ever been recorded in the US, all of which caused a tsunami.
-
-### [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md)
-A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant
-
-### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: Donald Trump, Haiti, Haiti-United States relations, Port-au-Prince, U.S. President, United States, embassy, policy, protests_
-
-### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
-At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.
-
-### [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md)
-_Context: Boris Johnson, National Health Service, Politics of the United Kingdom, Theresa May, U.K. Cabinet_
-
-### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-incumbent-nicola-s-maduro-says-he.md)
-Should the presidential vote be perceived as fraudulent, further foreign sanctions could come, including from US President Donald Trump.
-
-### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
-_Context: Federal Reserve Bank, Jerome Powell, United States Senate_
-
-### [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md)
-The foundation running the Google Lunar X Prize said Jan. 23 that the prize for a commercial lunar lander will expire at the end of March without a winner.
-
----
-
-## [Previous Day...](/news/2018/01/22/index.md)
+## [Previous Day...](/news/2018/01/23/index.md)
 
 ---
 
