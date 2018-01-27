@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/27/the-river-seine-in-paris-france-floods.html)  [
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
-# The River Seine in Paris, France floods. 
+# The River Seine in Paris, France, floods. 
 
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 

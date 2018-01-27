@@ -10,7 +10,7 @@ Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x
 
 ### Sources:
 
-1. [AFP via FRANCE 24](http://www.france24.com/en/20180127-gunman-launch-deadly-attack-mali-army-base-soldiers-killed-soumpi)
+1. [AFP via France 24](http://www.france24.com/en/20180127-gunman-launch-deadly-attack-mali-army-base-soldiers-killed-soumpi)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/mali-soldats_0.jpg)
 
 ### Related:
