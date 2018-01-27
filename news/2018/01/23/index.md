@@ -39,6 +39,9 @@ Should the presidential vote be perceived as fraudulent, further foreign sanctio
 ### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
 _Context: Federal Reserve Bank, Jerome Powell, United States Senate_
 
+### [President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. ](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the-high-costs-he-spends-to-buy-food-and-other-luxury-items.md)
+The president says he could not be expected to pay for luxury goods from his salary.
+
 ### [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md)
 The foundation running the Google Lunar X Prize said Jan. 23 that the prize for a commercial lunar lander will expire at the end of March without a winner.
 

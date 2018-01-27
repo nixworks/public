@@ -15,4 +15,5 @@ Formats: [HTML](/news/2018/01/25/the-attorney-general-and-the-head-of-the-antico
 
 ### Related:
 
-1. [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md) _Context: Politics of Guatemala_
+1. [President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. ](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the-high-costs-he-spends-to-buy-food-and-other-luxury-items.md) _Context: Politics of Guatemala_
+2. [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md) _Context: Politics of Guatemala_

@@ -9,6 +9,21 @@ President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fight
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
 
+### [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
+Visitors to Paris Zoological Park evacuated as workers try to lure animals back to enclosures
+
+### [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md)
+The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
+
+### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
+Residents will be banned from using more than 50 litres of water a day from next month.
+
+### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
+A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
+
+### [Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. ](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryptocurrency-from-japanese-exchange-coincheck.md)
+Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
+
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
 _Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
 

@@ -1,7 +1,17 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/26/index.md)
+## [News](/news/2018/01/27/index.md)
+
+### [The River Seine in Paris, France floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
+The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
+
+### [Voters in Czechia go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. ](/news/2018/01/27/voters-in-czechia-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a-majorit.md)
+The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+
+---
+
+## [Yesterday](/news/2018/01/26/index.md)
 
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
@@ -9,12 +19,27 @@ President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fight
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
 
+### [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
+Visitors to Paris Zoological Park evacuated as workers try to lure animals back to enclosures
+
+### [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md)
+The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
+
+### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
+Residents will be banned from using more than 50 litres of water a day from next month.
+
+### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
+A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
+
+### [Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. ](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryptocurrency-from-japanese-exchange-coincheck.md)
+Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
+
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
 _Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
 
 ---
 
-## [Yesterday](/news/2018/01/25/index.md)
+## [Day Before Yesterday](/news/2018/01/25/index.md)
 
 ### [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md)
 A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
@@ -45,38 +70,7 @@ The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/24/index.md)
-
-### [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md)
-Gunmen detonate explosives then storm the offices of the charity in the city of Jalalabad.
-
-### [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md)
-Among those fighting with Kurdish militia is a 24-year-old from Manchester, known as Huang Lei.
-
-### [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md)
-The US says it targeted a militant headquarters in the Euphrates valley, in Deir al-Zour province.
-
-### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
-_Context: Culture of Saudi Arabia, King Abdulaziz, Riyadh, beauty pageant, botox, camel, plastic surgery_
-
-### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
-_Context: Boris Johnson, Dorchester, Financial Times, London, Mark Carney, Presidents Club, charity, groping, old boy network_
-
-### [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
-Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
-
-### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
-Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
-
-### [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
-Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
-
-### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md)
-_Context: 2018 in spaceflight, Elon Musk's Tesla Roadster, Falcon Heavy, SpaceX, dummy payload, maiden flight_
-
----
-
-## [Previous Day...](/news/2018/01/23/index.md)
+## [Previous Day...](/news/2018/01/24/index.md)
 
 ---
 
