@@ -3,6 +3,9 @@ Formats: [HTML](2018/01/27/index.html)  [JSON](2018/01/27/index.json)  [XML](201
 
 ## [2018-01-27](/news/2018/01/27/index.md)
 
+### [The Turkish presidency says that the United States has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-the-united-states-has-told-them-that-the-u-s-will-not-provide-any-more-weapons-to-the-syrian-kurdish-ypg.md)
+_Context: Syrian Civil War, Turkish military intervention in Afrin, Turkish presidency, United States, YPG_
+
 ### [The River Seine in Paris, France floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
