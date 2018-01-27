@@ -18,8 +18,11 @@ _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-EU challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md)
+### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+
+### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
+Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
 ## [Previous Day...](/news/2018/01/26/index.md)
 

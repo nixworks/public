@@ -18,8 +18,11 @@ _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-EU challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md)
+### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+
+### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
+Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
 ---
 
@@ -61,6 +64,9 @@ _Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald 
 
 ### [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md)
 A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
+
+### [Tens of thousands of Pentecostal Christians in Mbarara, Uganda take to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people's lives to Christ and preaching the gospel across the entire district. ](/news/2018/01/25/tens-of-thousands-of-pentecostal-christians-in-mbarara-uganda-take-to-the-streets-with-songs-of-praise-and-thanks-to-hold-a-common-celebrat.md)
+Tens of thousands of Pentecostal Christians in Mbarara - Western Uganda have in unity taken to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people&#039;s lives to Christ and preaching the gospel across the entire district. Many traveled from su...
 
 ### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it has held since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
 European Central Bank chief Mario Draghi took a swipe at Washington on Thursday for talking down the dollar, a move he said threatened a decades-old pact not to target the currency and might force his bank to change its own policy.

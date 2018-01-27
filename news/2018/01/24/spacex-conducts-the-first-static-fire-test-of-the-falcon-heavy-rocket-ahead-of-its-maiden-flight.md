@@ -13,6 +13,11 @@ Formats: [HTML](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-t
 1. [BBC](http://www.bbc.co.uk/news/science-environment-42692673)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/87DF/production/_99738743_duu5pz0uqaastty.jpg)
 
+### Changes:
+
+1. [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md) _2018-01-27 21:30:21 (First version)_
+1. [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md) _(Current version)_
+
 ### Related:
 
 1. [The U.S. government's highly classified Zuma satellite is reportedly lost after being launched by SpaceX on a Falcon 9 Full Thrust rocket from Cape Canaveral Air Force Station. Northrop Grumman, who built the satellite, and SpaceX have both refused to confirm the mission's failure due to its classified nature. ](/news/2018/01/8/the-u-s-government-s-highly-classified-zuma-satellite-is-reportedly-lost-after-being-launched-by-spacex-on-a-falcon-9-full-thrust-rocket-fr.md) _Context: 2018 in spaceflight, SpaceX_
