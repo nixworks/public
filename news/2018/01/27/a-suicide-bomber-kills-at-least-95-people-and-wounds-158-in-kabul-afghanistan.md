@@ -10,7 +10,7 @@ Taliban insurgents claimed responsibility for the attack, which they said target
 
 ### Sources:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/suicide-blast-in-central-kabul-kills-at-least-10-wounds-scores-officials-say/2018/01/27/4a30fcb6-0344-11e8-9d31-d72cf78dbeee_story.html?utm_term=.e1ee2a331f05)
+1. [The Washington Post](https://www.washingtonpost.com/world/suicide-blast-in-central-kabul-kills-at-least-10-wounds-scores-officials-say/2018/01/27/4a30fcb6-0344-11e8-9d31-d72cf78dbeee_story.html)
 
 ### Related:
 
