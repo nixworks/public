@@ -6,14 +6,14 @@ Formats: [HTML](2018/01/27/index.html)  [JSON](2018/01/27/index.json)  [XML](201
 ### [The Turkish presidency says that the United States has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-the-united-states-has-told-them-that-the-u-s-will-not-provide-any-more-weapons-to-the-syrian-kurdish-ypg.md)
 _Context: Turkish military intervention in Afrin, Turkish presidency, United States, YPG_
 
-### [A suicide bomber in an ambulance packed with explosives kills at least 95 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-95-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
+### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
 
 ### [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md)
 Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a...
 
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
-_Context: Economy of Germany, Economy of Russia, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
+_Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
