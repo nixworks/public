@@ -12,9 +12,6 @@ Taliban insurgents claimed responsibility for the attack, which they said target
 ### [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md)
 Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a...
 
-### [A 92-year old Kindertransport survivor living in England warns against current politics of division and hate speech. ](/news/2018/01/27/a-92-year-old-kindertransport-survivor-living-in-england-warns-against-current-politics-of-division-and-hate-speech.md)
-A 92-year-old Kindertransport survivor has issued an urgent call to put a stop to the politics of division before it’s too late, warning that the world has “learnt nothing” from the atrocities committed in Nazi Germany. Speaking ahead of Holocaust Memorial Day, Austrian-born Harry Bibring, who...
-
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
 _Context: Economy of Germany, Economy of Russia, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
 
@@ -31,8 +28,8 @@ The two-day vote pits the pro-Russia, anti-immigration president against a pro-E
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
 
-### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4-0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-over.md)
-_Context: Boeing Company, Bombardier Inc., United States International Trade Commission, alleged price dumping_
+### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
+_Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_
 
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
