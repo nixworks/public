@@ -3,8 +3,8 @@ Formats: [HTML](2018/01/27/index.html)  [JSON](2018/01/27/index.json)  [XML](201
 
 ## [2018-01-27](/news/2018/01/27/index.md)
 
-### [The Turkish presidency says that the United States has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-the-united-states-has-told-them-that-the-u-s-will-not-provide-any-more-weapons-to-the-syrian-kurdish-ypg.md)
-_Context: Turkish military intervention in Afrin, Turkish presidency, United States, YPG_
+### [The Turkish presidency says that United States National Security Advisor H. R. McMaster said on Friday that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-united-states-national-security-advisor-h-r-mcmaster-said-on-friday-that-the-u-s-will-not-provide-any-m.md)
+Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
@@ -23,6 +23,9 @@ The two-day vote pits the pro-Russia, anti-immigration president against a pro-E
 
 ### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
+
+### [The U.S. will pay Boeing nearly $24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-u-s-will-pay-boeing-nearly-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to-carry-70-cu.md)
+The improvement is just the latest example of the bespoke requirements for the presidential jets.
 
 ## [Previous Day...](/news/2018/01/26/index.md)
 
