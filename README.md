@@ -6,7 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The River Seine in Paris, France floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Voters in Czechia go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. ](/news/2018/01/27/voters-in-czechia-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a-majorit.md)
+### [Voters in Czechia go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-E.U. challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czechia-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a-majorit.md)
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
 
 ---
@@ -27,6 +27,9 @@ The vessel was reported missing on Thursday after it failed to arrive at the isl
 
 ### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
 Residents will be banned from using more than 50 litres of water a day from next month.
+
+### [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-pa.md)
+California Department of Water Resources discloses more than $200 million in additional costs for massive project.
 
 ### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
 A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
