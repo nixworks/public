@@ -6,6 +6,9 @@ Formats: [HTML](2018/01/26/index.html)  [JSON](2018/01/26/index.json)  [XML](201
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
 
+### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4-0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-over.md)
+_Context: Boeing Company, Bombardier Inc., United States International Trade Commission, alleged price dumping_
+
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
 

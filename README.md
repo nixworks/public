@@ -6,6 +6,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Turkish presidency says that the United States has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-the-united-states-has-told-them-that-the-u-s-will-not-provide-any-more-weapons-to-the-syrian-kurdish-ypg.md)
 _Context: Syrian Civil War, Turkish military intervention in Afrin, Turkish presidency, United States, YPG_
 
+### [A suicide bomber kills at least 95 people and wounds 158 in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-kills-at-least-95-people-and-wounds-158-in-kabul-afghanistan.md)
+Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
+
+### [A 92-year old Kindertransport survivor warns against current politics of division and hate speech. ](/news/2018/01/27/a-92-year-old-kindertransport-survivor-warns-against-current-politics-of-division-and-hate-speech.md)
+A 92-year-old Kindertransport survivor has issued an urgent call to put a stop to the politics of division before it’s too late, warning that the world has “learnt nothing” from the atrocities committed in Nazi Germany. Speaking ahead of Holocaust Memorial Day, Austrian-born Harry Bibring, who...
+
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
 _Context: Economy of Germany, Economy of Russia, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
 
@@ -21,6 +27,9 @@ The two-day vote pits the pro-Russia, anti-immigration president against a pro-E
 
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
+
+### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4-0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-over.md)
+_Context: Boeing Company, Bombardier Inc., United States International Trade Commission, alleged price dumping_
 
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
