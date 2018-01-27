@@ -3,20 +3,21 @@ Formats: [HTML](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-i
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
-# Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-E.U. challenger Jiri Drahos. 
+# Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-EU challenger Jiri Drahos. 
 
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
 
 
 ### Sources:
 
-1. [BBC](http://www.bbc.com/news/world-europe-42832720)
-1. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/1343B/production/_99770987_044344250-1.jpg)
+1. [ABC News](http://abcnews.go.com/International/wireStory/latest-czech-president-takes-early-lead-runoff-vote-52649799)
+2. [BBC](http://www.bbc.com/news/world-europe-42832720)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/1343B/production/_99770987_044344250-1.jpg)
 
 ### Changes:
 
 1. [Voters in Czechia go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-E.U. challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czechia-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a-majorit.md) _2018-01-27 08:30:19 (First version)_
-1. [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-E.U. challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md) _(Current version)_
+1. [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-EU challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md) _(Current version)_
 
 ### Related:
 

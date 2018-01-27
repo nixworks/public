@@ -9,6 +9,9 @@ _Context: Syrian Civil War, Turkish military intervention in Afrin, Turkish pres
 ### [A suicide bomber kills at least 95 people and wounds 158 in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-kills-at-least-95-people-and-wounds-158-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
 
+### [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md)
+Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a...
+
 ### [A 92-year old Kindertransport survivor warns against current politics of division and hate speech. ](/news/2018/01/27/a-92-year-old-kindertransport-survivor-warns-against-current-politics-of-division-and-hate-speech.md)
 A 92-year-old Kindertransport survivor has issued an urgent call to put a stop to the politics of division before it’s too late, warning that the world has “learnt nothing” from the atrocities committed in Nazi Germany. Speaking ahead of Holocaust Memorial Day, Austrian-born Harry Bibring, who...
 
@@ -18,7 +21,7 @@ _Context: Economy of Germany, Economy of Russia, Nord Stream 2, Poland, Rex Till
 ### [The River Seine in Paris, France floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-E.U. challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md)
+### [Voters in Czech Republic go back to the polls in a run-off election after the first round of voting on January 12&ndash;13 didn't lead to a majority. Pro-Russia incumbent Milos Zeman faces pro-EU challenger Jiri Drahos. ](/news/2018/01/27/voters-in-czech-republic-go-back-to-the-polls-in-a-run-off-election-after-the-first-round-of-voting-on-january-12-ndash-13-didn-t-lead-to-a.md)
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
 
 ---
