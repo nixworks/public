@@ -3,7 +3,7 @@ Formats: [HTML](2018/01/28/index.html)  [JSON](2018/01/28/index.json)  [XML](201
 
 ## [2018-01-28](/news/2018/01/28/index.md)
 
-### [7 survivors from the Butiraoi, 6 adults and an unconscious baby, are found in a dinghy and rescued, around four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/7-survivors-from-the-butiraoi-6-adults-and-an-unconscious-baby-are-found-in-a-dinghy-and-rescued-around-four-days-after-the-50-passenger.md)
+### [Seven survivors from the Butiraoi, six adults and an unconscious baby, are found in a dinghy and rescued, around four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-butiraoi-six-adults-and-an-unconscious-baby-are-found-in-a-dinghy-and-rescued-around-four-days-after-the-50-pass.md)
 The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
 
 ### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-hope-to-work-to-improve-relations.md)

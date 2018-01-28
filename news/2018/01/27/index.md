@@ -12,7 +12,7 @@ Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
 _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States Secretary of State, energy security_
 
-### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
+### [Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. ](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-high-alert-as-the-swollen-river-seine-threatens-to-overflow-its-banks.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
 ### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster said January 26 that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-said-january-26-that-the-u-s-will-not-provide.md)
