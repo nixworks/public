@@ -10,8 +10,8 @@ Formats: [HTML](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apc
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-zimbabwe-politics/soldiers-on-harare-streets-as-ruling-party-accuses-zimbabwe-army-chief-of-treason-idUSKBN1DE1NG)
-1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171114&t=2&i=1209797409&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEDAD1CM)
+1. [Reuters](https://www.reuters.com/article/us-zimbabwe-politics/soldiers-on-harare-streets-as-ruling-party-accuses-zimbabwe-army-chief-of-treason-idUSKBN1DE1NG)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20171114&t=2&i=1209797409&w=1200&r=LYNXMPEDAD1CM)
 
 ### Changes:
 
