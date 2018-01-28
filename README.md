@@ -62,7 +62,7 @@ The vessel was reported missing on Thursday after it failed to arrive at the isl
 ### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
 Residents will be banned from using more than 50 litres of water a day from next month.
 
-### [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-pa.md)
+### [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope that the federal taxpayer will largely pay the tab. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-that-the-federal-taxpayer-will-la.md)
 California Department of Water Resources discloses more than $200 million in additional costs for massive project.
 
 ### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
