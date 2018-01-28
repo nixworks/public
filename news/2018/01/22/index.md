@@ -30,6 +30,9 @@ _Context: East Jerusalem, European Union, Federica Mogherini, High Representativ
 ### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
 _Context: Michele Nicoletti, Parliamentary Assembly of the Council of Europe, President of the Parliamentary Assembly of the Council of Europe_
 
+### [President Donald Trump imposes Section 201 tariffs on imported solar panels and washing machines. ](/news/2018/01/22/president-donald-trump-imposes-section-201-tariffs-on-imported-solar-panels-and-washing-machines.md)
+President Donald Trump is approving tariffs on imported solar-energy components and large washing machines in a bid to help U.S. manufacturers.
+
 ### [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md)
 The nurse was already sentenced for killing six patients by injecting them with drugs and then trying to revive them. If convicted, Niels Högel will be one of the most prolific serial killers in German history.
 

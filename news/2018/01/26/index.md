@@ -12,7 +12,7 @@ _Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, U
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
 
-### [In France, zoological park is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/in-france-zoological-park-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
+### [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
 Visitors to Paris Zoological Park evacuated as workers try to lure animals back to enclosures
 
 ### [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md)

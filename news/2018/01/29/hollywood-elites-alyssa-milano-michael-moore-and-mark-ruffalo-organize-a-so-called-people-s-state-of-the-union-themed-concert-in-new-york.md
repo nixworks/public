@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/29/hollywood-elites-alyssa-milano-michael-moore-an
 
 ### [2018-01-29](/news/2018/01/29/index.md)
 
-# Hollywood elites Alyssa Milano, Michael Moore and Mark Ruffalo organize a so-called "People's State of the Union"-themed concert in New York City. Common and Andra Day will perform. 
+# Hollywood elites Alyssa Milano, Michael Moore and Mark Ruffalo organize a so-called "People's State of the Union"-themed concert in New York City. Common and Andra Day perform. 
 
 
 
