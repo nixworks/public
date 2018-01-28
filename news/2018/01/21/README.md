@@ -7,7 +7,7 @@ Formats: [HTML](2018/01/21/index.html)  [JSON](2018/01/21/index.json)  [XML](201
 At least four gunmen launched an attack, according to Afghan officials
 
 ### [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md)
-_Context: Afrin, Binali Yildirim, President of Turkey, Recep Tayyip Erdogan, Syria, Turkish Army ground troops, Turkish Prime Minister, Turkish military intervention in Afrin_
+_Context: Afrin District, Binali Yildirim, President of Turkey, Recep Tayyip Erdogan, Syria, Turkish Army ground troops, Turkish Prime Minister, Turkish military intervention in Afrin_
 
 ### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
 The United Nations Security Council will hold talks about the situation in Syria on Monday, French Foreign minister Jean-Yves Le Drian said on his Twitter feed on Sunday.
