@@ -18,10 +18,10 @@ China hopes to work with Japan to get relations back onto a normal track, Chines
 ### [Five people are shot and killed in a mass shooting at a car wash in the Melcroft, Pennsylvania suburb of Saltlick Township. A sixth person was injured. ](/news/2018/01/28/five-people-are-shot-and-killed-in-a-mass-shooting-at-a-car-wash-in-the-melcroft-pennsylvania-suburb-of-saltlick-township-a-sixth-person-w.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
-### [Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes.](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedented-first-round-victory-after-receiving-62-7-percent-of-the-votes.md)
+### [Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes. ](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedented-first-round-victory-after-receiving-62-7-percent-of-the-votes.md)
 Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
 
-### [Russian opposition leader Alexei Navalny is arrested by police at a protest in Moscow. His arrest came shortly after police raided the headquarters of his Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin. ](/news/2018/01/28/russian-opposition-leader-alexei-navalny-is-arrested-by-police-at-a-protest-in-moscow-his-arrest-came-shortly-after-police-raided-the-headq.md)
+### [Russian opposition figure Alexei Navalny is arrested by police at a protest in Moscow. His arrest came shortly after police raided the headquarters of his Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while Police said they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-in-moscow-his-arrest-came-shortly-after-police-raided-the-headq.md)
 Police seize Russian opposition leader at rally calling for boycott of March presidential election
 
 ## [Previous Day...](/news/2018/01/27/index.md)
