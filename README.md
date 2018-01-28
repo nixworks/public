@@ -25,6 +25,9 @@ _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
+### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster said January 26 that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-said-january-26-that-the-u-s-will-not-provide.md)
+Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
+
 ### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
@@ -43,9 +46,6 @@ Juan Orlando Hernandez has been sworn in for a second term despite an ongoing cr
 
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
-
-### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster says that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/26/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-says-that-the-u-s-will-not-provide-any-more-we.md)
-Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
 ### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
 _Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_

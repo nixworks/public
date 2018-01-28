@@ -6,9 +6,6 @@ Formats: [HTML](2018/01/26/index.html)  [JSON](2018/01/26/index.json)  [XML](201
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
 
-### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster says that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/26/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-says-that-the-u-s-will-not-provide-any-more-we.md)
-Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
-
 ### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
 _Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_
 
