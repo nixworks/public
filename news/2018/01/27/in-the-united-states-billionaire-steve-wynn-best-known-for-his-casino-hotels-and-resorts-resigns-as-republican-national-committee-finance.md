@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-bes
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
-# In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. 
+# In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. 
 
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 

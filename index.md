@@ -3,6 +3,9 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/01/28/index.md)
 
+### [7 survivors from the Butiraoi, 6 adults and an unconscious baby, are found in a dinghy and rescued, around four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/7-survivors-from-the-butiraoi-6-adults-and-an-unconscious-baby-are-found-in-a-dinghy-and-rescued-around-four-days-after-the-50-passenger.md)
+The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
+
 ### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-hope-to-work-to-improve-relations.md)
 China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
 
@@ -28,7 +31,7 @@ The River Seine has burst its banks in places, and is expected to reach its peak
 ### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster said January 26 that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-said-january-26-that-the-u-s-will-not-provide.md)
 Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
-### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
+### [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
 ### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
