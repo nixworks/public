@@ -15,7 +15,7 @@ Formats: [HTML](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-t
 
 ### Changes:
 
-1. [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md) _2018-01-25 23:30:07 (First version)_
+1. [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md) _2018-01-28 00:30:18 (First version)_
 1. [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md) _(Current version)_
 
 ### Related:

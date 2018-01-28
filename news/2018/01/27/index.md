@@ -3,9 +3,6 @@ Formats: [HTML](2018/01/27/index.html)  [JSON](2018/01/27/index.json)  [XML](201
 
 ## [2018-01-27](/news/2018/01/27/index.md)
 
-### [The Turkish presidency says that United States National Security Advisor H. R. McMaster said on Friday that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-united-states-national-security-advisor-h-r-mcmaster-said-on-friday-that-the-u-s-will-not-provide-any-m.md)
-Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
-
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
 
@@ -18,14 +15,17 @@ _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
-The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
-
 ### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
-### [The U.S. will pay Boeing nearly $24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-u-s-will-pay-boeing-nearly-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to-carry-70-cu.md)
+### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
+The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+
+### [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md)
 The improvement is just the latest example of the bespoke requirements for the presidential jets.
+
+### [President Juan Orlando Hernandez Alvarado takes oath of his second presidential term amid protests led by Salvador Nasralla, former candidate for the Alliance of Opposition against the Dictatorship. ](/news/2018/01/27/president-juan-orlando-herna-ndez-alvarado-takes-oath-of-his-second-presidential-term-amid-protests-led-by-salvador-nasralla-former-candida.md)
+Juan Orlando Hernandez has been sworn in for a second term despite an ongoing crisis over his election win in November. Thousands of protesters were blocked from reaching the inauguration event.
 
 ## [Previous Day...](/news/2018/01/26/index.md)
 

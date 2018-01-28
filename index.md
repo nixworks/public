@@ -1,10 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/27/index.md)
+## [News](/news/2018/01/28/index.md)
 
-### [The Turkish presidency says that United States National Security Advisor H. R. McMaster said on Friday that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/27/the-turkish-presidency-says-that-united-states-national-security-advisor-h-r-mcmaster-said-on-friday-that-the-u-s-will-not-provide-any-m.md)
-Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
+### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they will work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-will-work-to-improve-relations.md)
+China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
+
+---
+
+## [Yesterday](/news/2018/01/27/index.md)
 
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
@@ -18,21 +22,27 @@ _Context: Energy in Europe, Nord Stream 2, Poland, Rex Tillerson, United States 
 ### [The River Seine in Paris, France, floods. ](/news/2018/01/27/the-river-seine-in-paris-france-floods.md)
 The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
-### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
-The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
-
 ### [In the United States, billionaire Steve Wynn, best-known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
-### [The U.S. will pay Boeing nearly $24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-u-s-will-pay-boeing-nearly-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to-carry-70-cu.md)
+### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
+The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+
+### [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md)
 The improvement is just the latest example of the bespoke requirements for the presidential jets.
+
+### [President Juan Orlando Hernandez Alvarado takes oath of his second presidential term amid protests led by Salvador Nasralla, former candidate for the Alliance of Opposition against the Dictatorship. ](/news/2018/01/27/president-juan-orlando-herna-ndez-alvarado-takes-oath-of-his-second-presidential-term-amid-protests-led-by-salvador-nasralla-former-candida.md)
+Juan Orlando Hernandez has been sworn in for a second term despite an ongoing crisis over his election win in November. Thousands of protesters were blocked from reaching the inauguration event.
 
 ---
 
-## [Yesterday](/news/2018/01/26/index.md)
+## [Day Before Yesterday](/news/2018/01/26/index.md)
 
 ### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
+
+### [According to the Turkish presidency, United States National Security Advisor H. R. McMaster says that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". ](/news/2018/01/26/according-to-the-turkish-presidency-united-states-national-security-advisor-h-r-mcmaster-says-that-the-u-s-will-not-provide-any-more-we.md)
+Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
 ### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
 _Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_
@@ -63,41 +73,7 @@ _Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald 
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/25/index.md)
-
-### [Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. ](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso-are-killed-after-their-vehicle-struck-a-landmine-near-the-village-of-boni-in-mali-s-mopti-re.md)
-A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
-
-### [Tens of thousands of Pentecostal Christians in Mbarara, Uganda take to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people's lives to Christ and preaching the gospel across the entire district. ](/news/2018/01/25/tens-of-thousands-of-pentecostal-christians-in-mbarara-uganda-take-to-the-streets-with-songs-of-praise-and-thanks-to-hold-a-common-celebrat.md)
-Tens of thousands of Pentecostal Christians in Mbarara - Western Uganda have in unity taken to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people&#039;s lives to Christ and preaching the gospel across the entire district. Many traveled from su...
-
-### [Financial analysts interpret remarks by United States Secretary of the Treasury Steven Mnuchin as an indication that the United States may change the strong dollar policy that it has held since the 1990s. This is evidenced by the fact that he did not deliver the usual message that a strong dollar is good for America. ](/news/2018/01/25/financial-analysts-interpret-remarks-by-united-states-secretary-of-the-treasury-steven-mnuchin-as-an-indication-that-the-united-states-may-c.md)
-European Central Bank chief Mario Draghi took a swipe at Washington on Thursday for talking down the dollar, a move he said threatened a decades-old pact not to target the currency and might force his bank to change its own policy.
-
-### [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md)
-The cause of the accident is not yet clear but a collapse of the rail track is under investigation.
-
-### [Chancellor Angela Merkel and Foreign Minister Sigmar Gabriel, for the German caretaker government, decide to delay a decision on upgrading Turkey's German-built Leopard 2 tanks until after the formation of a new government coalition. Foreign Minister of Turkey Mevlut Cavusoglu says Turkey expects "solidarity and support" from its ally. ](/news/2018/01/25/chancellor-angela-merkel-and-foreign-minister-sigmar-gabriel-for-the-german-caretaker-government-decide-to-delay-a-decision-on-upgrading-t.md)
-_Context: Angela Merkel, Chancellor, Foreign Minister, Foreign Minister of Turkey, Germany-Turkey relations, Leopard 2, Mevlut Cavusoglu, Sigmar Gabriel, caretaker, government_
-
-### [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md)
-The US president says the Palestinians must pursue peace with Israel if they want aid money.
-
-### [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md)
-The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
-
-### [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. The SGBPo Paulo stock market hits new highs and the value of the Brazilian real strengthens. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md)
-_Context: Brazil Workers' Party, Brazilian real, Luiz Inacio Lula da Silva, Politics of Brazil, SGBPo Paulo, president, presidential election_
-
-### [The Attorney General and the Head of the Anticorruption Commission of the UN, reported on a new case of corruption in the Superintendency of Tax Administration, leaving 9 people arrested, including the Former President of that organization. ](/news/2018/01/25/the-attorney-general-and-the-head-of-the-anticorruption-commission-of-the-un-reported-on-a-new-case-of-corruption-in-the-superintendency-of.md)
-_Context: Politics of Guatemala_
-
-### [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md)
-The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
-
----
-
-## [Previous Day...](/news/2018/01/24/index.md)
+## [Previous Day...](/news/2018/01/25/index.md)
 
 ---
 
