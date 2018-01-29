@@ -19,7 +19,7 @@ The deputy director of the FBI is stepping down – a week after it was reported
 
 ## [Yesterday](/news/2018/01/28/index.md)
 
-### [United Arab Emirates-backed Southern Transitional Council (SCT) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-sct-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md)
+### [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md)
 Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after taking over government buildings in Aden.
 
 ### [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md)
