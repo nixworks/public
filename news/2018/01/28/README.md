@@ -12,7 +12,7 @@ The Syrian government and a war monitor said on Sunday that Turkish shelling of 
 ### [Leonard Cohen and Carrie Fisher win posthumously. ](/news/2018/01/28/leonard-cohen-and-carrie-fisher-win-posthumously.md)
 A list of the winners from the 60th annual Grammys.
 
-### [Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally reveals the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-reveals-the-locations-of-alleged-united-s.md)
+### [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md)
 Geolocation isn’t a new problem for the military
 
 ### [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md)
