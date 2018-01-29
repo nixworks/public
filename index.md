@@ -33,7 +33,7 @@ By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sund
 ### [Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes. ](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedented-first-round-victory-after-receiving-62-7-percent-of-the-votes.md)
 Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
 
-### [Russian opposition figure Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid-the.md)
+### [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md)
 Police seize Russian opposition leader at rally calling for boycott of March presidential election
 
 ---

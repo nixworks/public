@@ -12,7 +12,7 @@ At least four people are killed and 40 wounded in the crash and fire, rescue wor
 
 1. [BBC News](http://www.bbc.com/news/world-africa-42565653)
 2. [News24](https://www.news24.com/SouthAfrica/News/death-toll-in-free-state-train-crash-rises-to-12-rescuers-search-for-more-bodies-20180104)
-3. [The Independent](http://www.independent.co.uk/news/world/africa/south-africa-train-crash-latest-truck-collision-passengers-injured-hennenman-kroonstad-free-state-a8141261.html)
+3. [The Independent](https://www.independent.co.uk/news/world/africa/south-africa-train-crash-latest-truck-collision-passengers-injured-hennenman-kroonstad-free-state-a8141261.html)
 3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/E5CA/production/_99462885_er24.jpg)
 
 ### Changes:
