@@ -10,7 +10,7 @@ Belgium and the Netherlands peacefully altered their national borders by swappin
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/belgium-netherlands-national-border-change-meuse-vise-eijsden-maastricht-a8141166.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/belgium-netherlands-national-border-change-meuse-vise-eijsden-maastricht-a8141166.html)
 2. [UPI](https://www.upi.com/Top_News/World-News/2018/01/05/Belgium-Netherlands-change-their-mutual-border-in-48-acre-land-swap/9271515174185/)
 2. [Cover Image](https://cdnph.upi.com/sv/ph/og/i/9271515174185/2018/1/15151745381836/v2.1/Belgium-Netherlands-change-their-mutual-border-in-48-acre-land-swap.jpg)
 
