@@ -3,8 +3,8 @@ Formats: [HTML](2018/01/29/index.html)  [JSON](2018/01/29/index.json)  [XML](201
 
 ## [2018-01-29](/news/2018/01/29/index.md)
 
-### [Hollywood elites Alyssa Milano, Michael Moore and Mark Ruffalo organize a so-called "People's State of the Union"-themed concert in New York City. Common and Andra Day perform. ](/news/2018/01/29/hollywood-elites-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-so-called-people-s-state-of-the-union-themed-concert-in-new-york.md)
-_Context: Alyssa Milano, Andra Day, Common, Mark Ruffalo, Michael Moore, New York City, Protests against Donald Trump, State of the Union_
+### [Minutes before the registration deadline, a second candidate fulfills paperwork to participate in the March 28-29 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-fulfills-paperwork-to-participate-in-the-march-28-29-presidential-election-lea.md)
+An Egyptian politician emerged just ahead of a deadline on Monday as the sole challenger to President Abdel Fattah al-Sisi in an election in March the incumbent is set to win after other candidates withdrew citing repression.
 
 ## [Previous Day...](/news/2018/01/28/index.md)
 
