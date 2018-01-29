@@ -1,7 +1,14 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/28/index.md)
+## [News](/news/2018/01/29/index.md)
+
+### [Hollywood elites Alyssa Milano, Michael Moore and Mark Ruffalo organize a so-called "People's State of the Union"-themed concert in New York City. Common and Andra Day perform. ](/news/2018/01/29/hollywood-elites-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-so-called-people-s-state-of-the-union-themed-concert-in-new-york.md)
+_Context: Alyssa Milano, Andra Day, Common, Mark Ruffalo, Michael Moore, New York City, Protests against Donald Trump, State of the Union_
+
+---
+
+## [Yesterday](/news/2018/01/28/index.md)
 
 ### [United Arab Emirates-backed Southern Transitional Council (SCT) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-sct-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md)
 Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after taking over government buildings in Aden.
@@ -26,7 +33,7 @@ Police seize Russian opposition leader at rally calling for boycott of March pre
 
 ---
 
-## [Yesterday](/news/2018/01/27/index.md)
+## [Day Before Yesterday](/news/2018/01/27/index.md)
 
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
@@ -46,7 +53,7 @@ Fighting raged in northwestern Syria Saturday as Turkish troops and allied milit
 ### [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
-### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
+### [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md)
 The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
 
 ### [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md)
@@ -57,41 +64,7 @@ Juan Orlando Hernandez has been sworn in for a second term despite an ongoing cr
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/26/index.md)
-
-### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
-President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
-
-### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
-_Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_
-
-### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
-At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
-
-### [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
-Visitors to Paris Zoological Park evacuated as workers try to lure animals back to enclosures
-
-### [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md)
-The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
-
-### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
-Residents will be banned from using more than 50 litres of water a day from next month.
-
-### [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md)
-California Department of Water Resources discloses more than $200 million in additional costs for massive project.
-
-### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
-A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
-
-### [Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. ](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryptocurrency-from-japanese-exchange-coincheck.md)
-Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
-
-### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
-
----
-
-## [Previous Day...](/news/2018/01/25/index.md)
+## [Previous Day...](/news/2018/01/26/index.md)
 
 ---
 
