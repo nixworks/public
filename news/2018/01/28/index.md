@@ -27,10 +27,13 @@ China hopes to work with Japan to get relations back onto a normal track, Chines
 ### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
+### [Incumbent Nicos Anastasiades wins the first round, but well short of an absolute majority required to win outright. He will face his rival in 2013, Stavros Malas in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-but-well-short-of-an-absolute-majority-required-to-win-outright-he-will-face-his-rival-i.md)
+By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sunday comfortably made it through to the second round of the presidential elections slated for February 4, garnering 35.5 per cent of the vote amid an election marred by voter abstention of 28.6 per cent. He will be running...
+
 ### [Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes. ](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedented-first-round-victory-after-receiving-62-7-percent-of-the-votes.md)
 Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
 
-### [Russian opposition figure Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest came shortly after police raided the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police said they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-came-shortly-after-police-raided-the.md)
+### [Russian opposition figure Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid-the.md)
 Police seize Russian opposition leader at rally calling for boycott of March presidential election
 
 ## [Previous Day...](/news/2018/01/27/index.md)
