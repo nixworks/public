@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
-# Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. 
+# Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. 
 
 The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
 
@@ -17,7 +17,7 @@ The six adults and baby were among 50 people on the ferry but the New Zealand re
 
 1. [7 survivors from the Butiraoi, 6 adults and an unconscious baby, are found in a dinghy and rescued, around four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/7-survivors-from-the-butiraoi-6-adults-and-an-unconscious-baby-are-found-in-a-dinghy-and-rescued-around-four-days-after-the-50-passenger.md) _2018-01-28 18:30:21 (First version)_
 2. [Seven survivors from the Butiraoi, six adults and an unconscious baby, are found in a dinghy and rescued, around four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-butiraoi-six-adults-and-an-unconscious-baby-are-found-in-a-dinghy-and-rescued-around-four-days-after-the-50-pass.md) _2018-01-28 20:30:11 (Update)_
-2. [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md) _(Current version)_
+2. [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md) _(Current version)_
 
 ### Related:
 

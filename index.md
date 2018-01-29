@@ -1,14 +1,7 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/01/29/index.md)
-
-### [Hollywood elites Alyssa Milano, Michael Moore and Mark Ruffalo organize a so-called "People's State of the Union"-themed concert in New York City. Common and Andra Day perform. ](/news/2018/01/29/hollywood-elites-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-so-called-people-s-state-of-the-union-themed-concert-in-new-york.md)
-_Context: Alyssa Milano, Andra Day, Common, Mark Ruffalo, Michael Moore, New York City, Protests against Donald Trump, State of the Union_
-
----
-
-## [Yesterday](/news/2018/01/28/index.md)
+## [News](/news/2018/01/28/index.md)
 
 ### [United Arab Emirates-backed Southern Transitional Council (SCT) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-sct-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md)
 Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after taking over government buildings in Aden.
@@ -16,24 +9,30 @@ Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after ta
 ### [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md)
 The Syrian government and a war monitor said on Sunday that Turkish shelling of the Kurdish-held Afrin region of Syria had seriously damaged an ancient temple.
 
-### [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there was a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md)
+### [Leonard Cohen and Carrie Fisher win posthumously. ](/news/2018/01/28/leonard-cohen-and-carrie-fisher-win-posthumously.md)
+A list of the winners from the 60th annual Grammys.
+
+### [Strava, which processes data from apps such as Fitbit, 'accidentally' reveals satellite images of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/strava-which-processes-data-from-apps-such-as-fitbit-accidentally-reveals-satellite-images-of-alleged-united-states-military-bases-overs.md)
+Geolocation isn’t a new problem for the military
+
+### [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md)
 The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
 
 ### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-hope-to-work-to-improve-relations.md)
 China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
 
-### [Five people are shot and killed in a mass shooting at a car wash in the Melcroft, Pennsylvania suburb of Saltlick Township. A sixth person was injured. ](/news/2018/01/28/five-people-are-shot-and-killed-in-a-mass-shooting-at-a-car-wash-in-the-melcroft-pennsylvania-suburb-of-saltlick-township-a-sixth-person-w.md)
+### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
 ### [Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes. ](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedented-first-round-victory-after-receiving-62-7-percent-of-the-votes.md)
 Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
 
-### [Russian opposition figure Alexei Navalny is arrested by police at a protest in Moscow. His arrest came shortly after police raided the headquarters of his Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while Police said they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-in-moscow-his-arrest-came-shortly-after-police-raided-the-headq.md)
+### [Russian opposition figure Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest came shortly after police raided the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police said they were looking for a bomb. ](/news/2018/01/28/russian-opposition-figure-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-came-shortly-after-police-raided-the.md)
 Police seize Russian opposition leader at rally calling for boycott of March presidential election
 
 ---
 
-## [Day Before Yesterday](/news/2018/01/27/index.md)
+## [Yesterday](/news/2018/01/27/index.md)
 
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
@@ -64,7 +63,44 @@ Juan Orlando Hernandez has been sworn in for a second term despite an ongoing cr
 
 ---
 
-## [Previous Day...](/news/2018/01/26/index.md)
+## [Day Before Yesterday](/news/2018/01/26/index.md)
+
+### [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md)
+President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
+
+### [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md)
+_Context: Alyssa Milano, Andra Day, Common, Mark Ruffalo, Michael Moore, New York City, Protests against Donald Trump, State of the Union_
+
+### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
+_Context: Boeing Company, Bombardier Inc., CSeries dumping petition by Boeing, United States International Trade Commission, price dumping_
+
+### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
+At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
+
+### [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md)
+Visitors to Paris Zoological Park evacuated as workers try to lure animals back to enclosures
+
+### [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md)
+The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
+
+### [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md)
+Residents will be banned from using more than 50 litres of water a day from next month.
+
+### [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md)
+California Department of Water Resources discloses more than $200 million in additional costs for massive project.
+
+### [Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. ](/news/2018/01/26/former-defense-minister-of-guatemala-williams-mansilla-is-arrested-for-a-possible-corruption-case-associated-with-a-bond-to-president-jimmy.md)
+A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
+
+### [Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. ](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryptocurrency-from-japanese-exchange-coincheck.md)
+Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
+
+### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
+_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
+
+---
+
+## [Previous Day...](/news/2018/01/25/index.md)
 
 ---
 

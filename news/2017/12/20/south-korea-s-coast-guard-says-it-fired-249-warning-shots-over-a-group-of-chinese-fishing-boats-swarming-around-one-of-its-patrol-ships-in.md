@@ -10,7 +10,7 @@ South Korea&#039;s coast guard said it fired 249 warning shots over a group of C
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/south-korea-chinese-finish-boats-warning-shots-illegal-fishing-waters-a8119871.html)
+1. [The Independent](https://www.independent.co.uk/news/world/asia/south-korea-chinese-finish-boats-warning-shots-illegal-fishing-waters-a8119871.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/11/04/15/south-korea-coastguard.jpg)
 
 ### Changes:
