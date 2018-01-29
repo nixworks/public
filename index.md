@@ -12,6 +12,9 @@ The Syrian government and a war monitor said on Sunday that Turkish shelling of 
 ### [Leonard Cohen and Carrie Fisher win posthumously. ](/news/2018/01/28/leonard-cohen-and-carrie-fisher-win-posthumously.md)
 A list of the winners from the 60th annual Grammys.
 
+### [Shinsuke Nakamura wins the 31st Royal Rumble match. Asuka wins the 32nd, the first all-woman version. Both receive championship matches at WrestleMania 34. Former UFC Women's Bantamweight Champion Ronda Rousey returns to WWE. ('](/news/2018/01/28/shinsuke-nakamura-wins-the-31st-royal-rumble-match-asuka-wins-the-32nd-the-first-all-woman-version-both-receive-championship-matches-at-w.md)
+It was a thrilling spectacle overall, but unfortunately the Royal Rumble ended on a sour note. Just like Shinsuke Nakamura’s win earlier in the night, the show should have finished by celebrating the winner of the women’s Rumble. Instead, we were treated to the Ronda Rousey show. 
+
 ### [Strava, which processes data from apps such as Fitbit, 'accidentally' reveals satellite images of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/strava-which-processes-data-from-apps-such-as-fitbit-accidentally-reveals-satellite-images-of-alleged-united-states-military-bases-overs.md)
 Geolocation isn’t a new problem for the military
 
