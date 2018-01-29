@@ -25,7 +25,7 @@ The body of six-year-old Zainab, who was raped and strangled, was found in a rub
 Former Ukip leader Nigel Farage is having half his MEP’s salary docked following a European Parliament investigation into the alleged misspending of EU funds. Mr Farage and seven other Ukip MEPs were last February accused of spending money meant to fund their offices on Ukip party matters – lead...
 
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, Cabinet of Germany, SPD, September 2017 federal election, grand coalition_
+_Context: CDU/CSU, SPD, caretaker, government, grand coalition_
 
 ### [Mexicans react with incredulity after President of Mexico Enrique Pena Nieto appointed Alberto Bazbaz to the position of head of the CISEN intelligence service. Bazbaz is known for having overseen a 9-day search for a missing girl, Paulette Gebara Farah, who was eventually found dead in her own bed. ](/news/2018/01/12/mexicans-react-with-incredulity-after-president-of-mexico-enrique-pea-a-nieto-appointed-alberto-bazbaz-to-the-position-of-head-of-the-cisen.md)
 Alberto Bazbaz, an ally of the president, has been handed the top intelligence job despite leading a nine-day search for missing girl later found dead in her own bed

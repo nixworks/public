@@ -10,7 +10,7 @@ Former Ukip leader Nigel Farage is having half his MEP’s salary docked followi
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/nigel-farage-european-parliament-docked-mep-salary-misspent-eu-funds-pension-a8156331.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-european-parliament-docked-mep-salary-misspent-eu-funds-pension-a8156331.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/11/17/front-farage.jpg)
 
 ### Related:

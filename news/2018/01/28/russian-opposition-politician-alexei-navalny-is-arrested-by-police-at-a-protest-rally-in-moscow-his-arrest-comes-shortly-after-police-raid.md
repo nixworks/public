@@ -10,8 +10,9 @@ Police seize Russian opposition leader at rally calling for boycott of March pre
 
 ### Sources:
 
-1. [The Guardian](https://www.theguardian.com/world/2018/jan/28/russian-police-raid-alexi-navalnys-office-on-day-of-anti-putin-rallies)
-1. [Cover Image](https://i.guim.co.uk/img/media/3e4bf578a3ec5199f48e359a8da3c611730a2088/0_0_4867_2920/master/4867.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8xOC9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=9dc370b7cedb9694acf1cf62712ca250)
+1. [Reuters](https://www.reuters.com/article/us-russia-election-navalny-release/russian-opposition-leader-navalny-released-after-rally-lawyer-idUSKBN1FH0X4)
+2. [The Guardian](https://www.theguardian.com/world/2018/jan/28/russian-police-raid-alexi-navalnys-office-on-day-of-anti-putin-rallies)
+2. [Cover Image](https://i.guim.co.uk/img/media/3e4bf578a3ec5199f48e359a8da3c611730a2088/0_0_4867_2920/master/4867.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8xOC9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=9dc370b7cedb9694acf1cf62712ca250)
 
 ### Changes:
 
