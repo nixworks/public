@@ -10,7 +10,7 @@ The deputy director of the FBI is stepping down – a week after it was reported
 
 ### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/us-politics/andrew-mccabe-trump-deputy-fbi-director-resigns-steps-down-row-oval-office-a8184126.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/andrew-mccabe-trump-deputy-fbi-director-resigns-steps-down-row-oval-office-a8184126.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/11/17/andrew-mccabe.jpg)
 
 ### Related:
