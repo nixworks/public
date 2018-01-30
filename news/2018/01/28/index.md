@@ -21,7 +21,7 @@ The six adults and baby were among 50 people on the ferry but the New Zealand re
 ### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-hope-to-work-to-improve-relations.md)
 China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
 
-### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md)
+### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person, believed to be the gunman, is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-believed-to-be-th.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
 ### [Incumbent Nicos Anastasiades wins the first round of the election, but is well short of an absolute majority required to win outright. He will face his rival from the 2013 election, Stavros Malas, in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-of-the-election-but-is-well-short-of-an-absolute-majority-required-to-win-outright-he-wi.md)

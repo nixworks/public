@@ -9,6 +9,9 @@ Locals accuse police of arriving too late to the scene of a bus accident that ki
 ### [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after the remains of an additional three people are found in planters on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-the-remains-of-an-additional-three-people-ar.md)
 Toronto landscaper Bruce McArthur now faces three additional counts of first-degree murder, bringing the total to five in what police are calling a serial killing case that the city has never seen before.
 
+### [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
+_Context: Crime in Pennsylvania, Mass shootings in the United States, Melcroft, Pennsylvania, Saltlick Township_
+
 ### [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md)
 An Egyptian politician emerged just ahead of a deadline on Monday as the sole challenger to President Abdel Fattah al-Sisi in an election in March the incumbent is set to win after other candidates withdrew citing repression.
 

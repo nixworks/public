@@ -16,6 +16,9 @@ Locals accuse police of arriving too late to the scene of a bus accident that ki
 ### [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after the remains of an additional three people are found in planters on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-the-remains-of-an-additional-three-people-ar.md)
 Toronto landscaper Bruce McArthur now faces three additional counts of first-degree murder, bringing the total to five in what police are calling a serial killing case that the city has never seen before.
 
+### [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
+_Context: Crime in Pennsylvania, Mass shootings in the United States, Melcroft, Pennsylvania, Saltlick Township_
+
 ### [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md)
 An Egyptian politician emerged just ahead of a deadline on Monday as the sole challenger to President Abdel Fattah al-Sisi in an election in March the incumbent is set to win after other candidates withdrew citing repression.
 
@@ -47,7 +50,7 @@ The six adults and baby were among 50 people on the ferry but the New Zealand re
 ### [Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. ](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-japanese-foreign-minister-tara-kano-in-beijing-and-says-they-hope-to-work-to-improve-relations.md)
 China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
 
-### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-is-severely-injure.md)
+### [Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person, believed to be the gunman, is severely injured. ](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-a-fifth-person-believed-to-be-th.md)
 The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
 ### [Incumbent Nicos Anastasiades wins the first round of the election, but is well short of an absolute majority required to win outright. He will face his rival from the 2013 election, Stavros Malas, in the second round. ](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-round-of-the-election-but-is-well-short-of-an-absolute-majority-required-to-win-outright-he-wi.md)
