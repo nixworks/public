@@ -3,11 +3,8 @@ Formats: [HTML](2017/01/31/index.html)  [JSON](2017/01/31/index.json)  [XML](201
 
 ## [2017-01-31](/news/2017/01/31/index.md)
 
-### [ The Syrian opposition agrees to surrender their remaining villages in the stretch between the Wadi Barada area and the Lebanon-Syria border, as well as the Rankous border-crossing in the Qalamoun Mountains, in exchange for transportation of at least 250 rebel fighters to their stronghold in the Idlib Governorate. ](/news/2017/01/31/the-syrian-opposition-agrees-to-surrender-their-remaining-villages-in-the-stretch-between-the-wadi-barada-area-and-the-lebanon-syria-border.md)
+### [ The Syrian opposition agrees to surrender their remaining villages in the stretch between the Wadi Barada area and the Lebanon-Syria border, as well as the Rankous borderange for transportation of at least 250 rebel fighters to their stronghold in the Idlib Governorate. ](/news/2017/01/31/the-syrian-opposition-agrees-to-surrender-their-remaining-villages-in-the-stretch-between-the-wadi-barada-area-and-the-lebanon-syria-border.md)
 BEIRUT, LEBANON (2:00 A.M.) - The jihadist rebels have agreed to surrender the remaining villages between the Lebanese border and Wadi Barada area after a
-
-### [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democra.md)
-The governing coalition may also prevent civil servants from wearing religious symbols.
 
 ### [Consultancy PwC says that global banks with business both in London and on the European continent must plan for a hard Brexit that entails a break with many of the benefits of the Euro system, and a short transition period. ](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.md)
 _Context: EUR, PwC, hard Brexit_
