@@ -31,7 +31,7 @@ The film superstar says he will form a party to &quot;change the political syste
 _Context: 2017 Iranian protests, Instagram, Iran, Telegram, since 2009_
 
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine President, Palestine-United States relations, U.S. President, peace plan_
+_Context: Donald Trump, Jerusalem, Mahmoud Abbas, Palestine-United States relations, President, President of the State of Palestine, peace plan_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 
