@@ -34,7 +34,7 @@ A former Guatemalan general was arrested on corruption charges relating to a spe
 Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
 
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, President, U.S. Geological Survey_
+_Context: Donald Trump, James F. Reilly, NASA, Political appointments by Donald Trump, U.S. Geological Survey, U.S. President_
 
 ## [Previous Day...](/news/2018/01/25/index.md)
 

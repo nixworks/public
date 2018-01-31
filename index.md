@@ -6,10 +6,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md)
 Southern Yemeni separatists took control of the port city of Aden after two days of fighting, residents said on Tuesday, confining the internationally recognized government of President Abd-Rabbu Mansour Hadi to the presidential palace.
 
-### [The United States publishes a list of Russian politicians and oligarchs that the US government was required by CAATSA to draw up; Russian President Vladimir Putin says that the list is an unfriendly act that complicates ties between the two countries. ](/news/2018/01/30/the-united-states-publishes-a-list-of-russian-politicians-and-oligarchs-that-the-us-government-was-required-by-caatsa-to-draw-up-russian-pr.md)
-The list of top Russians was required by a US sanctions law but no new measures are announced.
-
-### [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the United States House of Representatives. ](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-united-s.md)
+### [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives. ](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md)
 Follow our live coverage for the latest updates and analysis throughout the day.
 
 ---
@@ -19,7 +16,7 @@ Follow our live coverage for the latest updates and analysis throughout the day.
 ### [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md)
 Locals accuse police of arriving too late to the scene of a bus accident that killed 36 people.
 
-### [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after the remains of an additional three people are found in planters on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-the-remains-of-an-additional-three-people-ar.md)
+### [Toronto Police charge landscaper Bruce McArthur with five charges of first-degree murder, after planters containing the remains of three other people are found on a property linked to him. ](/news/2018/01/29/toronto-police-charge-landscaper-bruce-mcarthur-with-five-charges-of-first-degree-murder-after-planters-containing-the-remains-of-three-oth.md)
 Toronto landscaper Bruce McArthur now faces three additional counts of first-degree murder, bringing the total to five in what police are calling a serial killing case that the city has never seen before.
 
 ### [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
