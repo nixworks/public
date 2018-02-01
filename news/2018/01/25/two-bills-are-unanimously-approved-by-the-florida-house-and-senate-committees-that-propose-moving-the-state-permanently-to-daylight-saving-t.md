@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-flori
 
 # Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. 
 
-The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
+Time in Florida: The proposal being considered by the Legislature would need congressional approval to let Florida remain on Daylight Saving time year-round.
 
 
 ### Sources:

@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/30/the-southern-transitional-council-stc-takes-con
 
 # The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. 
 
-Southern Yemeni separatists took control of the port city of Aden after two days of fighting, residents said on Tuesday, confining the internationally recognized government of President Abd-Rabbu Mansour Hadi to the presidential palace.
+Yemeni Crisis (2011-present): Southern Yemeni separatists took control of the port city of Aden after two days of fighting, residents said on Tuesday, confining the internationally recognized government of President Abd-Rabbu Mansour Hadi to the presidential palace.
 
 
 ### Sources:

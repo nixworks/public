@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-s
 
 # U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives. 
 
-Follow our live coverage for the latest updates and analysis throughout the day.
+2018 State of the Union Address: Follow our live coverage for the latest updates and analysis throughout the day.
 
 
 ### Sources:

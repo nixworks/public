@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/27/according-to-the-turkish-presidency-united-stat
 
 # According to the Turkish presidency, United States National Security Advisor H. R. McMaster said January 26 that the U.S. "will not provide any more weapons to the Syrian Kurdish YPG militia". 
 
-Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
+Turkish military intervention in Afrin: Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
 
 ### Sources:

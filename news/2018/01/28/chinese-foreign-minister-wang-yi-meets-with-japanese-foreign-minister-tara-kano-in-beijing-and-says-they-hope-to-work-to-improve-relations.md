@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/28/chinese-foreign-minister-wang-yi-meets-with-jap
 
 # Chinese Foreign Minister Wang Yi meets with Japanese Foreign Minister Taro Kono in Beijing and says they hope to work to improve relations. 
 
-China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
+China-Japan relations: China hopes to work with Japan to get relations back onto a normal track, Chinese Foreign Minister Wang Yi told his Japanese counterpart on Sunday, amid a series of disputes, some dating back to before World War Two.
 
 
 ### Sources:

@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/26/former-defense-minister-of-guatemala-williams-m
 
 # Former Defense Minister of Guatemala Williams Mansilla is arrested for a possible corruption case associated with a bond to President Jimmy Morales. The Attorney General asked the Supreme Court to consider again the impeachment against President Morales. 
 
-A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
+Crime in Guatemala: A former Guatemalan general was arrested on corruption charges relating to a special bonus paid to President Jimmy Morales by the defense ministry, prosecutors said on Friday.
 
 
 ### Sources:

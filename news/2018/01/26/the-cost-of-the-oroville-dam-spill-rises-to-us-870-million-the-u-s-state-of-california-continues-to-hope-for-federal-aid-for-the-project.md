@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-
 
 # The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. 
 
-California Department of Water Resources discloses more than $200 million in additional costs for massive project.
+Oroville Dam crisis: California Department of Water Resources discloses more than $200 million in additional costs for massive project.
 
 
 ### Sources:

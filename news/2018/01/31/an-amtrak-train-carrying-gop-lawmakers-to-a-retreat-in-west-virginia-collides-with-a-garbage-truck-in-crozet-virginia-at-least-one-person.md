@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/31/an-amtrak-train-carrying-gop-lawmakers-to-a-ret
 
 # An Amtrak train carrying GOP lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are are no serious injuries among members of Congress or their staff. 
 
-At least one person was killed and another seriously injured when an Amtrak train carrying Republican members of Congress hit a truck in rural Virginia. 
+2018 Crozet, Virginia train crash: At least one person was killed and another seriously injured when an Amtrak train carrying Republican members of Congress hit a truck in rural Virginia. 
 
 
 ### Sources:

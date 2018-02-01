@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is
 
 # Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. 
 
-Police seize Russian opposition leader at rally calling for boycott of March presidential election
+2017-18 Russian protests: Police seize Russian opposition leader at rally calling for boycott of March presidential election
 
 
 ### Sources:

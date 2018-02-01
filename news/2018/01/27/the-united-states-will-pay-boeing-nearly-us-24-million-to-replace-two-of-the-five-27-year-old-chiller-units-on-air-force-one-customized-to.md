@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-
 
 # The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. 
 
-The improvement is just the latest example of the bespoke requirements for the presidential jets.
+Presidency of Donald Trump: The improvement is just the latest example of the bespoke requirements for the presidential jets.
 
 
 ### Sources:
@@ -25,4 +25,4 @@ The improvement is just the latest example of the bespoke requirements for the p
 2. [The United States Trump administration and the government of Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administration-and-the-government-of-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _Context: Presidency of Donald Trump, United States_
 3. [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md) _Context: Presidency of Donald Trump, United States_
 4. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _Context: Presidency of Donald Trump, United States_
-5. [The Palestinian National Authority threatens to revoke its recognition of Israel (guaranteed by their signing of the Oslo I Accord in 1993) if the United States, under the presidency of Donald Trump, moves its Embassy in Tel Aviv to Jerusalem. ](/news/2017/01/10/the-palestinian-national-authority-threatens-to-revoke-its-recognition-of-israel-guaranteed-by-their-signing-of-the-oslo-i-accord-in-1993.md) _Context: Presidency of Donald Trump, United States_
+5. [American fantasy adventure film "Oz the Great and Powerful" brings in an estimated $80.3 million in the United States during its opening weekend. ](/news/2013/03/10/american-fantasy-adventure-film-oz-the-great-and-powerful-brings-in-an-estimated-80-3-million-in-the-united-states-during-its-opening-wee.md) _Context: US$, United States_

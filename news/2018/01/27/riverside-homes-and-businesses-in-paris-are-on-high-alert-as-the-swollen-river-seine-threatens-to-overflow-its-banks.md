@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-
 
 # Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. 
 
-The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
+Paris: The River Seine has burst its banks in places, and is expected to reach its peak this weekend.
 
 
 ### Sources:

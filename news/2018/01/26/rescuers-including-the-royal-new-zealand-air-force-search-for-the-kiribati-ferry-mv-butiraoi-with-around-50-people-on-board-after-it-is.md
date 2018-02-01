@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-fo
 
 # Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. 
 
-The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
+Royal New Zealand Air Force: The vessel was reported missing on Thursday after it failed to arrive at the island of Betio.
 
 
 ### Sources:

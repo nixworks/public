@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-sout
 
 # A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. 
 
-At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
+2018 Miryang hospital fire: At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
 
 
 ### Sources:

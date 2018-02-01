@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-
 
 # United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. 
 
-
+Energy in Europe: 
 
 
 ### Sources:

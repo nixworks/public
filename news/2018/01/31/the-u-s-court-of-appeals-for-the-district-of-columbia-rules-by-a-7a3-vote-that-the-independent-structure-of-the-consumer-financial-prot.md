@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/31/the-u-s-court-of-appeals-for-the-district-of-co
 
 # The U.S. Court of Appeals for the District of Columbia rules, by a 7-3 vote, that the independent structure of the Consumer Financial Protection Bureau is constitutional. A separate case involving directorial succession is under appeal; lower courts have approved the president's selection of Mick Mulvaney as head of CFPB. 
 
-The ruling is the latest development in the legal fight over the Consumer Finance Protection Bureau supporters say combats predatory lending and other abuses. Critics say the agency is too powerful.
+U.S. Court of Appeals for the District of Columbia: The ruling is the latest development in the legal fight over the Consumer Finance Protection Bureau supporters say combats predatory lending and other abuses. Critics say the agency is too powerful.
 
 
 ### Sources:

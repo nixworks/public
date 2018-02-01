@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/25/the-attorney-general-and-the-head-of-the-antico
 
 # The Attorney General and the Head of the Anticorruption Commission of the UN, reported on a new case of corruption in the Superintendency of Tax Administration, leaving 9 people arrested, including the Former President of that organization. 
 
-
+Politics of Guatemala: 
 
 
 ### Sources:

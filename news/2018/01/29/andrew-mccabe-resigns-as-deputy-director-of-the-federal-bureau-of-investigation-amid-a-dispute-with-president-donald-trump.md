@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the
 
 # Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. 
 
-The deputy director of the FBI is stepping down – a week after it was reported that President Donald Trump was lobbying for his ouster.
+Presidency of Donald Trump: The deputy director of the FBI is stepping down – a week after it was reported that President Donald Trump was lobbying for his ouster.
 
 
 ### Sources:

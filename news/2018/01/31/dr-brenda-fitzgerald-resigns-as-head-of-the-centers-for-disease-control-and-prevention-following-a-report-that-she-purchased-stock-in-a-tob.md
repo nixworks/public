@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-cen
 
 # Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in a tobacco company shortly after taking her federal government position. 
 
-Fitzgerald owned stocks in tobacco companies despite being in charge of smoking cessation efforts.
+Political appointments by Donald Trump: Fitzgerald owned stocks in tobacco companies despite being in charge of smoking cessation efforts.
 
 
 ### Sources:

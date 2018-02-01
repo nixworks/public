@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-
 
 # San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. 
 
-San Francisco will retroactively apply California’s new marijuana legalization laws to prior convictions, expunging or reducing misdemeanor and felony convictions dating to 1975, the district attorney’s office announced Wednesday.
+Cannabis in California: San Francisco will retroactively apply California’s new marijuana legalization laws to prior convictions, expunging or reducing misdemeanor and felony convictions dating to 1975, the district attorney’s office announced Wednesday.
 
 
 ### Sources:

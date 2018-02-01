@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/28/leonard-cohen-and-carrie-fisher-win-posthumousl
 
 # Leonard Cohen and Carrie Fisher win posthumously. 
 
-A list of the winners from the 60th annual Grammys.
+60th Annual Grammy Awards: A list of the winners from the 60th annual Grammys.
 
 
 ### Sources:

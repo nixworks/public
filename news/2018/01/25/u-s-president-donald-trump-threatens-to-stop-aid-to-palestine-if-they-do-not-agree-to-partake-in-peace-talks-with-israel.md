@@ -5,7 +5,7 @@ Formats: [HTML](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-ai
 
 # U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. 
 
-The US president says the Palestinians must pursue peace with Israel if they want aid money.
+Palestine-United States relations: The US president says the Palestinians must pursue peace with Israel if they want aid money.
 
 
 ### Sources:
