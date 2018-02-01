@@ -10,8 +10,9 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ### Sources:
 
-1. [The Independent](https://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html)
-1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/31/13/theresa-may.jpg)
+1. [Sky News](https://news.sky.com/story/mps-vote-to-leave-parliament-during-six-year-refurbishment-11231458)
+2. [The Independent](https://www.independent.co.uk/news/uk/politics/brexit-theresa-may-leaked-papers-minister-disciplined-phillip-lee-uk-economy-leave-halted-latest-a8187236.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/31/13/theresa-may.jpg)
 
 ### Related:
 
