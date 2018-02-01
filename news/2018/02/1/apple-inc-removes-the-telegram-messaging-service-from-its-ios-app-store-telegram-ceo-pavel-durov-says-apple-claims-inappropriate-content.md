@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service
 ### [2018-02-1](/news/2018/02/1/index.md)
 
 ##### Apple Inc.
-# Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. 
+# Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. 
 
 
 

@@ -19,5 +19,9 @@ Follow our live coverage for the latest updates and analysis throughout the day.
 ### [The Speaker of the Parliament of Catalonia delays the session of investiture of Carles Puigdemont after the suspension by the Constitutional Court of the telematic investiture. Roger Torrent insists that Puigdemont is the only candidate, disobeying the decision of the high court. ](/news/2018/01/30/the-speaker-of-the-parliament-of-catalonia-delays-the-session-of-investiture-of-carles-puigdemont-after-the-suspension-by-the-constitutional.md)
 Speaker says ex-president is only candidate to form government despite Spanish state’s warnings
 
+##### Kenyan general election, 2017
+### [Raila Odinga stages a swearing in ceremony in Nairobi in which he names himself the 'People's president'.](/news/2018/01/30/raila-odinga-stages-a-swearing-in-ceremony-in-nairobi-in-which-he-names-himself-the-people-s-president.md)
+After supporters of the opposition leader Raila Odinga gathered for an alternative “inauguration,” the government declared part of his coalition criminal.
+
 ## [Previous Day...](/news/2018/01/29/index.md)
 
