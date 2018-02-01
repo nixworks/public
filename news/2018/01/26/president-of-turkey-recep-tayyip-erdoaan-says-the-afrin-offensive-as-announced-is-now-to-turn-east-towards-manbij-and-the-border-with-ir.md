@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-t
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### Syrian Civil War
 # President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. 
 
-Syrian Civil War: President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
+President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
 
 
 ### Sources:

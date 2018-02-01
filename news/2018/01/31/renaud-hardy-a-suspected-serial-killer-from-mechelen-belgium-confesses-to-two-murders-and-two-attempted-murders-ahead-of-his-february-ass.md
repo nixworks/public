@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mec
 
 ### [2018-01-31](/news/2018/01/31/index.md)
 
+##### Crime in Belgium
 # Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. 
 
-Crime in Belgium: 
+
 
 
 ### Sources:

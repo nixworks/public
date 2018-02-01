@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/the-united-states-international-trade-commissio
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### CSeries dumping petition by Boeing
 # The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. 
 
-CSeries dumping petition by Boeing: 
+
 
 
 ### Sources:

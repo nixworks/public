@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Shipwrecks in 2018
 # Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. 
 
-Shipwrecks in 2018: The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
+The six adults and baby were among 50 people on the ferry but the New Zealand rescuers say there are no signs of other survivors.
 
 
 ### Sources:

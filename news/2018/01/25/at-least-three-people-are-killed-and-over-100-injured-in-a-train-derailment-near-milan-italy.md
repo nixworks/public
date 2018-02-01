@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-i
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Pioltello train derailment
 # At least three people are killed and over 100 injured in a train derailment near Milan, Italy. 
 
-Pioltello train derailment: The cause of the accident is not yet clear but a collapse of the rail track is under investigation.
+The cause of the accident is not yet clear but a collapse of the rail track is under investigation.
 
 
 ### Sources:

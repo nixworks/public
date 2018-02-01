@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Politics of Brazil
 # The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. The SGBPo Paulo stock market hits new highs and the value of the Brazilian real strengthens. 
 
-Politics of Brazil: 
+
 
 
 ### Sources:

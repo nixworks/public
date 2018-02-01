@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/hackers-steal-535-million-worth-of-the-nem-cryp
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### Cryptocurrency and security
 # Hackers steal $535 million worth of the NEM cryptocurrency from Japanese exchange Coincheck. 
 
-Cryptocurrency and security: Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
+Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
 
 
 ### Sources:

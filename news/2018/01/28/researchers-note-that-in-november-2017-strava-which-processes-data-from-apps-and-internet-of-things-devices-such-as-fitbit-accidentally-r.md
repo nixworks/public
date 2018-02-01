@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/researchers-note-that-in-november-2017-strava-w
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Strava
 # Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. 
 
-Strava: Geolocation isn’t a new problem for the military
+Geolocation isn’t a new problem for the military
 
 
 ### Sources:

@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Turkish military operation in Afrin
 # Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". 
 
-Turkish military operation in Afrin: The Syrian government and a war monitor said on Sunday that Turkish shelling of the Kurdish-held Afrin region of Syria had seriously damaged an ancient temple.
+The Syrian government and a war monitor said on Sunday that Turkish shelling of the Kurdish-held Afrin region of Syria had seriously damaged an ancient temple.
 
 
 ### Sources:

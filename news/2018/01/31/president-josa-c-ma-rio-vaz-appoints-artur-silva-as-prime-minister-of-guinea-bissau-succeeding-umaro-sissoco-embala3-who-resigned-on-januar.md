@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silv
 
 ### [2018-01-31](/news/2018/01/31/index.md)
 
+##### Politics of Guinea-Bissau
 # President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. 
 
-Politics of Guinea-Bissau: 
+
 
 
 ### Sources:

@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-as
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### Political appointments by Donald Trump
 # U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. 
 
-Political appointments by Donald Trump: 
+
 
 
 ### Sources:

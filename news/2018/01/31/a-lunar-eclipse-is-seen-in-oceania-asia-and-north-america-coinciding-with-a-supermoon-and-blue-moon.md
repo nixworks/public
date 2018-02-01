@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/31/a-lunar-eclipse-is-seen-in-oceania-asia-and-nor
 
 ### [2018-01-31](/news/2018/01/31/index.md)
 
+##### January 2018 lunar eclipse
 # A lunar eclipse is seen in Oceania, Asia, and North America, coinciding with a supermoon and blue moon. 
 
-January 2018 lunar eclipse: Photos: It’s the first time in 35 years a blue moon has synced up with a so-called supermoon and a total lunar eclipse.
+Photos: It’s the first time in 35 years a blue moon has synced up with a so-called supermoon and a total lunar eclipse.
 
 
 ### Sources:

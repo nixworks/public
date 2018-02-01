@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/30/reports-about-the-publication-on-january-29-by-
 
 ### [2018-01-30](/news/2018/01/30/index.md)
 
+##### Russia-United States relations
 # Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. 
 
-Russia-United States relations: The list of top Russians was required by a US sanctions law but no new measures are announced.
+The list of top Russians was required by a US sanctions law but no new measures are announced.
 
 
 ### Sources:

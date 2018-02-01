@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/incumbent-nicos-anastasiades-wins-the-first-rou
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Cypriot presidential election, 2018
 # Incumbent Nicos Anastasiades wins the first round of the election, but is well short of an absolute majority required to win outright. He will face his rival from the 2013 election, Stavros Malas, in the second round. 
 
-Cypriot presidential election, 2018: By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sunday comfortably made it through to the second round of the presidential elections slated for February 4, garnering 35.5 per cent of the vote amid an election marred by voter abstention of 28.6 per cent. He will be running against Akel-backed independent Stavros Malas &hellip;
+By Jean Christou and Andria Kades Incumbent President Nicos Anastasiades on Sunday comfortably made it through to the second round of the presidential elections slated for February 4, garnering 35.5 per cent of the vote amid an election marred by voter abstention of 28.6 per cent. He will be running against Akel-backed independent Stavros Malas &hellip;
 
 
 ### Sources:

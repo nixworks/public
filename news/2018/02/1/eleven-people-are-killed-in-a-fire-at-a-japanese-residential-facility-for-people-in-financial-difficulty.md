@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese
 
 ### [2018-02-1](/news/2018/02/1/index.md)
 
+##### Japan
 # Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. 
 
-Japan: The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
+The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
 
 
 ### Sources:

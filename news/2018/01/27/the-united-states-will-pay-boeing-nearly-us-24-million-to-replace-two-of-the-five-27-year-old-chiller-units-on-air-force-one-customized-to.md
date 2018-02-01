@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
+##### Presidency of Donald Trump
 # The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. 
 
-Presidency of Donald Trump: The improvement is just the latest example of the bespoke requirements for the presidential jets.
+The improvement is just the latest example of the bespoke requirements for the presidential jets.
 
 
 ### Sources:

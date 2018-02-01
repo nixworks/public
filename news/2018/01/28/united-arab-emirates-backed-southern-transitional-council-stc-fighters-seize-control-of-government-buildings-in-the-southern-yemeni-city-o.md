@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/united-arab-emirates-backed-southern-transition
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Yemeni Crisis (2011-present)
 # United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. 
 
-Yemeni Crisis (2011-present): Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after taking over government buildings in Aden.
+Prime Minister Ahmed bin Dagher accuses separatists of staging a putsch after taking over government buildings in Aden.
 
 
 ### Sources:

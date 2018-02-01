@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/chancellor-angela-merkel-and-foreign-minister-s
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Germany-Turkey relations
 # Chancellor Angela Merkel and Foreign Minister Sigmar Gabriel, for the German caretaker government, decide to delay a decision on upgrading Turkey's German-built Leopard 2 tanks until after the formation of a new government coalition. Foreign Minister of Turkey Mevlut Cavusoglu says Turkey expects "solidarity and support" from its ally. 
 
-Germany-Turkey relations: 
+
 
 
 ### Sources:

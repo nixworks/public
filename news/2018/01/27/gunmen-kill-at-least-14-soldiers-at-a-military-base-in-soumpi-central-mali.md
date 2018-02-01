@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
+##### military
 # Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. 
 
-military: Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a&#x20;military&#x20;camp&#x20;early&#x20;on&#x20;Saturday,&#x20;two&#x20;army&#x20;officers&#x20;said.
+Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a&#x20;military&#x20;camp&#x20;early&#x20;on&#x20;Saturday,&#x20;two&#x20;army&#x20;officers&#x20;said.
 
 
 ### Sources:

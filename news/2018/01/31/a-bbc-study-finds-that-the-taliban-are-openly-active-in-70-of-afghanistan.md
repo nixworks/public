@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/31/a-bbc-study-finds-that-the-taliban-are-openly-a
 
 ### [2018-01-31](/news/2018/01/31/index.md)
 
+##### War in Afghanistan (2001-present)
 # A BBC study finds that the Taliban are openly active in 70% of Afghanistan. 
 
-War in Afghanistan (2001-present): 
+
 
 
 ### Sources:

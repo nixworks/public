@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-ex
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
+##### 2018 Kabul ambulance bombing
 # A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. 
 
-2018 Kabul ambulance bombing: Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
+Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
 
 
 ### Sources:

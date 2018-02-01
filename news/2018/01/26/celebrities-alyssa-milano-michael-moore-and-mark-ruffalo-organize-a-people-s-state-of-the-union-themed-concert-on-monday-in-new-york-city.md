@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mar
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### Protests against Donald Trump
 # Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. 
 
-Protests against Donald Trump: 
+
 
 
 ### Sources:

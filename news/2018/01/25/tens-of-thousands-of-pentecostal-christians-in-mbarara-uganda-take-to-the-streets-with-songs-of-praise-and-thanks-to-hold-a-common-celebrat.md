@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/tens-of-thousands-of-pentecostal-christians-in-
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Pentecostal
 # Tens of thousands of Pentecostal Christians in Mbarara, Uganda take to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people's lives to Christ and preaching the gospel across the entire district. 
 
-Pentecostal: Tens of thousands of Pentecostal Christians in Mbarara - Western Uganda have in unity taken to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people&#039;s lives to Christ and preaching the gospel across the entire district. Many traveled from surrounding districts just to be a part of&hellip;
+Tens of thousands of Pentecostal Christians in Mbarara - Western Uganda have in unity taken to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people&#039;s lives to Christ and preaching the gospel across the entire district. Many traveled from surrounding districts just to be a part of&hellip;
 
 
 ### Sources:

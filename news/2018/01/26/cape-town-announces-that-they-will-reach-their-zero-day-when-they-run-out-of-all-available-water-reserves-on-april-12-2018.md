@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-
 
 ### [2018-01-26](/news/2018/01/26/index.md)
 
+##### Cape Town water crisis
 # Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. 
 
-Cape Town water crisis: Residents will be banned from using more than 50 litres of water a day from next month.
+Residents will be banned from using more than 50 litres of water a day from next month.
 
 
 ### Sources:

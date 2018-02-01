@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/thirteen-civilians-travelling-from-burkina-faso
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Burkina Faso
 # Thirteen civilians travelling from Burkina Faso are killed after their vehicle struck a landmine near the village of Boni in Mali's Mopti Region. 
 
-Burkina Faso: A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
+A landmine explosion blew up a civilian passenger vehicle in central Mali on Thursday, killing 13 people and wounding several others, the army spokesman said.
 
 
 ### Sources:

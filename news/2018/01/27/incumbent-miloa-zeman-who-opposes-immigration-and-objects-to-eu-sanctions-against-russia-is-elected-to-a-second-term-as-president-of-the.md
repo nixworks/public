@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-a
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
+##### Czech presidential election, 2018
 # Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. 
 
-Czech presidential election, 2018: The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
+The two-day vote pits the pro-Russia, anti-immigration president against a pro-EU academic.
 
 
 ### Sources:

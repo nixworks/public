@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/27/president-juan-orlando-herna-ndez-alvarado-take
 
 ### [2018-01-27](/news/2018/01/27/index.md)
 
+##### Politics of Honduras
 # President Juan Orlando Hernandez Alvarado takes oath of his second presidential term amid protests led by Salvador Nasralla, former candidate for the Alliance of Opposition against the Dictatorship. 
 
-Politics of Honduras: Juan Orlando Hernandez has been sworn in for a second term despite an ongoing crisis over his election win in November. Thousands of protesters were blocked from reaching the inauguration event.
+Juan Orlando Hernandez has been sworn in for a second term despite an ongoing crisis over his election win in November. Thousands of protesters were blocked from reaching the inauguration event.
 
 
 ### Sources:

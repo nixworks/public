@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-ca
 
 ### [2018-01-29](/news/2018/01/29/index.md)
 
+##### Mass shootings in the United States
 # The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. 
 
-Mass shootings in the United States: 
+
 
 
 ### Sources:

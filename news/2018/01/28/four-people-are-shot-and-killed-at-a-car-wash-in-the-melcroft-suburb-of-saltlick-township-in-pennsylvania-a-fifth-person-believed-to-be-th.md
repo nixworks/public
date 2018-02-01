@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/four-people-are-shot-and-killed-at-a-car-wash-i
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Mass shootings in the United States
 # Four people are shot and killed at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania. A fifth person, believed to be the gunman, is severely injured. 
 
-Mass shootings in the United States: The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
+The shooting happened overnight at a car wash in the small town of Melcroft southeast of Pittsburgh
 
 
 ### Sources:

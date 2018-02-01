@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the
 
 ### [2018-01-25](/news/2018/01/25/index.md)
 
+##### Doomsday Clock
 # The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. 
 
-Doomsday Clock: The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
+The Bulletin of the Atomic Scientists says the Doomsday Clock &ldquo;is as close to midnight today as it was in 1953, when Cold War fears perhaps reached their highest levels.&rdquo;
 
 
 ### Sources:

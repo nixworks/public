@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/28/incumbent-sauli-niinistap-takes-an-unprecedente
 
 ### [2018-01-28](/news/2018/01/28/index.md)
 
+##### Finnish presidential election, 2018
 # Incumbent Sauli Niinisto takes an unprecedented first round victory after receiving 62.7 percent of the votes. 
 
-Finnish presidential election, 2018: Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
+Sauli Niinisto was re-elected as Finland’s president without recourse to a runoff -- a first since the post has been settled by popular vote.
 
 
 ### Sources:

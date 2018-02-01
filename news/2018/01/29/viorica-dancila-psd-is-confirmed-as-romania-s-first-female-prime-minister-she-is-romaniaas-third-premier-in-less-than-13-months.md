@@ -3,9 +3,10 @@ Formats: [HTML](/news/2018/01/29/viorica-dancila-psd-is-confirmed-as-romania-s-f
 
 ### [2018-01-29](/news/2018/01/29/index.md)
 
+##### Politics of Romania
 # Viorica Dancila (PSD) is confirmed as Romania's first female Prime Minister. She is Romania's third premier in less than 13 months. 
 
-Politics of Romania: Populist government determined to push through controversial reforms
+Populist government determined to push through controversial reforms
 
 
 ### Sources:
