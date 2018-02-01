@@ -13,7 +13,7 @@ Toronto landscaper Bruce McArthur now faces three additional counts of first-deg
 
 ##### Mass shootings in the United States
 ### [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
-_Context: Pennsylvania, Melcroft, Crime in Pennsylvania, Saltlick Township, Mass shootings in the United States_
+_Context: Mass shootings in the United States, Pennsylvania, Melcroft, Crime in Pennsylvania, Saltlick Township_
 
 ##### Politics of Egypt
 ### [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md)
