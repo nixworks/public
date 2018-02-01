@@ -3,7 +3,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/1/index.md)
 
-### [Eleven people have been killed after a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-have-been-killed-after-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
+### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
 The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
 
 ---
