@@ -5,15 +5,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Apple Inc.
 ### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
-_Context: App Store, Apple Inc., Telegram, Pavel Durov_
+_Context: Pavel Durov, App Store, Apple Inc., Telegram_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
 The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
 
 ##### School shootings in the United States
-### [Two 15-year-old students are shot at Sal Castro Middle School in Los Angeles, California. A female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-at-sal-castro-middle-school-in-los-angeles-california-a-female-student-is-taken-into-custody.md)
-_Context: California, Los Angeles, School shootings in the United States_
+### [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md)
+_Context: School shootings in the United States, Los Angeles, California_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
@@ -23,7 +23,7 @@ Israel hails decision as &#039;necessary step in the fight against global terror
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)
 An amateur astronomer rediscovered a Nasa satellite which has been lost in space for more than a decade. Scott Tilley was scanning the skies in search of a secret US government spy satellite launched by Elon Musk’s SpaceX when he found signals from the long-lost satellite called the Imager for Mag...
 
-## Opinion
+##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
@@ -33,7 +33,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### War in Afghanistan (2001-present)
 ### [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md)
-_Context: Taliban, War in Afghanistan (2001-present), Afghanistan, BBC_
+_Context: War in Afghanistan (2001-present), Afghanistan, BBC, Taliban_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md)
@@ -41,7 +41,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: Mechelen, Tongeren, Belgium, Crime in Belgium, assizes_
+_Context: Tongeren, assizes, Mechelen, Belgium, Crime in Belgium_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -57,7 +57,7 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ##### Politics of Guinea-Bissau
 ### [President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. ](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silva-as-prime-minister-of-guinea-bissau-succeeding-umaro-sissoco-embala3-who-resigned-on-januar.md)
-_Context: Politics of Guinea-Bissau, Jose Mario Vaz, Prime Minister of Guinea-Bissau, Artur Silva, Umaro Sissoco Embalo_
+_Context: Prime Minister of Guinea-Bissau, Jose Mario Vaz, Politics of Guinea-Bissau, Umaro Sissoco Embalo, Artur Silva_
 
 ##### Political appointments by Donald Trump
 ### [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in food, health insurance, and tobacco companies shortly after taking up her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-food.md)
