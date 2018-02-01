@@ -16,8 +16,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/01/31/index.md)
 
 ##### War in Afghanistan (2001-present)
-### [A BBC study finds that the Taliban are openly active in 70% of Afghanistan. ](/news/2018/01/31/a-bbc-study-finds-that-the-taliban-are-openly-active-in-70-of-afghanistan.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), Taliban, BBC_
+### [A BBC study finds that the Taliban are "openly active"{{explain}} in 70% of Afghanistan. ](/news/2018/01/31/a-bbc-study-finds-that-the-taliban-are-openly-active-explain-in-70-of-afghanistan.md)
+_Context: War in Afghanistan (2001-present), Afghanistan, Taliban, BBC_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying GOP lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-gop-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one-person.md)
@@ -25,7 +25,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: Belgium, Crime in Belgium, Mechelen, assizes, Tongeren_
+_Context: Crime in Belgium, assizes, Tongeren, Mechelen, Belgium_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -41,7 +41,7 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ##### Politics of Guinea-Bissau
 ### [President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. ](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silva-as-prime-minister-of-guinea-bissau-succeeding-umaro-sissoco-embala3-who-resigned-on-januar.md)
-_Context: Artur Silva, Umaro Sissoco Embalo, Jose Mario Vaz, Politics of Guinea-Bissau, Prime Minister of Guinea-Bissau_
+_Context: Artur Silva, Politics of Guinea-Bissau, Jose Mario Vaz, Umaro Sissoco Embalo, Prime Minister of Guinea-Bissau_
 
 ##### Political appointments by Donald Trump
 ### [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in a tobacco company shortly after taking her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-a-tob.md)
