@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/30/the-united-states-publishes-a-list-of-russian-p
 
 ### [2018-01-30](/news/2018/01/30/index.md)
 
-# The United States publishes a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list is an "unfriendly act" that complicates ties between the two countries. 
+# The United States publishes a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. 
 
 The list of top Russians was required by a US sanctions law but no new measures are announced.
 
@@ -17,7 +17,8 @@ The list of top Russians was required by a US sanctions law but no new measures 
 ### Changes:
 
 1. [The United States publishes a list of Russian politicians and oligarchs that the US government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list is an unfriendly act that complicates ties between the two countries. ](/news/2018/01/30/the-united-states-publishes-a-list-of-russian-politicians-and-oligarchs-that-the-us-government-was-required-by-caatsa-to-draw-up-russian-pr.md) _2018-01-31 07:30:24 (First version)_
-1. [The United States publishes a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/the-united-states-publishes-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was-required-by-caatsa-to-draw-up-russian.md) _(Current version)_
+2. [The United States published a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/the-united-states-published-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was-required-by-caatsa-to-draw-up-russian.md) _2018-01-31 23:30:18 (Update)_
+2. [The United States publishes a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/the-united-states-publishes-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was-required-by-caatsa-to-draw-up-russian.md) _(Current version)_
 
 ### Related:
 
