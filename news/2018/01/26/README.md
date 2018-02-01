@@ -9,11 +9,11 @@ President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fight
 
 ##### Protests against Donald Trump
 ### [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md)
-_Context: Common, Mark Ruffalo, Andra Day, Michael Moore, Alyssa Milano, New York City, Protests against Donald Trump, State of the Union_
+_Context: Michael Moore, State of the Union, Andra Day, Alyssa Milano, Mark Ruffalo, New York City, Protests against Donald Trump, Common_
 
 ##### CSeries dumping petition by Boeing
 ### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
-_Context: Boeing Company, price dumping, Bombardier Inc., United States International Trade Commission, CSeries dumping petition by Boeing_
+_Context: CSeries dumping petition by Boeing, Boeing Company, price dumping, United States International Trade Commission, Bombardier Inc._
 
 ##### 2018 Miryang hospital fire
 ### [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
@@ -45,7 +45,7 @@ Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s N
 
 ##### Political appointments by Donald Trump
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: NASA, Donald Trump, U.S. President, U.S. Geological Survey, Political appointments by Donald Trump, James F. Reilly_
+_Context: James F. Reilly, U.S. Geological Survey, Donald Trump, U.S. President, Political appointments by Donald Trump, NASA_
 
 ## [Previous Day...](/news/2018/01/25/index.md)
 

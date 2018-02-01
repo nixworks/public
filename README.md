@@ -3,9 +3,17 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/1/index.md)
 
+##### Apple Inc.
+### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
+_Context: Apple Inc., Telegram, App Store, Pavel Durov_
+
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
 The three-storey building in the northern city of Sapporo is home to mostly elderly residents.
+
+##### Palestine Liberation Organization
+### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
+Israel hails decision as &#039;necessary step in the fight against global terrorism,&#039; says other countries should &#039;follow American leadership&#039;
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,7 +25,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### War in Afghanistan (2001-present)
 ### [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md)
-_Context: BBC, War in Afghanistan (2001-present), Taliban, Afghanistan_
+_Context: Taliban, War in Afghanistan (2001-present), BBC, Afghanistan_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying GOP lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-gop-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one-person.md)
@@ -25,7 +33,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: assizes, Tongeren, Mechelen, Belgium, Crime in Belgium_
+_Context: Tongeren, Crime in Belgium, Belgium, assizes, Mechelen_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -41,11 +49,15 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ##### Politics of Guinea-Bissau
 ### [President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. ](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silva-as-prime-minister-of-guinea-bissau-succeeding-umaro-sissoco-embala3-who-resigned-on-januar.md)
-_Context: Jose Mario Vaz, Prime Minister of Guinea-Bissau, Umaro Sissoco Embalo, Politics of Guinea-Bissau, Artur Silva_
+_Context: Politics of Guinea-Bissau, Prime Minister of Guinea-Bissau, Jose Mario Vaz, Umaro Sissoco Embalo, Artur Silva_
 
 ##### Political appointments by Donald Trump
 ### [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in a tobacco company shortly after taking her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-a-tob.md)
 Fitzgerald owned stocks in tobacco companies despite being in charge of smoking cessation efforts.
+
+##### 2017-18 Spanish constitutional crisis
+### [Comes to light some private messages between Puigdemont and Antoni Comin, the exiled regional minister of Health, in which the ex-president confesses that the secession procedure is over, that they have sacrificed him, opening, once again, tensions between the pro-independence political parties and more confusion about the future of Catalonia. ](/news/2018/01/31/comes-to-light-some-private-messages-between-puigdemont-and-antoni-coman-the-exiled-regional-minister-of-health-in-which-the-ex-president.md)
+Ousted president’s private messages caught on TV cameras reveal admission of defeat
 
 ##### January 2018 lunar eclipse
 ### [A lunar eclipse is seen in Oceania, Asia, and North America, coinciding with a supermoon and blue moon. ](/news/2018/01/31/a-lunar-eclipse-is-seen-in-oceania-asia-and-north-america-coinciding-with-a-supermoon-and-blue-moon.md)
@@ -64,8 +76,12 @@ Southern Yemeni separatists took control of the port city of Aden after two days
 The list of top Russians was required by a US sanctions law but no new measures are announced.
 
 ##### 2018 State of the Union Address
-### [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives. ](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md)
+### [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md)
 Follow our live coverage for the latest updates and analysis throughout the day.
+
+##### 2017-18 Spanish constitutional crisis
+### [The Speaker of the Parliament of Catalonia delays the session of investiture of Carles Puigdemont after the suspension by the Constitutional Court of the telematic investiture. Roger Torrent insists that Puigdemont is the only candidate, disobeying the decision of the high court. ](/news/2018/01/30/the-speaker-of-the-parliament-of-catalonia-delays-the-session-of-investiture-of-carles-puigdemont-after-the-suspension-by-the-constitutional.md)
+Speaker says ex-president is only candidate to form government despite Spanish state’s warnings
 
 ---
 
