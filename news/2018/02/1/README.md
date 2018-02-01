@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 
 ##### Apple Inc.
 ### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
-_Context: App Store, Telegram, Pavel Durov, Apple Inc._
+_Context: App Store, Apple Inc., Telegram, Pavel Durov_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -13,7 +13,7 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are shot at Sal Castro Middle School in Los Angeles, California. A female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-at-sal-castro-middle-school-in-los-angeles-california-a-female-student-is-taken-into-custody.md)
-_Context: California, School shootings in the United States, Los Angeles_
+_Context: California, Los Angeles, School shootings in the United States_
 
 ##### Palestine Liberation Organization
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
