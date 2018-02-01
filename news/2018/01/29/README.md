@@ -10,7 +10,7 @@ Locals accuse police of arriving too late to the scene of a bus accident that ki
 Toronto landscaper Bruce McArthur now faces three additional counts of first-degree murder, bringing the total to five in what police are calling a serial killing case that the city has never seen before.
 
 ### Mass shootings in the United States: [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md)
-_Context: Melcroft, Mass shootings in the United States, Pennsylvania, Crime in Pennsylvania, Saltlick Township_
+_Context: Saltlick Township, Melcroft, Crime in Pennsylvania, Pennsylvania, Mass shootings in the United States_
 
 ### Politics of Egypt: [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md)
 An Egyptian politician emerged just ahead of a deadline on Monday as the sole challenger to President Abdel Fattah al-Sisi in an election in March the incumbent is set to win after other candidates withdrew citing repression.

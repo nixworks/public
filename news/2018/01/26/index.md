@@ -7,10 +7,10 @@ Formats: [HTML](2018/01/26/index.html)  [JSON](2018/01/26/index.json)  [XML](201
 President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fighters from the Syrian border and could push all the way east to the frontier with Iraq -- a move which risks a possible confrontation with U.S. forces allied to the Kurds.
 
 ### Protests against Donald Trump: [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md)
-_Context: Mark Ruffalo, State of the Union, Common, Andra Day, Protests against Donald Trump, New York City, Michael Moore, Alyssa Milano_
+_Context: Mark Ruffalo, Protests against Donald Trump, Alyssa Milano, Michael Moore, Andra Day, Common, State of the Union, New York City_
 
 ### CSeries dumping petition by Boeing: [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
-_Context: United States International Trade Commission, Boeing Company, Bombardier Inc., price dumping, CSeries dumping petition by Boeing_
+_Context: Boeing Company, price dumping, United States International Trade Commission, Bombardier Inc., CSeries dumping petition by Boeing_
 
 ### 2018 Miryang hospital fire: [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md)
 At least 41 people are killed and more than 80 injured in a fire at a hospital in South Korea which mostly cares for elderly people.
@@ -34,7 +34,7 @@ A former Guatemalan general was arrested on corruption charges relating to a spe
 Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s NEM coins.
 
 ### Political appointments by Donald Trump: [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: U.S. President, James F. Reilly, Donald Trump, U.S. Geological Survey, Political appointments by Donald Trump, NASA_
+_Context: James F. Reilly, U.S. President, Donald Trump, NASA, Political appointments by Donald Trump, U.S. Geological Survey_
 
 ## [Previous Day...](/news/2018/01/25/index.md)
 
