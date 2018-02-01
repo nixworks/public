@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### Jordan-United States relations
 # Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. 
 
 

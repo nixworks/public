@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/the-kabila-government-begins-blocking-internet-
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### Democratic Republic of the Congo general election
 # The Kabila government begins blocking internet access in the capital Kinshasa at midnight, after a Catholic lay group's call to march today, in defiance of a government ban on public demonstrations. A joint statement was released by the American and British embassies on Twitter the day prior, applauding "Congolese citizens exercising their constitutional right to assemble peacefully in support of the full implementation" of the Sylvester agreements of December 2016. The statement also said that those who do not protect these fundamental human rights must be held accountable "at the highest level". 
 
 Congolese security forces shot dead at least six people and fired tear gas to disperse a banned protest against President Joseph Kabila organized by the Catholic church on Sunday, a U.N. peacekeeping mission in the country said.

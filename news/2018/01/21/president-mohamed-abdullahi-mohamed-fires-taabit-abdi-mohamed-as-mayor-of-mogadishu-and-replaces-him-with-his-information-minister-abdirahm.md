@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabi
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### Politics of Somalia
 # President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. 
 
 Somali President Mohamed Abdullahi sacked the mayor of the capital Mogadishu and appointed his information minister to replace him on Sunday.

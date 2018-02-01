@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkis
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### Turkish military intervention in Afrin
 # Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. 
 
 

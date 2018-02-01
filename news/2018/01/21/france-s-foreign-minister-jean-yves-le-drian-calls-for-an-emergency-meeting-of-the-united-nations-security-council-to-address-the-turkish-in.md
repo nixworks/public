@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-ca
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### Turkish military intervention in Afrin
 # France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. 
 
 The United Nations Security Council will hold talks about the situation in Syria on Monday, French Foreign minister Jean-Yves Le Drian said on his Twitter feed on Sunday.

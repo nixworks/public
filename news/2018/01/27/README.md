@@ -13,7 +13,7 @@ Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x
 
 ##### Energy in Europe
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
-_Context: Energy in Europe, Poland, energy security, Nord Stream 2, Rex Tillerson, United States Secretary of State_
+_Context: United States Secretary of State, Poland, energy security, Energy in Europe, Rex Tillerson, Nord Stream 2_
 
 ##### Paris
 ### [Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. ](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-high-alert-as-the-swollen-river-seine-threatens-to-overflow-its-banks.md)

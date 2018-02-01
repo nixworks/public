@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/21/six-insurgents-kill-at-least-18-people-includin
 
 ### [2018-01-21](/news/2018/01/21/index.md)
 
+##### 2018 Inter-Continental Hotel Kabul attack
 # Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. 
 
 At least four gunmen launched an attack, according to Afghan officials
