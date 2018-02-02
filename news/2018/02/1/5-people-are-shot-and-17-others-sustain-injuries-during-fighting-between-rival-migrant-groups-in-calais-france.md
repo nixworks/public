@@ -3,15 +3,16 @@ Formats: [HTML](/news/2018/02/1/5-people-are-shot-and-17-others-sustain-injuries
 
 ### [2018-02-1](/news/2018/02/1/index.md)
 
-##### 5 people are shot
+##### 2018 Calais migrant violence
 # 5 people are shot and 17 others sustain injuries during fighting between rival migrant groups in Calais, France. 
 
-
+An Afghan is suspected of shooting at a queue for food handouts, critically injuring four Eritreans.
 
 
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-42912670)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/branded_news/51BD/production/_99852902_calais.jpg)
 
 ### Related:
 
