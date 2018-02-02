@@ -1,43 +1,15 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/06/24/index.md)
-
-##### bomb
-### [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md)
-_Context: Colombia, bomb, United Nations Interim Force in Lebanon, Spanish_
-
-##### storm
-### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
-_Context: Karachi, storm, Pakistan_
-
-##### Mauricio Macri
-### [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md)
-_Context: Chief of Government of Buenos Aires, Mauricio Macri, Argentina, Boca Juniors, National Congress_
-
-##### Ali Hassan al-Majid
-### [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md)
-Relatives of the victims of the man known as Chemical Ali are calling for him to be executed at one of the villages where he committed his crimes.
-
-##### Gordon Brown
-### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2018/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
-_Context: Gordon Brown, Prime Minister, Labour Party, 27 June, Tony Blair_
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2018/02/1/index.md)
+## [News](/news/2018/02/1/index.md)
 
 ##### Canadian Senate
 ### [The Canadian Senate agrees with the House of Commons to make the Canadian national anthem (O Canada) gender neutral. The second line of the song will now read "in all of us" instead of "in all thy sons." ](/news/2018/02/1/the-canadian-senate-agrees-with-the-house-of-commons-to-make-the-canadian-national-anthem-o-canada-gender-neutral-the-second-line-of-the.md)
-_Context: House of Commons, Canadian Senate, Canadian national anthem (O Canada)_
+_Context: Canadian Senate, Canadian national anthem (O Canada), House of Commons_
 
 ##### Apple Inc.
-### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
-_Context: Pavel Durov, Apple Inc., Telegram, App Store_
+### [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md)
+_Context: App Store, Pavel Durov, Telegram, Apple Inc._
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -53,23 +25,31 @@ Israel hails decision as &#039;necessary step in the fight against global terror
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States under secretary of state for political affairs announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-state.md)
-_Context: State Department's, Tom Shannon, under secretary of state for political affairs_
+_Context: under secretary of state for political affairs, State Department's, Tom Shannon_
+
+##### Slender Man stabbing
+### [Morgan Geyser is sentenced to 40 years in a mental institution for her role in the attempted murder of Payton Leutner. ](/news/2018/02/1/morgan-geyser-is-sentenced-to-40-years-in-a-mental-institution-for-her-role-in-the-attempted-murder-of-payton-leutner.md)
+Morgan Geyser pleaded guilty to attempted first-degree intentional homicide earlier this year.
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md)
-_Context: Pena Nieto, President, Rex Tillerson, United States Secretary of State, Mexico, Luis Videgaray, United States-Mexico relations_
+_Context: President, Luis Videgaray, United States-Mexico relations, Pena Nieto, Mexico, Rex Tillerson, United States Secretary of State_
 
 ##### NASA
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)
 An amateur astronomer rediscovered a Nasa satellite which has been lost in space for more than a decade. Scott Tilley was scanning the skies in search of a secret US government spy satellite launched by Elon Musk’s SpaceX when he found signals from the long-lost satellite called the Imager for Mag...
 
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2018/01/31/index.md)
+## [Yesterday](/news/2018/01/31/index.md)
 
 ##### War in Afghanistan (2001-present)
 ### [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md)
-_Context: Taliban, War in Afghanistan (2001-present), Afghanistan, BBC_
+_Context: Taliban, War in Afghanistan (2001-present), BBC, Afghanistan_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md)
@@ -77,7 +57,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: Mechelen, Tongeren, Belgium, assizes, Crime in Belgium_
+_Context: Belgium, Mechelen, assizes, Tongeren, Crime in Belgium_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -109,7 +89,31 @@ Photos: It’s the first time in 35 years a blue moon has synced up with a so-ca
 
 ---
 
-## [Previous Day...](/news/2018/01/30/index.md)
+## [Day Before Yesterday](/news/2018/01/30/index.md)
+
+##### Yemeni Crisis (2011-present)
+### [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md)
+Southern Yemeni separatists took control of the port city of Aden after two days of fighting, residents said on Tuesday, confining the internationally recognized government of President Abd-Rabbu Mansour Hadi to the presidential palace.
+
+##### Russia-United States relations
+### [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md)
+The list of top Russians was required by a US sanctions law but no new measures are announced.
+
+##### 2018 State of the Union Address
+### [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md)
+Follow our live coverage for the latest updates and analysis throughout the day.
+
+##### 2017-18 Spanish constitutional crisis
+### [The Speaker of the Parliament of Catalonia delays the session of investiture of Carles Puigdemont after the suspension by the Constitutional Court of the telematic investiture. Roger Torrent insists that Puigdemont is the only candidate, disobeying the decision of the high court. ](/news/2018/01/30/the-speaker-of-the-parliament-of-catalonia-delays-the-session-of-investiture-of-carles-puigdemont-after-the-suspension-by-the-constitutional.md)
+Speaker says ex-president is only candidate to form government despite Spanish state’s warnings
+
+##### Kenyan general election, 2017
+### [Raila Odinga stages a swearing in ceremony in Nairobi in which he names himself the 'People's president'.](/news/2018/01/30/raila-odinga-stages-a-swearing-in-ceremony-in-nairobi-in-which-he-names-himself-the-people-s-president.md)
+After supporters of the opposition leader Raila Odinga gathered for an alternative “inauguration,” the government declared part of his coalition criminal.
+
+---
+
+## [Previous Day...](/news/2018/01/29/index.md)
 
 ---
 
