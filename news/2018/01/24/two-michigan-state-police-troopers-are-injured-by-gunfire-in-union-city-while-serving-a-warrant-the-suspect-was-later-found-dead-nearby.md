@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
-##### Michigan State Police
+##### Crime in Michigan
 # Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. 
 
 Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.

@@ -3,8 +3,8 @@ Formats: [HTML](/news/2018/01/24/chinese-scientists-announce-they-have-successfu
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
-##### China
-# Chinese scientists announce they have successfully cloned Crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. 
+##### Animal cloning
+# Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. 
 
 Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
 
