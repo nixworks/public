@@ -12,7 +12,7 @@ There is no question that the Chinese leadership under President Xi Jinping has 
 The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
 
 ##### Nunes memo
-### [United States president Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DOJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/united-states-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-l.md)
+### [U.S. President Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DoJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/u-s-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-lawmakers.md)
 The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
 
 ## [Previous Day...](/news/2018/02/1/index.md)
