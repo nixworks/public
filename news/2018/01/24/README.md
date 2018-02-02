@@ -17,27 +17,27 @@ The US says it targeted a militant headquarters in the Euphrates valley, in Deir
 
 ##### Culture of Saudi Arabia
 ### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
-_Context: Riyadh, King Abdulaziz, botox, plastic surgery, camel, beauty pageant, Culture of Saudi Arabia_
+_Context: Culture of Saudi Arabia, Riyadh, camel, King Abdulaziz, plastic surgery, botox, beauty pageant_
 
 ##### Financial Times
 ### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
-_Context: Financial Times, groping, Mark Carney, Presidents Club, Boris Johnson, charity, Dorchester, London, old boy network_
+_Context: Dorchester, Presidents Club, old boy network, Financial Times, London, groping, Mark Carney, charity, Boris Johnson_
 
-##### Crime in Michigan
+##### Michigan State Police
 ### [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
 Two officers were shot as they visited a residence in the rural farming area of northern Branch County on a &quot;cold&quot; case investigation.
+
+##### China
+### [Chinese scientists announce they have successfully cloned Crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
+Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
+
+##### 2018 in spaceflight
+### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight.md)
+_Context: SpaceX, maiden flight, 2018 in spaceflight, Falcon Heavy_
 
 ##### USA Gymnastics sex abuse scandal
 ### [Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. ](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in-prison-for-molesting-olympic-gymnasts-and-other-women-many-of-the-accusers-were-children-w.md)
 Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.
-
-##### Animal cloning
-### [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md)
-Chinese scientists have cloned monkeys using the same technique that produced Dolly the sheep two decades ago, breaking a technical barrier that could open the door to copying humans.
-
-##### 2018 in spaceflight
-### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md)
-_Context: maiden flight, Falcon Heavy, SpaceX, Elon Musk's Tesla Roadster, 2018 in spaceflight, dummy payload_
 
 ## [Previous Day...](/news/2018/01/23/index.md)
 
