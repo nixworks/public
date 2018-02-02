@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/2/index.html)  [JSON](2018/02/2/index.json)  [XML](2018/
 There is no question that the Chinese leadership under President Xi Jinping has reneged on the Sino-British Joint Declaration of 1984 that promised Hong Kong freedom of speech and legal autonomy for 50 years after the 1997 handover from British to Chinese rule. Through repeated so-called “interpre...
 
 ##### Censorship by Google
-### [YouTube announces that YouTubers who make 'egregious' content will be punished. Many YouTubers are opposed to it, citing censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-many-youtubers-are-opposed-to-it-citing-censorship.md)
+### [YouTube announces that YouTubers who make "egregious" content will be punished. Critics of the move call it censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-critics-of-the-move-call-it-censorship.md)
 YouTube says video-makers who damage the reputation of the site will face new consequences.
 
 ##### South Africa
