@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/1/index.html)  [JSON](2018/02/1/index.json)  [XML](2018/
 ## [2018-02-1](/news/2018/02/1/index.md)
 
 ##### Persecution of Muslims in Myanmar
-### [The existence of five mass graves in northern Rakhine State, Myanmar is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-myanmar-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testim.md)
+### [The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testimonies-and.md)
  BALUKHALI REFUGEE CAMP, Bangladesh (AP) — The faces of the men half-buried in the mass graves had been burned away by acid or blasted by bullets. Noor Kadir finally recognized his
 
 ##### Canadian Senate
@@ -36,12 +36,12 @@ Morgan Geyser pleaded guilty to attempted first-degree intentional homicide earl
 An Afghan is suspected of shooting at a queue for food handouts, critically injuring four Eritreans.
 
 ##### United States-Mexico relations
-### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md)
-_Context: President, Luis Videgaray, United States-Mexico relations, Pena Nieto, United States Secretary of State, Mexico, Rex Tillerson_
+### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
+_Context: Luis Videgaray, Rex Tillerson, President, United States Secretary of State, United States-Mexico relations, Enrique Pena Nieto, Mexico_
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
-_Context: Under Secretary of State for Political Affairs, State Department, Tom Shannon_
+_Context: Under Secretary of State for Political Affairs, Tom Shannon, State Department_
 
 ##### NASA
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)

@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Amid a perceived erosion of freedoms in Hong Kong, Prime Minister of the United Kingdom Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-prime-minister-of-the-united-kingdom-theresa-may-concludes-a-three-day-visit-to-china-sa.md)
 There is no question that the Chinese leadership under President Xi Jinping has reneged on the Sino-British Joint Declaration of 1984 that promised Hong Kong freedom of speech and legal autonomy for 50 years after the 1997 handover from British to Chinese rule. Through repeated so-called “interpre...
 
+##### Censorship by Google
+### [YouTube announces that YouTubers who make 'egregious' content will be punished. Many YouTubers are opposed to it, citing censorship. ](/news/2018/02/2/youtube-announces-that-youtubers-who-make-egregious-content-will-be-punished-many-youtubers-are-opposed-to-it-citing-censorship.md)
+YouTube says video-makers who damage the reputation of the site will face new consequences.
+
 ##### South Africa
 ### [All 955 South African miners, who were stuck in the Beatrix gold mine near Welkom in central Free State province since Wednesday, have been brought to the surface. Earlier, 65 other workers were rescued. No serious injuries have been reported. The accident apparently happened when a strong storm knocked over an electricity pylon (electric power tower) triggering the huge power cut. ](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-the-beatrix-gold-mine-near-welkom-in-central-free-state-province-since-wednesday-have-been.md)
 The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
@@ -24,7 +28,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/02/1/index.md)
 
 ##### Persecution of Muslims in Myanmar
-### [The existence of five mass graves in northern Rakhine State, Myanmar is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-myanmar-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testim.md)
+### [The existence of five mass graves in northern Rakhine State is confirmed by the Associated Press through multiple eyewitness testimonies and video evidence. Many of the bodies in the graves were Rohingya victims of the Gu Dar Pyin massacre. ](/news/2018/02/1/the-existence-of-five-mass-graves-in-northern-rakhine-state-is-confirmed-by-the-associated-press-through-multiple-eyewitness-testimonies-and.md)
  BALUKHALI REFUGEE CAMP, Bangladesh (AP) — The faces of the men half-buried in the mass graves had been burned away by acid or blasted by bullets. Noor Kadir finally recognized his
 
 ##### Canadian Senate
@@ -56,12 +60,12 @@ Morgan Geyser pleaded guilty to attempted first-degree intentional homicide earl
 An Afghan is suspected of shooting at a queue for food handouts, critically injuring four Eritreans.
 
 ##### United States-Mexico relations
-### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md)
-_Context: President, Luis Videgaray, United States-Mexico relations, Pena Nieto, United States Secretary of State, Mexico, Rex Tillerson_
+### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
+_Context: Luis Videgaray, Rex Tillerson, President, United States Secretary of State, United States-Mexico relations, Enrique Pena Nieto, Mexico_
 
 ##### Tom Shannon
 ### [Tom Shannon, the United States Under Secretary of State for Political Affairs, announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-stat.md)
-_Context: Under Secretary of State for Political Affairs, State Department, Tom Shannon_
+_Context: Under Secretary of State for Political Affairs, Tom Shannon, State Department_
 
 ##### NASA
 ### [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md)
@@ -73,7 +77,7 @@ An amateur astronomer rediscovered a Nasa satellite which has been lost in space
 
 ##### War in Afghanistan (2001-present)
 ### [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md)
-_Context: Afghanistan, Taliban, BBC, War in Afghanistan (2001-present)_
+_Context: Afghanistan, War in Afghanistan (2001-present), Taliban, BBC_
 
 ##### 2018 Crozet, Virginia train crash
 ### [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md)
@@ -81,7 +85,7 @@ At least one person was killed and another seriously injured when an Amtrak trai
 
 ##### Crime in Belgium
 ### [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md)
-_Context: Mechelen, Tongeren, Belgium, assizes, Crime in Belgium_
+_Context: Belgium, Crime in Belgium, Tongeren, assizes, Mechelen_
 
 ##### Cannabis in California
 ### [San Francisco District Attorney George Gascon announces the city will retroactively apply California's new marijuana laws to nearly 5,000 felony convictions, expunging or reducing misdemeanors and felonies dating to 1975. ](/news/2018/01/31/san-francisco-district-attorney-george-gasca3n-announces-the-city-will-retroactively-apply-california-s-new-marijuana-laws-to-nearly-5-000-f.md)
@@ -97,7 +101,7 @@ A minister who questioned whether Brexit should be halted after a secret Governm
 
 ##### Politics of Guinea-Bissau
 ### [President Jose Mario Vaz appoints Artur Silva as Prime Minister of Guinea-Bissau, succeeding Umaro Sissoco Embalo, who resigned on January 16th. ](/news/2018/01/31/president-josa-c-ma-rio-vaz-appoints-artur-silva-as-prime-minister-of-guinea-bissau-succeeding-umaro-sissoco-embala3-who-resigned-on-januar.md)
-_Context: Artur Silva, Jose Mario Vaz, Politics of Guinea-Bissau, Umaro Sissoco Embalo, Prime Minister of Guinea-Bissau_
+_Context: Umaro Sissoco Embalo, Jose Mario Vaz, Politics of Guinea-Bissau, Artur Silva, Prime Minister of Guinea-Bissau_
 
 ##### Political appointments by Donald Trump
 ### [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in food, health insurance, and tobacco companies shortly after taking up her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-food.md)
