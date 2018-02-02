@@ -11,5 +11,9 @@ There is no question that the Chinese leadership under President Xi Jinping has 
 ### [All 955 South African miners, who were stuck in the Beatrix gold mine near Welkom in central Free State province since Wednesday, have been brought to the surface. Earlier, 65 other workers were rescued. No serious injuries have been reported. The accident apparently happened when a strong storm knocked over an electricity pylon (electric power tower) triggering the huge power cut. ](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-the-beatrix-gold-mine-near-welkom-in-central-free-state-province-since-wednesday-have-been.md)
 The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
 
+##### Nunes memo
+### [United States president Donald Trump authorizes congress to release the Nunes memo against the wishes of the FBI, DOJ, and some bipartisan lawmakers that say it poses a national security risk. ](/news/2018/02/2/united-states-president-donald-trump-authorizes-congress-to-release-the-nunes-memo-against-the-wishes-of-the-fbi-doj-and-some-bipartisan-l.md)
+The president got into step with Republican allies who have spent months attacking what they call bias in the FBI and Justice Department. Critics warn this situation is perilous. 
+
 ## [Previous Day...](/news/2018/02/1/index.md)
 
