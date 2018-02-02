@@ -6,7 +6,7 @@ Formats: [HTML](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-t
 ##### South Africa
 # All 955 South African miners, who were stuck in the Beatrix gold mine near Welkom in central Free State province since Wednesday, have been brought to the surface. Earlier, 65 other workers were rescued. No serious injuries have been reported. The accident apparently happened when a strong storm knocked over an electricity pylon (electric power tower) triggering the huge power cut. 
 
-
+The South African workers had been stuck since Wednesday, when a power cut stopped the lifts.
 
 
 ### Sources:
@@ -14,6 +14,7 @@ Formats: [HTML](/news/2018/02/2/all-955-south-african-miners-who-were-stuck-in-t
 1. [BBC](http://www.bbc.com/news/world-africa-42914132)
 2. [OkayAfrica](http://www.okayafrica.com/950-south-african-miners-are-trapped-underground/)
 3. [Reuters](https://www.reuters.com/article/us-sibanye-gold-miners/workers-who-were-trapped-in-south-africa-gold-mine-brought-to-surface-idUSKBN1FM0FY)
+3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/BE69/production/_99854784_a513f1fb-e596-4242-8691-9c70c43caa2d.jpg)
 
 ### Related:
 
